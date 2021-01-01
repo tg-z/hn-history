@@ -1,64 +1,80 @@
 [
   {
+    "title": "2021: CA law restricts delivery apps from listing restaurants without permission",
+    "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149",
+    "upvotes": 32,
+    "author": "supernova87a",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25601814"
+  },
+  {
     "title": "TabFS: Mount your Browser Tabs as a Filesystem",
     "url": "https://omar.website/tabfs/",
-    "upvotes": 405,
+    "upvotes": 441,
     "author": "thesephist",
-    "comments": 52,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=25600338"
   },
   {
     "title": "Eagle Cash",
     "url": "https://en.wikipedia.org/wiki/Eagle_Cash",
-    "upvotes": 29,
+    "upvotes": 39,
     "author": "enjoyyourlife",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25601571"
   },
   {
     "title": "SolarWinds hackers were able to access Microsoft source code",
     "url": "https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/",
-    "upvotes": 570,
+    "upvotes": 571,
     "author": "accountinhn",
-    "comments": 347,
+    "comments": 350,
     "link": "https://news.ycombinator.com/item?id=25595416"
   },
   {
     "title": "Why do we dream? A new theory on how it protects our brains",
     "url": "https://time.com/5925206/why-do-we-dream/",
-    "upvotes": 130,
+    "upvotes": 138,
     "author": "jdnier",
-    "comments": 53,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=25590022"
   },
   {
     "title": "The naval shipworm helped bring about the Industrial Revolution",
     "url": "https://twitter.com/davidfickling/status/1344404814256504832",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "mstats",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25600711"
   },
   {
     "title": "Shigeru Miyamoto wants to create a kinder world",
     "url": "https://www.newyorker.com/culture/the-new-yorker-interview/shigeru-miyamoto-wants-to-create-a-kinder-world",
-    "upvotes": 160,
+    "upvotes": 164,
     "author": "polm23",
-    "comments": 105,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=25591202"
   },
   {
     "title": "Best of HN 2020",
     "url": "https://hn.algolia.com/?dateEnd=1609415804&dateRange=custom&dateStart=1577836800&page=0&prefix=false&query=&sort=byPopularity&type=story",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "richardboegli",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25600011"
+  },
+  {
+    "title": "The Wonderful Uses of Asbestos",
+    "url": "https://www.youtube.com/watch?v=HxfZSEboVM4",
+    "upvotes": 24,
+    "author": "zeristor",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25596436"
   },
   {
     "title": "Sparse Matrices",
     "url": "https://matteding.github.io/2019/04/25/sparse-matrices",
-    "upvotes": 14,
+    "upvotes": 23,
     "author": "tremguy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25601288"
@@ -66,173 +82,157 @@
   {
     "title": "The Design of the Roland Juno Syntheziser's Oscillators",
     "url": "https://blog.thea.codes/the-design-of-the-juno-dco/",
-    "upvotes": 137,
+    "upvotes": 146,
     "author": "cushychicken",
-    "comments": 43,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=25598656"
-  },
-  {
-    "title": "Reverse Engineering Source Code of the Biontech Pfizer Vaccine: Part 2",
-    "url": "https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/",
-    "upvotes": 118,
-    "author": "soheilpro",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25598270"
   },
   {
     "title": "Raycast",
     "url": "https://raycast.com/jobs"
   },
   {
-    "title": "The Wonderful Uses of Asbestos",
-    "url": "https://www.youtube.com/watch?v=HxfZSEboVM4",
-    "upvotes": 19,
-    "author": "zeristor",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25596436"
+    "title": "Reverse Engineering Source Code of the Biontech Pfizer Vaccine: Part 2",
+    "url": "https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/",
+    "upvotes": 131,
+    "author": "soheilpro",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25598270"
+  },
+  {
+    "title": "What Happened In 2020",
+    "url": "https://avc.com/2020/12/what-happened-in-2020/",
+    "upvotes": 4,
+    "author": "pixelmonkey",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25592183"
   },
   {
     "title": "Beowulf: A New Translation",
     "url": "https://us.macmillan.com/excerpt?isbn=9780374720155",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "flannery",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25596627"
   },
   {
     "title": "“Odd Radio Circles” have astronomers excited",
     "url": "https://singularityhub.com/2020/12/30/wtf-newly-discovered-ghostly-circles-in-the-sky-cant-be-explained-by-current-theories-and-astronomers-are-excited/",
-    "upvotes": 158,
+    "upvotes": 163,
     "author": "huntermeyer",
-    "comments": 70,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=25597430"
   },
   {
     "title": "USDS Digital Services Playbook",
     "url": "https://playbook.cio.gov/",
-    "upvotes": 168,
+    "upvotes": 171,
     "author": "tomrod",
     "comments": 84,
     "link": "https://news.ycombinator.com/item?id=25595830"
   },
   {
-    "title": "Happy New Year HN",
-    "url": "item?id=25595865",
-    "upvotes": 848,
-    "author": "thunderbong",
-    "comments": 208,
-    "link": "https://news.ycombinator.com/item?id=25595865"
-  },
-  {
     "title": "The largest dam-removal in US history",
     "url": "https://www.bbc.com/future/article/20201110-the-largest-dam-removal-project-in-american-history",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "pseudolus",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25600578"
+  },
+  {
+    "title": "Happy New Year HN",
+    "url": "item?id=25595865",
+    "upvotes": 864,
+    "author": "thunderbong",
+    "comments": 211,
+    "link": "https://news.ycombinator.com/item?id=25595865"
   },
   {
     "title": "Show HN: SharePad.io – A collaborative code editor and compiler",
     "url": "https://www.sharepad.io/",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "yufw",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25600491"
-  },
-  {
-    "title": "Deterministic Aperture: A distributed, load balancing algorithm",
-    "url": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html",
-    "upvotes": 118,
-    "author": "theBashShell",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25596645"
   },
   {
     "title": "Probabilistic Machine Learning: An Introduction",
     "url": "https://probml.github.io/pml-book/book1.html",
-    "upvotes": 247,
+    "upvotes": 255,
     "author": "joaorico",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25593262"
   },
   {
+    "title": "Deterministic Aperture: A distributed, load balancing algorithm",
+    "url": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html",
+    "upvotes": 119,
+    "author": "theBashShell",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25596645"
+  },
+  {
     "title": "Google pilots a feature that aggregates short-form videos from TikTok, Instagram",
     "url": "https://techcrunch.com/2020/12/29/google-pilots-a-search-feature-that-aggregates-short-form-videos-from-tiktok-and-instagram/",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "elsewhen",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25581152"
+  },
+  {
+    "title": "When You’re Outnumbered: Lessons from Two British Masters of Irregular Warfare",
+    "url": "https://warontherocks.com/2020/08/when-youre-outnumbered-lessons-from-two-british-masters-of-irregular-warfare/",
+    "upvotes": 4,
+    "author": "magda_wang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25601615"
   },
   {
     "title": "Are you a “harbinger of failure”?",
     "url": "https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "traumivator",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25590517"
   },
   {
     "title": "How to write good prompts: using spaced repetition to create understanding",
     "url": "https://andymatuschak.org/prompts/",
-    "upvotes": 71,
+    "upvotes": 72,
     "author": "bingden",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25600108"
   },
   {
-    "title": "When Nintendo fought a device that gave Mario 'new superpowers'",
-    "url": "https://www.cbc.ca/archives/super-mario-enhancer-1990-1.5799393",
-    "upvotes": 80,
-    "author": "avery42",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25596587"
-  },
-  {
     "title": "Ask HN: Predictions for 2021?",
     "url": "item?id=25594068",
-    "upvotes": 128,
+    "upvotes": 133,
     "author": "rvz",
-    "comments": 161,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=25594068"
   },
   {
-    "title": "A little puzzle with printf",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/PrintfAndArgumentPassing",
-    "upvotes": 6,
-    "author": "emptybits",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25584196"
+    "title": "When Nintendo fought a device that gave Mario 'new superpowers'",
+    "url": "https://www.cbc.ca/archives/super-mario-enhancer-1990-1.5799393",
+    "upvotes": 82,
+    "author": "avery42",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25596587"
   },
   {
     "title": "Pure Digital CSS, Swiss Made, Clock – No JavaScript, almost no HTML",
     "url": "https://www.quaxio.com/pure_css_digital_clock.html",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "IceWreck",
-    "comments": 76,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=25595439"
   },
   {
     "title": "Most of what you read on the internet is written by insane people",
     "url": "https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/",
-    "upvotes": 216,
+    "upvotes": 226,
     "author": "zuhayeer",
-    "comments": 137,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=25600274"
-  },
-  {
-    "title": "Yamaha’s DX7 synthesiser changed modern music",
-    "url": "https://www.economist.com/prospero/2020/12/31/yamahas-dx7-synthesiser-changed-modern-music",
-    "upvotes": 47,
-    "author": "aluket",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=25592265"
-  },
-  {
-    "title": "The Safecracker of Last Resort",
-    "url": "https://www.theatlantic.com/technology/archive/2018/12/professional-safecracker-reveals-his-craft/577897/",
-    "upvotes": 62,
-    "author": "wallflower",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=25596355"
   }
 ]
