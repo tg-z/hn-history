@@ -2,47 +2,51 @@
   {
     "title": "TabFS: Mount your Browser Tabs as a Filesystem",
     "url": "https://omar.website/tabfs/",
-    "upvotes": 218,
+    "upvotes": 242,
     "author": "thesephist",
-    "comments": 23,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25600338"
   },
   {
     "title": "SolarWinds hackers were able to access Microsoft source code",
     "url": "https://msrc-blog.microsoft.com/2020/12/31/microsoft-internal-solorigate-investigation-update/",
-    "upvotes": 549,
+    "upvotes": 551,
     "author": "accountinhn",
     "comments": 337,
     "link": "https://news.ycombinator.com/item?id=25595416"
   },
   {
-    "title": "Why do we dream? A new theory on how it protects our brains",
-    "url": "https://time.com/5925206/why-do-we-dream/",
-    "upvotes": 84,
-    "author": "jdnier",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25590022"
-  },
-  {
     "title": "The naval shipworm helped bring about the Industrial Revolution",
     "url": "https://twitter.com/davidfickling/status/1344404814256504832",
-    "upvotes": 41,
+    "upvotes": 49,
     "author": "mstats",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25600711"
   },
   {
+    "title": "Why do we dream? A new theory on how it protects our brains",
+    "url": "https://time.com/5925206/why-do-we-dream/",
+    "upvotes": 90,
+    "author": "jdnier",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=25590022"
+  },
+  {
     "title": "Shigeru Miyamoto wants to create a kinder world",
     "url": "https://www.newyorker.com/culture/the-new-yorker-interview/shigeru-miyamoto-wants-to-create-a-kinder-world",
-    "upvotes": 126,
+    "upvotes": 135,
     "author": "polm23",
-    "comments": 90,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=25591202"
+  },
+  {
+    "title": "Raycast",
+    "url": "https://raycast.com/jobs"
   },
   {
     "title": "The Design of the Roland Juno Syntheziser's Oscillators",
     "url": "https://blog.thea.codes/the-design-of-the-juno-dco/",
-    "upvotes": 116,
+    "upvotes": 121,
     "author": "cushychicken",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25598656"
@@ -50,7 +54,7 @@
   {
     "title": "Best of HN 2020",
     "url": "https://hn.algolia.com/?dateEnd=1609415804&dateRange=custom&dateStart=1577836800&page=0&prefix=false&query=&sort=byPopularity&type=story",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "richardboegli",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25600011"
@@ -60,21 +64,21 @@
     "url": "https://www.economist.com/prospero/2020/12/31/yamahas-dx7-synthesiser-changed-modern-music",
     "upvotes": 30,
     "author": "aluket",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25592265"
   },
   {
     "title": "Reverse Engineering Source Code of the Biontech Pfizer Vaccine: Part 2",
     "url": "https://berthub.eu/articles/posts/part-2-reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/",
-    "upvotes": 96,
+    "upvotes": 99,
     "author": "soheilpro",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25598270"
   },
   {
     "title": "Beowulf: A New Translation",
     "url": "https://us.macmillan.com/excerpt?isbn=9780374720155",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "flannery",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25596627"
@@ -82,7 +86,7 @@
   {
     "title": "“Odd Radio Circles” have astronomers excited",
     "url": "https://singularityhub.com/2020/12/30/wtf-newly-discovered-ghostly-circles-in-the-sky-cant-be-explained-by-current-theories-and-astronomers-are-excited/",
-    "upvotes": 148,
+    "upvotes": 151,
     "author": "huntermeyer",
     "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25597430"
@@ -90,15 +94,15 @@
   {
     "title": "Happy New Year HN",
     "url": "item?id=25595865",
-    "upvotes": 792,
+    "upvotes": 800,
     "author": "thunderbong",
-    "comments": 205,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=25595865"
   },
   {
     "title": "USDS Digital Services Playbook",
     "url": "https://playbook.cio.gov/",
-    "upvotes": 160,
+    "upvotes": 161,
     "author": "tomrod",
     "comments": 82,
     "link": "https://news.ycombinator.com/item?id=25595830"
@@ -106,49 +110,49 @@
   {
     "title": "Deterministic Aperture: A distributed, load balancing algorithm",
     "url": "https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/daperture-load-balancer.html",
-    "upvotes": 112,
+    "upvotes": 115,
     "author": "theBashShell",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25596645"
   },
   {
-    "title": "How to write good prompts: using spaced repetition to create understanding",
-    "url": "https://andymatuschak.org/prompts/",
-    "upvotes": 56,
-    "author": "bingden",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25600108"
-  },
-  {
     "title": "The largest dam-removal in US history",
     "url": "https://www.bbc.com/future/article/20201110-the-largest-dam-removal-project-in-american-history",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "pseudolus",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25600578"
   },
   {
+    "title": "How to write good prompts: using spaced repetition to create understanding",
+    "url": "https://andymatuschak.org/prompts/",
+    "upvotes": 58,
+    "author": "bingden",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25600108"
+  },
+  {
     "title": "Probabilistic Machine Learning: An Introduction",
     "url": "https://probml.github.io/pml-book/book1.html",
-    "upvotes": 231,
+    "upvotes": 233,
     "author": "joaorico",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25593262"
   },
   {
     "title": "Are you a “harbinger of failure”?",
     "url": "https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "traumivator",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25590517"
   },
   {
     "title": "Most of what you read on the internet is written by insane people",
     "url": "https://www.reddit.com/r/slatestarcodex/comments/9rvroo/most_of_what_you_read_on_the_internet_is_written/",
-    "upvotes": 157,
+    "upvotes": 167,
     "author": "zuhayeer",
-    "comments": 102,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=25600274"
   },
   {
@@ -162,10 +166,26 @@
   {
     "title": "When Nintendo fought a device that gave Mario 'new superpowers'",
     "url": "https://www.cbc.ca/archives/super-mario-enhancer-1990-1.5799393",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "avery42",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25596587"
+  },
+  {
+    "title": "Ask HN: Predictions for 2021?",
+    "url": "item?id=25594068",
+    "upvotes": 98,
+    "author": "rvz",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=25594068"
+  },
+  {
+    "title": "Pure Digital CSS, Swiss Made, Clock – No JavaScript, almost no HTML",
+    "url": "https://www.quaxio.com/pure_css_digital_clock.html",
+    "upvotes": 117,
+    "author": "IceWreck",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=25595439"
   },
   {
     "title": "The economics of the human hair trade",
@@ -174,22 +194,6 @@
     "author": "yarapavan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25591935"
-  },
-  {
-    "title": "Pure Digital CSS, Swiss Made, Clock – No JavaScript, almost no HTML",
-    "url": "https://www.quaxio.com/pure_css_digital_clock.html",
-    "upvotes": 115,
-    "author": "IceWreck",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=25595439"
-  },
-  {
-    "title": "Ask HN: Predictions for 2021?",
-    "url": "item?id=25594068",
-    "upvotes": 96,
-    "author": "rvz",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=25594068"
   },
   {
     "title": "Factor Graph Grammars [pdf]",
@@ -226,17 +230,9 @@
   {
     "title": "Show HN: Wasmino = WASM and Arduino – Running Arduino Code in Browser",
     "url": "https://blog.yifangu.com/2020/12/30/wasmino-wasm-arduino-running-arduino-code-in-browser/",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "gyf304",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25581081"
-  },
-  {
-    "title": "What Is Life?",
-    "url": "https://berthub.eu/articles/posts/what-is-life/",
-    "upvotes": 117,
-    "author": "creolabs",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=25592916"
   }
 ]
