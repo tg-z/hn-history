@@ -2,47 +2,63 @@
   {
     "title": "A half-hour to learn Rust",
     "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
-    "upvotes": 346,
+    "upvotes": 401,
     "author": "selvan",
-    "comments": 57,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25610741"
   },
   {
     "title": "Horrifying PDF Experiments",
     "url": "https://github.com/osnr/horrifying-pdf-experiments",
-    "upvotes": 324,
+    "upvotes": 335,
     "author": "thesephist",
-    "comments": 100,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=25609321"
   },
   {
     "title": "A review of endianness bugs in Qt, and how they were fixed",
     "url": "https://mitya57.me/weblog/2021/01/qt-big-endian-history.html",
-    "upvotes": 28,
+    "upvotes": 37,
     "author": "pabs3",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25611172"
   },
   {
-    "title": "Create Terraform files using Python scripts",
-    "url": "https://github.com/mjuenema/python-terrascript",
-    "upvotes": 28,
-    "author": "sharjeelsayed",
+    "title": "US passes anti-corruption law that effectively bans anonymous shell companies",
+    "url": "https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html",
+    "upvotes": 39,
+    "author": "gscott",
     "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25611259"
+    "link": "https://news.ycombinator.com/item?id=25611883"
   },
   {
     "title": "How Graphviz thinks the USA is laid out",
     "url": "https://shitpost.plover.com/g/graphviz-usa.html",
-    "upvotes": 38,
+    "upvotes": 51,
     "author": "signa11",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25611053"
+  },
+  {
+    "title": "David Fincher, the Unhappiest Auteur",
+    "url": "https://www.nytimes.com/2021/01/01/movies/david-fincher.html",
+    "upvotes": 13,
+    "author": "prismatic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25607155"
+  },
+  {
+    "title": "Create Terraform files using Python scripts",
+    "url": "https://github.com/mjuenema/python-terrascript",
+    "upvotes": 32,
+    "author": "sharjeelsayed",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25611259"
   },
   {
     "title": "Getting Started in Robotics",
     "url": "https://allshire.org/getting-started-robotics/",
-    "upvotes": 175,
+    "upvotes": 184,
     "author": "networdtwo",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25608932"
@@ -50,193 +66,177 @@
   {
     "title": "C2nim: A tool to translate ANSI C code to Nim",
     "url": "https://github.com/nim-lang/c2nim",
-    "upvotes": 32,
+    "upvotes": 37,
     "author": "j-james",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25610996"
   },
   {
     "title": "Virtual Environments Demystified",
     "url": "https://meribold.org/python/2018/02/13/virtual-environments-9487/",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "meribold",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25611307"
-  },
-  {
-    "title": "Peter M. Neumann has died",
-    "url": "https://rjlipton.wordpress.com/2021/01/01/peter-m-neumann-1940-2020/",
-    "upvotes": 83,
-    "author": "furcyd",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25610070"
   },
   {
     "title": "What’s Entering Public Domain in 2021: The Great Gatsby, Music by Duke Ellington",
     "url": "https://www.openculture.com/2021/01/whats-entering-the-public-domain-in-2021.html",
-    "upvotes": 175,
+    "upvotes": 181,
     "author": "danso",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25603683"
   },
   {
     "title": "F# for fun and profit: Terms and Conditions",
     "url": "https://fsharpforfunandprofit.com/about/terms/",
-    "upvotes": 134,
+    "upvotes": 142,
     "author": "cratermoon",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25609669"
   },
   {
-    "title": "David Fincher, the Unhappiest Auteur",
-    "url": "https://www.nytimes.com/2021/01/01/movies/david-fincher.html",
-    "upvotes": 8,
-    "author": "prismatic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25607155"
+    "title": "Peter M. Neumann has died",
+    "url": "https://rjlipton.wordpress.com/2021/01/01/peter-m-neumann-1940-2020/",
+    "upvotes": 87,
+    "author": "furcyd",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25610070"
   },
   {
     "title": "Show HN: Compiled, buildtime atomic CSS in JavaScript and all your favorite APIs",
     "url": "https://compiledcssinjs.com/",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "madou",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25610949"
   },
   {
-    "title": "The Great Software Stagnation",
-    "url": "https://alarmingdevelopment.org/?p=1475",
-    "upvotes": 184,
-    "author": "azhenley",
-    "comments": 195,
-    "link": "https://news.ycombinator.com/item?id=25608241"
-  },
-  {
     "title": "Crossing 2000 Miles of Siberia to Reach One of the Most Isolated Cities on Earth",
     "url": "https://www.thedrive.com/news/38035/russian-off-roaders-crossed-2000-miles-of-siberia-to-reach-one-of-the-most-isolated-cities-on-earth",
-    "upvotes": 206,
+    "upvotes": 213,
     "author": "NaOH",
-    "comments": 63,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=25606769"
   },
   {
     "title": "TabFS: Mount your Browser Tabs as a Filesystem",
     "url": "https://omar.website/tabfs/",
-    "upvotes": 1157,
+    "upvotes": 1163,
     "author": "thesephist",
-    "comments": 173,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=25600338"
   },
   {
-    "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
-    "url": "http://pile.eleuther.ai/",
-    "upvotes": 178,
-    "author": "leogao",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25607809"
+    "title": "The Great Software Stagnation",
+    "url": "https://alarmingdevelopment.org/?p=1475",
+    "upvotes": 190,
+    "author": "azhenley",
+    "comments": 209,
+    "link": "https://news.ycombinator.com/item?id=25608241"
   },
   {
     "title": "A Simple and Dynamic Method for Consistent Productivity",
     "url": "https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "msaltz",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25610289"
   },
   {
-    "title": "US passes anti-corruption law that effectively bans anonymous shell companies",
-    "url": "https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html",
-    "upvotes": 9,
-    "author": "gscott",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25611883"
+    "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
+    "url": "http://pile.eleuther.ai/",
+    "upvotes": 184,
+    "author": "leogao",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=25607809"
   },
   {
-    "title": "California law bans delivery apps from listing a restaurant without an agreement",
-    "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149",
-    "upvotes": 1164,
-    "author": "supernova87a",
-    "comments": 569,
-    "link": "https://news.ycombinator.com/item?id=25601814"
+    "title": "The qualities of Robert Musil",
+    "url": "https://newcriterion.com/issues/1996/2/the-qualities-of-robert-musil",
+    "upvotes": 3,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25595067"
   },
   {
     "title": "Some of my favorite systems research reads from 2020",
     "url": "https://twitter.com/MarcJBrooker/status/1344779967276597249",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25598311"
   },
   {
+    "title": "Best Paper Awards in Computer Science in the Past 25 Years",
+    "url": "https://jeffhuang.com/best_paper_awards/",
+    "upvotes": 31,
+    "author": "lazyjeff",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25610531"
+  },
+  {
+    "title": "California law bans delivery apps from listing a restaurant without an agreement",
+    "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149",
+    "upvotes": 1167,
+    "author": "supernova87a",
+    "comments": 570,
+    "link": "https://news.ycombinator.com/item?id=25601814"
+  },
+  {
     "title": "The ‘Indiana Jones’ Supernatural Horror Movie That Almost Was",
     "url": "https://bloody-disgusting.com/editorials/3457215/indiana-jones-supernatural-horror-movie-almost/",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "tintinnabula",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25597097"
   },
   {
-    "title": "Best Paper Awards in Computer Science in the Past 25 Years",
-    "url": "https://jeffhuang.com/best_paper_awards/",
-    "upvotes": 28,
-    "author": "lazyjeff",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25610531"
+    "title": "Antique Ticker Tape Machines",
+    "url": "https://www.justcollecting.com/antiques/antique-ticker-tape-machines",
+    "upvotes": 3,
+    "author": "pjmlp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25611585"
   },
   {
     "title": "Cscope: A developer's tool for browsing source code",
     "url": "http://cscope.sourceforge.net/",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "phab",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25609259"
   },
   {
-    "title": "Koan: A word2vec negative sampling implementation with correct CBOW update",
-    "url": "https://github.com/bloomberg/koan",
-    "upvotes": 6,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25611252"
+    "title": "How Ray Kurzweil's 2019 predictions are faring",
+    "url": "https://www.militantfuturist.com/how-ray-kurzweils-2019-predictions-are-faring-pt-4/",
+    "upvotes": 63,
+    "author": "apsec112",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=25610275"
   },
   {
     "title": "Things I Didn't Learn in 2020",
     "url": "https://damnoptimist.substack.com/p/8-things-i-didnt-learn-in-2020",
-    "upvotes": 132,
+    "upvotes": 134,
     "author": "obesacantavit",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=25606199"
   },
   {
-    "title": "EU Signs €145B Declaration to Develop Next Gen Processors and 2nm Technology",
-    "url": "https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/",
-    "upvotes": 676,
-    "author": "simonpd",
-    "comments": 415,
-    "link": "https://news.ycombinator.com/item?id=25602950"
-  },
-  {
     "title": "One Year of Excalidraw",
     "url": "https://blog.excalidraw.com/one-year-of-excalidraw/",
-    "upvotes": 96,
+    "upvotes": 100,
     "author": "theBashShell",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25608336"
   },
   {
-    "title": "Peer-reviewed papers are getting increasingly boring",
-    "url": "https://lemire.me/blog/2021/01/01/peer-reviewed-papers-are-getting-increasingly-boring/",
-    "upvotes": 330,
-    "author": "ingve",
-    "comments": 168,
-    "link": "https://news.ycombinator.com/item?id=25605156"
-  },
-  {
-    "title": "How Ray Kurzweil's 2019 predictions are faring",
-    "url": "https://www.militantfuturist.com/how-ray-kurzweils-2019-predictions-are-faring-pt-4/",
-    "upvotes": 58,
-    "author": "apsec112",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=25610275"
+    "title": "EU Signs €145B Declaration to Develop Next Gen Processors and 2nm Technology",
+    "url": "https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/",
+    "upvotes": 682,
+    "author": "simonpd",
+    "comments": 416,
+    "link": "https://news.ycombinator.com/item?id=25602950"
   }
 ]
