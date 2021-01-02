@@ -2,87 +2,103 @@
   {
     "title": "Open Source Smartwatch",
     "url": "https://www.pine64.org/pinetime/",
-    "upvotes": 77,
+    "upvotes": 113,
     "author": "sytelus",
-    "comments": 19,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25612223"
   },
   {
     "title": "A half-hour to learn Rust",
     "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
-    "upvotes": 545,
+    "upvotes": 574,
     "author": "selvan",
-    "comments": 115,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=25610741"
   },
   {
     "title": "Lets talk about changelogs",
     "url": "https://raymii.org/s/blog/Rant_Lets_talk_about_changelogs.html",
-    "upvotes": 39,
+    "upvotes": 52,
     "author": "jandeboevrie",
-    "comments": 20,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25612176"
   },
   {
     "title": "CVE Stuffing",
     "url": "https://jerrygamblin.com/2020/12/17/cve-stuffing/",
-    "upvotes": 20,
+    "upvotes": 38,
     "author": "CapacitorSet",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25612429"
   },
   {
     "title": "Horrifying PDF Experiments",
     "url": "https://github.com/osnr/horrifying-pdf-experiments",
-    "upvotes": 375,
+    "upvotes": 383,
     "author": "thesephist",
-    "comments": 127,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=25609321"
   },
   {
     "title": "US passes anti-corruption law that effectively bans anonymous shell companies",
     "url": "https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html",
-    "upvotes": 129,
+    "upvotes": 154,
     "author": "gscott",
-    "comments": 51,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=25611883"
   },
   {
     "title": "How Graphviz thinks the USA is laid out",
     "url": "https://shitpost.plover.com/g/graphviz-usa.html",
-    "upvotes": 80,
+    "upvotes": 92,
     "author": "signa11",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25611053"
   },
   {
     "title": "David Fincher, the Unhappiest Auteur",
     "url": "https://www.nytimes.com/2021/01/01/movies/david-fincher.html",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "prismatic",
-    "comments": 10,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25607155"
   },
   {
     "title": "Getting Started in Robotics",
     "url": "https://allshire.org/getting-started-robotics/",
-    "upvotes": 204,
+    "upvotes": 210,
     "author": "networdtwo",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25608932"
+  },
+  {
+    "title": "ShenScript – An Implementation of the Shen Language for JavaScript",
+    "url": "https://shenscript.readthedocs.io",
+    "upvotes": 3,
+    "author": "felixr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25612662"
   },
   {
     "title": "Create Terraform files using Python scripts",
     "url": "https://github.com/mjuenema/python-terrascript",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "sharjeelsayed",
-    "comments": 23,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25611259"
+  },
+  {
+    "title": "Virtual Environments Demystified",
+    "url": "https://meribold.org/python/2018/02/13/virtual-environments-9487/",
+    "upvotes": 41,
+    "author": "meribold",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=25611307"
   },
   {
     "title": "C2nim: A tool to translate ANSI C code to Nim",
     "url": "https://github.com/nim-lang/c2nim",
-    "upvotes": 51,
+    "upvotes": 54,
     "author": "j-james",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25610996"
@@ -90,111 +106,79 @@
   {
     "title": "F# for fun and profit: Terms and Conditions",
     "url": "https://fsharpforfunandprofit.com/about/terms/",
-    "upvotes": 160,
+    "upvotes": 163,
     "author": "cratermoon",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25609669"
-  },
-  {
-    "title": "What’s Entering Public Domain in 2021: The Great Gatsby, Music by Duke Ellington",
-    "url": "https://www.openculture.com/2021/01/whats-entering-the-public-domain-in-2021.html",
-    "upvotes": 190,
-    "author": "danso",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=25603683"
-  },
-  {
-    "title": "A review of endianness bugs in Qt, and how they were fixed",
-    "url": "https://mitya57.me/weblog/2021/01/qt-big-endian-history.html",
-    "upvotes": 52,
-    "author": "pabs3",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=25611172"
   },
   {
     "title": "Peter M. Neumann has died",
     "url": "https://rjlipton.wordpress.com/2021/01/01/peter-m-neumann-1940-2020/",
-    "upvotes": 94,
+    "upvotes": 100,
     "author": "furcyd",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25610070"
   },
   {
-    "title": "Virtual Environments Demystified",
-    "url": "https://meribold.org/python/2018/02/13/virtual-environments-9487/",
-    "upvotes": 35,
-    "author": "meribold",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25611307"
-  },
-  {
     "title": "TabFS: Mount your Browser Tabs as a Filesystem",
     "url": "https://omar.website/tabfs/",
-    "upvotes": 1179,
+    "upvotes": 1186,
     "author": "thesephist",
-    "comments": 175,
+    "comments": 176,
     "link": "https://news.ycombinator.com/item?id=25600338"
+  },
+  {
+    "title": "A review of endianness bugs in Qt, and how they were fixed",
+    "url": "https://mitya57.me/weblog/2021/01/qt-big-endian-history.html",
+    "upvotes": 55,
+    "author": "pabs3",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=25611172"
+  },
+  {
+    "title": "Best Paper Awards in Computer Science in the Past 25 Years",
+    "url": "https://jeffhuang.com/best_paper_awards/",
+    "upvotes": 56,
+    "author": "lazyjeff",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25610531"
   },
   {
     "title": "The Great Software Stagnation",
     "url": "https://alarmingdevelopment.org/?p=1475",
-    "upvotes": 209,
+    "upvotes": 217,
     "author": "azhenley",
-    "comments": 235,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=25608241"
   },
   {
     "title": "A Simple and Dynamic Method for Consistent Productivity",
     "url": "https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "msaltz",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25610289"
   },
   {
-    "title": "Best Paper Awards in Computer Science in the Past 25 Years",
-    "url": "https://jeffhuang.com/best_paper_awards/",
-    "upvotes": 48,
-    "author": "lazyjeff",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25610531"
-  },
-  {
-    "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
-    "url": "http://pile.eleuther.ai/",
-    "upvotes": 195,
-    "author": "leogao",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25607809"
-  },
-  {
-    "title": "The 1950s plan for a Washington Square Highway",
-    "url": "https://ephemeralnewyork.wordpress.com/2014/04/12/the-1950s-plan-for-a-washington-square-highway/",
-    "upvotes": 4,
-    "author": "samclemens",
+    "title": "Doubting Thomas",
+    "url": "https://www.newyorker.com/books/page-turner/doubting-thomas",
+    "upvotes": 3,
+    "author": "pepys",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25589133"
+    "link": "https://news.ycombinator.com/item?id=25597686"
   },
   {
     "title": "California law bans delivery apps from listing a restaurant without an agreement",
     "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149",
-    "upvotes": 1185,
+    "upvotes": 1186,
     "author": "supernova87a",
-    "comments": 571,
+    "comments": 572,
     "link": "https://news.ycombinator.com/item?id=25601814"
-  },
-  {
-    "title": "Show HN: Compiled, buildtime atomic CSS in JavaScript and all your favorite APIs",
-    "url": "https://compiledcssinjs.com/",
-    "upvotes": 30,
-    "author": "madou",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25610949"
   },
   {
     "title": "Some of my favorite systems research reads from 2020",
     "url": "https://twitter.com/MarcJBrooker/status/1344779967276597249",
-    "upvotes": 82,
+    "upvotes": 86,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25598311"
@@ -202,23 +186,39 @@
   {
     "title": "Antique Ticker Tape Machines",
     "url": "https://www.justcollecting.com/antiques/antique-ticker-tape-machines",
-    "upvotes": 6,
+    "upvotes": 7,
     "author": "pjmlp",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25611585"
   },
   {
+    "title": "The 1950s plan for a Washington Square Highway",
+    "url": "https://ephemeralnewyork.wordpress.com/2014/04/12/the-1950s-plan-for-a-washington-square-highway/",
+    "upvotes": 4,
+    "author": "samclemens",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25589133"
+  },
+  {
     "title": "The ‘Indiana Jones’ Supernatural Horror Movie That Almost Was",
     "url": "https://bloody-disgusting.com/editorials/3457215/indiana-jones-supernatural-horror-movie-almost/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "tintinnabula",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25597097"
+  },
+  {
+    "title": "Show HN: Compiled, buildtime atomic CSS in JavaScript and all your favorite APIs",
+    "url": "https://compiledcssinjs.com/",
+    "upvotes": 32,
+    "author": "madou",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25610949"
   },
   {
     "title": "Cscope: A developer's tool for browsing source code",
     "url": "http://cscope.sourceforge.net/",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "phab",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25609259"
@@ -226,7 +226,7 @@
   {
     "title": "One Year of Excalidraw",
     "url": "https://blog.excalidraw.com/one-year-of-excalidraw/",
-    "upvotes": 113,
+    "upvotes": 117,
     "author": "theBashShell",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25608336"
@@ -234,9 +234,9 @@
   {
     "title": "EU Signs €145B Declaration to Develop Next Gen Processors and 2nm Technology",
     "url": "https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/",
-    "upvotes": 696,
+    "upvotes": 700,
     "author": "simonpd",
-    "comments": 427,
+    "comments": 428,
     "link": "https://news.ycombinator.com/item?id=25602950"
   }
 ]
