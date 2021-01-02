@@ -2,119 +2,143 @@
   {
     "title": "Open Source Smartwatch",
     "url": "https://www.pine64.org/pinetime/",
-    "upvotes": 113,
+    "upvotes": 159,
     "author": "sytelus",
-    "comments": 36,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25612223"
   },
   {
     "title": "A half-hour to learn Rust",
     "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
-    "upvotes": 574,
+    "upvotes": 613,
     "author": "selvan",
-    "comments": 126,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=25610741"
   },
   {
     "title": "Lets talk about changelogs",
     "url": "https://raymii.org/s/blog/Rant_Lets_talk_about_changelogs.html",
-    "upvotes": 52,
+    "upvotes": 61,
     "author": "jandeboevrie",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25612176"
+  },
+  {
+    "title": "Facebook's advertising integrity chief leaves company",
+    "url": "https://www.reuters.com/article/us-facebook-executive-idUSKBN2962M6",
+    "upvotes": 19,
+    "author": "elsewhen",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25612786"
   },
   {
     "title": "CVE Stuffing",
     "url": "https://jerrygamblin.com/2020/12/17/cve-stuffing/",
-    "upvotes": 38,
+    "upvotes": 57,
     "author": "CapacitorSet",
-    "comments": 5,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25612429"
+  },
+  {
+    "title": "WSL2 corrupting Git repositories and shell history",
+    "url": "https://github.com/microsoft/WSL2-Linux-Kernel/issues/168",
+    "upvotes": 9,
+    "author": "delduca",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25612962"
   },
   {
     "title": "Horrifying PDF Experiments",
     "url": "https://github.com/osnr/horrifying-pdf-experiments",
-    "upvotes": 383,
+    "upvotes": 386,
     "author": "thesephist",
-    "comments": 129,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=25609321"
-  },
-  {
-    "title": "US passes anti-corruption law that effectively bans anonymous shell companies",
-    "url": "https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html",
-    "upvotes": 154,
-    "author": "gscott",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=25611883"
-  },
-  {
-    "title": "How Graphviz thinks the USA is laid out",
-    "url": "https://shitpost.plover.com/g/graphviz-usa.html",
-    "upvotes": 92,
-    "author": "signa11",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25611053"
-  },
-  {
-    "title": "David Fincher, the Unhappiest Auteur",
-    "url": "https://www.nytimes.com/2021/01/01/movies/david-fincher.html",
-    "upvotes": 37,
-    "author": "prismatic",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25607155"
-  },
-  {
-    "title": "Getting Started in Robotics",
-    "url": "https://allshire.org/getting-started-robotics/",
-    "upvotes": 210,
-    "author": "networdtwo",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=25608932"
   },
   {
     "title": "ShenScript – An Implementation of the Shen Language for JavaScript",
     "url": "https://shenscript.readthedocs.io",
-    "upvotes": 3,
+    "upvotes": 11,
     "author": "felixr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25612662"
   },
   {
+    "title": "US passes anti-corruption law that effectively bans anonymous shell companies",
+    "url": "https://www.independent.co.uk/news/world/americas/us-passes-historic-anti-corruption-legislation-that-effectively-bans-anonymous-shell-companies-b1781380.html",
+    "upvotes": 182,
+    "author": "gscott",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=25611883"
+  },
+  {
+    "title": "How Graphviz thinks the USA is laid out",
+    "url": "https://shitpost.plover.com/g/graphviz-usa.html",
+    "upvotes": 102,
+    "author": "signa11",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25611053"
+  },
+  {
+    "title": "David Fincher, the Unhappiest Auteur",
+    "url": "https://www.nytimes.com/2021/01/01/movies/david-fincher.html",
+    "upvotes": 40,
+    "author": "prismatic",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25607155"
+  },
+  {
+    "title": "Getting Started in Robotics",
+    "url": "https://allshire.org/getting-started-robotics/",
+    "upvotes": 217,
+    "author": "networdtwo",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25608932"
+  },
+  {
+    "title": "Nobel Prize speech from the inventor of PCR, Kary Mullis",
+    "url": "https://www.nobelprize.org/prizes/chemistry/1993/mullis/lecture/",
+    "upvotes": 4,
+    "author": "eigenvalue",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25595791"
+  },
+  {
     "title": "Create Terraform files using Python scripts",
     "url": "https://github.com/mjuenema/python-terrascript",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "sharjeelsayed",
-    "comments": 27,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25611259"
-  },
-  {
-    "title": "Virtual Environments Demystified",
-    "url": "https://meribold.org/python/2018/02/13/virtual-environments-9487/",
-    "upvotes": 41,
-    "author": "meribold",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25611307"
-  },
-  {
-    "title": "C2nim: A tool to translate ANSI C code to Nim",
-    "url": "https://github.com/nim-lang/c2nim",
-    "upvotes": 54,
-    "author": "j-james",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25610996"
   },
   {
     "title": "F# for fun and profit: Terms and Conditions",
     "url": "https://fsharpforfunandprofit.com/about/terms/",
-    "upvotes": 163,
+    "upvotes": 172,
     "author": "cratermoon",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25609669"
   },
   {
+    "title": "Virtual Environments Demystified",
+    "url": "https://meribold.org/python/2018/02/13/virtual-environments-9487/",
+    "upvotes": 45,
+    "author": "meribold",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25611307"
+  },
+  {
+    "title": "C2nim: A tool to translate ANSI C code to Nim",
+    "url": "https://github.com/nim-lang/c2nim",
+    "upvotes": 57,
+    "author": "j-james",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25610996"
+  },
+  {
     "title": "Peter M. Neumann has died",
     "url": "https://rjlipton.wordpress.com/2021/01/01/peter-m-neumann-1940-2020/",
-    "upvotes": 100,
+    "upvotes": 109,
     "author": "furcyd",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25610070"
@@ -122,47 +146,39 @@
   {
     "title": "TabFS: Mount your Browser Tabs as a Filesystem",
     "url": "https://omar.website/tabfs/",
-    "upvotes": 1186,
+    "upvotes": 1191,
     "author": "thesephist",
-    "comments": 176,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=25600338"
   },
   {
-    "title": "A review of endianness bugs in Qt, and how they were fixed",
-    "url": "https://mitya57.me/weblog/2021/01/qt-big-endian-history.html",
-    "upvotes": 55,
-    "author": "pabs3",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25611172"
+    "title": "Meals based on vegetable protein sources",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/27765144/",
+    "upvotes": 3,
+    "author": "doener",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25612593"
   },
   {
     "title": "Best Paper Awards in Computer Science in the Past 25 Years",
     "url": "https://jeffhuang.com/best_paper_awards/",
-    "upvotes": 56,
+    "upvotes": 64,
     "author": "lazyjeff",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25610531"
   },
   {
-    "title": "The Great Software Stagnation",
-    "url": "https://alarmingdevelopment.org/?p=1475",
-    "upvotes": 217,
-    "author": "azhenley",
-    "comments": 242,
-    "link": "https://news.ycombinator.com/item?id=25608241"
-  },
-  {
     "title": "A Simple and Dynamic Method for Consistent Productivity",
     "url": "https://matthewsaltz.wordpress.com/2020/11/24/a-simple-and-dynamic-method-for-consistent-productivity/",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "msaltz",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25610289"
   },
   {
     "title": "Doubting Thomas",
     "url": "https://www.newyorker.com/books/page-turner/doubting-thomas",
-    "upvotes": 3,
+    "upvotes": 5,
     "author": "pepys",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25597686"
@@ -170,18 +186,34 @@
   {
     "title": "California law bans delivery apps from listing a restaurant without an agreement",
     "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201920200AB2149",
-    "upvotes": 1186,
+    "upvotes": 1189,
     "author": "supernova87a",
     "comments": 572,
     "link": "https://news.ycombinator.com/item?id=25601814"
   },
   {
+    "title": "The ‘Indiana Jones’ Supernatural Horror Movie That Almost Was",
+    "url": "https://bloody-disgusting.com/editorials/3457215/indiana-jones-supernatural-horror-movie-almost/",
+    "upvotes": 38,
+    "author": "tintinnabula",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=25597097"
+  },
+  {
     "title": "Some of my favorite systems research reads from 2020",
     "url": "https://twitter.com/MarcJBrooker/status/1344779967276597249",
-    "upvotes": 86,
+    "upvotes": 91,
     "author": "luu",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25598311"
+  },
+  {
+    "title": "Show HN: Compiled, buildtime atomic CSS in JavaScript and all your favorite APIs",
+    "url": "https://compiledcssinjs.com/",
+    "upvotes": 36,
+    "author": "madou",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25610949"
   },
   {
     "title": "Antique Ticker Tape Machines",
@@ -192,51 +224,19 @@
     "link": "https://news.ycombinator.com/item?id=25611585"
   },
   {
-    "title": "The 1950s plan for a Washington Square Highway",
-    "url": "https://ephemeralnewyork.wordpress.com/2014/04/12/the-1950s-plan-for-a-washington-square-highway/",
-    "upvotes": 4,
-    "author": "samclemens",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25589133"
+    "title": "Koan: A word2vec negative sampling implementation with correct CBOW update",
+    "url": "https://github.com/bloomberg/koan",
+    "upvotes": 16,
+    "author": "polm23",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25611252"
   },
   {
-    "title": "The ‘Indiana Jones’ Supernatural Horror Movie That Almost Was",
-    "url": "https://bloody-disgusting.com/editorials/3457215/indiana-jones-supernatural-horror-movie-almost/",
-    "upvotes": 33,
-    "author": "tintinnabula",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25597097"
-  },
-  {
-    "title": "Show HN: Compiled, buildtime atomic CSS in JavaScript and all your favorite APIs",
-    "url": "https://compiledcssinjs.com/",
-    "upvotes": 32,
-    "author": "madou",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25610949"
-  },
-  {
-    "title": "Cscope: A developer's tool for browsing source code",
-    "url": "http://cscope.sourceforge.net/",
-    "upvotes": 68,
-    "author": "phab",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=25609259"
-  },
-  {
-    "title": "One Year of Excalidraw",
-    "url": "https://blog.excalidraw.com/one-year-of-excalidraw/",
-    "upvotes": 117,
-    "author": "theBashShell",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25608336"
-  },
-  {
-    "title": "EU Signs €145B Declaration to Develop Next Gen Processors and 2nm Technology",
-    "url": "https://www.eetimes.eu/eu-signs-e145bn-declaration-to-develop-next-gen-processors-and-2nm-technology/",
-    "upvotes": 700,
-    "author": "simonpd",
-    "comments": 428,
-    "link": "https://news.ycombinator.com/item?id=25602950"
+    "title": "A review of endianness bugs in Qt, and how they were fixed",
+    "url": "https://mitya57.me/weblog/2021/01/qt-big-endian-history.html",
+    "upvotes": 57,
+    "author": "pabs3",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=25611172"
   }
 ]
