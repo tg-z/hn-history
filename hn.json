@@ -1,66 +1,74 @@
 [
   {
-    "title": "A new release for GNU Octave",
-    "url": "https://lwn.net/Articles/840050/",
-    "upvotes": 113,
-    "author": "signa11",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=25620448"
-  },
-  {
     "title": "Opensource your abandonware",
     "url": "http://pulkomandy.tk/_/_Development/_Opensource%20your%20abandonware",
-    "upvotes": 81,
+    "upvotes": 100,
     "author": "app4soft",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25620785"
+  },
+  {
+    "title": "A new release for GNU Octave",
+    "url": "https://lwn.net/Articles/840050/",
+    "upvotes": 125,
+    "author": "signa11",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=25620448"
   },
   {
     "title": "2021 GPS Accuracy Issue Impacting Some Garmin, Suunto, other GPS Devices",
     "url": "https://www.dcrainmaker.com/2021/01/gps-accuracy-impacting-devices.html",
-    "upvotes": 125,
+    "upvotes": 133,
     "author": "dll",
-    "comments": 23,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25620372"
-  },
-  {
-    "title": "Show HN: Think an AI can’t write, design and code? Think again",
-    "url": "https://headlime.com/features/landing-page",
-    "upvotes": 28,
-    "author": "dannypostma",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25621407"
   },
   {
     "title": "Rust Design Patterns as a Book",
     "url": "https://rust-unofficial.github.io/patterns/",
-    "upvotes": 130,
+    "upvotes": 146,
     "author": "WnZ39p0Dgydaz1",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25620110"
+  },
+  {
+    "title": "GTK4 for Graphical User Interfaces",
+    "url": "http://ssalewski.de/gtkprogramming.html",
+    "upvotes": 3,
+    "author": "chauhankiran",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25621700"
+  },
+  {
+    "title": "Idyll – toolkit for creating data-driven stories and explorable explanations",
+    "url": "https://idyll-lang.org/",
+    "upvotes": 10,
+    "author": "felixr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25611425"
   },
   {
     "title": "Zig in 30 Minutes",
     "url": "https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50",
-    "upvotes": 195,
+    "upvotes": 199,
     "author": "dnautics",
-    "comments": 74,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=25618302"
   },
   {
     "title": "Apple reverses stance on Amphetamine App",
     "url": "https://www.engadget.com/apple-will-not-ban-mac-app-amphetamine-from-store-224919743.html",
-    "upvotes": 214,
+    "upvotes": 222,
     "author": "camhart",
-    "comments": 125,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=25618245"
   },
   {
     "title": "Tell HN: Please update your DNS records when abandoning servers",
     "url": "item?id=25621519",
-    "upvotes": 13,
+    "upvotes": 25,
     "author": "mwgarcia",
-    "comments": 4,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25621519"
   },
   {
@@ -70,15 +78,23 @@
   {
     "title": "Encrypted Backup Shootout",
     "url": "https://acha.ninja/blog/encrypted_backup_shootout/",
-    "upvotes": 166,
+    "upvotes": 175,
     "author": "andrewchambers",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=25618346"
+  },
+  {
+    "title": "Dockerfile Best Practices",
+    "url": "https://github.com/hexops/dockerfile",
+    "upvotes": 90,
+    "author": "sidcool",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25619319"
   },
   {
     "title": "Handtrack.js: A library for prototyping realtime hand detection in the browser",
     "url": "https://github.com/victordibia/handtrack.js",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "lazyjeff",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25619440"
@@ -86,55 +102,47 @@
   {
     "title": "Reviving the 1973 Unix text to voice translator",
     "url": "https://www.spinellis.gr/blog/20210102/",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "ingve",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25620635"
-  },
-  {
-    "title": "Dockerfile Best Practices",
-    "url": "https://github.com/hexops/dockerfile",
-    "upvotes": 80,
-    "author": "sidcool",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=25619319"
-  },
-  {
-    "title": "On Repl-Driven Programming",
-    "url": "http://mikelevins.github.io/posts/2020-12-18-repl-driven/",
-    "upvotes": 84,
-    "author": "todsacerdoti",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=25620256"
   },
   {
     "title": "The Perfect Media Server",
     "url": "https://perfectmediaserver.com/",
-    "upvotes": 89,
+    "upvotes": 97,
     "author": "hanklazard",
-    "comments": 26,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25619137"
+  },
+  {
+    "title": "Show HN: Think an AI can’t write, design and code? Think again",
+    "url": "https://headlime.com/features/landing-page",
+    "upvotes": 45,
+    "author": "dannypostma",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25621407"
+  },
+  {
+    "title": "On Repl-Driven Programming",
+    "url": "http://mikelevins.github.io/posts/2020-12-18-repl-driven/",
+    "upvotes": 93,
+    "author": "todsacerdoti",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=25620256"
   },
   {
     "title": "A product framework for explaining why Superhuman is the Sublime Text for Email",
     "url": "http://www.growthalytics.com/startups/programming/product/2021/01/02/the-sublime-text-editor-of-x/",
-    "upvotes": 23,
+    "upvotes": 24,
     "author": "mastermojo",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25620176"
-  },
-  {
-    "title": "Ordered Key-Value Stores",
-    "url": "https://hyper.dev/ordered-key-value-stores.html",
-    "upvotes": 23,
-    "author": "timhigins",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25620137"
   },
   {
     "title": "Ray Bradbury at 100: A Conversation Between Sam Weller and Dana Gioia",
     "url": "https://lareviewofbooks.org/article/ray-bradbury-at-100-a-conversation-between-sam-weller-and-dana-gioia/",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "andrewem",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25619444"
@@ -142,97 +150,89 @@
   {
     "title": "The “Uncanny Valley” and How Artists Have Explored It",
     "url": "https://www.artsy.net/article/artsy-editorial-artists-love-eerie-sensation-characters-human",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "rbanffy",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25612362"
   },
   {
-    "title": "Show HN: I made a free documentation tool",
-    "url": "https://sidepage.co",
-    "upvotes": 21,
-    "author": "jakeprins",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25620688"
+    "title": "Ordered Key-Value Stores",
+    "url": "https://hyper.dev/ordered-key-value-stores.html",
+    "upvotes": 23,
+    "author": "timhigins",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25620137"
   },
   {
     "title": "Show HN: I shot high-res stitched panoramas in Iceland using a thermal camera",
     "url": "https://petapixel.com/2019/07/13/shooting-high-res-thermal-photos-of-iceland-to-show-nature-at-work/?q=5",
-    "upvotes": 664,
+    "upvotes": 670,
     "author": "dheera",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=25614167"
   },
   {
-    "title": "Pixar's Render Farm",
-    "url": "https://twitter.com/pixprin/status/1345146328058269696",
-    "upvotes": 342,
-    "author": "brundolf",
-    "comments": 268,
-    "link": "https://news.ycombinator.com/item?id=25615888"
+    "title": "Show HN: I made a free documentation tool",
+    "url": "https://sidepage.co",
+    "upvotes": 24,
+    "author": "jakeprins",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25620688"
   },
   {
     "title": "Interview with Morris Chang, founder of TSMC",
     "url": "https://www.youtube.com/watch?v=wEh3ZgbvBrE",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "Bluestein",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25611648"
+  },
+  {
+    "title": "Pixar's Render Farm",
+    "url": "https://twitter.com/pixprin/status/1345146328058269696",
+    "upvotes": 345,
+    "author": "brundolf",
+    "comments": 270,
+    "link": "https://news.ycombinator.com/item?id=25615888"
   },
   {
     "title": "WSL2 corrupting Git repositories and shell history",
     "url": "https://github.com/microsoft/WSL2-Linux-Kernel/issues/168",
-    "upvotes": 564,
+    "upvotes": 567,
     "author": "delduca",
-    "comments": 363,
+    "comments": 364,
     "link": "https://news.ycombinator.com/item?id=25612962"
   },
   {
     "title": "Open Source Smartwatch",
     "url": "https://www.pine64.org/pinetime/",
-    "upvotes": 649,
+    "upvotes": 654,
     "author": "sytelus",
     "comments": 231,
     "link": "https://news.ycombinator.com/item?id=25612223"
   },
   {
-    "title": "A half-hour to learn Rust",
-    "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
-    "upvotes": 1273,
-    "author": "selvan",
-    "comments": 298,
-    "link": "https://news.ycombinator.com/item?id=25610741"
-  },
-  {
     "title": "TabFS: Mount your Browser Tabs as a Filesystem",
     "url": "https://omar.website/tabfs/",
-    "upvotes": 1336,
+    "upvotes": 1337,
     "author": "thesephist",
     "comments": 218,
     "link": "https://news.ycombinator.com/item?id=25600338"
   },
   {
+    "title": "A half-hour to learn Rust",
+    "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
+    "upvotes": 1278,
+    "author": "selvan",
+    "comments": 302,
+    "link": "https://news.ycombinator.com/item?id=25610741"
+  },
+  {
     "title": "The Ongoing Accomplishment of the Big Five",
     "url": "https://carcinisation.com/2020/07/04/the-ongoing-accomplishment-of-the-big-five/",
-    "upvotes": 49,
+    "upvotes": 52,
     "author": "barry-cotter",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25618048"
-  },
-  {
-    "title": "The Eerie Beauty of the Apple Watch Solar Face, and the Anatomy of Nightfall",
-    "url": "https://www.hodinkee.com/articles/the-eerie-beauty-of-the-apple-watch-solar-face-and-the-anatomy-of-nightfall",
-    "upvotes": 216,
-    "author": "janniks",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=25617029"
-  },
-  {
-    "title": "Openstreetmap’s product fails to compete with Google Maps",
-    "url": "https://bedogged.substack.com/p/the-mobile-map-app-part-i-the-void",
-    "upvotes": 245,
-    "author": "liotier",
-    "comments": 184,
-    "link": "https://news.ycombinator.com/item?id=25615394"
   }
 ]
