@@ -2,47 +2,55 @@
   {
     "title": "Uber discovered they’d been defrauded out of 2/3 of their ad spend",
     "url": "https://twitter.com/nandoodles/status/1345774768746852353",
-    "upvotes": 1196,
+    "upvotes": 1242,
     "author": "rbanffy",
-    "comments": 628,
+    "comments": 651,
     "link": "https://news.ycombinator.com/item?id=25623858"
   },
   {
     "title": "ECC matters",
     "url": "https://www.realworldtech.com/forum/?threadid=198497&curpostid=198647",
-    "upvotes": 799,
+    "upvotes": 823,
     "author": "rajesh-s",
-    "comments": 453,
+    "comments": 459,
     "link": "https://news.ycombinator.com/item?id=25622322"
   },
   {
     "title": "URL shorteners set ad tracking cookies",
     "url": "https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies",
-    "upvotes": 286,
+    "upvotes": 301,
     "author": "firloop",
-    "comments": 131,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=25624112"
-  },
-  {
-    "title": "I logged my activities at 15-minute intervals for the whole year",
-    "url": "https://samplesize.one/blog/posts/my_year_in_data/",
-    "upvotes": 458,
-    "author": "HuangYuSan",
-    "comments": 236,
-    "link": "https://news.ycombinator.com/item?id=25623010"
   },
   {
     "title": "20 months, 2K hours, 200K € lost. A story about resilience and sunk cost fallacy",
     "url": "https://dsebastien.medium.com/20-months-in-2k-hours-spent-and-200k-lost-a-story-about-resilience-and-the-sunk-cost-fallacy-69fd4f61ef59",
-    "upvotes": 49,
+    "upvotes": 71,
     "author": "dSebastien",
-    "comments": 27,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=25627081"
+  },
+  {
+    "title": "I logged my activities at 15-minute intervals for the whole year",
+    "url": "https://samplesize.one/blog/posts/my_year_in_data/",
+    "upvotes": 472,
+    "author": "HuangYuSan",
+    "comments": 244,
+    "link": "https://news.ycombinator.com/item?id=25623010"
+  },
+  {
+    "title": "AMD Patent Reveals Hybrid CPU-FPGA Design That Could Be Enabled by Xilinx Tech",
+    "url": "https://hothardware.com/news/amd-patent-hybrid-cpu-fpga-design-xilinx",
+    "upvotes": 216,
+    "author": "craigjb",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=25623305"
   },
   {
     "title": "E.O. Wilson on Becoming a Great Scientist",
     "url": "https://fs.blog/2015/12/e-o-wilson-how-science-works/",
-    "upvotes": 28,
+    "upvotes": 36,
     "author": "MrXOR",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25620339"
@@ -50,47 +58,39 @@
   {
     "title": "Graphtoy",
     "url": "https://graphtoy.com/?f1(x,t)=sqrt(64-x*x)&v1=true&f2(x,t)=-f1(x,t)&v2=true&f3(x,t)=7/2-sqrt(9-(abs(x)-3.5)*(abs(x)-3.5))&v3=true&f4(x,t)=7/2+sqrt(9-(abs(x)-3.5)*(abs(x)-3.5))/2&v4=true&f5(x,t)=3+sqrt(1-(abs(x+sin(4*t)/2)-3)*(abs(x+sin(4*t)/2)-3))*2/3&v5=true&f6(x,t)=-3-sqrt(25-x*x)*(1/4+pow(0.5+0.5*sin(2*PI*t),6)/10)&v6=true",
-    "upvotes": 100,
+    "upvotes": 104,
     "author": "based2",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25612132"
   },
   {
-    "title": "AMD Patent Reveals Hybrid CPU-FPGA Design That Could Be Enabled by Xilinx Tech",
-    "url": "https://hothardware.com/news/amd-patent-hybrid-cpu-fpga-design-xilinx",
-    "upvotes": 203,
-    "author": "craigjb",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=25623305"
-  },
-  {
     "title": "Worldsheet: Wrapping the World in a 3D Sheet, View Synthesis from a Single Image",
     "url": "https://worldsheet.github.io/",
-    "upvotes": 57,
+    "upvotes": 62,
     "author": "ArtWomb",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25612663"
   },
   {
     "title": "Look Up Unknown Phone Numbers Using Facebook Reset Password",
     "url": "https://bytexd.com/look-up-unknown-phone-numbers/",
-    "upvotes": 90,
+    "upvotes": 97,
     "author": "punkspider",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=25624982"
   },
   {
     "title": "The Toyota Production System",
     "url": "https://blog.toyota.co.uk/toyota-production-system-glossary",
-    "upvotes": 144,
+    "upvotes": 149,
     "author": "louis-paul",
-    "comments": 58,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=25621133"
   },
   {
     "title": "Reviving Old X Code",
     "url": "https://keithp.com/blogs/kgames/",
-    "upvotes": 174,
+    "upvotes": 183,
     "author": "fcambus",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25623652"
@@ -98,111 +98,119 @@
   {
     "title": "How to open a file in Emacs: a story about Lisp, technology, and human progress",
     "url": "https://www.murilopereira.com/how-to-open-a-file-in-emacs/",
-    "upvotes": 196,
+    "upvotes": 204,
     "author": "mpereira",
-    "comments": 66,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=25622756"
   },
   {
     "title": "Rust is now overall faster than C in benchmarks",
     "url": "https://benchmarksgame-team.pages.debian.net/benchmarksgame/which-programs-are-fastest.html",
-    "upvotes": 472,
+    "upvotes": 497,
     "author": "wiineeth",
-    "comments": 273,
+    "comments": 282,
     "link": "https://news.ycombinator.com/item?id=25623634"
-  },
-  {
-    "title": "Mealworms can compost styrofoam",
-    "url": "https://livingearthsystems.com/mealworms-compost-styrofoam/",
-    "upvotes": 114,
-    "author": "rrauenza",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=25611162"
-  },
-  {
-    "title": "The Wire in HD",
-    "url": "http://davidsimon.com/the-wire-hd-with-videos/",
-    "upvotes": 96,
-    "author": "tosh",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=25625471"
   },
   {
     "title": "How to Stop Endless Discussions",
     "url": "https://candost.blog/how-to-stop-endless-discussions/",
-    "upvotes": 282,
+    "upvotes": 292,
     "author": "candost",
-    "comments": 75,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=25622149"
-  },
-  {
-    "title": "Why Clojure?",
-    "url": "https://briansunter.com/blog/why-clojure/",
-    "upvotes": 153,
-    "author": "bribri",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=25622528"
   },
   {
     "title": "On Repl-Driven Programming",
     "url": "http://mikelevins.github.io/posts/2020-12-18-repl-driven/",
-    "upvotes": 220,
+    "upvotes": 224,
     "author": "todsacerdoti",
-    "comments": 116,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=25620256"
+  },
+  {
+    "title": "Mealworms can compost styrofoam",
+    "url": "https://livingearthsystems.com/mealworms-compost-styrofoam/",
+    "upvotes": 120,
+    "author": "rrauenza",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=25611162"
+  },
+  {
+    "title": "Why Clojure?",
+    "url": "https://briansunter.com/blog/why-clojure/",
+    "upvotes": 159,
+    "author": "bribri",
+    "comments": 151,
+    "link": "https://news.ycombinator.com/item?id=25622528"
   },
   {
     "title": "Italy Will Rebuild Colosseum’s Floor",
     "url": "https://www.smithsonianmag.com/smart-news/italy-plans-install-floors-colosseum-1-180976635/",
-    "upvotes": 133,
+    "upvotes": 139,
     "author": "pseudolus",
-    "comments": 142,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=25622685"
-  },
-  {
-    "title": "Show HN: OpenScan – open-source document scanner app",
-    "url": "https://github.com/Ethereal-Developers-Inc/OpenScan",
-    "upvotes": 171,
-    "author": "mighty3xodus",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=25622095"
   },
   {
     "title": "Show HN: Pluto – macOS system monitor app",
     "url": "https://apps.apple.com/us/app/pluto-hud/id1544577573?mt=12",
-    "upvotes": 103,
+    "upvotes": 113,
     "author": "lupinglade",
-    "comments": 59,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25624718"
+  },
+  {
+    "title": "Show HN: OpenScan – open-source document scanner app",
+    "url": "https://github.com/Ethereal-Developers-Inc/OpenScan",
+    "upvotes": 175,
+    "author": "mighty3xodus",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25622095"
+  },
+  {
+    "title": "The Wire in HD",
+    "url": "http://davidsimon.com/the-wire-hd-with-videos/",
+    "upvotes": 100,
+    "author": "tosh",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=25625471"
   },
   {
     "title": "Philly scientist behind COVID vaccine tech was demoted by UPenn",
     "url": "https://billypenn.com/2020/12/29/university-pennsylvania-covid-vaccine-mrna-kariko-demoted-biontech-pfizer/",
-    "upvotes": 205,
+    "upvotes": 222,
     "author": "apsec112",
-    "comments": 99,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=25623616"
   },
   {
     "title": "Crush: Controlled, Scalable, Decentralized Placement of Replicated Data [pdf]",
     "url": "https://ceph.com/wp-content/uploads/2016/08/weil-crush-sc06.pdf",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "todsacerdoti",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25627091"
   },
   {
     "title": "Live Cells seen with 7x Greater Sensitivity using new Microscopy Technique",
     "url": "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00156.html",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "oedmarap",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25622675"
   },
   {
+    "title": "Britney Spears' Guide to Semiconductor Physics",
+    "url": "http://britneyspears.ac/lasers.htm",
+    "upvotes": 44,
+    "author": "doener",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25626532"
+  },
+  {
     "title": "What's good about offset pagination; designing parallel cursor-based web APIs",
     "url": "https://brandur.org/fragments/offset-pagination",
-    "upvotes": 79,
+    "upvotes": 80,
     "author": "clra",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25623125"
@@ -210,33 +218,25 @@
   {
     "title": "Computed goto for efficient dispatch tables",
     "url": "https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "henning",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25620445"
   },
   {
-    "title": "Castlevania III Password Algorithm",
-    "url": "https://meatfighter.com/castlevania3-password/",
-    "upvotes": 147,
-    "author": "kiyanwang",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25621966"
+    "title": "MIT 6.172: Performance Engineering of Software Systems",
+    "url": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/",
+    "upvotes": 15,
+    "author": "roperzh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25626315"
   },
   {
-    "title": "GTK4 for Graphical User Interfaces",
-    "url": "http://ssalewski.de/gtkprogramming.html",
-    "upvotes": 149,
-    "author": "chauhankiran",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=25621700"
-  },
-  {
-    "title": "Code Age vs. Time to Recall",
-    "url": "https://notoriousbfg.com/code-age-vs-time-to-recall",
-    "upvotes": 9,
-    "author": "trwhite",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25621596"
+    "title": "Unanswered user makes question their MS thesis and answers self 2 years later",
+    "url": "https://stackoverflow.com/questions/47444189/immediate-mode-gui-performance",
+    "upvotes": 281,
+    "author": "anderspitman",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=25624044"
   }
 ]
