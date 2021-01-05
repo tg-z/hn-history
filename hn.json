@@ -1,35 +1,59 @@
 [
   {
+    "title": "RSD is a open source high performance RISC-V Processor",
+    "url": "https://github.com/rsd-devel/rsd",
+    "upvotes": 23,
+    "author": "varbhat",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25644678"
+  },
+  {
+    "title": "Understanding Connections and Pools",
+    "url": "https://sudhir.io/understanding-connections-pools/",
+    "upvotes": 13,
+    "author": "sudhirj",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25644656"
+  },
+  {
     "title": "Ditherpunk: The article I wish I had about monochrome image dithering",
     "url": "https://surma.dev/things/ditherpunk/",
-    "upvotes": 1013,
+    "upvotes": 1049,
     "author": "todsacerdoti",
-    "comments": 152,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=25633483"
   },
   {
     "title": "A distributed key value store in under 1000 lines",
     "url": "https://github.com/geohot/minikeyvalue",
-    "upvotes": 93,
+    "upvotes": 108,
     "author": "Triv888",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25642062"
-  },
-  {
-    "title": "Show HN: Handel – A procedural programming language for writing songs in browser",
-    "url": "https://handel-pl.github.io",
-    "upvotes": 89,
-    "author": "ddj231",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25641420"
   },
   {
     "title": "GitHub blocks entire company because one employee was in Iran",
     "url": "https://twitter.com/sebslomski/status/1344219609923276801",
-    "upvotes": 83,
+    "upvotes": 167,
     "author": "PhilipTrauner",
-    "comments": 67,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=25644056"
+  },
+  {
+    "title": "Show HN: Handel – A procedural programming language for writing songs in browser",
+    "url": "https://handel-pl.github.io",
+    "upvotes": 103,
+    "author": "ddj231",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=25641420"
+  },
+  {
+    "title": "Busiest hour ever in the history of Gov.uk 17M page requests just 21 5xx errors",
+    "url": "https://twitter.com/TheRealNooshu/status/1346183432876019712",
+    "upvotes": 25,
+    "author": "robtaylor",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25644605"
   },
   {
     "title": "LayerCI",
@@ -38,159 +62,151 @@
   {
     "title": "ZX81 Webserver",
     "url": "http://zx81-siggi.zx-team.org/index.html",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "nickt",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=25638936"
   },
   {
     "title": "An experimental open source memristor / programmable “diode”",
     "url": "https://bigattichouse.medium.com/an-experimental-open-source-memristor-programmable-diode-4476c1874d72",
-    "upvotes": 227,
+    "upvotes": 234,
     "author": "psawaya",
-    "comments": 53,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25640658"
-  },
-  {
-    "title": "Show HN: I made an alternative platform for professional profiles",
-    "url": "https://read.cv",
-    "upvotes": 806,
-    "author": "_andychung",
-    "comments": 291,
-    "link": "https://news.ycombinator.com/item?id=25634192"
   },
   {
     "title": "LibreSSL Languishes on Linux",
     "url": "https://lwn.net/SubscriberLink/841664/0ba4265680b9dadf/",
-    "upvotes": 100,
+    "upvotes": 110,
     "author": "lukastyrychtr",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25639691"
+  },
+  {
+    "title": "Show HN: I made an alternative platform for professional profiles",
+    "url": "https://read.cv",
+    "upvotes": 828,
+    "author": "_andychung",
+    "comments": 295,
+    "link": "https://news.ycombinator.com/item?id=25634192"
   },
   {
     "title": "Evidence for entropy maximisation in human free choice behaviour",
     "url": "https://psyarxiv.com/3ntku/",
-    "upvotes": 50,
+    "upvotes": 56,
     "author": "Gaessaki",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25641518"
-  },
-  {
-    "title": "Physics Without Probability",
-    "url": "https://www.youtube.com/watch?v=wfzSE4Hoxbc",
-    "upvotes": 37,
-    "author": "sytelus",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=25641817"
-  },
-  {
-    "title": "Load testing is hard, and the tools are not great. But why?",
-    "url": "https://ntietz.com/tech-blog/load-testing-is-hard-but-why/",
-    "upvotes": 47,
-    "author": "ntietz",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25641234"
-  },
-  {
-    "title": "EFF to FinCEN: Stop Pushing for More Financial Surveillance",
-    "url": "https://www.eff.org/deeplinks/2021/01/eff-fincen-stop-pushing-more-financial-surveillance",
-    "upvotes": 118,
-    "author": "panarky",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=25642486"
   },
   {
     "title": "Payment processor for Amazon India had leak of over 100M users",
     "url": "https://www.businessinsider.in/tech/news/over-100-million-debit-and-credit-card-users-data-has-been-leaked-online-from-payments-processor-juspay-amazon-and-swiggy/articleshow/80096472.cms",
-    "upvotes": 15,
+    "upvotes": 25,
     "author": "LordAtlas",
-    "comments": 5,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25644187"
+  },
+  {
+    "title": "Load testing is hard, and the tools are not great. But why?",
+    "url": "https://ntietz.com/tech-blog/load-testing-is-hard-but-why/",
+    "upvotes": 52,
+    "author": "ntietz",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25641234"
+  },
+  {
+    "title": "Physics Without Probability",
+    "url": "https://www.youtube.com/watch?v=wfzSE4Hoxbc",
+    "upvotes": 40,
+    "author": "sytelus",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25641817"
+  },
+  {
+    "title": "EFF to FinCEN: Stop Pushing for More Financial Surveillance",
+    "url": "https://www.eff.org/deeplinks/2021/01/eff-fincen-stop-pushing-more-financial-surveillance",
+    "upvotes": 129,
+    "author": "panarky",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=25642486"
   },
   {
     "title": "Show HN: 3D-Parallax, labelfree 3D experience from a 2D image using parallax",
     "url": "https://github.com/VincentLefevre/3D-parallax",
-    "upvotes": 24,
+    "upvotes": 28,
     "author": "crou68",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25643097"
-  },
-  {
-    "title": "Telegram publishes users' locations online",
-    "url": "https://blog.ahmed.nyc/2021/01/if-you-use-this-feature-on-telegram.html",
-    "upvotes": 414,
-    "author": "Nullslash",
-    "comments": 184,
-    "link": "https://news.ycombinator.com/item?id=25641399"
   },
   {
     "title": "My Google Traffic Has Fallen to Zero",
     "url": "https://www.goodcheapandfast.com/2020",
-    "upvotes": 388,
+    "upvotes": 400,
     "author": "josephjrobison",
-    "comments": 294,
+    "comments": 314,
     "link": "https://news.ycombinator.com/item?id=25640217"
   },
   {
-    "title": "Square’s federal comment letter regarding FinCEN’s proposed rulemaking",
-    "url": "https://squareup.com/us/en/press/fincen-letter",
-    "upvotes": 68,
-    "author": "freerk",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=25637771"
-  },
-  {
-    "title": "Geometric effects of certain system design choices",
-    "url": "https://rachelbythebay.com/w/2021/01/04/dns/",
-    "upvotes": 56,
-    "author": "parsecs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25642762"
-  },
-  {
-    "title": "Ask HN: Who is hiring?",
-    "url": "item?id=25632982",
-    "upvotes": 359,
-    "author": "whoishiring",
-    "comments": 571,
-    "link": "https://news.ycombinator.com/item?id=25632982"
+    "title": "Telegram publishes users' locations online",
+    "url": "https://blog.ahmed.nyc/2021/01/if-you-use-this-feature-on-telegram.html",
+    "upvotes": 427,
+    "author": "Nullslash",
+    "comments": 187,
+    "link": "https://news.ycombinator.com/item?id=25641399"
   },
   {
     "title": "Don’t Share That. Yet",
     "url": "https://www.descript.com/",
-    "upvotes": 86,
+    "upvotes": 111,
     "author": "zaroth",
-    "comments": 33,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25641205"
   },
   {
     "title": "A Schelling point is a solution people choose by default in a coordination game",
     "url": "https://en.wikipedia.org/wiki/Focal_point_(game_theory)",
-    "upvotes": 31,
+    "upvotes": 38,
     "author": "apsec112",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25640411"
   },
   {
-    "title": "Incomplete Guide to Scaling Ethereum with Rollups",
-    "url": "https://vitalik.ca/general/2021/01/05/rollup.html",
-    "upvotes": 29,
-    "author": "KukiAirani",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25640976"
+    "title": "Ask HN: Who is hiring?",
+    "url": "item?id=25632982",
+    "upvotes": 367,
+    "author": "whoishiring",
+    "comments": 581,
+    "link": "https://news.ycombinator.com/item?id=25632982"
   },
   {
     "title": "Parable of Alien Chess",
     "url": "https://lukesmith.xyz/articles/chess",
-    "upvotes": 104,
+    "upvotes": 113,
     "author": "krebs_liebhaber",
-    "comments": 105,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=25642635"
+  },
+  {
+    "title": "Incomplete Guide to Scaling Ethereum with Rollups",
+    "url": "https://vitalik.ca/general/2021/01/05/rollup.html",
+    "upvotes": 38,
+    "author": "KukiAirani",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25640976"
+  },
+  {
+    "title": "Geometric effects of certain system design choices",
+    "url": "https://rachelbythebay.com/w/2021/01/04/dns/",
+    "upvotes": 60,
+    "author": "parsecs",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25642762"
   },
   {
     "title": "Open-source RGB lighting control for keyboards, fans, etc",
     "url": "https://gitlab.com/CalcProgrammer1/OpenRGB",
-    "upvotes": 301,
+    "upvotes": 303,
     "author": "apatap",
     "comments": 142,
     "link": "https://news.ycombinator.com/item?id=25632847"
@@ -198,41 +214,25 @@
   {
     "title": "Slack is down",
     "url": "https://status.slack.com/2021-01/9ecc1bc75347b6d1",
-    "upvotes": 971,
+    "upvotes": 976,
     "author": "gpmcadam",
-    "comments": 775,
+    "comments": 780,
     "link": "https://news.ycombinator.com/item?id=25632346"
   },
   {
     "title": "On Repl-Driven Programming",
     "url": "http://mikelevins.github.io/posts/2020-12-18-repl-driven/",
-    "upvotes": 371,
+    "upvotes": 375,
     "author": "todsacerdoti",
-    "comments": 187,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=25620256"
   },
   {
     "title": "USA vs. Julian Assange Judgment",
     "url": "https://www.judiciary.uk/wp-content/uploads/2021/01/USA-v-Assange-judgment-040121.pdf",
-    "upvotes": 784,
+    "upvotes": 788,
     "author": "yuriko",
-    "comments": 550,
+    "comments": 553,
     "link": "https://news.ycombinator.com/item?id=25629801"
-  },
-  {
-    "title": "The Lab Leak Hypothesis",
-    "url": "https://nymag.com/intelligencer/article/coronavirus-lab-escape-theory.html",
-    "upvotes": 139,
-    "author": "api",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=25640323"
-  },
-  {
-    "title": "Neofeudalism and the Digital Manor",
-    "url": "https://locusmag.com/2021/01/cory-doctorow-neofeudalism-and-the-digital-manor/",
-    "upvotes": 258,
-    "author": "walterbell",
-    "comments": 209,
-    "link": "https://news.ycombinator.com/item?id=25639435"
   }
 ]
