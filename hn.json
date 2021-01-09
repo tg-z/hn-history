@@ -2,42 +2,58 @@
   {
     "title": "Why mmap is faster than system calls",
     "url": "https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37",
-    "upvotes": 175,
+    "upvotes": 197,
     "author": "vinnyglennon",
-    "comments": 111,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=25701959"
-  },
-  {
-    "title": "To the moon: defining and detecting cryptocurrency pump-and-dumps",
-    "url": "https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-018-0093-5",
-    "upvotes": 94,
-    "author": "dgellow",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=25702376"
   },
   {
     "title": "Writing a Kubernetes CRD Controller in Rust",
     "url": "http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html",
-    "upvotes": 23,
+    "upvotes": 37,
     "author": "lukastyrychtr",
-    "comments": 2,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25704250"
+  },
+  {
+    "title": "Advice from a 104-year-old PhD student",
+    "url": "https://www.bbc.com/reel/video/p090s793/advice-from-a-104-year-old-phd-student",
+    "upvotes": 31,
+    "author": "hmart",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25704208"
+  },
+  {
+    "title": "Ugandan Govt Blocks Google Playstore, Apple AppStore, and YouTube",
+    "url": "https://techjaja.com/govt-blocks-google-playstore-apple-appstore-and-youtube/",
+    "upvotes": 25,
+    "author": "drsim",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25704433"
+  },
+  {
+    "title": "To the moon: defining and detecting cryptocurrency pump-and-dumps",
+    "url": "https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-018-0093-5",
+    "upvotes": 101,
+    "author": "dgellow",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=25702376"
   },
   {
     "title": "NASA's Curiosity rover: 3k days on Mars",
     "url": "https://www.bbc.com/news/science-environment-55562150",
-    "upvotes": 155,
+    "upvotes": 163,
     "author": "ystad",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25701240"
   },
   {
-    "title": "Robot Made of Ice Can Repair and Rebuild Itself",
-    "url": "https://www.freethink.com/articles/robot-made-of-ice",
-    "upvotes": 24,
-    "author": "mikesabbagh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25703762"
+    "title": "Party Like It's 1925 on Public Domain Day",
+    "url": "https://www.npr.org/2021/01/01/951171599/party-like-its-1925-on-public-domain-day-gatsby-and-dalloway-are-in",
+    "upvotes": 73,
+    "author": "apollinaire",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25697084"
   },
   {
     "title": "The Muse",
@@ -46,193 +62,177 @@
   {
     "title": "Canon CR3 Fileformat",
     "url": "https://github.com/lclevy/canon_cr3",
-    "upvotes": 28,
+    "upvotes": 34,
     "author": "tosh",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25703608"
+  },
+  {
+    "title": "Robot Made of Ice Can Repair and Rebuild Itself",
+    "url": "https://www.freethink.com/articles/robot-made-of-ice",
+    "upvotes": 31,
+    "author": "mikesabbagh",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25703762"
   },
   {
     "title": "Raymarching Distance Fields",
     "url": "https://iquilezles.org/www/articles/raymarchingdf/raymarchingdf.htm",
-    "upvotes": 54,
+    "upvotes": 58,
     "author": "itronitron",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25702766"
-  },
-  {
-    "title": "Party Like It's 1925 on Public Domain Day",
-    "url": "https://www.npr.org/2021/01/01/951171599/party-like-its-1925-on-public-domain-day-gatsby-and-dalloway-are-in",
-    "upvotes": 64,
-    "author": "apollinaire",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25697084"
-  },
-  {
-    "title": "Next Gen Static Blogging",
-    "url": "https://inoads.com/articles/2020-01-09-Next-Gen-Static-Blogging",
-    "upvotes": 163,
-    "author": "mmackh",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=25701053"
-  },
-  {
-    "title": "Ray Tracing in pure CMake",
-    "url": "https://64.github.io/cmake-raytracer/",
-    "upvotes": 221,
-    "author": "networked",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=25700038"
-  },
-  {
-    "title": "Akin's Laws of Spacecraft Design",
-    "url": "http://spacecraft.ssl.umd.edu/akins_laws.html",
-    "upvotes": 231,
-    "author": "Tomte",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=25698990"
-  },
-  {
-    "title": "Pesticide believed to kill bees is authorised for use in England",
-    "url": "https://www.theguardian.com/environment/2021/jan/09/pesticide-believed-kill-bees-authorised-use-england-eu-farmers",
-    "upvotes": 227,
-    "author": "montalbano",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=25701144"
   },
   {
     "title": "Twitter Confirms It Halted 'Hang Mike Pence' as a Trending Topic",
     "url": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253",
-    "upvotes": 12,
+    "upvotes": 71,
     "author": "reddotX",
-    "comments": null,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25704588"
+  },
+  {
+    "title": "Building a runtime reflection system for Rust",
+    "url": "https://www.osohq.com/post/runtime-reflection-pt-3",
+    "upvotes": 6,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25704707"
+  },
+  {
+    "title": "Ray Tracing in pure CMake",
+    "url": "https://64.github.io/cmake-raytracer/",
+    "upvotes": 227,
+    "author": "networked",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=25700038"
+  },
+  {
+    "title": "Next Gen Static Blogging",
+    "url": "https://inoads.com/articles/2020-01-09-Next-Gen-Static-Blogging",
+    "upvotes": 171,
+    "author": "mmackh",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=25701053"
+  },
+  {
+    "title": "Akin's Laws of Spacecraft Design",
+    "url": "http://spacecraft.ssl.umd.edu/akins_laws.html",
+    "upvotes": 235,
+    "author": "Tomte",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=25698990"
+  },
+  {
+    "title": "LenPEG",
+    "url": "https://www.dangermouse.net/esoteric/lenpeg.html",
+    "upvotes": 4,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25704652"
+  },
+  {
+    "title": "Crash: Sriwijaya B735 at Jakarta, lost height and impacted Java Sea",
+    "url": "https://avherald.com/h?article=4e18553c&opt=0",
+    "upvotes": 41,
+    "author": "parsecs",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25703441"
+  },
+  {
+    "title": "Tesla to produce $25K car as early as 2022",
+    "url": "https://www.teslarati.com/tesla-25k-car-release-date-2022-china-report/",
+    "upvotes": 18,
+    "author": "simonebrunozzi",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25704775"
   },
   {
     "title": "The lesser-known Orwell: are his novels deserving of reappraisal?",
     "url": "https://thecritic.co.uk/the-lesser-known-orwell-are-his-novels-deserving-of-reappraisal/",
-    "upvotes": 22,
+    "upvotes": 28,
     "author": "samclemens",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25696924"
+  },
+  {
+    "title": "Pesticide believed to kill bees is authorised for use in England",
+    "url": "https://www.theguardian.com/environment/2021/jan/09/pesticide-believed-kill-bees-authorised-use-england-eu-farmers",
+    "upvotes": 235,
+    "author": "montalbano",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=25701144"
+  },
+  {
+    "title": "Fifty twists of the tongue: A remarkable version of a remarkable Arabic classic",
+    "url": "https://www.the-tls.co.uk/articles/impostures-al-hariri-michael-cooperson-book-review/",
+    "upvotes": 6,
+    "author": "Thevet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25697654"
+  },
+  {
+    "title": "What is happening to Lazada is happening to all companies acquired by Alibaba",
+    "url": "https://thelowdown.momentum.asia/what-is-happening-to-lazada-is-happening-to-all-companies-acquired-by-alibaba/",
+    "upvotes": 7,
+    "author": "7d7n",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25703505"
   },
   {
     "title": "A lost paradise of purity: the late masterpieces of Schubert",
     "url": "https://standpointmag.co.uk/a-lost-paradise-of-purity/",
-    "upvotes": 6,
+    "upvotes": 11,
     "author": "tintinnabula",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25693617"
   },
   {
-    "title": "Clearview AI being used to identify Capitol rioters",
-    "url": "https://www.nytimes.com/live/2021/01/09/us/trump-biden#facial-recognition-clearview-capitol",
-    "upvotes": 40,
-    "author": "nonprofiteer",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=25703614"
-  },
-  {
     "title": "Early clinical trial shows anti-depressant prevents hospitalization from Covid",
     "url": "https://jamanetwork.com/journals/jama/fullarticle/2773108",
-    "upvotes": 85,
+    "upvotes": 86,
     "author": "notknifescience",
-    "comments": 60,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=25701446"
-  },
-  {
-    "title": "Apple Fixes Bagel Emoji",
-    "url": "https://blog.emojipedia.org/apple-fixes-bagel-emoji/",
-    "upvotes": 22,
-    "author": "Tomte",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25702161"
-  },
-  {
-    "title": "Deep neck flexor exercises – Back and neck",
-    "url": "https://www.sprintphysio.co.uk/patient-exercises/back-and-neck/deep-neck-flexor-exercises.html",
-    "upvotes": 147,
-    "author": "whereistimbo",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=25699510"
-  },
-  {
-    "title": "What is happening to Lazada is happening to all companies acquired by Alibaba",
-    "url": "https://thelowdown.momentum.asia/what-is-happening-to-lazada-is-happening-to-all-companies-acquired-by-alibaba/",
-    "upvotes": 5,
-    "author": "7d7n",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25703505"
   },
   {
     "title": "Holiday Hacking – Tracking my heart rate while playing Call of Duty",
     "url": "https://jcdav.is/2021/01/04/Holiday-Hacking-COD-HR/",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "lukastyrychtr",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25700872"
-  },
-  {
-    "title": "Advice from a 104-year-old PhD student",
-    "url": "https://www.bbc.com/reel/video/p090s793/advice-from-a-104-year-old-phd-student",
-    "upvotes": 4,
-    "author": "hmart",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25704208"
   },
   {
     "title": "Woo for Its Own Sake",
     "url": "https://scottlocklin.wordpress.com/2021/01/08/woo-for-its-own-sake/",
-    "upvotes": 69,
+    "upvotes": 73,
     "author": "mwcampbell",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25701312"
+  },
+  {
+    "title": "Deep neck flexor exercises – Back and neck",
+    "url": "https://www.sprintphysio.co.uk/patient-exercises/back-and-neck/deep-neck-flexor-exercises.html",
+    "upvotes": 152,
+    "author": "whereistimbo",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=25699510"
   },
   {
     "title": "Ask HN: Show me your half baked project",
     "url": "item?id=25700135",
-    "upvotes": 268,
+    "upvotes": 291,
     "author": "notoriousarun",
-    "comments": 551,
+    "comments": 584,
     "link": "https://news.ycombinator.com/item?id=25700135"
   },
   {
     "title": "Fungi’s Lessons for Adapting to Life on a Damaged Planet",
     "url": "https://lithub.com/fungis-lessons-for-adapting-to-life-on-a-damaged-planet/",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "oedmarap",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25700636"
-  },
-  {
-    "title": "Falsehoods programmers believe about Biometrics",
-    "url": "https://shkspr.mobi/blog/2021/01/falsehoods-programmers-believe-about-biometrics/",
-    "upvotes": 70,
-    "author": "edent",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25700026"
-  },
-  {
-    "title": "Show HN: Convier.me – A Calendar Service for Developers",
-    "url": "https://convier.me",
-    "upvotes": 101,
-    "author": "mikaelcarlavan",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=25698335"
-  },
-  {
-    "title": "Microprocessors Running on Air?",
-    "url": "https://erik-engheim.medium.com/microprocessors-running-on-air-a47a702dd41f",
-    "upvotes": 125,
-    "author": "nnx",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=25697736"
-  },
-  {
-    "title": "Crash: Sriwijaya B735 at Jakarta, lost height and impacted Java Sea",
-    "url": "https://avherald.com/h?article=4e18553c&opt=0",
-    "upvotes": 33,
-    "author": "parsecs",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=25703441"
   }
 ]
