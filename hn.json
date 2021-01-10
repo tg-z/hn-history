@@ -2,214 +2,230 @@
   {
     "title": "PeerTube v3",
     "url": "https://framablog.org/2021/01/07/peertube-v3-its-a-live-a-liiiiive/",
-    "upvotes": 180,
+    "upvotes": 240,
     "author": "spzx",
-    "comments": 60,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=25707059"
+  },
+  {
+    "title": "Wikipedia is 20, and its reputation has never been higher",
+    "url": "https://www.economist.com/international/2021/01/09/wikipedia-is-20-and-its-reputation-has-never-been-higher",
+    "upvotes": 24,
+    "author": "kylebarron",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25710055"
   },
   {
     "title": "AVIF support enabled by default in Firefox 86",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1682995",
-    "upvotes": 177,
+    "upvotes": 196,
     "author": "doener",
-    "comments": 57,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=25706284"
   },
   {
     "title": "An Invisible Tax on the Web: Video Codecs",
     "url": "https://blog.mozilla.org/blog/2018/07/11/royalty-free-web-video-codecs/",
-    "upvotes": 141,
+    "upvotes": 166,
     "author": "doener",
-    "comments": 57,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=25706252"
+  },
+  {
+    "title": "AWS Boots Parler",
+    "url": "https://twitter.com/jsrailton/status/1348092163708612609",
+    "upvotes": 74,
+    "author": "asdf333",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=25709832"
   },
   {
     "title": "Why mmap is faster than system calls",
     "url": "https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37",
-    "upvotes": 293,
+    "upvotes": 306,
     "author": "vinnyglennon",
-    "comments": 175,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=25701959"
   },
   {
     "title": "Advice from a 104-year-old PhD student",
     "url": "https://www.bbc.com/reel/video/p090s793/advice-from-a-104-year-old-phd-student",
-    "upvotes": 150,
+    "upvotes": 160,
     "author": "hmart",
-    "comments": 115,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=25704208"
-  },
-  {
-    "title": "Writing a Kubernetes CRD Controller in Rust",
-    "url": "http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html",
-    "upvotes": 114,
-    "author": "lukastyrychtr",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25704250"
   },
   {
     "title": "NASA's Curiosity rover: 3k days on Mars",
     "url": "https://www.bbc.com/news/science-environment-55562150",
-    "upvotes": 221,
+    "upvotes": 234,
     "author": "ystad",
-    "comments": 47,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=25701240"
+  },
+  {
+    "title": "Writing a Kubernetes CRD Controller in Rust",
+    "url": "http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html",
+    "upvotes": 122,
+    "author": "lukastyrychtr",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=25704250"
   },
   {
     "title": "Party Like It's 1925 on Public Domain Day",
     "url": "https://www.npr.org/2021/01/01/951171599/party-like-its-1925-on-public-domain-day-gatsby-and-dalloway-are-in",
-    "upvotes": 124,
+    "upvotes": 136,
     "author": "apollinaire",
-    "comments": 26,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25697084"
+  },
+  {
+    "title": "'Exercised' Explains Why It Can Be Hard to Commit to Working Out",
+    "url": "https://www.npr.org/2021/01/05/953249677/exercised-explains-why-it-can-be-hard-to-commit-to-working-out-and-why-we-should",
+    "upvotes": 143,
+    "author": "Hooke",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=25681229"
   },
   {
     "title": "LenPEG",
     "url": "https://www.dangermouse.net/esoteric/lenpeg.html",
-    "upvotes": 62,
+    "upvotes": 65,
     "author": "tosh",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25704652"
+  },
+  {
+    "title": "Predictions Scorecard, 2021 January 01 – Rodney Brooks",
+    "url": "http://rodneybrooks.com/predictions-scorecard-2021-january-01/",
+    "upvotes": 37,
+    "author": "blopeur",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25706436"
+  },
+  {
+    "title": "EFF's Response to Social Media Companies Decision to Block Pres.Trump’s Accounts",
+    "url": "https://www.eff.org/deeplinks/2021/01/eff-response-social-media-companies-decision-block-president-trumps-accounts",
+    "upvotes": 134,
+    "author": "jelliclesfarm",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=25707332"
   },
   {
     "title": "Raymarching Distance Fields",
     "url": "https://iquilezles.org/www/articles/raymarchingdf/raymarchingdf.htm",
-    "upvotes": 108,
+    "upvotes": 113,
     "author": "itronitron",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25702766"
   },
   {
-    "title": "Predictions Scorecard, 2021 January 01 – Rodney Brooks",
-    "url": "http://rodneybrooks.com/predictions-scorecard-2021-january-01/",
-    "upvotes": 30,
-    "author": "blopeur",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25706436"
-  },
-  {
-    "title": "Ray Tracing in pure CMake",
-    "url": "https://64.github.io/cmake-raytracer/",
-    "upvotes": 260,
-    "author": "networked",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=25700038"
-  },
-  {
-    "title": "'Exercised' Explains Why It Can Be Hard to Commit to Working Out",
-    "url": "https://www.npr.org/2021/01/05/953249677/exercised-explains-why-it-can-be-hard-to-commit-to-working-out-and-why-we-should",
-    "upvotes": 122,
-    "author": "Hooke",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=25681229"
-  },
-  {
-    "title": "EFF's Response to Social Media Companies Decision to Block Pres.Trump’s Accounts",
-    "url": "https://www.eff.org/deeplinks/2021/01/eff-response-social-media-companies-decision-block-president-trumps-accounts",
-    "upvotes": 62,
-    "author": "jelliclesfarm",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25707332"
-  },
-  {
-    "title": "First native tool for compiling/bundling Vue components in a Deno runtime",
-    "url": "https://andrew-rehrig.medium.com/vno-a-vue-deno-love-story-a9dd4d130ac7",
-    "upvotes": 33,
-    "author": "jgrubby",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25704860"
-  },
-  {
     "title": "Building a runtime reflection system for Rust",
     "url": "https://www.osohq.com/post/runtime-reflection-pt-3",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "lukastyrychtr",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25704707"
   },
   {
-    "title": "Games on GitHub – A list of popular/awesome video games hosted on GitHub",
-    "url": "https://github.com/leereilly/games",
-    "upvotes": 72,
-    "author": "wcerfgba",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25705584"
+    "title": "Gen Z is using Slack, TikTok, Clubhouse to break into venture capital",
+    "url": "https://www.businessinsider.com/gen-z-vcs-slack-movement-venture-capital-investing-tiktok-sway-2021-1",
+    "upvotes": 19,
+    "author": "replicatorblog",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25709426"
   },
   {
-    "title": "Canon CR3 Fileformat",
-    "url": "https://github.com/lclevy/canon_cr3",
-    "upvotes": 59,
-    "author": "tosh",
+    "title": "What is happening to Lazada is happening to all companies acquired by Alibaba",
+    "url": "https://thelowdown.momentum.asia/what-is-happening-to-lazada-is-happening-to-all-companies-acquired-by-alibaba/",
+    "upvotes": 73,
+    "author": "7d7n",
     "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=25703608"
+    "link": "https://news.ycombinator.com/item?id=25703505"
+  },
+  {
+    "title": "First native tool for compiling/bundling Vue components in a Deno runtime",
+    "url": "https://andrew-rehrig.medium.com/vno-a-vue-deno-love-story-a9dd4d130ac7",
+    "upvotes": 34,
+    "author": "jgrubby",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25704860"
   },
   {
     "title": "The Muse",
     "url": "https://www.themuse.com/jobs/themuse/director-of-analytics-business-intelligence"
   },
   {
-    "title": "What is happening to Lazada is happening to all companies acquired by Alibaba",
-    "url": "https://thelowdown.momentum.asia/what-is-happening-to-lazada-is-happening-to-all-companies-acquired-by-alibaba/",
-    "upvotes": 63,
-    "author": "7d7n",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25703505"
+    "title": "Canon CR3 Fileformat",
+    "url": "https://github.com/lclevy/canon_cr3",
+    "upvotes": 61,
+    "author": "tosh",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25703608"
   },
   {
-    "title": "Amazon Is Booting Parler Off of Its Web Hosting Service",
-    "url": "https://www.buzzfeednews.com/johnpaczkowski/amazon-parler-aws",
-    "upvotes": 139,
-    "author": "mattiemass",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=25708142"
-  },
-  {
-    "title": "To the moon: defining and detecting cryptocurrency pump-and-dumps",
-    "url": "https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-018-0093-5",
-    "upvotes": 144,
-    "author": "dgellow",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=25702376"
+    "title": "Games on GitHub – A list of popular/awesome video games hosted on GitHub",
+    "url": "https://github.com/leereilly/games",
+    "upvotes": 88,
+    "author": "wcerfgba",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25705584"
   },
   {
     "title": "Fifty twists of the tongue: A remarkable version of a remarkable Arabic classic",
     "url": "https://www.the-tls.co.uk/articles/impostures-al-hariri-michael-cooperson-book-review/",
-    "upvotes": 31,
+    "upvotes": 35,
     "author": "Thevet",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25697654"
-  },
-  {
-    "title": "Carver Silver Seven Mono Vacuum Tube Power Amplifier Reviewed",
-    "url": "https://hometheaterreview.com/carver-silver-seven-mono-vacuum-tube-power-amplifier-reviewed/",
-    "upvotes": 11,
-    "author": "Tomte",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25705975"
   },
   {
     "title": "Robot Made of Ice Can Repair and Rebuild Itself",
     "url": "https://www.freethink.com/articles/robot-made-of-ice",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "mikesabbagh",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25703762"
+  },
+  {
+    "title": "Lifting Self-Imposed Restrictions on the U.S.-Taiwan Relationship",
+    "url": "https://www.state.gov/lifting-self-imposed-restrictions-on-the-u-s-taiwan-relationship/",
+    "upvotes": 193,
+    "author": "octopoc",
+    "comments": 143,
+    "link": "https://news.ycombinator.com/item?id=25706155"
+  },
+  {
+    "title": "Carver Silver Seven Mono Vacuum Tube Power Amplifier Reviewed",
+    "url": "https://hometheaterreview.com/carver-silver-seven-mono-vacuum-tube-power-amplifier-reviewed/",
+    "upvotes": 13,
+    "author": "Tomte",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25705975"
   },
   {
     "title": "A lost paradise of purity: the late masterpieces of Schubert",
     "url": "https://standpointmag.co.uk/a-lost-paradise-of-purity/",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "tintinnabula",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25693617"
   },
   {
-    "title": "Lifting Self-Imposed Restrictions on the U.S.-Taiwan Relationship",
-    "url": "https://www.state.gov/lifting-self-imposed-restrictions-on-the-u-s-taiwan-relationship/",
-    "upvotes": 169,
-    "author": "octopoc",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=25706155"
+    "title": "To the moon: defining and detecting cryptocurrency pump-and-dumps",
+    "url": "https://crimesciencejournal.biomedcentral.com/articles/10.1186/s40163-018-0093-5",
+    "upvotes": 147,
+    "author": "dgellow",
+    "comments": 154,
+    "link": "https://news.ycombinator.com/item?id=25702376"
+  },
+  {
+    "title": "Next Gen Static Blogging",
+    "url": "https://inoads.com/articles/2020-01-09-Next-Gen-Static-Blogging",
+    "upvotes": 212,
+    "author": "mmackh",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=25701053"
   },
   {
     "title": "Holiday Hacking – Tracking my heart rate while playing Call of Duty",
@@ -218,21 +234,5 @@
     "author": "lukastyrychtr",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25700872"
-  },
-  {
-    "title": "Gen Z is using Slack, TikTok, Clubhouse to break into venture capital",
-    "url": "https://www.businessinsider.com/gen-z-vcs-slack-movement-venture-capital-investing-tiktok-sway-2021-1",
-    "upvotes": 4,
-    "author": "replicatorblog",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25709426"
-  },
-  {
-    "title": "Amazon Is Booting Parler Off AWS",
-    "url": "https://www.buzzfeednews.com/article/johnpaczkowski/amazon-parler-aws",
-    "upvotes": 402,
-    "author": "muglug",
-    "comments": 602,
-    "link": "https://news.ycombinator.com/item?id=25707959"
   }
 ]
