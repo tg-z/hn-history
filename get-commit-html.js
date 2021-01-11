@@ -35,7 +35,7 @@ module.exports = async function getCommitHTML (commit, commits, { prefix = '' } 
   </head>
   <body>
     <div class="container-xl">
-      <div id="toggle-theme">☯</div>
+      <div id="toggle-theme">☼</div>
       <div id="repo"><a href="https://github.com/tg-z/hn-history" target="_blank">github</a></div>
       <div id="post"><a href="https://cri.dev/posts/2020-11-06-Tracking-HackerNews-history-in-git/" target="_blank">blog post</a></div>
       <div class="row">
