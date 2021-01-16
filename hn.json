@@ -2,57 +2,65 @@
   {
     "title": "Google Safe Browsing can kill a startup",
     "url": "https://gomox.medium.com/google-safe-browsing-can-kill-your-startup-7d73c474b98d",
-    "upvotes": 922,
+    "upvotes": 961,
     "author": "gomox",
-    "comments": 352,
+    "comments": 359,
     "link": "https://news.ycombinator.com/item?id=25802366"
   },
   {
     "title": "Mnm – an open source project to replace email and SMTP",
     "url": "https://mnmnotmail.org/",
-    "upvotes": 87,
+    "upvotes": 98,
     "author": "skinkestek",
-    "comments": 41,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25804869"
   },
   {
     "title": "Attacking the DeFi ecosystem with flash loans for fun and profit",
     "url": "https://arxiv.org/abs/2003.03810",
-    "upvotes": 19,
+    "upvotes": 26,
     "author": "lawrenceyan",
-    "comments": 3,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25805635"
-  },
-  {
-    "title": "Big O Notation – Explained as Easily as Possible",
-    "url": "https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible",
-    "upvotes": 210,
-    "author": "optimalsolver",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=25803288"
-  },
-  {
-    "title": "Rust: Structuring and handling errors in 2020",
-    "url": "https://nick.groenen.me/posts/rust-error-handling/",
-    "upvotes": 28,
-    "author": "arm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25805340"
   },
   {
     "title": "REST Servers in Go: Part 1 – standard library",
     "url": "https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/",
-    "upvotes": 36,
+    "upvotes": 46,
     "author": "tutfbhuf",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25805158"
+  },
+  {
+    "title": "Rust: Structuring and handling errors in 2020",
+    "url": "https://nick.groenen.me/posts/rust-error-handling/",
+    "upvotes": 37,
+    "author": "arm",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25805340"
+  },
+  {
+    "title": "Big O Notation – Explained as Easily as Possible",
+    "url": "https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible",
+    "upvotes": 220,
+    "author": "optimalsolver",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=25803288"
+  },
+  {
+    "title": "Google Images Restored",
+    "url": "https://github.com/fanfare/googleimagesrestored",
+    "upvotes": 86,
+    "author": "alphabet9000",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25804597"
   },
   {
     "title": "NSA Recommends How Enterprises Can Securely Adopt Encrypted DNS",
     "url": "https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2471956/nsa-recommends-how-enterprises-can-securely-adopt-encrypted-dns/",
-    "upvotes": 53,
+    "upvotes": 57,
     "author": "theBashShell",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25804907"
   },
   {
@@ -60,113 +68,105 @@
     "url": "https://substack.com/jobs"
   },
   {
-    "title": "State bill would let you sue social media giants for political censorship",
-    "url": "https://www.bizpacreview.com/2021/01/16/bad-news-for-big-tech-state-bill-would-let-you-sue-social-media-giants-for-political-censorship-1017234/",
-    "upvotes": 7,
-    "author": "protomyth",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25805756"
-  },
-  {
     "title": "The Cabal: Valve’s Design Process for Creating Half-Life",
     "url": "https://www.gamasutra.com/view/feature/131815/the_cabal_valves_design_process_.php",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "thisismyswamp",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25804194"
-  },
-  {
-    "title": "Google Images Restored",
-    "url": "https://github.com/fanfare/googleimagesrestored",
-    "upvotes": 72,
-    "author": "alphabet9000",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=25804597"
   },
   {
     "title": "How Akka Cluster Works: Actors Living in a Cluster",
     "url": "https://www.lightbend.com/blog/how-akka-cluster-works-actors-living-in-a-cluster",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "walkingolof",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25805112"
+  },
+  {
+    "title": "A Nepali team has made the first winter ascent of K2",
+    "url": "http://www.alpinist.com/doc/web21w/newswire-k2-first-winter-ascent",
+    "upvotes": 76,
+    "author": "eigenvector",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25804183"
   },
   {
     "title": "Would Rust Secure Curl?",
     "url": "https://timmmm.github.io/curl-vulnerabilities-rust/",
-    "upvotes": 37,
+    "upvotes": 56,
     "author": "todsacerdoti",
-    "comments": 14,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25805576"
   },
   {
     "title": "FreeBSD 2020 Q4 Status Report",
     "url": "https://www.freebsd.org/news/status/report-2020-10-2020-12.html",
-    "upvotes": 83,
+    "upvotes": 85,
     "author": "throw0101a",
-    "comments": 19,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25803230"
-  },
-  {
-    "title": "A Nepali team has made the first winter ascent of K2",
-    "url": "http://www.alpinist.com/doc/web21w/newswire-k2-first-winter-ascent",
-    "upvotes": 67,
-    "author": "eigenvector",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=25804183"
   },
   {
     "title": "Running a fake power plant on the internet for a month",
     "url": "https://grimminck.medium.com/running-a-fake-power-plant-on-the-internet-for-a-month-4a624f685aaa",
-    "upvotes": 338,
+    "upvotes": 341,
     "author": "tutfbhuf",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=25801426"
   },
   {
     "title": "Mark 1 Homebuilt Forth Computer",
     "url": "http://www.aholme.co.uk/Mk1/Architecture.htm",
-    "upvotes": 59,
+    "upvotes": 65,
     "author": "peter_d_sherman",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25803748"
   },
   {
+    "title": "I Think Beethoven Encoded His Deafness in His Music",
+    "url": "https://www.nytimes.com/2020/12/27/arts/music/beethoven-hearing-loss-deafness.html",
+    "upvotes": 15,
+    "author": "grzm",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25805367"
+  },
+  {
     "title": "The Children Strike of 1972",
     "url": "https://www.amsterdamclassictours.com/blog/the-children-strike-of-1972",
-    "upvotes": 15,
+    "upvotes": 23,
     "author": "jacquesm",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25801830"
   },
   {
-    "title": "I Think Beethoven Encoded His Deafness in His Music",
-    "url": "https://www.nytimes.com/2020/12/27/arts/music/beethoven-hearing-loss-deafness.html",
-    "upvotes": 9,
-    "author": "grzm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25805367"
-  },
-  {
     "title": "Toxic positivity does more harm than good",
     "url": "https://www.bloomberg.com/news/articles/2021-01-14/what-is-fono-toxic-positivity-is-doing-more-harm-than-good",
-    "upvotes": 283,
+    "upvotes": 295,
     "author": "prostoalex",
-    "comments": 173,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=25803568"
   },
   {
     "title": "Par2cmdline is a PAR 2.0 compatible file verification and repair tool",
     "url": "https://github.com/Parchive/par2cmdline",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "Tomte",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25805548"
+  },
+  {
+    "title": "HannStar EMC-3412 a retro x86 SBC",
+    "url": "https://blog.jmdawson.co.uk/hannstar-emc-3412-a-retro-x86-sbc/",
+    "upvotes": 4,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25805877"
   },
   {
     "title": "Hex Diagram Labels",
     "url": "https://simblob.blogspot.com/2021/01/hex-diagram-labels.html",
-    "upvotes": 16,
+    "upvotes": 17,
     "author": "guiambros",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25804923"
@@ -174,42 +174,34 @@
   {
     "title": "The Most Backdoor-Looking Bug I’ve Ever Seen: Apple's goto fail bug",
     "url": "https://dwheeler.com/essays/apple-goto-fail.html",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "MrXOR",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25801019"
   },
   {
-    "title": "Fujitsu A64FX Microarchitecture Manual [pdf]",
-    "url": "https://github.com/fujitsu/A64FX/blob/master/doc/A64FX_Microarchitecture_Manual_en_1.3.pdf",
-    "upvotes": 3,
-    "author": "rrss",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25805615"
+    "title": "Pristine GM EV1 Preserved by University Caretaker",
+    "url": "https://www.thedrive.com/news/38743/theres-a-pristine-gm-ev1-saved-by-a-secretive-caretaker-in-the-depths-of-a-university",
+    "upvotes": 54,
+    "author": "samizdis",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=25790158"
   },
   {
     "title": "Oldest known cave painting found in Indonesia",
     "url": "https://phys.org/news/2021-01-world-oldest-cave-indonesia.html",
     "upvotes": 76,
     "author": "known",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25788557"
   },
   {
-    "title": "Pristine GM EV1 Preserved by University Caretaker",
-    "url": "https://www.thedrive.com/news/38743/theres-a-pristine-gm-ev1-saved-by-a-secretive-caretaker-in-the-depths-of-a-university",
-    "upvotes": 50,
-    "author": "samizdis",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=25790158"
-  },
-  {
-    "title": "Every day at the same time, my internet dies for 1 minute. How do I investigate?",
-    "url": "item?id=25802714",
-    "upvotes": 241,
-    "author": "overallorder",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=25802714"
+    "title": "My Second Brain – Zettelkasten",
+    "url": "https://scottspence.com/2020/07/17/my-second-brain-zettelkasten/",
+    "upvotes": 116,
+    "author": "spences10",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=25802277"
   },
   {
     "title": "Computer System Engineering",
@@ -220,12 +212,20 @@
     "link": "https://news.ycombinator.com/item?id=25800858"
   },
   {
-    "title": "My Second Brain – Zettelkasten",
-    "url": "https://scottspence.com/2020/07/17/my-second-brain-zettelkasten/",
-    "upvotes": 113,
-    "author": "spences10",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=25802277"
+    "title": "Every day at the same time, my internet dies for 1 minute. How do I investigate?",
+    "url": "item?id=25802714",
+    "upvotes": 248,
+    "author": "overallorder",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=25802714"
+  },
+  {
+    "title": "Fujitsu A64FX Microarchitecture Manual [pdf]",
+    "url": "https://github.com/fujitsu/A64FX/blob/master/doc/A64FX_Microarchitecture_Manual_en_1.3.pdf",
+    "upvotes": 6,
+    "author": "rrss",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25805615"
   },
   {
     "title": "Aggregation Theory",
