@@ -1,58 +1,66 @@
 [
   {
+    "title": "GitHub has received a DMCA from MPA for source code of torrent tracker nyaa.si",
+    "url": "https://github.com/github/dmca/blob/master/2021/01/2021-01-14-mpa.md",
+    "upvotes": 178,
+    "author": "livueta",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=25836503"
+  },
+  {
+    "title": "The State of State Machines",
+    "url": "https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html",
+    "upvotes": 34,
+    "author": "arkadiyt",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25836398"
+  },
+  {
+    "title": "Lispsyntax.jl: A Clojure-like Lisp syntax for julia",
+    "url": "https://github.com/swadey/LispSyntax.jl",
+    "upvotes": 26,
+    "author": "phonebucket",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25836345"
+  },
+  {
     "title": "Intel Problems",
     "url": "https://stratechery.com/2021/intel-problems/",
-    "upvotes": 269,
+    "upvotes": 318,
     "author": "camillovisini",
-    "comments": 180,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=25833667"
-  },
-  {
-    "title": "Radio Stations Stopped a Public Figure from Spreading Dangerous Lies",
-    "url": "https://www.smithsonianmag.com/history/time-private-us-media-companies-stepped-silence-falsehoods-and-incitements-major-public-figure-1938-180976771/",
-    "upvotes": 37,
-    "author": "samizdis",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25835503"
-  },
-  {
-    "title": "Amazon: Not OK – Why we had to change Elastic licensing",
-    "url": "https://www.elastic.co/blog/why-license-change-AWS",
-    "upvotes": 744,
-    "author": "buro9",
-    "comments": 380,
-    "link": "https://news.ycombinator.com/item?id=25833781"
   },
   {
     "title": "Launch HN: Seed (YC W21) – A Fully-Managed CI/CD Pipeline for Serverless",
     "url": "item?id=25835280",
-    "upvotes": 43,
+    "upvotes": 58,
     "author": "jayair",
-    "comments": 20,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25835280"
+  },
+  {
+    "title": "Amazon: Not OK – Why we had to change Elastic licensing",
+    "url": "https://www.elastic.co/blog/why-license-change-AWS",
+    "upvotes": 859,
+    "author": "buro9",
+    "comments": 417,
+    "link": "https://news.ycombinator.com/item?id=25833781"
   },
   {
     "title": "Container networking is simple",
     "url": "https://iximiuz.com/en/posts/container-networking-is-simple/",
-    "upvotes": 55,
+    "upvotes": 86,
     "author": "zdw",
-    "comments": 5,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25834444"
-  },
-  {
-    "title": "Revelio: A MimbleWimble Proof of Reserves Protocol",
-    "url": "https://ieeexplore.ieee.org/abstract/document/8787552",
-    "upvotes": 21,
-    "author": "Bluestein",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25834790"
   },
   {
     "title": "What You Should Know Before Leaking a Zoom Meeting",
     "url": "https://theintercept.com/2021/01/18/leak-zoom-meeting/",
-    "upvotes": 608,
+    "upvotes": 634,
     "author": "danso",
-    "comments": 182,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=25829748"
   },
   {
@@ -60,81 +68,113 @@
     "url": "https://www.workatastartup.com/jobs/41607"
   },
   {
+    "title": "Capitol Attack Was Months in the Making on Facebook",
+    "url": "https://www.techtransparencyproject.org/articles/capitol-attack-was-months-making-facebook",
+    "upvotes": 86,
+    "author": "alexrustic",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=25835823"
+  },
+  {
     "title": "NovelWriter 1.0 – A markdown-like editor for writing novels",
     "url": "https://novelwriter.io/",
-    "upvotes": 203,
+    "upvotes": 229,
     "author": "app4soft",
-    "comments": 143,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=25833328"
   },
   {
     "title": "User power, not power users: htop and its design philosophy",
     "url": "https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/",
-    "upvotes": 201,
+    "upvotes": 219,
     "author": "signa11",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=25831154"
   },
   {
+    "title": "Revelio: A MimbleWimble Proof of Reserves Protocol",
+    "url": "https://ieeexplore.ieee.org/abstract/document/8787552",
+    "upvotes": 27,
+    "author": "Bluestein",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25834790"
+  },
+  {
+    "title": "Show HN: Gamejoy – hosted Zoom games for remote teams",
+    "url": "https://www.gamejoyhq.com/",
+    "upvotes": 6,
+    "author": "phprecovery",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25821459"
+  },
+  {
+    "title": "KFC Mascot Col. Sanders Talks Malbolge Programming on General Hospital",
+    "url": "https://esoteric.codes/blog/kfc-col-sanders-talks-malbolge-general-hospital",
+    "upvotes": 6,
+    "author": "asjo",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25835971"
+  },
+  {
+    "title": "When radio was king, many outlets chose to stop broadcasting Father Coughlin",
+    "url": "https://www.smithsonianmag.com/history/time-private-us-media-companies-stepped-silence-falsehoods-and-incitements-major-public-figure-1938-180976771/",
+    "upvotes": 93,
+    "author": "samizdis",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=25835503"
+  },
+  {
     "title": "Vineyard: An open-source in-memory data manager",
     "url": "https://github.com/alibaba/libvineyard",
-    "upvotes": 59,
+    "upvotes": 73,
     "author": "sighingnow",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25832831"
   },
   {
-    "title": "Inexpensive battery charges rapidly for electric vehicles, reduces range anxiety",
-    "url": "https://news.psu.edu/story/643897/2021/01/18/research/inexpensive-battery-charges-rapidly-electric-vehicles-reduces-range",
-    "upvotes": 8,
-    "author": "clouddrover",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25834749"
-  },
-  {
-    "title": "Radio Users Reminded Not to Use Radios in Crimes",
-    "url": "http://www.arrl.org/news/fcc-issues-enforcement-advisory-radio-users-reminded-not-to-use-radios-in-crimes",
-    "upvotes": 62,
-    "author": "aktive0",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=25835227"
+    "title": "Show HN: ZuccNet – Encrypted Facebook Messaging",
+    "url": "https://github.com/tomquirk/zuccnet#zuccnet",
+    "upvotes": 43,
+    "author": "tomquirk",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25833206"
   },
   {
     "title": "Living microbes, possibly 100M years old, pulled from beneath the sea",
     "url": "https://www.sciencemag.org/news/2020/07/scientists-pull-living-microbes-100-million-years-beneath-sea",
-    "upvotes": 92,
+    "upvotes": 99,
     "author": "wombatmobile",
-    "comments": 69,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=25820979"
   },
   {
     "title": "Harpoon V",
     "url": "https://www.forbes.com/sites/hisutton/2020/08/02/harpoon-v-new-version-of-famous-wargame-used-by-navies/",
-    "upvotes": 12,
+    "upvotes": 17,
     "author": "luu",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25829433"
   },
   {
-    "title": "Show HN: ZuccNet – Encrypted Facebook Messaging",
-    "url": "https://github.com/tomquirk/zuccnet#zuccnet",
-    "upvotes": 25,
-    "author": "tomquirk",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25833206"
+    "title": "Soyuz spacecraft digital clock teardown",
+    "url": "http://www.righto.com/2020/01/inside-digital-clock-from-soyuz.html",
+    "upvotes": 23,
+    "author": "nucatus",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25833534"
   },
   {
-    "title": "Everything you need to know to design your own CNC router",
-    "url": "https://mattferraro.dev/posts/cnc-router",
-    "upvotes": 288,
-    "author": "mferraro89",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=25829337"
+    "title": "Intentionally Leaking AWS Keys",
+    "url": "https://brokenco.de/2021/01/15/leaking-aws-keys.html",
+    "upvotes": 10,
+    "author": "lelf",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25825927"
   },
   {
     "title": "Computer History Wiki",
     "url": "https://gunkies.org/wiki/Main_Page",
-    "upvotes": 36,
+    "upvotes": 44,
     "author": "federicoponzi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25832107"
@@ -142,97 +182,57 @@
   {
     "title": "Free Math Books",
     "url": "https://klkuttler.com/",
-    "upvotes": 250,
+    "upvotes": 261,
     "author": "blewboarwastake",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=25831428"
   },
   {
-    "title": "Elasticsearch does not belong to Elastic",
-    "url": "https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html",
-    "upvotes": 85,
-    "author": "arghwhat",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25835188"
+    "title": "Paint.wtf",
+    "url": "https://paint.wtf/",
+    "upvotes": 160,
+    "author": "hgarg",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=25830087"
   },
   {
-    "title": "Soyuz spacecraft digital clock teardown",
-    "url": "http://www.righto.com/2020/01/inside-digital-clock-from-soyuz.html",
-    "upvotes": 8,
-    "author": "nucatus",
+    "title": "Decline the 15 Minute Post-Vaccination Waiting Period",
+    "url": "https://kevin.burke.dev/kevin/covid-decline-allergic-reaction-wait/?hn",
+    "upvotes": 3,
+    "author": "kevinburke",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25833534"
+    "link": "https://news.ycombinator.com/item?id=25836851"
+  },
+  {
+    "title": "Radio Users Reminded Not to Use Radios in Crimes",
+    "url": "http://www.arrl.org/news/fcc-issues-enforcement-advisory-radio-users-reminded-not-to-use-radios-in-crimes",
+    "upvotes": 76,
+    "author": "aktive0",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=25835227"
+  },
+  {
+    "title": "Ask HN: Anyone else burnt out due to extended lockdown and work-from-home?",
+    "url": "item?id=25833639",
+    "upvotes": 192,
+    "author": "throwwfh",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=25833639"
   },
   {
     "title": "Woman Is Sentenced to 43 Years for Criticizing Thai Monarchy",
     "url": "https://www.nytimes.com/2021/01/19/world/asia/thailand-king-lese-majeste.html",
-    "upvotes": 267,
+    "upvotes": 295,
     "author": "mzs",
-    "comments": 145,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=25833291"
   },
   {
     "title": "Raspberry Pi Lego Sorter",
     "url": "https://www.raspberrypi.org/blog/raspberry-pi-lego-sorter/",
-    "upvotes": 73,
+    "upvotes": 85,
     "author": "justin66",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25833490"
-  },
-  {
-    "title": "Paint.wtf",
-    "url": "https://paint.wtf/",
-    "upvotes": 144,
-    "author": "hgarg",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=25830087"
-  },
-  {
-    "title": "Ask HN: Anyone else burnt out due to extended lockdown and work-from-home?",
-    "url": "item?id=25833639",
-    "upvotes": 141,
-    "author": "throwwfh",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=25833639"
-  },
-  {
-    "title": "TV detector vans once prowled the streets of England",
-    "url": "https://hackaday.com/2021/01/18/tv-detector-vans-once-prowled-the-streets-of-england/",
-    "upvotes": 227,
-    "author": "szczys",
-    "comments": 500,
-    "link": "https://news.ycombinator.com/item?id=25823546"
-  },
-  {
-    "title": "Full success of first-ever cubesat mission equipped with Hall-effect propulsion",
-    "url": "https://exotrail.com/news/2021-01-12/100-exotrail-paves-the-way-for-new-space-mobility-with-first-of-its-kind-successful-in-orbit-demonstration-mission/",
-    "upvotes": 97,
-    "author": "sohkamyung",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=25829683"
-  },
-  {
-    "title": "Non-Blocking Parallelism for Services in Go",
-    "url": "http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/",
-    "upvotes": 61,
-    "author": "astdb",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25820057"
-  },
-  {
-    "title": "Show HN: A high-performance TensorFlow library for quantitative finance",
-    "url": "https://github.com/google/tf-quant-finance",
-    "upvotes": 126,
-    "author": "partingshots",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=25829757"
-  },
-  {
-    "title": "Crossword.el – download and play crossword puzzles in Emacs",
-    "url": "https://github.com/Boruch-Baum/emacs-crossword",
-    "upvotes": 93,
-    "author": "pabs3",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=25829851"
   }
 ]
