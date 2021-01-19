@@ -1,83 +1,91 @@
 [
   {
+    "title": "Amazon: Not OK – why we had to change Elastic licensing",
+    "url": "https://www.elastic.co/blog/why-license-change-AWS",
+    "upvotes": 147,
+    "author": "buro9",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=25833781"
+  },
+  {
     "title": "novelWriter 1.0",
     "url": "https://github.com/vkbo/novelWriter/releases/tag/v1.0",
-    "upvotes": 37,
+    "upvotes": 91,
     "author": "app4soft",
-    "comments": 10,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25833328"
+  },
+  {
+    "title": "Intel Problems",
+    "url": "https://stratechery.com/2021/intel-problems/",
+    "upvotes": 37,
+    "author": "camillovisini",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25833667"
   },
   {
     "title": "What You Should Know Before Leaking a Zoom Meeting",
     "url": "https://theintercept.com/2021/01/18/leak-zoom-meeting/",
-    "upvotes": 493,
+    "upvotes": 525,
     "author": "danso",
-    "comments": 146,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=25829748"
   },
   {
     "title": "User power, not power users: htop and its design philosophy",
     "url": "https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/",
-    "upvotes": 133,
+    "upvotes": 157,
     "author": "signa11",
-    "comments": 46,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25831154"
   },
   {
-    "title": "TV detector vans once prowled the streets of England",
-    "url": "https://hackaday.com/2021/01/18/tv-detector-vans-once-prowled-the-streets-of-england/",
-    "upvotes": 178,
-    "author": "szczys",
-    "comments": 404,
-    "link": "https://news.ycombinator.com/item?id=25823546"
+    "title": "Woman Is Sentenced to 43 Years for Criticizing Thai Monarchy",
+    "url": "https://www.nytimes.com/2021/01/19/world/asia/thailand-king-lese-majeste.html",
+    "upvotes": 97,
+    "author": "mzs",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25833291"
   },
   {
     "title": "Vineyard: An open-source in-memory data manager",
     "url": "https://github.com/alibaba/libvineyard",
-    "upvotes": 21,
+    "upvotes": 31,
     "author": "sighingnow",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25832831"
+  },
+  {
+    "title": "TV detector vans once prowled the streets of England",
+    "url": "https://hackaday.com/2021/01/18/tv-detector-vans-once-prowled-the-streets-of-england/",
+    "upvotes": 188,
+    "author": "szczys",
+    "comments": 434,
+    "link": "https://news.ycombinator.com/item?id=25823546"
   },
   {
     "title": "Living microbes, possibly 100M years old, pulled from beneath the sea",
     "url": "https://www.sciencemag.org/news/2020/07/scientists-pull-living-microbes-100-million-years-beneath-sea",
-    "upvotes": 56,
+    "upvotes": 63,
     "author": "wombatmobile",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=25820979"
-  },
-  {
-    "title": "Free Math Books",
-    "url": "https://klkuttler.com/",
-    "upvotes": 175,
-    "author": "blewboarwastake",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25831428"
   },
   {
     "title": "Everything you need to know to design your own CNC router",
     "url": "https://mattferraro.dev/posts/cnc-router",
-    "upvotes": 221,
+    "upvotes": 240,
     "author": "mferraro89",
-    "comments": 113,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=25829337"
   },
   {
-    "title": "The Dream Job That Wasn’t",
-    "url": "https://newrepublic.com/article/160918/what-is-your-dream-job-doesnt-exist",
-    "upvotes": 29,
-    "author": "drtillberg",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25821489"
-  },
-  {
-    "title": "Local rules instead of global censorship",
-    "url": "https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy",
-    "upvotes": 177,
-    "author": "bklaasen",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=25828081"
+    "title": "Free Math Books",
+    "url": "https://klkuttler.com/",
+    "upvotes": 193,
+    "author": "blewboarwastake",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=25831428"
   },
   {
     "title": "Dashworks",
@@ -86,39 +94,47 @@
   {
     "title": "Computer History Wiki",
     "url": "https://gunkies.org/wiki/Main_Page",
-    "upvotes": 12,
+    "upvotes": 20,
     "author": "federicoponzi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25832107"
   },
   {
-    "title": "Non-Blocking Parallelism for Services in Go",
-    "url": "http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/",
-    "upvotes": 37,
-    "author": "astdb",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25820057"
+    "title": "Raspberry Pi Lego Sorter",
+    "url": "https://www.raspberrypi.org/blog/raspberry-pi-lego-sorter/",
+    "upvotes": 29,
+    "author": "justin66",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25833490"
+  },
+  {
+    "title": "The Dream Job That Wasn’t",
+    "url": "https://newrepublic.com/article/160918/what-is-your-dream-job-doesnt-exist",
+    "upvotes": 35,
+    "author": "drtillberg",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=25821489"
   },
   {
     "title": "Show HN: A high-performance TensorFlow library for quantitative finance",
     "url": "https://github.com/google/tf-quant-finance",
-    "upvotes": 100,
+    "upvotes": 106,
     "author": "partingshots",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25829757"
   },
   {
-    "title": "Turkey imposes advertising bans on Twitter, Periscope and Pinterest",
-    "url": "https://www.reuters.com/article/turkey-twitter-int-idUSKBN29O0CM",
-    "upvotes": 83,
-    "author": "giuliomagnifico",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=25832047"
+    "title": "Non-Blocking Parallelism for Services in Go",
+    "url": "http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/",
+    "upvotes": 44,
+    "author": "astdb",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25820057"
   },
   {
     "title": "Crossword.el – download and play crossword puzzles in Emacs",
     "url": "https://github.com/Boruch-Baum/emacs-crossword",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "pabs3",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25829851"
@@ -126,113 +142,97 @@
   {
     "title": "Full success of first-ever cubesat mission equipped with Hall-effect propulsion",
     "url": "https://exotrail.com/news/2021-01-12/100-exotrail-paves-the-way-for-new-space-mobility-with-first-of-its-kind-successful-in-orbit-demonstration-mission/",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "sohkamyung",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25829683"
   },
   {
     "title": "Software effort estimation is mostly fake research",
     "url": "http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/",
-    "upvotes": 718,
+    "upvotes": 729,
     "author": "walterclifford",
-    "comments": 277,
+    "comments": 285,
     "link": "https://news.ycombinator.com/item?id=25825244"
-  },
-  {
-    "title": "How to leave Google and why",
-    "url": "https://jach.me/how-to-leave-google",
-    "upvotes": 132,
-    "author": "yaszko",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=25831981"
   },
   {
     "title": "Learning to Suffer",
     "url": "https://backpackinglight.com/learning-curve-learning-to-suffer",
-    "upvotes": 118,
+    "upvotes": 128,
     "author": "Dowwie",
-    "comments": 76,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=25809846"
   },
   {
-    "title": "Paint.wtf",
-    "url": "https://paint.wtf/",
-    "upvotes": 96,
-    "author": "hgarg",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25830087"
+    "title": "How to leave Google and why",
+    "url": "https://jach.me/how-to-leave-google",
+    "upvotes": 151,
+    "author": "yaszko",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=25831981"
   },
   {
-    "title": "Woman Is Sentenced to 43 Years for Criticizing Thai Monarchy",
-    "url": "https://www.nytimes.com/2021/01/19/world/asia/thailand-king-lese-majeste.html",
-    "upvotes": 9,
-    "author": "mzs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25833291"
+    "title": "Is this plane landing or departing?",
+    "url": "https://aviation.stackexchange.com/questions/34586/is-this-plane-landing-or-departing",
+    "upvotes": 85,
+    "author": "tkelemen",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25832054"
+  },
+  {
+    "title": "Colorize",
+    "url": "https://alexbeals.com/projects/colorize/",
+    "upvotes": 145,
+    "author": "didizaja",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=25828312"
   },
   {
     "title": "Nature’s Electromagnetic Symphony – Whistlers",
     "url": "https://aklsh.now.sh/blog/whistlers/",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "aklsh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25830624"
   },
   {
-    "title": "Colorize",
-    "url": "https://alexbeals.com/projects/colorize/",
-    "upvotes": 142,
-    "author": "didizaja",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=25828312"
+    "title": "Paint.wtf",
+    "url": "https://paint.wtf/",
+    "upvotes": 105,
+    "author": "hgarg",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=25830087"
   },
   {
     "title": "I wasted $40k on a fantastic startup idea",
     "url": "https://tjcx.me/p/i-wasted-40k-on-a-fantastic-startup-idea",
-    "upvotes": 741,
+    "upvotes": 749,
     "author": "swyx",
-    "comments": 346,
+    "comments": 350,
     "link": "https://news.ycombinator.com/item?id=25825917"
-  },
-  {
-    "title": "Is this plane landing or departing?",
-    "url": "https://aviation.stackexchange.com/questions/34586/is-this-plane-landing-or-departing",
-    "upvotes": 70,
-    "author": "tkelemen",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25832054"
   },
   {
     "title": "Sosumi Snap – Download and Install macOS in Ubuntu",
     "url": "https://github.com/popey/sosumi-snap",
-    "upvotes": 302,
+    "upvotes": 307,
     "author": "macco",
-    "comments": 106,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=25809640"
-  },
-  {
-    "title": "Raspberry Pi Lego Sorter",
-    "url": "https://www.raspberrypi.org/blog/raspberry-pi-lego-sorter/",
-    "upvotes": 5,
-    "author": "justin66",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25833490"
   },
   {
     "title": "Tech companies are profiling us from before birth",
     "url": "https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/",
-    "upvotes": 340,
+    "upvotes": 348,
     "author": "DamnInteresting",
-    "comments": 128,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=25825245"
   },
   {
-    "title": "A Study of the “Human Flesh” Search Engine",
-    "url": "http://www.u.arizona.edu/~qpzhang/paper/HFS_Computer_2010.pdf",
-    "upvotes": 15,
-    "author": "jasperpilgrim",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25820966"
+    "title": "Local rules instead of global censorship",
+    "url": "https://redecentralize.org/blog/2021/01/18/centralization-is-a-danger-to-democracy",
+    "upvotes": 185,
+    "author": "bklaasen",
+    "comments": 166,
+    "link": "https://news.ycombinator.com/item?id=25828081"
   }
 ]
