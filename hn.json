@@ -1,238 +1,238 @@
 [
   {
+    "title": "Rust for Windows",
+    "url": "https://github.com/microsoft/windows-rs",
+    "upvotes": 222,
+    "author": "dsr12",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=25862291"
+  },
+  {
+    "title": "Retiring Tucows Downloads",
+    "url": "https://tucows.com/retired/",
+    "upvotes": 75,
+    "author": "andrewdutton",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25862281"
+  },
+  {
     "title": "New Intel CEO Making Waves: Rehiring Retired CPU Architects",
     "url": "https://www.anandtech.com/show/16438/new-intel-ceo-making-waves-rehiring-retired-cpu-architects",
-    "upvotes": 219,
+    "upvotes": 297,
     "author": "rbanffy",
-    "comments": 122,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=25858750"
-  },
-  {
-    "title": "The Next Gen Database Servers Powering Let's Encrypt",
-    "url": "https://letsencrypt.org/2021/01/21/next-gen-database-servers.html",
-    "upvotes": 34,
-    "author": "jaas",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=25861422"
-  },
-  {
-    "title": "Bitcoincore.org removes Satoshi's whitepaper from website after threats from CSW",
-    "url": "https://bitcoin.org/en/posts/regarding-csw",
-    "upvotes": 147,
-    "author": "wildrice",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=25858901"
   },
   {
     "title": "Unlocking LUKS2 Volumes with TPM2, FIDO2, PKCS#11 Security HW on Systemd 248",
     "url": "http://0pointer.net/blog/unlocking-luks2-volumes-with-tpm2-fido2-pkcs11-security-hardware-on-systemd-248.html",
-    "upvotes": 9,
+    "upvotes": 36,
     "author": "uggedal",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25862158"
   },
   {
-    "title": "Launch HN: Finmark (YC S20) – Financial planning software for startups",
-    "url": "item?id=25860819",
-    "upvotes": 59,
-    "author": "ramie",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25860819"
+    "title": "The Next Gen Database Servers Powering Let's Encrypt",
+    "url": "https://letsencrypt.org/2021/01/21/next-gen-database-servers.html",
+    "upvotes": 79,
+    "author": "jaas",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=25861422"
   },
   {
-    "title": "How We Ported Linux to the M1",
-    "url": "https://corellium.com/blog/linux-m1",
-    "upvotes": 233,
-    "author": "easton",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25859907"
+    "title": "Toolz: A functional standard library for Python",
+    "url": "https://github.com/pytoolz/toolz",
+    "upvotes": 39,
+    "author": "optimalsolver",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25856633"
+  },
+  {
+    "title": "Over 700k paintings from the Rijksmuseum online copyright free",
+    "url": "https://www.ianvisits.co.uk/blog/2021/01/21/over-700000-paintings-from-the-rijksmuseum-online-copyright-free/",
+    "upvotes": 73,
+    "author": "edward",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=25859622"
+  },
+  {
+    "title": "Bitcoincore.org removes Satoshi's whitepaper from website after threats from CSW",
+    "url": "https://bitcoin.org/en/posts/regarding-csw",
+    "upvotes": 185,
+    "author": "wildrice",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=25858901"
   },
   {
     "title": "Predicting Hard Drive Failure with Machine Learning",
     "url": "https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning",
-    "upvotes": 135,
+    "upvotes": 150,
     "author": "binwiederhier",
-    "comments": 35,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=25859128"
   },
   {
-    "title": "Rust for Windows",
-    "url": "https://github.com/microsoft/windows-rs",
-    "upvotes": 17,
-    "author": "dsr12",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25862291"
-  },
-  {
-    "title": "New mutation of COVID19 strongly resistant to past immunity",
-    "url": "https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1",
-    "upvotes": 59,
-    "author": "KETpXDDzR",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25861769"
+    "title": "How We Ported Linux to the M1",
+    "url": "https://corellium.com/blog/linux-m1",
+    "upvotes": 256,
+    "author": "easton",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=25859907"
   },
   {
     "title": "Mux",
     "url": "https://mux.com/jobs?hnj=ldn"
   },
   {
-    "title": "Over 700k paintings from the Rijksmuseum online copyright free",
-    "url": "https://www.ianvisits.co.uk/blog/2021/01/21/over-700000-paintings-from-the-rijksmuseum-online-copyright-free/",
-    "upvotes": 41,
-    "author": "edward",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25859622"
+    "title": "Launch HN: Finmark (YC S20) – Financial planning software for startups",
+    "url": "item?id=25860819",
+    "upvotes": 67,
+    "author": "ramie",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=25860819"
+  },
+  {
+    "title": "RAM is the new disk – and how to measure its performance",
+    "url": "https://tanelpoder.com/2015/11/30/ram-is-the-new-disk-and-how-to-measure-its-performance-part-3-cpu-instructions-cycles/",
+    "upvotes": 4,
+    "author": "tanelpoder",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25863093"
   },
   {
     "title": "How to Build an Escrow Product",
     "url": "https://www.moderntreasury.com/journal/how-to-build-an-escrow-product",
-    "upvotes": 61,
+    "upvotes": 70,
     "author": "qin",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25859638"
-  },
-  {
-    "title": "Toolz: A functional standard library for Python",
-    "url": "https://github.com/pytoolz/toolz",
-    "upvotes": 14,
-    "author": "optimalsolver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25856633"
-  },
-  {
-    "title": "How to Start a Biotech Company on a Budget",
-    "url": "https://blog.ycombinator.com/how-to-start-a-biotech-company-on-a-budget/",
-    "upvotes": 63,
-    "author": "flipchart",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=25858555"
-  },
-  {
-    "title": "Retiring Tucows Downloads",
-    "url": "https://tucows.com/retired/",
-    "upvotes": 3,
-    "author": "andrewdutton",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25862281"
-  },
-  {
-    "title": "Prostate cancer can be precisely diagnosed using a urine test with AI",
-    "url": "https://phys.org/news/2021-01-cancer-precisely-urine-artificial-intelligence.html",
-    "upvotes": 111,
-    "author": "samizdis",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25860325"
-  },
-  {
-    "title": "Select a muscle and it provides the exercises to workout the selected muscle",
-    "url": "https://musclewiki.com/",
-    "upvotes": 1869,
-    "author": "punkspider",
-    "comments": 298,
-    "link": "https://news.ycombinator.com/item?id=25854523"
   },
   {
     "title": "FunkWhale: Decentralized Music Server",
     "url": "https://funkwhale.audio/en_US/",
-    "upvotes": 30,
+    "upvotes": 51,
     "author": "alexfromapex",
-    "comments": 10,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25860094"
+  },
+  {
+    "title": "How to Start a Biotech Company on a Budget",
+    "url": "https://blog.ycombinator.com/how-to-start-a-biotech-company-on-a-budget/",
+    "upvotes": 71,
+    "author": "flipchart",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25858555"
+  },
+  {
+    "title": "What my retraction taught me",
+    "url": "https://www.nature.com/articles/d41586-021-00073-4",
+    "upvotes": 25,
+    "author": "mellosouls",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25857253"
+  },
+  {
+    "title": "Twitter refused to remove child porn – it didn’t ‘violate policies’: lawsuit",
+    "url": "https://nypost.com/2021/01/21/twitter-sued-for-allegedly-refusing-to-remove-child-porn/",
+    "upvotes": 102,
+    "author": "thereare5lights",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=25861998"
+  },
+  {
+    "title": "Prostate cancer can be precisely diagnosed using a urine test with AI",
+    "url": "https://phys.org/news/2021-01-cancer-precisely-urine-artificial-intelligence.html",
+    "upvotes": 136,
+    "author": "samizdis",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=25860325"
   },
   {
     "title": "Hiding messages in images: steganography with Python and Repl.it",
     "url": "https://docs.repl.it/tutorials/13-steganography",
-    "upvotes": 20,
+    "upvotes": 27,
     "author": "sixhobbits",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25859891"
   },
   {
-    "title": "Show HN: I did a little thing in V",
-    "url": "https://github.com/profullstack/bitchin.net",
-    "upvotes": 4,
-    "author": "chovybizzass",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25862134"
-  },
-  {
-    "title": "The Apgar Score helped decrease the infant mortality rate",
-    "url": "https://massivesci.com/articles/virginia-apgar-score-anesthesiologist-our-science-heroes/",
-    "upvotes": 144,
-    "author": "allthebest",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25852438"
-  },
-  {
     "title": "Support for the IPFS Protocol – Firefox Bugzilla",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1354807",
-    "upvotes": 42,
+    "upvotes": 63,
     "author": "fossislife",
-    "comments": 5,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25858366"
   },
   {
     "title": "Pg-Emoji",
     "url": "https://github.com/truthly/pg-emoji",
-    "upvotes": 27,
+    "upvotes": 36,
     "author": "JoelJacobson",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25859656"
+  },
+  {
+    "title": "The Apgar Score helped decrease the infant mortality rate",
+    "url": "https://massivesci.com/articles/virginia-apgar-score-anesthesiologist-our-science-heroes/",
+    "upvotes": 148,
+    "author": "allthebest",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25852438"
+  },
+  {
+    "title": "Show HN: I did a little thing in V",
+    "url": "https://github.com/profullstack/bitchin.net",
+    "upvotes": 11,
+    "author": "chovybizzass",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25862134"
+  },
+  {
+    "title": "New mutation of COVID19 strongly resistant to past immunity",
+    "url": "https://www.biorxiv.org/content/10.1101/2021.01.18.427166v1",
+    "upvotes": 109,
+    "author": "KETpXDDzR",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=25861769"
   },
   {
     "title": "USN AN-1 Submarine Aircraft Carrier",
     "url": "http://www.hisutton.com/USN_AN-1_Submarine_Aircraft_Carrier.html",
-    "upvotes": 101,
+    "upvotes": 107,
     "author": "luu",
-    "comments": 69,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=25840557"
   },
   {
-    "title": "Advertisements have emerged on Substack's 'ad-free' newsletter platform",
-    "url": "https://www.businessinsider.com/advertisements-emerge-on-substacks-ad-free-newsletter-ecosystem-2021-1",
-    "upvotes": 46,
-    "author": "krm01",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=25860882"
+    "title": "Show HN: Pluto in-browser VR spatial video chat",
+    "url": "https://pluto.video",
+    "upvotes": 25,
+    "author": "eladgil",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25862171"
   },
   {
-    "title": "Frankie Manning's dancing skills made him famous twice",
-    "url": "http://www.vox.com/2016/5/26/11776066/frankie-mannings-102nd-birthday",
-    "upvotes": 62,
-    "author": "Tomte",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=25832936"
+    "title": "Instacart to Cut 1,900 Jobs, Including Its Only Union Roles",
+    "url": "https://www.bloomberg.com/news/articles/2021-01-21/instacart-to-cut-1-900-jobs-including-its-only-union-positions",
+    "upvotes": 6,
+    "author": "Jerry2",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25862948"
   },
   {
     "title": "Show HN: Beeper – All Your Chats in One App",
     "url": "https://www.beeperhq.com/?hn",
-    "upvotes": 797,
+    "upvotes": 815,
     "author": "erohead",
-    "comments": 428,
+    "comments": 430,
     "link": "https://news.ycombinator.com/item?id=25848278"
   },
   {
-    "title": "Twitter refused to remove child porn – it didn’t ‘violate policies’: lawsuit",
-    "url": "https://nypost.com/2021/01/21/twitter-sued-for-allegedly-refusing-to-remove-child-porn/",
-    "upvotes": 21,
-    "author": "thereare5lights",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25861998"
-  },
-  {
-    "title": "DECO – Using cell phones to detect cosmic rays and other energetic particles",
-    "url": "https://wipac.wisc.edu/deco/data",
-    "upvotes": 45,
-    "author": "agmm",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25833090"
-  },
-  {
-    "title": "Why do we assume extraterrestrials might want to visit us?",
-    "url": "https://www.scientificamerican.com/article/why-do-we-assume-extraterrestrials-might-want-to-visit-us/",
-    "upvotes": 93,
-    "author": "laybak",
-    "comments": 234,
-    "link": "https://news.ycombinator.com/item?id=25858603"
+    "title": "Frankie Manning's dancing skills made him famous twice",
+    "url": "http://www.vox.com/2016/5/26/11776066/frankie-mannings-102nd-birthday",
+    "upvotes": 64,
+    "author": "Tomte",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25832936"
   }
 ]
