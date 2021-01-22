@@ -2,50 +2,106 @@
   {
     "title": "AWS announces forks of Elasticsearch and Kibana",
     "url": "https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch",
-    "upvotes": 987,
+    "upvotes": 1029,
     "author": "ke4qqq",
-    "comments": 714,
+    "comments": 746,
     "link": "https://news.ycombinator.com/item?id=25865094"
   },
   {
     "title": "Complete rewrite of ownCloud to move away from LAMP",
     "url": "https://owncloud.com/infinite-scale/",
-    "upvotes": 18,
+    "upvotes": 69,
     "author": "veddox",
-    "comments": 8,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=25869798"
   },
   {
     "title": "Show HN: Git News – Social News website for developers and GitHub fans",
     "url": "https://gitnews.tech",
-    "upvotes": 53,
+    "upvotes": 61,
     "author": "nimit95",
-    "comments": 19,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25868970"
   },
   {
     "title": "Tales of Favicons and Caches: Persistent Tracking in Modern Browsers [pdf]",
     "url": "https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf",
-    "upvotes": 76,
+    "upvotes": 81,
     "author": "amenghra",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25868742"
   },
   {
     "title": "DeLorean considering all-electric reboot",
     "url": "https://www.newdelorean.com/nhtsa-releases-final-low-volume-manufacturing-rules/",
-    "upvotes": 363,
+    "upvotes": 371,
     "author": "evo_9",
-    "comments": 224,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=25864078"
   },
   {
-    "title": "Bitwarden releases “emergency access” feature",
-    "url": "https://bitwarden.com/help/article/releasenotes/#2021-01-19",
-    "upvotes": 320,
-    "author": "madsmtm",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=25863377"
+    "title": "The spat between Google and Australia, as reported on HN",
+    "url": "https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=Google%20Australia&sort=byDate&type=story",
+    "upvotes": 3,
+    "author": "ColinWright",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25870571"
+  },
+  {
+    "title": "Show HN: Welder – Record high-quality remote interviews",
+    "url": "https://www.getwelder.com/",
+    "upvotes": 17,
+    "author": "JohanCutych",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25869864"
+  },
+  {
+    "title": "Constructing an 8-bit relay computer from scratch",
+    "url": "https://relaycomputer.co.uk/pages/overview.html",
+    "upvotes": 26,
+    "author": "hggh",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25844686"
+  },
+  {
+    "title": "Show HN: 128-bit, roughly-ordered, URL-safe UUIDs",
+    "url": "https://github.com/anthonynsimon/timeflake",
+    "upvotes": 3,
+    "author": "amzans",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25870482"
+  },
+  {
+    "title": "The Secure Messaging App Conundrum: Signal vs. Telegram",
+    "url": "https://cqi.inf.usi.ch/publications/telegram_vs_signal.pdf",
+    "upvotes": 20,
+    "author": "todsacerdoti",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=25870133"
+  },
+  {
+    "title": "Knuth-Morris-Pratt string-searching algorithm: DFA-less version",
+    "url": "https://yurichev.com/news/20210121_Knuth_Morris_Pratt_3/",
+    "upvotes": 8,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25856558"
+  },
+  {
+    "title": "Android Ported to RISC-V",
+    "url": "https://www.theregister.com/2021/01/21/android_riscv_port/",
+    "upvotes": 39,
+    "author": "phkahler",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25869918"
+  },
+  {
+    "title": "Why isn't differential dataflow more popular?",
+    "url": "https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/",
+    "upvotes": 101,
+    "author": "jamii",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=25867693"
   },
   {
     "title": "Remembering the work of David M. Tilbrook and the QED editor",
@@ -56,89 +112,65 @@
     "link": "https://news.ycombinator.com/item?id=25844910"
   },
   {
-    "title": "Constructing an 8-bit relay computer from scratch",
-    "url": "https://relaycomputer.co.uk/pages/overview.html",
-    "upvotes": 10,
-    "author": "hggh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25844686"
-  },
-  {
-    "title": "Show HN: Welder – Record high-quality remote interviews",
-    "url": "https://www.getwelder.com/",
-    "upvotes": 5,
-    "author": "JohanCutych",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25869864"
-  },
-  {
-    "title": "Loon’s final flight",
-    "url": "https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e",
-    "upvotes": 215,
-    "author": "sarthakjshetty",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=25868713"
-  },
-  {
-    "title": "Why isn't differential dataflow more popular?",
-    "url": "https://scattered-thoughts.net/writing/why-isnt-differential-dataflow-more-popular/",
-    "upvotes": 86,
-    "author": "jamii",
+    "title": "Google agrees to pay French news sites to send them traffic",
+    "url": "https://arstechnica.com/tech-policy/2021/01/google-agrees-to-pay-french-news-sites-to-send-them-traffic/",
+    "upvotes": 28,
+    "author": "pseudolus",
     "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25867693"
+    "link": "https://news.ycombinator.com/item?id=25870044"
   },
   {
     "title": "Launch HN: Finmark (YC S20) – Financial planning software for startups",
     "url": "item?id=25860819",
-    "upvotes": 145,
+    "upvotes": 148,
     "author": "ramie",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=25860819"
   },
   {
-    "title": "Monarch butterfly population in California spirals to another record low",
-    "url": "http://xerces.org/blog/monarch-population-in-california-spirals-to-another-record-low",
-    "upvotes": 116,
-    "author": "prostoalex",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=25868644"
-  },
-  {
     "title": "Still alive",
     "url": "https://astralcodexten.substack.com/p/still-alive",
-    "upvotes": 673,
+    "upvotes": 708,
     "author": "Lewton",
-    "comments": 225,
+    "comments": 232,
     "link": "https://news.ycombinator.com/item?id=25865062"
+  },
+  {
+    "title": "Loon’s final flight",
+    "url": "https://blog.x.company/loons-final-flight-e9d699123a96?gi=b913b3d1667e",
+    "upvotes": 222,
+    "author": "sarthakjshetty",
+    "comments": 178,
+    "link": "https://news.ycombinator.com/item?id=25868713"
+  },
+  {
+    "title": "Monarch butterfly population in California spirals to another record low",
+    "url": "http://xerces.org/blog/monarch-population-in-california-spirals-to-another-record-low",
+    "upvotes": 120,
+    "author": "prostoalex",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25868644"
   },
   {
     "title": "What is good and bad about the F-35 cockpit",
     "url": "https://hushkit.net/2021/01/21/what-is-good-and-bad-about-the-f-35-cockpit-a-panthers-pilots-guide-to-modern-cockpits/",
-    "upvotes": 134,
+    "upvotes": 137,
     "author": "edward",
-    "comments": 123,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=25863637"
-  },
-  {
-    "title": "Android Ported to RISC-V",
-    "url": "https://www.theregister.com/2021/01/21/android_riscv_port/",
-    "upvotes": 11,
-    "author": "phkahler",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25869918"
   },
   {
     "title": "New Intel CEO rehiring retired CPU architects",
     "url": "https://www.anandtech.com/show/16438/new-intel-ceo-making-waves-rehiring-retired-cpu-architects",
-    "upvotes": 639,
+    "upvotes": 645,
     "author": "rbanffy",
-    "comments": 412,
+    "comments": 420,
     "link": "https://news.ycombinator.com/item?id=25858750"
   },
   {
     "title": "SecureDrop: Share and accept documents securely",
     "url": "https://securedrop.org/",
-    "upvotes": 104,
+    "upvotes": 108,
     "author": "vincent_s",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25863574"
@@ -146,10 +178,38 @@
   {
     "title": "Show HN: A dead code killer for Erlang",
     "url": "https://tech.nextroll.com/blog/dev/2021/01/06/erlang-rebar3-hank.html",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "elbrujohalcon",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25857400"
+  },
+  {
+    "title": "Relationship Hero",
+    "url": "https://relationshiphero.com/careers?role=coach"
+  },
+  {
+    "title": "Retiring Tucows Downloads",
+    "url": "https://tucows.com/retired/",
+    "upvotes": 465,
+    "author": "andrewdutton",
+    "comments": 182,
+    "link": "https://news.ycombinator.com/item?id=25862281"
+  },
+  {
+    "title": "Basic Scripting with Awk and Gnuplot",
+    "url": "https://cyberchris.xyz/posts/awk-and-gnuplot/",
+    "upvotes": 85,
+    "author": "thevirtuoso1973",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=25863846"
+  },
+  {
+    "title": "The database servers powering Let's Encrypt",
+    "url": "https://letsencrypt.org/2021/01/21/next-gen-database-servers.html",
+    "upvotes": 419,
+    "author": "jaas",
+    "comments": 192,
+    "link": "https://news.ycombinator.com/item?id=25861422"
   },
   {
     "title": "Fornax a Galaxy Investigated with AstroSat",
@@ -160,79 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25857801"
   },
   {
-    "title": "Retiring Tucows Downloads",
-    "url": "https://tucows.com/retired/",
-    "upvotes": 458,
-    "author": "andrewdutton",
-    "comments": 179,
-    "link": "https://news.ycombinator.com/item?id=25862281"
-  },
-  {
-    "title": "Relationship Hero",
-    "url": "https://relationshiphero.com/careers?role=coach"
-  },
-  {
-    "title": "Bertrand Might: Life, legacy and next steps",
-    "url": "http://bertrand.might.net/",
-    "upvotes": 91,
-    "author": "teslabox",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25859055"
-  },
-  {
-    "title": "Judge refuses to reinstate Parler after Amazon shut it down",
-    "url": "https://www.npr.org/2021/01/21/956486352/judge-refuses-to-reinstate-parler-after-amazon-shut-it-down",
-    "upvotes": 304,
-    "author": "eu",
-    "comments": 501,
-    "link": "https://news.ycombinator.com/item?id=25863999"
-  },
-  {
-    "title": "Basic Scripting with Awk and Gnuplot",
-    "url": "https://cyberchris.xyz/posts/awk-and-gnuplot/",
-    "upvotes": 78,
-    "author": "thevirtuoso1973",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25863846"
+    "title": "Bitwarden releases “emergency access” feature",
+    "url": "https://bitwarden.com/help/article/releasenotes/#2021-01-19",
+    "upvotes": 331,
+    "author": "madsmtm",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=25863377"
   },
   {
     "title": "Valetudo is a cloud-free web interface for robot vacuum cleaners",
     "url": "https://www.cnx-software.com/2021/01/20/valetudo-is-a-cloud-free-web-interface-for-robot-vacuum-cleaners/",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "dmayle",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25856788"
-  },
-  {
-    "title": "The database servers powering Let's Encrypt",
-    "url": "https://letsencrypt.org/2021/01/21/next-gen-database-servers.html",
-    "upvotes": 401,
-    "author": "jaas",
-    "comments": 189,
-    "link": "https://news.ycombinator.com/item?id=25861422"
-  },
-  {
-    "title": "Over 700k paintings from the Rijksmuseum online copyright free",
-    "url": "https://www.ianvisits.co.uk/blog/2021/01/21/over-700000-paintings-from-the-rijksmuseum-online-copyright-free/",
-    "upvotes": 354,
-    "author": "edward",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=25859622"
-  },
-  {
-    "title": "Show HN: Beeper – All Your Chats in One App",
-    "url": "https://www.beeperhq.com/?hn",
-    "upvotes": 876,
-    "author": "erohead",
-    "comments": 455,
-    "link": "https://news.ycombinator.com/item?id=25848278"
-  },
-  {
-    "title": "How do you tag a jellyfish?",
-    "url": "https://futureoftheocean.wordpress.com/2017/08/01/how-do-you-tag-a-jellyfish/",
-    "upvotes": 25,
-    "author": "Tomte",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25858566"
   }
 ]
