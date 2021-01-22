@@ -1,140 +1,132 @@
 [
   {
-    "title": "Dissecting the Apple M1 GPU, Part II",
-    "url": "https://rosenzweig.io/blog/asahi-gpu-part-2.html",
-    "upvotes": 251,
-    "author": "dddddaviddddd",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=25873887"
-  },
-  {
     "title": "First-ever atomic resolution video of salt crystals forming in real time",
     "url": "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html",
-    "upvotes": 132,
+    "upvotes": 225,
     "author": "rbanffy",
-    "comments": 15,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25874497"
   },
   {
-    "title": "Pidgin – A Universal Chat Client",
-    "url": "https://www.pidgin.im/plugins",
-    "upvotes": 427,
-    "author": "smusamashah",
-    "comments": 284,
-    "link": "https://news.ycombinator.com/item?id=25872525"
+    "title": "Dissecting the Apple M1 GPU, Part II",
+    "url": "https://rosenzweig.io/blog/asahi-gpu-part-2.html",
+    "upvotes": 299,
+    "author": "dddddaviddddd",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=25873887"
   },
   {
     "title": "PostgreSQL on ARM-Based AWS EC2 Instances",
     "url": "https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/",
-    "upvotes": 27,
+    "upvotes": 60,
     "author": "timf",
-    "comments": 9,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25875342"
   },
   {
-    "title": "Remembering Windows 3.1 themes and user empowerment",
-    "url": "https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/",
-    "upvotes": 226,
-    "author": "ingve",
-    "comments": 192,
-    "link": "https://news.ycombinator.com/item?id=25871787"
-  },
-  {
-    "title": "How hard should I push myself?",
-    "url": "https://superorganizers.every.to/p/how-hard-should-i-push-myself",
-    "upvotes": 53,
-    "author": "dshipper",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25874374"
+    "title": "Pidgin – A Universal Chat Client",
+    "url": "https://www.pidgin.im/plugins",
+    "upvotes": 445,
+    "author": "smusamashah",
+    "comments": 307,
+    "link": "https://news.ycombinator.com/item?id=25872525"
   },
   {
     "title": "Wild lynx could be reintroduced into Scottish Highlands",
     "url": "https://www.theguardian.com/environment/2021/jan/20/wild-lynx-could-be-reintroduced-into-scottish-highlands",
-    "upvotes": 18,
+    "upvotes": 39,
     "author": "edward",
-    "comments": 3,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25856967"
-  },
-  {
-    "title": "Economist: Chipmaking Is Being Redesigned",
-    "url": "https://www.economist.com/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching",
-    "upvotes": 37,
-    "author": "klelatti",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25874108"
   },
   {
     "title": "Access Control for GitHub Pages",
     "url": "https://github.blog/changelog/2021-01-21-access-control-for-github-pages/",
-    "upvotes": 20,
+    "upvotes": 39,
     "author": "jbredeche",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25874737"
   },
   {
-    "title": "Show HN: Iconduck – 100k open source icons, downloadable and searchable",
-    "url": "https://iconduck.com/",
-    "upvotes": 269,
-    "author": "onassar",
+    "title": "Jerry, Inc.",
+    "url": "https://jerry.ai/careers"
+  },
+  {
+    "title": "Remembering Windows 3.1 themes and user empowerment",
+    "url": "https://hisham.hm/2019/07/26/remembering-windows-31-themes-and-user-empowerment/",
+    "upvotes": 241,
+    "author": "ingve",
+    "comments": 216,
+    "link": "https://news.ycombinator.com/item?id=25871787"
+  },
+  {
+    "title": ".NET GC Internals mini-series",
+    "url": "https://tooslowexception.com/net-gc-internals-mini-series/",
+    "upvotes": 12,
+    "author": "GordonS",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25876087"
+  },
+  {
+    "title": "Economist: Chipmaking Is Being Redesigned",
+    "url": "https://www.economist.com/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching",
+    "upvotes": 52,
+    "author": "klelatti",
     "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25872922"
+    "link": "https://news.ycombinator.com/item?id=25874108"
+  },
+  {
+    "title": "How hard should I push myself?",
+    "url": "https://superorganizers.every.to/p/how-hard-should-i-push-myself",
+    "upvotes": 71,
+    "author": "dshipper",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=25874374"
   },
   {
     "title": "Rqlite: The lightweight, distributed relational database built on SQLite",
     "url": "https://github.com/rqlite/rqlite",
-    "upvotes": 141,
+    "upvotes": 149,
     "author": "pavanyara",
-    "comments": 63,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=25871605"
+  },
+  {
+    "title": "Show HN: Iconduck – 100k open source icons, downloadable and searchable",
+    "url": "https://iconduck.com/",
+    "upvotes": 292,
+    "author": "onassar",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25872922"
   },
   {
     "title": "Wehe – Check Your ISP for Net Neutrality Violations",
     "url": "https://dd.meddle.mobi/",
-    "upvotes": 69,
+    "upvotes": 78,
     "author": "simonpure",
-    "comments": 36,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25872681"
-  },
-  {
-    "title": "Repl.it is hiring designers and engineers to build better programming environments",
-    "url": "https://repl.it/careers"
   },
   {
     "title": "Climate change: US emissions in 2020 in biggest fall since WWII",
     "url": "https://www.bbc.com/news/science-environment-55632050",
-    "upvotes": 60,
+    "upvotes": 83,
     "author": "LinuxBender",
-    "comments": 70,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=25874471"
-  },
-  {
-    "title": "Ask HN: Why Aren't Micropayments a Thing?",
-    "url": "item?id=25875386",
-    "upvotes": 23,
-    "author": "wppick",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25875386"
   },
   {
     "title": "Study Reveals Immune Driver of Brain Aging",
     "url": "https://med.stanford.edu/news/all-news/2021/01/study-reveals-immune-driver-of-brain-aging.html",
-    "upvotes": 102,
+    "upvotes": 120,
     "author": "oedmarap",
-    "comments": 69,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=25871347"
-  },
-  {
-    "title": "Patricia Highsmith was an enduring writer",
-    "url": "https://www.economist.com/books-and-arts/2021/01/20/a-poisonous-person-patricia-highsmith-was-an-enduring-writer",
-    "upvotes": 8,
-    "author": "js2",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25856523"
   },
   {
     "title": "Gist.cafe – Execute Gists of Python Node Deno C# Dart Swift Go Kotlin Java VB F#",
     "url": "https://gist.cafe",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "mythz",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25871598"
@@ -142,97 +134,105 @@
   {
     "title": "A story about pivots",
     "url": "https://posthog.com/blog/story-about-pivots",
-    "upvotes": 96,
+    "upvotes": 104,
     "author": "james_impliu",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25871629"
   },
   {
-    "title": "Auto-Redistrict – automatically creates electoral districts",
-    "url": "http://autoredistrict.org/",
-    "upvotes": 35,
-    "author": "Corrado",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=25874039"
+    "title": "Pivotal discovery in quantum and classical information processing",
+    "url": "https://www.anl.gov/article/pivotal-discovery-in-quantum-and-classical-information-processing",
+    "upvotes": 15,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25875571"
+  },
+  {
+    "title": "Patricia Highsmith was an enduring writer",
+    "url": "https://www.economist.com/books-and-arts/2021/01/20/a-poisonous-person-patricia-highsmith-was-an-enduring-writer",
+    "upvotes": 11,
+    "author": "js2",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25856523"
   },
   {
     "title": "Show HN: 128-bit, roughly-ordered, URL-safe UUIDs",
     "url": "https://github.com/anthonynsimon/timeflake",
-    "upvotes": 139,
+    "upvotes": 144,
     "author": "amzans",
-    "comments": 116,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=25870482"
   },
   {
     "title": "Show HN: Userbase – Auth and E2E encrypted storage in a few lines of code",
     "url": "https://userbase.com/?home",
-    "upvotes": 21,
+    "upvotes": 30,
     "author": "j-berman",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25869472"
-  },
-  {
-    "title": "React created roadblocks in our enterprise app",
-    "url": "https://medium.com/better-programming/i-almost-got-fired-for-choosing-react-in-our-enterprise-app-846ea840841c",
-    "upvotes": 97,
-    "author": "andreiursan",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=25874105"
   },
   {
     "title": "Intro to securing communication protocols with Noise",
     "url": "https://grund.me/posts/securing-custom-protocols-with-noise/",
-    "upvotes": 19,
+    "upvotes": 25,
     "author": "grundprinzip",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25857422"
+  },
+  {
+    "title": "A brief insight into the complexities of creating a new capability at the BBC",
+    "url": "https://medium.com/bbc-design-engineering/a-brief-insight-into-the-complexities-of-creating-a-new-capability-at-the-bbc-b52c464ed7ee",
+    "upvotes": 12,
+    "author": "kiyanwang",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25856533"
+  },
+  {
+    "title": "React created roadblocks in our enterprise app",
+    "url": "https://medium.com/better-programming/i-almost-got-fired-for-choosing-react-in-our-enterprise-app-846ea840841c",
+    "upvotes": 122,
+    "author": "andreiursan",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=25874105"
+  },
+  {
+    "title": "Libvirt: Adoption of GLib library to replace GNULIB and home grown code",
+    "url": "https://www.berrange.com/posts/2020/01/30/libvirt-adoption-of-glib-library-to-replace-gnulib-home-grown-code/",
+    "upvotes": 9,
+    "author": "adgnaf",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25857463"
+  },
+  {
+    "title": "Show HN: I built Multy – Generate a short URL to share a list of websites",
+    "url": "https://www.multy.me/",
+    "upvotes": 23,
+    "author": "Etheon",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25870504"
+  },
+  {
+    "title": "Auto-Redistrict – automatically creates electoral districts",
+    "url": "http://autoredistrict.org/",
+    "upvotes": 43,
+    "author": "Corrado",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=25874039"
   },
   {
     "title": "Promoted Add-ons Pilot Wrap-up",
     "url": "https://blog.mozilla.org/addons/2021/01/21/promoted-add-ons-pilot-wrap-up/",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "TedDoesntTalk",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25871396"
   },
   {
     "title": "Cgit, Nginx and Gitolite: A Personal Git Server",
     "url": "https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/",
-    "upvotes": 113,
+    "upvotes": 116,
     "author": "cuu508",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25856071"
-  },
-  {
-    "title": "Show HN: I built Multy – Generate a short URL to share a list of websites",
-    "url": "https://www.multy.me/",
-    "upvotes": 12,
-    "author": "Etheon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25870504"
-  },
-  {
-    "title": "A brief insight into the complexities of creating a new capability at the BBC",
-    "url": "https://medium.com/bbc-design-engineering/a-brief-insight-into-the-complexities-of-creating-a-new-capability-at-the-bbc-b52c464ed7ee",
-    "upvotes": 6,
-    "author": "kiyanwang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25856533"
-  },
-  {
-    "title": "Tales of Favicons and Caches: Persistent Tracking in Modern Browsers [pdf]",
-    "url": "https://www.cs.uic.edu/~polakis/papers/solomos-ndss21.pdf",
-    "upvotes": 164,
-    "author": "amenghra",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25868742"
-  },
-  {
-    "title": "Raspberry Pi Enters Microcontroller Game with $4 Pico",
-    "url": "https://hackaday.com/2021/01/20/raspberry-pi-enters-microcontroller-game-with-4-pico/",
-    "upvotes": 159,
-    "author": "dwpdwpdwpdwpdwp",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=25871990"
   }
 ]
