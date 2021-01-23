@@ -2,139 +2,155 @@
   {
     "title": "I bought 200 Raspberry Pi Model B’s and I’m going to fix them",
     "url": "https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/",
-    "upvotes": 94,
+    "upvotes": 141,
     "author": "stedaniels",
-    "comments": 27,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=25885348"
   },
   {
     "title": "Replicating GPT-2 at Home",
     "url": "https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html",
-    "upvotes": 145,
+    "upvotes": 161,
     "author": "bkkaggle",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25883791"
-  },
-  {
-    "title": "FBI agents track cell phones that pinged near the Capitol",
-    "url": "https://www.wusa9.com/article/features/producers-picks/fbi-tracks-cell-phones-that-were-near-capitol-insurrection-and-riot/65-ca268165-a5c5-46a4-8b88-943a8517343a",
-    "upvotes": 134,
-    "author": "danso",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=25882688"
   },
   {
     "title": "DrScheme in Space",
     "url": "https://parentheticallyspeaking.org/articles/drscheme-in-space/",
-    "upvotes": 9,
+    "upvotes": 43,
     "author": "azhenley",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25885430"
   },
   {
-    "title": "Why can 2 times 3 sometimes equal 7 with Android's Neural Network API?",
-    "url": "http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html",
+    "title": "Filmulator – a streamlined, open-source raw photo editor",
+    "url": "https://filmulator.org/v0-11-0/",
     "upvotes": 15,
-    "author": "aga_ml",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25885524"
+    "author": "CarVac",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25885760"
+  },
+  {
+    "title": "Game Design Perspective: Stardew Valley",
+    "url": "https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley",
+    "upvotes": 30,
+    "author": "prismatic",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25875395"
+  },
+  {
+    "title": "Malware found on laptops given out by government",
+    "url": "https://www.bbc.com/news/technology-55749959",
+    "upvotes": 11,
+    "author": "elorant",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25886066"
+  },
+  {
+    "title": "FBI agents track cell phones that pinged near the Capitol",
+    "url": "https://www.wusa9.com/article/features/producers-picks/fbi-tracks-cell-phones-that-were-near-capitol-insurrection-and-riot/65-ca268165-a5c5-46a4-8b88-943a8517343a",
+    "upvotes": 167,
+    "author": "danso",
+    "comments": 250,
+    "link": "https://news.ycombinator.com/item?id=25882688"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "VisualAge for Java 1.0 – Let the Future Begin",
-    "url": "https://www.tug.ca/articles/Volume13/V13N1/V13N1_Jenkins_VisualAge-for-Java.html",
-    "upvotes": 36,
-    "author": "rufus_foreman",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25884159"
+    "title": "Why can 2 times 3 sometimes equal 7 with Android's Neural Network API?",
+    "url": "http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html",
+    "upvotes": 22,
+    "author": "aga_ml",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25885524"
   },
   {
     "title": "Java 1.0 Turns 25",
     "url": "https://www.infoq.com/news/2021/01/java-turns-25/",
-    "upvotes": 163,
+    "upvotes": 175,
     "author": "alblue",
-    "comments": 174,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=25881704"
+  },
+  {
+    "title": "VisualAge for Java 1.0 – Let the Future Begin",
+    "url": "https://www.tug.ca/articles/Volume13/V13N1/V13N1_Jenkins_VisualAge-for-Java.html",
+    "upvotes": 43,
+    "author": "rufus_foreman",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25884159"
   },
   {
     "title": "But how, exactly, do databases use mmap?",
     "url": "https://brunocalza.me/but-how-exactly-databases-use-mmap/",
-    "upvotes": 151,
+    "upvotes": 155,
     "author": "brunoac",
-    "comments": 84,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=25881911"
-  },
-  {
-    "title": "TRS-80: a TRS-80 running a custom Associated Press ROM",
-    "url": "https://wayne.lorentz.me/This_TRS-80/",
-    "upvotes": 37,
-    "author": "Aloha",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25883853"
-  },
-  {
-    "title": "Firecracker: Start a VM in less than a second",
-    "url": "https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/",
-    "upvotes": 250,
-    "author": "ArmandGrillet",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=25883253"
-  },
-  {
-    "title": "Designing a Ruby Serverless Runtime",
-    "url": "https://daniel-azuma.com/blog/2021/01/20/designing-a-ruby-serverless-runtime",
-    "upvotes": 16,
-    "author": "kiyanwang",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25870937"
   },
   {
     "title": "Emails a browser extension developer gets from scammers",
     "url": "https://sponsor.ajay.app/emails/",
-    "upvotes": 28,
+    "upvotes": 50,
     "author": "ajayyy",
-    "comments": 14,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25884338"
   },
   {
-    "title": "Old Compilers and Old Bugs",
-    "url": "https://lwn.net/Articles/842122/",
-    "upvotes": 43,
-    "author": "zdw",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25862272"
-  },
-  {
-    "title": "Game Design Perspective: Stardew Valley",
-    "url": "https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley",
-    "upvotes": 5,
-    "author": "prismatic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25875395"
-  },
-  {
-    "title": "Implementing Raft's Leader Election in Rust",
-    "url": "http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/",
-    "upvotes": 17,
-    "author": "laurocaetano",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25884781"
+    "title": "TRS-80: a TRS-80 running a custom Associated Press ROM",
+    "url": "https://wayne.lorentz.me/This_TRS-80/",
+    "upvotes": 44,
+    "author": "Aloha",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25883853"
   },
   {
     "title": "Show HN: Traindown – A language to help athletes express their training",
     "url": "https://traindown.com",
-    "upvotes": 17,
+    "upvotes": 28,
     "author": "tylerscott",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25884762"
   },
   {
+    "title": "Old Compilers and Old Bugs",
+    "url": "https://lwn.net/Articles/842122/",
+    "upvotes": 49,
+    "author": "zdw",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25862272"
+  },
+  {
+    "title": "Firecracker: Start a VM in less than a second",
+    "url": "https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/",
+    "upvotes": 270,
+    "author": "ArmandGrillet",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=25883253"
+  },
+  {
+    "title": "Designing a Ruby Serverless Runtime",
+    "url": "https://daniel-azuma.com/blog/2021/01/20/designing-a-ruby-serverless-runtime",
+    "upvotes": 25,
+    "author": "kiyanwang",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25870937"
+  },
+  {
+    "title": "Bram's Law",
+    "url": "https://web.archive.org/web/20170629144859/http://www.advogato.org/person/Bram/diary/68.html",
+    "upvotes": 3,
+    "author": "tjalfi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25860008"
+  },
+  {
     "title": "Programming Language Foundations in Agda",
     "url": "https://plfa.github.io/",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "blewboarwastake",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25870695"
@@ -142,97 +158,81 @@
   {
     "title": "Foundations Built for a General Theory of Neural Networks",
     "url": "https://www.quantamagazine.org/foundations-built-for-a-general-theory-of-neural-networks-20190131/",
-    "upvotes": 41,
+    "upvotes": 45,
     "author": "ColinWright",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25881740"
   },
   {
     "title": "Cache Management Lessons Learned",
     "url": "https://symas.com/cache-management-lessons-learned/",
-    "upvotes": 38,
+    "upvotes": 42,
     "author": "timf",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25882508"
   },
   {
-    "title": "Internet disrupted in Russia amid opposition protests",
-    "url": "https://netblocks.org/reports/internet-disrupted-in-russia-amid-opposition-protests-98aRXQAo",
-    "upvotes": 92,
-    "author": "giuliomagnifico",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25885244"
-  },
-  {
-    "title": "Raspberry Pi as x2go “thin” client",
-    "url": "http://www.multi-seat.com/x2go/",
-    "upvotes": 93,
-    "author": "indigodaddy",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=25881126"
+    "title": "Ask HN: Is low level progarmming job more satisfying?",
+    "url": "item?id=25885699",
+    "upvotes": 28,
+    "author": "mike_k",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25885699"
   },
   {
     "title": "Microsoft Opens Up Old Win32 APIs to C# and Rust",
     "url": "https://visualstudiomagazine.com/articles/2021/01/21/win32-apis.aspx",
-    "upvotes": 33,
+    "upvotes": 47,
     "author": "rsecora",
-    "comments": 10,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25885196"
-  },
-  {
-    "title": "Build a Salary with GitHub Sponsors",
-    "url": "https://onlysponsors.dev/",
-    "upvotes": 178,
-    "author": "rk06",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=25882021"
-  },
-  {
-    "title": "France has passed a law protecting the sounds and smells of the countryside",
-    "url": "https://edition.cnn.com/travel/article/france-rural-noise-law-scli-intl/index.html",
-    "upvotes": 36,
-    "author": "yamrzou",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=25881783"
-  },
-  {
-    "title": "Siuba – A Dplyr Port to Python",
-    "url": "https://github.com/machow/siuba",
-    "upvotes": 70,
-    "author": "grst",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25858457"
-  },
-  {
-    "title": "Brad Cox has died",
-    "url": "https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225",
-    "upvotes": 830,
-    "author": "carlosrg",
-    "comments": 168,
-    "link": "https://news.ycombinator.com/item?id=25876767"
-  },
-  {
-    "title": "Cargill open-sources Splinter, its ‘blockchain-like’ supply chain software",
-    "url": "https://agfundernews.com/splinter-cargill-open-sources-software-to-build-a-better-agrifood-supply-chain.html",
-    "upvotes": 98,
-    "author": "adrian_mrd",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=25869303"
   },
   {
     "title": "Teleguard: Swiss Made Safe Messaging",
     "url": "https://teleguard.com/en/",
-    "upvotes": 26,
+    "upvotes": 38,
     "author": "0x10c0fe11ce",
-    "comments": 61,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25882319"
   },
   {
-    "title": "How you can get banned from Facebook permanently",
-    "url": "https://www.elliott.org/blog/banned-from-facebook-permanently-how/",
-    "upvotes": 106,
-    "author": "GNU_James",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=25884019"
+    "title": "Raspberry Pi as x2go “thin” client",
+    "url": "http://www.multi-seat.com/x2go/",
+    "upvotes": 95,
+    "author": "indigodaddy",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=25881126"
+  },
+  {
+    "title": "Internet disrupted in Russia amid opposition protests",
+    "url": "https://netblocks.org/reports/internet-disrupted-in-russia-amid-opposition-protests-98aRXQAo",
+    "upvotes": 121,
+    "author": "giuliomagnifico",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=25885244"
+  },
+  {
+    "title": "France has passed a law protecting the sounds and smells of the countryside",
+    "url": "https://edition.cnn.com/travel/article/france-rural-noise-law-scli-intl/index.html",
+    "upvotes": 49,
+    "author": "yamrzou",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=25881783"
+  },
+  {
+    "title": "Tell HN: 19yo, bootstrapped SaaS, 250k ARR after 10 months",
+    "url": "item?id=25883858",
+    "upvotes": 143,
+    "author": "snerual",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=25883858"
+  },
+  {
+    "title": "Build a Salary with GitHub Sponsors",
+    "url": "https://onlysponsors.dev/",
+    "upvotes": 189,
+    "author": "rk06",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=25882021"
   }
 ]
