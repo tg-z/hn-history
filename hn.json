@@ -2,55 +2,67 @@
   {
     "title": "Brad Cox has died",
     "url": "https://www.legacy.com/us/obituaries/scnow/name/brad-cox-obituary?pid=197454225",
-    "upvotes": 694,
+    "upvotes": 713,
     "author": "carlosrg",
-    "comments": 132,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=25876767"
   },
   {
     "title": "Raspberry Pi as x2go “thin” client",
     "url": "http://www.multi-seat.com/x2go/",
-    "upvotes": 14,
+    "upvotes": 25,
     "author": "indigodaddy",
-    "comments": 7,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25881126"
   },
   {
     "title": "One hull crack located in ISS, another one suspected",
     "url": "https://tass.com/science/1247847",
-    "upvotes": 309,
+    "upvotes": 319,
     "author": "revicon",
-    "comments": 213,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=25877059"
   },
   {
     "title": "Atomic resolution video of salt crystals forming in real time",
     "url": "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00161.html",
-    "upvotes": 568,
+    "upvotes": 577,
     "author": "rbanffy",
     "comments": 85,
     "link": "https://news.ycombinator.com/item?id=25874497"
   },
   {
+    "title": "Dissecting the Apple M1 GPU, Part II",
+    "url": "https://rosenzweig.io/blog/asahi-gpu-part-2.html",
+    "upvotes": 525,
+    "author": "dddddaviddddd",
+    "comments": 175,
+    "link": "https://news.ycombinator.com/item?id=25873887"
+  },
+  {
+    "title": "The Muse",
+    "url": "https://www.themuse.com/jobs/themuse/senior-product-designer"
+  },
+  {
     "title": "Show HN: Rysolv – Fix open source issues, get paid",
     "url": "https://rysolv.com/issues",
-    "upvotes": 128,
+    "upvotes": 141,
     "author": "themanmaran",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25879238"
   },
   {
-    "title": "Dissecting the Apple M1 GPU, Part II",
-    "url": "https://rosenzweig.io/blog/asahi-gpu-part-2.html",
-    "upvotes": 517,
-    "author": "dddddaviddddd",
-    "comments": 173,
-    "link": "https://news.ycombinator.com/item?id=25873887"
+    "title": "Siuba – A Dplyr Port to Python",
+    "url": "https://github.com/machow/siuba",
+    "upvotes": 6,
+    "author": "grst",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25858457"
   },
   {
     "title": "Sony News Portable Workstation NWS-1250",
     "url": "https://randoc.wordpress.com/2020/02/27/sony-news-portable-workstation-nws-1250/",
-    "upvotes": 53,
+    "upvotes": 57,
     "author": "rbanffy",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25871354"
@@ -58,18 +70,74 @@
   {
     "title": "New six-film series from Adam Curtis",
     "url": "https://www.bbc.com/mediacentre/2021/cgyoomh",
-    "upvotes": 184,
+    "upvotes": 195,
     "author": "DonaldFisk",
-    "comments": 79,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=25878073"
   },
   {
     "title": "Cargill open-sources Splinter, its ‘blockchain-like’ supply chain software",
     "url": "https://agfundernews.com/splinter-cargill-open-sources-software-to-build-a-better-agrifood-supply-chain.html",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "adrian_mrd",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25869303"
+  },
+  {
+    "title": "How hard should I push myself?",
+    "url": "https://superorganizers.every.to/p/how-hard-should-i-push-myself",
+    "upvotes": 265,
+    "author": "dshipper",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=25874374"
+  },
+  {
+    "title": "PostgreSQL on ARM-Based AWS EC2 Instances",
+    "url": "https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/",
+    "upvotes": 185,
+    "author": "timf",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=25875342"
+  },
+  {
+    "title": ".NET GC Internals mini-series",
+    "url": "https://tooslowexception.com/net-gc-internals-mini-series/",
+    "upvotes": 165,
+    "author": "GordonS",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=25876087"
+  },
+  {
+    "title": "Micro Benchmarking Dart",
+    "url": "https://mrale.ph/blog/2021/01/21/microbenchmarking-dart-part-1.html",
+    "upvotes": 14,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25870054"
+  },
+  {
+    "title": "Who Will Control the Software That Powers the Internet?",
+    "url": "https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/",
+    "upvotes": 83,
+    "author": "simonpure",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=25878678"
+  },
+  {
+    "title": "The right way to turn off your old APIs",
+    "url": "https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis/",
+    "upvotes": 77,
+    "author": "pimterry",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25857773"
+  },
+  {
+    "title": "JavaSoft ships Java 1.0",
+    "url": "https://web.archive.org/web/20070310235103/http://www.sun.com/smi/Press/sunflash/1996-01/sunflash.960123.10561.xml",
+    "upvotes": 5,
+    "author": "alblue",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25880880"
   },
   {
     "title": "Baleen Analytics: Large-scale filtering of data provides serendipitous surprises",
@@ -80,96 +148,60 @@
     "link": "https://news.ycombinator.com/item?id=25871189"
   },
   {
-    "title": "PostgreSQL on ARM-Based AWS EC2 Instances",
-    "url": "https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/",
-    "upvotes": 182,
-    "author": "timf",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=25875342"
-  },
-  {
-    "title": "How hard should I push myself?",
-    "url": "https://superorganizers.every.to/p/how-hard-should-i-push-myself",
-    "upvotes": 260,
-    "author": "dshipper",
-    "comments": 175,
-    "link": "https://news.ycombinator.com/item?id=25874374"
-  },
-  {
-    "title": ".NET GC Internals mini-series",
-    "url": "https://tooslowexception.com/net-gc-internals-mini-series/",
-    "upvotes": 161,
-    "author": "GordonS",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=25876087"
-  },
-  {
-    "title": "Raycast",
-    "url": "https://raycast.com/jobs"
-  },
-  {
-    "title": "Who Will Control the Software That Powers the Internet?",
-    "url": "https://a16z.com/2021/01/14/internet-control-crypto-decentralization-community-owned-operated-networks/",
-    "upvotes": 79,
-    "author": "simonpure",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25878678"
-  },
-  {
-    "title": "Micro Benchmarking Dart",
-    "url": "https://mrale.ph/blog/2021/01/21/microbenchmarking-dart-part-1.html",
-    "upvotes": 12,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25870054"
-  },
-  {
-    "title": "Chipmaking Is Being Redesigned",
-    "url": "https://www.economist.com/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching",
-    "upvotes": 148,
-    "author": "klelatti",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=25874108"
-  },
-  {
     "title": "Access Control for GitHub Pages",
     "url": "https://github.blog/changelog/2021-01-21-access-control-for-github-pages/",
-    "upvotes": 163,
+    "upvotes": 169,
     "author": "jbredeche",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25874737"
   },
   {
-    "title": "The right way to turn off your old APIs",
-    "url": "https://httptoolkit.tech/blog/how-to-turn-off-your-old-apis/",
-    "upvotes": 68,
-    "author": "pimterry",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25857773"
-  },
-  {
-    "title": "Programming Language Creator or Serial Killer?",
-    "url": "https://vole.wtf/coder-serial-killer-quiz/",
+    "title": "Chipmaking Is Being Redesigned",
+    "url": "https://www.economist.com/business/2021/01/23/chipmaking-is-being-redesigned-effects-will-be-far-reaching",
     "upvotes": 149,
-    "author": "tusharchoudhary",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=25878602"
+    "author": "klelatti",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=25874108"
   },
   {
     "title": "Facebook shuts down the Socialist Workers Party in Britain",
     "url": "https://swp.org.uk/press-release-facebook-shuts-down-major-left-wing-group-in-britain/",
-    "upvotes": 412,
+    "upvotes": 425,
     "author": "jimmy2020",
-    "comments": 393,
+    "comments": 400,
     "link": "https://news.ycombinator.com/item?id=25876699"
   },
   {
-    "title": "Bitcoin Core Lead Maintainer Steps Back, Encourages Decentralization",
-    "url": "https://laanwj.github.io/2021/01/21/decentralize.html",
-    "upvotes": 80,
-    "author": "runeks",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=25880727"
+    "title": "Programming Language Creator or Serial Killer?",
+    "url": "https://vole.wtf/coder-serial-killer-quiz/",
+    "upvotes": 161,
+    "author": "tusharchoudhary",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=25878602"
+  },
+  {
+    "title": "Italy Blocks Users on TikTok After 10-Year-Old Girl Died in a Blackout Challenge",
+    "url": "https://relayvibes.co/italy-blocks-users-on-tiktok-after-a-10-year-old-girl-died-in-a-blackout-challenge/",
+    "upvotes": 12,
+    "author": "sodrick",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25881460"
+  },
+  {
+    "title": "Wild lynx could be reintroduced into Scottish Highlands",
+    "url": "https://www.theguardian.com/environment/2021/jan/20/wild-lynx-could-be-reintroduced-into-scottish-highlands",
+    "upvotes": 111,
+    "author": "edward",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=25856967"
+  },
+  {
+    "title": "Pidgin – A Universal Chat Client",
+    "url": "https://www.pidgin.im/plugins",
+    "upvotes": 627,
+    "author": "smusamashah",
+    "comments": 421,
+    "link": "https://news.ycombinator.com/item?id=25872525"
   },
   {
     "title": "Show HN: I built Multy – Generate a short URL to share a list of websites",
@@ -180,59 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=25870504"
   },
   {
-    "title": "Pidgin – A Universal Chat Client",
-    "url": "https://www.pidgin.im/plugins",
-    "upvotes": 619,
-    "author": "smusamashah",
-    "comments": 420,
-    "link": "https://news.ycombinator.com/item?id=25872525"
-  },
-  {
-    "title": "Wild lynx could be reintroduced into Scottish Highlands",
-    "url": "https://www.theguardian.com/environment/2021/jan/20/wild-lynx-could-be-reintroduced-into-scottish-highlands",
-    "upvotes": 110,
-    "author": "edward",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=25856967"
+    "title": "Electric vehicles close to ‘tipping point’ of mass adoption",
+    "url": "https://www.theguardian.com/environment/2021/jan/22/electric-vehicles-close-to-tipping-point-of-mass-adoption",
+    "upvotes": 262,
+    "author": "xps",
+    "comments": 534,
+    "link": "https://news.ycombinator.com/item?id=25872746"
   },
   {
     "title": "Climate change: US emissions in 2020 in biggest fall since WWII",
     "url": "https://www.bbc.com/news/science-environment-55632050",
-    "upvotes": 204,
+    "upvotes": 207,
     "author": "LinuxBender",
-    "comments": 231,
+    "comments": 234,
     "link": "https://news.ycombinator.com/item?id=25874471"
-  },
-  {
-    "title": "Electric vehicles close to ‘tipping point’ of mass adoption",
-    "url": "https://www.theguardian.com/environment/2021/jan/22/electric-vehicles-close-to-tipping-point-of-mass-adoption",
-    "upvotes": 257,
-    "author": "xps",
-    "comments": 520,
-    "link": "https://news.ycombinator.com/item?id=25872746"
-  },
-  {
-    "title": "Patricia Highsmith was an enduring writer",
-    "url": "https://www.economist.com/books-and-arts/2021/01/20/a-poisonous-person-patricia-highsmith-was-an-enduring-writer",
-    "upvotes": 20,
-    "author": "js2",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25856523"
   },
   {
     "title": "Auto-Redistrict – automatically creates electoral districts",
     "url": "http://autoredistrict.org/",
-    "upvotes": 106,
+    "upvotes": 110,
     "author": "Corrado",
-    "comments": 130,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=25874039"
-  },
-  {
-    "title": "Tencent is acquiring a majority stake in Klei Entertainment",
-    "url": "https://forums.kleientertainment.com/forums/topic/126355-studio-announcement/",
-    "upvotes": 103,
-    "author": "doppp",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=25879255"
   }
 ]
