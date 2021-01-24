@@ -2,98 +2,114 @@
   {
     "title": "Pip has dropped support for Python 2",
     "url": "https://pip.pypa.io/en/stable/news/#id1",
-    "upvotes": 188,
+    "upvotes": 243,
     "author": "groodt",
-    "comments": 117,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=25888249"
   },
   {
     "title": "Whitehouse.gov Chooses WordPress, Again",
     "url": "https://pagely.com/blog/whitehouse-gov-chooses-wordpress-again/",
-    "upvotes": 158,
+    "upvotes": 187,
     "author": "gmays",
-    "comments": 118,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=25887674"
   },
   {
     "title": "I bought 200 Raspberry Pi Model B’s and I’m going to fix them",
     "url": "https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-1/",
-    "upvotes": 309,
+    "upvotes": 322,
     "author": "stedaniels",
     "comments": 121,
     "link": "https://news.ycombinator.com/item?id=25885348"
   },
   {
-    "title": "Forever Chemicals Are Widespread in U.S. Drinking Water",
-    "url": "https://www.scientificamerican.com/article/forever-chemicals-are-widespread-in-u-s-drinking-water/",
-    "upvotes": 59,
-    "author": "ystad",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25887385"
-  },
-  {
     "title": "Why Working from Home Will Stick [pdf]",
     "url": "https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf",
-    "upvotes": 105,
+    "upvotes": 128,
     "author": "troydavis",
-    "comments": 177,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=25882704"
-  },
-  {
-    "title": "Filmulator – a streamlined, open-source raw photo editor",
-    "url": "https://filmulator.org/v0-11-0/",
-    "upvotes": 166,
-    "author": "CarVac",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=25885760"
   },
   {
     "title": "How long does a bottle of wine last after it is opened?",
     "url": "https://www.vinography.com/2020/12/how-long-does-a-bottle-of-wine-last-after-it-is-opened",
-    "upvotes": 82,
+    "upvotes": 97,
     "author": "devilcius",
-    "comments": 111,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=25887200"
   },
   {
-    "title": "Incompatible Timesharing System",
-    "url": "https://github.com/PDP-10/its",
-    "upvotes": 16,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25869880"
+    "title": "Making Win32 APIs More Accessible to More Languages",
+    "url": "https://blogs.windows.com/windowsdeveloper/2021/01/21/making-win32-apis-more-accessible-to-more-languages/",
+    "upvotes": 24,
+    "author": "ingve",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25869256"
   },
   {
-    "title": "Software engineering topics I changed my mind on",
-    "url": "https://chriskiehl.com/article/thoughts-after-6-years",
-    "upvotes": 273,
-    "author": "goostavos",
-    "comments": 226,
-    "link": "https://news.ycombinator.com/item?id=25887373"
+    "title": "Show HN: Filmulator – a streamlined, open-source raw photo editor",
+    "url": "https://filmulator.org/v0-11-0/",
+    "upvotes": 176,
+    "author": "CarVac",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25885760"
+  },
+  {
+    "title": "Forever chemicals are widespread in U.S. drinking water",
+    "url": "https://www.scientificamerican.com/article/forever-chemicals-are-widespread-in-u-s-drinking-water/",
+    "upvotes": 83,
+    "author": "ystad",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=25887385"
   },
   {
     "title": "Site.js: Small Web construction set",
     "url": "https://sitejs.org/",
-    "upvotes": 105,
+    "upvotes": 112,
     "author": "thex10",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25886500"
   },
   {
+    "title": "Software engineering topics I changed my mind on",
+    "url": "https://chriskiehl.com/article/thoughts-after-6-years",
+    "upvotes": 329,
+    "author": "goostavos",
+    "comments": 271,
+    "link": "https://news.ycombinator.com/item?id=25887373"
+  },
+  {
+    "title": "TLB and Pagewalk Coherence in x86 Processors",
+    "url": "https://blog.stuffedcow.net/2015/08/pagewalk-coherence/",
+    "upvotes": 6,
+    "author": "userbinator",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25853944"
+  },
+  {
+    "title": "FBI agents track cell phones that pinged near the Capitol",
+    "url": "https://www.wusa9.com/article/features/producers-picks/fbi-tracks-cell-phones-that-were-near-capitol-insurrection-and-riot/65-ca268165-a5c5-46a4-8b88-943a8517343a",
+    "upvotes": 299,
+    "author": "danso",
+    "comments": 431,
+    "link": "https://news.ycombinator.com/item?id=25882688"
+  },
+  {
     "title": "Tree – a lib for working with nested data structures, open-sourced by deepmind",
     "url": "https://github.com/deepmind/tree",
-    "upvotes": 54,
+    "upvotes": 63,
     "author": "okokok___",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25886682"
   },
   {
-    "title": "FBI agents track cell phones that pinged near the Capitol",
-    "url": "https://www.wusa9.com/article/features/producers-picks/fbi-tracks-cell-phones-that-were-near-capitol-insurrection-and-riot/65-ca268165-a5c5-46a4-8b88-943a8517343a",
-    "upvotes": 290,
-    "author": "danso",
-    "comments": 423,
-    "link": "https://news.ycombinator.com/item?id=25882688"
+    "title": "Incompatible Timesharing System",
+    "url": "https://github.com/PDP-10/its",
+    "upvotes": 23,
+    "author": "rbanffy",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25869880"
   },
   {
     "title": "Curve.fi is hiring Python",
@@ -102,39 +118,23 @@
   {
     "title": "Game Design Perspective: Stardew Valley",
     "url": "https://www.pixelatedplaygrounds.com/sidequests/game-design-perspective-stardew-valley",
-    "upvotes": 93,
+    "upvotes": 99,
     "author": "prismatic",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25875395"
   },
   {
     "title": "Replicating GPT-2 at Home",
     "url": "https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html",
-    "upvotes": 206,
+    "upvotes": 210,
     "author": "bkkaggle",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25883791"
   },
   {
-    "title": "MkLinux",
-    "url": "https://mklinux.org/",
-    "upvotes": 46,
-    "author": "pjmlp",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=25886925"
-  },
-  {
-    "title": "Cryptocurreny crime is way ahead of regulators and law enforcement",
-    "url": "https://www.fnlondon.com/articles/nouriel-roubini-the-great-crypto-heist-20190719",
-    "upvotes": 90,
-    "author": "dgellow",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=25886561"
-  },
-  {
     "title": "DrScheme in Space",
     "url": "https://parentheticallyspeaking.org/articles/drscheme-in-space/",
-    "upvotes": 98,
+    "upvotes": 105,
     "author": "azhenley",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25885430"
@@ -142,97 +142,97 @@
   {
     "title": "No one knows how much the government can borrow",
     "url": "https://noahpinion.substack.com/p/no-one-knows-how-much-the-government",
-    "upvotes": 157,
+    "upvotes": 171,
     "author": "jger15",
-    "comments": 206,
+    "comments": 226,
     "link": "https://news.ycombinator.com/item?id=25882722"
-  },
-  {
-    "title": "Uber Lays off Postmates Founder/CEO, 180 others",
-    "url": "https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html",
-    "upvotes": 78,
-    "author": "marketingtech",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=25887664"
-  },
-  {
-    "title": "Making Win32 APIs More Accessible to More Languages",
-    "url": "https://blogs.windows.com/windowsdeveloper/2021/01/21/making-win32-apis-more-accessible-to-more-languages/",
-    "upvotes": 6,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25869256"
-  },
-  {
-    "title": "Build a salary with GitHub Sponsors",
-    "url": "https://onlysponsors.dev/",
-    "upvotes": 235,
-    "author": "rk06",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=25882021"
-  },
-  {
-    "title": "Emails a browser extension developer gets from scammers",
-    "url": "https://sponsor.ajay.app/emails/",
-    "upvotes": 104,
-    "author": "ajayyy",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=25884338"
-  },
-  {
-    "title": "When Historical Fiction Is a Crime",
-    "url": "https://newrepublic.com/article/160719/historical-fiction-crime-ahmet-altan-turkey",
-    "upvotes": 10,
-    "author": "samclemens",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25874317"
-  },
-  {
-    "title": "Malware found on laptops given out by government",
-    "url": "https://www.bbc.com/news/technology-55749959",
-    "upvotes": 103,
-    "author": "elorant",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25886066"
-  },
-  {
-    "title": "2 times 3 can sometimes equal 7 with Android's Neural Network API",
-    "url": "http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html",
-    "upvotes": 41,
-    "author": "aga_ml",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=25885524"
-  },
-  {
-    "title": "Google has turned off access to sync features for Chromium",
-    "url": "https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5",
-    "upvotes": 216,
-    "author": "stsewd",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=25886218"
-  },
-  {
-    "title": "VisualAge for Java 1.0 – Let the Future Begin",
-    "url": "https://www.tug.ca/articles/Volume13/V13N1/V13N1_Jenkins_VisualAge-for-Java.html",
-    "upvotes": 56,
-    "author": "rufus_foreman",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=25884159"
   },
   {
     "title": "Visual Sentence Composer for Japanese",
     "url": "https://japanesecomplete.com/visual-composer",
-    "upvotes": 3,
+    "upvotes": 6,
     "author": "sova",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25888468"
   },
   {
+    "title": "MkLinux",
+    "url": "https://mklinux.org/",
+    "upvotes": 52,
+    "author": "pjmlp",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=25886925"
+  },
+  {
+    "title": "When Historical Fiction Is a Crime",
+    "url": "https://newrepublic.com/article/160719/historical-fiction-crime-ahmet-altan-turkey",
+    "upvotes": 14,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25874317"
+  },
+  {
+    "title": "Uber Lays off Postmates Founder/CEO, 180 others",
+    "url": "https://www.nytimes.com/2021/01/23/technology/uber-postmates-layoffs.html",
+    "upvotes": 93,
+    "author": "marketingtech",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=25887664"
+  },
+  {
+    "title": "Emails a browser extension developer gets from scammers",
+    "url": "https://sponsor.ajay.app/emails/",
+    "upvotes": 109,
+    "author": "ajayyy",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=25884338"
+  },
+  {
+    "title": "Cryptocurreny crime is way ahead of regulators and law enforcement",
+    "url": "https://www.fnlondon.com/articles/nouriel-roubini-the-great-crypto-heist-20190719",
+    "upvotes": 95,
+    "author": "dgellow",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=25886561"
+  },
+  {
+    "title": "Malware found on laptops given out by government",
+    "url": "https://www.bbc.com/news/technology-55749959",
+    "upvotes": 109,
+    "author": "elorant",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25886066"
+  },
+  {
+    "title": "2 times 3 can sometimes equal 7 with Android's Neural Network API",
+    "url": "http://alexanderganderson.github.io/engineering/2021/01/23/integer_indeterminism.html",
+    "upvotes": 42,
+    "author": "aga_ml",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=25885524"
+  },
+  {
+    "title": "VisualAge for Java 1.0 – Let the Future Begin",
+    "url": "https://www.tug.ca/articles/Volume13/V13N1/V13N1_Jenkins_VisualAge-for-Java.html",
+    "upvotes": 61,
+    "author": "rufus_foreman",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25884159"
+  },
+  {
     "title": "The Art of the Reverse Knit",
     "url": "https://www.nytimes.com/2021/01/22/style/reverse-knitting-pattern-mittens.html",
-    "upvotes": 10,
+    "upvotes": 13,
     "author": "saint-loup",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25881850"
+  },
+  {
+    "title": "Google has turned off access to sync features for Chromium",
+    "url": "https://bodhi.fedoraproject.org/updates/FEDORA-2021-48866282e5",
+    "upvotes": 235,
+    "author": "stsewd",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=25886218"
   }
 ]
