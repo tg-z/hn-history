@@ -1,50 +1,58 @@
 [
   {
-    "title": "Firefox 85 Cracks Down on Supercookies",
+    "title": "Firefox 85 cracks down on supercookies",
     "url": "https://blog.mozilla.org/security/2021/01/26/supercookie-protections/",
-    "upvotes": 864,
+    "upvotes": 903,
     "author": "todsacerdoti",
-    "comments": 470,
+    "comments": 484,
     "link": "https://news.ycombinator.com/item?id=25916513"
   },
   {
     "title": "Nq – a simple Unix job queue system",
     "url": "https://github.com/leahneukirchen/nq",
-    "upvotes": 54,
+    "upvotes": 85,
     "author": "unhammer",
-    "comments": 19,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25920517"
   },
   {
     "title": "Internet outages hit the East Coast, causing issues for Verizon, Zoom, etc.",
     "url": "https://www.washingtonpost.com/technology/2021/01/26/internet-outage-east-coast/",
-    "upvotes": 119,
+    "upvotes": 137,
     "author": "jbredeche",
-    "comments": 58,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25919109"
   },
   {
-    "title": "FDA approves first monthly injectable to treat HIV infection",
-    "url": "https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/",
-    "upvotes": 226,
-    "author": "apsec112",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=25909978"
+    "title": "What does the night sky look like on Mars?",
+    "url": "https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/",
+    "upvotes": 16,
+    "author": "ohjeez",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25921128"
   },
   {
     "title": "Baron Samedit: Heap-based buffer overflow in Sudo",
     "url": "https://www.openwall.com/lists/oss-security/2021/01/26/3",
-    "upvotes": 77,
+    "upvotes": 91,
     "author": "jwilk",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25919494"
+  },
+  {
+    "title": "FDA approves first monthly injectable to treat HIV infection",
+    "url": "https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/",
+    "upvotes": 239,
+    "author": "apsec112",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=25909978"
   },
   {
     "title": "Claude Shannon Demonstrates Machine Learning",
     "url": "https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-Shannon-Demonstrates-Machine-Learning",
-    "upvotes": 77,
+    "upvotes": 90,
     "author": "jchallis",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25919006"
   },
   {
@@ -54,39 +62,39 @@
   {
     "title": "Show HN: I made an alarm clock. That's right",
     "url": "https://www.stavros.io/posts/do-not-be-alarmed-clock/",
-    "upvotes": 41,
+    "upvotes": 75,
     "author": "StavrosK",
-    "comments": 33,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25902165"
-  },
-  {
-    "title": "FiOS service disruption in Northeast US",
-    "url": "https://istheservicedown.com/problems/verizon-fios/map",
-    "upvotes": 191,
-    "author": "dak1",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25917986"
   },
   {
     "title": "The Serval WS from System76: A Powerful Linux Workstation Running PopOS",
     "url": "https://boilingsteam.com/the-serval-ws-a-powerful-linux-workstation-review/",
-    "upvotes": 28,
+    "upvotes": 37,
     "author": "ekianjo",
-    "comments": 21,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25920436"
   },
   {
-    "title": "What does the night sky look like on Mars?",
-    "url": "https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/",
-    "upvotes": 5,
-    "author": "ohjeez",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25921128"
+    "title": "FiOS service disruption in Northeast US",
+    "url": "https://istheservicedown.com/problems/verizon-fios/map",
+    "upvotes": 197,
+    "author": "dak1",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=25917986"
+  },
+  {
+    "title": "Launch HN: Airbyte",
+    "url": "item?id=25917403",
+    "upvotes": 92,
+    "author": "mtricot",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25917403"
   },
   {
     "title": "Making is Show Business now",
     "url": "https://alexdanco.com/2020/10/08/making-is-show-business-now/",
-    "upvotes": 146,
+    "upvotes": 150,
     "author": "hgarg",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25902282"
@@ -94,145 +102,137 @@
   {
     "title": "Postgres scaling advice",
     "url": "https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/",
-    "upvotes": 286,
+    "upvotes": 295,
     "author": "BrentOzar",
-    "comments": 141,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=25915023"
+  },
+  {
+    "title": "CVE-2021-3156: Heap-Based Buffer Overflow in Sudo",
+    "url": "https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit",
+    "upvotes": 50,
+    "author": "lima",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25919360"
   },
   {
     "title": "The No-Order File System",
     "url": "http://pages.cs.wisc.edu/~vijayc/nofs.htm",
-    "upvotes": 84,
+    "upvotes": 88,
     "author": "harporoeder",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25900461"
   },
   {
     "title": "Data Visualization and the Modern Imagination",
     "url": "https://exhibits.stanford.edu/dataviz/",
-    "upvotes": 144,
+    "upvotes": 148,
     "author": "rasmi",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25916646"
-  },
-  {
-    "title": "CVE-2021-3156: Heap-Based Buffer Overflow in Sudo",
-    "url": "https://blog.qualys.com/vulnerabilities-research/2021/01/26/cve-2021-3156-heap-based-buffer-overflow-in-sudo-baron-samedit",
-    "upvotes": 35,
-    "author": "lima",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25919360"
   },
   {
     "title": "Firefox 85",
     "url": "https://www.mozilla.org/en-US/firefox/85.0/releasenotes/",
-    "upvotes": 451,
+    "upvotes": 457,
     "author": "amake",
-    "comments": 232,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=25915896"
   },
   {
     "title": "Show HN: Are you playing your violin",
     "url": "https://ctrager.github.io/pitch.html",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "ctrager",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25918592"
   },
   {
     "title": "Open Sourcing Tilt Brush",
     "url": "https://opensource.googleblog.com/2021/01/the-future-of-tilt-brush.html",
-    "upvotes": 50,
+    "upvotes": 62,
     "author": "theBashShell",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25918349"
-  },
-  {
-    "title": "Lobster shell patterns make concrete stronger",
-    "url": "https://www.reuters.com/article/idUSKBN29V1ND",
-    "upvotes": 58,
-    "author": "quotha",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25917311"
   },
   {
     "title": "UPS sells trucking unit",
     "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/ups-to-sell-trucking-unit-under-ceos-better-not-bigger-pledge?usertype=External&bwid=00000177-3a14-dd8f-adff-fa57a3300003&qid=7048241&cti=LSCH&uc=1320028586&et=NEWSLETTER&emc=mrnw_nl%3A10&source=newsletter&item=read-button&region=digest&access-ticket=eyJjdHh0IjoiTVJOVyIsImlkIjoiMDAwMDAxNzctM2ExNC1kZDhmLWFkZmYtZmE1N2EzMzAwMDAzIiwic2lnIjoiWHRNNjRMR3RveTVLbDRYVC85UHNUOWFPSVlvPSIsInRpbWUiOiIxNjExNjY0MTA5IiwidXVpZCI6IlpUVVBud3BJcEU2R3pXLzFwZCs2bWc9PUt5UFVzakNwa0xOcDA0dVB4bGRlSkE9PSIsInYiOiIxIn0%3D",
-    "upvotes": 129,
+    "upvotes": 130,
     "author": "cwwc",
-    "comments": 49,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=25915401"
   },
   {
-    "title": "Topology 101: The Hole Truth",
-    "url": "https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/",
-    "upvotes": 44,
-    "author": "theafh",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25918577"
-  },
-  {
-    "title": "Backblaze Hard Drive Stats for 2020",
-    "url": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-for-2020/",
-    "upvotes": 254,
-    "author": "TangerineDream",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=25917466"
+    "title": "Lobster shell patterns make concrete stronger",
+    "url": "https://www.reuters.com/article/idUSKBN29V1ND",
+    "upvotes": 59,
+    "author": "quotha",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=25917311"
   },
   {
     "title": "What Happened When Henry James and Oscar Wilde Met",
     "url": "https://newrepublic.com/article/120761/mutual-admirers-henry-james-and-oscar-wilde-should-never-have-met",
-    "upvotes": 5,
+    "upvotes": 8,
     "author": "samclemens",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25908882"
   },
   {
+    "title": "Backblaze Hard Drive Stats for 2020",
+    "url": "https://www.backblaze.com/blog/backblaze-hard-drive-stats-for-2020/",
+    "upvotes": 264,
+    "author": "TangerineDream",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=25917466"
+  },
+  {
     "title": "Load balancing and its different types",
     "url": "https://www.wisdomgeek.com/development/software-architecture/load-balancing-and-its-different-types/",
-    "upvotes": 57,
+    "upvotes": 61,
     "author": "saranshk",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25917988"
   },
   {
-    "title": "Launch HN: Airbyte",
-    "url": "item?id=25917403",
-    "upvotes": 90,
-    "author": "mtricot",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25917403"
+    "title": "Topology 101: The Hole Truth",
+    "url": "https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/",
+    "upvotes": 47,
+    "author": "theafh",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25918577"
   },
   {
     "title": "Twitter acquires Revue",
     "url": "https://blog.twitter.com/en_us/topics/company/2021/making-twitter-a-better-home-for-writers.html",
-    "upvotes": 178,
+    "upvotes": 181,
     "author": "camillovisini",
-    "comments": 215,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=25914865"
   },
   {
     "title": "System separation in the Continental Europe Synchronous Area on 8 January 2021",
     "url": "https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/",
-    "upvotes": 255,
+    "upvotes": 257,
     "author": "andreasley",
-    "comments": 118,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=25914112"
   },
   {
     "title": "Shell buys UK’s largest electric vehicle charging network",
     "url": "https://www.ft.com/content/8e69d4da-00d2-4ada-96f0-b5dc5c7ca40a",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "reddotX",
-    "comments": 94,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=25902795"
   },
   {
-    "title": "Spectrum2_signald: An XMPP/Signal gateway",
-    "url": "https://gitlab.com/nicocool84/spectrum2_signald/",
-    "upvotes": 8,
-    "author": "upofadown",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25920693"
+    "title": "Introducing Open Web Docs",
+    "url": "https://opencollective.com/open-web-docs/updates/introducing-open-web-docs",
+    "upvotes": 295,
+    "author": "kylealden",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=25905829"
   }
 ]
