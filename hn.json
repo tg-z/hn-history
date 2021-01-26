@@ -1,16 +1,32 @@
 [
   {
+    "title": "Postgres Scaling Advice for 2021",
+    "url": "https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/",
+    "upvotes": 39,
+    "author": "BrentOzar",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25915023"
+  },
+  {
     "title": "System separation in the Continental Europe Synchronous Area on 8 January 2021",
     "url": "https://www.entsoe.eu/news/2021/01/26/system-separation-in-the-continental-europe-synchronous-area-on-8-january-2021-2nd-update/",
-    "upvotes": 156,
+    "upvotes": 174,
     "author": "andreasley",
-    "comments": 54,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=25914112"
+  },
+  {
+    "title": "UPS sells short-haul trucking business for $800M",
+    "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/ups-to-sell-trucking-unit-under-ceos-better-not-bigger-pledge?usertype=External&bwid=00000177-3a14-dd8f-adff-fa57a3300003&qid=7048241&cti=LSCH&uc=1320028586&et=NEWSLETTER&emc=mrnw_nl%3A10&source=newsletter&item=read-button&region=digest&access-ticket=eyJjdHh0IjoiTVJOVyIsImlkIjoiMDAwMDAxNzctM2ExNC1kZDhmLWFkZmYtZmE1N2EzMzAwMDAzIiwic2lnIjoiWHRNNjRMR3RveTVLbDRYVC85UHNUOWFPSVlvPSIsInRpbWUiOiIxNjExNjY0MTA5IiwidXVpZCI6IlpUVVBud3BJcEU2R3pXLzFwZCs2bWc9PUt5UFVzakNwa0xOcDA0dVB4bGRlSkE9PSIsInYiOiIxIn0%3D",
+    "upvotes": 9,
+    "author": "cwwc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25915401"
   },
   {
     "title": "Introducing Open Web Docs",
     "url": "https://opencollective.com/open-web-docs/updates/introducing-open-web-docs",
-    "upvotes": 185,
+    "upvotes": 201,
     "author": "kylealden",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=25905829"
@@ -18,123 +34,131 @@
   {
     "title": "Time-lapse of a single cell transforming into a salamander",
     "url": "https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/",
-    "upvotes": 749,
+    "upvotes": 763,
     "author": "smusamashah",
-    "comments": 167,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=25910400"
+  },
+  {
+    "title": "Making Twitter a better home for writers",
+    "url": "https://blog.twitter.com/en_us/topics/company/2021/making-twitter-a-better-home-for-writers.html",
+    "upvotes": 25,
+    "author": "camillovisini",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25914865"
   },
   {
     "title": "Greens: why we eat the leaves that we do",
     "url": "https://botanistinthekitchen.blog/2013/04/08/greens-why-we-eat-the-leaves-that-we-do/",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "jsnell",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25914008"
   },
   {
-    "title": "Postgres Scaling Advice for 2021",
-    "url": "https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/",
-    "upvotes": 9,
-    "author": "BrentOzar",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25915023"
-  },
-  {
     "title": "Merkaartor – a Qt-based OpenStreetMap editor",
     "url": "https://github.com/openstreetmap/merkaartor",
-    "upvotes": 17,
+    "upvotes": 23,
     "author": "app4soft",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25914626"
-  },
-  {
-    "title": "Halt and Catch Fire Syllabus",
-    "url": "https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/",
-    "upvotes": 306,
-    "author": "gammarator",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=25912241"
-  },
-  {
-    "title": "Grindr to be fined almost €10M over GDPR complaint",
-    "url": "https://noyb.eu/en/gay-dating-app-grindr-be-fined-almost-eu-10-mio",
-    "upvotes": 181,
-    "author": "izacus",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=25913954"
   },
   {
     "title": "Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team",
     "url": "https://www.tesorio.com/careers#job-openings"
   },
   {
+    "title": "Halt and Catch Fire Syllabus",
+    "url": "https://bits.ashleyblewer.com/halt-and-catch-fire-syllabus/",
+    "upvotes": 314,
+    "author": "gammarator",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=25912241"
+  },
+  {
+    "title": "Grindr to be fined almost €10M over GDPR complaint",
+    "url": "https://noyb.eu/en/gay-dating-app-grindr-be-fined-almost-eu-10-mio",
+    "upvotes": 195,
+    "author": "izacus",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=25913954"
+  },
+  {
     "title": "Problems with AI-based monitoring startups",
     "url": "https://www.yesthatblog.com/post/0022-ai-based-monitoring-startups/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "zdw",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=25894810"
+  },
+  {
+    "title": "Red Hat simply refused to invest in CentOS Linux – interview",
+    "url": "https://www.theregister.com/2021/01/26/killing_centos/",
+    "upvotes": 63,
+    "author": "samizdis",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25914499"
+  },
+  {
+    "title": "New campaign targeting security researchers",
+    "url": "https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/",
+    "upvotes": 187,
+    "author": "el_duderino",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=25910869"
   },
   {
     "title": "A Review of the Semantic Web Field",
     "url": "https://cacm.acm.org/magazines/2021/2/250085-a-review-of-the-semantic-web-field/fulltext",
     "upvotes": 82,
     "author": "hypomnemata",
-    "comments": 19,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25907346"
-  },
-  {
-    "title": "Red Hat simply refused to invest in CentOS Linux – interview",
-    "url": "https://www.theregister.com/2021/01/26/killing_centos/",
-    "upvotes": 47,
-    "author": "samizdis",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=25914499"
-  },
-  {
-    "title": "New campaign targeting security researchers",
-    "url": "https://blog.google/threat-analysis-group/new-campaign-targeting-security-researchers/",
-    "upvotes": 182,
-    "author": "el_duderino",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=25910869"
-  },
-  {
-    "title": "Collapse OS – bootstrap post-collapse technology",
-    "url": "https://collapseos.org/",
-    "upvotes": 186,
-    "author": "rewir",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=25910108"
   },
   {
     "title": "Todo List for Vim",
     "url": "https://vimhelp.org/todo.txt.html",
-    "upvotes": 37,
+    "upvotes": 45,
     "author": "jhoechtl",
-    "comments": 29,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25913558"
   },
   {
-    "title": "Making Twitter a better home for writers",
-    "url": "https://blog.twitter.com/en_us/topics/company/2021/making-twitter-a-better-home-for-writers.html",
-    "upvotes": 3,
-    "author": "camillovisini",
+    "title": "Collapse OS – bootstrap post-collapse technology",
+    "url": "https://collapseos.org/",
+    "upvotes": 189,
+    "author": "rewir",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=25910108"
+  },
+  {
+    "title": "Shell buys UK’s largest electric vehicle charging network",
+    "url": "https://www.ft.com/content/8e69d4da-00d2-4ada-96f0-b5dc5c7ca40a",
+    "upvotes": 6,
+    "author": "reddotX",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25902795"
+  },
+  {
+    "title": "Air pollution linked to higher risk of irreversible sight loss",
+    "url": "https://www.theguardian.com/environment/2021/jan/26/air-pollution-linked-to-higher-risk-of-irreversible-sight-loss",
+    "upvotes": 17,
+    "author": "rustoo",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25914865"
+    "link": "https://news.ycombinator.com/item?id=25915103"
   },
   {
     "title": "Our Journey to PostgreSQL 12",
     "url": "https://tech.coffeemeetsbagel.com/our-journey-to-postgresql-12-3d6ee15d305a",
-    "upvotes": 192,
+    "upvotes": 193,
     "author": "tommyzli",
-    "comments": 99,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=25910277"
   },
   {
     "title": "The road ahead for MirageOS in 2021",
     "url": "https://hannes.robur.coop/Posts/NGI",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "lelf",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25902898"
@@ -142,7 +166,7 @@
   {
     "title": "Jim Haynes: A man who invited the world over for dinner",
     "url": "https://www.bbc.co.uk/news/world-55703174",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "cmsefton",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25890282"
@@ -150,89 +174,65 @@
   {
     "title": "Future Plans for Autotools",
     "url": "https://lists.gnu.org/archive/html/autoconf/2021-01/msg00049.html",
-    "upvotes": 145,
+    "upvotes": 147,
     "author": "edward",
-    "comments": 152,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=25910496"
   },
   {
     "title": "Launch HN: Aviron (YC W21) – High-Intensity Peloton for Rowing",
     "url": "item?id=25905467",
-    "upvotes": 162,
+    "upvotes": 164,
     "author": "FullNameAndy",
-    "comments": 226,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=25905467"
-  },
-  {
-    "title": "Why 'Cousin Jack'? The origins of the nickname of the Cornish overseas",
-    "url": "https://www.caitlingreen.org/2021/01/cousin-jack-origins.html",
-    "upvotes": 34,
-    "author": "flummox",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25909665"
   },
   {
     "title": "Octave Compass",
     "url": "https://octavecompass.com/1453",
-    "upvotes": 122,
+    "upvotes": 125,
     "author": "leephillips",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25891672"
   },
   {
-    "title": "The Year of Grinding Teeth",
-    "url": "https://www.theparisreview.org/blog/2021/01/21/the-year-of-grinding-teeth/",
-    "upvotes": 66,
-    "author": "bekind",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25907943"
-  },
-  {
     "title": "The Battle of GameStop",
     "url": "https://paranoidenough.com/2021/01/25/The-Battle-of-Gamestop.html",
-    "upvotes": 176,
+    "upvotes": 185,
     "author": "gringoDan",
-    "comments": 291,
+    "comments": 315,
     "link": "https://news.ycombinator.com/item?id=25911687"
   },
   {
-    "title": "Examining a technology sample kit: IBM components from 1948 to 1986",
-    "url": "http://www.righto.com/2021/01/examining-technology-sample-kit-ibm.html",
-    "upvotes": 64,
-    "author": "zdw",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25893087"
+    "title": "Why 'Cousin Jack'? The origins of the nickname of the Cornish overseas",
+    "url": "https://www.caitlingreen.org/2021/01/cousin-jack-origins.html",
+    "upvotes": 36,
+    "author": "flummox",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25909665"
+  },
+  {
+    "title": "Streaming sites steer clear of Khashoggi documentary with Oscar-winning director",
+    "url": "https://variety.com/2021/film/news/the-dissident-saudi-arabia-netflix-bryan-fogel-icarus-1234886662/",
+    "upvotes": 8,
+    "author": "mkl95",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25914973"
   },
   {
     "title": "Right to Repair off to the races in 2021 with 14 active states",
     "url": "https://uspirg.org/blogs/blog/usp/right-repair-races-2021-14-active-states",
-    "upvotes": 292,
+    "upvotes": 299,
     "author": "CharlesW",
-    "comments": 71,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=25909428"
   },
   {
-    "title": "Air pollution linked to higher risk of irreversible sight loss",
-    "url": "https://www.theguardian.com/environment/2021/jan/26/air-pollution-linked-to-higher-risk-of-irreversible-sight-loss",
-    "upvotes": 5,
-    "author": "rustoo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25915103"
-  },
-  {
-    "title": "Myopia treatment 'smart glasses' from Japan to be sold in Asia",
-    "url": "https://asia.nikkei.com/Business/Health-Care/Myopia-correcting-smart-glasses-from-Japan-to-be-sold-in-Asia",
-    "upvotes": 480,
-    "author": "isof4ult",
-    "comments": 281,
-    "link": "https://news.ycombinator.com/item?id=25907356"
-  },
-  {
-    "title": "JerryScript: lightweight JS engine for IoT",
-    "url": "https://github.com/jerryscript-project/jerryscript",
-    "upvotes": 81,
-    "author": "galfarragem",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=25881366"
+    "title": "The Year of Grinding Teeth",
+    "url": "https://www.theparisreview.org/blog/2021/01/21/the-year-of-grinding-teeth/",
+    "upvotes": 69,
+    "author": "bekind",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=25907943"
   }
 ]
