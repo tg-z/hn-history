@@ -2,107 +2,123 @@
   {
     "title": "Firefox 85 cracks down on supercookies",
     "url": "https://blog.mozilla.org/security/2021/01/26/supercookie-protections/",
-    "upvotes": 1022,
+    "upvotes": 1047,
     "author": "todsacerdoti",
-    "comments": 555,
+    "comments": 574,
     "link": "https://news.ycombinator.com/item?id=25916513"
   },
   {
     "title": "Nq – a simple Unix job queue system",
     "url": "https://github.com/leahneukirchen/nq",
-    "upvotes": 150,
+    "upvotes": 167,
     "author": "unhammer",
-    "comments": 49,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=25920517"
-  },
-  {
-    "title": "What does the night sky look like on Mars?",
-    "url": "https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/",
-    "upvotes": 55,
-    "author": "ohjeez",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25921128"
   },
   {
     "title": "Evcxr: A Rust REPL and Jupyter Kernel",
     "url": "https://github.com/google/evcxr",
-    "upvotes": 24,
+    "upvotes": 44,
     "author": "batterylow",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25921894"
   },
   {
     "title": "Mother's blood test predicts a sub-type of autism",
     "url": "https://www.nature.com/articles/s41380-020-00998-8",
-    "upvotes": 8,
+    "upvotes": 22,
     "author": "mleonhard",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25922247"
+  },
+  {
+    "title": "What does the night sky look like on Mars?",
+    "url": "https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/",
+    "upvotes": 63,
+    "author": "ohjeez",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=25921128"
+  },
+  {
+    "title": "Heap-based buffer overflow in Sudo",
+    "url": "https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt",
+    "upvotes": 148,
+    "author": "ptype",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=25919235"
+  },
+  {
+    "title": "ARK Invest's Big Ideas 2021 [pdf]",
+    "url": "https://research.ark-invest.com/hubfs/1_Download_Files_ARK-Invest/White_Papers/ARK%E2%80%93Invest_BigIdeas_2021.pdf",
+    "upvotes": 9,
+    "author": "jger15",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25922385"
   },
   {
     "title": "The Pros and Cons of DRY Code",
     "url": "https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/",
-    "upvotes": 13,
+    "upvotes": 23,
     "author": "wagslane",
-    "comments": 2,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25921992"
   },
   {
     "title": "FDA approves first monthly injectable to treat HIV infection",
     "url": "https://www.statnews.com/pharmalot/2021/01/21/fda-hiv-aids-injectable/",
-    "upvotes": 272,
+    "upvotes": 277,
     "author": "apsec112",
-    "comments": 146,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=25909978"
+  },
+  {
+    "title": "Show HN: I made an alarm clock",
+    "url": "https://www.stavros.io/posts/do-not-be-alarmed-clock/",
+    "upvotes": 138,
+    "author": "StavrosK",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=25902165"
   },
   {
     "title": "Claude Shannon Demonstrates Machine Learning",
     "url": "https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-Shannon-Demonstrates-Machine-Learning",
-    "upvotes": 119,
+    "upvotes": 122,
     "author": "jchallis",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25919006"
-  },
-  {
-    "title": "Heap-based buffer overflow in Sudo",
-    "url": "https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt",
-    "upvotes": 116,
-    "author": "ptype",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=25919235"
-  },
-  {
-    "title": "Gitlab is moving to a three-tier product subscription model",
-    "url": "https://about.gitlab.com/blog/2021/01/26/new-gitlab-product-subscription-model/",
-    "upvotes": 201,
-    "author": "alexrustic",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=25918717"
   },
   {
     "title": "Radar",
     "url": "https://www.workatastartup.com/jobs/41758"
   },
   {
-    "title": "Show HN: I made an alarm clock",
-    "url": "https://www.stavros.io/posts/do-not-be-alarmed-clock/",
-    "upvotes": 126,
-    "author": "StavrosK",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=25902165"
+    "title": "Netflix and Spotify on a Raspberry Pi 4 with Chromium and Widevine",
+    "url": "https://blog.vpetkov.net/2019/07/12/netflix-and-spotify-on-a-raspberry-pi-4-with-latest-default-chromium/",
+    "upvotes": 16,
+    "author": "fanf2",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25921419"
+  },
+  {
+    "title": "Gitlab is moving to a three-tier product subscription model",
+    "url": "https://about.gitlab.com/blog/2021/01/26/new-gitlab-product-subscription-model/",
+    "upvotes": 207,
+    "author": "alexrustic",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=25918717"
   },
   {
     "title": "Launch HN: Airbyte",
     "url": "item?id=25917403",
-    "upvotes": 107,
+    "upvotes": 112,
     "author": "mtricot",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=25917403"
   },
   {
     "title": "Postgres scaling advice",
     "url": "https://www.cybertec-postgresql.com/en/postgres-scaling-advice-for-2021/",
-    "upvotes": 321,
+    "upvotes": 329,
     "author": "BrentOzar",
     "comments": 156,
     "link": "https://news.ycombinator.com/item?id=25915023"
@@ -110,7 +126,7 @@
   {
     "title": "Making is show business now",
     "url": "https://alexdanco.com/2020/10/08/making-is-show-business-now/",
-    "upvotes": 167,
+    "upvotes": 175,
     "author": "hgarg",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=25902282"
@@ -118,7 +134,7 @@
   {
     "title": "East Coast Internet Outage",
     "url": "item?id=25917798",
-    "upvotes": 231,
+    "upvotes": 238,
     "author": "taf2",
     "comments": 209,
     "link": "https://news.ycombinator.com/item?id=25917798"
@@ -126,42 +142,74 @@
   {
     "title": "Open Sourcing Tilt Brush",
     "url": "https://opensource.googleblog.com/2021/01/the-future-of-tilt-brush.html",
-    "upvotes": 98,
+    "upvotes": 103,
     "author": "theBashShell",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25918349"
-  },
-  {
-    "title": "Show HN: Are you playing your violin",
-    "url": "https://ctrager.github.io/pitch.html",
-    "upvotes": 53,
-    "author": "ctrager",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=25918592"
   },
   {
     "title": "A Map of Mathematics",
     "url": "https://mathmap.quantamagazine.org/map/",
-    "upvotes": 26,
+    "upvotes": 33,
     "author": "MitPitt",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25920822"
   },
   {
-    "title": "Data Visualization and the Modern Imagination",
-    "url": "https://exhibits.stanford.edu/dataviz/",
-    "upvotes": 163,
-    "author": "rasmi",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25916646"
+    "title": "Show HN: Are you playing your violin",
+    "url": "https://ctrager.github.io/pitch.html",
+    "upvotes": 58,
+    "author": "ctrager",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=25918592"
   },
   {
     "title": "The No-Order File System",
     "url": "http://pages.cs.wisc.edu/~vijayc/nofs.htm",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "harporoeder",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25900461"
+  },
+  {
+    "title": "Data Visualization and the Modern Imagination",
+    "url": "https://exhibits.stanford.edu/dataviz/",
+    "upvotes": 170,
+    "author": "rasmi",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25916646"
+  },
+  {
+    "title": "The Teeniest Tiniest Laptop in the West",
+    "url": "https://thecrow.uk/gpd-p2-max-ultrabook-cyberdeck-review/",
+    "upvotes": 95,
+    "author": "elorant",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=25917178"
+  },
+  {
+    "title": "Covariant Electrodynamics the Easy Way",
+    "url": "https://michaelallenwarner.github.io/physics/2019/07/16/vector-triple-products-in-minkowski-spacetime.html",
+    "upvotes": 13,
+    "author": "E-Reverance",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25900346"
+  },
+  {
+    "title": "UPS sells trucking unit",
+    "url": "https://www.themiddlemarket.com/news-analysis/ups-sells-trucking-unit-for-800m",
+    "upvotes": 141,
+    "author": "cwwc",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=25915401"
+  },
+  {
+    "title": "Lobster shell patterns make concrete stronger",
+    "url": "https://www.reuters.com/article/idUSKBN29V1ND",
+    "upvotes": 72,
+    "author": "quotha",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=25917311"
   },
   {
     "title": "The Chromatic Effects of Late Nineteenth-Century London Fog",
@@ -172,67 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25911895"
   },
   {
-    "title": "Covariant Electrodynamics the Easy Way",
-    "url": "https://michaelallenwarner.github.io/physics/2019/07/16/vector-triple-products-in-minkowski-spacetime.html",
-    "upvotes": 11,
-    "author": "E-Reverance",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25900346"
-  },
-  {
-    "title": "The Teeniest Tiniest Laptop in the West",
-    "url": "https://thecrow.uk/gpd-p2-max-ultrabook-cyberdeck-review/",
-    "upvotes": 89,
-    "author": "elorant",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=25917178"
-  },
-  {
-    "title": "Lobster shell patterns make concrete stronger",
-    "url": "https://www.reuters.com/article/idUSKBN29V1ND",
-    "upvotes": 70,
-    "author": "quotha",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=25917311"
-  },
-  {
-    "title": "UPS sells trucking unit",
-    "url": "https://www.themiddlemarket.com/news-analysis/ups-sells-trucking-unit-for-800m",
-    "upvotes": 139,
-    "author": "cwwc",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=25915401"
-  },
-  {
-    "title": "Load balancing and its different types",
-    "url": "https://www.wisdomgeek.com/development/software-architecture/load-balancing-and-its-different-types/",
-    "upvotes": 71,
-    "author": "saranshk",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=25917988"
+    "title": "Spectrum2_signald: An XMPP/Signal gateway",
+    "url": "https://gitlab.com/nicocool84/spectrum2_signald/",
+    "upvotes": 20,
+    "author": "upofadown",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25920693"
   },
   {
     "title": "How we made Typerighter, the Guardian’s style guide checker",
     "url": "https://www.theguardian.com/info/2021/jan/26/how-we-made-typerighter-the-guardians-style-guide-checker",
-    "upvotes": 5,
+    "upvotes": 11,
     "author": "camillovisini",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25915395"
-  },
-  {
-    "title": "Spectrum2_signald: An XMPP/Signal gateway",
-    "url": "https://gitlab.com/nicocool84/spectrum2_signald/",
-    "upvotes": 16,
-    "author": "upofadown",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25920693"
-  },
-  {
-    "title": "Topology 101: The Hole Truth",
-    "url": "https://www.quantamagazine.org/topology-101-how-mathematicians-study-holes-20210126/",
-    "upvotes": 60,
-    "author": "theafh",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25918577"
   }
 ]
