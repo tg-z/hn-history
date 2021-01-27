@@ -1,147 +1,155 @@
 [
   {
-    "title": "Why Create a New Unix Shell?",
-    "url": "http://www.oilshell.org/blog/2021/01/why-a-new-shell.html",
-    "upvotes": 50,
-    "author": "tux1968",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25924647"
-  },
-  {
-    "title": "Why Does It Take So Long to Build Software",
+    "title": "Why does it take so long to build software?",
     "url": "https://www.simplethread.com/why-does-it-take-so-long-to-build-software/",
-    "upvotes": 25,
+    "upvotes": 51,
     "author": "fagnerbrack",
-    "comments": 10,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25924566"
   },
   {
     "title": "CircuitPython: Programming Hardware in Python",
     "url": "https://github.com/adafruit/circuitpython",
-    "upvotes": 83,
+    "upvotes": 90,
     "author": "optimalsolver",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25923491"
   },
   {
     "title": "A minimalistic site to vent and see others doing the same in realtime",
     "url": "https://www.ventscape.life/",
-    "upvotes": 97,
+    "upvotes": 107,
     "author": "punkspider",
-    "comments": 31,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25923301"
-  },
-  {
-    "title": "Nq – a simple Unix job queue system",
-    "url": "https://github.com/leahneukirchen/nq",
-    "upvotes": 291,
-    "author": "unhammer",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=25920517"
   },
   {
     "title": "Crony Beliefs",
     "url": "https://meltingasphalt.com/crony-beliefs",
-    "upvotes": 18,
+    "upvotes": 30,
     "author": "apsec112",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25924750"
+  },
+  {
+    "title": "Nq – A simple Unix job queue system",
+    "url": "https://github.com/leahneukirchen/nq",
+    "upvotes": 298,
+    "author": "unhammer",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=25920517"
   },
   {
     "title": "I tried to report scientific misconduct. How did it go?",
     "url": "https://crystalprisonzone.blogspot.com/2021/01/i-tried-to-report-scientific-misconduct.html",
-    "upvotes": 130,
+    "upvotes": 158,
     "author": "ivank",
-    "comments": 35,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25922799"
   },
   {
-    "title": "Show HN: I made an alarm clock",
-    "url": "https://www.stavros.io/posts/do-not-be-alarmed-clock/",
-    "upvotes": 226,
-    "author": "StavrosK",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=25902165"
+    "title": "AMD Ryzen 9 5980HS Cezanne Review: Ryzen 5000 Mobile Tested",
+    "url": "https://www.anandtech.com/print/16446/amd-ryzen-9-5980hs-cezanne-review-ryzen-5000-mobile-tested",
+    "upvotes": 18,
+    "author": "pella",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25924657"
   },
   {
-    "title": "Firefox 85 cracks down on supercookies",
-    "url": "https://blog.mozilla.org/security/2021/01/26/supercookie-protections/",
-    "upvotes": 1319,
-    "author": "todsacerdoti",
-    "comments": 673,
-    "link": "https://news.ycombinator.com/item?id=25916513"
+    "title": "Split keyboards and how to build them",
+    "url": "https://github.com/diimdeep/awesome-split-keyboards",
+    "upvotes": 120,
+    "author": "punkspider",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=25922698"
   },
   {
     "title": "Show HN: Open-source voice typing for desktop",
     "url": "https://github.com/fxnoob/voice-typing-for-desktop",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "fxnoob",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25901824"
   },
   {
-    "title": "A worry junior engineers frequently have is that they ask too many questions",
-    "url": "https://twitter.com/EvyKassirer/status/1220556930675904516",
-    "upvotes": 73,
-    "author": "luu",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=25922975"
+    "title": "Show HN: I made an alarm clock",
+    "url": "https://www.stavros.io/posts/do-not-be-alarmed-clock/",
+    "upvotes": 233,
+    "author": "StavrosK",
+    "comments": 139,
+    "link": "https://news.ycombinator.com/item?id=25902165"
   },
   {
-    "title": "Frugal Web Browser: A Design Experiment",
-    "url": "https://frugalweb.xyz/",
-    "upvotes": 67,
-    "author": "bradley_taunt",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=25923551"
-  },
-  {
-    "title": "AMD Ryzen 9 5980HS Cezanne Review: Ryzen 5000 Mobile Tested",
-    "url": "https://www.anandtech.com/print/16446/amd-ryzen-9-5980hs-cezanne-review-ryzen-5000-mobile-tested",
-    "upvotes": 7,
-    "author": "pella",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25924657"
+    "title": "Firefox 85 cracks down on supercookies",
+    "url": "https://blog.mozilla.org/security/2021/01/26/supercookie-protections/",
+    "upvotes": 1334,
+    "author": "todsacerdoti",
+    "comments": 675,
+    "link": "https://news.ycombinator.com/item?id=25916513"
   },
   {
     "title": "What does the night sky look like on Mars?",
     "url": "https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars/",
-    "upvotes": 132,
+    "upvotes": 138,
     "author": "ohjeez",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=25921128"
   },
   {
     "title": "Latches in C++20",
     "url": "http://modernescpp.com/index.php/latches-in-c-20",
-    "upvotes": 77,
+    "upvotes": 82,
     "author": "ibobev",
-    "comments": 38,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25902827"
-  },
-  {
-    "title": "Evcxr: A Rust REPL and Jupyter Kernel",
-    "url": "https://github.com/google/evcxr",
-    "upvotes": 110,
-    "author": "batterylow",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25921894"
   },
   {
     "title": "A Map of Mathematics",
     "url": "https://mathmap.quantamagazine.org/map/",
-    "upvotes": 129,
+    "upvotes": 135,
     "author": "MitPitt",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25920822"
   },
   {
+    "title": "The Culture War: Iain M. Banks’s Billionaire Fans",
+    "url": "https://bloodknife.com/culture-war-iain-m-banks-jeff-bezos/",
+    "upvotes": 47,
+    "author": "captaincrowbar",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=25924560"
+  },
+  {
     "title": "How we made Typerighter, the Guardian’s style guide checker",
     "url": "https://www.theguardian.com/info/2021/jan/26/how-we-made-typerighter-the-guardians-style-guide-checker",
-    "upvotes": 88,
+    "upvotes": 93,
     "author": "camillovisini",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25915395"
+  },
+  {
+    "title": "Evcxr: A Rust REPL and Jupyter Kernel",
+    "url": "https://github.com/google/evcxr",
+    "upvotes": 113,
+    "author": "batterylow",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=25921894"
+  },
+  {
+    "title": "A Peek into the Future of Distros",
+    "url": "https://venam.nixers.net/blog/programming/2021/01/26/future-of-distros.html",
+    "upvotes": 5,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25925012"
+  },
+  {
+    "title": "Netflix and Spotify on a Raspberry Pi 4 with Chromium and Widevine",
+    "url": "https://blog.vpetkov.net/2019/07/12/netflix-and-spotify-on-a-raspberry-pi-4-with-latest-default-chromium/",
+    "upvotes": 80,
+    "author": "fanf2",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=25921419"
   },
   {
     "title": "Launch HN: Airbyte",
@@ -152,87 +160,79 @@
     "link": "https://news.ycombinator.com/item?id=25917403"
   },
   {
-    "title": "Netflix and Spotify on a Raspberry Pi 4 with Chromium and Widevine",
-    "url": "https://blog.vpetkov.net/2019/07/12/netflix-and-spotify-on-a-raspberry-pi-4-with-latest-default-chromium/",
-    "upvotes": 78,
-    "author": "fanf2",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25921419"
-  },
-  {
     "title": "Agent fired from literary agency for using Parler and Gab",
     "url": "https://www.newsweek.com/agent-fired-literary-agency-using-parler-gab-1564687",
-    "upvotes": 131,
+    "upvotes": 144,
     "author": "DeusExMachina",
-    "comments": 110,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=25922486"
-  },
-  {
-    "title": "J. M. Keynes and the Visible Hands",
-    "url": "https://www.publicbooks.org/j-m-keynes-and-the-visible-hands/",
-    "upvotes": 3,
-    "author": "solvent",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25921498"
   },
   {
     "title": "Gitlab is moving to a three-tier product subscription model",
     "url": "https://about.gitlab.com/blog/2021/01/26/new-gitlab-product-subscription-model/",
-    "upvotes": 264,
+    "upvotes": 267,
     "author": "alexrustic",
-    "comments": 234,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=25918717"
   },
   {
     "title": "Claude Shannon Demonstrates Machine Learning",
     "url": "https://techchannel.att.com/play-video.cfm/2010/3/16/In-Their-Own-Words-Claude-Shannon-Demonstrates-Machine-Learning",
-    "upvotes": 177,
+    "upvotes": 181,
     "author": "jchallis",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25919006"
+  },
+  {
+    "title": "Frugal Web Browser: A Design Experiment",
+    "url": "https://frugalweb.xyz/",
+    "upvotes": 70,
+    "author": "bradley_taunt",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=25923551"
+  },
+  {
+    "title": "Python's Type Checking Renaissance",
+    "url": "https://dafoster.net/articles/2021/01/26/python%27s-type-checking-renaissance/",
+    "upvotes": 109,
+    "author": "davidfstr",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=25916628"
   },
   {
     "title": "Radar",
     "url": "https://www.workatastartup.com/jobs/41758"
   },
   {
-    "title": "Python's Type Checking Renaissance",
-    "url": "https://dafoster.net/articles/2021/01/26/python%27s-type-checking-renaissance/",
-    "upvotes": 107,
-    "author": "davidfstr",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=25916628"
-  },
-  {
-    "title": "Heap-based buffer overflow in Sudo",
-    "url": "https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt",
-    "upvotes": 283,
-    "author": "ptype",
-    "comments": 225,
-    "link": "https://news.ycombinator.com/item?id=25919235"
-  },
-  {
     "title": "Finding the Time for Ancient Novels",
     "url": "https://www.amacad.org/publication/finding-time-ancient-novels",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "benbreen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25906557"
   },
   {
+    "title": "Heap-based buffer overflow in Sudo",
+    "url": "https://www.qualys.com/2021/01/26/cve-2021-3156/baron-samedit-heap-based-overflow-sudo.txt",
+    "upvotes": 286,
+    "author": "ptype",
+    "comments": 231,
+    "link": "https://news.ycombinator.com/item?id=25919235"
+  },
+  {
+    "title": "How do I safely store my files?",
+    "url": "https://photostructure.com/faq/how-do-i-safely-store-files/",
+    "upvotes": 62,
+    "author": "dsego",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=25902030"
+  },
+  {
     "title": "Programming in Five Easy Pieces",
     "url": "https://danielbmarkham.com/curry-howard-isomorphism/",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "zdw",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25909746"
-  },
-  {
-    "title": "Making is show business now",
-    "url": "https://alexdanco.com/2020/10/08/making-is-show-business-now/",
-    "upvotes": 199,
-    "author": "hgarg",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25902282"
   }
 ]
