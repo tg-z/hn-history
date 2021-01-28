@@ -2,15 +2,15 @@
   {
     "title": "The Mark Cuban Cost Plus Drug Company",
     "url": "https://costplusdrugs.com/",
-    "upvotes": 759,
+    "upvotes": 805,
     "author": "yawnxyz",
-    "comments": 488,
+    "comments": 518,
     "link": "https://news.ycombinator.com/item?id=25932233"
   },
   {
     "title": "WebRTC is now a W3C and IETF standard",
     "url": "https://web.dev/webrtc-standard-announcement/",
-    "upvotes": 260,
+    "upvotes": 285,
     "author": "kaycebasques",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=25933016"
@@ -18,39 +18,55 @@
   {
     "title": "The unreasonable effectiveness of simple HTML",
     "url": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
-    "upvotes": 576,
+    "upvotes": 602,
     "author": "edent",
-    "comments": 226,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=25915313"
   },
   {
     "title": "GameStop Is Rage Against the Financial Machine",
     "url": "https://www.bloomberg.com/opinion/articles/2021-01-27/gamestop-short-squeeze-is-rage-against-the-financial-machine",
-    "upvotes": 479,
+    "upvotes": 525,
     "author": "tempsy",
-    "comments": 576,
+    "comments": 623,
     "link": "https://news.ycombinator.com/item?id=25930214"
   },
   {
     "title": "Show HN: My multiplayer custom-engine game that loads in less than a second",
     "url": "http://vnav.io",
-    "upvotes": 69,
+    "upvotes": 75,
     "author": "crazypython",
-    "comments": 26,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25934270"
+  },
+  {
+    "title": "Discord bans the r/WallStreetBets server",
+    "url": "https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server",
+    "upvotes": 172,
+    "author": "icpmacdo",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=25935511"
+  },
+  {
+    "title": "WSB Went Private on Reddit",
+    "url": "https://www.reddit.com/r/wallstreetbets/",
+    "upvotes": 94,
+    "author": "vincentmarle",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=25935746"
   },
   {
     "title": "Opening Up the Samsung Q60 Series Smart TV",
     "url": "https://labs.f-secure.com/blog/samsung-q60r-smart-tv-opening-up-the-samsung-q60-series-smart-tv/",
-    "upvotes": 48,
+    "upvotes": 55,
     "author": "wglb",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25934286"
   },
   {
     "title": "My 2 Year Journey to $10K MRR",
     "url": "https://www.bannerbear.com/journey-to-10k-mrr/",
-    "upvotes": 434,
+    "upvotes": 453,
     "author": "ronyfadel",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25929259"
@@ -58,34 +74,18 @@
   {
     "title": "Automating my job with GPT-3",
     "url": "https://blog.seekwell.io/gpt3",
-    "upvotes": 230,
+    "upvotes": 241,
     "author": "daolf",
-    "comments": 69,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=25930190"
   },
   {
     "title": "Tesla’s charging stations left other manufacturers in the dust",
     "url": "https://hbr.org/2021/01/how-teslas-charging-stations-left-other-manufacturers-in-the-dust",
-    "upvotes": 161,
+    "upvotes": 169,
     "author": "apress",
-    "comments": 232,
+    "comments": 247,
     "link": "https://news.ycombinator.com/item?id=25930253"
-  },
-  {
-    "title": "Discord bans the r/WallStreetBets server",
-    "url": "https://www.theverge.com/2021/1/27/22253251/discord-bans-the-r-wallstreetbets-server",
-    "upvotes": 42,
-    "author": "icpmacdo",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25935511"
-  },
-  {
-    "title": "Machine learning saves us $1.7M a year on document previews",
-    "url": "https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews",
-    "upvotes": 78,
-    "author": "wsuen",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25933262"
   },
   {
     "title": "Soteris",
@@ -94,15 +94,23 @@
   {
     "title": "OO in Python is mostly pointless",
     "url": "https://leontrolski.github.io/mostly-pointless.html",
-    "upvotes": 119,
+    "upvotes": 131,
     "author": "leontrolski",
-    "comments": 119,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=25933121"
+  },
+  {
+    "title": "Machine learning saves us $1.7M a year on document previews",
+    "url": "https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews",
+    "upvotes": 81,
+    "author": "wsuen",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=25933262"
   },
   {
     "title": "Murder map of medieval London",
     "url": "https://arstechnica.com/science/2019/01/addictive-interactive-murder-map-lets-you-explore-medieval-london-crime/",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25914929"
@@ -110,129 +118,121 @@
   {
     "title": "Peat fires continue to burn at air temperature of -50C in northeastern Yakutia",
     "url": "https://siberiantimes.com/other/others/news/peat-fires-continue-to-burn-at-air-temperature-of-50c-in-northeastern-yakutia/",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "giuliomagnifico",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=25933515"
   },
   {
     "title": "OpenWifiPass – Open-Source Implementation of Apple's Wi-Fi Password Sharing",
     "url": "https://github.com/seemoo-lab/openwifipass",
-    "upvotes": 190,
+    "upvotes": 196,
     "author": "jagged-chisel",
-    "comments": 68,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25928068"
   },
   {
     "title": "Doubling down on permissive licensing and the Elasticsearch lockdown",
     "url": "https://crate.io/a/cratedb-doubling-down-on-permissive-licensing-and-the-elasticsearch-lockdown/",
-    "upvotes": 60,
+    "upvotes": 63,
     "author": "carlotasoto",
-    "comments": 34,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25931790"
   },
   {
-    "title": "Historical Dictionary of Science Fiction",
-    "url": "https://sfdictionary.com",
-    "upvotes": 20,
-    "author": "throw0101a",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25934170"
+    "title": "Fix Terminals",
+    "url": "http://www.leonerd.org.uk/hacks/fixterms/",
+    "upvotes": 11,
+    "author": "smartmic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25934367"
   },
   {
     "title": "Data fetching on the web still sucks",
     "url": "https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks",
-    "upvotes": 124,
+    "upvotes": 127,
     "author": "bcherny",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=25930177"
-  },
-  {
-    "title": "Show HN: Bunklist – Collect and discover useful websites through lists",
-    "url": "https://bunklist.com",
-    "upvotes": 33,
-    "author": "supernano9",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25927819"
-  },
-  {
-    "title": "Six-exoplanet system challenges theories of how planets form",
-    "url": "https://phys.org/news/2021-01-puzzling-six-exoplanet-rhythmic-movement-theories.html",
-    "upvotes": 38,
-    "author": "dnetesn",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=25914464"
-  },
-  {
-    "title": "Obedience to Authority: The Experiments by Stanley Milgram",
-    "url": "http://www.age-of-the-sage.org/psychology/milgram_obedience_experiment.html",
-    "upvotes": 59,
-    "author": "maremmano",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=25900430"
-  },
-  {
-    "title": "Berty: Peer-to-peer messaging app that works with or without internet access",
-    "url": "https://github.com/berty/berty",
-    "upvotes": 226,
-    "author": "sirffuzzylogik",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=25926360"
-  },
-  {
-    "title": "Telephoto fear: how lenses affect views of crowds",
-    "url": "https://mainichi.jp/english/articles/20210126/p2a/00m/0op/009000c",
-    "upvotes": 279,
-    "author": "_cs2017_",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=25926471"
   },
   {
     "title": "Time Series Density Plot",
     "url": "https://observablehq.com/@twitter/time-series-density-plot",
-    "upvotes": 5,
+    "upvotes": 9,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25924426"
   },
   {
+    "title": "Launch HN: Axle Health (YC W21) – In-Home Healthcare as a Service",
+    "url": "item?id=25930061",
+    "upvotes": 37,
+    "author": "chailey11",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=25930061"
+  },
+  {
+    "title": "Show HN: Bunklist – Collect and discover useful websites through lists",
+    "url": "https://bunklist.com",
+    "upvotes": 34,
+    "author": "supernano9",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25927819"
+  },
+  {
+    "title": "Historical Dictionary of Science Fiction",
+    "url": "https://sfdictionary.com",
+    "upvotes": 22,
+    "author": "throw0101a",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25934170"
+  },
+  {
+    "title": "Obedience to Authority: The Experiments by Stanley Milgram",
+    "url": "http://www.age-of-the-sage.org/psychology/milgram_obedience_experiment.html",
+    "upvotes": 62,
+    "author": "maremmano",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25900430"
+  },
+  {
+    "title": "Six-exoplanet system challenges theories of how planets form",
+    "url": "https://phys.org/news/2021-01-puzzling-six-exoplanet-rhythmic-movement-theories.html",
+    "upvotes": 40,
+    "author": "dnetesn",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=25914464"
+  },
+  {
+    "title": "Berty: Peer-to-peer messaging app that works with or without internet access",
+    "url": "https://github.com/berty/berty",
+    "upvotes": 232,
+    "author": "sirffuzzylogik",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=25926360"
+  },
+  {
+    "title": "Telephoto fear: how lenses affect views of crowds",
+    "url": "https://mainichi.jp/english/articles/20210126/p2a/00m/0op/009000c",
+    "upvotes": 280,
+    "author": "_cs2017_",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=25926471"
+  },
+  {
     "title": "Publishing Is Back to the Future",
     "url": "http://www.stratechery.com/2021/publishing-is-back-to-the-future/",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "ZaidMalhis",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25930096"
   },
   {
-    "title": "Why we should leave old oil rigs in the sea, and why we don’t",
-    "url": "https://theconversation.com/why-we-should-leave-old-oil-rigs-in-the-sea-and-why-we-dont-145587",
-    "upvotes": 60,
-    "author": "MichelBen",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=25928119"
-  },
-  {
     "title": "Chamath Palihapitiya on Wallstreetbets [audio]",
     "url": "https://overcast.fm/+fn2WSlrs4/11:00",
-    "upvotes": 106,
+    "upvotes": 117,
     "author": "dave_aiello",
-    "comments": 114,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=25932598"
-  },
-  {
-    "title": "Heavy social media use associated with lower mental health in adolescents",
-    "url": "https://www.bbc.com/news/technology-55826238",
-    "upvotes": 706,
-    "author": "alexrustic",
-    "comments": 324,
-    "link": "https://news.ycombinator.com/item?id=25928310"
-  },
-  {
-    "title": "Visual Tcl",
-    "url": "http://vtcl.sourceforge.net/?x=screen",
-    "upvotes": 126,
-    "author": "galfarragem",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=25926022"
   }
 ]
