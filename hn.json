@@ -1,50 +1,58 @@
 [
   {
+    "title": "Making GitHub’s new homepage fast and performant",
+    "url": "https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/",
+    "upvotes": 53,
+    "author": "todsacerdoti",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=25959646"
+  },
+  {
     "title": "Die Shots of the Raspberry Pi RP2040",
     "url": "https://blog.adafruit.com/2021/01/29/die-shots-of-the-raspberry-pi-rp2040-chip-teardown-dieshot-reverseengineering-piday-johndmcmaster-raspberry_pi/",
-    "upvotes": 98,
+    "upvotes": 127,
     "author": "mmastrac",
-    "comments": 7,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25958138"
   },
   {
     "title": "Statement of SEC Regarding Recent Market Volatility",
     "url": "https://www.sec.gov/news/public-statement/joint-statement-market-volatility-2021-01-29",
-    "upvotes": 324,
+    "upvotes": 363,
     "author": "TeMPOraL",
-    "comments": 463,
+    "comments": 564,
     "link": "https://news.ycombinator.com/item?id=25957748"
   },
   {
     "title": "Pony – High Performance Safe Actor Programming",
     "url": "https://www.ponylang.io/discover/#what-is-pony",
-    "upvotes": 133,
+    "upvotes": 157,
     "author": "ibraheemdev",
-    "comments": 59,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25957307"
-  },
-  {
-    "title": "PyO3: Rust Bindings for the Python Interpreter",
-    "url": "https://github.com/PyO3/pyo3",
-    "upvotes": 171,
-    "author": "batterylow",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25956502"
   },
   {
     "title": "Surround sound from lightweight roll-to-roll printed loudspeaker paper",
     "url": "https://phys.org/news/2021-01-lightweight-roll-to-roll-loudspeaker-paper.html",
-    "upvotes": 36,
+    "upvotes": 46,
     "author": "prostoalex",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25958395"
+  },
+  {
+    "title": "PyO3: Rust Bindings for the Python Interpreter",
+    "url": "https://github.com/PyO3/pyo3",
+    "upvotes": 187,
+    "author": "batterylow",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=25956502"
   },
   {
     "title": "Pricing a SaaS product",
     "url": "https://www.bannerbear.com/blog/don-t-charge-a-month-for-your-product/",
-    "upvotes": 43,
+    "upvotes": 62,
     "author": "helsinkiandrew",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25941412"
   },
   {
@@ -54,7 +62,7 @@
   {
     "title": "A history of amulets in ten objects",
     "url": "http://journal.sciencemuseum.ac.uk/browse/issue-11/a-history-of-amulets-in-ten-objects/",
-    "upvotes": 17,
+    "upvotes": 24,
     "author": "benbreen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25923490"
@@ -62,177 +70,169 @@
   {
     "title": "Hobbyists beat professional designers in creating novel board games",
     "url": "https://www.sciencedirect.com/science/article/pii/S0048733320302481",
-    "upvotes": 146,
+    "upvotes": 155,
     "author": "ArtWomb",
-    "comments": 83,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=25927861"
   },
   {
     "title": "Achieving 11M IOPS and 66 GB/S IO on a Single ThreadRipper Workstation",
     "url": "https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/",
-    "upvotes": 96,
+    "upvotes": 122,
     "author": "tanelpoder",
-    "comments": 47,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25956670"
-  },
-  {
-    "title": "A Look at iMessage in iOS 14",
-    "url": "https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html",
-    "upvotes": 457,
-    "author": "kccqzy",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=25953668"
   },
   {
     "title": "Factorio 1.1 stable",
     "url": "https://factorio.com/blog/post/fff-364",
-    "upvotes": 294,
+    "upvotes": 330,
     "author": "OrderlyTiamat",
-    "comments": 98,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=25956551"
   },
   {
-    "title": "Launch HN: InpharmD (YC W21) – curated drug information for doctors",
-    "url": "item?id=25957775",
-    "upvotes": 29,
-    "author": "aadvani",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25957775"
-  },
-  {
-    "title": "Police Say They Use Facial Recognition Despite Bans",
-    "url": "https://themarkup.org/news/2021/01/28/police-say-they-can-use-facial-recognition-despite-bans",
-    "upvotes": 226,
-    "author": "atg_abhishek",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=25953781"
+    "title": "A Look at iMessage in iOS 14",
+    "url": "https://googleprojectzero.blogspot.com/2021/01/a-look-at-imessage-in-ios-14.html",
+    "upvotes": 465,
+    "author": "kccqzy",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=25953668"
   },
   {
     "title": "Solar-Powered, Off-Grid Bike Can Bust Poachers Anywhere",
     "url": "https://www.thedrive.com/news/38996/this-solar-powered-off-grid-bike-can-bust-poachers-anywhere",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "samizdis",
-    "comments": 30,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=25956730"
+  },
+  {
+    "title": "Police Say They Use Facial Recognition Despite Bans",
+    "url": "https://themarkup.org/news/2021/01/28/police-say-they-can-use-facial-recognition-despite-bans",
+    "upvotes": 236,
+    "author": "atg_abhishek",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=25953781"
+  },
+  {
+    "title": "Launch HN: InpharmD (YC W21) – curated drug information for doctors",
+    "url": "item?id=25957775",
+    "upvotes": 34,
+    "author": "aadvani",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=25957775"
+  },
+  {
+    "title": "Google reportedly scraps thousands of negative Robinhood reviews",
+    "url": "https://cointelegraph.com/news/google-reportedly-scraps-thousands-of-negative-robinhood-reviews",
+    "upvotes": 16,
+    "author": "guybedo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25959856"
   },
   {
     "title": "I volunteered to be infected with 50 parasitic worms for a research study",
     "url": "https://twitter.com/JimmyBernot/status/1354443833388503043",
-    "upvotes": 79,
+    "upvotes": 96,
     "author": "zdw",
-    "comments": 28,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=25943085"
-  },
-  {
-    "title": "San Francisco's school board in name only",
-    "url": "https://www.sfchronicle.com/opinion/editorials/article/Editorial-San-Francisco-s-school-board-in-name-15903477.php",
-    "upvotes": 14,
-    "author": "dsr12",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25959483"
   },
   {
     "title": "Nintil – Thinking about software engineering",
     "url": "https://nintil.com/programming",
-    "upvotes": 36,
+    "upvotes": 46,
     "author": "funkisjazz",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25956644"
-  },
-  {
-    "title": "Michael Bluejays Battery Guide",
-    "url": "http://michaelbluejay.com/batteries/",
-    "upvotes": 32,
-    "author": "Tomte",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25926165"
-  },
-  {
-    "title": "Personium – personal data store server",
-    "url": "https://personium.io/",
-    "upvotes": 122,
-    "author": "cbzbc",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=25926033"
-  },
-  {
-    "title": "A small, delayed avalanche may have been responsible for the Dyatlov Incident",
-    "url": "https://www.nationalgeographic.com/science/2021/01/has-science-solved-history-greatest-adventure-mystery-dyatlov/",
-    "upvotes": 154,
-    "author": "indigodaddy",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25954120"
-  },
-  {
-    "title": "Looking for More Debugger",
-    "url": "https://scattered-thoughts.net/writing/looking-for-debugger-2/",
-    "upvotes": 38,
-    "author": "luu",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=25940064"
-  },
-  {
-    "title": "The Uncensored Guide to ‘Oumuamua, Aliens, and That Harvard Astronomer",
-    "url": "https://www.forbes.com/sites/startswithabang/2021/01/28/the-uncensored-guide-to-oumuamua-aliens-and-that-harvard-astronomer/",
-    "upvotes": 64,
-    "author": "mellosouls",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=25956720"
   },
   {
     "title": "Anger Mangement",
     "url": "https://thepointmag.com/examined-life/anger-management-agnes-callard/",
-    "upvotes": 3,
+    "upvotes": 8,
     "author": "whatami",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25950834"
   },
   {
+    "title": "Michael Bluejays Battery Guide",
+    "url": "http://michaelbluejay.com/batteries/",
+    "upvotes": 39,
+    "author": "Tomte",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25926165"
+  },
+  {
+    "title": "Personium – personal data store server",
+    "url": "https://personium.io/",
+    "upvotes": 134,
+    "author": "cbzbc",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=25926033"
+  },
+  {
+    "title": "A small, delayed avalanche may have been responsible for the Dyatlov Incident",
+    "url": "https://www.nationalgeographic.com/science/2021/01/has-science-solved-history-greatest-adventure-mystery-dyatlov/",
+    "upvotes": 158,
+    "author": "indigodaddy",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=25954120"
+  },
+  {
+    "title": "The Uncensored Guide to ‘Oumuamua, Aliens, and That Harvard Astronomer",
+    "url": "https://www.forbes.com/sites/startswithabang/2021/01/28/the-uncensored-guide-to-oumuamua-aliens-and-that-harvard-astronomer/",
+    "upvotes": 71,
+    "author": "mellosouls",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=25956720"
+  },
+  {
+    "title": "Looking for More Debugger",
+    "url": "https://scattered-thoughts.net/writing/looking-for-debugger-2/",
+    "upvotes": 41,
+    "author": "luu",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25940064"
+  },
+  {
     "title": "Businesses should try to be the best, not the biggest",
     "url": "https://joanwestenberg.medium.com/dont-grow-d7f87faeaf56",
-    "upvotes": 383,
+    "upvotes": 398,
     "author": "joanwestenberg",
-    "comments": 248,
+    "comments": 256,
     "link": "https://news.ycombinator.com/item?id=25956360"
   },
   {
     "title": "A Day in the Life of Your Data [pdf]",
     "url": "https://www.apple.com/privacy/docs/A_Day_in_the_Life_of_Your_Data.pdf",
-    "upvotes": 98,
+    "upvotes": 109,
     "author": "abouelatta",
-    "comments": 64,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=25957844"
   },
   {
     "title": "Show HN: SleekDB 2.0 – Makes simple database effortless",
     "url": "https://sleekdb.github.io/",
-    "upvotes": 16,
+    "upvotes": 21,
     "author": "rakibtg",
-    "comments": 2,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25957688"
+  },
+  {
+    "title": "StrictMark: Markdown, Refactored",
+    "url": "http://doc.replicated.cc/%5EWiki/strictmark.sm",
+    "upvotes": 8,
+    "author": "gritzko",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25958444"
   },
   {
     "title": "A Shell Language in Lisp",
     "url": "https://github.com/naver/lispe/wiki/7.-Shell",
-    "upvotes": 67,
+    "upvotes": 72,
     "author": "todsacerdoti",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=25940439"
-  },
-  {
-    "title": "Robinhood, in Need of Cash, Raises $1B from Its Investors",
-    "url": "https://www.nytimes.com/2021/01/29/technology/robinhood-fundraising.html",
-    "upvotes": 570,
-    "author": "coloneltcb",
-    "comments": 407,
-    "link": "https://news.ycombinator.com/item?id=25954539"
-  },
-  {
-    "title": "Markov Chain Monte Carlo: Burn-In Is Unnecessary",
-    "url": "http://users.stat.umn.edu/~geyer/mcmc/burn.html",
-    "upvotes": 48,
-    "author": "spekcular",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=25954992"
   }
 ]
