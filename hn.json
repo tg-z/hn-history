@@ -2,237 +2,237 @@
   {
     "title": "Facebook reportedly prepping antitrust lawsuit against Apple on App Store rules",
     "url": "https://www.businessinsider.com/facebook-apple-antitrust-lawsuit-app-store-2021-1",
-    "upvotes": 42,
+    "upvotes": 108,
     "author": "PieUser",
-    "comments": 41,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=25961053"
   },
   {
     "title": "Robinhood denies claims that it sold GameStop shares out from under its traders",
     "url": "https://www.theverge.com/2021/1/28/22254857/robinhood-gamestop-amc-shares-sold-surprised-users",
-    "upvotes": 119,
+    "upvotes": 178,
     "author": "Alupis",
-    "comments": 229,
+    "comments": 285,
     "link": "https://news.ycombinator.com/item?id=25958639"
   },
   {
     "title": "Die Shots of the Raspberry Pi RP2040",
-    "url": "https://blog.adafruit.com/2021/01/29/die-shots-of-the-raspberry-pi-rp2040-chip-teardown-dieshot-reverseengineering-piday-johndmcmaster-raspberry_pi/",
-    "upvotes": 185,
+    "url": "https://twitter.com/johndmcmaster/status/1355092011829719046",
+    "upvotes": 191,
     "author": "mmastrac",
-    "comments": 40,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=25958138"
   },
   {
-    "title": "Weird compiler bug – Same code, different results",
-    "url": "https://blog.zaita.com/mingw64-compiler-bug/",
-    "upvotes": 6,
-    "author": "zaitanz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25962756"
-  },
-  {
-    "title": "Pony – High Performance Safe Actor Programming",
-    "url": "https://www.ponylang.io/discover/#what-is-pony",
-    "upvotes": 232,
+    "title": "Pony – High-Performance Safe Actor Programming",
+    "url": "https://www.ponylang.io/discover/",
+    "upvotes": 236,
     "author": "ibraheemdev",
-    "comments": 106,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=25957307"
   },
   {
-    "title": "C-for-Metal: High Performance SIMD Programming on Intel GPUs",
-    "url": "https://arxiv.org/abs/2101.11049",
-    "upvotes": 42,
-    "author": "lelf",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=25955579"
+    "title": "WindowTabs: Browser-style tabbed window management on the desktop",
+    "url": "https://github.com/leafOfTree/WindowTabs",
+    "upvotes": 14,
+    "author": "Emendo",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25962783"
+  },
+  {
+    "title": "Disorderfs: FUSE-based filesystem that introduces non-determinism into metadata",
+    "url": "https://salsa.debian.org/reproducible-builds/disorderfs",
+    "upvotes": 15,
+    "author": "mmastrac",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25942451"
   },
   {
     "title": "Dover",
     "url": "https://www.dover.io/open-roles/growth-engineer"
   },
   {
-    "title": "Statement of SEC Regarding Recent Market Volatility",
-    "url": "https://www.sec.gov/news/public-statement/joint-statement-market-volatility-2021-01-29",
-    "upvotes": 456,
-    "author": "TeMPOraL",
-    "comments": 740,
-    "link": "https://news.ycombinator.com/item?id=25957748"
+    "title": "Achieving 11M IOPS and 66 GB/S IO on a Single ThreadRipper Workstation",
+    "url": "https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/",
+    "upvotes": 205,
+    "author": "tanelpoder",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=25956670"
   },
   {
-    "title": "WindowTabs: Browser-style tabbed window management on the desktop",
-    "url": "https://github.com/leafOfTree/WindowTabs",
-    "upvotes": 4,
-    "author": "Emendo",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25962783"
+    "title": "C-for-Metal: High Performance SIMD Programming on Intel GPUs",
+    "url": "https://arxiv.org/abs/2101.11049",
+    "upvotes": 46,
+    "author": "lelf",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=25955579"
+  },
+  {
+    "title": "Statement of SEC Regarding Recent Market Volatility",
+    "url": "https://www.sec.gov/news/public-statement/joint-statement-market-volatility-2021-01-29",
+    "upvotes": 463,
+    "author": "TeMPOraL",
+    "comments": 746,
+    "link": "https://news.ycombinator.com/item?id=25957748"
   },
   {
     "title": "AstraZeneca/EU contract",
     "url": "https://fragdenstaat.de/dokumente/8409-apa_-_astrazeneca/",
-    "upvotes": 119,
+    "upvotes": 128,
     "author": "hannob",
-    "comments": 203,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=25960469"
   },
   {
     "title": "PyO3: Rust Bindings for the Python Interpreter",
     "url": "https://github.com/PyO3/pyo3",
-    "upvotes": 241,
+    "upvotes": 247,
     "author": "batterylow",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=25956502"
+  },
+  {
+    "title": "Weird compiler bug – Same code, different results",
+    "url": "https://blog.zaita.com/mingw64-compiler-bug/",
+    "upvotes": 25,
+    "author": "zaitanz",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25962756"
   },
   {
     "title": "Launch HN: InpharmD (YC W21) – curated drug information for doctors",
     "url": "item?id=25957775",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "aadvani",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=25957775"
   },
   {
-    "title": "Disorderfs: FUSE-based filesystem that introduces non-determinism into metadata",
-    "url": "https://salsa.debian.org/reproducible-builds/disorderfs",
-    "upvotes": 8,
-    "author": "mmastrac",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25942451"
+    "title": "u/DeepFuckingValue and the GameStop Reddit mania",
+    "url": "https://www.wsj.com/articles/keith-gill-drove-the-gamestop-reddit-mania-he-talked-to-the-journal-11611931696",
+    "upvotes": 83,
+    "author": "gangwolf",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=25957923"
   },
   {
     "title": "Pricing a SaaS product",
     "url": "https://www.bannerbear.com/blog/don-t-charge-a-month-for-your-product/",
-    "upvotes": 120,
+    "upvotes": 122,
     "author": "helsinkiandrew",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25941412"
   },
   {
+    "title": "What's New in PHP 8.1",
+    "url": "https://stitcher.io/blog/new-in-php-81",
+    "upvotes": 68,
+    "author": "hypomnemata",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=25959319"
+  },
+  {
+    "title": "'Sea Prison': Covid-19 Has Left Hundreds of Thousands of Seafarers Stranded",
+    "url": "https://www.npr.org/2021/01/29/959626340/-sea-prison-covid-19-has-left-hundreds-of-thousands-of-seafarers-stranded",
+    "upvotes": 6,
+    "author": "happy-go-lucky",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25963237"
+  },
+  {
+    "title": "Surround sound from lightweight roll-to-roll printed loudspeaker paper",
+    "url": "https://phys.org/news/2021-01-lightweight-roll-to-roll-loudspeaker-paper.html",
+    "upvotes": 69,
+    "author": "prostoalex",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25958395"
+  },
+  {
+    "title": "Making our new homepage fast and performant",
+    "url": "https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/",
+    "upvotes": 201,
+    "author": "todsacerdoti",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=25959646"
+  },
+  {
     "title": "Google Cloud SQL Incident",
     "url": "https://status.cloud.google.com/incident/cloud-sql/21001",
-    "upvotes": 31,
+    "upvotes": 37,
     "author": "keltex",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25962057"
   },
   {
-    "title": "What's New in PHP 8.1",
-    "url": "https://stitcher.io/blog/new-in-php-81",
-    "upvotes": 62,
-    "author": "hypomnemata",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25959319"
-  },
-  {
-    "title": "Making our new homepage fast and performant",
-    "url": "https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/",
-    "upvotes": 197,
-    "author": "todsacerdoti",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=25959646"
-  },
-  {
-    "title": "Surround sound from lightweight roll-to-roll printed loudspeaker paper",
-    "url": "https://phys.org/news/2021-01-lightweight-roll-to-roll-loudspeaker-paper.html",
-    "upvotes": 66,
-    "author": "prostoalex",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25958395"
-  },
-  {
-    "title": "Interview with u/DeepFuckingValue, who drove the GameStop Reddit mania",
-    "url": "https://www.wsj.com/articles/keith-gill-drove-the-gamestop-reddit-mania-he-talked-to-the-journal-11611931696",
-    "upvotes": 61,
-    "author": "gangwolf",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=25957923"
-  },
-  {
-    "title": "Robinhood is still severely limiting trading",
-    "url": "https://www.cnbc.com/2021/01/29/robinhood-is-still-severely-limiting-trading-gamestop-holders-can-only-buy-one-additional-share.html",
-    "upvotes": 42,
-    "author": "drocer88",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=25961798"
-  },
-  {
     "title": "Johnson and Johnson single-shot vaccine appears 66% effective in global trial",
     "url": "https://www.cbc.ca/news/health/johnson-johnson-covid-vaccine-trial-1.5893009",
-    "upvotes": 64,
+    "upvotes": 75,
     "author": "heyheyheysome",
-    "comments": 116,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=25957820"
+  },
+  {
+    "title": "The Uncensored Guide to ‘Oumuamua, Aliens, and That Harvard Astronomer",
+    "url": "https://www.forbes.com/sites/startswithabang/2021/01/28/the-uncensored-guide-to-oumuamua-aliens-and-that-harvard-astronomer/",
+    "upvotes": 76,
+    "author": "mellosouls",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=25956720"
   },
   {
     "title": "Hobbyists beat professional designers in creating novel board games",
     "url": "https://www.sciencedirect.com/science/article/pii/S0048733320302481",
-    "upvotes": 189,
+    "upvotes": 193,
     "author": "ArtWomb",
-    "comments": 122,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=25927861"
-  },
-  {
-    "title": "Sudo buffer overflow explained, and how to patch",
-    "url": "https://github.com/mbcrump/CVE-2021-3156/blob/main/README.md",
-    "upvotes": 69,
-    "author": "mcrump",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25961443"
   },
   {
     "title": "Codex Atlanticus: Explore the Largest Collection of Works by Da Vinci",
     "url": "https://codex-atlanticus.it/#/",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "polm23",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25939693"
   },
   {
+    "title": "Sudo buffer overflow explained, and how to patch",
+    "url": "https://github.com/mbcrump/CVE-2021-3156/blob/main/README.md",
+    "upvotes": 74,
+    "author": "mcrump",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=25961443"
+  },
+  {
+    "title": "StrictMark: Markdown, Refactored",
+    "url": "http://doc.replicated.cc/%5EWiki/strictmark.sm",
+    "upvotes": 53,
+    "author": "gritzko",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=25958444"
+  },
+  {
+    "title": "Can you make a basic web app without googling? I can't",
+    "url": "https://web.eecs.utk.edu/~azh/blog/webappwithoutgoogling.html",
+    "upvotes": 95,
+    "author": "azhenley",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=25961420"
+  },
+  {
     "title": "Who does that server really serve?",
     "url": "https://www.gnu.org/philosophy/who-does-that-server-really-serve.en.html",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "crazypython",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25961206"
   },
   {
-    "title": "Can you make a basic web app without googling? I can't",
-    "url": "https://web.eecs.utk.edu/~azh/blog/webappwithoutgoogling.html",
-    "upvotes": 85,
-    "author": "azhenley",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=25961420"
-  },
-  {
-    "title": "The Business of Books: The high-stakes world of pirate publishing",
-    "url": "https://www.historytoday.com/archive/review/business-books",
-    "upvotes": 24,
-    "author": "samclemens",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25919152"
-  },
-  {
     "title": "Factorio 1.1 stable",
     "url": "https://factorio.com/blog/post/fff-364",
-    "upvotes": 400,
+    "upvotes": 412,
     "author": "OrderlyTiamat",
-    "comments": 149,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=25956551"
-  },
-  {
-    "title": "A history of amulets in ten objects",
-    "url": "http://journal.sciencemuseum.ac.uk/browse/issue-11/a-history-of-amulets-in-ten-objects/",
-    "upvotes": 41,
-    "author": "benbreen",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25923490"
-  },
-  {
-    "title": "Achieving 11M IOPS and 66 GB/S IO on a Single ThreadRipper Workstation",
-    "url": "https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/",
-    "upvotes": 198,
-    "author": "tanelpoder",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=25956670"
   }
 ]
