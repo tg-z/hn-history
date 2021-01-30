@@ -2,47 +2,47 @@
   {
     "title": "Element",
     "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1084,
+    "upvotes": 1121,
     "author": "redsolver",
-    "comments": 550,
+    "comments": 565,
     "link": "https://news.ycombinator.com/item?id=25964226"
+  },
+  {
+    "title": "Show HN: Collection of Deep Learning implementations with side-by-side notes",
+    "url": "https://nn.labml.ai",
+    "upvotes": 75,
+    "author": "vpj",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25967641"
   },
   {
     "title": "New Xquartz release with native Apple Silicon support",
     "url": "https://www.mail-archive.com/xquartz-dev@lists.macosforge.org/msg01027.html",
-    "upvotes": 82,
+    "upvotes": 88,
     "author": "ismiseted",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25967442"
   },
   {
-    "title": "Show HN: Collection of Deep Learning implementations with side-by-side notes",
-    "url": "https://nn.labml.ai",
-    "upvotes": 61,
-    "author": "vpj",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25967641"
-  },
-  {
     "title": "Brandolini's Law",
     "url": "https://en.wikipedia.org/wiki/Brandolini%27s_law",
-    "upvotes": 51,
+    "upvotes": 62,
     "author": "ivanmaeder",
-    "comments": 21,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25956905"
   },
   {
     "title": "macOS Big Sur breaks PostgreSQL because of new security API",
     "url": "https://github.com/PostgresApp/PostgresApp/issues/610",
-    "upvotes": 44,
+    "upvotes": 61,
     "author": "devops000",
-    "comments": 10,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25967594"
   },
   {
     "title": "Siliconpr0n: High Resolution Chip Maps",
     "url": "https://siliconpr0n.org/map/",
-    "upvotes": 235,
+    "upvotes": 238,
     "author": "lelf",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25964865"
@@ -50,14 +50,30 @@
   {
     "title": "List of Logical Fallacies with Examples",
     "url": "https://www.logicalfallacies.org/",
-    "upvotes": 41,
+    "upvotes": 51,
     "author": "keskadale",
-    "comments": 12,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25967160"
   },
   {
     "title": "The Muse",
     "url": "https://www.themuse.com/jobs/themuse/senior-product-designer"
+  },
+  {
+    "title": "Offline Algorithms in Low-Frequency Trading",
+    "url": "https://queue.acm.org/detail.cfm?id=3448307",
+    "upvotes": 8,
+    "author": "hypomnemata",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25968348"
+  },
+  {
+    "title": "Turbo Pascal: A Great Choice for Programming Under CP/M",
+    "url": "https://techtinkering.com/2013/03/05/turbo-pascal-a-great-choice-for-programming-under-cpm/",
+    "upvotes": 113,
+    "author": "elvis70",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=25956128"
   },
   {
     "title": "Research establishes antibiotic potential for cannabis molecule",
@@ -68,25 +84,17 @@
     "link": "https://news.ycombinator.com/item?id=25954830"
   },
   {
-    "title": "Turbo Pascal: A Great Choice for Programming Under CP/M",
-    "url": "https://techtinkering.com/2013/03/05/turbo-pascal-a-great-choice-for-programming-under-cpm/",
-    "upvotes": 111,
-    "author": "elvis70",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=25956128"
-  },
-  {
-    "title": "Can you make a basic web app without Googling? I can’t",
-    "url": "https://web.eecs.utk.edu/~azh/blog/webappwithoutgoogling.html",
-    "upvotes": 264,
-    "author": "azhenley",
-    "comments": 270,
-    "link": "https://news.ycombinator.com/item?id=25961420"
+    "title": "Clojure/Script mode for CodeMirror 6",
+    "url": "https://nextjournal.github.io/clojure-mode/",
+    "upvotes": 8,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25968289"
   },
   {
     "title": "Humanlike thumb dexterity may date back as far as 2M years ago",
     "url": "https://www.sciencenews.org/article/humanlike-thumb-dexterity-hominid-evolution",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "diodorus",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25966187"
@@ -94,58 +102,50 @@
   {
     "title": "Nyxt browser: mouseless copy/paste",
     "url": "https://nyxt.atlas.engineer/article/visual-mode.org",
-    "upvotes": 84,
+    "upvotes": 89,
     "author": "jmercouris",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25956152"
-  },
-  {
-    "title": "Playing with My Son",
-    "url": "https://medium.com/message/playing-with-my-son-e5226ff0a7c3",
-    "upvotes": 5,
-    "author": "Tomte",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25955702"
   },
   {
     "title": "Number Parsing at a Gigabyte per Second",
     "url": "https://lemire.me/blog/2021/01/29/number-parsing-at-a-gigabyte-per-second/",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "mpweiher",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25967482"
   },
   {
     "title": "Apple Silicon M1 supports “billion of colors” a.k.a. HDR 10-bit output",
     "url": "https://singhkays.com/blog/apple-silicon-m1-hdr-10bit-billion-colors/",
-    "upvotes": 208,
+    "upvotes": 211,
     "author": "singhkays",
-    "comments": 169,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=25964501"
   },
   {
     "title": "A dedicated licence for open-source hardware: CERN OHL approved by OSI",
     "url": "https://www.theregister.com/2021/01/29/cern_ohl_approved/",
-    "upvotes": 61,
+    "upvotes": 62,
     "author": "icot",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=25956687"
   },
   {
     "title": "Achieving 11M IOPS and 66 GB/S IO on a Single ThreadRipper Workstation",
     "url": "https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/",
-    "upvotes": 391,
+    "upvotes": 393,
     "author": "tanelpoder",
     "comments": 175,
     "link": "https://news.ycombinator.com/item?id=25956670"
   },
   {
-    "title": "Moonstruck Sleep: Synchronization of Human Sleep with the Moon Cycle [pdf]",
-    "url": "https://www.biorxiv.org/content/biorxiv/early/2020/06/02/2020.06.01.128728.full.pdf",
-    "upvotes": 47,
-    "author": "wslh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25955838"
+    "title": "Playing with My Son",
+    "url": "https://medium.com/message/playing-with-my-son-e5226ff0a7c3",
+    "upvotes": 10,
+    "author": "Tomte",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=25955702"
   },
   {
     "title": "Keyboard that shocks you if you type with incorrect technique [video]",
@@ -158,17 +158,25 @@
   {
     "title": "1938 vs. 1940",
     "url": "https://pecaquet.com/2018/10/08/1938-vs-1940/",
-    "upvotes": 130,
+    "upvotes": 132,
     "author": "diodorus",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=25952042"
   },
   {
+    "title": "Moonstruck Sleep: Synchronization of Human Sleep with the Moon Cycle [pdf]",
+    "url": "https://www.biorxiv.org/content/biorxiv/early/2020/06/02/2020.06.01.128728.full.pdf",
+    "upvotes": 47,
+    "author": "wslh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25955838"
+  },
+  {
     "title": "Ask HN: Remote workers in a non-tech city, what's your experience?",
     "url": "item?id=25962178",
-    "upvotes": 184,
+    "upvotes": 185,
     "author": "holsOndI",
-    "comments": 130,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=25962178"
   },
   {
@@ -180,28 +188,20 @@
     "link": "https://news.ycombinator.com/item?id=25963760"
   },
   {
+    "title": "YInMn, the First New Blue Pigment in Two Centuries",
+    "url": "https://hyperallergic.com/615971/meet-yinmn-the-first-new-shade-of-blue-in-two-centuries/",
+    "upvotes": 76,
+    "author": "ardy42",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=25963292"
+  },
+  {
     "title": "A Corner in Piggly Wiggly",
     "url": "https://www.newyorker.com/magazine/1959/06/06/a-corner-in-piggly-wiggly",
     "upvotes": 99,
     "author": "tosh",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=25940913"
-  },
-  {
-    "title": "YInMn, the First New Blue Pigment in Two Centuries",
-    "url": "https://hyperallergic.com/615971/meet-yinmn-the-first-new-shade-of-blue-in-two-centuries/",
-    "upvotes": 75,
-    "author": "ardy42",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=25963292"
-  },
-  {
-    "title": "An overview of the decentralized social ecosystem [pdf]",
-    "url": "https://matrix.org/_matrix/media/r0/download/twitter.modular.im/981b258141aa0b197804127cd2f7d298757bad20",
-    "upvotes": 111,
-    "author": "khartig",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25960225"
   },
   {
     "title": "Disorderfs: FUSE-based filesystem that introduces non-determinism into metadata",
@@ -220,19 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25966275"
   },
   {
-    "title": "Baking with machine learning",
-    "url": "https://sararobinson.dev/2020/04/30/baking-machine-learning.html",
-    "upvotes": 163,
-    "author": "pizza",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=25963556"
+    "title": "Fast Commits for Ext4",
+    "url": "https://lwn.net/Articles/842385/",
+    "upvotes": 4,
+    "author": "joseluisq",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25967889"
   },
   {
-    "title": "Statues – Hither and Thither",
-    "url": "https://vanderkrogt.net/statues/index.php",
-    "upvotes": 7,
-    "author": "mulledwino",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25956510"
+    "title": "C-for-Metal: High Performance SIMD Programming on Intel GPUs",
+    "url": "https://arxiv.org/abs/2101.11049",
+    "upvotes": 115,
+    "author": "lelf",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=25955579"
   }
 ]
