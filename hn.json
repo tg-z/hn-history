@@ -2,65 +2,73 @@
   {
     "title": "Element",
     "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1193,
+    "upvotes": 1234,
     "author": "redsolver",
-    "comments": 591,
+    "comments": 603,
     "link": "https://news.ycombinator.com/item?id=25964226"
   },
   {
     "title": "Show HN: Collection of Deep Learning implementations with side-by-side notes",
     "url": "https://nn.labml.ai",
-    "upvotes": 85,
+    "upvotes": 96,
     "author": "vpj",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25967641"
+  },
+  {
+    "title": "macOS Big Sur breaks PostgreSQL because of new security API",
+    "url": "https://github.com/PostgresApp/PostgresApp/issues/610",
+    "upvotes": 105,
+    "author": "devops000",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=25967594"
+  },
+  {
+    "title": "Offline Algorithms in Low-Frequency Trading",
+    "url": "https://queue.acm.org/detail.cfm?id=3448307",
+    "upvotes": 26,
+    "author": "hypomnemata",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25968348"
   },
   {
     "title": "New Xquartz release with native Apple Silicon support",
     "url": "https://www.mail-archive.com/xquartz-dev@lists.macosforge.org/msg01027.html",
-    "upvotes": 91,
+    "upvotes": 98,
     "author": "ismiseted",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25967442"
   },
   {
-    "title": "macOS Big Sur breaks PostgreSQL because of new security API",
-    "url": "https://github.com/PostgresApp/PostgresApp/issues/610",
-    "upvotes": 84,
-    "author": "devops000",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=25967594"
+    "title": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
+    "url": "https://webtransparency.cs.princeton.edu/dark-patterns/",
+    "upvotes": 13,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25968531"
   },
   {
     "title": "Brandolini's Law",
     "url": "https://en.wikipedia.org/wiki/Brandolini%27s_law",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "ivanmaeder",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25956905"
-  },
-  {
-    "title": "Offline Algorithms in Low-Frequency Trading",
-    "url": "https://queue.acm.org/detail.cfm?id=3448307",
-    "upvotes": 16,
-    "author": "hypomnemata",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25968348"
   },
   {
     "title": "List of Logical Fallacies with Examples",
     "url": "https://www.logicalfallacies.org/",
-    "upvotes": 59,
+    "upvotes": 66,
     "author": "keskadale",
-    "comments": 34,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=25967160"
   },
   {
     "title": "Siliconpr0n: High Resolution Chip Maps",
     "url": "https://siliconpr0n.org/map/",
-    "upvotes": 241,
+    "upvotes": 243,
     "author": "lelf",
-    "comments": 57,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=25964865"
   },
   {
@@ -68,9 +76,17 @@
     "url": "https://www.themuse.com/jobs/themuse/senior-product-designer"
   },
   {
+    "title": "Fast Commits for Ext4",
+    "url": "https://lwn.net/Articles/842385/",
+    "upvotes": 13,
+    "author": "joseluisq",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25967889"
+  },
+  {
     "title": "Turbo Pascal: A Great Choice for Programming Under CP/M",
     "url": "https://techtinkering.com/2013/03/05/turbo-pascal-a-great-choice-for-programming-under-cpm/",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "elvis70",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=25956128"
@@ -78,161 +94,145 @@
   {
     "title": "Research establishes antibiotic potential for cannabis molecule",
     "url": "https://www.uq.edu.au/news/node/128097",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "techinvestor",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25954830"
+  },
+  {
+    "title": "Nyxt browser: mouseless copy/paste",
+    "url": "https://nyxt.atlas.engineer/article/visual-mode.org",
+    "upvotes": 96,
+    "author": "jmercouris",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=25956152"
   },
   {
     "title": "Humanlike thumb dexterity may date back as far as 2M years ago",
     "url": "https://www.sciencenews.org/article/humanlike-thumb-dexterity-hominid-evolution",
     "upvotes": 51,
     "author": "diodorus",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25966187"
   },
   {
-    "title": "Nyxt browser: mouseless copy/paste",
-    "url": "https://nyxt.atlas.engineer/article/visual-mode.org",
-    "upvotes": 92,
-    "author": "jmercouris",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=25956152"
+    "title": "My 3D maze game for the ZX Spectrum",
+    "url": "https://jamesmead.org/blog/2021-01-23-youtube-video-of-my-3d-maze-game-for-the-zx-spectrum",
+    "upvotes": 24,
+    "author": "todsacerdoti",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25955914"
   },
   {
-    "title": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
-    "url": "https://webtransparency.cs.princeton.edu/dark-patterns/",
-    "upvotes": 6,
-    "author": "pseudolus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25968531"
-  },
-  {
-    "title": "Clojure/Script mode for CodeMirror 6",
-    "url": "https://nextjournal.github.io/clojure-mode/",
-    "upvotes": 10,
-    "author": "tosh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25968289"
-  },
-  {
-    "title": "Playing with My Son",
-    "url": "https://medium.com/message/playing-with-my-son-e5226ff0a7c3",
-    "upvotes": 13,
-    "author": "Tomte",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25955702"
+    "title": "Ask HN: What if Stack Overflow suddenly decides to shut down?",
+    "url": "item?id=25968444",
+    "upvotes": 15,
+    "author": "syx",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=25968444"
   },
   {
     "title": "A dedicated licence for open-source hardware: CERN OHL approved by OSI",
     "url": "https://www.theregister.com/2021/01/29/cern_ohl_approved/",
-    "upvotes": 65,
+    "upvotes": 72,
     "author": "icot",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25956687"
   },
   {
     "title": "Number Parsing at a Gigabyte per Second",
     "url": "https://lemire.me/blog/2021/01/29/number-parsing-at-a-gigabyte-per-second/",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "mpweiher",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25967482"
+  },
+  {
+    "title": "Clojure/Script mode for CodeMirror 6",
+    "url": "https://nextjournal.github.io/clojure-mode/",
+    "upvotes": 13,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25968289"
   },
   {
     "title": "Achieving 11M IOPS and 66 GB/S IO on a Single ThreadRipper Workstation",
     "url": "https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/",
-    "upvotes": 394,
+    "upvotes": 399,
     "author": "tanelpoder",
-    "comments": 176,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=25956670"
+  },
+  {
+    "title": "Playing with My Son",
+    "url": "https://medium.com/message/playing-with-my-son-e5226ff0a7c3",
+    "upvotes": 14,
+    "author": "Tomte",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25955702"
   },
   {
     "title": "Apple Silicon M1 supports “billion of colors” a.k.a. HDR 10-bit output",
     "url": "https://singhkays.com/blog/apple-silicon-m1-hdr-10bit-billion-colors/",
-    "upvotes": 214,
+    "upvotes": 217,
     "author": "singhkays",
-    "comments": 172,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=25964501"
-  },
-  {
-    "title": "My 3D maze game for the ZX Spectrum",
-    "url": "https://jamesmead.org/blog/2021-01-23-youtube-video-of-my-3d-maze-game-for-the-zx-spectrum",
-    "upvotes": 20,
-    "author": "todsacerdoti",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25955914"
   },
   {
     "title": "Keyboard that shocks you if you type with incorrect technique [video]",
     "url": "https://www.youtube.com/watch?v=yxUM_wt-jB4",
     "upvotes": 68,
     "author": "zdw",
-    "comments": 53,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=25958837"
   },
   {
     "title": "1938 vs. 1940",
     "url": "https://pecaquet.com/2018/10/08/1938-vs-1940/",
-    "upvotes": 136,
+    "upvotes": 137,
     "author": "diodorus",
-    "comments": 61,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25952042"
   },
   {
     "title": "Moonstruck Sleep: Synchronization of Human Sleep with the Moon Cycle [pdf]",
     "url": "https://www.biorxiv.org/content/biorxiv/early/2020/06/02/2020.06.01.128728.full.pdf",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "wslh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25955838"
   },
   {
-    "title": "Ask HN: What if Stack Overflow suddenly decides to shut down?",
-    "url": "item?id=25968444",
-    "upvotes": 10,
-    "author": "syx",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25968444"
+    "title": "Pixel Shaders in Windows Terminal",
+    "url": "https://github.com/microsoft/terminal/tree/main/samples/PixelShaders",
+    "upvotes": 134,
+    "author": "Impossible",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=25963760"
   },
   {
     "title": "YInMn, the First New Blue Pigment in Two Centuries",
     "url": "https://hyperallergic.com/615971/meet-yinmn-the-first-new-shade-of-blue-in-two-centuries/",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "ardy42",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25963292"
   },
   {
-    "title": "Pixel Shaders in Windows Terminal",
-    "url": "https://github.com/microsoft/terminal/tree/main/samples/PixelShaders",
-    "upvotes": 130,
-    "author": "Impossible",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=25963760"
-  },
-  {
-    "title": "Fast Commits for Ext4",
-    "url": "https://lwn.net/Articles/842385/",
-    "upvotes": 6,
-    "author": "joseluisq",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25967889"
+    "title": "Musk's SpaceX violated its launch license in explosive Starship test: the Verge",
+    "url": "https://www.reuters.com/article/us-space-exploration-starship/musks-spacex-violated-its-launch-license-in-explosive-starship-test-the-verge-idUSKBN29Z06R",
+    "upvotes": 11,
+    "author": "ajaviaad",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25967558"
   },
   {
     "title": "Ask HN: Remote workers in a non-tech city, what's your experience?",
     "url": "item?id=25962178",
-    "upvotes": 188,
+    "upvotes": 190,
     "author": "holsOndI",
-    "comments": 135,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=25962178"
-  },
-  {
-    "title": "A Corner in Piggly Wiggly",
-    "url": "https://www.newyorker.com/magazine/1959/06/06/a-corner-in-piggly-wiggly",
-    "upvotes": 99,
-    "author": "tosh",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=25940913"
   }
 ]
