@@ -2,50 +2,58 @@
   {
     "title": "QUIC much easier to fingerprint than HTTPS",
     "url": "https://arxiv.org/abs/2101.11871",
-    "upvotes": 116,
+    "upvotes": 164,
     "author": "pueblito",
-    "comments": 33,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=25969886"
   },
   {
     "title": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
     "url": "https://webtransparency.cs.princeton.edu/dark-patterns/",
-    "upvotes": 157,
+    "upvotes": 188,
     "author": "pseudolus",
-    "comments": 37,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25968531"
+  },
+  {
+    "title": "Cyclic Dependencies Are Evil",
+    "url": "https://fsharpforfunandprofit.com/posts/cyclic-dependencies/",
+    "upvotes": 39,
+    "author": "nojito",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=25969976"
   },
   {
     "title": "Offline Algorithms in Low-Frequency Trading",
     "url": "https://queue.acm.org/detail.cfm?id=3448307",
-    "upvotes": 162,
+    "upvotes": 186,
     "author": "hypomnemata",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25968348"
   },
   {
     "title": "Uniwidth Typefaces for Interface Design",
     "url": "https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7",
-    "upvotes": 125,
+    "upvotes": 149,
     "author": "fanf2",
-    "comments": 32,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=25956652"
   },
   {
-    "title": "Cyclic Dependencies Are Evil",
-    "url": "https://fsharpforfunandprofit.com/posts/cyclic-dependencies/",
-    "upvotes": 22,
-    "author": "nojito",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=25969976"
+    "title": "Personal experiences bridge moral and political divides better than facts",
+    "url": "https://www.pnas.org/content/118/6/e2008389118",
+    "upvotes": 12,
+    "author": "lobbly",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25963589"
   },
   {
-    "title": "The Multitude of Books",
-    "url": "https://www.laphamsquarterly.org/roundtable/multitude-books",
-    "upvotes": 13,
-    "author": "onemind",
+    "title": "The Great Unbundling – Benedict Evans",
+    "url": "https://www.ben-evans.com/presentations",
+    "upvotes": 5,
+    "author": "notoriousarun",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25963586"
+    "link": "https://news.ycombinator.com/item?id=25970658"
   },
   {
     "title": "Substack",
@@ -54,185 +62,177 @@
   {
     "title": "Adam Curtis Explains It All",
     "url": "https://www.newyorker.com/news/letter-from-the-uk/adam-curtis-explains-it-all",
-    "upvotes": 44,
+    "upvotes": 53,
     "author": "clydethefrog",
-    "comments": 13,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25947622"
   },
   {
     "title": "Show HN: Collection of deep learning implementations with side-by-side notes",
     "url": "https://nn.labml.ai",
-    "upvotes": 156,
+    "upvotes": 166,
     "author": "vpj",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25967641"
+  },
+  {
+    "title": "The Multitude of Books",
+    "url": "https://www.laphamsquarterly.org/roundtable/multitude-books",
+    "upvotes": 20,
+    "author": "onemind",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25963586"
   },
   {
     "title": "New Xquartz release with native Apple Silicon support",
     "url": "https://www.mail-archive.com/xquartz-dev@lists.macosforge.org/msg01027.html",
-    "upvotes": 157,
+    "upvotes": 161,
     "author": "ismiseted",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25967442"
-  },
-  {
-    "title": "The Reddit GME short squeeze game plan",
-    "url": "https://www.reddit.com/r/wallstreetbets/comments/ip6jnv/the_real_greatest_short_burn_of_the_century/",
-    "upvotes": 92,
-    "author": "omarhaneef",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=25970091"
-  },
-  {
-    "title": "Element",
-    "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1493,
-    "author": "redsolver",
-    "comments": 714,
-    "link": "https://news.ycombinator.com/item?id=25964226"
-  },
-  {
-    "title": "India proposes law to ban cryptocurrencies, create official digital currency",
-    "url": "https://www.thehindu.com/sci-tech/technology/india-proposes-law-to-ban-cryptocurrencies-create-official-digital-currency/article33703822.ece",
-    "upvotes": 33,
-    "author": "m33k44",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=25970101"
   },
   {
     "title": "ESE: The server-grade, embedded DB ships with Windows",
     "url": "https://github.com/microsoft/Extensible-Storage-Engine",
-    "upvotes": 18,
+    "upvotes": 33,
     "author": "mnkypete",
-    "comments": 3,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=25969235"
+  },
+  {
+    "title": "India proposes law to ban cryptocurrencies, create official digital currency",
+    "url": "https://www.thehindu.com/sci-tech/technology/india-proposes-law-to-ban-cryptocurrencies-create-official-digital-currency/article33703822.ece",
+    "upvotes": 59,
+    "author": "m33k44",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=25970101"
+  },
+  {
+    "title": "What Did We Lose When We Lost the Stars?",
+    "url": "https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the",
+    "upvotes": 17,
+    "author": "cetera",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25969823"
+  },
+  {
+    "title": "Cory Doctorow: IP",
+    "url": "https://locusmag.com/2020/09/cory-doctorow-ip",
+    "upvotes": 4,
+    "author": "akkartik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25971037"
+  },
+  {
+    "title": "Element",
+    "url": "https://twitter.com/element_hq/status/1355290296947499013",
+    "upvotes": 1529,
+    "author": "redsolver",
+    "comments": 731,
+    "link": "https://news.ycombinator.com/item?id=25964226"
+  },
+  {
+    "title": "Teaching a Bayesian spam to filter play chess",
+    "url": "http://dbacl.sourceforge.net/spam_chess-1.html",
+    "upvotes": 3,
+    "author": "ignoranceprior",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25970502"
   },
   {
     "title": "Fast Commits for Ext4",
     "url": "https://lwn.net/Articles/842385/",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "joseluisq",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25967889"
+  },
+  {
+    "title": "Are the Persian Gulf city-states slave societies?",
+    "url": "https://aeon.co/essays/are-the-persian-gulf-city-states-slave-societies",
+    "upvotes": 87,
+    "author": "cmrdporcupine",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=25969442"
   },
   {
     "title": "Facebook Moderators Speak Out About Poor Working Conditions in Ireland",
     "url": "https://www.vice.com/en/article/v7mqj4/watch-facebook-moderators-speak-out-about-poor-working-conditions-in-ireland",
-    "upvotes": 89,
+    "upvotes": 104,
     "author": "waynekerr",
-    "comments": 69,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=25968945"
   },
   {
     "title": "Electric Cars Are Coming, and Fast. Is the Nation’s Grid Up to It?",
     "url": "https://www.nytimes.com/2021/01/29/climate/gm-electric-cars-power-grid.html",
-    "upvotes": 36,
+    "upvotes": 54,
     "author": "CapitalistCartr",
-    "comments": 36,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=25969694"
   },
   {
     "title": "OnePlus 6 and OnePlus 6T seeing work for mainline Linux kernel support",
     "url": "https://www.xda-developers.com/oneplus-6-6t-mainline-linux-kernel-support/",
-    "upvotes": 46,
+    "upvotes": 53,
     "author": "sodrick",
-    "comments": 21,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25969614"
-  },
-  {
-    "title": "Are the Persian Gulf city-states slave societies?",
-    "url": "https://aeon.co/essays/are-the-persian-gulf-city-states-slave-societies",
-    "upvotes": 62,
-    "author": "cmrdporcupine",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=25969442"
   },
   {
     "title": "My 3D maze game for the ZX Spectrum",
     "url": "https://jamesmead.org/blog/2021-01-23-youtube-video-of-my-3d-maze-game-for-the-zx-spectrum",
-    "upvotes": 54,
+    "upvotes": 59,
     "author": "todsacerdoti",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25955914"
-  },
-  {
-    "title": "G.M.’S Electric Car Goal Blindsides Rivals and Shakes Up an Industry",
-    "url": "https://www.nytimes.com/2021/01/29/business/general-motors-electric-cars.html",
-    "upvotes": 37,
-    "author": "pseudolus",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=25969677"
   },
   {
     "title": "Playing with My Son",
     "url": "https://medium.com/message/playing-with-my-son-e5226ff0a7c3",
-    "upvotes": 36,
+    "upvotes": 40,
     "author": "Tomte",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25955702"
   },
   {
-    "title": "Turbo Pascal: A Great Choice for Programming Under CP/M",
-    "url": "https://techtinkering.com/2013/03/05/turbo-pascal-a-great-choice-for-programming-under-cpm/",
-    "upvotes": 138,
-    "author": "elvis70",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=25956128"
+    "title": "I checked Apple’s new privacy ‘nutrition labels.’ Many were false",
+    "url": "https://www.washingtonpost.com/technology/2021/01/29/apple-privacy-nutrition-label/",
+    "upvotes": 40,
+    "author": "bookofjoe",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=25969570"
   },
   {
     "title": "Number Parsing at a Gigabyte per Second",
     "url": "https://lemire.me/blog/2021/01/29/number-parsing-at-a-gigabyte-per-second/",
-    "upvotes": 56,
+    "upvotes": 64,
     "author": "mpweiher",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25967482"
   },
   {
     "title": "University of Leicester firing all pure math faculty",
     "url": "https://twitter.com/wtgowers/status/1355184163020804099",
-    "upvotes": 158,
+    "upvotes": 183,
     "author": "rfurmani",
-    "comments": 150,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=25967382"
-  },
-  {
-    "title": "What Did We Lose When We Lost the Stars?",
-    "url": "https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the",
-    "upvotes": 6,
-    "author": "cetera",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25969823"
-  },
-  {
-    "title": "Nyxt browser: mouseless copy/paste",
-    "url": "https://nyxt.atlas.engineer/article/visual-mode.org",
-    "upvotes": 131,
-    "author": "jmercouris",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=25956152"
-  },
-  {
-    "title": "Research establishes antibiotic potential for cannabis molecule",
-    "url": "https://www.uq.edu.au/news/node/128097",
-    "upvotes": 59,
-    "author": "techinvestor",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=25954830"
   },
   {
     "title": "Humanlike thumb dexterity may date back as far as 2M years ago",
     "url": "https://www.sciencenews.org/article/humanlike-thumb-dexterity-hominid-evolution",
-    "upvotes": 60,
+    "upvotes": 66,
     "author": "diodorus",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=25966187"
   },
   {
-    "title": "I checked Apple’s new privacy ‘nutrition labels.’ Many were false",
-    "url": "https://www.washingtonpost.com/technology/2021/01/29/apple-privacy-nutrition-label/",
-    "upvotes": 19,
-    "author": "bookofjoe",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25969570"
+    "title": "Nyxt browser: mouseless copy/paste",
+    "url": "https://nyxt.atlas.engineer/article/visual-mode.org",
+    "upvotes": 135,
+    "author": "jmercouris",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=25956152"
   }
 ]
