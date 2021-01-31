@@ -2,57 +2,57 @@
   {
     "title": "Drawbacks of P2P and a defense of Signal",
     "url": "https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal",
-    "upvotes": 67,
+    "upvotes": 74,
     "author": "pabs3",
-    "comments": 39,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=25976439"
-  },
-  {
-    "title": "How does Clang 2.7 hold up in 2021?",
-    "url": "https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6",
-    "upvotes": 25,
-    "author": "tbodt",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25976855"
-  },
-  {
-    "title": "My 90s TV: Browse 90s Television",
-    "url": "https://my90stv.com",
-    "upvotes": 287,
-    "author": "optimalsolver",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=25973955"
-  },
-  {
-    "title": "CDC website built by Deloitte at a cost of $44M is abandoned due to bugs",
-    "url": "https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/",
-    "upvotes": 638,
-    "author": "donsupreme",
-    "comments": 375,
-    "link": "https://news.ycombinator.com/item?id=25975110"
   },
   {
     "title": "Crun: Fully featured OCI runtime and C library for running containers",
     "url": "https://github.com/containers/crun",
-    "upvotes": 7,
+    "upvotes": 20,
     "author": "harporoeder",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25976982"
   },
   {
+    "title": "How does Clang 2.7 hold up in 2021?",
+    "url": "https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6",
+    "upvotes": 33,
+    "author": "tbodt",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25976855"
+  },
+  {
     "title": "The Virus Changed. Now We Must ‘Get to Zero’ or Face Catastrophe",
     "url": "https://thetyee.ca/Analysis/2021/01/28/Virus-Changed-Get-To-Zero-Face-Catastrophe/",
-    "upvotes": 21,
+    "upvotes": 41,
     "author": "doener",
-    "comments": 6,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25977033"
+  },
+  {
+    "title": "My 90s TV: Browse 90s Television",
+    "url": "https://my90stv.com",
+    "upvotes": 298,
+    "author": "optimalsolver",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=25973955"
+  },
+  {
+    "title": "CDC website built by Deloitte at a cost of $44M is abandoned due to bugs",
+    "url": "https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/",
+    "upvotes": 659,
+    "author": "donsupreme",
+    "comments": 384,
+    "link": "https://news.ycombinator.com/item?id=25975110"
   },
   {
     "title": "RV64X: A Free, open-source GPU for RISC-V",
     "url": "https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "mardiyah",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=25974757"
   },
   {
@@ -62,10 +62,18 @@
   {
     "title": "Chronicles of a Bubble Tea Addict",
     "url": "https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "irtefa",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25975428"
+  },
+  {
+    "title": "FM Reception with the GNU Radio Companion",
+    "url": "https://www.nutsvolts.com/magazine/article/fm-reception-with-the-gnu-radio-companion",
+    "upvotes": 12,
+    "author": "WaitWaitWha",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25976599"
   },
   {
     "title": "An Archeologist’s Guide to Beer Cans",
@@ -78,41 +86,41 @@
   {
     "title": "Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS",
     "url": "https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/",
-    "upvotes": 169,
+    "upvotes": 178,
     "author": "simplecto",
-    "comments": 155,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=25973242"
-  },
-  {
-    "title": "FM Reception with the GNU Radio Companion",
-    "url": "https://www.nutsvolts.com/magazine/article/fm-reception-with-the-gnu-radio-companion",
-    "upvotes": 8,
-    "author": "WaitWaitWha",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25976599"
-  },
-  {
-    "title": "The Great Unbundling",
-    "url": "https://www.ben-evans.com/presentations",
-    "upvotes": 210,
-    "author": "notoriousarun",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=25970658"
   },
   {
     "title": "Software Verification and Analysis Using Z3",
     "url": "https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/",
-    "upvotes": 109,
+    "upvotes": 111,
     "author": "escriss",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25973194"
   },
   {
+    "title": "The Great Unbundling",
+    "url": "https://www.ben-evans.com/presentations",
+    "upvotes": 213,
+    "author": "notoriousarun",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=25970658"
+  },
+  {
+    "title": "3D reconstructions using a phone and employing binary encoded modulation LEDs",
+    "url": "https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-2-1502&id=446446",
+    "upvotes": 4,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25976978"
+  },
+  {
     "title": "Regular afternoon naps linked to improved cognitive function",
     "url": "https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/",
-    "upvotes": 342,
+    "upvotes": 344,
     "author": "prostoalex",
-    "comments": 115,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=25972342"
   },
   {
@@ -124,14 +132,6 @@
     "link": "https://news.ycombinator.com/item?id=25972121"
   },
   {
-    "title": "Academics Are Worried About Cancel Culture",
-    "url": "https://www.theatlantic.com/ideas/archive/2020/09/academics-are-really-really-worried-about-their-freedom/615724/",
-    "upvotes": 11,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25977007"
-  },
-  {
     "title": "A network analysis on cloud gaming: Stadia, GeForce Now and PSNow",
     "url": "https://arxiv.org/abs/2012.06774",
     "upvotes": 89,
@@ -140,17 +140,9 @@
     "link": "https://news.ycombinator.com/item?id=25972846"
   },
   {
-    "title": "Cory Doctorow: IP",
-    "url": "https://locusmag.com/2020/09/cory-doctorow-ip",
-    "upvotes": 205,
-    "author": "akkartik",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=25971037"
-  },
-  {
     "title": "Why it’s usually crazier than you expect",
     "url": "https://www.collaborativefund.com/blog/crazy/",
-    "upvotes": 136,
+    "upvotes": 138,
     "author": "antdke",
     "comments": 124,
     "link": "https://news.ycombinator.com/item?id=25971963"
@@ -158,7 +150,7 @@
   {
     "title": "Element",
     "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1823,
+    "upvotes": 1824,
     "author": "redsolver",
     "comments": 854,
     "link": "https://news.ycombinator.com/item?id=25964226"
@@ -166,18 +158,10 @@
   {
     "title": "Personal experiences bridge moral and political divides better than facts",
     "url": "https://www.pnas.org/content/118/6/e2008389118",
-    "upvotes": 326,
+    "upvotes": 330,
     "author": "lobbly",
     "comments": 131,
     "link": "https://news.ycombinator.com/item?id=25963589"
-  },
-  {
-    "title": "IBM paperweight teardown: Reverse-engineering 1970s memory chips",
-    "url": "https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html",
-    "upvotes": 95,
-    "author": "parsecs",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25971085"
   },
   {
     "title": "Website Fingerprinting on Early QUIC Traffic",
@@ -198,7 +182,7 @@
   {
     "title": "Teaching a Bayesian spam filter to play chess",
     "url": "http://dbacl.sourceforge.net/spam_chess-1.html",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "ignoranceprior",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25970502"
@@ -206,33 +190,49 @@
   {
     "title": "Wayland Keylogger",
     "url": "https://github.com/Aishou/wayland-keylogger",
-    "upvotes": 90,
+    "upvotes": 91,
     "author": "Jkvngt",
-    "comments": 96,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=25971395"
   },
   {
     "title": "Philosophical Landmines",
     "url": "https://www.lesswrong.com/posts/L4HQ3gnSrBETRdcGu/philosophical-landmines",
-    "upvotes": 43,
+    "upvotes": 44,
     "author": "TeMPOraL",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25968760"
   },
   {
-    "title": "Show HN: Watchpoints, an easy to use watchpoints equivalent library for Python",
-    "url": "https://github.com/gaogaotiantian/watchpoints",
-    "upvotes": 53,
-    "author": "gaogaotiantian",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=25972412"
-  },
-  {
     "title": "Oneness via gurus, psychedelics and the hidden code in Jordan Mechner's Karateka",
     "url": "https://schmud.de/posts/2020-12-16-be-here-now.html",
-    "upvotes": 34,
+    "upvotes": 35,
     "author": "schmudde",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=25970184"
+  },
+  {
+    "title": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
+    "url": "https://webtransparency.cs.princeton.edu/dark-patterns/",
+    "upvotes": 315,
+    "author": "pseudolus",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=25968531"
+  },
+  {
+    "title": "Electric cars are coming fast – is the nation’s grid up to it?",
+    "url": "https://www.nytimes.com/2021/01/29/climate/gm-electric-cars-power-grid.html",
+    "upvotes": 186,
+    "author": "CapitalistCartr",
+    "comments": 371,
+    "link": "https://news.ycombinator.com/item?id=25969694"
+  },
+  {
+    "title": "Global Inequality",
+    "url": "https://inequality.org/facts/global-inequality/",
+    "upvotes": 32,
+    "author": "shankarro",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25972509"
   }
 ]
