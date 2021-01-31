@@ -2,71 +2,79 @@
   {
     "title": "How does Clang 2.7 hold up in 2021?",
     "url": "https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6",
-    "upvotes": 63,
+    "upvotes": 78,
     "author": "tbodt",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25976855"
   },
   {
     "title": "Crun: Fully featured OCI runtime and C library for running containers",
     "url": "https://github.com/containers/crun",
-    "upvotes": 39,
+    "upvotes": 44,
     "author": "harporoeder",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25976982"
   },
   {
-    "title": "My 90s TV: Browse 90s Television",
-    "url": "https://my90stv.com",
-    "upvotes": 330,
-    "author": "optimalsolver",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=25973955"
-  },
-  {
     "title": "Drawbacks of P2P and a defense of Signal",
     "url": "https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal",
-    "upvotes": 87,
+    "upvotes": 98,
     "author": "pabs3",
-    "comments": 74,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=25976439"
+  },
+  {
+    "title": "My 90s TV: Browse 90s Television",
+    "url": "https://my90stv.com",
+    "upvotes": 349,
+    "author": "optimalsolver",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=25973955"
   },
   {
     "title": "CDC website built by Deloitte at a cost of $44M is abandoned due to bugs",
     "url": "https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/",
-    "upvotes": 705,
+    "upvotes": 732,
     "author": "donsupreme",
-    "comments": 405,
+    "comments": 419,
     "link": "https://news.ycombinator.com/item?id=25975110"
   },
   {
     "title": "RV64X: A Free, open-source GPU for RISC-V",
     "url": "https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/",
-    "upvotes": 111,
+    "upvotes": 122,
     "author": "mardiyah",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25974757"
   },
   {
     "title": "FM Reception with the GNU Radio Companion",
     "url": "https://www.nutsvolts.com/magazine/article/fm-reception-with-the-gnu-radio-companion",
-    "upvotes": 20,
+    "upvotes": 24,
     "author": "WaitWaitWha",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25976599"
   },
   {
+    "title": "Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS",
+    "url": "https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/",
+    "upvotes": 205,
+    "author": "simplecto",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=25973242"
+  },
+  {
     "title": "Chronicles of a Bubble Tea Addict",
     "url": "https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "irtefa",
-    "comments": 36,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25975428"
   },
   {
     "title": "An Archeologist’s Guide to Beer Cans",
     "url": "https://daily.jstor.org/an-archeologists-guide-to-beer-cans/",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "Petiver",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25976183"
@@ -76,25 +84,9 @@
     "url": "https://www.workatastartup.com/jobs/21940"
   },
   {
-    "title": "Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS",
-    "url": "https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/",
-    "upvotes": 193,
-    "author": "simplecto",
-    "comments": 184,
-    "link": "https://news.ycombinator.com/item?id=25973242"
-  },
-  {
-    "title": "3D reconstructions using a phone and employing binary encoded modulation LEDs",
-    "url": "https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-29-2-1502&id=446446",
-    "upvotes": 7,
-    "author": "giuliomagnifico",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25976978"
-  },
-  {
     "title": "Software Verification and Analysis Using Z3",
     "url": "https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "escriss",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=25973194"
@@ -102,63 +94,47 @@
   {
     "title": "Regular afternoon naps linked to improved cognitive function",
     "url": "https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/",
-    "upvotes": 351,
+    "upvotes": 361,
     "author": "prostoalex",
-    "comments": 120,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=25972342"
   },
   {
     "title": "A vast web of vengeance",
     "url": "https://www.nytimes.com/2021/01/30/technology/change-my-google-results.html",
-    "upvotes": 169,
+    "upvotes": 174,
     "author": "tysone",
-    "comments": 54,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=25972121"
   },
   {
     "title": "A network analysis on cloud gaming: Stadia, GeForce Now and PSNow",
     "url": "https://arxiv.org/abs/2012.06774",
-    "upvotes": 90,
+    "upvotes": 95,
     "author": "jsnell",
-    "comments": 110,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=25972846"
-  },
-  {
-    "title": "Why it’s usually crazier than you expect",
-    "url": "https://www.collaborativefund.com/blog/crazy/",
-    "upvotes": 144,
-    "author": "antdke",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=25971963"
   },
   {
     "title": "Element",
     "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1841,
+    "upvotes": 1854,
     "author": "redsolver",
-    "comments": 857,
+    "comments": 861,
     "link": "https://news.ycombinator.com/item?id=25964226"
   },
   {
     "title": "Personal experiences bridge moral and political divides better than facts",
     "url": "https://www.pnas.org/content/118/6/e2008389118",
-    "upvotes": 336,
+    "upvotes": 339,
     "author": "lobbly",
-    "comments": 131,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=25963589"
-  },
-  {
-    "title": "Fixing 200 broken raspberry Pis to prevent e-waste and donating the money raised",
-    "url": "https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-4/",
-    "upvotes": 71,
-    "author": "technlogger",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=25972094"
   },
   {
     "title": "Website Fingerprinting on Early QUIC Traffic",
     "url": "https://arxiv.org/abs/2101.11871",
-    "upvotes": 323,
+    "upvotes": 325,
     "author": "pueblito",
     "comments": 115,
     "link": "https://news.ycombinator.com/item?id=25969886"
@@ -166,7 +142,7 @@
   {
     "title": "Teaching a Bayesian spam filter to play chess",
     "url": "http://dbacl.sourceforge.net/spam_chess-1.html",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "ignoranceprior",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25970502"
@@ -174,65 +150,89 @@
   {
     "title": "Philosophical Landmines",
     "url": "https://www.lesswrong.com/posts/L4HQ3gnSrBETRdcGu/philosophical-landmines",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "TeMPOraL",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25968760"
   },
   {
     "title": "The Great Unbundling",
     "url": "https://www.ben-evans.com/presentations",
-    "upvotes": 216,
+    "upvotes": 217,
     "author": "notoriousarun",
-    "comments": 119,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=25970658"
-  },
-  {
-    "title": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
-    "url": "https://webtransparency.cs.princeton.edu/dark-patterns/",
-    "upvotes": 319,
-    "author": "pseudolus",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=25968531"
   },
   {
     "title": "Global Inequality",
     "url": "https://inequality.org/facts/global-inequality/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "shankarro",
-    "comments": 18,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=25972509"
+  },
+  {
+    "title": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
+    "url": "https://webtransparency.cs.princeton.edu/dark-patterns/",
+    "upvotes": 324,
+    "author": "pseudolus",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=25968531"
   },
   {
     "title": "Achieving 11M IOPS and 66 GB/S IO on a Single ThreadRipper Workstation",
     "url": "https://tanelpoder.com/posts/11m-iops-with-10-ssds-on-amd-threadripper-pro-workstation/",
-    "upvotes": 446,
+    "upvotes": 449,
     "author": "tanelpoder",
-    "comments": 200,
+    "comments": 201,
     "link": "https://news.ycombinator.com/item?id=25956670"
   },
   {
     "title": "Electric cars are coming fast – is the nation’s grid up to it?",
     "url": "https://www.nytimes.com/2021/01/29/climate/gm-electric-cars-power-grid.html",
-    "upvotes": 192,
+    "upvotes": 195,
     "author": "CapitalistCartr",
-    "comments": 376,
+    "comments": 380,
     "link": "https://news.ycombinator.com/item?id=25969694"
   },
   {
     "title": "Uniwidth Typefaces for Interface Design",
     "url": "https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7",
-    "upvotes": 325,
+    "upvotes": 326,
     "author": "fanf2",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=25956652"
   },
   {
     "title": "Show HN: Watchpoints, an easy to use watchpoints equivalent library for Python",
     "url": "https://github.com/gaogaotiantian/watchpoints",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "gaogaotiantian",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25972412"
+  },
+  {
+    "title": "Offline Algorithms in Low-Frequency Trading",
+    "url": "https://queue.acm.org/detail.cfm?id=3448307",
+    "upvotes": 306,
+    "author": "hypomnemata",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=25968348"
+  },
+  {
+    "title": "What Did We Lose When We Lost the Stars?",
+    "url": "https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the",
+    "upvotes": 181,
+    "author": "cetera",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=25969823"
+  },
+  {
+    "title": "Symbols the Microsoft Way",
+    "url": "https://randomascii.wordpress.com/2013/03/09/symbols-the-microsoft-way/",
+    "upvotes": 36,
+    "author": "harporoeder",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25972764"
   }
 ]
