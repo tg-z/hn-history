@@ -1,48 +1,64 @@
 [
   {
+    "title": "The Drawbacks of P2P",
+    "url": "https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal",
+    "upvotes": 14,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25976439"
+  },
+  {
     "title": "CDC website built by Deloitte at a cost of $44M is abandoned due to bugs",
     "url": "https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/",
-    "upvotes": 480,
+    "upvotes": 534,
     "author": "donsupreme",
-    "comments": 295,
+    "comments": 326,
     "link": "https://news.ycombinator.com/item?id=25975110"
   },
   {
     "title": "My 90s TV: Browse 90s Television",
     "url": "https://my90stv.com",
-    "upvotes": 235,
+    "upvotes": 255,
     "author": "optimalsolver",
-    "comments": 59,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=25973955"
   },
   {
     "title": "An Archeologist’s Guide to Beer Cans",
     "url": "https://daily.jstor.org/an-archeologists-guide-to-beer-cans/",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "Petiver",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25976183"
   },
   {
     "title": "Build your own X, a collection of tutorials",
     "url": "https://github.com/danistefanovic/build-your-own-x",
-    "upvotes": 65,
+    "upvotes": 83,
     "author": "jkchu",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25975273"
   },
   {
     "title": "RV64X: A Free, open-source GPU for RISC-V",
     "url": "https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/",
-    "upvotes": 72,
+    "upvotes": 80,
     "author": "mardiyah",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25974757"
   },
   {
+    "title": "Chronicles of a Bubble Tea Addict",
+    "url": "https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict",
+    "upvotes": 26,
+    "author": "irtefa",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25975428"
+  },
+  {
     "title": "Personal experiences bridge moral and political divides better than facts",
     "url": "https://www.pnas.org/content/118/6/e2008389118",
-    "upvotes": 299,
+    "upvotes": 307,
     "author": "lobbly",
     "comments": 123,
     "link": "https://news.ycombinator.com/item?id=25963589"
@@ -50,7 +66,7 @@
   {
     "title": "Website Fingerprinting on Early QUIC Traffic",
     "url": "https://arxiv.org/abs/2101.11871",
-    "upvotes": 315,
+    "upvotes": 319,
     "author": "pueblito",
     "comments": 111,
     "link": "https://news.ycombinator.com/item?id=25969886"
@@ -58,173 +74,157 @@
   {
     "title": "Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS",
     "url": "https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/",
-    "upvotes": 122,
+    "upvotes": 130,
     "author": "simplecto",
-    "comments": 98,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=25973242"
   },
   {
     "title": "Software Verification and Analysis Using Z3",
     "url": "https://research.nccgroup.com/2021/01/29/software-verification-and-analysis-using-z3/",
-    "upvotes": 95,
+    "upvotes": 101,
     "author": "escriss",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25973194"
   },
   {
     "title": "The Great Unbundling",
     "url": "https://www.ben-evans.com/presentations",
-    "upvotes": 192,
+    "upvotes": 199,
     "author": "notoriousarun",
-    "comments": 112,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=25970658"
   },
   {
     "title": "Regular afternoon naps linked to improved cognitive function",
     "url": "https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/",
-    "upvotes": 303,
+    "upvotes": 308,
     "author": "prostoalex",
-    "comments": 111,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=25972342"
   },
   {
     "title": "A vast web of vengeance",
     "url": "https://www.nytimes.com/2021/01/30/technology/change-my-google-results.html",
-    "upvotes": 145,
+    "upvotes": 151,
     "author": "tysone",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=25972121"
-  },
-  {
-    "title": "Chronicles of a Bubble Tea Addict",
-    "url": "https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict",
-    "upvotes": 10,
-    "author": "irtefa",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25975428"
-  },
-  {
-    "title": "Electric cars are coming fast – is the nation’s grid up to it?",
-    "url": "https://www.nytimes.com/2021/01/29/climate/gm-electric-cars-power-grid.html",
-    "upvotes": 177,
-    "author": "CapitalistCartr",
-    "comments": 330,
-    "link": "https://news.ycombinator.com/item?id=25969694"
   },
   {
     "title": "A network analysis on cloud gaming: Stadia, GeForce Now and PSNow",
     "url": "https://arxiv.org/abs/2012.06774",
     "upvotes": 83,
     "author": "jsnell",
-    "comments": 89,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=25972846"
-  },
-  {
-    "title": "What Did We Lose When We Lost the Stars?",
-    "url": "https://theconvivialsociety.substack.com/p/what-did-we-lose-when-we-lost-the",
-    "upvotes": 176,
-    "author": "cetera",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=25969823"
   },
   {
     "title": "Cory Doctorow: IP",
     "url": "https://locusmag.com/2020/09/cory-doctorow-ip",
-    "upvotes": 183,
+    "upvotes": 192,
     "author": "akkartik",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=25971037"
   },
   {
     "title": "Why it’s usually crazier than you expect",
     "url": "https://www.collaborativefund.com/blog/crazy/",
-    "upvotes": 120,
+    "upvotes": 123,
     "author": "antdke",
-    "comments": 113,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=25971963"
-  },
-  {
-    "title": "‘Meme stock’ rally rescues AMC theaters from $600M debt",
-    "url": "https://www.polygon.com/movies/2021/1/29/22256360/amc-stock-price-reddit-rally-robinhood-debt-conversion",
-    "upvotes": 112,
-    "author": "Borlands",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=25974469"
   },
   {
     "title": "IBM paperweight teardown: Reverse-engineering 1970s memory chips",
     "url": "https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html",
     "upvotes": 85,
     "author": "parsecs",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=25971085"
   },
   {
     "title": "How to stream media using WebRTC and FFmpeg, and why it's a bad idea",
     "url": "https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/",
-    "upvotes": 104,
+    "upvotes": 106,
     "author": "dimes",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25970843"
   },
   {
+    "title": "‘Meme stock’ rally rescues AMC theaters from $600M debt",
+    "url": "https://www.polygon.com/movies/2021/1/29/22256360/amc-stock-price-reddit-rally-robinhood-debt-conversion",
+    "upvotes": 120,
+    "author": "Borlands",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=25974469"
+  },
+  {
     "title": "Cyclic dependencies are evil",
     "url": "https://fsharpforfunandprofit.com/posts/cyclic-dependencies/",
-    "upvotes": 121,
+    "upvotes": 122,
     "author": "nojito",
-    "comments": 109,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=25969976"
   },
   {
     "title": "Element",
     "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1797,
+    "upvotes": 1798,
     "author": "redsolver",
-    "comments": 843,
+    "comments": 844,
     "link": "https://news.ycombinator.com/item?id=25964226"
+  },
+  {
+    "title": "A few HiDPI tricks for Linux",
+    "url": "https://blog.yossarian.net/2020/12/24/A-few-HiDPI-tricks-for-Linux",
+    "upvotes": 116,
+    "author": "woodruffw",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=25970690"
+  },
+  {
+    "title": "Fixing 200 broken raspberry Pis to prevent e-waste and donating the money raised",
+    "url": "https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-4/",
+    "upvotes": 53,
+    "author": "technlogger",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25972094"
   },
   {
     "title": "42",
     "url": "https://weworkremotely.com/remote-jobs/42-technologies-software-engineer-full-time-remote"
   },
   {
-    "title": "A few HiDPI tricks for Linux",
-    "url": "https://blog.yossarian.net/2020/12/24/A-few-HiDPI-tricks-for-Linux",
-    "upvotes": 114,
-    "author": "woodruffw",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=25970690"
-  },
-  {
     "title": "Philosophical Landmines",
     "url": "https://www.lesswrong.com/posts/L4HQ3gnSrBETRdcGu/philosophical-landmines",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "TeMPOraL",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25968760"
   },
   {
-    "title": "Fixing 200 broken raspberry Pis to prevent e-waste and donating the money raised",
-    "url": "https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-4/",
-    "upvotes": 48,
-    "author": "technlogger",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25972094"
-  },
-  {
     "title": "Wayland Keylogger",
     "url": "https://github.com/Aishou/wayland-keylogger",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "Jkvngt",
-    "comments": 93,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=25971395"
+  },
+  {
+    "title": "7: Jim Cramer Exposes Illegal Hedge Fund Tactics",
+    "url": "https://www.youtube.com/watch?v=QFfjX8dW-QQ",
+    "upvotes": 6,
+    "author": "JacKTrocinskI",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25976452"
   },
   {
     "title": "India protests: Internet cut to hunger-striking farmers in Delhi",
     "url": "https://www.bbc.co.uk/news/world-asia-india-55872480",
-    "upvotes": 156,
+    "upvotes": 167,
     "author": "jfk13",
-    "comments": 194,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=25972620"
   },
   {
