@@ -2,31 +2,31 @@
   {
     "title": "How to Turn an IKEA Coffee Table into a DIY Server Rack",
     "url": "https://wiki.eth0.nl/index.php/LackRack",
-    "upvotes": 104,
+    "upvotes": 127,
     "author": "thejokersthief",
-    "comments": 53,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=25978013"
+  },
+  {
+    "title": "RFC 8959: The “secret-token” URI Scheme",
+    "url": "https://www.rfc-editor.org/rfc/rfc8959.txt",
+    "upvotes": 41,
+    "author": "gebt",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25978185"
   },
   {
     "title": "Show HN: alsa_rnnoise is a HQ noise filter for ALSA, powered by Xiph.Org RNNoise",
     "url": "https://sr.ht/~arsen/alsa_rnnoise/",
-    "upvotes": 51,
+    "upvotes": 54,
     "author": "ArsenArsen",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25978111"
   },
   {
-    "title": "RFC 8959: The “secret-token” URI Scheme",
-    "url": "https://www.rfc-editor.org/rfc/rfc8959.txt",
-    "upvotes": 35,
-    "author": "gebt",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25978185"
-  },
-  {
     "title": "TeaVM: Build Fast, Modern Web Apps in Java",
     "url": "http://teavm.org/",
-    "upvotes": 38,
+    "upvotes": 51,
     "author": "homarp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25978053"
@@ -34,7 +34,7 @@
   {
     "title": "The Alan Turing Cryptography Competition",
     "url": "https://www.maths.manchester.ac.uk/cryptography_competition/",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "blewboarwastake",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25978394"
@@ -42,59 +42,59 @@
   {
     "title": "Why I still Lisp",
     "url": "https://mendhekar.medium.com/why-i-still-lisp-and-you-should-too-18a2ae36bd8",
-    "upvotes": 22,
+    "upvotes": 29,
     "author": "lycopodiopsida",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25978190"
   },
   {
     "title": "Crun: Fully featured OCI runtime and C library for running containers",
     "url": "https://github.com/containers/crun",
-    "upvotes": 85,
+    "upvotes": 89,
     "author": "harporoeder",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25976982"
   },
   {
     "title": "My 90s TV: Browse 90s Television",
     "url": "https://my90stv.com",
-    "upvotes": 418,
+    "upvotes": 421,
     "author": "optimalsolver",
-    "comments": 104,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=25973955"
+  },
+  {
+    "title": "NumPy 1.20",
+    "url": "https://numpy.org/doc/1.20/release/1.20.0-notes.html",
+    "upvotes": 54,
+    "author": "heydenberk",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25977977"
   },
   {
     "title": "Release",
     "url": "https://www.workatastartup.com/jobs/41565"
   },
   {
-    "title": "NumPy 1.20",
-    "url": "https://numpy.org/doc/1.20/release/1.20.0-notes.html",
-    "upvotes": 49,
-    "author": "heydenberk",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25977977"
-  },
-  {
     "title": "How does Clang 2.7 hold up in 2021?",
     "url": "https://gist.github.com/zeux/3ce4fcc3a43072b4315abde95319ecb6",
-    "upvotes": 115,
+    "upvotes": 116,
     "author": "tbodt",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25976855"
   },
   {
     "title": "CDC website built by Deloitte at a cost of $44M is abandoned due to bugs",
     "url": "https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/",
-    "upvotes": 859,
+    "upvotes": 874,
     "author": "donsupreme",
-    "comments": 492,
+    "comments": 498,
     "link": "https://news.ycombinator.com/item?id=25975110"
   },
   {
     "title": "RV64X: A Free, open-source GPU for RISC-V",
     "url": "https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/",
-    "upvotes": 146,
+    "upvotes": 151,
     "author": "mardiyah",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25974757"
@@ -102,23 +102,15 @@
   {
     "title": "Building a personal data warehouse in Snowflake for fun and no profit",
     "url": "https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "thomasdziedzic",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25978000"
-  },
-  {
-    "title": "Diamonds Aren’t Special and Neither Is Your Love",
-    "url": "https://www.theatlantic.com/family/archive/2021/01/diamonds-arent-special-and-neither-is-your-love/617859/",
-    "upvotes": 36,
-    "author": "mxcrossb",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=25978139"
   },
   {
     "title": "Bringing Stack Clash Protection to Clang / x86",
     "url": "https://blog.llvm.org/posts/2021-01-05-stack-clash-protection/",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "fcambus",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25977122"
@@ -126,23 +118,23 @@
   {
     "title": "FM Reception with the GNU Radio Companion",
     "url": "https://www.nutsvolts.com/magazine/article/fm-reception-with-the-gnu-radio-companion",
-    "upvotes": 37,
+    "upvotes": 38,
     "author": "WaitWaitWha",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25976599"
   },
   {
     "title": "Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS",
     "url": "https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/",
-    "upvotes": 243,
+    "upvotes": 245,
     "author": "simplecto",
-    "comments": 244,
+    "comments": 247,
     "link": "https://news.ycombinator.com/item?id=25973242"
   },
   {
     "title": "Chronicles of a Bubble Tea Addict",
     "url": "https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict",
-    "upvotes": 80,
+    "upvotes": 82,
     "author": "irtefa",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=25975428"
@@ -158,50 +150,66 @@
   {
     "title": "Regular afternoon naps linked to improved cognitive function",
     "url": "https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/",
-    "upvotes": 397,
+    "upvotes": 400,
     "author": "prostoalex",
     "comments": 126,
     "link": "https://news.ycombinator.com/item?id=25972342"
+  },
+  {
+    "title": "Drawbacks of P2P and a defense of Signal",
+    "url": "https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal",
+    "upvotes": 131,
+    "author": "pabs3",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=25976439"
   },
   {
     "title": "An Archeologist’s Guide to Beer Cans",
     "url": "https://daily.jstor.org/an-archeologists-guide-to-beer-cans/",
     "upvotes": 35,
     "author": "Petiver",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25976183"
-  },
-  {
-    "title": "Drawbacks of P2P and a defense of Signal",
-    "url": "https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal",
-    "upvotes": 127,
-    "author": "pabs3",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=25976439"
   },
   {
     "title": "A vast web of vengeance",
     "url": "https://www.nytimes.com/2021/01/30/technology/change-my-google-results.html",
-    "upvotes": 193,
+    "upvotes": 197,
     "author": "tysone",
-    "comments": 66,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=25972121"
   },
   {
     "title": "Element",
     "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1902,
+    "upvotes": 1904,
     "author": "redsolver",
-    "comments": 879,
+    "comments": 883,
     "link": "https://news.ycombinator.com/item?id=25964226"
   },
   {
     "title": "A network analysis on cloud gaming: Stadia, GeForce Now and PSNow",
     "url": "https://arxiv.org/abs/2012.06774",
-    "upvotes": 108,
+    "upvotes": 109,
     "author": "jsnell",
-    "comments": 122,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=25972846"
+  },
+  {
+    "title": "Diamonds Aren’t Special and Neither Is Your Love",
+    "url": "https://www.theatlantic.com/family/archive/2021/01/diamonds-arent-special-and-neither-is-your-love/617859/",
+    "upvotes": 37,
+    "author": "mxcrossb",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=25978139"
+  },
+  {
+    "title": "Personal experiences bridge moral and political divides better than facts",
+    "url": "https://www.pnas.org/content/118/6/e2008389118",
+    "upvotes": 352,
+    "author": "lobbly",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=25963589"
   },
   {
     "title": "Teaching a Bayesian spam filter to play chess",
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=25970502"
   },
   {
-    "title": "Personal experiences bridge moral and political divides better than facts",
-    "url": "https://www.pnas.org/content/118/6/e2008389118",
-    "upvotes": 350,
-    "author": "lobbly",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=25963589"
+    "title": "Philosophical Landmines",
+    "url": "https://www.lesswrong.com/posts/L4HQ3gnSrBETRdcGu/philosophical-landmines",
+    "upvotes": 73,
+    "author": "TeMPOraL",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=25968760"
   },
   {
     "title": "Website Fingerprinting on Early QUIC Traffic",
     "url": "https://arxiv.org/abs/2101.11871",
-    "upvotes": 331,
+    "upvotes": 332,
     "author": "pueblito",
     "comments": 117,
     "link": "https://news.ycombinator.com/item?id=25969886"
-  },
-  {
-    "title": "Philosophical Landmines",
-    "url": "https://www.lesswrong.com/posts/L4HQ3gnSrBETRdcGu/philosophical-landmines",
-    "upvotes": 71,
-    "author": "TeMPOraL",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25968760"
   }
 ]
