@@ -1,24 +1,24 @@
 [
   {
-    "title": "The Drawbacks of P2P",
+    "title": "Drawbacks of P2P and a defense of Signal",
     "url": "https://changelog.complete.org/archives/10216-the-hidden-drawbacks-of-p2p-and-a-defense-of-signal",
-    "upvotes": 14,
+    "upvotes": 27,
     "author": "pabs3",
-    "comments": null,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=25976439"
   },
   {
     "title": "CDC website built by Deloitte at a cost of $44M is abandoned due to bugs",
     "url": "https://www.technologyreview.com/2021/01/30/1017086/cdc-44-million-vaccine-data-vams-problems/",
-    "upvotes": 534,
+    "upvotes": 554,
     "author": "donsupreme",
-    "comments": 326,
+    "comments": 339,
     "link": "https://news.ycombinator.com/item?id=25975110"
   },
   {
     "title": "My 90s TV: Browse 90s Television",
     "url": "https://my90stv.com",
-    "upvotes": 255,
+    "upvotes": 257,
     "author": "optimalsolver",
     "comments": 62,
     "link": "https://news.ycombinator.com/item?id=25973955"
@@ -26,57 +26,41 @@
   {
     "title": "An Archeologist’s Guide to Beer Cans",
     "url": "https://daily.jstor.org/an-archeologists-guide-to-beer-cans/",
-    "upvotes": 17,
+    "upvotes": 18,
     "author": "Petiver",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25976183"
   },
   {
-    "title": "Build your own X, a collection of tutorials",
-    "url": "https://github.com/danistefanovic/build-your-own-x",
-    "upvotes": 83,
-    "author": "jkchu",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=25975273"
-  },
-  {
     "title": "RV64X: A Free, open-source GPU for RISC-V",
     "url": "https://www.eetimes.com/rv64x-a-free-open-source-gpu-for-risc-v/",
-    "upvotes": 80,
+    "upvotes": 83,
     "author": "mardiyah",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=25974757"
   },
   {
     "title": "Chronicles of a Bubble Tea Addict",
     "url": "https://www.newyorker.com/culture/personal-history/chronicles-of-a-bubble-tea-addict",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "irtefa",
-    "comments": 2,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25975428"
   },
   {
     "title": "Personal experiences bridge moral and political divides better than facts",
     "url": "https://www.pnas.org/content/118/6/e2008389118",
-    "upvotes": 307,
+    "upvotes": 311,
     "author": "lobbly",
-    "comments": 123,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=25963589"
-  },
-  {
-    "title": "Website Fingerprinting on Early QUIC Traffic",
-    "url": "https://arxiv.org/abs/2101.11871",
-    "upvotes": 319,
-    "author": "pueblito",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=25969886"
   },
   {
     "title": "Docker, Django, Traefik, and IntercoolerJS: My go-to stack for building a SaaS",
     "url": "https://www.simplecto.com/docker-django-traefik-intercoolerjs-is-my-stack-for-2021/",
-    "upvotes": 130,
+    "upvotes": 134,
     "author": "simplecto",
-    "comments": 113,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=25973242"
   },
   {
@@ -90,7 +74,7 @@
   {
     "title": "The Great Unbundling",
     "url": "https://www.ben-evans.com/presentations",
-    "upvotes": 199,
+    "upvotes": 203,
     "author": "notoriousarun",
     "comments": 113,
     "link": "https://news.ycombinator.com/item?id=25970658"
@@ -98,7 +82,7 @@
   {
     "title": "Regular afternoon naps linked to improved cognitive function",
     "url": "https://www.sciencefocus.com/the-human-body/afternoon-naps-linked-to-improved-cognitive-function/",
-    "upvotes": 308,
+    "upvotes": 314,
     "author": "prostoalex",
     "comments": 112,
     "link": "https://news.ycombinator.com/item?id=25972342"
@@ -106,9 +90,9 @@
   {
     "title": "A vast web of vengeance",
     "url": "https://www.nytimes.com/2021/01/30/technology/change-my-google-results.html",
-    "upvotes": 151,
+    "upvotes": 157,
     "author": "tysone",
-    "comments": 45,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=25972121"
   },
   {
@@ -116,7 +100,7 @@
     "url": "https://arxiv.org/abs/2012.06774",
     "upvotes": 83,
     "author": "jsnell",
-    "comments": 92,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=25972846"
   },
   {
@@ -130,63 +114,63 @@
   {
     "title": "Why it’s usually crazier than you expect",
     "url": "https://www.collaborativefund.com/blog/crazy/",
-    "upvotes": 123,
+    "upvotes": 126,
     "author": "antdke",
     "comments": 117,
     "link": "https://news.ycombinator.com/item?id=25971963"
   },
   {
-    "title": "IBM paperweight teardown: Reverse-engineering 1970s memory chips",
-    "url": "https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html",
-    "upvotes": 85,
-    "author": "parsecs",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=25971085"
+    "title": "Teaching a Bayesian spam filter to play chess",
+    "url": "http://dbacl.sourceforge.net/spam_chess-1.html",
+    "upvotes": 37,
+    "author": "ignoranceprior",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25970502"
+  },
+  {
+    "title": "Website Fingerprinting on Early QUIC Traffic",
+    "url": "https://arxiv.org/abs/2101.11871",
+    "upvotes": 319,
+    "author": "pueblito",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=25969886"
   },
   {
     "title": "How to stream media using WebRTC and FFmpeg, and why it's a bad idea",
     "url": "https://blog.maxwellgale.com/2021/01/30/streaming-video-over-webrtc-using-ffmpeg/",
-    "upvotes": 106,
+    "upvotes": 108,
     "author": "dimes",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=25970843"
   },
   {
-    "title": "‘Meme stock’ rally rescues AMC theaters from $600M debt",
-    "url": "https://www.polygon.com/movies/2021/1/29/22256360/amc-stock-price-reddit-rally-robinhood-debt-conversion",
-    "upvotes": 120,
-    "author": "Borlands",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=25974469"
-  },
-  {
-    "title": "Cyclic dependencies are evil",
-    "url": "https://fsharpforfunandprofit.com/posts/cyclic-dependencies/",
-    "upvotes": 122,
-    "author": "nojito",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=25969976"
+    "title": "IBM paperweight teardown: Reverse-engineering 1970s memory chips",
+    "url": "https://www.righto.com/2021/01/ibm-paperweight-teardown-reverse.html",
+    "upvotes": 87,
+    "author": "parsecs",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=25971085"
   },
   {
     "title": "Element",
     "url": "https://twitter.com/element_hq/status/1355290296947499013",
-    "upvotes": 1798,
+    "upvotes": 1805,
     "author": "redsolver",
-    "comments": 844,
+    "comments": 845,
     "link": "https://news.ycombinator.com/item?id=25964226"
   },
   {
     "title": "A few HiDPI tricks for Linux",
     "url": "https://blog.yossarian.net/2020/12/24/A-few-HiDPI-tricks-for-Linux",
-    "upvotes": 116,
+    "upvotes": 118,
     "author": "woodruffw",
-    "comments": 114,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=25970690"
   },
   {
     "title": "Fixing 200 broken raspberry Pis to prevent e-waste and donating the money raised",
     "url": "https://blog.jmdawson.co.uk/i-bought-200-raspberry-pi-model-bs-and-im-going-to-fix-them-part-4/",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "technlogger",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25972094"
@@ -196,9 +180,17 @@
     "url": "https://weworkremotely.com/remote-jobs/42-technologies-software-engineer-full-time-remote"
   },
   {
+    "title": "7: Jim Cramer Exposes Illegal Hedge Fund Tactics",
+    "url": "https://www.youtube.com/watch?v=QFfjX8dW-QQ",
+    "upvotes": 11,
+    "author": "JacKTrocinskI",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25976452"
+  },
+  {
     "title": "Philosophical Landmines",
     "url": "https://www.lesswrong.com/posts/L4HQ3gnSrBETRdcGu/philosophical-landmines",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "TeMPOraL",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25968760"
@@ -206,33 +198,41 @@
   {
     "title": "Wayland Keylogger",
     "url": "https://github.com/Aishou/wayland-keylogger",
-    "upvotes": 76,
+    "upvotes": 79,
     "author": "Jkvngt",
     "comments": 94,
     "link": "https://news.ycombinator.com/item?id=25971395"
   },
   {
-    "title": "7: Jim Cramer Exposes Illegal Hedge Fund Tactics",
-    "url": "https://www.youtube.com/watch?v=QFfjX8dW-QQ",
-    "upvotes": 6,
-    "author": "JacKTrocinskI",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25976452"
-  },
-  {
-    "title": "India protests: Internet cut to hunger-striking farmers in Delhi",
-    "url": "https://www.bbc.co.uk/news/world-asia-india-55872480",
-    "upvotes": 167,
-    "author": "jfk13",
-    "comments": 211,
-    "link": "https://news.ycombinator.com/item?id=25972620"
+    "title": "Show HN: Watchpoints, an easy to use watchpoints equivalent library for Python",
+    "url": "https://github.com/gaogaotiantian/watchpoints",
+    "upvotes": 50,
+    "author": "gaogaotiantian",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=25972412"
   },
   {
     "title": "Oneness via gurus, psychedelics and the hidden code in Jordan Mechner's Karateka",
     "url": "https://schmud.de/posts/2020-12-16-be-here-now.html",
     "upvotes": 31,
     "author": "schmudde",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=25970184"
+  },
+  {
+    "title": "India protests: Internet cut to hunger-striking farmers in Delhi",
+    "url": "https://www.bbc.co.uk/news/world-asia-india-55872480",
+    "upvotes": 173,
+    "author": "jfk13",
+    "comments": 227,
+    "link": "https://news.ycombinator.com/item?id=25972620"
+  },
+  {
+    "title": "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites",
+    "url": "https://webtransparency.cs.princeton.edu/dark-patterns/",
+    "upvotes": 306,
+    "author": "pseudolus",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=25968531"
   }
 ]
