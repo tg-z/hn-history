@@ -1,164 +1,212 @@
 [
   {
+    "title": "FB testing screen to encourage users to accept active tracking",
+    "url": "https://www.axios.com/facebook-notification-apple-privacy-changes-39092ba5-25e4-4e83-87ff-81967733f919.html",
+    "upvotes": 61,
+    "author": "asimpletune",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25990238"
+  },
+  {
     "title": "SpaCy 3.0",
     "url": "https://github.com/explosion/spaCy/releases/tag/v3.0.0",
-    "upvotes": 174,
+    "upvotes": 239,
     "author": "syllogism",
-    "comments": 19,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=25988702"
-  },
-  {
-    "title": "An unexpected find that freed 20gb of unused index space in PostgreSQL",
-    "url": "https://hakibenita.com/postgresql-unused-index-size",
-    "upvotes": 100,
-    "author": "haki",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=25988871"
-  },
-  {
-    "title": "Games can fix remote team building",
-    "url": "https://slideswith.com/blog/games-for-remote-team-building",
-    "upvotes": 24,
-    "author": "masonhipp",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=25989336"
-  },
-  {
-    "title": "Launch HN: Albedo (YC W21) – Highest resolution satellite imagery",
-    "url": "item?id=25989085",
-    "upvotes": 44,
-    "author": "topherhaddad",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=25989085"
-  },
-  {
-    "title": "Reinforcement Learning at Facebook",
-    "url": "https://corecursive.com/061-reinforcement-learning/",
-    "upvotes": 11,
-    "author": "agbell",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25989578"
   },
   {
     "title": "Solid Project: All of your data, under your control",
     "url": "https://solidproject.org/",
-    "upvotes": 8,
+    "upvotes": 67,
     "author": "gibsonf1",
-    "comments": null,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25989698"
   },
   {
-    "title": "Secure your MQTT server with authentication and encryption",
-    "url": "https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/",
-    "upvotes": 57,
-    "author": "juriansluiman",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25988196"
+    "title": "Android to go in all Ford cars",
+    "url": "https://www.detroitnews.com/story/business/autos/ford/2021/02/01/ford-google-form-six-year-strategic-partnership/4337504001/",
+    "upvotes": 21,
+    "author": "mfer",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=25990385"
   },
   {
-    "title": "Medieval Cambridge skeletons reveal injuries to manual labourers",
-    "url": "https://www.bbc.com/news/uk-england-cambridgeshire-55796306",
-    "upvotes": 35,
-    "author": "pepys",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25976795"
+    "title": "An unexpected find that freed 20gb of unused index space in PostgreSQL",
+    "url": "https://hakibenita.com/postgresql-unused-index-size",
+    "upvotes": 161,
+    "author": "haki",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=25988871"
   },
   {
     "title": "The Focus to Say No",
     "url": "https://fs.blog/2011/09/steve-jobs-saying-no/",
-    "upvotes": 7,
+    "upvotes": 54,
     "author": "7d7n",
-    "comments": null,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25989532"
+  },
+  {
+    "title": "UpCodes is hiring 2 SWEs, 1 ops mgr to automate compliance for architects",
+    "url": "https://up.codes/careers"
+  },
+  {
+    "title": "Reinforcement Learning at Facebook",
+    "url": "https://corecursive.com/061-reinforcement-learning/",
+    "upvotes": 37,
+    "author": "agbell",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=25989578"
+  },
+  {
+    "title": "Red Hat ported OpenJDK to 64-bit ARM: A community history",
+    "url": "https://developers.redhat.com/blog/2021/02/01/how-red-hat-ported-openjdk-to-64-bit-arm-a-community-history/",
+    "upvotes": 40,
+    "author": "pabs3",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25989309"
+  },
+  {
+    "title": "My Third Year as a Solo Developer",
+    "url": "https://mtlynch.io/solo-developer-year-3/",
+    "upvotes": 75,
+    "author": "mtlynch",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25989010"
+  },
+  {
+    "title": "Launch HN: Albedo (YC W21) – Highest resolution satellite imagery",
+    "url": "item?id=25989085",
+    "upvotes": 68,
+    "author": "topherhaddad",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=25989085"
+  },
+  {
+    "title": "Medieval Cambridge skeletons reveal injuries to manual labourers",
+    "url": "https://www.bbc.com/news/uk-england-cambridgeshire-55796306",
+    "upvotes": 41,
+    "author": "pepys",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=25976795"
+  },
+  {
+    "title": "Secure your MQTT server with authentication and encryption",
+    "url": "https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/",
+    "upvotes": 68,
+    "author": "juriansluiman",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=25988196"
+  },
+  {
+    "title": "Font loading on the web",
+    "url": "https://www.industrialempathy.com/posts/high-performance-web-font-loading/",
+    "upvotes": 13,
+    "author": "payne",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25976844"
   },
   {
     "title": "Build a Raspberry Pi CM4 4-Bay NAS with Wiretrustee Carrier Board",
     "url": "https://www.cnx-software.com/2021/02/01/build-a-raspberry-pi-cm4-4-bay-nas-with-wiretrustee-carrier-board/",
-    "upvotes": 68,
+    "upvotes": 78,
     "author": "tobijkl",
-    "comments": 39,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=25987562"
   },
   {
     "title": "Slack’s Outage on January 4th 2021",
     "url": "https://slack.engineering/slacks-outage-on-january-4th-2021/",
-    "upvotes": 129,
+    "upvotes": 165,
     "author": "benedikt",
-    "comments": 38,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=25988228"
-  },
-  {
-    "title": "Scientists fear pandemic's 'hyper hygiene' could have long-term health impacts",
-    "url": "https://ottawacitizen.com/news/local-news/the-downside-of-clean-scientists-fear-pandemics-hyper-hygiene-could-have-long-term-health-impacts",
-    "upvotes": 11,
-    "author": "amichail",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25989726"
   },
   {
     "title": "gemini:// space",
     "url": "https://spwhitton.name//blog/entry/geminispace/",
-    "upvotes": 205,
+    "upvotes": 217,
     "author": "pabs3",
-    "comments": 109,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=25986378"
-  },
-  {
-    "title": "Odeko",
-    "url": "https://angel.co/company/odeko-inc/jobs"
-  },
-  {
-    "title": "Three-dimensional model of electricity consumption in Manchester",
-    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8418916/three-dimensional-model-of-electricity-consumption-in-manchester-chart-graphic-document",
-    "upvotes": 99,
-    "author": "prismatic",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=25959571"
   },
   {
     "title": "The Hermeneutical Imperative",
     "url": "https://theconvivialsociety.substack.com/p/the-hermeneutical-imperative",
-    "upvotes": 11,
+    "upvotes": 20,
     "author": "panic",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25976441"
   },
   {
-    "title": "Show HN: Deploy ML Models on a Budget",
-    "url": "https://github.com/ebhy/budgetml",
-    "upvotes": 90,
-    "author": "htahir111",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=25986346"
+    "title": "Robinhood Raises Another $2.4B from shareholders",
+    "url": "https://www.wsj.com/articles/robinhood-raises-another-2-4-billion-from-shareholders-11612197680",
+    "upvotes": 22,
+    "author": "sarthakjshetty",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25990349"
   },
   {
-    "title": "Ask HN: Recommended books and papers on distributed systems?",
-    "url": "item?id=25987664",
-    "upvotes": 153,
-    "author": "letientai299",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=25987664"
+    "title": "Three-dimensional model of electricity consumption in Manchester",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8418916/three-dimensional-model-of-electricity-consumption-in-manchester-chart-graphic-document",
+    "upvotes": 109,
+    "author": "prismatic",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=25959571"
+  },
+  {
+    "title": "A data ecosystem fosters sustainable innovation",
+    "url": "https://ruben.verborgh.org/blog/2020/12/07/a-data-ecosystem-fosters-sustainable-innovation/",
+    "upvotes": 6,
+    "author": "karlicoss",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25989727"
   },
   {
     "title": "An Oral History of Disney's 'The Emperor's New Groove'",
     "url": "https://www.vulture.com/article/an-oral-history-of-disney-the-emperors-new-groove.html",
-    "upvotes": 63,
+    "upvotes": 83,
     "author": "wallflower",
-    "comments": 9,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=25977924"
   },
   {
     "title": "Apple watch keyboard developer put off by app store scammers",
     "url": "https://twitter.com/keleftheriou/status/1356011069395755009",
-    "upvotes": 491,
+    "upvotes": 555,
     "author": "masalah",
-    "comments": 200,
+    "comments": 221,
     "link": "https://news.ycombinator.com/item?id=25986515"
+  },
+  {
+    "title": "Show HN: Deploy ML Models on a Budget",
+    "url": "https://github.com/ebhy/budgetml",
+    "upvotes": 97,
+    "author": "htahir111",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=25986346"
+  },
+  {
+    "title": "Scientists fear pandemic's 'hyper hygiene' could have long-term health impacts",
+    "url": "https://ottawacitizen.com/news/local-news/the-downside-of-clean-scientists-fear-pandemics-hyper-hygiene-could-have-long-term-health-impacts",
+    "upvotes": 60,
+    "author": "amichail",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=25989726"
+  },
+  {
+    "title": "Mainframe Programming vs. Cloud Computing",
+    "url": "https://developers.slashdot.org/comments.pl?sid=18156250&cid=61014218",
+    "upvotes": 47,
+    "author": "dolmen",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=25989454"
   },
   {
     "title": "Learning to Negotiate Salaries to Transform Library Culture",
     "url": "http://www.inthelibrarywiththeleadpipe.org/2019/normalize-negotiation/",
-    "upvotes": 28,
+    "upvotes": 35,
     "author": "luu",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25966713"
@@ -166,73 +214,25 @@
   {
     "title": "A simple ray tracer in Lean 4",
     "url": "https://github.com/kmill/lean4-raytracer",
-    "upvotes": 31,
+    "upvotes": 35,
     "author": "nilradical",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=25987949"
   },
   {
-    "title": "City Guesser – GeoGuessr but with video",
-    "url": "https://virtualvacation.us/guess",
-    "upvotes": 90,
-    "author": "jurnip",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=25968788"
+    "title": "Ask HN: Recommended books and papers on distributed systems?",
+    "url": "item?id=25987664",
+    "upvotes": 194,
+    "author": "letientai299",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=25987664"
   },
   {
-    "title": "Mainframe Programming vs. Cloud Computing",
-    "url": "https://developers.slashdot.org/comments.pl?sid=18156250&cid=61014218",
-    "upvotes": 21,
-    "author": "dolmen",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=25989454"
-  },
-  {
-    "title": "A cloak-and-dagger tale behind an anticipated result in particle physics",
-    "url": "https://www.sciencemag.org/news/2021/01/cloak-and-dagger-tale-behind-year-s-most-anticipated-result-particle-physics",
-    "upvotes": 94,
-    "author": "osamagirl69",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=25985084"
-  },
-  {
-    "title": "Launch HN: LayerCI (YC S20) - Staging servers that act like (and replace) CI",
-    "url": "item?id=25979941",
-    "upvotes": 149,
-    "author": "colinchartier",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=25979941"
-  },
-  {
-    "title": "The career-changing art of reading the docs",
-    "url": "https://acloudguru.com/blog/engineering/the-career-changing-art-of-reading-the-docs",
-    "upvotes": 4,
-    "author": "forrestbrazeal",
+    "title": "Playbit – playing around with computers should be fun",
+    "url": "https://playb.it/",
+    "upvotes": 6,
+    "author": "ChrisArchitect",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25989676"
-  },
-  {
-    "title": "Two Sisters Who Changed the Medical Profession",
-    "url": "https://www.nytimes.com/2021/01/20/books/review-doctors-blackwell-women-medicine-janice-nimura.html",
-    "upvotes": 40,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25976081"
-  },
-  {
-    "title": "NES.css – NES-Style CSS Framework",
-    "url": "https://nostalgic-css.github.io/NES.css/",
-    "upvotes": 657,
-    "author": "dsego",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=25982999"
-  },
-  {
-    "title": "F# is gaining independence from .NET",
-    "url": "https://onurgumus.github.io/2021/01/31/What-the-F.html",
-    "upvotes": 183,
-    "author": "sidcool",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=25986316"
+    "link": "https://news.ycombinator.com/item?id=25989681"
   }
 ]
