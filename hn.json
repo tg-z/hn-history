@@ -1,174 +1,166 @@
 [
   {
-    "title": "SpaCy v3.0 Released",
+    "title": "SpaCy 3.0",
     "url": "https://github.com/explosion/spaCy/releases/tag/v3.0.0",
-    "upvotes": 63,
+    "upvotes": 82,
     "author": "syllogism",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=25988702"
   },
   {
-    "title": "Slack’s Outage on January 4th 2021",
-    "url": "https://slack.engineering/slacks-outage-on-january-4th-2021/",
-    "upvotes": 52,
-    "author": "benedikt",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=25988228"
+    "title": "An unexpected find that freed 20gb of unused index space in PostgreSQL",
+    "url": "https://hakibenita.com/postgresql-unused-index-size",
+    "upvotes": 40,
+    "author": "haki",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=25988871"
   },
   {
     "title": "Secure your MQTT server with authentication and encryption",
     "url": "https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/",
-    "upvotes": 28,
+    "upvotes": 38,
     "author": "juriansluiman",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25988196"
   },
   {
-    "title": "The Unexpected Find That Freed 20GB of Unused Index Space in PostgreSQL",
-    "url": "https://hakibenita.com/postgresql-unused-index-size",
-    "upvotes": 10,
-    "author": "haki",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25988871"
+    "title": "Medieval Cambridge skeletons reveal injuries to manual labourers",
+    "url": "https://www.bbc.com/news/uk-england-cambridgeshire-55796306",
+    "upvotes": 17,
+    "author": "pepys",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25976795"
   },
   {
     "title": "Build a Raspberry Pi CM4 4-Bay NAS with Wiretrustee Carrier Board",
     "url": "https://www.cnx-software.com/2021/02/01/build-a-raspberry-pi-cm4-4-bay-nas-with-wiretrustee-carrier-board/",
-    "upvotes": 50,
+    "upvotes": 58,
     "author": "tobijkl",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=25987562"
+  },
+  {
+    "title": "Launch HN: Albedo (YC W21) – Highest resolution satellite imagery",
+    "url": "item?id=25989085",
+    "upvotes": 6,
+    "author": "topherhaddad",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25989085"
   },
   {
     "title": "gemini:// space",
     "url": "https://spwhitton.name//blog/entry/geminispace/",
-    "upvotes": 172,
+    "upvotes": 181,
     "author": "pabs3",
-    "comments": 92,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=25986378"
+  },
+  {
+    "title": "Slack’s Outage on January 4th 2021",
+    "url": "https://slack.engineering/slacks-outage-on-january-4th-2021/",
+    "upvotes": 85,
+    "author": "benedikt",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=25988228"
   },
   {
     "title": "Three-dimensional model of electricity consumption in Manchester",
     "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8418916/three-dimensional-model-of-electricity-consumption-in-manchester-chart-graphic-document",
-    "upvotes": 76,
-    "author": "prismatic",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=25959571"
-  },
-  {
-    "title": "Show HN: Deploy ML Models on a Budget",
-    "url": "https://github.com/ebhy/budgetml",
     "upvotes": 81,
-    "author": "htahir111",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25986346"
+    "author": "prismatic",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=25959571"
   },
   {
     "title": "A simple ray tracer in Lean 4",
     "url": "https://github.com/kmill/lean4-raytracer",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "nilradical",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=25987949"
   },
   {
-    "title": "Apple watch keyboard developer put off by app store scammers",
-    "url": "https://twitter.com/keleftheriou/status/1356011069395755009",
-    "upvotes": 397,
-    "author": "masalah",
-    "comments": 165,
-    "link": "https://news.ycombinator.com/item?id=25986515"
+    "title": "Show HN: Deploy ML Models on a Budget",
+    "url": "https://github.com/ebhy/budgetml",
+    "upvotes": 83,
+    "author": "htahir111",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=25986346"
   },
   {
     "title": "Odeko",
     "url": "https://angel.co/company/odeko-inc/jobs"
   },
   {
-    "title": "Medieval Cambridge skeletons reveal injuries to manual labourers",
-    "url": "https://www.bbc.com/news/uk-england-cambridgeshire-55796306",
-    "upvotes": 6,
-    "author": "pepys",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25976795"
+    "title": "Apple watch keyboard developer put off by app store scammers",
+    "url": "https://twitter.com/keleftheriou/status/1356011069395755009",
+    "upvotes": 421,
+    "author": "masalah",
+    "comments": 179,
+    "link": "https://news.ycombinator.com/item?id=25986515"
   },
   {
     "title": "AMD vs. Intel vs. Nvidia: How Users Are Switching",
     "url": "https://boilingsteam.com/amd-vs-nvidia-are-linux-gamers-switching-yet/",
-    "upvotes": 203,
+    "upvotes": 207,
     "author": "ekianjo",
-    "comments": 130,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=25984328"
   },
   {
     "title": "Null Characters: Workarounds Aren’t Good Enough",
     "url": "https://www.commandprompt.com/blog/null-characters-workarounds-arent-good-enough/",
-    "upvotes": 54,
+    "upvotes": 60,
     "author": "ivank",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25976266"
+  },
+  {
+    "title": "Ask HN: Recommended books and papers on distributed systems?",
+    "url": "item?id=25987664",
+    "upvotes": 97,
+    "author": "letientai299",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=25987664"
+  },
+  {
+    "title": "An Oral History of Disney's 'The Emperor's New Groove'",
+    "url": "https://www.vulture.com/article/an-oral-history-of-disney-the-emperors-new-groove.html",
+    "upvotes": 44,
+    "author": "wallflower",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=25977924"
   },
   {
     "title": "City Guesser – GeoGuessr but with video",
     "url": "https://virtualvacation.us/guess",
-    "upvotes": 75,
+    "upvotes": 80,
     "author": "jurnip",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25968788"
   },
   {
-    "title": "Ask HN: Recommended books and papers on distributed systems?",
-    "url": "item?id=25987664",
-    "upvotes": 83,
-    "author": "letientai299",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=25987664"
-  },
-  {
     "title": "Learning to Negotiate Salaries to Transform Library Culture",
     "url": "http://www.inthelibrarywiththeleadpipe.org/2019/normalize-negotiation/",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "luu",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=25966713"
   },
   {
-    "title": "An Oral History of Disney's 'The Emperor's New Groove'",
-    "url": "https://www.vulture.com/article/an-oral-history-of-disney-the-emperors-new-groove.html",
-    "upvotes": 35,
-    "author": "wallflower",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25977924"
-  },
-  {
-    "title": "Counterfeiting Stock – Explaining illegal naked shorting and stock manipulation",
-    "url": "http://counterfeitingstock.com/CS2.0/CounterfeitingStock.html",
-    "upvotes": 294,
-    "author": "lelf",
-    "comments": 291,
-    "link": "https://news.ycombinator.com/item?id=25986320"
-  },
-  {
     "title": "A cloak-and-dagger tale behind an anticipated result in particle physics",
     "url": "https://www.sciencemag.org/news/2021/01/cloak-and-dagger-tale-behind-year-s-most-anticipated-result-particle-physics",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "osamagirl69",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=25985084"
-  },
-  {
-    "title": "F# is gaining independence from .NET",
-    "url": "https://onurgumus.github.io/2021/01/31/What-the-F.html",
-    "upvotes": 149,
-    "author": "sidcool",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=25986316"
   },
   {
     "title": "NES.css – NES-Style CSS Framework",
     "url": "https://nostalgic-css.github.io/NES.css/",
-    "upvotes": 638,
+    "upvotes": 643,
     "author": "dsego",
-    "comments": 101,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=25982999"
   },
   {
@@ -176,61 +168,69 @@
     "url": "item?id=25979941",
     "upvotes": 145,
     "author": "colinchartier",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=25979941"
   },
   {
     "title": "Two Sisters Who Changed the Medical Profession",
     "url": "https://www.nytimes.com/2021/01/20/books/review-doctors-blackwell-women-medicine-janice-nimura.html",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "Hooke",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25976081"
   },
   {
+    "title": "Counterfeiting Stock – Explaining illegal naked shorting and stock manipulation",
+    "url": "http://counterfeitingstock.com/CS2.0/CounterfeitingStock.html",
+    "upvotes": 297,
+    "author": "lelf",
+    "comments": 297,
+    "link": "https://news.ycombinator.com/item?id=25986320"
+  },
+  {
+    "title": "F# is gaining independence from .NET",
+    "url": "https://onurgumus.github.io/2021/01/31/What-the-F.html",
+    "upvotes": 158,
+    "author": "sidcool",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=25986316"
+  },
+  {
     "title": "Communications Minister touts the opportunities of a Google-less Australia",
     "url": "https://www.zdnet.com/article/communications-minister-touts-the-opportunities-of-a-google-less-australia/",
-    "upvotes": 47,
+    "upvotes": 54,
     "author": "crones",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=25987671"
   },
   {
     "title": "Guarded Horn Clauses: A Parallel Logic PL with the Concept of a Guard",
     "url": "https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.25.2460",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "throwawaybutwhy",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=25968431"
   },
   {
-    "title": "Internet disrupted in Myanmar amid military coup",
-    "url": "https://netblocks.org/reports/internet-disrupted-in-myanmar-amid-apparent-military-uprising-JBZrmlB6",
-    "upvotes": 160,
-    "author": "giuliomagnifico",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=25987314"
-  },
-  {
     "title": "James Baldwin, Here and Elsewhere",
     "url": "https://www.publicbooks.org/james-baldwin-here-and-elsewhere/",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "apollinaire",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25976048"
   },
   {
-    "title": "GitHub Should Start an App Store",
-    "url": "https://www.ankshilp.com/time_for_github_app_store/",
-    "upvotes": 784,
-    "author": "quaintdev",
-    "comments": 266,
-    "link": "https://news.ycombinator.com/item?id=25979774"
+    "title": "Internet disrupted in Myanmar amid military coup",
+    "url": "https://netblocks.org/reports/internet-disrupted-in-myanmar-amid-apparent-military-uprising-JBZrmlB6",
+    "upvotes": 168,
+    "author": "giuliomagnifico",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=25987314"
   },
   {
     "title": "Uf2: USB Flashing Format",
     "url": "https://github.com/microsoft/uf2",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "mmastrac",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25971355"
