@@ -1,90 +1,90 @@
 [
   {
+    "title": "Think Twice Before Abandoning Xorg – Wayland Breaks Everything",
+    "url": "https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277",
+    "upvotes": 19,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25999071"
+  },
+  {
     "title": "Scaleway announced Apple M1 instances",
     "url": "https://www.scaleway.com/en/hello-m1/",
-    "upvotes": 81,
+    "upvotes": 99,
     "author": "edouardb",
-    "comments": 46,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=25998659"
   },
   {
     "title": "Go 1.16 will make system calls through Libc on OpenBSD",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc",
-    "upvotes": 165,
+    "upvotes": 169,
     "author": "lladnar",
-    "comments": 59,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=25997506"
   },
   {
     "title": "Investigation Xoth: Smartphone location tracking",
     "url": "https://www.expressvpn.com/digital-security-lab/investigation-xoth",
-    "upvotes": 125,
+    "upvotes": 128,
     "author": "gilad",
-    "comments": 42,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=25997619"
-  },
-  {
-    "title": "Cab Ride: Drive a train, forever, through a dreamlike land",
-    "url": "https://powersaurus.itch.io/cab-ride",
-    "upvotes": 421,
-    "author": "polm23",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=25980060"
   },
   {
     "title": "Exploring FPGA Graphics",
     "url": "https://projectf.io/posts/fpga-graphics/",
-    "upvotes": 34,
+    "upvotes": 38,
     "author": "rbanffy",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25998154"
+  },
+  {
+    "title": "Cab Ride: Drive a train, forever, through a dreamlike land",
+    "url": "https://powersaurus.itch.io/cab-ride",
+    "upvotes": 431,
+    "author": "polm23",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=25980060"
   },
   {
     "title": "A 25-Year-Old Bet Comes Due: Has Tech Destroyed Society?",
     "url": "https://www.wired.com/story/a-25-year-old-bet-comes-due-has-tech-destroyed-society/",
-    "upvotes": 241,
+    "upvotes": 248,
     "author": "coloneltcb",
-    "comments": 244,
+    "comments": 250,
     "link": "https://news.ycombinator.com/item?id=25995839"
-  },
-  {
-    "title": "Fastfloat – C++ library 4x faster than strtod",
-    "url": "https://github.com/fastfloat/fast_float",
-    "upvotes": 47,
-    "author": "dilawar",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=25976913"
   },
   {
     "title": "The cosmological constant is physics’ most embarrassing problem",
     "url": "https://www.scientificamerican.com/article/the-cosmological-constant-is-physics-most-embarrassing-problem/",
-    "upvotes": 32,
+    "upvotes": 36,
     "author": "samizdis",
-    "comments": 17,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=25993493"
+  },
+  {
+    "title": "Fastfloat – C++ library 4x faster than strtod",
+    "url": "https://github.com/fastfloat/fast_float",
+    "upvotes": 48,
+    "author": "dilawar",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=25976913"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=25989764",
     "upvotes": 375,
     "author": "whoishiring",
-    "comments": 649,
+    "comments": 652,
     "link": "https://news.ycombinator.com/item?id=25989764"
-  },
-  {
-    "title": "How libraries decide which books to keep",
-    "url": "https://medium.com/@fsgbooks/secrets-of-the-stacks-4ca8405f1e11",
-    "upvotes": 18,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25993486"
   },
   {
     "title": "VideoLAN is 20 years old today",
     "url": "https://www.videolan.org/press/videolan-20.html",
-    "upvotes": 1231,
+    "upvotes": 1243,
     "author": "jbk",
-    "comments": 275,
+    "comments": 276,
     "link": "https://news.ycombinator.com/item?id=25992735"
   },
   {
@@ -92,19 +92,27 @@
     "url": "https://localyzeapp.com/jobs/"
   },
   {
+    "title": "How libraries decide which books to keep",
+    "url": "https://medium.com/@fsgbooks/secrets-of-the-stacks-4ca8405f1e11",
+    "upvotes": 21,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25993486"
+  },
+  {
     "title": "Google Stadia shuts down internal studios, changing business focus",
     "url": "https://kotaku.com/google-stadia-shuts-down-internal-studios-changing-bus-1846146761",
-    "upvotes": 608,
+    "upvotes": 610,
     "author": "danso",
-    "comments": 679,
+    "comments": 682,
     "link": "https://news.ycombinator.com/item?id=25992664"
   },
   {
     "title": "We Test PCIe 4.0 Storage: The AnandTech 2021 SSD Benchmark Suite",
     "url": "https://www.anandtech.com/print/16458/2021-ssd-benchmark-suite",
-    "upvotes": 148,
+    "upvotes": 150,
     "author": "pella",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=25994051"
   },
   {
@@ -114,14 +122,6 @@
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=25986238"
-  },
-  {
-    "title": "Ask HN: What is your “I don't care if this succeeds” project?",
-    "url": "item?id=25992782",
-    "upvotes": 95,
-    "author": "as89",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=25992782"
   },
   {
     "title": "The World’s Fastest DES Cracker",
@@ -134,23 +134,31 @@
   {
     "title": "Me and ADHD",
     "url": "https://www.linkedin.com/pulse/adhd-me-ish-verduzco/",
-    "upvotes": 246,
+    "upvotes": 248,
     "author": "rbanffy",
-    "comments": 370,
+    "comments": 374,
     "link": "https://news.ycombinator.com/item?id=25992390"
+  },
+  {
+    "title": "Ask HN: What is your “I don't care if this succeeds” project?",
+    "url": "item?id=25992782",
+    "upvotes": 99,
+    "author": "as89",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=25992782"
   },
   {
     "title": "Launch HN: Opstrace (YC S19) – open-source Datadog",
     "url": "item?id=25991485",
     "upvotes": 256,
     "author": "spahl",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=25991485"
   },
   {
     "title": "What’s Wrong With The Honeywell Humidifier",
     "url": "https://angelalashbrook.medium.com/whats-wrong-with-the-honeywell-humidifier-f165284aeaa4",
-    "upvotes": 163,
+    "upvotes": 165,
     "author": "antigizmo",
     "comments": 243,
     "link": "https://news.ycombinator.com/item?id=25993512"
@@ -164,17 +172,25 @@
     "link": "https://news.ycombinator.com/item?id=25993258"
   },
   {
+    "title": "Tartar Relation",
+    "url": "https://en.wikipedia.org/wiki/Tartar_Relation",
+    "upvotes": 3,
+    "author": "Thevet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=25982716"
+  },
+  {
     "title": "Nntpit: Minimalist Reddit-to-NNTP gateway",
     "url": "https://github.com/taviso/nntpit",
-    "upvotes": 85,
+    "upvotes": 88,
     "author": "rendx",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=25995918"
   },
   {
     "title": "Launch HN: Albedo (YC W21) – Highest resolution satellite imagery",
     "url": "item?id=25989085",
-    "upvotes": 161,
+    "upvotes": 162,
     "author": "topherhaddad",
     "comments": 114,
     "link": "https://news.ycombinator.com/item?id=25989085"
@@ -190,23 +206,15 @@
   {
     "title": "Show HN: I wrote a rust program to translate images into textual line art",
     "url": "https://github.com/lf94/png2linetext",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "fallat",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=25976856"
   },
   {
-    "title": "The Libraries of My Life",
-    "url": "https://www.theparisreview.org/blog/2020/11/25/the-libraries-of-my-life/",
-    "upvotes": 4,
-    "author": "gHeadphone",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25993826"
-  },
-  {
     "title": "Tamper-Evident Logs",
     "url": "https://transparency.dev/",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "philips",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=25995034"
@@ -214,25 +222,17 @@
   {
     "title": "Food Grammar: Unspoken rules of cuisine",
     "url": "https://www.atlasobscura.com/articles/do-italians-eat-spaghetti-and-meatballs",
-    "upvotes": 128,
+    "upvotes": 129,
     "author": "pseudolus",
-    "comments": 109,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=25978242"
   },
   {
     "title": "The first commercial astronaut mission to orbit Earth aboard Dragon",
     "url": "https://www.spacex.com/updates/inspiration-4-mission/",
-    "upvotes": 204,
+    "upvotes": 209,
     "author": "edward",
-    "comments": 73,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=25995515"
-  },
-  {
-    "title": "Databricks is an RDBMS",
-    "url": "https://fivetran.com/blog/databricks-is-an-rdbms",
-    "upvotes": 142,
-    "author": "georgewfraser",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=25992464"
   }
 ]
