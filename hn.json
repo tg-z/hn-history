@@ -2,42 +2,50 @@
   {
     "title": "Email from Jeff Bezos to employees",
     "url": "https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees",
-    "upvotes": 1519,
+    "upvotes": 1548,
     "author": "marc__1",
-    "comments": 718,
+    "comments": 727,
     "link": "https://news.ycombinator.com/item?id=26006656"
   },
   {
     "title": "Bluetooth Trackball Mark II",
     "url": "https://blog.jfedor.org/2021/01/bluetooth-trackball-mark-ii.html",
-    "upvotes": 104,
+    "upvotes": 119,
     "author": "mbreese",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26010237"
-  },
-  {
-    "title": "Getting better at Linux with mini-projects",
-    "url": "https://carltheperson.com/posts/10-things-linux",
-    "upvotes": 839,
-    "author": "carltheperson",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=26002335"
   },
   {
     "title": "UCSF team has engineered a tiny antibody capable of neutralizing the coronavirus",
     "url": "https://www.ucsf.edu/magazine/covid-aeronabs",
-    "upvotes": 49,
+    "upvotes": 62,
     "author": "pfd1986",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26010782"
+  },
+  {
+    "title": "Product Manager vs. Product Marketing Manager vs. Product Owner",
+    "url": "https://www.damilolaa.xyz/Product-Manager-vs-Product-Marketing-Manager-vs-Product-Owner",
+    "upvotes": 15,
+    "author": "DamilolaA",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26010927"
   },
   {
     "title": "SK hynix begins offering samples of 176-layer NAND chip",
     "url": "https://koreajoongangdaily.joins.com/2020/12/07/business/industry/SK-hynix-NAND-Flash/20201207153100497.html",
-    "upvotes": 63,
+    "upvotes": 64,
     "author": "mardiyah",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26009542"
+  },
+  {
+    "title": "What Is Applied Category Theory?",
+    "url": "https://arxiv.org/abs/1809.05923",
+    "upvotes": 14,
+    "author": "behnamoh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26011025"
   },
   {
     "title": "Memfault",
@@ -46,63 +54,39 @@
   {
     "title": "Silence Is a Commons",
     "url": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "cardamomo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26007100"
   },
   {
-    "title": "A Framework for Writing Better Documentation",
-    "url": "https://documentation.divio.com/",
-    "upvotes": 502,
-    "author": "omginternets",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26002656"
-  },
-  {
     "title": "Bangui magnetic anomaly",
     "url": "https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly",
-    "upvotes": 19,
+    "upvotes": 22,
     "author": "benbreen",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=25997906"
   },
   {
     "title": "Using State Machines with React to Make a Confirmation Dialog",
     "url": "https://daveceddia.com/react-confirmation-modal-state-machine/",
-    "upvotes": 52,
+    "upvotes": 54,
     "author": "dceddia",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=25993624"
-  },
-  {
-    "title": "GoboLinux",
-    "url": "https://www.gobolinux.org/",
-    "upvotes": 282,
-    "author": "frabert",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=26002251"
   },
   {
     "title": "Refactoring the FreeBSD Kernel with Checked C [pdf]",
     "url": "https://cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf",
-    "upvotes": 137,
+    "upvotes": 140,
     "author": "wglb",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=25989115"
-  },
-  {
-    "title": "Product Manager vs. Product Marketing Manager vs. Product Owner",
-    "url": "https://www.damilolaa.xyz/Product-Manager-vs-Product-Marketing-Manager-vs-Product-Owner",
-    "upvotes": 6,
-    "author": "DamilolaA",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26010927"
   },
   {
     "title": "Dante's descendant seeks to overturn poet's 1302 corruption conviction",
     "url": "https://www.theguardian.com/books/2021/feb/01/dante-descendant-seeks-to-overturn-poets-1302-corruption-conviction",
-    "upvotes": 93,
+    "upvotes": 94,
     "author": "blegh",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26006138"
@@ -110,7 +94,7 @@
   {
     "title": "OpenPLi – Open-Source Set-Top Box Software",
     "url": "https://openpli.org",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "pacamara619",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26010312"
@@ -118,7 +102,7 @@
   {
     "title": "Show HN: Archivy – Extensible Self Hosted Knowledge Base – v1 Release",
     "url": "https://archivy.github.io",
-    "upvotes": 102,
+    "upvotes": 106,
     "author": "etherio",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26006731"
@@ -126,31 +110,39 @@
   {
     "title": "Bad TypeScript Habits",
     "url": "https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/",
-    "upvotes": 180,
+    "upvotes": 185,
     "author": "jgwil2",
-    "comments": 186,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=26005330"
   },
   {
     "title": "What complexity science says about what makes a winning team",
     "url": "https://aeon.co/essays/what-complexity-science-says-about-what-makes-a-winning-team",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "gHeadphone",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=25993822"
   },
   {
-    "title": "Amazon's anti-union site for its Alabama warehouse",
-    "url": "https://www.doitwithoutdues.com/",
-    "upvotes": 122,
-    "author": "woodgrainz",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26010662"
+    "title": "Getting better at Linux with mini-projects",
+    "url": "https://carltheperson.com/posts/10-things-linux",
+    "upvotes": 856,
+    "author": "carltheperson",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=26002335"
+  },
+  {
+    "title": "The Enduring Prose and Poetry of Clive James",
+    "url": "https://quadrant.org.au/magazine/2021/01/the-enduring-prose-and-poetry-of-clive-james/",
+    "upvotes": 7,
+    "author": "hoffmanesque",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=25995835"
   },
   {
     "title": "Launch HN: Zaraz (YC W20) – Use third-party tools without slowing your website",
     "url": "item?id=26002657",
-    "upvotes": 109,
+    "upvotes": 114,
     "author": "yoavm",
     "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26002657"
@@ -158,66 +150,58 @@
   {
     "title": "Engineering productivity can be measured, just not how you'd expect",
     "url": "https://www.okayhq.com/blog/engineering-productivity-can-be-measured",
-    "upvotes": 103,
+    "upvotes": 113,
     "author": "tomasrb",
-    "comments": 69,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26005758"
   },
   {
     "title": "People Keeping BlackBerry Alive",
     "url": "https://debugger.medium.com/meet-the-people-keeping-blackberry-alive-in-2021-d86ee9ae6634",
-    "upvotes": 120,
+    "upvotes": 125,
     "author": "sharkweek",
-    "comments": 104,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=26004552"
-  },
-  {
-    "title": "EteSync – Secure Data Sync",
-    "url": "https://www.etesync.com/",
-    "upvotes": 119,
-    "author": "wcerfgba",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26005038"
   },
   {
     "title": "Van Gogh hiding at the back of a Toulouse-Lautrec drawing",
     "url": "https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing",
-    "upvotes": 60,
+    "upvotes": 62,
     "author": "antismarm",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26007444"
+  },
+  {
+    "title": "EteSync – Secure Data Sync",
+    "url": "https://www.etesync.com/",
+    "upvotes": 122,
+    "author": "wcerfgba",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26005038"
   },
   {
     "title": "How to write cuneiform",
     "url": "https://blog.britishmuseum.org/how-to-write-cuneiform/",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "diodorus",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=25995623"
   },
   {
+    "title": "A Framework for Writing Better Documentation",
+    "url": "https://documentation.divio.com/",
+    "upvotes": 513,
+    "author": "omginternets",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26002656"
+  },
+  {
     "title": "How Yevgeny Zamyatin shaped dystopian fiction",
     "url": "https://www.newstatesman.com/yevgeny-zamyatin-we-dystopian-novel-review",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "rutenspitz",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=25995803"
-  },
-  {
-    "title": "Behaviours to avoid in a software architecture role",
-    "url": "https://www.danielwatts.info/post/7-behaviours-to-avoid-software-architect/",
-    "upvotes": 190,
-    "author": "geidies",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26002543"
-  },
-  {
-    "title": "Wadge Degrees – The Origin Story",
-    "url": "https://billwadge.wordpress.com/2020/09/07/wadge-degrees-the-origin-story/",
-    "upvotes": 3,
-    "author": "herodotus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=25993887"
   },
   {
     "title": "S100 Computers",
@@ -230,9 +214,25 @@
   {
     "title": "Just because I have a vertical screen doesn’t mean I’m on a phone",
     "url": "https://shkspr.mobi/blog/2021/02/just-because-i-have-a-vertical-screen-doesnt-mean-im-on-a-phone/",
-    "upvotes": 484,
+    "upvotes": 486,
     "author": "edent",
-    "comments": 346,
+    "comments": 347,
     "link": "https://news.ycombinator.com/item?id=26000405"
+  },
+  {
+    "title": "It’s Time for Real Time Settlement",
+    "url": "https://blog.robinhood.com/news/2021/2/2/its-time-for-real-time-settlement",
+    "upvotes": 233,
+    "author": "marc__1",
+    "comments": 366,
+    "link": "https://news.ycombinator.com/item?id=26005457"
+  },
+  {
+    "title": "Academic media censorship conference censored by YouTube?",
+    "url": "https://www.mintpressnews.com/media-censorship-conference-censored-youtube/274918/",
+    "upvotes": 186,
+    "author": "killittosaveit",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=26008217"
   }
 ]
