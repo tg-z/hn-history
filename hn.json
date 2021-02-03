@@ -2,39 +2,39 @@
   {
     "title": "Email from Jeff Bezos to employees",
     "url": "https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees",
-    "upvotes": 1620,
+    "upvotes": 1648,
     "author": "marc__1",
-    "comments": 764,
+    "comments": 780,
     "link": "https://news.ycombinator.com/item?id=26006656"
   },
   {
     "title": "Bluetooth Trackball Mark II",
     "url": "https://blog.jfedor.org/2021/01/bluetooth-trackball-mark-ii.html",
-    "upvotes": 176,
+    "upvotes": 192,
     "author": "mbreese",
-    "comments": 23,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26010237"
-  },
-  {
-    "title": "Product Manager vs. Product Marketing Manager vs. Product Owner",
-    "url": "https://www.damilolaa.xyz/Product-Manager-vs-Product-Marketing-Manager-vs-Product-Owner",
-    "upvotes": 43,
-    "author": "DamilolaA",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26010927"
   },
   {
     "title": "How to Lose Money",
     "url": "https://www.getrevue.co/profile/andrewtye/issues/how-to-lose-money-323332",
-    "upvotes": 47,
+    "upvotes": 74,
     "author": "maverik",
-    "comments": 9,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26010977"
+  },
+  {
+    "title": "Product Manager vs. Product Marketing Manager vs. Product Owner",
+    "url": "https://www.damilolaa.xyz/Product-Manager-vs-Product-Marketing-Manager-vs-Product-Owner",
+    "upvotes": 48,
+    "author": "DamilolaA",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26010927"
   },
   {
     "title": "Donkey: A Highly-Performant HTTP Stack for Clojure",
     "url": "https://www.infoq.com/articles/clojure-donkey-http-stack/",
-    "upvotes": 16,
+    "upvotes": 27,
     "author": "invisiblerobot",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26006841"
@@ -42,34 +42,42 @@
   {
     "title": "What Is Applied Category Theory?",
     "url": "https://arxiv.org/abs/1809.05923",
-    "upvotes": 38,
+    "upvotes": 47,
     "author": "behnamoh",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26011025"
+  },
+  {
+    "title": "Everything you never wanted to know about ANSI escape codes",
+    "url": "https://notes.burke.libbey.me/ansi-escape-codes/",
+    "upvotes": 21,
+    "author": "brendanfalk",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26011198"
   },
   {
     "title": "UCSF team has engineered a tiny antibody capable of neutralizing the coronavirus",
     "url": "https://www.ucsf.edu/magazine/covid-aeronabs",
-    "upvotes": 93,
+    "upvotes": 102,
     "author": "pfd1986",
-    "comments": 16,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26010782"
-  },
-  {
-    "title": "Silence Is a Commons",
-    "url": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
-    "upvotes": 48,
-    "author": "cardamomo",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26007100"
   },
   {
     "title": "SK hynix begins offering samples of 176-layer NAND chip",
     "url": "https://koreajoongangdaily.joins.com/2020/12/07/business/industry/SK-hynix-NAND-Flash/20201207153100497.html",
-    "upvotes": 70,
+    "upvotes": 73,
     "author": "mardiyah",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26009542"
+  },
+  {
+    "title": "Silence Is a Commons",
+    "url": "http://www.davidtinapple.com/illich/1983_silence_commons.html",
+    "upvotes": 55,
+    "author": "cardamomo",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26007100"
   },
   {
     "title": "Memfault",
@@ -78,7 +86,7 @@
   {
     "title": "Bangui magnetic anomaly",
     "url": "https://en.wikipedia.org/wiki/Bangui_magnetic_anomaly",
-    "upvotes": 37,
+    "upvotes": 41,
     "author": "benbreen",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=25997906"
@@ -86,50 +94,58 @@
   {
     "title": "Refactoring the FreeBSD Kernel with Checked C [pdf]",
     "url": "https://cs.rochester.edu/u/jzhou41/papers/freebsd_checkedc.pdf",
-    "upvotes": 146,
+    "upvotes": 150,
     "author": "wglb",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=25989115"
   },
   {
+    "title": "Using State Machines with React to Make a Confirmation Dialog",
+    "url": "https://daveceddia.com/react-confirmation-modal-state-machine/",
+    "upvotes": 61,
+    "author": "dceddia",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=25993624"
+  },
+  {
+    "title": "Sea Levels Are Rising Faster Than Most Pessimistic Forecasts",
+    "url": "https://www.bloomberg.com/news/articles/2021-02-02/sea-levels-are-rising-faster-than-most-pessimistic-forecasts",
+    "upvotes": 14,
+    "author": "xbmcuser",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26011780"
+  },
+  {
+    "title": "Bad TypeScript Habits",
+    "url": "https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/",
+    "upvotes": 208,
+    "author": "jgwil2",
+    "comments": 213,
+    "link": "https://news.ycombinator.com/item?id=26005330"
+  },
+  {
+    "title": "Dante's descendant seeks to overturn poet's 1302 corruption conviction",
+    "url": "https://www.theguardian.com/books/2021/feb/01/dante-descendant-seeks-to-overturn-poets-1302-corruption-conviction",
+    "upvotes": 102,
+    "author": "blegh",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=26006138"
+  },
+  {
     "title": "OpenPLi – Open-Source Set-Top Box Software",
     "url": "https://openpli.org",
-    "upvotes": 26,
+    "upvotes": 27,
     "author": "pacamara619",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26010312"
   },
   {
-    "title": "Using State Machines with React to Make a Confirmation Dialog",
-    "url": "https://daveceddia.com/react-confirmation-modal-state-machine/",
-    "upvotes": 59,
-    "author": "dceddia",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=25993624"
-  },
-  {
-    "title": "Bad TypeScript Habits",
-    "url": "https://startup-cto.net/10-bad-typescript-habits-to-break-this-year/",
-    "upvotes": 202,
-    "author": "jgwil2",
-    "comments": 206,
-    "link": "https://news.ycombinator.com/item?id=26005330"
-  },
-  {
     "title": "Show HN: Archivy – Extensible Self Hosted Knowledge Base – v1 Release",
     "url": "https://archivy.github.io",
-    "upvotes": 123,
+    "upvotes": 125,
     "author": "etherio",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26006731"
-  },
-  {
-    "title": "Dante's descendant seeks to overturn poet's 1302 corruption conviction",
-    "url": "https://www.theguardian.com/books/2021/feb/01/dante-descendant-seeks-to-overturn-poets-1302-corruption-conviction",
-    "upvotes": 100,
-    "author": "blegh",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26006138"
   },
   {
     "title": "What complexity science says about what makes a winning team",
@@ -140,25 +156,25 @@
     "link": "https://news.ycombinator.com/item?id=25993822"
   },
   {
-    "title": "The Enduring Prose and Poetry of Clive James",
-    "url": "https://quadrant.org.au/magazine/2021/01/the-enduring-prose-and-poetry-of-clive-james/",
-    "upvotes": 11,
-    "author": "hoffmanesque",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=25995835"
-  },
-  {
     "title": "Getting better at Linux with mini-projects",
     "url": "https://carltheperson.com/posts/10-things-linux",
-    "upvotes": 874,
+    "upvotes": 882,
     "author": "carltheperson",
     "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26002335"
   },
   {
+    "title": "Indian government orders Twitter to remove contents related to farmers protest",
+    "url": "https://www.ndtv.com/india-news/government-notice-asks-twitter-to-comply-with-order-to-remove-contents-accounts-related-to-hashtags-linked-to-farmers-protest-2362377",
+    "upvotes": 6,
+    "author": "hunter-2",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26011963"
+  },
+  {
     "title": "Launch HN: Zaraz (YC W20) – Use third-party tools without slowing your website",
     "url": "item?id=26002657",
-    "upvotes": 118,
+    "upvotes": 120,
     "author": "yoavm",
     "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26002657"
@@ -166,73 +182,57 @@
   {
     "title": "Engineering productivity can be measured, just not how you'd expect",
     "url": "https://www.okayhq.com/blog/engineering-productivity-can-be-measured",
-    "upvotes": 123,
+    "upvotes": 128,
     "author": "tomasrb",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26005758"
   },
   {
-    "title": "People Keeping BlackBerry Alive",
-    "url": "https://debugger.medium.com/meet-the-people-keeping-blackberry-alive-in-2021-d86ee9ae6634",
-    "upvotes": 131,
-    "author": "sharkweek",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26004552"
+    "title": "GraphScope: A One-Stop Large-Scale Graph Computing System",
+    "url": "https://github.com/alibaba/GraphScope",
+    "upvotes": 8,
+    "author": "sighingnow",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26000243"
+  },
+  {
+    "title": "The Enduring Prose and Poetry of Clive James",
+    "url": "https://quadrant.org.au/magazine/2021/01/the-enduring-prose-and-poetry-of-clive-james/",
+    "upvotes": 13,
+    "author": "hoffmanesque",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=25995835"
   },
   {
     "title": "EteSync – Secure Data Sync",
     "url": "https://www.etesync.com/",
-    "upvotes": 129,
+    "upvotes": 133,
     "author": "wcerfgba",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26005038"
   },
   {
     "title": "Van Gogh hiding at the back of a Toulouse-Lautrec drawing",
     "url": "https://www.theartnewspaper.com/blog/is-van-gogh-hiding-at-the-back-of-a-toulouse-lautrec-drawing",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "antismarm",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26007444"
   },
   {
     "title": "How to write cuneiform",
     "url": "https://blog.britishmuseum.org/how-to-write-cuneiform/",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "diodorus",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=25995623"
   },
   {
     "title": "A Framework for Writing Better Documentation",
     "url": "https://documentation.divio.com/",
-    "upvotes": 528,
+    "upvotes": 538,
     "author": "omginternets",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26002656"
-  },
-  {
-    "title": "How Yevgeny Zamyatin shaped dystopian fiction",
-    "url": "https://www.newstatesman.com/yevgeny-zamyatin-we-dystopian-novel-review",
-    "upvotes": 86,
-    "author": "rutenspitz",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=25995803"
-  },
-  {
-    "title": "S100 Computers",
-    "url": "http://s100computers.com/",
-    "upvotes": 125,
-    "author": "bilegeek",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26004697"
-  },
-  {
-    "title": "Everything you never wanted to know about ANSI escape codes",
-    "url": "https://notes.burke.libbey.me/ansi-escape-codes/",
-    "upvotes": 4,
-    "author": "brendanfalk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26011198"
   }
 ]
