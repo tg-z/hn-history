@@ -2,31 +2,39 @@
   {
     "title": "Computer Graphics from Scratch",
     "url": "https://gabrielgambetta.com/computer-graphics-from-scratch/",
-    "upvotes": 556,
+    "upvotes": 573,
     "author": "AlexeyBrin",
     "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26017086"
   },
   {
+    "title": "Monkey.org",
+    "url": "https://monkey.org/",
+    "upvotes": 56,
+    "author": "kvathupo",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26022289"
+  },
+  {
     "title": "Apache Arrow 3.0",
     "url": "https://arrow.apache.org/blog/2021/01/25/3.0.0-release/",
-    "upvotes": 421,
+    "upvotes": 427,
     "author": "kylebarron",
     "comments": 169,
     "link": "https://news.ycombinator.com/item?id=26018187"
   },
   {
-    "title": "Monkey.org",
-    "url": "https://monkey.org/",
-    "upvotes": 47,
-    "author": "kvathupo",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26022289"
+    "title": "My product is my garden",
+    "url": "https://herman.bearblog.dev/my-product-is-my-garden/",
+    "upvotes": 39,
+    "author": "square_usual",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26012189"
   },
   {
     "title": "DVD Laser Scanner Microscope",
     "url": "https://www.gaudi.ch/GaudiLabs/?page_id=652",
-    "upvotes": 297,
+    "upvotes": 306,
     "author": "_Microft",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26012652"
@@ -34,39 +42,31 @@
   {
     "title": "Google’s approach to replacing the cookie is drawing antitrust scrutiny",
     "url": "https://digiday.com/media/why-googles-approach-to-replacing-the-cookie-is-drawing-antitrust-scrutiny",
-    "upvotes": 259,
+    "upvotes": 271,
     "author": "Manheim",
-    "comments": 215,
+    "comments": 220,
     "link": "https://news.ycombinator.com/item?id=26018928"
-  },
-  {
-    "title": "My product is my garden",
-    "url": "https://herman.bearblog.dev/my-product-is-my-garden/",
-    "upvotes": 21,
-    "author": "square_usual",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26012189"
-  },
-  {
-    "title": "Amazon shortchanged drivers $61.7M in tips",
-    "url": "https://www.washingtonpost.com/technology/2021/02/02/amazon-ftc-tip-settlement/",
-    "upvotes": 176,
-    "author": "ummonk",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=26022159"
   },
   {
     "title": "A Superoptimizer for LLVM IR",
     "url": "https://github.com/google/souper",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "eatonphil",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26020879"
   },
   {
+    "title": "Amazon shortchanged drivers $61.7M in tips",
+    "url": "https://www.washingtonpost.com/technology/2021/02/02/amazon-ftc-tip-settlement/",
+    "upvotes": 186,
+    "author": "ummonk",
+    "comments": 150,
+    "link": "https://news.ycombinator.com/item?id=26022159"
+  },
+  {
     "title": "I converted my demoscene font collection to PNG and put it on GitHub",
     "url": "https://github.com/ianhan/BitmapFonts",
-    "upvotes": 178,
+    "upvotes": 184,
     "author": "ianhanschen",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26019479"
@@ -74,7 +74,7 @@
   {
     "title": "Spanish crew shot an alternative Dracula after Bela Lugosi had gone to bed",
     "url": "https://www.theguardian.com/film/2021/feb/03/they-came-at-night-how-a-spanish-crew-shot-an-alternative-dracula-after-bela-lugosi-had-gone-to-bed",
-    "upvotes": 96,
+    "upvotes": 100,
     "author": "samizdis",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26012623"
@@ -82,26 +82,10 @@
   {
     "title": "Bill Evans – The Creative Process and Self-Teaching",
     "url": "https://www.youtube.com/watch?v=YEHWaGuurUk",
-    "upvotes": 133,
+    "upvotes": 139,
     "author": "jeremiecoullon",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25999692"
-  },
-  {
-    "title": "Building in Public Definite Guide: Use Transparency to Win",
-    "url": "https://kevoncheung.com/building-in-public",
-    "upvotes": 10,
-    "author": "kevonc",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26013193"
-  },
-  {
-    "title": "Killing Containers at Scale",
-    "url": "https://blog.repl.it/killing-containers-at-scale",
-    "upvotes": 53,
-    "author": "flurly",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26007428"
   },
   {
     "title": "Asdf – An Extendable Version Manager",
@@ -112,20 +96,44 @@
     "link": "https://news.ycombinator.com/item?id=26018684"
   },
   {
+    "title": "Killing Containers at Scale",
+    "url": "https://blog.repl.it/killing-containers-at-scale",
+    "upvotes": 55,
+    "author": "flurly",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26007428"
+  },
+  {
     "title": "Threadripper 3990X: The Quest To Compile 1B Lines Of C++ On 64 Cores",
     "url": "https://blogs.embarcadero.com/threadripper-3990x-the-quest-to-compile-1-billion-lines-of-c-on-64-cores/",
-    "upvotes": 202,
+    "upvotes": 205,
     "author": "fmxexpress",
-    "comments": 145,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=26016638"
+  },
+  {
+    "title": "Building in Public Definite Guide: Use Transparency to Win",
+    "url": "https://kevoncheung.com/building-in-public",
+    "upvotes": 10,
+    "author": "kevonc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26013193"
   },
   {
     "title": "Show HN: YTT Tech – My curated database of instructional YouTube Videos",
     "url": "https://ytt-tech.com",
-    "upvotes": 138,
+    "upvotes": 140,
     "author": "jrowen",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26018098"
+  },
+  {
+    "title": "Parler CEO says he was fired by board",
+    "url": "https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC",
+    "upvotes": 193,
+    "author": "mrzimmerman",
+    "comments": 250,
+    "link": "https://news.ycombinator.com/item?id=26021191"
   },
   {
     "title": "Relationship Hero",
@@ -134,79 +142,79 @@
   {
     "title": "The world is full of wasted motion",
     "url": "https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "stanislavb",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26007971"
-  },
-  {
-    "title": "Parler CEO says he was fired by board",
-    "url": "https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC",
-    "upvotes": 184,
-    "author": "mrzimmerman",
-    "comments": 236,
-    "link": "https://news.ycombinator.com/item?id=26021191"
   },
   {
     "title": "RNA Memory Hypothesis",
     "url": "https://scottlocklin.wordpress.com/2021/02/03/rna-memory-hypothesis/",
-    "upvotes": 122,
+    "upvotes": 124,
     "author": "nahuel0x",
-    "comments": 69,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26013217"
   },
   {
     "title": "Myths of Vaccine Manufacturing",
     "url": "https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing",
-    "upvotes": 189,
+    "upvotes": 193,
     "author": "undefined1",
-    "comments": 166,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=26014616"
   },
   {
     "title": "Show HN: Egyptian Ratscrew Online",
     "url": "https://playcards.club",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "eric2021",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26021065"
   },
   {
-    "title": "Beam has raised $9.5M to reinvent the browser",
-    "url": "https://sifted.eu/articles/beam/",
-    "upvotes": 95,
-    "author": "cpeterso",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=26018285"
-  },
-  {
     "title": "Arbtt: an automatic, rule-based time-tracker",
     "url": "http://arbtt.nomeata.de/#what",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "HaoZeke",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26021047"
   },
   {
-    "title": "I Still Use RSS",
-    "url": "https://atthis.link/blog/2021/rss.html",
-    "upvotes": 715,
-    "author": "todsacerdoti",
-    "comments": 257,
-    "link": "https://news.ycombinator.com/item?id=26014344"
+    "title": "Beam has raised $9.5M to reinvent the browser",
+    "url": "https://sifted.eu/articles/beam/",
+    "upvotes": 98,
+    "author": "cpeterso",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=26018285"
   },
   {
     "title": "Cargo Cult Software Engineering",
     "url": "https://stevemcconnell.com/articles/cargo-cult-software-engineering/",
-    "upvotes": 178,
+    "upvotes": 181,
     "author": "srirangr",
-    "comments": 107,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26016890"
+  },
+  {
+    "title": "I Still Use RSS",
+    "url": "https://atthis.link/blog/2021/rss.html",
+    "upvotes": 723,
+    "author": "todsacerdoti",
+    "comments": 260,
+    "link": "https://news.ycombinator.com/item?id=26014344"
+  },
+  {
+    "title": "Free Music for Your Videos",
+    "url": "https://www.audiak.com/",
+    "upvotes": 6,
+    "author": "qguiller",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26022635"
   },
   {
     "title": "The mathematics of shuffling",
     "url": "https://plus.maths.org/content/mathematics-shuffling",
-    "upvotes": 77,
+    "upvotes": 79,
     "author": "onepossibility",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26018805"
@@ -226,13 +234,5 @@
     "author": "sond813",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26014180"
-  },
-  {
-    "title": "Proposal for an App History API",
-    "url": "https://github.com/WICG/proposals/issues/20",
-    "upvotes": 46,
-    "author": "dfabulich",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26018767"
   }
 ]
