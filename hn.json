@@ -2,47 +2,55 @@
   {
     "title": "Datatype99: C99 with Sum Types, v0.1.0",
     "url": "https://github.com/Hirrolot/datatype99",
-    "upvotes": 51,
+    "upvotes": 56,
     "author": "Hirrolot",
-    "comments": 6,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26024482"
   },
   {
     "title": "The visitor pattern is essentially the same thing as Church encoding",
     "url": "https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html",
-    "upvotes": 83,
+    "upvotes": 90,
     "author": "lelf",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26024085"
   },
   {
     "title": "My product is my garden",
     "url": "https://herman.bearblog.dev/my-product-is-my-garden/",
-    "upvotes": 379,
+    "upvotes": 390,
     "author": "square_usual",
-    "comments": 71,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26012189"
   },
   {
     "title": "A tool to create slides using Markdown easily for you",
     "url": "https://github.com/hiroppy/fusuma",
-    "upvotes": 19,
+    "upvotes": 22,
     "author": "hiroppy",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26024541"
   },
   {
-    "title": "Monkey.org",
-    "url": "https://monkey.org/",
-    "upvotes": 128,
-    "author": "kvathupo",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26022289"
+    "title": "Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses",
+    "url": "https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/",
+    "upvotes": 10,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26024719"
+  },
+  {
+    "title": "An open-source AirPlay mirroring server for the Raspberry Pi",
+    "url": "https://github.com/FD-/RPiPlay",
+    "upvotes": 22,
+    "author": "chetangoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26024316"
   },
   {
     "title": "GNSS Jamming and Spoofing – Galileo's Authentication Algorithm Part 3",
     "url": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-3/",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "oritsnile",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26024421"
@@ -54,63 +62,63 @@
   {
     "title": "Gravesites of Architects",
     "url": "https://thereader.mitpress.mit.edu/a-guide-to-the-gravesites-of-architects/",
-    "upvotes": 20,
+    "upvotes": 24,
     "author": "apophatic",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26018775"
   },
   {
+    "title": "Monkey.org",
+    "url": "https://monkey.org/",
+    "upvotes": 131,
+    "author": "kvathupo",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=26022289"
+  },
+  {
+    "title": "Some Proteins Change Their Folds to Perform Different Jobs",
+    "url": "https://www.quantamagazine.org/metamorphic-proteins-change-their-folds-for-different-jobs-20210203/",
+    "upvotes": 5,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26024589"
+  },
+  {
     "title": "Intel Processor Names, Numbers and Generation List",
     "url": "https://www.intel.com/content/www/us/en/processors/processor-numbers.html",
-    "upvotes": 31,
+    "upvotes": 36,
     "author": "todsacerdoti",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26012829"
   },
   {
-    "title": "I converted my demoscene font collection to PNG and put it on GitHub",
-    "url": "https://github.com/ianhan/BitmapFonts",
-    "upvotes": 298,
-    "author": "ianhanschen",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=26019479"
-  },
-  {
     "title": "Spanish crew shot an alternative Dracula after Bela Lugosi had gone to bed",
     "url": "https://www.theguardian.com/film/2021/feb/03/they-came-at-night-how-a-spanish-crew-shot-an-alternative-dracula-after-bela-lugosi-had-gone-to-bed",
-    "upvotes": 149,
+    "upvotes": 150,
     "author": "samizdis",
-    "comments": 51,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26012623"
   },
   {
     "title": "China promotes education drive to make boys more 'manly'",
     "url": "https://www.bbc.com/news/world-asia-china-55926248",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "jnord",
-    "comments": 16,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26024529"
-  },
-  {
-    "title": "An open-source AirPlay mirroring server for the Raspberry Pi",
-    "url": "https://github.com/FD-/RPiPlay",
-    "upvotes": 6,
-    "author": "chetangoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26024316"
   },
   {
     "title": "A Superoptimizer for LLVM IR",
     "url": "https://github.com/google/souper",
-    "upvotes": 117,
+    "upvotes": 119,
     "author": "eatonphil",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26020879"
   },
   {
     "title": "Killing Containers at Scale",
     "url": "https://blog.repl.it/killing-containers-at-scale",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "flurly",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26007428"
@@ -118,34 +126,34 @@
   {
     "title": "Google’s approach to replacing the cookie is drawing antitrust scrutiny",
     "url": "https://digiday.com/media/why-googles-approach-to-replacing-the-cookie-is-drawing-antitrust-scrutiny",
-    "upvotes": 397,
+    "upvotes": 399,
     "author": "Manheim",
-    "comments": 283,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=26018928"
   },
   {
     "title": "Computer Graphics from Scratch",
     "url": "https://gabrielgambetta.com/computer-graphics-from-scratch/",
-    "upvotes": 698,
+    "upvotes": 701,
     "author": "AlexeyBrin",
-    "comments": 103,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=26017086"
-  },
-  {
-    "title": "Building in Public Definite Guide: Use Transparency to Win",
-    "url": "https://kevoncheung.com/building-in-public",
-    "upvotes": 36,
-    "author": "kevonc",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26013193"
   },
   {
     "title": "I Still Use RSS",
     "url": "https://atthis.link/blog/2021/rss.html",
-    "upvotes": 843,
+    "upvotes": 846,
     "author": "todsacerdoti",
-    "comments": 287,
+    "comments": 289,
     "link": "https://news.ycombinator.com/item?id=26014344"
+  },
+  {
+    "title": "Building in Public Definite Guide: Use Transparency to Win",
+    "url": "https://kevoncheung.com/building-in-public",
+    "upvotes": 37,
+    "author": "kevonc",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26013193"
   },
   {
     "title": "Robert Caro and Kurt Vonnegut interview each other",
@@ -156,25 +164,25 @@
     "link": "https://news.ycombinator.com/item?id=26018824"
   },
   {
-    "title": "You Don't Need a Virtualenv",
-    "url": "https://frostming.com/2021/01-22/introducing-pdm/",
-    "upvotes": 81,
-    "author": "gilad",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26020732"
-  },
-  {
     "title": "DVD Laser Scanner Microscope",
     "url": "https://www.gaudi.ch/GaudiLabs/?page_id=652",
-    "upvotes": 425,
+    "upvotes": 430,
     "author": "_Microft",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26012652"
   },
   {
+    "title": "You don't really need a virtualenv",
+    "url": "https://frostming.com/2021/01-22/introducing-pdm/",
+    "upvotes": 88,
+    "author": "gilad",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26020732"
+  },
+  {
     "title": "The world is full of wasted motion",
     "url": "https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "stanislavb",
     "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26007971"
@@ -182,7 +190,7 @@
   {
     "title": "Apache Arrow 3.0",
     "url": "https://arrow.apache.org/blog/2021/01/25/3.0.0-release/",
-    "upvotes": 497,
+    "upvotes": 499,
     "author": "kylebarron",
     "comments": 182,
     "link": "https://news.ycombinator.com/item?id=26018187"
@@ -190,49 +198,41 @@
   {
     "title": "Parler CEO says he was fired by board",
     "url": "https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC",
-    "upvotes": 252,
+    "upvotes": 253,
     "author": "mrzimmerman",
-    "comments": 365,
+    "comments": 370,
     "link": "https://news.ycombinator.com/item?id=26021191"
-  },
-  {
-    "title": "Launch HN: Emerge (YC W21) – Monitor and reduce iOS app size",
-    "url": "item?id=26014180",
-    "upvotes": 99,
-    "author": "sond813",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26014180"
-  },
-  {
-    "title": "The Atrocious Robert Clive",
-    "url": "https://www.guernicamag.com/another-atrocious-man-named-clive/",
-    "upvotes": 17,
-    "author": "dearwell",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26018853"
   },
   {
     "title": "Free Music for Your Videos",
     "url": "https://www.audiak.com/",
-    "upvotes": 55,
+    "upvotes": 60,
     "author": "qguiller",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26022635"
   },
   {
-    "title": "Proposal for an App History API",
-    "url": "https://github.com/WICG/proposals/issues/20",
-    "upvotes": 58,
-    "author": "dfabulich",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26018767"
+    "title": "The Atrocious Robert Clive",
+    "url": "https://www.guernicamag.com/another-atrocious-man-named-clive/",
+    "upvotes": 18,
+    "author": "dearwell",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26018853"
   },
   {
-    "title": "Email from Jeff Bezos to employees",
-    "url": "https://www.aboutamazon.com/news/company-news/email-from-jeff-bezos-to-employees",
-    "upvotes": 1906,
-    "author": "marc__1",
-    "comments": 976,
-    "link": "https://news.ycombinator.com/item?id=26006656"
+    "title": "Launch HN: Emerge (YC W21) – Monitor and reduce iOS app size",
+    "url": "item?id=26014180",
+    "upvotes": 100,
+    "author": "sond813",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26014180"
+  },
+  {
+    "title": "I converted my demoscene font collection to PNG and put it on GitHub",
+    "url": "https://github.com/ianhan/BitmapFonts",
+    "upvotes": 303,
+    "author": "ianhanschen",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=26019479"
   }
 ]
