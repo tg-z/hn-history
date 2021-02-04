@@ -2,31 +2,31 @@
   {
     "title": "My product is my garden",
     "url": "https://herman.bearblog.dev/my-product-is-my-garden/",
-    "upvotes": 76,
+    "upvotes": 121,
     "author": "square_usual",
-    "comments": 5,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26012189"
   },
   {
     "title": "Computer Graphics from Scratch",
     "url": "https://gabrielgambetta.com/computer-graphics-from-scratch/",
-    "upvotes": 594,
+    "upvotes": 604,
     "author": "AlexeyBrin",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26017086"
   },
   {
     "title": "Google’s approach to replacing the cookie is drawing antitrust scrutiny",
     "url": "https://digiday.com/media/why-googles-approach-to-replacing-the-cookie-is-drawing-antitrust-scrutiny",
-    "upvotes": 284,
+    "upvotes": 294,
     "author": "Manheim",
-    "comments": 224,
+    "comments": 230,
     "link": "https://news.ycombinator.com/item?id=26018928"
   },
   {
     "title": "Apache Arrow 3.0",
     "url": "https://arrow.apache.org/blog/2021/01/25/3.0.0-release/",
-    "upvotes": 435,
+    "upvotes": 442,
     "author": "kylebarron",
     "comments": 170,
     "link": "https://news.ycombinator.com/item?id=26018187"
@@ -34,7 +34,7 @@
   {
     "title": "DVD Laser Scanner Microscope",
     "url": "https://www.gaudi.ch/GaudiLabs/?page_id=652",
-    "upvotes": 316,
+    "upvotes": 327,
     "author": "_Microft",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26012652"
@@ -42,71 +42,63 @@
   {
     "title": "A Superoptimizer for LLVM IR",
     "url": "https://github.com/google/souper",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "eatonphil",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26020879"
   },
   {
     "title": "I converted my demoscene font collection to PNG and put it on GitHub",
     "url": "https://github.com/ianhan/BitmapFonts",
-    "upvotes": 196,
+    "upvotes": 208,
     "author": "ianhanschen",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26019479"
   },
   {
     "title": "Spanish crew shot an alternative Dracula after Bela Lugosi had gone to bed",
     "url": "https://www.theguardian.com/film/2021/feb/03/they-came-at-night-how-a-spanish-crew-shot-an-alternative-dracula-after-bela-lugosi-had-gone-to-bed",
-    "upvotes": 105,
+    "upvotes": 111,
     "author": "samizdis",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26012623"
   },
   {
-    "title": "Amazon shortchanged drivers $61.7M in tips",
-    "url": "https://www.washingtonpost.com/technology/2021/02/02/amazon-ftc-tip-settlement/",
-    "upvotes": 203,
-    "author": "ummonk",
-    "comments": 170,
-    "link": "https://news.ycombinator.com/item?id=26022159"
+    "title": "Asdf – An Extendable Version Manager",
+    "url": "https://asdf-vm.com/",
+    "upvotes": 197,
+    "author": "BerislavLopac",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26018684"
+  },
+  {
+    "title": "Monkey.org",
+    "url": "https://monkey.org/",
+    "upvotes": 65,
+    "author": "kvathupo",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26022289"
   },
   {
     "title": "Bill Evans – The Creative Process and Self-Teaching",
     "url": "https://www.youtube.com/watch?v=YEHWaGuurUk",
-    "upvotes": 144,
+    "upvotes": 149,
     "author": "jeremiecoullon",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=25999692"
   },
   {
-    "title": "Monkey.org",
-    "url": "https://monkey.org/",
-    "upvotes": 63,
-    "author": "kvathupo",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26022289"
-  },
-  {
-    "title": "Asdf – An Extendable Version Manager",
-    "url": "https://asdf-vm.com/",
-    "upvotes": 192,
-    "author": "BerislavLopac",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=26018684"
-  },
-  {
     "title": "Threadripper 3990X: The Quest To Compile 1B Lines Of C++ On 64 Cores",
     "url": "https://blogs.embarcadero.com/threadripper-3990x-the-quest-to-compile-1-billion-lines-of-c-on-64-cores/",
-    "upvotes": 209,
+    "upvotes": 212,
     "author": "fmxexpress",
-    "comments": 148,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26016638"
   },
   {
     "title": "Killing Containers at Scale",
     "url": "https://blog.repl.it/killing-containers-at-scale",
-    "upvotes": 57,
+    "upvotes": 59,
     "author": "flurly",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26007428"
@@ -114,99 +106,107 @@
   {
     "title": "Show HN: YTT Tech – My curated database of instructional YouTube Videos",
     "url": "https://ytt-tech.com",
-    "upvotes": 146,
+    "upvotes": 150,
     "author": "jrowen",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26018098"
+  },
+  {
+    "title": "Amazon shortchanged drivers $61.7M in tips",
+    "url": "https://www.washingtonpost.com/technology/2021/02/02/amazon-ftc-tip-settlement/",
+    "upvotes": 211,
+    "author": "ummonk",
+    "comments": 188,
+    "link": "https://news.ycombinator.com/item?id=26022159"
+  },
+  {
+    "title": "Parler CEO says he was fired by board",
+    "url": "https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC",
+    "upvotes": 203,
+    "author": "mrzimmerman",
+    "comments": 285,
+    "link": "https://news.ycombinator.com/item?id=26021191"
   },
   {
     "title": "The world is full of wasted motion",
     "url": "https://www.neelnanda.io/blog/mini-blog-post-22-the-8020-rule",
-    "upvotes": 74,
+    "upvotes": 78,
     "author": "stanislavb",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26007971"
   },
   {
-    "title": "Robert Caro and Kurt Vonnegut interview each other",
-    "url": "https://www.robertcaro.com/interview-with-kurt-vonnegut/",
-    "upvotes": 44,
-    "author": "smollett",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26018824"
+    "title": "RNA Memory Hypothesis",
+    "url": "https://scottlocklin.wordpress.com/2021/02/03/rna-memory-hypothesis/",
+    "upvotes": 129,
+    "author": "nahuel0x",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=26013217"
   },
   {
-    "title": "Parler CEO says he was fired by board",
-    "url": "https://www.reuters.com/article/ctech-us-parler-ceo-idCAKBN2A33B0-OCATC",
-    "upvotes": 196,
-    "author": "mrzimmerman",
-    "comments": 271,
-    "link": "https://news.ycombinator.com/item?id=26021191"
+    "title": "Robert Caro and Kurt Vonnegut interview each other",
+    "url": "https://www.robertcaro.com/interview-with-kurt-vonnegut/",
+    "upvotes": 45,
+    "author": "smollett",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26018824"
   },
   {
     "title": "Relationship Hero",
     "url": "https://relationshiphero.com/careers?role=coach"
   },
   {
+    "title": "Myths of Vaccine Manufacturing",
+    "url": "https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing",
+    "upvotes": 199,
+    "author": "undefined1",
+    "comments": 180,
+    "link": "https://news.ycombinator.com/item?id=26014616"
+  },
+  {
     "title": "Building in Public Definite Guide: Use Transparency to Win",
     "url": "https://kevoncheung.com/building-in-public",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "kevonc",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26013193"
   },
   {
-    "title": "RNA Memory Hypothesis",
-    "url": "https://scottlocklin.wordpress.com/2021/02/03/rna-memory-hypothesis/",
-    "upvotes": 127,
-    "author": "nahuel0x",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=26013217"
-  },
-  {
-    "title": "Myths of Vaccine Manufacturing",
-    "url": "https://blogs.sciencemag.org/pipeline/archives/2021/02/02/myths-of-vaccine-manufacturing",
-    "upvotes": 195,
-    "author": "undefined1",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=26014616"
+    "title": "Free Music for Your Videos",
+    "url": "https://www.audiak.com/",
+    "upvotes": 15,
+    "author": "qguiller",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26022635"
   },
   {
     "title": "Beam has raised $9.5M to reinvent the browser",
     "url": "https://sifted.eu/articles/beam/",
-    "upvotes": 101,
+    "upvotes": 103,
     "author": "cpeterso",
-    "comments": 115,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=26018285"
   },
   {
     "title": "I Still Use RSS",
     "url": "https://atthis.link/blog/2021/rss.html",
-    "upvotes": 737,
+    "upvotes": 749,
     "author": "todsacerdoti",
-    "comments": 260,
+    "comments": 266,
     "link": "https://news.ycombinator.com/item?id=26014344"
   },
   {
     "title": "Cargo Cult Software Engineering",
     "url": "https://stevemcconnell.com/articles/cargo-cult-software-engineering/",
-    "upvotes": 183,
+    "upvotes": 184,
     "author": "srirangr",
     "comments": 109,
     "link": "https://news.ycombinator.com/item?id=26016890"
   },
   {
-    "title": "Free Music for Your Videos",
-    "url": "https://www.audiak.com/",
-    "upvotes": 10,
-    "author": "qguiller",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26022635"
-  },
-  {
     "title": "The mathematics of shuffling",
     "url": "https://plus.maths.org/content/mathematics-shuffling",
-    "upvotes": 82,
+    "upvotes": 83,
     "author": "onepossibility",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26018805"
@@ -214,25 +214,25 @@
   {
     "title": "Show HN: Egyptian Ratscrew Online",
     "url": "https://playcards.club",
-    "upvotes": 31,
+    "upvotes": 34,
     "author": "eric2021",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26021065"
   },
   {
-    "title": "Service end for Bintray, JCenter, GoCenter, and ChartCenter",
-    "url": "https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/",
-    "upvotes": 92,
-    "author": "Rapzid",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26016505"
-  },
-  {
     "title": "Launch HN: Emerge (YC W21) – Monitor and reduce iOS app size",
     "url": "item?id=26014180",
-    "upvotes": 90,
+    "upvotes": 92,
     "author": "sond813",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26014180"
+  },
+  {
+    "title": "Service end for Bintray, JCenter, GoCenter, and ChartCenter",
+    "url": "https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/",
+    "upvotes": 93,
+    "author": "Rapzid",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26016505"
   }
 ]
