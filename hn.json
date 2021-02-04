@@ -1,96 +1,92 @@
 [
   {
+    "title": "Help users in Iran reconnect to Signal",
+    "url": "https://signal.org/blog/help-iran-reconnect/",
+    "upvotes": 143,
+    "author": "arkadiyt",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26026994"
+  },
+  {
+    "title": "Native Mac APIs for Go",
+    "url": "https://github.com/progrium/macdriver",
+    "upvotes": 80,
+    "author": "maydemir",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26026896"
+  },
+  {
     "title": "Rust-Analyzer Architecture",
     "url": "https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md",
-    "upvotes": 72,
+    "upvotes": 103,
     "author": "ibraheemdev",
-    "comments": 11,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26026309"
   },
   {
     "title": "McKinsey to pay $573M to settle claims over opioid crisis role: source",
     "url": "https://www.reuters.com/article/us-usa-mckinsey-idUSKBN2A405Q",
-    "upvotes": 239,
+    "upvotes": 280,
     "author": "onetimemanytime",
-    "comments": 188,
+    "comments": 223,
     "link": "https://news.ycombinator.com/item?id=26024768"
   },
   {
-    "title": "Native Mac APIs for Go",
-    "url": "https://github.com/progrium/macdriver",
-    "upvotes": 20,
-    "author": "maydemir",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26026896"
-  },
-  {
-    "title": "Newly Active 250Tbps Subsea Cable – The Google Cloud Dunant Cable",
-    "url": "https://cloud.google.com/blog/products/infrastructure/googles-dunant-subsea-cable-is-now-ready-for-service",
-    "upvotes": 138,
-    "author": "johannesboyne",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=26024917"
-  },
-  {
-    "title": "Help users in Iran reconnect to Signal",
-    "url": "https://signal.org/blog/help-iran-reconnect/",
-    "upvotes": 13,
-    "author": "arkadiyt",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26026994"
-  },
-  {
-    "title": "Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses",
-    "url": "https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/",
-    "upvotes": 174,
-    "author": "todsacerdoti",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26024719"
-  },
-  {
-    "title": "Localize your cat at home with BLE beacon, ESP32s, and Machine Learning",
-    "url": "https://github.com/filipsPL/cat-localizer",
-    "upvotes": 58,
-    "author": "lormayna",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26024049"
+    "title": "Source Code Is Worthless",
+    "url": "https://hiringengineersbook.com/post/autonomy",
+    "upvotes": 23,
+    "author": "cloogshicer",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26027448"
   },
   {
     "title": "Godot Shaders: View and Share Shaders for Godot",
     "url": "https://godotshaders.com/",
-    "upvotes": 27,
+    "upvotes": 63,
     "author": "bananaoomarang",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26025742"
   },
   {
-    "title": "$1,944 for a Coronavirus Test? Readers Helped Us Spot an Unusual Trend",
-    "url": "https://www.nytimes.com/2020/11/10/insider/readers-medical-bills-doctor.html",
-    "upvotes": 48,
-    "author": "prostoalex",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26026495"
+    "title": "PocketSuite",
+    "url": "https://www.workatastartup.com/jobs/1084"
   },
   {
-    "title": "Launch HN: Tint (YC W21) – Embed insurance into any product",
-    "url": "item?id=26026526",
-    "upvotes": 31,
-    "author": "mriolfi",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26026526"
+    "title": "Localize your cat at home with BLE beacon, ESP32s, and Machine Learning",
+    "url": "https://github.com/filipsPL/cat-localizer",
+    "upvotes": 85,
+    "author": "lormayna",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26024049"
+  },
+  {
+    "title": "Newly Active 250Tbps Subsea Cable – The Google Cloud Dunant Cable",
+    "url": "https://cloud.google.com/blog/products/infrastructure/googles-dunant-subsea-cable-is-now-ready-for-service",
+    "upvotes": 157,
+    "author": "johannesboyne",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=26024917"
+  },
+  {
+    "title": "Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses",
+    "url": "https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/",
+    "upvotes": 196,
+    "author": "todsacerdoti",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26024719"
   },
   {
     "title": "Collection of Human Interface and Software Design Guides",
     "url": "http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "ingve",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26025339"
   },
   {
     "title": "Weave.jl – Scientific Reports Using Julia",
     "url": "https://weavejl.mpastell.com/stable/",
-    "upvotes": 69,
+    "upvotes": 81,
     "author": "phillc73",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26025265"
@@ -98,141 +94,145 @@
   {
     "title": "Datatype99: C99 with Sum Types, v0.1.0",
     "url": "https://github.com/Hirrolot/datatype99",
-    "upvotes": 118,
+    "upvotes": 127,
     "author": "Hirrolot",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26024482"
   },
   {
     "title": "My product is my garden",
     "url": "https://herman.bearblog.dev/my-product-is-my-garden/",
-    "upvotes": 574,
+    "upvotes": 591,
     "author": "square_usual",
-    "comments": 111,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26012189"
   },
   {
     "title": "Machine Learning, Kolmogorov Complexity, and Squishy Bunnies",
     "url": "http://www.theorangeduck.com/page/machine-learning-kolmogorov-complexity-squishy-bunnies",
-    "upvotes": 22,
+    "upvotes": 29,
     "author": "coolvision",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26026182"
   },
   {
-    "title": "Carupi",
-    "url": "https://www.workatastartup.com/jobs/41980"
+    "title": "A better way to build ML: Why you should be using Active Learning",
+    "url": "https://humanloop.com/blog/why-you-should-be-using-active-learning/",
+    "upvotes": 12,
+    "author": "razcle",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26026949"
   },
   {
-    "title": "Want to Get Out Alive? Follow the Ants",
-    "url": "https://nautil.us/issue/95/escape/want-to-get-out-alive-follow-the-ants-rpr",
-    "upvotes": 20,
-    "author": "dnetesn",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26012814"
-  },
-  {
-    "title": "An open-source AirPlay mirroring server for the Raspberry Pi",
-    "url": "https://github.com/FD-/RPiPlay",
-    "upvotes": 124,
-    "author": "chetangoti",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26024316"
-  },
-  {
-    "title": "Some Proteins Change Their Folds to Perform Different Jobs",
-    "url": "https://www.quantamagazine.org/metamorphic-proteins-change-their-folds-for-different-jobs-20210203/",
-    "upvotes": 55,
-    "author": "pseudolus",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26024589"
-  },
-  {
-    "title": "The visitor pattern is essentially the same thing as Church encoding",
-    "url": "https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html",
-    "upvotes": 145,
-    "author": "lelf",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26024085"
+    "title": "Launch HN: Tint (YC W21) – Embed insurance into any product",
+    "url": "item?id=26026526",
+    "upvotes": 42,
+    "author": "mriolfi",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26026526"
   },
   {
     "title": "How the Brain Responds to Beauty",
     "url": "https://www.scientificamerican.com/article/how-the-brain-responds-to-beauty/",
-    "upvotes": 8,
+    "upvotes": 19,
     "author": "apollinaire",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26017889"
   },
   {
+    "title": "Desirable Streets – where do people prefer to walk?",
+    "url": "https://senseable.mit.edu/desirable-streets/",
+    "upvotes": 18,
+    "author": "sebg",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26026789"
+  },
+  {
+    "title": "Want to Get Out Alive? Follow the Ants",
+    "url": "https://nautil.us/issue/95/escape/want-to-get-out-alive-follow-the-ants-rpr",
+    "upvotes": 26,
+    "author": "dnetesn",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26012814"
+  },
+  {
+    "title": "An open-source AirPlay mirroring server for the Raspberry Pi",
+    "url": "https://github.com/FD-/RPiPlay",
+    "upvotes": 130,
+    "author": "chetangoti",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=26024316"
+  },
+  {
+    "title": "The visitor pattern is essentially the same thing as Church encoding",
+    "url": "https://www.haskellforall.com/2021/01/the-visitor-pattern-is-essentially-same.html",
+    "upvotes": 149,
+    "author": "lelf",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=26024085"
+  },
+  {
+    "title": "Some Proteins Change Their Folds to Perform Different Jobs",
+    "url": "https://www.quantamagazine.org/metamorphic-proteins-change-their-folds-for-different-jobs-20210203/",
+    "upvotes": 61,
+    "author": "pseudolus",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26024589"
+  },
+  {
     "title": "Improving texture atlas allocation in WebRender",
     "url": "https://nical.github.io/posts/etagere.html",
-    "upvotes": 32,
+    "upvotes": 40,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26025053"
   },
   {
+    "title": "Amazon Is Forcing Its Warehouse Workers into Brutal 'Megacycle' Shifts",
+    "url": "https://www.vice.com/en/article/y3gk3w/amazon-is-forcing-its-warehouse-workers-into-brutal-megacycle-shifts",
+    "upvotes": 46,
+    "author": "dsr12",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26026799"
+  },
+  {
     "title": "A tool to create slides using Markdown easily for you",
     "url": "https://github.com/hiroppy/fusuma",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "hiroppy",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26024541"
   },
   {
-    "title": "How to Win at the Stock Market by Being Lazy",
-    "url": "http://web.archive.org/web/20210204101314/https://www.nytimes.com/2021/02/04/upshot/stock-market-winning-strategy.html",
-    "upvotes": 37,
-    "author": "1PlayerOne",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26026769"
+    "title": "$1,944 for a Coronavirus Test? Readers Helped Us Spot an Unusual Trend",
+    "url": "https://www.nytimes.com/2020/11/10/insider/readers-medical-bills-doctor.html",
+    "upvotes": 82,
+    "author": "prostoalex",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=26026495"
   },
   {
-    "title": "Desirable Streets – where do people prefer to walk?",
-    "url": "https://senseable.mit.edu/desirable-streets/",
-    "upvotes": 9,
-    "author": "sebg",
+    "title": "HBO Max is failing the classic Tom and Jerry",
+    "url": "https://medium.com/fan-fare/hbo-max-is-failing-the-classic-tom-and-jerry-57b86117b57d",
+    "upvotes": 16,
+    "author": "georgecmu",
     "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26026789"
-  },
-  {
-    "title": "GNSS Jamming and Spoofing – Galileo's Authentication Algorithm Part 3",
-    "url": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-3/",
-    "upvotes": 32,
-    "author": "oritsnile",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26024421"
+    "link": "https://news.ycombinator.com/item?id=26027001"
   },
   {
     "title": "Is __int128 Integral? A Survey",
     "url": "https://quuxplusone.github.io/blog/2019/02/28/is-int128-integral/",
-    "upvotes": 21,
+    "upvotes": 27,
     "author": "ingve",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26025117"
   },
   {
-    "title": "Delicious back online in read-only mode",
-    "url": "https://twitter.com/Delicious/status/1357065549436518400",
-    "upvotes": 58,
-    "author": "ChrisArchitect",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26025629"
-  },
-  {
-    "title": "Clover Health: How Chamath Lured Retail Investors into a Broken Business",
-    "url": "https://hindenburgresearch.com/clover/",
-    "upvotes": 91,
-    "author": "nceqs3",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26025654"
-  },
-  {
-    "title": "The APL Orchard",
-    "url": "https://www.dyalog.com/blog/2021/02/the-apl-orchard/",
-    "upvotes": 14,
-    "author": "lelf",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26025156"
+    "title": "GNSS Jamming and Spoofing – Galileo's Authentication Algorithm Part 3",
+    "url": "https://berthub.eu/articles/posts/galileos-authentication-algorithm-part-3/",
+    "upvotes": 33,
+    "author": "oritsnile",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26024421"
   }
 ]
