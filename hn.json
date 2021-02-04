@@ -2,66 +2,74 @@
   {
     "title": "Help users in Iran reconnect to Signal",
     "url": "https://signal.org/blog/help-iran-reconnect/",
-    "upvotes": 647,
+    "upvotes": 674,
     "author": "arkadiyt",
-    "comments": 216,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=26026994"
+  },
+  {
+    "title": "The Shocking Meltdown of Ample Hills",
+    "url": "https://marker.medium.com/the-shocking-meltdown-of-ample-hills-brooklyns-hottest-ice-cream-company-66b27dc1791d",
+    "upvotes": 16,
+    "author": "JackFr",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26030182"
+  },
+  {
+    "title": "Now pip runs on a Python interpreter rewritten from scratch in rust",
+    "url": "https://rustpython.github.io/featured/2021/01/26/pip-support.html",
+    "upvotes": 27,
+    "author": "andrew-ld",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26030269"
+  },
+  {
+    "title": "New report on Apple’s VR headset: 8K in each eye, potential $3k price tag",
+    "url": "https://arstechnica.com/gadgets/2021/02/new-report-on-apples-vr-headset-8k-in-each-eye-potential-3000-price-tag/",
+    "upvotes": 16,
+    "author": "CharlesW",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26030519"
   },
   {
     "title": "Native Mac APIs for Go",
     "url": "https://github.com/progrium/macdriver",
-    "upvotes": 297,
+    "upvotes": 307,
     "author": "maydemir",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26026896"
-  },
-  {
-    "title": "Rust-Analyzer Architecture",
-    "url": "https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md",
-    "upvotes": 205,
-    "author": "ibraheemdev",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26026309"
-  },
-  {
-    "title": "Google News Showcase Launches in Australia",
-    "url": "https://blog.google/products/news/google-news-showcase-launches-australia/",
-    "upvotes": 17,
-    "author": "caution",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26030135"
   },
   {
     "title": "Show HN: Deploy your own algo-trader in 5 minutes with 0 code",
     "url": "http://www.getquantbase.com/#deploy",
-    "upvotes": 50,
+    "upvotes": 64,
     "author": "tjs8rj",
-    "comments": 21,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26029775"
+  },
+  {
+    "title": "Google News Showcase Launches in Australia",
+    "url": "https://blog.google/products/news/google-news-showcase-launches-australia/",
+    "upvotes": 22,
+    "author": "caution",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26030135"
+  },
+  {
+    "title": "Rust-Analyzer Architecture",
+    "url": "https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md",
+    "upvotes": 208,
+    "author": "ibraheemdev",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26026309"
   },
   {
     "title": "Peter Naur's view of programming",
     "url": "https://hiringengineersbook.com/post/autonomy",
-    "upvotes": 156,
+    "upvotes": 162,
     "author": "cloogshicer",
-    "comments": 109,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26027448"
-  },
-  {
-    "title": "The Dunant subsea cable",
-    "url": "https://cloud.google.com/blog/products/infrastructure/googles-dunant-subsea-cable-is-now-ready-for-service",
-    "upvotes": 226,
-    "author": "johannesboyne",
-    "comments": 219,
-    "link": "https://news.ycombinator.com/item?id=26024917"
-  },
-  {
-    "title": "Enzyme – High-performance automatic differentiation of LLVM",
-    "url": "https://enzyme.mit.edu/",
-    "upvotes": 59,
-    "author": "albertzeyer",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26012289"
   },
   {
     "title": "Reverie Labs",
@@ -70,42 +78,98 @@
   {
     "title": "The Arctic Ocean was covered by a shelf ice and filled with freshwater",
     "url": "https://www.awi.de/en/about-us/service/press/single-view/arktischer-ozean-bedeckt-von-schelfeisen-und-voller-suesswasser.html",
-    "upvotes": 7,
+    "upvotes": 16,
     "author": "gmays",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26030092"
   },
   {
+    "title": "The Dunant subsea cable",
+    "url": "https://cloud.google.com/blog/products/infrastructure/googles-dunant-subsea-cable-is-now-ready-for-service",
+    "upvotes": 234,
+    "author": "johannesboyne",
+    "comments": 221,
+    "link": "https://news.ycombinator.com/item?id=26024917"
+  },
+  {
     "title": "Localize your cat at home with BLE beacon, ESP32s, and Machine Learning",
     "url": "https://github.com/filipsPL/cat-localizer",
-    "upvotes": 179,
+    "upvotes": 187,
     "author": "lormayna",
-    "comments": 106,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26024049"
+  },
+  {
+    "title": "Enzyme – High-performance automatic differentiation of LLVM",
+    "url": "https://enzyme.mit.edu/",
+    "upvotes": 64,
+    "author": "albertzeyer",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26012289"
+  },
+  {
+    "title": "Writing high performance F# code",
+    "url": "https://bartoszsypytkowski.com/writing-high-performance-f-code/",
+    "upvotes": 44,
+    "author": "pjmlp",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26012007"
   },
   {
     "title": "Why Security Defects Go Unnoticed During Code Reviews? [pdf]",
     "url": "http://amiangshu.com/papers/paul-ICSE-2021.pdf",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "chx",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26028901"
   },
   {
     "title": "Godot Shaders: View and Share Shaders for Godot",
     "url": "https://godotshaders.com/",
-    "upvotes": 162,
+    "upvotes": 167,
     "author": "bananaoomarang",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26025742"
   },
   {
+    "title": "Donating Docker Distribution to the CNCF",
+    "url": "https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/",
+    "upvotes": 25,
+    "author": "CSDude",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26029267"
+  },
+  {
+    "title": "Introduction to Metals with Scala 3",
+    "url": "https://medium.com/virtuslab/introduction-to-metals-with-scala-3-79ebf3120a95",
+    "upvotes": 6,
+    "author": "tdudzik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26012593"
+  },
+  {
     "title": "Where's the fastest place to put my server? How much does it matter?",
     "url": "http://calpaterson.com/latency.html",
-    "upvotes": 111,
+    "upvotes": 117,
     "author": "todsacerdoti",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26012459"
+  },
+  {
+    "title": "The APL Orchard",
+    "url": "https://www.dyalog.com/blog/2021/02/the-apl-orchard/",
+    "upvotes": 58,
+    "author": "lelf",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26025156"
+  },
+  {
+    "title": "Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses",
+    "url": "https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/",
+    "upvotes": 265,
+    "author": "todsacerdoti",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26024719"
   },
   {
     "title": "Launch HN: Feroot (YC W21) – security scanner for front-end JavaScript code",
@@ -116,123 +180,59 @@
     "link": "https://news.ycombinator.com/item?id=26024912"
   },
   {
-    "title": "The APL Orchard",
-    "url": "https://www.dyalog.com/blog/2021/02/the-apl-orchard/",
-    "upvotes": 55,
-    "author": "lelf",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26025156"
-  },
-  {
-    "title": "Writing high performance F# code",
-    "url": "https://bartoszsypytkowski.com/writing-high-performance-f-code/",
-    "upvotes": 29,
-    "author": "pjmlp",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26012007"
-  },
-  {
-    "title": "Donating Docker Distribution to the CNCF",
-    "url": "https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/",
-    "upvotes": 18,
-    "author": "CSDude",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26029267"
-  },
-  {
-    "title": "Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses",
-    "url": "https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/",
-    "upvotes": 259,
-    "author": "todsacerdoti",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26024719"
-  },
-  {
-    "title": "The Shocking Meltdown of Ample Hills",
-    "url": "https://marker.medium.com/the-shocking-meltdown-of-ample-hills-brooklyns-hottest-ice-cream-company-66b27dc1791d",
-    "upvotes": 3,
-    "author": "JackFr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26030182"
+    "title": "Powerpaste, the hydrogen technology for small vehicles",
+    "url": "https://www.fraunhofer.de/en/press/research-news/2021/february-2021/hydrogen-powered-drives-for-e-scooters.html",
+    "upvotes": 67,
+    "author": "apsec112",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26027288"
   },
   {
     "title": "Apple Watch can help track Parkinson's disease symptoms: study",
     "url": "https://www.statnews.com/2021/02/03/apple-watch-parkinsons-disease-tremor/",
-    "upvotes": 55,
+    "upvotes": 58,
     "author": "gmays",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26029425"
-  },
-  {
-    "title": "Powerpaste, the hydrogen technology for small vehicles",
-    "url": "https://www.fraunhofer.de/en/press/research-news/2021/february-2021/hydrogen-powered-drives-for-e-scooters.html",
-    "upvotes": 59,
-    "author": "apsec112",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26027288"
   },
   {
     "title": "McKinsey to pay $573M to settle claims over opioid crisis role: source",
     "url": "https://www.reuters.com/article/us-usa-mckinsey-idUSKBN2A405Q",
-    "upvotes": 426,
+    "upvotes": 435,
     "author": "onetimemanytime",
-    "comments": 411,
+    "comments": 419,
     "link": "https://news.ycombinator.com/item?id=26024768"
   },
   {
     "title": "Collection of Human Interface and Software Design Guides",
     "url": "http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/",
-    "upvotes": 119,
+    "upvotes": 121,
     "author": "ingve",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26025339"
   },
   {
     "title": "A better way to build ML: Why you should be using Active Learning",
     "url": "https://humanloop.com/blog/why-you-should-be-using-active-learning/",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "razcle",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26026949"
   },
   {
-    "title": "Launch HN: Tint (YC W21) – Embed insurance into any product",
-    "url": "item?id=26026526",
-    "upvotes": 83,
-    "author": "mriolfi",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26026526"
+    "title": "An open-source AirPlay mirroring server for the Raspberry Pi",
+    "url": "https://github.com/FD-/RPiPlay",
+    "upvotes": 204,
+    "author": "chetangoti",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=26024316"
   },
   {
     "title": "Want to Get Out Alive? Follow the Ants",
     "url": "https://nautil.us/issue/95/escape/want-to-get-out-alive-follow-the-ants-rpr",
     "upvotes": 74,
     "author": "dnetesn",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26012814"
-  },
-  {
-    "title": "An open-source AirPlay mirroring server for the Raspberry Pi",
-    "url": "https://github.com/FD-/RPiPlay",
-    "upvotes": 201,
-    "author": "chetangoti",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26024316"
-  },
-  {
-    "title": "2020 at OCamlPro",
-    "url": "https://www.ocamlpro.com/2021/02/02/2020-at-ocamlpro/",
-    "upvotes": 47,
-    "author": "anuragsoni",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26027063"
-  },
-  {
-    "title": "How the Brain Responds to Beauty",
-    "url": "https://www.scientificamerican.com/article/how-the-brain-responds-to-beauty/",
-    "upvotes": 61,
-    "author": "apollinaire",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26017889"
   }
 ]
