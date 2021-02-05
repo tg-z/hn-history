@@ -2,182 +2,182 @@
   {
     "title": "Homebrew 3.0",
     "url": "https://brew.sh/2021/02/05/homebrew-3.0.0/",
-    "upvotes": 80,
+    "upvotes": 161,
     "author": "blucell",
-    "comments": 14,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26035787"
-  },
-  {
-    "title": "The man who produced Steve Jobs’ keynotes for 20 years",
-    "url": "https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years",
-    "upvotes": 338,
-    "author": "allenleein",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26033689"
   },
   {
     "title": "Reloadr – Hot code reloading tool for Python",
     "url": "https://github.com/hoh/reloadr",
-    "upvotes": 22,
+    "upvotes": 43,
     "author": "albertzeyer",
-    "comments": 2,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26035623"
+  },
+  {
+    "title": "The man who produced Steve Jobs’ keynotes for 20 years",
+    "url": "https://www.cake.co/conversations/jNZlq6j/the-man-who-produced-steve-jobs-keynotes-for-20-years",
+    "upvotes": 363,
+    "author": "allenleein",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=26033689"
   },
   {
     "title": "FOSDEM 2021",
     "url": "https://fosdem.org/2021/schedule",
-    "upvotes": 180,
+    "upvotes": 191,
     "author": "Dowwie",
-    "comments": 51,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26034851"
   },
   {
     "title": "Talking to Postgres Through Java 16 Unix-Domain Socket Channels",
     "url": "https://www.morling.dev/blog/talking-to-postgres-through-java-16-unix-domain-socket-channels/",
-    "upvotes": 39,
+    "upvotes": 51,
     "author": "pjmlp",
-    "comments": 9,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26012466"
-  },
-  {
-    "title": "Factorio Future Plans",
-    "url": "https://www.factorio.com/blog/post/fff-365",
-    "upvotes": 154,
-    "author": "parsecs",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=26034665"
-  },
-  {
-    "title": "Disqus, a dark commenting system",
-    "url": "https://supunkavinda.blog/disqus",
-    "upvotes": 273,
-    "author": "supz_k",
-    "comments": 145,
-    "link": "https://news.ycombinator.com/item?id=26033052"
   },
   {
     "title": "McCLIM – GUI toolkit for Common Lisp",
     "url": "https://common-lisp.net/project/mcclim/",
-    "upvotes": 53,
+    "upvotes": 61,
     "author": "lelf",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26024776"
+  },
+  {
+    "title": "Disqus, a dark commenting system",
+    "url": "https://supunkavinda.blog/disqus",
+    "upvotes": 290,
+    "author": "supz_k",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=26033052"
+  },
+  {
+    "title": "Atkinson Hyperlegible Font",
+    "url": "https://christiantietze.de/posts/2021/01/hyperlegible-font/",
+    "upvotes": 235,
+    "author": "ingve",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26011945"
+  },
+  {
+    "title": "Google, Apple cave to Pakistan pressure to take down apps by Ahmadiyya Muslims",
+    "url": "https://www.buzzfeednews.com/article/meghara/pakistan-forced-down-ahmadiyya-apps",
+    "upvotes": 53,
+    "author": "shalmanese",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26035449"
   },
   {
     "title": "Tara AI",
     "url": "https://tara.ai/about/careers/"
   },
   {
-    "title": "Atkinson Hyperlegible Font",
-    "url": "https://christiantietze.de/posts/2021/01/hyperlegible-font/",
-    "upvotes": 231,
-    "author": "ingve",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=26011945"
-  },
-  {
     "title": "Apollo 14 50th anniversary images find Alan Shepard's ball and how far he hit it",
     "url": "https://www.bbc.com/sport/golf/55927727",
-    "upvotes": 185,
+    "upvotes": 194,
     "author": "sohkamyung",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26031968"
   },
   {
+    "title": "Factorio Future Plans",
+    "url": "https://www.factorio.com/blog/post/fff-365",
+    "upvotes": 172,
+    "author": "parsecs",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26034665"
+  },
+  {
     "title": "New report on Apple’s VR headset: 8K in each eye, potential $3k price tag",
     "url": "https://arstechnica.com/gadgets/2021/02/new-report-on-apples-vr-headset-8k-in-each-eye-potential-3000-price-tag/",
-    "upvotes": 253,
+    "upvotes": 265,
     "author": "CharlesW",
-    "comments": 376,
+    "comments": 381,
     "link": "https://news.ycombinator.com/item?id=26030519"
-  },
-  {
-    "title": "A Flash Player emulator written in Rust",
-    "url": "https://github.com/ruffle-rs/ruffle",
-    "upvotes": 195,
-    "author": "known",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=26033561"
-  },
-  {
-    "title": "The endless browser wars",
-    "url": "https://lwn.net/Articles/843607/",
-    "upvotes": 45,
-    "author": "signa11",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26034399"
   },
   {
     "title": "The Lisperati1000 Computer",
     "url": "https://twitter.com/lisperati/status/1357029088343506944",
-    "upvotes": 50,
+    "upvotes": 60,
     "author": "lelf",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26022797"
   },
   {
-    "title": "Google, Apple cave to Pakistan pressure to take down apps by Ahmadiyya Muslims",
-    "url": "https://www.buzzfeednews.com/article/meghara/pakistan-forced-down-ahmadiyya-apps",
-    "upvotes": 27,
-    "author": "shalmanese",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26035449"
+    "title": "The endless browser wars",
+    "url": "https://lwn.net/Articles/843607/",
+    "upvotes": 56,
+    "author": "signa11",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26034399"
+  },
+  {
+    "title": "A Flash Player emulator written in Rust",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "upvotes": 204,
+    "author": "known",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26033561"
   },
   {
     "title": "Bastion of the Turbofish",
     "url": "https://github.com/rust-lang/rust/blob/master/src/test/ui/bastion-of-the-turbofish.rs",
     "upvotes": 79,
     "author": "scott_s",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26019053"
-  },
-  {
-    "title": "Python’s tug of war between beginner-friendly and advanced features",
-    "url": "https://aroberge.blogspot.com/2021/02/pythons-tug-of-war-between-beginner.html",
-    "upvotes": 195,
-    "author": "aroberge",
-    "comments": 368,
-    "link": "https://news.ycombinator.com/item?id=26030433"
   },
   {
     "title": "Help users in Iran reconnect to Signal",
     "url": "https://signal.org/blog/help-iran-reconnect/",
-    "upvotes": 1066,
+    "upvotes": 1077,
     "author": "arkadiyt",
-    "comments": 339,
+    "comments": 340,
     "link": "https://news.ycombinator.com/item?id=26026994"
-  },
-  {
-    "title": "Alexander von Humboldt: A Scientist’s Mind, a Poet’s Soul",
-    "url": "https://www.thenewatlantis.com/publications/a-scientists-mind-a-poets-soul",
-    "upvotes": 31,
-    "author": "pseudolus",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26032025"
   },
   {
     "title": "Zero arrests in 6 months of health care professionals replacing police officers",
     "url": "https://denverite.com/2021/02/02/in-the-first-six-months-of-health-care-professionals-replacing-police-officers-no-one-they-encountered-was-arrested/",
-    "upvotes": 534,
+    "upvotes": 556,
     "author": "ryanwhitney",
-    "comments": 373,
+    "comments": 384,
     "link": "https://news.ycombinator.com/item?id=26032307"
   },
   {
     "title": "Stepping Down as CEO of the Wikimedia Foundation",
     "url": "https://diff.wikimedia.org/2021/02/04/stepping-down-as-ceo-of-the-wikimedia-foundation/",
-    "upvotes": 129,
+    "upvotes": 137,
     "author": "Amorymeltzer",
-    "comments": 163,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=26028146"
+  },
+  {
+    "title": "Alexander von Humboldt: A Scientist’s Mind, a Poet’s Soul",
+    "url": "https://www.thenewatlantis.com/publications/a-scientists-mind-a-poets-soul",
+    "upvotes": 33,
+    "author": "pseudolus",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26032025"
   },
   {
     "title": "Build your own Command Line with ANSI escape codes",
     "url": "https://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html",
     "upvotes": 31,
     "author": "lihaoyi",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26014065"
+  },
+  {
+    "title": "‘Holy grail’ nanoparticle injection that treats skin cancer developed by Yale",
+    "url": "https://www.studyfinds.org/holy-grail-nanoparticles-treats-skin-cancer/",
+    "upvotes": 76,
+    "author": "voisin",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26031090"
   },
   {
     "title": "The Great SameSite Confusion",
@@ -188,51 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=26032896"
   },
   {
-    "title": "The Arctic Ocean was covered by a shelf ice and filled with freshwater",
-    "url": "https://www.awi.de/en/about-us/service/press/single-view/arktischer-ozean-bedeckt-von-schelfeisen-und-voller-suesswasser.html",
-    "upvotes": 111,
-    "author": "gmays",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26030092"
-  },
-  {
-    "title": "‘Holy grail’ nanoparticle injection that treats skin cancer developed by Yale",
-    "url": "https://www.studyfinds.org/holy-grail-nanoparticles-treats-skin-cancer/",
-    "upvotes": 70,
-    "author": "voisin",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26031090"
-  },
-  {
     "title": "Fzf – the basics part 1 – layout",
     "url": "https://qmacro.org/autodidactics/2021/02/02/fzf-the-basics-1-layout/",
-    "upvotes": 98,
+    "upvotes": 103,
     "author": "todsacerdoti",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26012632"
   },
   {
     "title": "The Universal Warrior: The Many Faces of Battle",
     "url": "https://acoup.blog/2021/02/05/collections-the-universal-warrior-part-iia-the-many-faces-of-battle/",
-    "upvotes": 28,
+    "upvotes": 30,
     "author": "parsecs",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26033359"
   },
   {
     "title": "In their own words: Trinity at 75 – The First Nuclear Bomb",
     "url": "https://thebulletin.org/2020/07/in-their-own-words-trinity-at-75/",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "pseudolus",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26032027"
   },
   {
-    "title": "EyeDraw – Draw with your eyes using computer vision",
-    "url": "https://fabridigua.medium.com/eyedraw-how-to-draw-with-your-eyes-using-computer-vision-226317501e6a",
-    "upvotes": 76,
-    "author": "pmontra",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26026609"
+    "title": "Native Mac APIs for Go",
+    "url": "https://github.com/progrium/macdriver",
+    "upvotes": 455,
+    "author": "maydemir",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26026896"
+  },
+  {
+    "title": "Launch HN: Tint (YC W21) – Embed insurance into any product",
+    "url": "item?id=26026526",
+    "upvotes": 124,
+    "author": "mriolfi",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26026526"
+  },
+  {
+    "title": "Museum of Bad Art",
+    "url": "http://museumofbadart.org/",
+    "upvotes": 59,
+    "author": "tkgally",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26031441"
   }
 ]
