@@ -1,48 +1,56 @@
 [
   {
+    "title": "Zero arrests in 6 months of health care professionals replacing police officers",
+    "url": "https://denverite.com/2021/02/02/in-the-first-six-months-of-health-care-professionals-replacing-police-officers-no-one-they-encountered-was-arrested/",
+    "upvotes": 28,
+    "author": "ryanwhitney",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26032307"
+  },
+  {
     "title": "Apollo 14 50th anniversary images find Alan Shepard's ball and how far he hit it",
     "url": "https://www.bbc.com/sport/golf/55927727",
-    "upvotes": 34,
+    "upvotes": 49,
     "author": "sohkamyung",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26031968"
   },
   {
     "title": "Help users in Iran reconnect to Signal",
     "url": "https://signal.org/blog/help-iran-reconnect/",
-    "upvotes": 854,
+    "upvotes": 863,
     "author": "arkadiyt",
-    "comments": 283,
+    "comments": 285,
     "link": "https://news.ycombinator.com/item?id=26026994"
   },
   {
     "title": "New report on Apple’s VR headset: 8K in each eye, potential $3k price tag",
     "url": "https://arstechnica.com/gadgets/2021/02/new-report-on-apples-vr-headset-8k-in-each-eye-potential-3000-price-tag/",
-    "upvotes": 85,
+    "upvotes": 98,
     "author": "CharlesW",
-    "comments": 133,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=26030519"
   },
   {
     "title": "Native Mac APIs for Go",
     "url": "https://github.com/progrium/macdriver",
-    "upvotes": 374,
+    "upvotes": 380,
     "author": "maydemir",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26026896"
   },
   {
     "title": "Python's tug of war between beginner-friendly and advanced features",
     "url": "https://aroberge.blogspot.com/2021/02/pythons-tug-of-war-between-beginner.html",
-    "upvotes": 75,
+    "upvotes": 82,
     "author": "aroberge",
-    "comments": 135,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=26030433"
   },
   {
     "title": "Writing high performance F# code",
     "url": "https://bartoszsypytkowski.com/writing-high-performance-f-code/",
-    "upvotes": 143,
+    "upvotes": 150,
     "author": "pjmlp",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26012007"
@@ -50,41 +58,41 @@
   {
     "title": "The Arctic Ocean was covered by a shelf ice and filled with freshwater",
     "url": "https://www.awi.de/en/about-us/service/press/single-view/arktischer-ozean-bedeckt-von-schelfeisen-und-voller-suesswasser.html",
-    "upvotes": 55,
+    "upvotes": 57,
     "author": "gmays",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26030092"
+  },
+  {
+    "title": "Rust-Analyzer Architecture",
+    "url": "https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md",
+    "upvotes": 238,
+    "author": "ibraheemdev",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26026309"
   },
   {
     "title": "Fzf – the basics part 1 – layout",
     "url": "https://qmacro.org/autodidactics/2021/02/02/fzf-the-basics-1-layout/",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26012632"
   },
   {
-    "title": "Rust-Analyzer Architecture",
-    "url": "https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md",
-    "upvotes": 237,
-    "author": "ibraheemdev",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26026309"
-  },
-  {
     "title": "EyeDraw – Draw with your eyes using computer vision",
     "url": "https://fabridigua.medium.com/eyedraw-how-to-draw-with-your-eyes-using-computer-vision-226317501e6a",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "pmontra",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26026609"
   },
   {
     "title": "Museum of Bad Art",
     "url": "http://museumofbadart.org/",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "tkgally",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26031441"
   },
   {
@@ -92,7 +100,7 @@
     "url": "https://hiringengineersbook.com/post/autonomy",
     "upvotes": 210,
     "author": "cloogshicer",
-    "comments": 138,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=26027448"
   },
   {
@@ -100,65 +108,97 @@
     "url": "https://cloud.google.com/blog/products/infrastructure/googles-dunant-subsea-cable-is-now-ready-for-service",
     "upvotes": 249,
     "author": "johannesboyne",
-    "comments": 239,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=26024917"
   },
   {
     "title": "Localize your cat at home with BLE beacon, ESP32s, and Machine Learning",
     "url": "https://github.com/filipsPL/cat-localizer",
-    "upvotes": 212,
+    "upvotes": 218,
     "author": "lormayna",
-    "comments": 130,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=26024049"
   },
   {
     "title": "Enzyme – High-performance automatic differentiation of LLVM",
     "url": "https://enzyme.mit.edu/",
-    "upvotes": 105,
+    "upvotes": 109,
     "author": "albertzeyer",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26012289"
-  },
-  {
-    "title": "Where's the fastest place to put my server? How much does it matter?",
-    "url": "http://calpaterson.com/latency.html",
-    "upvotes": 139,
-    "author": "todsacerdoti",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=26012459"
   },
   {
     "title": "Reverie Labs",
     "url": "https://jobs.lever.co/reverielabs/3215ba2d-a3be-412b-954d-10e1e75eb078"
   },
   {
+    "title": "Where's the fastest place to put my server? How much does it matter?",
+    "url": "http://calpaterson.com/latency.html",
+    "upvotes": 140,
+    "author": "todsacerdoti",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26012459"
+  },
+  {
     "title": "Godot Shaders: View and Share Shaders for Godot",
     "url": "https://godotshaders.com/",
-    "upvotes": 190,
+    "upvotes": 191,
     "author": "bananaoomarang",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26025742"
   },
   {
     "title": "Nextdoor is replacing the small-town paper",
     "url": "https://onezero.medium.com/nextdoor-is-quietly-replacing-the-small-town-paper-ca583962c15a",
-    "upvotes": 43,
+    "upvotes": 49,
     "author": "d3fault",
-    "comments": 60,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26013184"
   },
   {
     "title": "Waiting for PostgreSQL 14 – SEARCH and CYCLE clauses",
     "url": "https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/",
-    "upvotes": 284,
+    "upvotes": 286,
     "author": "todsacerdoti",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26024719"
+  },
+  {
+    "title": "Donating Docker Distribution to the CNCF",
+    "url": "https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/",
+    "upvotes": 68,
+    "author": "CSDude",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26029267"
+  },
+  {
+    "title": "Launch HN: Tint (YC W21) – Embed insurance into any product",
+    "url": "item?id=26026526",
+    "upvotes": 96,
+    "author": "mriolfi",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26026526"
+  },
+  {
+    "title": "Why Security Defects Go Unnoticed During Code Reviews? [pdf]",
+    "url": "http://amiangshu.com/papers/paul-ICSE-2021.pdf",
+    "upvotes": 53,
+    "author": "chx",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26028901"
+  },
+  {
+    "title": "Powerpaste, the hydrogen technology for small vehicles",
+    "url": "https://www.fraunhofer.de/en/press/research-news/2021/february-2021/hydrogen-powered-drives-for-e-scooters.html",
+    "upvotes": 98,
+    "author": "apsec112",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26027288"
   },
   {
     "title": "In their own words: Trinity at 75 - The First Nuclear Bomb",
     "url": "https://thebulletin.org/2020/07/in-their-own-words-trinity-at-75/",
-    "upvotes": 3,
+    "upvotes": 6,
     "author": "pseudolus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26032027"
@@ -166,73 +206,33 @@
   {
     "title": "Alexander von Humboldt: A Scientist’s Mind, a Poet’s Soul",
     "url": "https://www.thenewatlantis.com/publications/a-scientists-mind-a-poets-soul",
-    "upvotes": 3,
+    "upvotes": 6,
     "author": "pseudolus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26032025"
   },
   {
-    "title": "Launch HN: Tint (YC W21) – Embed insurance into any product",
-    "url": "item?id=26026526",
-    "upvotes": 95,
-    "author": "mriolfi",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26026526"
-  },
-  {
-    "title": "Donating Docker Distribution to the CNCF",
-    "url": "https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/",
-    "upvotes": 62,
-    "author": "CSDude",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26029267"
-  },
-  {
-    "title": "Why Security Defects Go Unnoticed During Code Reviews? [pdf]",
-    "url": "http://amiangshu.com/papers/paul-ICSE-2021.pdf",
-    "upvotes": 52,
-    "author": "chx",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26028901"
-  },
-  {
-    "title": "Powerpaste, the hydrogen technology for small vehicles",
-    "url": "https://www.fraunhofer.de/en/press/research-news/2021/february-2021/hydrogen-powered-drives-for-e-scooters.html",
-    "upvotes": 96,
-    "author": "apsec112",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26027288"
-  },
-  {
-    "title": "Launch HN: Feroot (YC W21) – security scanner for front-end JavaScript code",
-    "url": "item?id=26024912",
-    "upvotes": 39,
-    "author": "ivan_tsarynny",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26024912"
-  },
-  {
-    "title": "A Python interpreter rewritten in Rust, that can run pip",
-    "url": "https://rustpython.github.io/featured/2021/01/26/pip-support.html",
-    "upvotes": 93,
-    "author": "andrew-ld",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26030269"
-  },
-  {
     "title": "Collection of Human Interface and Software Design Guides",
     "url": "http://www.geofcrowl.com/blog/articles/2020/2/17/collection-higs/",
-    "upvotes": 140,
+    "upvotes": 145,
     "author": "ingve",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26025339"
   },
   {
+    "title": "A Python interpreter rewritten in Rust, that can run pip",
+    "url": "https://rustpython.github.io/featured/2021/01/26/pip-support.html",
+    "upvotes": 100,
+    "author": "andrew-ld",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26030269"
+  },
+  {
     "title": "McKinsey to pay $573M to settle claims over opioid crisis role: source",
     "url": "https://www.reuters.com/article/us-usa-mckinsey-idUSKBN2A405Q",
-    "upvotes": 469,
+    "upvotes": 473,
     "author": "onetimemanytime",
-    "comments": 472,
+    "comments": 477,
     "link": "https://news.ycombinator.com/item?id=26024768"
   }
 ]
