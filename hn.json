@@ -2,67 +2,75 @@
   {
     "title": "Show HN: Clerk – all of user management as-a-service, not just authentication",
     "url": "https://clerk.dev/blog/all-of-user-management-not-just-authentication",
-    "upvotes": 57,
+    "upvotes": 127,
     "author": "colinclerk",
-    "comments": 11,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26069621"
   },
   {
     "title": "Blog with Markdown and Git, and degrade gracefully through time",
     "url": "https://brandur.org/fragments/graceful-degradation-time",
-    "upvotes": 117,
+    "upvotes": 133,
     "author": "craigkerstiens",
-    "comments": 53,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26068032"
   },
   {
     "title": "Gradient Descent Models Are Kernel Machines",
     "url": "https://infoproc.blogspot.com/2021/02/gradient-descent-models-are-kernel.html",
-    "upvotes": 32,
+    "upvotes": 44,
     "author": "dilap",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26069120"
   },
   {
     "title": "Accused murderer wins right to check source code of DNA testing kit",
     "url": "https://www.theregister.com/2021/02/04/dna_testing_software/",
-    "upvotes": 726,
+    "upvotes": 743,
     "author": "anfilt",
-    "comments": 306,
+    "comments": 320,
     "link": "https://news.ycombinator.com/item?id=26053808"
   },
   {
-    "title": "GitHub experiencing issues with actions, pull requests, packages",
-    "url": "https://www.githubstatus.com/incidents/th4mgzt9y25t",
-    "upvotes": 162,
-    "author": "Amorymeltzer",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26066365"
+    "title": "The Exclusive Website",
+    "url": "https://exclusive.website/",
+    "upvotes": 25,
+    "author": "zuhayeer",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26070011"
+  },
+  {
+    "title": "State of the Common Lisp ecosystem, 2020",
+    "url": "https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/",
+    "upvotes": 197,
+    "author": "lelf",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26065511"
   },
   {
     "title": "OneSignal",
     "url": "https://onesignal.com/careers"
   },
   {
-    "title": "State of the Common Lisp ecosystem, 2020",
-    "url": "https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/",
-    "upvotes": 185,
-    "author": "lelf",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=26065511"
+    "title": "GitHub experiencing issues with actions, pull requests, packages",
+    "url": "https://www.githubstatus.com/incidents/th4mgzt9y25t",
+    "upvotes": 163,
+    "author": "Amorymeltzer",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26066365"
   },
   {
-    "title": "Scientists develop transparent wood that is stronger and lighter than glass",
-    "url": "https://www.cbc.ca/radio/quirks/scientists-develop-transparent-wood-that-is-stronger-and-lighter-than-glass-1.5902739",
-    "upvotes": 73,
-    "author": "ooboe",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26068435"
+    "title": "Creators of ORCA and their works embracing tech minimalism and software freedom",
+    "url": "https://esoteric.codes/blog/100-rabbits",
+    "upvotes": 18,
+    "author": "retang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26054594"
   },
   {
     "title": "Show HN: \"Programming Algorithms in Lisp” Book",
     "url": "https://www.apress.com/gp/book/9781484264270",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "vseloved",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26066340"
@@ -70,111 +78,127 @@
   {
     "title": "Rust Foundation: Hello, World",
     "url": "https://foundation.rust-lang.org/posts/2021-02-08-hello-world/",
-    "upvotes": 559,
+    "upvotes": 578,
     "author": "steveklabnik",
-    "comments": 138,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=26067118"
-  },
-  {
-    "title": "Automatic Differentiation Does Incur Truncation Errors",
-    "url": "https://www.oxinabox.net/2021/02/08/AD-truncation-error.html",
-    "upvotes": 41,
-    "author": "oxinabox",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26068382"
   },
   {
     "title": "Using Computer Vision to Win $1M in Mountain Dew's Super Bowl Contest",
     "url": "https://blog.roboflow.com/mountain-dew-contest-computer-vision/",
-    "upvotes": 80,
+    "upvotes": 92,
     "author": "rocauc",
-    "comments": 24,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26066970"
+  },
+  {
+    "title": "New 10 Terapixel Image of the Night Sky Contains 1B Galaxies",
+    "url": "https://kottke.org/21/02/10-terapixel-image-of-the-night-sky",
+    "upvotes": 63,
+    "author": "soheilpro",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26067326"
+  },
+  {
+    "title": "Automatic Differentiation Does Incur Truncation Errors",
+    "url": "https://www.oxinabox.net/2021/02/08/AD-truncation-error.html",
+    "upvotes": 48,
+    "author": "oxinabox",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26068382"
   },
   {
     "title": "Starting Over: A FOSS proposal for a new type of OS for a new type of computer",
     "url": "https://liam-on-linux.livejournal.com/77065.html",
-    "upvotes": 64,
+    "upvotes": 68,
     "author": "lproven",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26066762"
   },
   {
     "title": "Launch HN: Jiga (YC W21) – Faster custom parts for hardware products",
     "url": "item?id=26066276",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "Assafgeuz",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26066276"
   },
   {
     "title": "Show HN: Weekend project, shows when the next season of your TV show premieres",
     "url": "item?id=26066346",
-    "upvotes": 94,
+    "upvotes": 98,
     "author": "patricklorio",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26066346"
-  },
-  {
-    "title": "New 10 Terapixel Image of the Night Sky Contains 1B Galaxies",
-    "url": "https://kottke.org/21/02/10-terapixel-image-of-the-night-sky",
-    "upvotes": 46,
-    "author": "soheilpro",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26067326"
-  },
-  {
-    "title": "NYT reporter falsely accuses tech investor of using a slur",
-    "url": "https://greenwald.substack.com/p/the-journalistic-tattletale-and-censorship",
-    "upvotes": 203,
-    "author": "high_derivative",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=26056851"
   },
   {
     "title": "100-GHz Single-Flux-Quantum Bit-Serial Adder Based on 10-KA/Cm2 Niobium Process",
     "url": "https://ieeexplore.ieee.org/document/5682059",
-    "upvotes": 85,
+    "upvotes": 86,
     "author": "peter_d_sherman",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26065139"
   },
   {
-    "title": "I followed my dreams to get demoted to software developer",
-    "url": "https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/",
-    "upvotes": 236,
-    "author": "TangerineDream",
-    "comments": 220,
-    "link": "https://news.ycombinator.com/item?id=26066918"
+    "title": "Is Capitalism Saving Us?",
+    "url": "https://justinhonse.medium.com/is-capitalism-saving-us-right-now-373320eee733",
+    "upvotes": 6,
+    "author": "Master_Rashi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26069609"
   },
   {
-    "title": "Man arrested and charged in Scotland over tweet",
-    "url": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-55986646",
-    "upvotes": 8,
-    "author": "aosaigh",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26069259"
+    "title": "The computers rejecting job applications",
+    "url": "https://www.bbc.co.uk/news/business-55932977",
+    "upvotes": 127,
+    "author": "mnw21cam",
+    "comments": 167,
+    "link": "https://news.ycombinator.com/item?id=26063523"
+  },
+  {
+    "title": "The largest study to date on the genetic basis of sexuality",
+    "url": "https://www.nature.com/articles/d41586-019-02585-6",
+    "upvotes": 56,
+    "author": "YeGoblynQueenne",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=26066528"
   },
   {
     "title": "TechEmpower Framework Benchmarks: Round 20",
     "url": "https://www.techempower.com/benchmarks/#section=data-r20",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "pella",
-    "comments": 22,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26068204"
   },
   {
-    "title": "Sense: A New Open-Source Video Understanding Framework for Deep Learning",
-    "url": "https://github.com/TwentyBN/sense",
-    "upvotes": 44,
-    "author": "nahuak",
+    "title": "A gorilla who was brought up as a boy in an English village",
+    "url": "https://medium.com/history-of-yesterday/the-gorilla-who-was-brought-up-as-a-boy-in-an-english-village-6e3cdac33c63",
+    "upvotes": 101,
+    "author": "simonebrunozzi",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=26062617"
+  },
+  {
+    "title": "Wolverine: Tracking the Elusive Trickster",
+    "url": "https://www.canadiangeographic.ca/article/wolverine-tracking-elusive-trickster",
+    "upvotes": 13,
+    "author": "pseudolus",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26046329"
+    "link": "https://news.ycombinator.com/item?id=26054417"
+  },
+  {
+    "title": "I followed my dreams to get demoted to software developer",
+    "url": "https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/",
+    "upvotes": 246,
+    "author": "TangerineDream",
+    "comments": 231,
+    "link": "https://news.ycombinator.com/item?id=26066918"
   },
   {
     "title": "Launch HN: Infracost (YC W21) – open-source cloud cost estimator",
     "url": "item?id=26064588",
-    "upvotes": 122,
+    "upvotes": 125,
     "author": "aliscott",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26064588"
@@ -182,57 +206,33 @@
   {
     "title": "Terraria on Stadia cancelled after developer's Google account gets locked",
     "url": "https://twitter.com/Demilogic/status/1358661840402845696",
-    "upvotes": 1725,
+    "upvotes": 1761,
     "author": "benhurmarcel",
-    "comments": 984,
+    "comments": 1011,
     "link": "https://news.ycombinator.com/item?id=26061935"
   },
   {
-    "title": "Wolverine: Tracking the Elusive Trickster",
-    "url": "https://www.canadiangeographic.ca/article/wolverine-tracking-elusive-trickster",
-    "upvotes": 10,
-    "author": "pseudolus",
+    "title": "Sense: A New Open-Source Video Understanding Framework for Deep Learning",
+    "url": "https://github.com/TwentyBN/sense",
+    "upvotes": 46,
+    "author": "nahuak",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26054417"
+    "link": "https://news.ycombinator.com/item?id=26046329"
   },
   {
-    "title": "Gitlab Project Hit by Spambot",
-    "url": "https://gitlab.com/gitlab-org/gitlab/-/issues/320750",
-    "upvotes": 114,
-    "author": "nielsole",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26063996"
-  },
-  {
-    "title": "Don’t Underestimate the Power of a Walk",
-    "url": "https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk",
-    "upvotes": 156,
-    "author": "tdmckinlay",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26066345"
+    "title": "NYT reporter falsely accuses tech investor of using a slur",
+    "url": "https://greenwald.substack.com/p/the-journalistic-tattletale-and-censorship",
+    "upvotes": 268,
+    "author": "high_derivative",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=26056851"
   },
   {
     "title": "Abcjs Music Editor/Player",
     "url": "https://editor.drawthedots.com/",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "cicko",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26054640"
-  },
-  {
-    "title": "Little OpenMP* Runtime",
-    "url": "https://github.com/parallel-runtimes/lomp",
-    "upvotes": 38,
-    "author": "ingve",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26065315"
-  },
-  {
-    "title": "Multiway Turing Machines",
-    "url": "https://www.wolframphysics.org/bulletins/2021/02/multiway-turing-machines/",
-    "upvotes": 59,
-    "author": "nsoonhui",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26064453"
   }
 ]
