@@ -2,75 +2,83 @@
   {
     "title": "Show HN: Clerk – all of user management as-a-service, not just authentication",
     "url": "https://clerk.dev/blog/all-of-user-management-not-just-authentication",
-    "upvotes": 127,
+    "upvotes": 187,
     "author": "colinclerk",
-    "comments": 41,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26069621"
-  },
-  {
-    "title": "Blog with Markdown and Git, and degrade gracefully through time",
-    "url": "https://brandur.org/fragments/graceful-degradation-time",
-    "upvotes": 133,
-    "author": "craigkerstiens",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26068032"
   },
   {
     "title": "Gradient Descent Models Are Kernel Machines",
     "url": "https://infoproc.blogspot.com/2021/02/gradient-descent-models-are-kernel.html",
-    "upvotes": 44,
+    "upvotes": 55,
     "author": "dilap",
-    "comments": 14,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26069120"
   },
   {
     "title": "Accused murderer wins right to check source code of DNA testing kit",
     "url": "https://www.theregister.com/2021/02/04/dna_testing_software/",
-    "upvotes": 743,
+    "upvotes": 764,
     "author": "anfilt",
-    "comments": 320,
+    "comments": 336,
     "link": "https://news.ycombinator.com/item?id=26053808"
   },
   {
     "title": "The Exclusive Website",
     "url": "https://exclusive.website/",
-    "upvotes": 25,
+    "upvotes": 41,
     "author": "zuhayeer",
-    "comments": 16,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26070011"
   },
   {
     "title": "State of the Common Lisp ecosystem, 2020",
     "url": "https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/",
-    "upvotes": 197,
+    "upvotes": 207,
     "author": "lelf",
-    "comments": 54,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26065511"
+  },
+  {
+    "title": "GitHub experiencing issues with actions, pull requests, packages",
+    "url": "https://www.githubstatus.com/incidents/th4mgzt9y25t",
+    "upvotes": 169,
+    "author": "Amorymeltzer",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26066365"
+  },
+  {
+    "title": "Blog with Markdown and Git, and degrade gracefully through time",
+    "url": "https://brandur.org/fragments/graceful-degradation-time",
+    "upvotes": 145,
+    "author": "craigkerstiens",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=26068032"
   },
   {
     "title": "OneSignal",
     "url": "https://onesignal.com/careers"
   },
   {
-    "title": "GitHub experiencing issues with actions, pull requests, packages",
-    "url": "https://www.githubstatus.com/incidents/th4mgzt9y25t",
-    "upvotes": 163,
-    "author": "Amorymeltzer",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26066365"
-  },
-  {
     "title": "Creators of ORCA and their works embracing tech minimalism and software freedom",
     "url": "https://esoteric.codes/blog/100-rabbits",
-    "upvotes": 18,
+    "upvotes": 32,
     "author": "retang",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26054594"
+  },
+  {
+    "title": "New 10 Terapixel Image of the Night Sky Contains 1B Galaxies",
+    "url": "https://kottke.org/21/02/10-terapixel-image-of-the-night-sky",
+    "upvotes": 87,
+    "author": "soheilpro",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26067326"
   },
   {
     "title": "Show HN: \"Programming Algorithms in Lisp” Book",
     "url": "https://www.apress.com/gp/book/9781484264270",
-    "upvotes": 129,
+    "upvotes": 145,
     "author": "vseloved",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26066340"
@@ -78,47 +86,39 @@
   {
     "title": "Rust Foundation: Hello, World",
     "url": "https://foundation.rust-lang.org/posts/2021-02-08-hello-world/",
-    "upvotes": 578,
+    "upvotes": 599,
     "author": "steveklabnik",
-    "comments": 140,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=26067118"
   },
   {
-    "title": "Using Computer Vision to Win $1M in Mountain Dew's Super Bowl Contest",
+    "title": "Using computer vision to help win $1M in Mountain Dew's Super Bowl contest",
     "url": "https://blog.roboflow.com/mountain-dew-contest-computer-vision/",
-    "upvotes": 92,
+    "upvotes": 108,
     "author": "rocauc",
-    "comments": 34,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26066970"
-  },
-  {
-    "title": "New 10 Terapixel Image of the Night Sky Contains 1B Galaxies",
-    "url": "https://kottke.org/21/02/10-terapixel-image-of-the-night-sky",
-    "upvotes": 63,
-    "author": "soheilpro",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26067326"
-  },
-  {
-    "title": "Automatic Differentiation Does Incur Truncation Errors",
-    "url": "https://www.oxinabox.net/2021/02/08/AD-truncation-error.html",
-    "upvotes": 48,
-    "author": "oxinabox",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26068382"
   },
   {
     "title": "Starting Over: A FOSS proposal for a new type of OS for a new type of computer",
     "url": "https://liam-on-linux.livejournal.com/77065.html",
-    "upvotes": 68,
+    "upvotes": 74,
     "author": "lproven",
-    "comments": 34,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26066762"
+  },
+  {
+    "title": "Automatic Differentiation Does Incur Truncation Errors",
+    "url": "https://www.oxinabox.net/2021/02/08/AD-truncation-error.html",
+    "upvotes": 53,
+    "author": "oxinabox",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26068382"
   },
   {
     "title": "Launch HN: Jiga (YC W21) – Faster custom parts for hardware products",
     "url": "item?id=26066276",
-    "upvotes": 60,
+    "upvotes": 62,
     "author": "Assafgeuz",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26066276"
@@ -126,58 +126,90 @@
   {
     "title": "Show HN: Weekend project, shows when the next season of your TV show premieres",
     "url": "item?id=26066346",
-    "upvotes": 98,
+    "upvotes": 101,
     "author": "patricklorio",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26066346"
   },
   {
-    "title": "100-GHz Single-Flux-Quantum Bit-Serial Adder Based on 10-KA/Cm2 Niobium Process",
-    "url": "https://ieeexplore.ieee.org/document/5682059",
-    "upvotes": 86,
-    "author": "peter_d_sherman",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26065139"
-  },
-  {
-    "title": "Is Capitalism Saving Us?",
-    "url": "https://justinhonse.medium.com/is-capitalism-saving-us-right-now-373320eee733",
-    "upvotes": 6,
-    "author": "Master_Rashi",
+    "title": "Hacker increased chemical level at Oldsmar's city water system, sheriff says",
+    "url": "https://www.wtsp.com/article/news/local/pinellascounty/pinellas-oldsmar-water-system-computer-intrustion/67-512b2bab-9f94-44d7-841e-5169fdb0a0bd",
+    "upvotes": 4,
+    "author": "bschne",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26069609"
+    "link": "https://news.ycombinator.com/item?id=26070262"
   },
   {
     "title": "The computers rejecting job applications",
     "url": "https://www.bbc.co.uk/news/business-55932977",
-    "upvotes": 127,
+    "upvotes": 131,
     "author": "mnw21cam",
-    "comments": 167,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=26063523"
+  },
+  {
+    "title": "100-GHz Single-Flux-Quantum Bit-Serial Adder Based on 10-KA/Cm2 Niobium Process",
+    "url": "https://ieeexplore.ieee.org/document/5682059",
+    "upvotes": 88,
+    "author": "peter_d_sherman",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26065139"
   },
   {
     "title": "The largest study to date on the genetic basis of sexuality",
     "url": "https://www.nature.com/articles/d41586-019-02585-6",
-    "upvotes": 56,
+    "upvotes": 69,
     "author": "YeGoblynQueenne",
-    "comments": 141,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=26066528"
-  },
-  {
-    "title": "TechEmpower Framework Benchmarks: Round 20",
-    "url": "https://www.techempower.com/benchmarks/#section=data-r20",
-    "upvotes": 38,
-    "author": "pella",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26068204"
   },
   {
     "title": "A gorilla who was brought up as a boy in an English village",
     "url": "https://medium.com/history-of-yesterday/the-gorilla-who-was-brought-up-as-a-boy-in-an-english-village-6e3cdac33c63",
-    "upvotes": 101,
+    "upvotes": 114,
     "author": "simonebrunozzi",
-    "comments": 81,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26062617"
+  },
+  {
+    "title": "TechEmpower Framework Benchmarks: Round 20",
+    "url": "https://www.techempower.com/benchmarks/#section=data-r20",
+    "upvotes": 41,
+    "author": "pella",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26068204"
+  },
+  {
+    "title": "Terraria on Stadia cancelled after developer's Google account gets locked",
+    "url": "https://twitter.com/Demilogic/status/1358661840402845696",
+    "upvotes": 1797,
+    "author": "benhurmarcel",
+    "comments": 1025,
+    "link": "https://news.ycombinator.com/item?id=26061935"
+  },
+  {
+    "title": "Launch HN: Infracost (YC W21) – open-source cloud cost estimator",
+    "url": "item?id=26064588",
+    "upvotes": 128,
+    "author": "aliscott",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=26064588"
+  },
+  {
+    "title": "I followed my dreams to get demoted to software developer",
+    "url": "https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/",
+    "upvotes": 256,
+    "author": "TangerineDream",
+    "comments": 239,
+    "link": "https://news.ycombinator.com/item?id=26066918"
+  },
+  {
+    "title": "Sense: A New Open-Source Video Understanding Framework for Deep Learning",
+    "url": "https://github.com/TwentyBN/sense",
+    "upvotes": 49,
+    "author": "nahuak",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26046329"
   },
   {
     "title": "Wolverine: Tracking the Elusive Trickster",
@@ -188,51 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26054417"
   },
   {
-    "title": "I followed my dreams to get demoted to software developer",
-    "url": "https://stackoverflow.blog/2021/02/08/moving-from-designer-to-developer-stack-overflow/",
-    "upvotes": 246,
-    "author": "TangerineDream",
-    "comments": 231,
-    "link": "https://news.ycombinator.com/item?id=26066918"
-  },
-  {
-    "title": "Launch HN: Infracost (YC W21) – open-source cloud cost estimator",
-    "url": "item?id=26064588",
-    "upvotes": 125,
-    "author": "aliscott",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26064588"
-  },
-  {
-    "title": "Terraria on Stadia cancelled after developer's Google account gets locked",
-    "url": "https://twitter.com/Demilogic/status/1358661840402845696",
-    "upvotes": 1761,
-    "author": "benhurmarcel",
-    "comments": 1011,
-    "link": "https://news.ycombinator.com/item?id=26061935"
-  },
-  {
-    "title": "Sense: A New Open-Source Video Understanding Framework for Deep Learning",
-    "url": "https://github.com/TwentyBN/sense",
-    "upvotes": 46,
-    "author": "nahuak",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26046329"
-  },
-  {
-    "title": "NYT reporter falsely accuses tech investor of using a slur",
-    "url": "https://greenwald.substack.com/p/the-journalistic-tattletale-and-censorship",
-    "upvotes": 268,
-    "author": "high_derivative",
-    "comments": 155,
-    "link": "https://news.ycombinator.com/item?id=26056851"
-  },
-  {
     "title": "Abcjs Music Editor/Player",
     "url": "https://editor.drawthedots.com/",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "cicko",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26054640"
+  },
+  {
+    "title": "Don’t Underestimate the Power of a Walk",
+    "url": "https://hbr.org/2021/02/dont-underestimate-the-power-of-a-walk",
+    "upvotes": 184,
+    "author": "tdmckinlay",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=26066345"
   }
 ]
