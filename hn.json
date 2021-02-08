@@ -1,99 +1,107 @@
 [
   {
+    "title": "State of the Common Lisp ecosystem, 2020",
+    "url": "https://lisp-journey.gitlab.io/blog/state-of-the-common-lisp-ecosystem-2020/",
+    "upvotes": 39,
+    "author": "lelf",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26065511"
+  },
+  {
     "title": "Accused murderer wins right to check source code of DNA testing kit",
     "url": "https://www.theregister.com/2021/02/04/dna_testing_software/",
-    "upvotes": 252,
+    "upvotes": 335,
     "author": "anfilt",
-    "comments": 102,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=26053808"
   },
   {
     "title": "100-GHz Single-Flux-Quantum Bit-Serial Adder Based on 10-KA/Cm2 Niobium Process",
     "url": "https://ieeexplore.ieee.org/document/5682059",
-    "upvotes": 22,
+    "upvotes": 36,
     "author": "peter_d_sherman",
-    "comments": 7,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26065139"
   },
   {
     "title": "Barcode scanner app on Google Play infects 10m users with one update",
     "url": "https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/",
-    "upvotes": 622,
+    "upvotes": 645,
     "author": "decrypt",
-    "comments": 340,
+    "comments": 354,
     "link": "https://news.ycombinator.com/item?id=26060839"
   },
   {
     "title": "Gitlab Project Hit by Spambot",
     "url": "https://gitlab.com/gitlab-org/gitlab/-/issues/320750",
-    "upvotes": 54,
+    "upvotes": 71,
     "author": "nielsole",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26063996"
-  },
-  {
-    "title": "The computers rejecting job applications",
-    "url": "https://www.bbc.co.uk/news/business-55932977",
-    "upvotes": 51,
-    "author": "mnw21cam",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26063523"
   },
   {
     "title": "Launch HN: Infracost (YC W21) – open-source cloud cost estimator",
     "url": "item?id=26064588",
-    "upvotes": 33,
+    "upvotes": 48,
     "author": "aliscott",
-    "comments": 11,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26064588"
   },
   {
-    "title": "The days are long but the decades are short",
-    "url": "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short",
-    "upvotes": 4,
-    "author": "baxtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26065466"
+    "title": "The computers rejecting job applications",
+    "url": "https://www.bbc.co.uk/news/business-55932977",
+    "upvotes": 67,
+    "author": "mnw21cam",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26063523"
   },
   {
     "title": "Terraria on Stadia cancelled after developer's Google account gets locked",
     "url": "https://twitter.com/Demilogic/status/1358661842147692549",
-    "upvotes": 1109,
+    "upvotes": 1185,
     "author": "benhurmarcel",
-    "comments": 556,
+    "comments": 587,
     "link": "https://news.ycombinator.com/item?id=26061935"
   },
   {
     "title": "Multiway Turing Machines",
     "url": "https://www.wolframphysics.org/bulletins/2021/02/multiway-turing-machines/",
-    "upvotes": 10,
+    "upvotes": 20,
     "author": "nsoonhui",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26064453"
   },
   {
     "title": "Buildpacks vs. Dockerfiles",
     "url": "https://technology.doximity.com/articles/buildpacks-vs-dockerfiles",
-    "upvotes": 134,
+    "upvotes": 144,
     "author": "jwfriese",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26041099"
+  },
+  {
+    "title": "Abcjs Music Editor/Player",
+    "url": "https://editor.drawthedots.com/",
+    "upvotes": 5,
+    "author": "cicko",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26054640"
   },
   {
     "title": "Clj-3DF: Clojure",
     "url": "https://github.com/sixthnormal/clj-3df",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "tosh",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26053802"
   },
   {
-    "title": "Stop Swiss Cheesing your calendar",
-    "url": "https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar",
-    "upvotes": 161,
-    "author": "maddynator",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=26060690"
+    "title": "CSI-MURDER: Prevent WiFi CSI from being used to survey environment",
+    "url": "https://ans.unibs.it/projects/csi-murder/",
+    "upvotes": 18,
+    "author": "adulau",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26053948"
   },
   {
     "title": "LayerCI",
@@ -102,47 +110,55 @@
   {
     "title": "How to Kill a Unicorn",
     "url": "https://www.chrisfrantz.com/how-to-kill-a-unicorn/",
-    "upvotes": 226,
+    "upvotes": 230,
     "author": "chrisfrantz",
-    "comments": 63,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26060038"
+  },
+  {
+    "title": "Stop Swiss Cheesing your calendar",
+    "url": "https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar",
+    "upvotes": 168,
+    "author": "maddynator",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=26060690"
+  },
+  {
+    "title": "Little OpenMP* Runtime",
+    "url": "https://github.com/parallel-runtimes/lomp#readme",
+    "upvotes": 5,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26065315"
   },
   {
     "title": "Tusk – Short-lived anonymous feedback",
     "url": "https://tusk.page",
-    "upvotes": 134,
+    "upvotes": 137,
     "author": "n_david",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26060491"
   },
   {
-    "title": "Csi-murder: localize people/objects with WiFi",
-    "url": "https://ans.unibs.it/projects/csi-murder/",
-    "upvotes": 12,
-    "author": "adulau",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26053948"
+    "title": "Wallenius Oceanbird: Wind-powered cargo vessel",
+    "url": "https://www.oceanbirdwallenius.com/",
+    "upvotes": 65,
+    "author": "nanna",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26054096"
   },
   {
     "title": "Blue Beads in the Tundra",
     "url": "https://news.uaf.edu/blue-beads-in-the-tundra/",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "_Microft",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26053821"
-  },
-  {
-    "title": "Wallenius Oceanbird: Wind-powered cargo vessel",
-    "url": "https://www.oceanbirdwallenius.com/",
-    "upvotes": 61,
-    "author": "nanna",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26054096"
   },
   {
     "title": "Nuvola Player – Linux desktop integration for web-based streaming services",
     "url": "https://nuvola.tiliado.eu/",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "krisgenre",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26053979"
@@ -150,7 +166,7 @@
   {
     "title": "Inline Caching: Quickening",
     "url": "https://bernsteinbear.com/blog/inline-caching-quickening/",
-    "upvotes": 20,
+    "upvotes": 24,
     "author": "r4um",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26054573"
@@ -158,50 +174,50 @@
   {
     "title": "Change your MAC address with a shell script",
     "url": "https://josh.works/shell-script-basics-change-mac-address",
-    "upvotes": 165,
+    "upvotes": 168,
     "author": "mooreds",
-    "comments": 88,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=26060152"
+  },
+  {
+    "title": "The Gorilla Who Was Brought Up as a Boy in an English Village",
+    "url": "https://medium.com/history-of-yesterday/the-gorilla-who-was-brought-up-as-a-boy-in-an-english-village-6e3cdac33c63",
+    "upvotes": 83,
+    "author": "simonebrunozzi",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26062617"
   },
   {
     "title": "Web Spectrogram using your Mic",
     "url": "https://borismus.github.io/spectrogram/",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "sova",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26056350"
-  },
-  {
-    "title": "Tesla buys $1.5B in Bitcoin, may accept it as payment in the future",
-    "url": "https://techcrunch.com/2021/02/08/tesla-buys-1-5b-in-bitcoin-may-accept-the-cryptocurrency-as-payment-in-the-future/",
-    "upvotes": 482,
-    "author": "Cookingboy",
-    "comments": 684,
-    "link": "https://news.ycombinator.com/item?id=26063920"
   },
   {
     "title": "Deepfake Voice Technology: The Good. The Bad. The Future",
     "url": "https://www.econotimes.com/Deepfake-Voice-Technology-The-Good-The-Bad-The-Future-1601278",
     "upvotes": 70,
     "author": "respeecher",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26060008"
-  },
-  {
-    "title": "The Gorilla Who Was Brought Up as a Boy in an English Village",
-    "url": "https://medium.com/history-of-yesterday/the-gorilla-who-was-brought-up-as-a-boy-in-an-english-village-6e3cdac33c63",
-    "upvotes": 73,
-    "author": "simonebrunozzi",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26062617"
   },
   {
     "title": "Soldat: a 2D",
     "url": "https://github.com/Soldat/soldat",
-    "upvotes": 371,
+    "upvotes": 373,
     "author": "albertzeyer",
-    "comments": 110,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26058312"
+  },
+  {
+    "title": "Tesla buys $1.5B in Bitcoin, may accept it as payment in the future",
+    "url": "https://techcrunch.com/2021/02/08/tesla-buys-1-5b-in-bitcoin-may-accept-the-cryptocurrency-as-payment-in-the-future/",
+    "upvotes": 531,
+    "author": "Cookingboy",
+    "comments": 811,
+    "link": "https://news.ycombinator.com/item?id=26063920"
   },
   {
     "title": "A stroll through the archives of Editor & Publisher",
@@ -212,27 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=26048737"
   },
   {
-    "title": "Parable of the Butler: A science-fiction pioneer finds posthumous fame",
-    "url": "https://harpers.org/archive/2021/02/parable-of-the-butler-octavia-butler-kindred-fledgling/",
-    "upvotes": 44,
-    "author": "apollinaire",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26055878"
-  },
-  {
-    "title": "South Africa suspends rollout of Oxford-AstraZeneca coronavirus vaccine",
-    "url": "https://www.dw.com/en/south-africa-suspends-rollout-of-oxford-astrazeneca-coronavirus-vaccine/a-56491411",
-    "upvotes": 267,
-    "author": "samizdis",
-    "comments": 230,
-    "link": "https://news.ycombinator.com/item?id=26060517"
-  },
-  {
     "title": "Taxonomies of Visual Programming",
     "url": "https://www.cs.cmu.edu/~bam/papers/VLtax2-jvlc-1990.pdf",
-    "upvotes": 95,
+    "upvotes": 99,
     "author": "mr_tyzic",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26057530"
   }
 ]
