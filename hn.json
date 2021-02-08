@@ -1,48 +1,48 @@
 [
   {
+    "title": "Tesla buys $1.5B in Bitcoin, may accept it as payment in the future",
+    "url": "https://techcrunch.com/2021/02/08/tesla-buys-1-5b-in-bitcoin-may-accept-the-cryptocurrency-as-payment-in-the-future/",
+    "upvotes": 108,
+    "author": "Cookingboy",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26063920"
+  },
+  {
     "title": "Barcode scanner app on Google Play infects 10m users with one update",
     "url": "https://blog.malwarebytes.com/android/2021/02/barcode-scanner-app-on-google-play-infects-10-million-users-with-one-update/",
-    "upvotes": 472,
+    "upvotes": 491,
     "author": "decrypt",
-    "comments": 275,
+    "comments": 289,
     "link": "https://news.ycombinator.com/item?id=26060839"
   },
   {
     "title": "Terraria on Stadia cancelled after developer's Google account gets locked",
     "url": "https://twitter.com/Demilogic/status/1358661842147692549",
-    "upvotes": 748,
+    "upvotes": 797,
     "author": "benhurmarcel",
-    "comments": 389,
+    "comments": 428,
     "link": "https://news.ycombinator.com/item?id=26061935"
   },
   {
     "title": "Buildpacks vs. Dockerfiles",
     "url": "https://technology.doximity.com/articles/buildpacks-vs-dockerfiles",
-    "upvotes": 74,
+    "upvotes": 84,
     "author": "jwfriese",
-    "comments": 18,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26041099"
-  },
-  {
-    "title": "Deleting Facebook",
-    "url": "https://robertheaton.com/deleting-facebook/",
-    "upvotes": 12,
-    "author": "domrdy",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26063729"
   },
   {
     "title": "How to Kill a Unicorn",
     "url": "https://www.chrisfrantz.com/how-to-kill-a-unicorn/",
-    "upvotes": 188,
+    "upvotes": 194,
     "author": "chrisfrantz",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26060038"
   },
   {
     "title": "Tusk – Short-lived anonymous feedback",
     "url": "https://tusk.page",
-    "upvotes": 120,
+    "upvotes": 122,
     "author": "n_david",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26060491"
@@ -50,7 +50,7 @@
   {
     "title": "Clj-3DF: Clojure",
     "url": "https://github.com/sixthnormal/clj-3df",
-    "upvotes": 19,
+    "upvotes": 26,
     "author": "tosh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26053802"
@@ -62,130 +62,122 @@
   {
     "title": "Harvard astronomer argues that alien vessel paid us a visit",
     "url": "https://phys.org/news/2021-02-harvard-astronomer-alien-vessel-paid.html",
-    "upvotes": 39,
+    "upvotes": 50,
     "author": "wjSgoWPm5bWAhXB",
-    "comments": 23,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26063231"
   },
   {
     "title": "Nuvola Player – Linux desktop integration for web-based streaming services",
     "url": "https://nuvola.tiliado.eu/",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "krisgenre",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26053979"
   },
   {
-    "title": "Stop Swiss Cheesing your calendar",
-    "url": "https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar",
-    "upvotes": 124,
-    "author": "maddynator",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=26060690"
-  },
-  {
     "title": "Wallenius Oceanbird: Wind-powered cargo vessel",
     "url": "https://www.oceanbirdwallenius.com/",
-    "upvotes": 40,
+    "upvotes": 44,
     "author": "nanna",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26054096"
+  },
+  {
+    "title": "Blue Beads in the Tundra",
+    "url": "https://news.uaf.edu/blue-beads-in-the-tundra/",
+    "upvotes": 10,
+    "author": "_Microft",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26053821"
+  },
+  {
+    "title": "Stop Swiss Cheesing your calendar",
+    "url": "https://thinkingthrough.substack.com/p/stop-swiss-cheesing-your-calendar",
+    "upvotes": 130,
+    "author": "maddynator",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26060690"
   },
   {
     "title": "Change your MAC address with a shell script",
     "url": "https://josh.works/shell-script-basics-change-mac-address",
-    "upvotes": 149,
+    "upvotes": 153,
     "author": "mooreds",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26060152"
   },
   {
     "title": "Inline Caching: Quickening",
     "url": "https://bernsteinbear.com/blog/inline-caching-quickening/",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "r4um",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26054573"
+  },
+  {
+    "title": "A Lisp REPL as my main shell",
+    "url": "https://ambrevar.xyz/lisp-repl-shell/index.html",
+    "upvotes": 111,
+    "author": "qazwse_",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26059023"
   },
   {
     "title": "The Gorilla Who Was Brought Up as a Boy in an English Village",
     "url": "https://medium.com/history-of-yesterday/the-gorilla-who-was-brought-up-as-a-boy-in-an-english-village-6e3cdac33c63",
-    "upvotes": 42,
+    "upvotes": 49,
     "author": "simonebrunozzi",
-    "comments": 24,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26062617"
   },
   {
     "title": "Soldat: a 2D",
     "url": "https://github.com/Soldat/soldat",
-    "upvotes": 355,
+    "upvotes": 357,
     "author": "albertzeyer",
-    "comments": 106,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26058312"
-  },
-  {
-    "title": "A Lisp REPL as my main shell",
-    "url": "https://ambrevar.xyz/lisp-repl-shell/index.html",
-    "upvotes": 104,
-    "author": "qazwse_",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26059023"
   },
   {
     "title": "South Africa suspends rollout of Oxford-AstraZeneca coronavirus vaccine",
     "url": "https://www.dw.com/en/south-africa-suspends-rollout-of-oxford-astrazeneca-coronavirus-vaccine/a-56491411",
-    "upvotes": 230,
+    "upvotes": 233,
     "author": "samizdis",
-    "comments": 186,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=26060517"
-  },
-  {
-    "title": "Blue Beads in the Tundra",
-    "url": "https://news.uaf.edu/blue-beads-in-the-tundra/",
-    "upvotes": 6,
-    "author": "_Microft",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26053821"
   },
   {
     "title": "Web Spectrogram using your Mic",
     "url": "https://borismus.github.io/spectrogram/",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "sova",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26056350"
   },
   {
     "title": "Deepfake Voice Technology: The Good. The Bad. The Future",
     "url": "https://www.econotimes.com/Deepfake-Voice-Technology-The-Good-The-Bad-The-Future-1601278",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "respeecher",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26060008"
   },
   {
-    "title": "Protecting capital during a war",
-    "url": "https://fritz.substack.com/p/protecting-your-capital-during-a",
-    "upvotes": 26,
-    "author": "jules-jules",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26062255"
+    "title": "Deleting Facebook",
+    "url": "https://robertheaton.com/deleting-facebook/",
+    "upvotes": 28,
+    "author": "domrdy",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26063729"
   },
   {
     "title": "Don't Offer a Free Plan",
     "url": "https://nofreeplan.com",
-    "upvotes": 458,
+    "upvotes": 466,
     "author": "protoduction",
-    "comments": 183,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=26059517"
-  },
-  {
-    "title": "Why updating DNS is slow",
-    "url": "https://wizardzines.com/comics/updating-dns/",
-    "upvotes": 105,
-    "author": "theBashShell",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26058337"
   },
   {
     "title": "A stroll through the archives of Editor & Publisher",
@@ -198,17 +190,25 @@
   {
     "title": "Parable of the Butler: A science-fiction pioneer finds posthumous fame",
     "url": "https://harpers.org/archive/2021/02/parable-of-the-butler-octavia-butler-kindred-fledgling/",
-    "upvotes": 38,
+    "upvotes": 39,
     "author": "apollinaire",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26055878"
+  },
+  {
+    "title": "Protecting capital during a war",
+    "url": "https://fritz.substack.com/p/protecting-your-capital-during-a",
+    "upvotes": 31,
+    "author": "jules-jules",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26062255"
   },
   {
     "title": "Taxonomies of Visual Programming",
     "url": "https://www.cs.cmu.edu/~bam/papers/VLtax2-jvlc-1990.pdf",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "mr_tyzic",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26057530"
   },
   {
@@ -216,21 +216,21 @@
     "url": "http://www.ijcai.org/Proceedings/95-1/Papers/125.pdf",
     "upvotes": 28,
     "author": "tmfi",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26055172"
   },
   {
     "title": "FreedomBox: Run your digital services from your home",
     "url": "https://freedombox.org/",
-    "upvotes": 209,
+    "upvotes": 213,
     "author": "rck",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26057646"
   },
   {
     "title": "Graph theory, graph convolutional networks, knowledge graphs",
     "url": "https://albertazout.substack.com/p/gradient-ascent-10",
-    "upvotes": 192,
+    "upvotes": 193,
     "author": "simonebrunozzi",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26058440"
