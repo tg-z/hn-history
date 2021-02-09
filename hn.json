@@ -2,87 +2,99 @@
   {
     "title": "Creeping as a Service",
     "url": "https://every.to/divinations/creeping-as-a-service-craas",
-    "upvotes": 55,
+    "upvotes": 96,
     "author": "dshipper",
-    "comments": 3,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26081672"
   },
   {
     "title": "Browser Fuzzing at Mozilla",
     "url": "https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/",
-    "upvotes": 101,
+    "upvotes": 114,
     "author": "gbrown_",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26080578"
   },
   {
-    "title": "Facebook Enginering: Automatic root cause analysis",
+    "title": "Minesweeper automates root cause analysis as a first-line defense against bugs",
     "url": "https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/",
-    "upvotes": 36,
+    "upvotes": 46,
     "author": "muglug",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26081608"
   },
   {
     "title": "Launch HN: SigNoz (YC W21) – Open-source alternative to DataDog",
     "url": "item?id=26079389",
-    "upvotes": 141,
+    "upvotes": 150,
     "author": "pranay01",
-    "comments": 42,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26079389"
+  },
+  {
+    "title": "Pattern Matching Accepted for Python",
+    "url": "https://lwn.net/Articles/845480/",
+    "upvotes": 76,
+    "author": "eplanit",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26080760"
+  },
+  {
+    "title": "Join Lumi to build the marketplace for sustainable factories – work anywhere",
+    "url": "https://www.lumi.com/jobs"
   },
   {
     "title": "Looking at GSM security 30 years later",
     "url": "https://harrisonsand.com/gsm-security/",
-    "upvotes": 59,
+    "upvotes": 64,
     "author": "8sfLes",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26064725"
   },
   {
     "title": "Fedora on the PinePhone: Pipewire Calling",
     "url": "https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1",
-    "upvotes": 83,
+    "upvotes": 88,
     "author": "ashitlerferad",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26080207"
+  },
+  {
+    "title": "Why thinking too much can be bad for you",
+    "url": "https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you",
+    "upvotes": 20,
+    "author": "smk_",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26081880"
   },
   {
     "title": "Haskell: The Bad Parts, part 2",
     "url": "https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2",
-    "upvotes": 172,
+    "upvotes": 179,
     "author": "anuragsoni",
-    "comments": 97,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=26077823"
   },
   {
     "title": "José Valim Reveals “Project Nx”",
     "url": "https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/",
-    "upvotes": 258,
+    "upvotes": 272,
     "author": "thibaut_barrere",
-    "comments": 69,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26076680"
   },
   {
     "title": "A simple 11.2 GHz radio telescope",
     "url": "https://physicsopenlab.org/2020/10/10/a-simple-11-2-ghz-radiotelescope/",
-    "upvotes": 82,
+    "upvotes": 90,
     "author": "_Microft",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26078761"
   },
   {
-    "title": "Pattern Matching Accepted for Python",
-    "url": "https://lwn.net/Articles/845480/",
-    "upvotes": 40,
-    "author": "eplanit",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26080760"
-  },
-  {
     "title": "The imminent stable-version apocalypse",
     "url": "https://lwn.net/SubscriberLink/845120/0b7608296003edfc/",
-    "upvotes": 81,
+    "upvotes": 84,
     "author": "Tomte",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26062887"
@@ -90,110 +102,98 @@
   {
     "title": "Block Profiling in Go",
     "url": "https://github.com/felixge/go-profiler-notes/blob/main/block.md",
-    "upvotes": 107,
+    "upvotes": 111,
     "author": "felixge",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26078820"
   },
   {
-    "title": "CoinTracker",
-    "url": "https://www.cointracker.io/careers"
-  },
-  {
-    "title": "Why thinking too much can be bad for you",
-    "url": "https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you",
-    "upvotes": 7,
-    "author": "smk_",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26081880"
-  },
-  {
-    "title": "Vantage Has Acquired Ec2instances.info",
-    "url": "https://www.vantage.sh/blog/vantage-has-acquired-ec2instances-info",
-    "upvotes": 60,
-    "author": "StratusBen",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26080571"
-  },
-  {
     "title": "Dr.Geo: Interactive Geometry in Smalltalk",
     "url": "http://www.drgeo.eu/",
-    "upvotes": 49,
+    "upvotes": 56,
     "author": "cableclasper",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26078863"
   },
   {
+    "title": "Vantage Has Acquired Ec2instances.info",
+    "url": "https://www.vantage.sh/blog/vantage-has-acquired-ec2instances-info",
+    "upvotes": 66,
+    "author": "StratusBen",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26080571"
+  },
+  {
+    "title": "Farmers Are Having to Hack Their Own Tractors Just to Make Repairs",
+    "url": "https://www.thedrive.com/news/39158/farmers-are-having-to-hack-their-own-tractors-just-to-make-repairs",
+    "upvotes": 89,
+    "author": "clouddrover",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26077294"
+  },
+  {
     "title": "Algorithms by Jeff Erickson",
     "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/",
-    "upvotes": 510,
+    "upvotes": 518,
     "author": "ngzhian",
-    "comments": 116,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26074289"
   },
   {
     "title": "Laver's Law Revisited: A Data-Driven Investigation of Fashion Trends",
     "url": "https://laverslaw.awardwinninghuman.com/",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "jjmccoolguy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26063549"
   },
   {
-    "title": "No support Linux hosting shutting down from hack",
-    "url": "https://www.nosupportlinuxhosting.com/",
-    "upvotes": 299,
-    "author": "ourmandave",
-    "comments": 220,
-    "link": "https://news.ycombinator.com/item?id=26076050"
-  },
-  {
-    "title": "Launch HN: Great Question (YC W21) – Customer research tools for software teams",
-    "url": "item?id=26079141",
-    "upvotes": 57,
-    "author": "nedwin",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26079141"
+    "title": "Breaking out of the echo chamber loop",
+    "url": "https://www.hunterclarke.me/posts/why-youre-in-an-echo-chamber",
+    "upvotes": 8,
+    "author": "hunterclarke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26059021"
   },
   {
     "title": "The Evolution of Hacker News",
     "url": "https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "nguyentranvu",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26061642"
   },
   {
-    "title": "What happens when Go programs end?",
-    "url": "https://changelog.com/news/Wy0J/visit",
-    "upvotes": 35,
-    "author": "matryer",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26079674"
+    "title": "No support Linux hosting shutting down from hack",
+    "url": "https://www.nosupportlinuxhosting.com/",
+    "upvotes": 302,
+    "author": "ourmandave",
+    "comments": 223,
+    "link": "https://news.ycombinator.com/item?id=26076050"
   },
   {
     "title": "ReactOS Updates",
     "url": "https://reactos.org/blogs/newsletter-100/",
-    "upvotes": 205,
+    "upvotes": 211,
     "author": "jeditobe",
-    "comments": 117,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=26075670"
+  },
+  {
+    "title": "Launch HN: Great Question (YC W21) – Customer research tools for software teams",
+    "url": "item?id=26079141",
+    "upvotes": 62,
+    "author": "nedwin",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26079141"
   },
   {
     "title": "Ask HN: Team fun event ideas during WFH?",
     "url": "item?id=26080163",
-    "upvotes": 89,
+    "upvotes": 99,
     "author": "pseudobry",
-    "comments": 101,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=26080163"
-  },
-  {
-    "title": "Farmers Are Having to Hack Their Own Tractors Just to Make Repairs",
-    "url": "https://www.thedrive.com/news/39158/farmers-are-having-to-hack-their-own-tractors-just-to-make-repairs",
-    "upvotes": 66,
-    "author": "clouddrover",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26077294"
   },
   {
     "title": "LibreSprite is an open source program for creating and animating your sprites",
@@ -204,35 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26062818"
   },
   {
-    "title": "The Misguided Mythology of Ayrton Senna",
-    "url": "https://www.roadandtrack.com/car-culture/a35349952/the-misguided-mythology-of-ayrton-senna/",
-    "upvotes": 70,
-    "author": "luu",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26061942"
+    "title": "What happens when Go programs end?",
+    "url": "https://changelog.com/news/Wy0J/visit",
+    "upvotes": 36,
+    "author": "matryer",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26079674"
+  },
+  {
+    "title": "Leveraging the Go Type System",
+    "url": "https://www.gopherguides.com/articles/leveraging-the-go-type-system",
+    "upvotes": 76,
+    "author": "gopherguides",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26078865"
   },
   {
     "title": "Facebook sued for ‘losing control’ of users’ data",
     "url": "https://www.bbc.com/news/technology-55998588",
-    "upvotes": 295,
+    "upvotes": 297,
     "author": "bmcn2020",
-    "comments": 156,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=26078301"
   },
   {
-    "title": "A Statement on Recent Events Between Signal and the Anti-Censorship Community",
-    "url": "https://github.com/net4people/bbs/issues/63",
-    "upvotes": 199,
-    "author": "1una",
-    "comments": 223,
-    "link": "https://news.ycombinator.com/item?id=26075697"
-  },
-  {
-    "title": "Man to pay £25,000",
-    "url": "https://www.bbc.com/news/technology-55981600",
-    "upvotes": 251,
-    "author": "pseudolus",
-    "comments": 215,
-    "link": "https://news.ycombinator.com/item?id=26076391"
+    "title": "The Misguided Mythology of Ayrton Senna",
+    "url": "https://www.roadandtrack.com/car-culture/a35349952/the-misguided-mythology-of-ayrton-senna/",
+    "upvotes": 72,
+    "author": "luu",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26061942"
   }
 ]
