@@ -1,108 +1,140 @@
 [
   {
+    "title": "OpenStreetMap proven to be a highly accurate map in top US cities",
+    "url": "https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec",
+    "upvotes": 88,
+    "author": "clarecorthell",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26082428"
+  },
+  {
+    "title": "SDL Moves to GitHub",
+    "url": "https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5",
+    "upvotes": 46,
+    "author": "Bl4ckb0ne",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26082680"
+  },
+  {
+    "title": "Haxe 4.2",
+    "url": "https://community.haxe.org/t/haxe-4-2-0-is-released/2888",
+    "upvotes": 69,
+    "author": "Gama11",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26082347"
+  },
+  {
     "title": "Creeping as a Service",
     "url": "https://every.to/divinations/creeping-as-a-service-craas",
-    "upvotes": 127,
+    "upvotes": 151,
     "author": "dshipper",
-    "comments": 25,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26081672"
   },
   {
     "title": "Browser Fuzzing at Mozilla",
     "url": "https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/",
-    "upvotes": 125,
+    "upvotes": 137,
     "author": "gbrown_",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26080578"
-  },
-  {
-    "title": "Minesweeper automates root cause analysis as a first-line defense against bugs",
-    "url": "https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/",
-    "upvotes": 62,
-    "author": "muglug",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26081608"
-  },
-  {
-    "title": "Haxe 4.2",
-    "url": "https://community.haxe.org/t/haxe-4-2-0-is-released/2888",
-    "upvotes": 22,
-    "author": "Gama11",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26082347"
-  },
-  {
-    "title": "Pattern Matching Accepted for Python",
-    "url": "https://lwn.net/Articles/845480/",
-    "upvotes": 125,
-    "author": "eplanit",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=26080760"
   },
   {
     "title": "Why thinking too much can be bad for you",
     "url": "https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you",
-    "upvotes": 45,
+    "upvotes": 59,
     "author": "smk_",
-    "comments": 19,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26081880"
+  },
+  {
+    "title": "Pattern Matching Accepted for Python",
+    "url": "https://lwn.net/Articles/845480/",
+    "upvotes": 163,
+    "author": "eplanit",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=26080760"
   },
   {
     "title": "Lumi is hiring to build a marketplace for sustainable factories – work anywhere",
     "url": "https://www.lumi.com/jobs"
   },
   {
-    "title": "Launch HN: SigNoz (YC W21) – Open-source alternative to DataDog",
-    "url": "item?id=26079389",
-    "upvotes": 156,
-    "author": "pranay01",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26079389"
-  },
-  {
-    "title": "Fedora on the PinePhone: Pipewire Calling",
-    "url": "https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1",
-    "upvotes": 96,
-    "author": "ashitlerferad",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26080207"
-  },
-  {
-    "title": "Looking at GSM security 30 years later",
-    "url": "https://harrisonsand.com/gsm-security/",
-    "upvotes": 73,
-    "author": "8sfLes",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26064725"
-  },
-  {
-    "title": "OpenStreetMap proven to be a highly accurate map in top US cities",
-    "url": "https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec",
-    "upvotes": 9,
-    "author": "clarecorthell",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26082428"
+    "title": "Minesweeper automates root cause analysis as a first-line defense against bugs",
+    "url": "https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/",
+    "upvotes": 65,
+    "author": "muglug",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26081608"
   },
   {
     "title": "Python behind the scenes #8: how Python integers work",
     "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/",
-    "upvotes": 12,
+    "upvotes": 24,
     "author": "rbanffy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26081919"
   },
   {
+    "title": "Launch HN: SigNoz (YC W21) – Open-source alternative to DataDog",
+    "url": "item?id=26079389",
+    "upvotes": 158,
+    "author": "pranay01",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26079389"
+  },
+  {
+    "title": "Looking at GSM security 30 years later",
+    "url": "https://harrisonsand.com/gsm-security/",
+    "upvotes": 79,
+    "author": "8sfLes",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26064725"
+  },
+  {
+    "title": "Fedora on the PinePhone: Pipewire Calling",
+    "url": "https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1",
+    "upvotes": 103,
+    "author": "ashitlerferad",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=26080207"
+  },
+  {
+    "title": "A Beginner's Guide to NFTs",
+    "url": "https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d",
+    "upvotes": 13,
+    "author": "donohoe",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26073970"
+  },
+  {
+    "title": "The Queen has more power over British law than we thought",
+    "url": "https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent",
+    "upvotes": 58,
+    "author": "anonymfus",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26081208"
+  },
+  {
     "title": "José Valim Reveals “Project Nx”",
     "url": "https://thinkingelixir.com/podcast-episodes/034-jose-valim-reveals-project-nx/",
-    "upvotes": 284,
+    "upvotes": 291,
     "author": "thibaut_barrere",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26076680"
+  },
+  {
+    "title": "Haskell: The Bad Parts, part 2",
+    "url": "https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2",
+    "upvotes": 188,
+    "author": "anuragsoni",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=26077823"
   },
   {
     "title": "Dr. Geo: Interactive Geometry in Smalltalk",
     "url": "http://www.drgeo.eu/",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "cableclasper",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26078863"
@@ -110,129 +142,97 @@
   {
     "title": "A simple 11.2 GHz radio telescope",
     "url": "https://physicsopenlab.org/2020/10/10/a-simple-11-2-ghz-radiotelescope/",
-    "upvotes": 97,
+    "upvotes": 98,
     "author": "_Microft",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26078761"
   },
   {
-    "title": "Haskell: The Bad Parts, part 2",
-    "url": "https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2",
-    "upvotes": 185,
-    "author": "anuragsoni",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=26077823"
+    "title": "Cops are playing music while citizens are filming to trigger copyright filters",
+    "url": "https://twitter.com/jason_koebler/status/1359213426740895744",
+    "upvotes": 43,
+    "author": "edward",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26082303"
   },
   {
     "title": "The imminent stable-version apocalypse",
     "url": "https://lwn.net/SubscriberLink/845120/0b7608296003edfc/",
-    "upvotes": 88,
+    "upvotes": 92,
     "author": "Tomte",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26062887"
   },
   {
-    "title": "Launch HN: Great Question (YC W21) – Customer research tools for software teams",
-    "url": "item?id=26079141",
-    "upvotes": 65,
-    "author": "nedwin",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26079141"
+    "title": "Farmers are having to hack their own tractors  to make repairs",
+    "url": "https://www.thedrive.com/news/39158/farmers-are-having-to-hack-their-own-tractors-just-to-make-repairs",
+    "upvotes": 127,
+    "author": "clouddrover",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26077294"
   },
   {
     "title": "Block Profiling in Go",
     "url": "https://github.com/felixge/go-profiler-notes/blob/main/block.md",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "felixge",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26078820"
   },
   {
-    "title": "Farmers are having to hack their own tractors  to make repairs",
-    "url": "https://www.thedrive.com/news/39158/farmers-are-having-to-hack-their-own-tractors-just-to-make-repairs",
-    "upvotes": 111,
-    "author": "clouddrover",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=26077294"
+    "title": "Launch HN: Great Question (YC W21) – Customer research tools for software teams",
+    "url": "item?id=26079141",
+    "upvotes": 68,
+    "author": "nedwin",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26079141"
   },
   {
     "title": "Breaking out of the echo chamber loop",
     "url": "https://www.hunterclarke.me/posts/why-youre-in-an-echo-chamber",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "hunterclarke",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26059021"
   },
   {
     "title": "Vantage Has Acquired Ec2instances.info",
     "url": "https://www.vantage.sh/blog/vantage-has-acquired-ec2instances-info",
-    "upvotes": 69,
+    "upvotes": 71,
     "author": "StratusBen",
-    "comments": 33,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26080571"
   },
   {
     "title": "The Evolution of Hacker News",
     "url": "https://techcrunch.com/2013/05/18/the-evolution-of-hacker-news/",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "nguyentranvu",
-    "comments": 45,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26061642"
   },
   {
     "title": "No support Linux hosting shutting down from hack",
     "url": "https://www.nosupportlinuxhosting.com/",
-    "upvotes": 304,
+    "upvotes": 312,
     "author": "ourmandave",
-    "comments": 226,
+    "comments": 231,
     "link": "https://news.ycombinator.com/item?id=26076050"
   },
   {
     "title": "LibreSprite is an open source program for creating and animating your sprites",
     "url": "https://libresprite.github.io/",
-    "upvotes": 83,
+    "upvotes": 88,
     "author": "pabs3",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26062818"
   },
   {
     "title": "Laver's Law Revisited: A Data-Driven Investigation of Fashion Trends",
     "url": "https://laverslaw.awardwinninghuman.com/",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "jjmccoolguy",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26063549"
-  },
-  {
-    "title": "Ask HN: Team fun event ideas during WFH?",
-    "url": "item?id=26080163",
-    "upvotes": 113,
-    "author": "pseudobry",
-    "comments": 139,
-    "link": "https://news.ycombinator.com/item?id=26080163"
-  },
-  {
-    "title": "What happens when Go programs end?",
-    "url": "https://changelog.com/news/Wy0J/visit",
-    "upvotes": 38,
-    "author": "matryer",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26079674"
-  },
-  {
-    "title": "Leveraging the Go Type System",
-    "url": "https://www.gopherguides.com/articles/leveraging-the-go-type-system",
-    "upvotes": 78,
-    "author": "gopherguides",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26078865"
-  },
-  {
-    "title": "Facebook sued for ‘losing control’ of users’ data",
-    "url": "https://www.bbc.com/news/technology-55998588",
-    "upvotes": 303,
-    "author": "bmcn2020",
-    "comments": 162,
-    "link": "https://news.ycombinator.com/item?id=26078301"
   }
 ]
