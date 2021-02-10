@@ -1,90 +1,98 @@
 [
   {
-    "title": "CS193p: Developing Apps for iOS",
-    "url": "https://cs193p.sites.stanford.edu/",
-    "upvotes": 430,
-    "author": "rangoon626",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26091085"
+    "title": "Golang generics proposal has been accepted",
+    "url": "https://github.com/golang/go/issues/43651#issuecomment-776944155",
+    "upvotes": 109,
+    "author": "komuW",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26093778"
   },
   {
     "title": "Viral 'I'm not a cat' filter is decades-old software",
     "url": "https://www.bbc.co.uk/news/technology-56010156",
-    "upvotes": 120,
+    "upvotes": 157,
     "author": "beermonster",
-    "comments": 41,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26093070"
+  },
+  {
+    "title": "CS193p: Developing Apps for iOS",
+    "url": "https://cs193p.sites.stanford.edu/",
+    "upvotes": 451,
+    "author": "rangoon626",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=26091085"
   },
   {
     "title": "Block Facebook Servers",
     "url": "https://github.com/jmdugan/blocklists/tree/master/corporations/facebook",
-    "upvotes": 113,
+    "upvotes": 136,
     "author": "prakhargurunani",
-    "comments": 20,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26092868"
+  },
+  {
+    "title": "Kenyan recycles plastic waste into bricks stronger than concrete",
+    "url": "https://www.reuters.com/article/us-kenya-environment-recycling-idUSKBN2A211N",
+    "upvotes": 46,
+    "author": "elorant",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26093535"
   },
   {
     "title": "Illegal CFC emissions have stopped since scientists raised alarm",
     "url": "https://www.nature.com/articles/d41586-021-00360-0",
-    "upvotes": 164,
+    "upvotes": 181,
     "author": "samizdis",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26091410"
   },
   {
     "title": "Hello system, a FreeBSD-based OS designed to resemble Mac",
     "url": "https://hellosystem.github.io/docs/",
-    "upvotes": 134,
+    "upvotes": 144,
     "author": "gautamcgoel",
-    "comments": 64,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26092040"
+  },
+  {
+    "title": "Evidence that the FBI can hack into private Signal messages on a locked iPhone",
+    "url": "https://www.forbes.com/sites/thomasbrewster/2021/02/08/can-the-fbi-can-hack-into-private-signal-messages-on-a-locked-iphone-evidence-indicates-yes/",
+    "upvotes": 48,
+    "author": "foolinaround",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26085515"
   },
   {
     "title": "State of Independent SaaS 2021",
     "url": "https://microconf.com/sois-report-2021",
-    "upvotes": 60,
+    "upvotes": 76,
     "author": "einarvollset",
-    "comments": 8,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26092913"
   },
   {
     "title": "Dependency Confusion: How I Hacked Into Apple, Microsoft and Other Companies",
     "url": "https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610",
-    "upvotes": 818,
+    "upvotes": 841,
     "author": "Robadob",
-    "comments": 307,
+    "comments": 310,
     "link": "https://news.ycombinator.com/item?id=26087064"
-  },
-  {
-    "title": "Kenyan recycles plastic waste into bricks stronger than concrete",
-    "url": "https://www.reuters.com/article/us-kenya-environment-recycling-idUSKBN2A211N",
-    "upvotes": 11,
-    "author": "elorant",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26093535"
   },
   {
     "title": "Patterns of Distributed Systems",
     "url": "https://martinfowler.com/articles/patterns-of-distributed-systems/",
-    "upvotes": 199,
+    "upvotes": 203,
     "author": "sbmthakur",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26089683"
-  },
-  {
-    "title": "Interview Frustrations",
-    "url": "https://jessimekirk.com/blog/interview_frustrations/",
-    "upvotes": 39,
-    "author": "LifeIsBio",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26092964"
   },
   {
     "title": "Launch HN: Wasp (YC W21) – DSL for building full-stack web apps",
     "url": "item?id=26091956",
-    "upvotes": 81,
+    "upvotes": 97,
     "author": "matijash",
-    "comments": 39,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26091956"
   },
   {
@@ -94,145 +102,137 @@
   {
     "title": "Web Scraping 101 with Python",
     "url": "https://www.scrapingbee.com/blog/web-scraping-101-with-python/",
-    "upvotes": 173,
+    "upvotes": 181,
     "author": "daolf",
-    "comments": 76,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26090243"
-  },
-  {
-    "title": "Golang generics proposal has been accepted",
-    "url": "https://github.com/golang/go/issues/43651#issuecomment-776944155",
-    "upvotes": 8,
-    "author": "komuW",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26093778"
   },
   {
     "title": "Are we game yet? – A guide to the Rust game development ecosystem",
     "url": "https://arewegameyet.rs/",
-    "upvotes": 212,
+    "upvotes": 223,
     "author": "lnyan",
-    "comments": 91,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=26087949"
+  },
+  {
+    "title": "The unusual way I'm funding my open source work",
+    "url": "https://kerkour.com/blog/the-unusual-way-im-funding-my-open-source-work/",
+    "upvotes": 33,
+    "author": "sylvain_kerkour",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26092979"
   },
   {
     "title": "Preparing to Issue 200M Certificates in 24 Hours",
     "url": "https://letsencrypt.org/2021/02/10/200m-certs-24hrs.html",
-    "upvotes": 99,
+    "upvotes": 108,
     "author": "jaas",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26089770"
   },
   {
     "title": "A sneak peek at MetaHuman Creator",
     "url": "https://www.unrealengine.com/en-US/blog/a-sneak-peek-at-metahuman-creator-high-fidelity-digital-humans-made-easy",
-    "upvotes": 98,
+    "upvotes": 107,
     "author": "jsheard",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26090514"
+  },
+  {
+    "title": "Pattern Generator – Create Seamless, Royalty-Free Patterns",
+    "url": "https://doodad.dev/pattern-generator/",
+    "upvotes": 8,
+    "author": "nkjoep",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26093710"
   },
   {
     "title": "Paw is joining Rapid API, Paw for the Web, Windows, and Linux is available",
     "url": "https://blog.paw.cloud/paw-joins-forces-with-rapidapi/",
-    "upvotes": 94,
+    "upvotes": 102,
     "author": "blacktulip",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26089464"
+  },
+  {
+    "title": "Fnt: apt for fonts",
+    "url": "https://github.com/alexmyczko/fnt",
+    "upvotes": 50,
+    "author": "alexmyczko",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26063971"
   },
   {
     "title": "Bitcoin's fundamental value is negative given its environmental impact",
     "url": "https://markets.businessinsider.com/currencies/news/bitcoin-value-negative-environmental-impact-nouriel-roubini-cryptocurrencies-2021-2-1030067687",
-    "upvotes": 74,
+    "upvotes": 112,
     "author": "martinlaz",
-    "comments": 53,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=26093099"
   },
   {
     "title": "The Technology of iCircuit 3D",
     "url": "https://praeclarum.org/2021/02/08/tech-of-icircuit3d.html",
-    "upvotes": 8,
+    "upvotes": 13,
     "author": "deddo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26071843"
   },
   {
-    "title": "The unusual way I'm funding my open source work",
-    "url": "https://kerkour.com/blog/the-unusual-way-im-funding-my-open-source-work/",
-    "upvotes": 24,
-    "author": "sylvain_kerkour",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26092979"
-  },
-  {
-    "title": "Fnt: apt for fonts",
-    "url": "https://github.com/alexmyczko/fnt",
-    "upvotes": 48,
-    "author": "alexmyczko",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26063971"
-  },
-  {
-    "title": "Confront Anti-Asian Racism in Science",
-    "url": "https://www.scientificamerican.com/article/we-must-confront-anti-asian-racism-in-science/",
-    "upvotes": 19,
-    "author": "samizdis",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26092158"
-  },
-  {
     "title": "Illuminating hyperbolic geometry",
     "url": "https://www.youtube.com/watch?v=eGEQ_UuQtYs",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "lnyan",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26074116"
   },
   {
+    "title": "2021 Revision of the Mathematics Framework for California Public Schools",
+    "url": "https://www.cde.ca.gov/ci/ma/cf/",
+    "upvotes": 36,
+    "author": "happy-go-lucky",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26091890"
+  },
+  {
     "title": "Show HN: Screenstab – A tool to turn screenshots into image assets",
     "url": "https://www.screenstab.com/",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "mikaelaast",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26088625"
   },
   {
+    "title": "A Poetic Apology: Or Why Should You Use Poetry to Manage Python Dependencies",
+    "url": "https://muttdata.ai/blog/2020/08/21/a-poetic-apology.html",
+    "upvotes": 8,
+    "author": "juanpampliega",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26093926"
+  },
+  {
     "title": "Infinitely zooming botanical floral paradise painting",
     "url": "http://arkadia.xyz/",
-    "upvotes": 297,
+    "upvotes": 303,
     "author": "masupicchu",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26078677"
   },
   {
-    "title": "2021 Revision of the Mathematics Framework for California Public Schools",
-    "url": "https://www.cde.ca.gov/ci/ma/cf/",
-    "upvotes": 30,
-    "author": "happy-go-lucky",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26091890"
-  },
-  {
     "title": "Launch HN: Taste",
     "url": "https://www.gettaste.com",
-    "upvotes": 47,
+    "upvotes": 52,
     "author": "dealmak3r",
-    "comments": 46,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26090238"
   },
   {
-    "title": "Jazzer brings modern fuzz testing to the JVM",
-    "url": "https://blog.code-intelligence.com/fuzzing-for-jvm-is-now-open-source",
-    "upvotes": 58,
-    "author": "lrngjcb",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26090139"
-  },
-  {
-    "title": "EPA Takes Action to Protect Scientific Integrity",
-    "url": "https://www.epa.gov/newsreleases/epa-takes-action-protect-scientific-integrity",
-    "upvotes": 144,
-    "author": "samizdis",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=26087344"
+    "title": "Interview Frustrations",
+    "url": "https://jessimekirk.com/blog/interview_frustrations/",
+    "upvotes": 59,
+    "author": "LifeIsBio",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26092964"
   }
 ]
