@@ -2,131 +2,147 @@
   {
     "title": "Mozilla Welcomes the Rust Foundation",
     "url": "https://blog.mozilla.org/blog/2021/02/08/mozilla-welcomes-the-rust-foundation/",
-    "upvotes": 213,
+    "upvotes": 252,
     "author": "Garbage",
-    "comments": 65,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26088133"
   },
   {
     "title": "Dependency Confusion: How I Hacked Into Apple, Microsoft and Other Companies",
     "url": "https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610",
-    "upvotes": 437,
+    "upvotes": 494,
     "author": "Robadob",
-    "comments": 170,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=26087064"
-  },
-  {
-    "title": "Are we game yet? – A guide to the Rust game development ecosystem",
-    "url": "https://arewegameyet.rs/",
-    "upvotes": 100,
-    "author": "lnyan",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26087949"
-  },
-  {
-    "title": "Paw is joining Rapid API, Paw for the Web, Windows, and Linux is available",
-    "url": "https://blog.paw.cloud/paw-joins-forces-with-rapidapi/",
-    "upvotes": 14,
-    "author": "blacktulip",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26089464"
-  },
-  {
-    "title": "Bitcoin now uses more electricity than Argentina",
-    "url": "https://cbeci.org/cbeci/comparisons",
-    "upvotes": 335,
-    "author": "apples_oranges",
-    "comments": 504,
-    "link": "https://news.ycombinator.com/item?id=26088455"
   },
   {
     "title": "Patterns of Distributed Systems",
     "url": "https://martinfowler.com/articles/patterns-of-distributed-systems/",
-    "upvotes": 9,
+    "upvotes": 37,
     "author": "sbmthakur",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26089683"
   },
   {
-    "title": "TV Size-to-Distance Calculator and Science",
-    "url": "https://www.rtings.com/tv/reviews/by-size/size-to-distance-relationship",
-    "upvotes": 45,
-    "author": "nkjoep",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26058853"
+    "title": "Are we game yet? – A guide to the Rust game development ecosystem",
+    "url": "https://arewegameyet.rs/",
+    "upvotes": 115,
+    "author": "lnyan",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26087949"
   },
   {
-    "title": "EPA Takes Action to Protect Scientific Integrity",
-    "url": "https://www.epa.gov/newsreleases/epa-takes-action-protect-scientific-integrity",
-    "upvotes": 87,
-    "author": "samizdis",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26087344"
+    "title": "Paw is joining Rapid API, Paw for the Web, Windows, and Linux is available",
+    "url": "https://blog.paw.cloud/paw-joins-forces-with-rapidapi/",
+    "upvotes": 25,
+    "author": "blacktulip",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26089464"
   },
   {
-    "title": "Infinitely zooming botanical floral paradise painting",
-    "url": "http://arkadia.xyz/",
-    "upvotes": 215,
-    "author": "masupicchu",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26078677"
+    "title": "Jazzer brings modern fuzz testing to the JVM",
+    "url": "https://blog.code-intelligence.com/fuzzing-for-jvm-is-now-open-source",
+    "upvotes": 12,
+    "author": "lrngjcb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26090139"
   },
   {
     "title": "Show HN: Screenstab – A tool to turn screenshots into beautiful image assets",
     "url": "https://www.screenstab.com/",
-    "upvotes": 17,
+    "upvotes": 32,
     "author": "mikaelaast",
-    "comments": 11,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26088625"
   },
   {
-    "title": "Show HN: I built an internet speed analytics tool",
-    "url": "https://www.ronaldlangeveld.com/isp-logger",
-    "upvotes": 50,
-    "author": "ronaldl93",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26068520"
+    "title": "Bitcoin now uses more electricity than Argentina",
+    "url": "https://cbeci.org/cbeci/comparisons",
+    "upvotes": 408,
+    "author": "apples_oranges",
+    "comments": 676,
+    "link": "https://news.ycombinator.com/item?id=26088455"
+  },
+  {
+    "title": "Infinitely zooming botanical floral paradise painting",
+    "url": "http://arkadia.xyz/",
+    "upvotes": 224,
+    "author": "masupicchu",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26078677"
+  },
+  {
+    "title": "TV Size-to-Distance Calculator and Science",
+    "url": "https://www.rtings.com/tv/reviews/by-size/size-to-distance-relationship",
+    "upvotes": 59,
+    "author": "nkjoep",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26058853"
+  },
+  {
+    "title": "Launch HN: Taste",
+    "url": "https://www.gettaste.com",
+    "upvotes": 6,
+    "author": "dealmak3r",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26090238"
+  },
+  {
+    "title": "EPA Takes Action to Protect Scientific Integrity",
+    "url": "https://www.epa.gov/newsreleases/epa-takes-action-protect-scientific-integrity",
+    "upvotes": 92,
+    "author": "samizdis",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26087344"
   },
   {
     "title": "GiveCampus",
     "url": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
   },
   {
-    "title": "How we implemented replication in Memgraph DB – Our approach and challenges.",
-    "url": "https://memgraph.com/blog/implementing-data-replication",
-    "upvotes": 15,
-    "author": "karimtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26088628"
-  },
-  {
     "title": "Is Apple Banning Free Analytics SDKs?",
     "url": "https://steamclock.com/blog/2021/02/apple-tracking-analytics-sdks/",
-    "upvotes": 36,
+    "upvotes": 53,
     "author": "ch_sm",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26087935"
   },
   {
-    "title": "The Caltech Sweepstakes Caper",
-    "url": "http://hoaxes.org/archive/permalink/the_caltech_sweepstakes_caper",
-    "upvotes": 20,
-    "author": "turtlegrids",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26074154"
+    "title": "Show HN: I built an internet speed analytics tool",
+    "url": "https://www.ronaldlangeveld.com/isp-logger",
+    "upvotes": 60,
+    "author": "ronaldl93",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26068520"
   },
   {
     "title": "Timezone Bullshit",
     "url": "https://blog.wesleyac.com/posts/timezone-bullshit",
-    "upvotes": 172,
+    "upvotes": 192,
     "author": "organian",
-    "comments": 146,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=26087502"
+  },
+  {
+    "title": "How we implemented replication in Memgraph DB – Our approach and challenges.",
+    "url": "https://memgraph.com/blog/implementing-data-replication",
+    "upvotes": 18,
+    "author": "karimtr",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26088628"
+  },
+  {
+    "title": "Apple Watch Identifies SARS-CoV2 Infection and Predicts Diagnosis",
+    "url": "https://preprints.jmir.org/preprint/26107",
+    "upvotes": 50,
+    "author": "giuliomagnifico",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26089321"
   },
   {
     "title": "Elfstedentocht",
     "url": "https://en.wikipedia.org/wiki/Elfstedentocht",
-    "upvotes": 247,
+    "upvotes": 255,
     "author": "stevage",
     "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26061361"
@@ -134,105 +150,89 @@
   {
     "title": "Github1s – One second to read GitHub code with VS Code",
     "url": "https://github.com/conwnet/github1s",
-    "upvotes": 1349,
+    "upvotes": 1368,
     "author": "tardismechanic",
-    "comments": 175,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=26083919"
+  },
+  {
+    "title": "The Caltech Sweepstakes Caper",
+    "url": "http://hoaxes.org/archive/permalink/the_caltech_sweepstakes_caper",
+    "upvotes": 22,
+    "author": "turtlegrids",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26074154"
   },
   {
     "title": "Ham Radio Forms a Planet-Sized Space Weather Sensor Network",
     "url": "https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network",
-    "upvotes": 135,
+    "upvotes": 139,
     "author": "sohkamyung",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26085238"
   },
   {
     "title": "Using ES Modules",
     "url": "https://gils-blog.tayar.org/posts/using-jsm-esm-in-nodejs-a-practical-guide-part-1/",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "shekhardesigner",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26087220"
-  },
-  {
-    "title": "Apple Watch Identifies SARS-CoV2 Infection and Predicts Diagnosis",
-    "url": "https://preprints.jmir.org/preprint/26107",
-    "upvotes": 30,
-    "author": "giuliomagnifico",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26089321"
   },
   {
     "title": "Posix Threads Programming",
     "url": "https://computing.llnl.gov/tutorials/pthreads/",
-    "upvotes": 135,
+    "upvotes": 138,
     "author": "dvaun",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26085373"
   },
   {
     "title": "OpenStreetMap proven to be a highly accurate map in top US cities",
     "url": "https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec",
-    "upvotes": 795,
+    "upvotes": 803,
     "author": "clarecorthell",
-    "comments": 209,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=26082428"
-  },
-  {
-    "title": "Waiting 10 years to start eliminating emissions to cost more than $3.5T",
-    "url": "https://qz.com/1967754/waiting-to-eliminate-emissions-will-cost-the-us-trillions/",
-    "upvotes": 11,
-    "author": "paulpauper",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26089233"
   },
   {
     "title": "Amazon competitor got our belt listing taken down by saying it contains drugs",
     "url": "https://travelhead.medium.com/competitor-reported-our-no-buckle-belts-as-containing-a-dea-controlled-substance-and-got-us-e6df903172a3",
-    "upvotes": 370,
+    "upvotes": 393,
     "author": "travelhead",
-    "comments": 192,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=26086086"
   },
   {
-    "title": "Crackpot Cryptography and Security Theater",
-    "url": "https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/",
-    "upvotes": 57,
-    "author": "p4bl0",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26088096"
+    "title": "IdentiFlight Bird Detection System",
+    "url": "https://www.identiflight.com/",
+    "upvotes": 3,
+    "author": "apsec112",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26061557"
   },
   {
     "title": "Base64.ai – Extract text, data, photos and more from all types of docs",
     "url": "http://base64.ai/",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "alierkurt",
-    "comments": 31,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26085538"
+  },
+  {
+    "title": "Crackpot Cryptography and Security Theater",
+    "url": "https://soatok.blog/2021/02/09/crackpot-cryptography-and-security-theater/",
+    "upvotes": 65,
+    "author": "p4bl0",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26088096"
   },
   {
     "title": "An Atonement of Nano",
     "url": "https://www.noa-s.org/nano.html",
-    "upvotes": 73,
+    "upvotes": 80,
     "author": "todsacerdoti",
-    "comments": 54,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26063301"
-  },
-  {
-    "title": "Processors Under Pillows",
-    "url": "https://mr-x.medium.com/processors-under-pillows-e5ca4145a773",
-    "upvotes": 56,
-    "author": "xyanb",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26074189"
-  },
-  {
-    "title": "Fully convolutional naturalistic video reconstruction from brain activity",
-    "url": "https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1",
-    "upvotes": 68,
-    "author": "nl",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26085469"
   }
 ]
