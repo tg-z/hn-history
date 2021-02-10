@@ -2,123 +2,131 @@
   {
     "title": "Stanford Makes iPhone Development Course Free",
     "url": "https://cs193p.sites.stanford.edu/",
-    "upvotes": 239,
+    "upvotes": 322,
     "author": "rangoon626",
-    "comments": 56,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26091085"
   },
   {
     "title": "Illegal CFC emissions have stopped since scientists raised alarm",
     "url": "https://www.nature.com/articles/d41586-021-00360-0",
-    "upvotes": 38,
+    "upvotes": 101,
     "author": "samizdis",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26091410"
-  },
-  {
-    "title": "Mozilla Welcomes the Rust Foundation",
-    "url": "https://blog.mozilla.org/blog/2021/02/08/mozilla-welcomes-the-rust-foundation/",
-    "upvotes": 401,
-    "author": "Garbage",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=26088133"
-  },
-  {
-    "title": "Dependency Confusion: How I Hacked Into Apple, Microsoft and Other Companies",
-    "url": "https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610",
-    "upvotes": 715,
-    "author": "Robadob",
-    "comments": 284,
-    "link": "https://news.ycombinator.com/item?id=26087064"
   },
   {
     "title": "Hello system, a FreeBSD-based OS designed to resemble Mac",
     "url": "https://hellosystem.github.io/docs/",
-    "upvotes": 26,
+    "upvotes": 71,
     "author": "gautamcgoel",
-    "comments": 15,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26092040"
+  },
+  {
+    "title": "Dependency Confusion: How I Hacked Into Apple, Microsoft and Other Companies",
+    "url": "https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610",
+    "upvotes": 752,
+    "author": "Robadob",
+    "comments": 293,
+    "link": "https://news.ycombinator.com/item?id=26087064"
   },
   {
     "title": "Patterns of Distributed Systems",
     "url": "https://martinfowler.com/articles/patterns-of-distributed-systems/",
-    "upvotes": 142,
+    "upvotes": 165,
     "author": "sbmthakur",
-    "comments": 19,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26089683"
   },
   {
     "title": "Launch HN: Wasp (YC W21) – DSL for building full-stack web apps",
     "url": "item?id=26091956",
-    "upvotes": 37,
+    "upvotes": 51,
     "author": "matijash",
-    "comments": 12,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26091956"
+  },
+  {
+    "title": "Web Scraping 101 with Python",
+    "url": "https://www.scrapingbee.com/blog/web-scraping-101-with-python/",
+    "upvotes": 120,
+    "author": "daolf",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26090243"
+  },
+  {
+    "title": "Are we game yet? – A guide to the Rust game development ecosystem",
+    "url": "https://arewegameyet.rs/",
+    "upvotes": 195,
+    "author": "lnyan",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26087949"
   },
   {
     "title": "Build the API That Ships Billions",
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "Web Scraping 101 with Python",
-    "url": "https://www.scrapingbee.com/blog/web-scraping-101-with-python/",
-    "upvotes": 100,
-    "author": "daolf",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26090243"
-  },
-  {
-    "title": "Are we game yet? – A guide to the Rust game development ecosystem",
-    "url": "https://arewegameyet.rs/",
-    "upvotes": 187,
-    "author": "lnyan",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26087949"
-  },
-  {
     "title": "A sneak peek at MetaHuman Creator",
     "url": "https://www.unrealengine.com/en-US/blog/a-sneak-peek-at-metahuman-creator-high-fidelity-digital-humans-made-easy",
-    "upvotes": 51,
+    "upvotes": 72,
     "author": "jsheard",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26090514"
   },
   {
     "title": "Paw is joining Rapid API, Paw for the Web, Windows, and Linux is available",
     "url": "https://blog.paw.cloud/paw-joins-forces-with-rapidapi/",
-    "upvotes": 77,
+    "upvotes": 84,
     "author": "blacktulip",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26089464"
+  },
+  {
+    "title": "Block Facebook Servers",
+    "url": "https://github.com/jmdugan/blocklists/tree/master/corporations/facebook",
+    "upvotes": 5,
+    "author": "prakhargurunani",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26092868"
+  },
+  {
+    "title": "2021 Revision of the Mathematics Framework for California Public Schools",
+    "url": "https://www.cde.ca.gov/ci/ma/cf/",
+    "upvotes": 16,
+    "author": "happy-go-lucky",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26091890"
+  },
+  {
+    "title": "Preparing to Issue 200M Certificates in 24 Hours",
+    "url": "https://letsencrypt.org/2021/02/10/200m-certs-24hrs.html",
+    "upvotes": 70,
+    "author": "jaas",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26089770"
   },
   {
     "title": "Show HN: Screenstab – A tool to turn screenshots into beautiful image assets",
     "url": "https://www.screenstab.com/",
-    "upvotes": 94,
+    "upvotes": 101,
     "author": "mikaelaast",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26088625"
   },
   {
     "title": "Fnt: apt for fonts",
     "url": "https://github.com/alexmyczko/fnt",
-    "upvotes": 25,
+    "upvotes": 29,
     "author": "alexmyczko",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26063971"
-  },
-  {
-    "title": "Preparing to Issue 200M Certificates in 24 Hours",
-    "url": "https://letsencrypt.org/2021/02/10/200m-certs-24hrs.html",
-    "upvotes": 53,
-    "author": "jaas",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26089770"
   },
   {
     "title": "Illuminating hyperbolic geometry",
     "url": "https://www.youtube.com/watch?v=eGEQ_UuQtYs",
-    "upvotes": 22,
+    "upvotes": 30,
     "author": "lnyan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26074116"
@@ -126,113 +134,105 @@
   {
     "title": "Launch HN: Taste",
     "url": "https://www.gettaste.com",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "dealmak3r",
-    "comments": 36,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26090238"
+  },
+  {
+    "title": "EPA Takes Action to Protect Scientific Integrity",
+    "url": "https://www.epa.gov/newsreleases/epa-takes-action-protect-scientific-integrity",
+    "upvotes": 134,
+    "author": "samizdis",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=26087344"
+  },
+  {
+    "title": "Infinitely zooming botanical floral paradise painting",
+    "url": "http://arkadia.xyz/",
+    "upvotes": 276,
+    "author": "masupicchu",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26078677"
   },
   {
     "title": "Jazzer brings modern fuzz testing to the JVM",
     "url": "https://blog.code-intelligence.com/fuzzing-for-jvm-is-now-open-source",
-    "upvotes": 40,
+    "upvotes": 45,
     "author": "lrngjcb",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26090139"
   },
   {
-    "title": "EPA Takes Action to Protect Scientific Integrity",
-    "url": "https://www.epa.gov/newsreleases/epa-takes-action-protect-scientific-integrity",
-    "upvotes": 126,
-    "author": "samizdis",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26087344"
-  },
-  {
-    "title": "2021 Revision of the Mathematics Framework for California Public Schools",
-    "url": "https://www.cde.ca.gov/ci/ma/cf/",
-    "upvotes": 8,
-    "author": "happy-go-lucky",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26091890"
-  },
-  {
-    "title": "Infinitely zooming botanical floral paradise painting",
-    "url": "http://arkadia.xyz/",
-    "upvotes": 262,
-    "author": "masupicchu",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26078677"
-  },
-  {
     "title": "Bitcoin now uses more electricity than Argentina",
     "url": "https://cbeci.org/cbeci/comparisons",
-    "upvotes": 655,
+    "upvotes": 700,
     "author": "apples_oranges",
-    "comments": 1140,
+    "comments": 1190,
     "link": "https://news.ycombinator.com/item?id=26088455"
   },
   {
     "title": "Is Apple Banning Free Analytics SDKs?",
     "url": "https://steamclock.com/blog/2021/02/apple-tracking-analytics-sdks/",
-    "upvotes": 81,
+    "upvotes": 89,
     "author": "ch_sm",
-    "comments": 44,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26087935"
   },
   {
     "title": "Apple Watch Identifies SARS-CoV2 Infection and Predicts Diagnosis",
     "url": "https://preprints.jmir.org/preprint/26107",
-    "upvotes": 119,
+    "upvotes": 133,
     "author": "giuliomagnifico",
-    "comments": 53,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26089321"
+  },
+  {
+    "title": "Just Launch the Damn Thing",
+    "url": "https://mobilefolk.com/just-launch-the-damn-thing/",
+    "upvotes": 45,
+    "author": "alex_c",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26066236"
   },
   {
     "title": "Show HN: I built an internet speed analytics tool",
     "url": "https://www.ronaldlangeveld.com/isp-logger",
-    "upvotes": 78,
+    "upvotes": 81,
     "author": "ronaldl93",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26068520"
-  },
-  {
-    "title": "Elfstedentocht",
-    "url": "https://en.wikipedia.org/wiki/Elfstedentocht",
-    "upvotes": 284,
-    "author": "stevage",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=26061361"
   },
   {
     "title": "Github1s – One second to read GitHub code with VS Code",
     "url": "https://github.com/conwnet/github1s",
-    "upvotes": 1484,
+    "upvotes": 1501,
     "author": "tardismechanic",
-    "comments": 191,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=26083919"
-  },
-  {
-    "title": "Ham Radio Forms a Planet-Sized Space Weather Sensor Network",
-    "url": "https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network",
-    "upvotes": 165,
-    "author": "sohkamyung",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26085238"
-  },
-  {
-    "title": "Timezone Bullshit",
-    "url": "https://blog.wesleyac.com/posts/timezone-bullshit",
-    "upvotes": 257,
-    "author": "organian",
-    "comments": 215,
-    "link": "https://news.ycombinator.com/item?id=26087502"
   },
   {
     "title": "The Caltech Sweepstakes Caper",
     "url": "http://hoaxes.org/archive/permalink/the_caltech_sweepstakes_caper",
-    "upvotes": 37,
+    "upvotes": 43,
     "author": "turtlegrids",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26074154"
+  },
+  {
+    "title": "Timezone Bullshit",
+    "url": "https://blog.wesleyac.com/posts/timezone-bullshit",
+    "upvotes": 269,
+    "author": "organian",
+    "comments": 228,
+    "link": "https://news.ycombinator.com/item?id=26087502"
+  },
+  {
+    "title": "How we implemented replication in Memgraph DB – Our approach and challenges.",
+    "url": "https://memgraph.com/blog/implementing-data-replication",
+    "upvotes": 24,
+    "author": "karimtr",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26088628"
   }
 ]
