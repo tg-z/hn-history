@@ -2,23 +2,23 @@
   {
     "title": "OpenStreetMap proven to be a highly accurate map in top US cities",
     "url": "https://eng.lyft.com/how-lyft-discovered-openstreetmap-is-the-freshest-map-for-rideshare-a7a41bf92ec",
-    "upvotes": 530,
+    "upvotes": 548,
     "author": "clarecorthell",
-    "comments": 131,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=26082428"
   },
   {
     "title": "Github1s – One second to read GitHub code with VS Code",
     "url": "https://github.com/conwnet/github1s",
-    "upvotes": 336,
+    "upvotes": 389,
     "author": "tardismechanic",
-    "comments": 57,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26083919"
   },
   {
     "title": "Ham Radio Forms a Planet-Sized Space Weather Sensor Network",
     "url": "https://eos.org/features/ham-radio-forms-a-planet-sized-space-weather-sensor-network",
-    "upvotes": 48,
+    "upvotes": 54,
     "author": "sohkamyung",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26085238"
@@ -26,79 +26,63 @@
   {
     "title": "Elfstedentocht",
     "url": "https://en.wikipedia.org/wiki/Elfstedentocht",
-    "upvotes": 31,
+    "upvotes": 42,
     "author": "stevage",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26061361"
+  },
+  {
+    "title": "Posix Threads Programming",
+    "url": "https://computing.llnl.gov/tutorials/pthreads/",
+    "upvotes": 25,
+    "author": "dvaun",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26085373"
   },
   {
     "title": "Pattern matching accepted for Python",
     "url": "https://lwn.net/Articles/845480/",
-    "upvotes": 415,
+    "upvotes": 432,
     "author": "eplanit",
-    "comments": 313,
+    "comments": 317,
     "link": "https://news.ycombinator.com/item?id=26080760"
   },
   {
     "title": "Haxe 4.2",
     "url": "https://community.haxe.org/t/haxe-4-2-0-is-released/2888",
-    "upvotes": 201,
+    "upvotes": 208,
     "author": "Gama11",
-    "comments": 70,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26082347"
   },
   {
     "title": "Creeping as a Service",
     "url": "https://every.to/divinations/creeping-as-a-service-craas",
-    "upvotes": 269,
+    "upvotes": 271,
     "author": "dshipper",
-    "comments": 92,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=26081672"
   },
   {
     "title": "Turtle visual cortex is non-retinotopic",
     "url": "https://blog.jordan.matelsky.com/365papers/141/",
-    "upvotes": 76,
+    "upvotes": 80,
     "author": "awinter-py",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26084739"
-  },
-  {
-    "title": "Posix Threads Programming",
-    "url": "https://computing.llnl.gov/tutorials/pthreads/",
-    "upvotes": 14,
-    "author": "dvaun",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26085373"
   },
   {
     "title": "Thinking too much can be bad for you",
     "url": "https://www.economist.com/1843/2012/12/29/why-thinking-too-much-can-be-bad-for-you",
-    "upvotes": 203,
+    "upvotes": 214,
     "author": "smk_",
-    "comments": 146,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=26081880"
-  },
-  {
-    "title": "The Queen has more power over British law than we thought",
-    "url": "https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent",
-    "upvotes": 224,
-    "author": "anonymfus",
-    "comments": 303,
-    "link": "https://news.ycombinator.com/item?id=26081208"
-  },
-  {
-    "title": "What's an SPF Record?",
-    "url": "https://blog.ohmysmtp.com/blog/whats-an-spf-record/",
-    "upvotes": 78,
-    "author": "albertgoeswoof",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26071103"
   },
   {
     "title": "Browser Fuzzing at Mozilla",
     "url": "https://hacks.mozilla.org/2021/02/browser-fuzzing-at-mozilla/",
-    "upvotes": 191,
+    "upvotes": 193,
     "author": "gbrown_",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26080578"
@@ -106,39 +90,79 @@
   {
     "title": "Cops are playing music while citizens are filming to trigger copyright filters",
     "url": "https://twitter.com/jason_koebler/status/1359213426740895744",
-    "upvotes": 673,
+    "upvotes": 695,
     "author": "edward",
-    "comments": 316,
+    "comments": 325,
     "link": "https://news.ycombinator.com/item?id=26082303"
+  },
+  {
+    "title": "The Queen has more power over British law than we thought",
+    "url": "https://www.theguardian.com/commentisfree/2021/feb/08/queen-power-british-law-queens-consent",
+    "upvotes": 232,
+    "author": "anonymfus",
+    "comments": 310,
+    "link": "https://news.ycombinator.com/item?id=26081208"
+  },
+  {
+    "title": "What's an SPF Record?",
+    "url": "https://blog.ohmysmtp.com/blog/whats-an-spf-record/",
+    "upvotes": 80,
+    "author": "albertgoeswoof",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26071103"
   },
   {
     "title": "Flynt: Convert old Python string formatting to f-strings",
     "url": "https://github.com/ikamensh/flynt",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "snth",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26084824"
   },
   {
-    "title": "How to Get Startup Ideas",
-    "url": "https://www.wilburlabs.com/blueprints/how-to-get-startup-ideas",
-    "upvotes": 32,
-    "author": "davidkolodny",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26085118"
+    "title": "Brain2Pix: Video Reconstruction from Brain Activity",
+    "url": "https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1",
+    "upvotes": 8,
+    "author": "nl",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26085469"
   },
   {
     "title": "Python behind the scenes #8: how Python integers work",
     "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/",
-    "upvotes": 101,
+    "upvotes": 108,
     "author": "rbanffy",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26081919"
+  },
+  {
+    "title": "The Real Novelty of the Arpanet",
+    "url": "https://twobithistory.org/2021/02/07/arpanet.html",
+    "upvotes": 14,
+    "author": "fcambus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26058927"
+  },
+  {
+    "title": "Base64.ai – Extract text, data, photos and more from all types of docs",
+    "url": "http://base64.ai/",
+    "upvotes": 8,
+    "author": "alierkurt",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26085538"
+  },
+  {
+    "title": "How to Get Startup Ideas",
+    "url": "https://www.wilburlabs.com/blueprints/how-to-get-startup-ideas",
+    "upvotes": 38,
+    "author": "davidkolodny",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26085118"
   },
   {
     "title": "GlobalSign: RSA-1024 leaf certificate issued after 2013-12-31",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=1690807",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "tech234a",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26083306"
@@ -146,77 +170,61 @@
   {
     "title": "An SQL Solution for Jupyter",
     "url": "https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925",
-    "upvotes": 68,
+    "upvotes": 74,
     "author": "3l3ktr4",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26083353"
-  },
-  {
-    "title": "The Real Novelty of the Arpanet",
-    "url": "https://twobithistory.org/2021/02/07/arpanet.html",
-    "upvotes": 9,
-    "author": "fcambus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26058927"
-  },
-  {
-    "title": "Brain2Pix: Video Reconstruction from Brain Activity",
-    "url": "https://www.biorxiv.org/content/10.1101/2021.02.02.429430v1",
-    "upvotes": 5,
-    "author": "nl",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26085469"
   },
   {
     "title": "Lumi is hiring to build a marketplace for sustainable factories – work anywhere",
     "url": "https://www.lumi.com/jobs"
   },
   {
-    "title": "SDL Moves to GitHub",
-    "url": "https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5",
-    "upvotes": 236,
-    "author": "Bl4ckb0ne",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=26082680"
-  },
-  {
     "title": "iRacing Telemetry with F#",
     "url": "https://markjames.dev/2021-02-09-iracing-telemetry-fsharp/",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26083841"
   },
   {
-    "title": "Looking at GSM security 30 years later",
-    "url": "https://harrisonsand.com/gsm-security/",
-    "upvotes": 120,
-    "author": "8sfLes",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26064725"
-  },
-  {
     "title": "Haskell: The Bad Parts, part 2",
     "url": "https://www.snoyman.com/blog/2020/11/haskell-bad-parts-2",
-    "upvotes": 229,
+    "upvotes": 233,
     "author": "anuragsoni",
     "comments": 138,
     "link": "https://news.ycombinator.com/item?id=26077823"
   },
   {
+    "title": "Looking at GSM security 30 years later",
+    "url": "https://harrisonsand.com/gsm-security/",
+    "upvotes": 121,
+    "author": "8sfLes",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26064725"
+  },
+  {
     "title": "Launch HN: SigNoz (YC W21) – Open-source alternative to DataDog",
     "url": "item?id=26079389",
-    "upvotes": 183,
+    "upvotes": 184,
     "author": "pranay01",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26079389"
   },
   {
+    "title": "SDL Moves to GitHub",
+    "url": "https://discourse.libsdl.org/t/sdl-moving-to-github/28700/5",
+    "upvotes": 237,
+    "author": "Bl4ckb0ne",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=26082680"
+  },
+  {
     "title": "Minesweeper automates root cause analysis as a first-line defense against bugs",
     "url": "https://engineering.fb.com/2021/02/09/developer-tools/minesweeper/",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "muglug",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26081608"
   },
   {
@@ -224,15 +232,7 @@
     "url": "https://odysee.com/@linmob:3/fedora-on-the-pinephone-pipewire-calling:1",
     "upvotes": 126,
     "author": "ashitlerferad",
-    "comments": 78,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26080207"
-  },
-  {
-    "title": "Base64.ai – Extract text, data, photos and more from all types of docs",
-    "url": "http://base64.ai/",
-    "upvotes": 4,
-    "author": "alierkurt",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26085538"
   }
 ]
