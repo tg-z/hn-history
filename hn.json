@@ -2,47 +2,47 @@
   {
     "title": "Comparison of Rust async and Linux thread context switch time and memory use",
     "url": "https://github.com/jimblandy/context-switch",
-    "upvotes": 41,
+    "upvotes": 62,
     "author": "viraptor",
-    "comments": 17,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26110612"
+  },
+  {
+    "title": "You Shall Not Pass",
+    "url": "https://youshallnotpass.glitch.me/?",
+    "upvotes": 29,
+    "author": "karlzt",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26110496"
   },
   {
     "title": "What you can learn about medieval Europe if you focus on peasants",
     "url": "https://www.laphamsquarterly.org/roundtable/those-who-work",
-    "upvotes": 63,
+    "upvotes": 78,
     "author": "diodorus",
-    "comments": 50,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26097157"
   },
   {
     "title": "MasterCard to open up network to cryptocurrencies",
     "url": "https://www.reuters.com/article/us-crypto-currency-mastercard/mastercard-to-open-up-network-to-select-cryptocurrencies-idUSKBN2AA2WF",
-    "upvotes": 804,
+    "upvotes": 807,
     "author": "ArtTimeInvestor",
-    "comments": 734,
+    "comments": 738,
     "link": "https://news.ycombinator.com/item?id=26102030"
   },
   {
     "title": "Kubernetes Failure Stories",
     "url": "https://k8s.af",
-    "upvotes": 317,
+    "upvotes": 327,
     "author": "jakozaur",
-    "comments": 92,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26106080"
-  },
-  {
-    "title": "Dyson air purifier outperformed by cheap DIY box fan filter in Marketplace test",
-    "url": "https://www.cbc.ca/1.5900782",
-    "upvotes": 626,
-    "author": "walterbell",
-    "comments": 476,
-    "link": "https://news.ycombinator.com/item?id=26101153"
   },
   {
     "title": "Linear-base makes writing Linear Haskell easy and fun",
     "url": "https://www.tweag.io/blog/2021-02-10-linear-base/",
-    "upvotes": 28,
+    "upvotes": 37,
     "author": "lelf",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26100693"
@@ -50,118 +50,126 @@
   {
     "title": "Why I Built Litestream",
     "url": "https://litestream.io/blog/why-i-built-litestream/",
-    "upvotes": 429,
+    "upvotes": 443,
     "author": "benbjohnson",
-    "comments": 130,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=26103776"
-  },
-  {
-    "title": "You Shall Not Pass",
-    "url": "https://youshallnotpass.glitch.me/?",
-    "upvotes": 14,
-    "author": "karlzt",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26110496"
   },
   {
     "title": "Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?",
     "url": "https://docs.particubes.com/",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "aduermael",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26109153"
   },
   {
-    "title": "LinkedIn’s Alternate Universe",
-    "url": "https://every.to/divinations/linkedins-alternate-universe-21780381",
-    "upvotes": 283,
-    "author": "Benlights",
-    "comments": 185,
-    "link": "https://news.ycombinator.com/item?id=26091100"
+    "title": "U.S. Postage Stamp Will Honor the 'First Lady of Physics'",
+    "url": "https://www.smithsonianmag.com/smart-news/us-postage-stamp-will-honor-first-lady-physics-180976979/",
+    "upvotes": 14,
+    "author": "indogooner",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26110273"
   },
   {
-    "title": "Pravetz Computers",
-    "url": "https://en.wikipedia.org/wiki/Pravetz_computers",
-    "upvotes": 105,
-    "author": "incomplete",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26107924"
+    "title": "LinkedIn’s Alternate Universe",
+    "url": "https://every.to/divinations/linkedins-alternate-universe-21780381",
+    "upvotes": 291,
+    "author": "Benlights",
+    "comments": 186,
+    "link": "https://news.ycombinator.com/item?id=26091100"
   },
   {
     "title": "Podman: A Daemonless Container Engine",
     "url": "https://podman.io/",
-    "upvotes": 282,
+    "upvotes": 286,
     "author": "lobo_tuerto",
     "comments": 200,
     "link": "https://news.ycombinator.com/item?id=26101608"
   },
   {
+    "title": "Pravetz Computers",
+    "url": "https://en.wikipedia.org/wiki/Pravetz_computers",
+    "upvotes": 107,
+    "author": "incomplete",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26107924"
+  },
+  {
     "title": "Uncovering a 24-year-old bug in the Linux Kernel",
     "url": "https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/",
-    "upvotes": 364,
+    "upvotes": 372,
     "author": "greenonion",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26102241"
   },
   {
-    "title": "What Do You Agree to When You Accept All Cookies",
-    "url": "http://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/",
-    "upvotes": 288,
-    "author": "kaboro",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=26101092"
-  },
-  {
-    "title": "U.S. Postage Stamp Will Honor the 'First Lady of Physics'",
-    "url": "https://www.smithsonianmag.com/smart-news/us-postage-stamp-will-honor-first-lady-physics-180976979/",
-    "upvotes": 8,
-    "author": "indogooner",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26110273"
-  },
-  {
     "title": "Running unmodified Linux programs on Fuchsia",
     "url": "https://fuchsia-review.googlesource.com/c/fuchsia/+/485181",
-    "upvotes": 144,
+    "upvotes": 145,
     "author": "lyssue",
     "comments": 114,
     "link": "https://news.ycombinator.com/item?id=26104667"
   },
   {
-    "title": "Tell HN: A case of negative SEO I caught on my service and how I dealt with it",
-    "url": "item?id=26105890",
-    "upvotes": 147,
-    "author": "santah",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26105890"
-  },
-  {
     "title": "Idioms for the D Programming Language",
     "url": "https://p0nce.github.io/d-idioms/",
-    "upvotes": 107,
+    "upvotes": 110,
     "author": "crazypython",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26105564"
   },
   {
-    "title": "Show HN: git-peek – git repo to local editor instantly",
-    "url": "https://github.com/jarred-sumner/git-peek",
-    "upvotes": 48,
-    "author": "Jarred",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26108039"
+    "title": "Dyson air purifier outperformed by cheap DIY box fan filter in Marketplace test",
+    "url": "https://www.cbc.ca/1.5900782",
+    "upvotes": 632,
+    "author": "walterbell",
+    "comments": 477,
+    "link": "https://news.ycombinator.com/item?id=26101153"
   },
   {
-    "title": "QuestDB",
-    "url": "https://questdb.io/careers/"
+    "title": "Tell HN: A case of negative SEO I caught on my service and how I dealt with it",
+    "url": "item?id=26105890",
+    "upvotes": 150,
+    "author": "santah",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26105890"
   },
   {
     "title": "Emacs minor mode for d20 tabletop roleplaying games",
     "url": "https://spwhitton.name/tech/code/org-d20/",
-    "upvotes": 76,
+    "upvotes": 79,
     "author": "pabs3",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26074259"
+  },
+  {
+    "title": "Show HN: git-peek – git repo to local editor instantly",
+    "url": "https://github.com/jarred-sumner/git-peek",
+    "upvotes": 50,
+    "author": "Jarred",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26108039"
+  },
+  {
+    "title": "A reverse-engineered description of Adobe Type 1 fonts.",
+    "url": "https://minnie.tuhs.org/pipermail/tuhs/2021-February/023136.html",
+    "upvotes": 46,
+    "author": "fanf2",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26107659"
+  },
+  {
+    "title": "Do Things that Don't Scale",
+    "url": "http://www.paulgraham.com/ds.html",
+    "upvotes": 161,
+    "author": "ollerac",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26086196"
+  },
+  {
+    "title": "QuestDB",
+    "url": "https://questdb.io/careers/"
   },
   {
     "title": "Launch HN: Chorus Meditation (YC W21) – Meditation for Non-Meditators",
@@ -174,42 +182,42 @@
   {
     "title": "From First Principles: Why Scala?",
     "url": "https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html",
-    "upvotes": 264,
+    "upvotes": 266,
     "author": "lihaoyi",
-    "comments": 287,
+    "comments": 289,
     "link": "https://news.ycombinator.com/item?id=26101435"
-  },
-  {
-    "title": "Do Things that Don't Scale",
-    "url": "http://www.paulgraham.com/ds.html",
-    "upvotes": 155,
-    "author": "ollerac",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26086196"
-  },
-  {
-    "title": "More Evidence That Neanderthals Were ‘Absorbed’ by Humans, Not Wiped Out",
-    "url": "https://gizmodo.com/more-evidence-that-neanderthals-were-absorbed-by-huma-1846173050",
-    "upvotes": 44,
-    "author": "Hooke",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26098880"
-  },
-  {
-    "title": "A reverse-engineered description of Adobe Type 1 fonts.",
-    "url": "https://minnie.tuhs.org/pipermail/tuhs/2021-February/023136.html",
-    "upvotes": 41,
-    "author": "fanf2",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26107659"
   },
   {
     "title": "America's 1% Has Taken $50T From the Bottom 90%",
     "url": "https://time.com/5888024/50-trillion-income-inequality-america/",
-    "upvotes": 703,
+    "upvotes": 716,
     "author": "paulpauper",
-    "comments": 692,
+    "comments": 703,
     "link": "https://news.ycombinator.com/item?id=26102709"
+  },
+  {
+    "title": "Beej's Guide to Network Programming",
+    "url": "https://beej.us/guide/bgnet/html/",
+    "upvotes": 850,
+    "author": "ColinWright",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=26100075"
+  },
+  {
+    "title": "More Evidence That Neanderthals Were ‘Absorbed’ by Humans, Not Wiped Out",
+    "url": "https://gizmodo.com/more-evidence-that-neanderthals-were-absorbed-by-huma-1846173050",
+    "upvotes": 45,
+    "author": "Hooke",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26098880"
+  },
+  {
+    "title": "Joan Didion’s ‘Let Me Tell You What I Mean’ shows a writer ahead of her time",
+    "url": "https://www.washingtonpost.com/entertainment/books/joan-didion-let-me-tell-you-what-i-mean/2021/02/08/6659793c-6641-11eb-8468-21bc48f07fe5_story.html",
+    "upvotes": 24,
+    "author": "samclemens",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26086016"
   },
   {
     "title": "The Atlas for the Aspiring Network Scientist v1.1",
@@ -220,19 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=26075068"
   },
   {
-    "title": "Beej's Guide to Network Programming",
-    "url": "https://beej.us/guide/bgnet/html/",
-    "upvotes": 848,
-    "author": "ColinWright",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=26100075"
-  },
-  {
-    "title": "Joan Didion’s ‘Let Me Tell You What I Mean’ shows a writer ahead of her time",
-    "url": "https://www.washingtonpost.com/entertainment/books/joan-didion-let-me-tell-you-what-i-mean/2021/02/08/6659793c-6641-11eb-8468-21bc48f07fe5_story.html",
-    "upvotes": 24,
-    "author": "samclemens",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26086016"
+    "title": "How Fat Does a Fat Binary Need to Be?",
+    "url": "https://justine.lol/cosmopolitan/howfat.html",
+    "upvotes": 122,
+    "author": "jart",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26103769"
   }
 ]
