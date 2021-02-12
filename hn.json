@@ -1,96 +1,104 @@
 [
   {
-    "title": "MasterCard to open up network to cryptocurrencies",
-    "url": "https://www.reuters.com/article/us-crypto-currency-mastercard/mastercard-to-open-up-network-to-select-cryptocurrencies-idUSKBN2AA2WF",
-    "upvotes": 781,
-    "author": "ArtTimeInvestor",
-    "comments": 718,
-    "link": "https://news.ycombinator.com/item?id=26102030"
-  },
-  {
     "title": "What you can learn about medieval Europe if you focus on peasants",
     "url": "https://www.laphamsquarterly.org/roundtable/those-who-work",
-    "upvotes": 42,
+    "upvotes": 52,
     "author": "diodorus",
-    "comments": 9,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26097157"
+  },
+  {
+    "title": "MasterCard to open up network to cryptocurrencies",
+    "url": "https://www.reuters.com/article/us-crypto-currency-mastercard/mastercard-to-open-up-network-to-select-cryptocurrencies-idUSKBN2AA2WF",
+    "upvotes": 792,
+    "author": "ArtTimeInvestor",
+    "comments": 728,
+    "link": "https://news.ycombinator.com/item?id=26102030"
   },
   {
     "title": "Kubernetes Failure Stories",
     "url": "https://k8s.af",
-    "upvotes": 287,
+    "upvotes": 302,
     "author": "jakozaur",
-    "comments": 86,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26106080"
   },
   {
     "title": "Dyson air purifier outperformed by cheap DIY box fan filter in Marketplace test",
     "url": "https://www.cbc.ca/1.5900782",
-    "upvotes": 605,
+    "upvotes": 614,
     "author": "walterbell",
-    "comments": 464,
+    "comments": 471,
     "link": "https://news.ycombinator.com/item?id=26101153"
   },
   {
     "title": "Why I Built Litestream",
     "url": "https://litestream.io/blog/why-i-built-litestream/",
-    "upvotes": 399,
+    "upvotes": 419,
     "author": "benbjohnson",
-    "comments": 126,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=26103776"
-  },
-  {
-    "title": "Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?",
-    "url": "https://docs.particubes.com/",
-    "upvotes": 61,
-    "author": "aduermael",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26109153"
   },
   {
     "title": "Linear-base makes writing Linear Haskell easy and fun",
     "url": "https://www.tweag.io/blog/2021-02-10-linear-base/",
-    "upvotes": 11,
+    "upvotes": 18,
     "author": "lelf",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26100693"
   },
   {
+    "title": "Comparison of Rust async and Linux thread context switch time and memory use",
+    "url": "https://github.com/jimblandy/context-switch",
+    "upvotes": 4,
+    "author": "viraptor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26110612"
+  },
+  {
+    "title": "Show HN: Real-time multiplayer games with cubes. Early feedback on dev docs?",
+    "url": "https://docs.particubes.com/",
+    "upvotes": 66,
+    "author": "aduermael",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26109153"
+  },
+  {
+    "title": "LinkedIn’s Alternate Universe",
+    "url": "https://every.to/divinations/linkedins-alternate-universe-21780381",
+    "upvotes": 271,
+    "author": "Benlights",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=26091100"
+  },
+  {
     "title": "Pravetz Computers",
     "url": "https://en.wikipedia.org/wiki/Pravetz_computers",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "incomplete",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26107924"
   },
   {
-    "title": "LinkedIn’s Alternate Universe",
-    "url": "https://every.to/divinations/linkedins-alternate-universe-21780381",
-    "upvotes": 263,
-    "author": "Benlights",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=26091100"
-  },
-  {
     "title": "Podman: A Daemonless Container Engine",
     "url": "https://podman.io/",
-    "upvotes": 275,
+    "upvotes": 279,
     "author": "lobo_tuerto",
-    "comments": 194,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=26101608"
   },
   {
     "title": "What Do You Agree to When You Accept All Cookies",
     "url": "http://www.conradakunga.com/blog/what-do-you-actually-agree-to-when-you-accept-all-cookies/",
-    "upvotes": 285,
+    "upvotes": 287,
     "author": "kaboro",
-    "comments": 149,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=26101092"
   },
   {
     "title": "Uncovering a 24-year-old bug in the Linux Kernel",
     "url": "https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/",
-    "upvotes": 343,
+    "upvotes": 354,
     "author": "greenonion",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26102241"
@@ -98,7 +106,7 @@
   {
     "title": "Running unmodified Linux programs on Fuchsia",
     "url": "https://fuchsia-review.googlesource.com/c/fuchsia/+/485181",
-    "upvotes": 136,
+    "upvotes": 140,
     "author": "lyssue",
     "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26104667"
@@ -106,7 +114,7 @@
   {
     "title": "Idioms for the D Programming Language",
     "url": "https://p0nce.github.io/d-idioms/",
-    "upvotes": 104,
+    "upvotes": 107,
     "author": "crazypython",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26105564"
@@ -114,7 +122,7 @@
   {
     "title": "Tell HN: A case of negative SEO I caught on my service and how I dealt with it",
     "url": "item?id=26105890",
-    "upvotes": 133,
+    "upvotes": 140,
     "author": "santah",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26105890"
@@ -122,62 +130,54 @@
   {
     "title": "Show HN: git-peek – git repo to local editor instantly",
     "url": "https://github.com/jarred-sumner/git-peek",
-    "upvotes": 41,
+    "upvotes": 45,
     "author": "Jarred",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26108039"
   },
   {
-    "title": "Launch HN: Chorus Meditation (YC W21) – Meditation for Non-Meditators",
-    "url": "item?id=26103433",
-    "upvotes": 81,
-    "author": "aliabramovitz",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26103433"
+    "title": "Emacs minor mode for d20 tabletop roleplaying games",
+    "url": "https://spwhitton.name/tech/code/org-d20/",
+    "upvotes": 71,
+    "author": "pabs3",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26074259"
+  },
+  {
+    "title": "From First Principles: Why Scala?",
+    "url": "https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html",
+    "upvotes": 262,
+    "author": "lihaoyi",
+    "comments": 286,
+    "link": "https://news.ycombinator.com/item?id=26101435"
   },
   {
     "title": "QuestDB",
     "url": "https://questdb.io/careers/"
   },
   {
-    "title": "Emacs minor mode for d20 tabletop roleplaying games",
-    "url": "https://spwhitton.name/tech/code/org-d20/",
-    "upvotes": 67,
-    "author": "pabs3",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26074259"
-  },
-  {
-    "title": "From First Principles: Why Scala?",
-    "url": "https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html",
-    "upvotes": 257,
-    "author": "lihaoyi",
-    "comments": 278,
-    "link": "https://news.ycombinator.com/item?id=26101435"
-  },
-  {
-    "title": "More Evidence That Neanderthals Were ‘Absorbed’ by Humans, Not Wiped Out",
-    "url": "https://gizmodo.com/more-evidence-that-neanderthals-were-absorbed-by-huma-1846173050",
-    "upvotes": 38,
-    "author": "Hooke",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26098880"
-  },
-  {
-    "title": "Joan Didion’s ‘Let Me Tell You What I Mean’ shows a writer ahead of her time",
-    "url": "https://www.washingtonpost.com/entertainment/books/joan-didion-let-me-tell-you-what-i-mean/2021/02/08/6659793c-6641-11eb-8468-21bc48f07fe5_story.html",
-    "upvotes": 20,
-    "author": "samclemens",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26086016"
+    "title": "Launch HN: Chorus Meditation (YC W21) – Meditation for Non-Meditators",
+    "url": "item?id=26103433",
+    "upvotes": 83,
+    "author": "aliabramovitz",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26103433"
   },
   {
     "title": "Do Things that Don't Scale",
     "url": "http://www.paulgraham.com/ds.html",
-    "upvotes": 149,
+    "upvotes": 153,
     "author": "ollerac",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26086196"
+  },
+  {
+    "title": "Joan Didion’s ‘Let Me Tell You What I Mean’ shows a writer ahead of her time",
+    "url": "https://www.washingtonpost.com/entertainment/books/joan-didion-let-me-tell-you-what-i-mean/2021/02/08/6659793c-6641-11eb-8468-21bc48f07fe5_story.html",
+    "upvotes": 21,
+    "author": "samclemens",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26086016"
   },
   {
     "title": "A reverse-engineered description of Adobe Type 1 fonts.",
@@ -190,15 +190,23 @@
   {
     "title": "America's 1% Has Taken $50T From the Bottom 90%",
     "url": "https://time.com/5888024/50-trillion-income-inequality-america/",
-    "upvotes": 657,
+    "upvotes": 680,
     "author": "paulpauper",
-    "comments": 662,
+    "comments": 670,
     "link": "https://news.ycombinator.com/item?id=26102709"
+  },
+  {
+    "title": "More Evidence That Neanderthals Were ‘Absorbed’ by Humans, Not Wiped Out",
+    "url": "https://gizmodo.com/more-evidence-that-neanderthals-were-absorbed-by-huma-1846173050",
+    "upvotes": 40,
+    "author": "Hooke",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26098880"
   },
   {
     "title": "Beej's Guide to Network Programming",
     "url": "https://beej.us/guide/bgnet/html/",
-    "upvotes": 834,
+    "upvotes": 840,
     "author": "ColinWright",
     "comments": 147,
     "link": "https://news.ycombinator.com/item?id=26100075"
@@ -206,7 +214,7 @@
   {
     "title": "Show HN: Sleepy Time Conference—conferences that comes together while you sleep",
     "url": "https://github.com/breck7/sleepytimeconference/blob/main/README.md",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "breck",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26107835"
@@ -214,23 +222,15 @@
   {
     "title": "Should random",
     "url": "https://r2c.dev/blog/2021/should-random-be-banned/",
-    "upvotes": 63,
+    "upvotes": 64,
     "author": "pabloest",
-    "comments": 143,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26104056"
-  },
-  {
-    "title": "Nyströmformer: A Nyström-Based Algorithm for Approximating Self-Attention",
-    "url": "https://arxiv.org/abs/2102.03902",
-    "upvotes": 60,
-    "author": "tmfi",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26105455"
   },
   {
     "title": "How Fat Does a Fat Binary Need to Be?",
     "url": "https://justine.lol/cosmopolitan/howfat.html",
-    "upvotes": 119,
+    "upvotes": 121,
     "author": "jart",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26103769"
