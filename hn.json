@@ -2,75 +2,75 @@
   {
     "title": "Google is now a visionary sponsor of the Python Software Foundation",
     "url": "http://pyfound.blogspot.com/2021/02/welcoming-google-as-visionary-sponsor.html",
-    "upvotes": 150,
+    "upvotes": 168,
     "author": "Ldorigo",
-    "comments": 107,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=26121937"
   },
   {
     "title": "Calvin and Hobbes Search Engine",
     "url": "http://michaelyingling.com/random/calvin_and_hobbes/",
-    "upvotes": 352,
+    "upvotes": 356,
     "author": "bookofjoe",
-    "comments": 130,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=26119380"
-  },
-  {
-    "title": "Alternative Shells",
-    "url": "https://github.com/oilshell/oil/wiki/Alternative-Shells",
-    "upvotes": 97,
-    "author": "chubot",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26121592"
   },
   {
     "title": "FIDO2 security key company releases hardware that's open source and uses Rust",
     "url": "https://solokeys.com/blogs/news/our-solo-v2-campaign-launches-on-january-26th",
-    "upvotes": 282,
+    "upvotes": 290,
     "author": "conorpp",
-    "comments": 122,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=26118571"
+  },
+  {
+    "title": "Alternative Shells",
+    "url": "https://github.com/oilshell/oil/wiki/Alternative-Shells",
+    "upvotes": 100,
+    "author": "chubot",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26121592"
   },
   {
     "title": "Ditherpunk 2 – beyond 1-bit",
     "url": "https://www.makeworld.gq/2021/02/dithering.html",
-    "upvotes": 127,
+    "upvotes": 131,
     "author": "makeworld",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26120631"
+  },
+  {
+    "title": "How to Revive a Dead Language",
+    "url": "https://daily.jstor.org/how-to-revive-a-dead-language/",
+    "upvotes": 32,
+    "author": "tintinnabula",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26111038"
   },
   {
     "title": "Taplytics",
     "url": "https://jobs.lever.co/taplytics/cab67183-9d2a-4fdb-b5bc-cbbb2d959983"
   },
   {
-    "title": "How to Revive a Dead Language",
-    "url": "https://daily.jstor.org/how-to-revive-a-dead-language/",
-    "upvotes": 28,
-    "author": "tintinnabula",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26111038"
-  },
-  {
     "title": "Threat Actors Now Target Docker via Container Escape Features",
     "url": "https://www.trendmicro.com/en_us/research/21/b/threat-actors-now-target-docker-via-container-escape-features.html",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "pizza",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26121877"
   },
   {
     "title": "Disciplined Minds",
     "url": "http://fromthearchives.blogspot.com/2008/01/thanks-daniel-for-excellent.html",
-    "upvotes": 38,
+    "upvotes": 44,
     "author": "luu",
-    "comments": 10,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26112204"
   },
   {
     "title": "So, You Want to Learn to Break Ciphers",
     "url": "https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/",
-    "upvotes": 125,
+    "upvotes": 133,
     "author": "noch",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26111570"
@@ -78,23 +78,23 @@
   {
     "title": "Show HN: Search inside YouTube videos using natural language queries",
     "url": "https://github.com/haltakov/natural-language-youtube-search",
-    "upvotes": 198,
+    "upvotes": 200,
     "author": "vladoh",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26118756"
   },
   {
     "title": "Microbial ecosystems in the mouth and gut are linked to many ills",
     "url": "https://www.economist.com/science-and-technology/2021/02/10/microbial-ecosystems-in-the-mouth-and-gut-are-linked-to-many-ills",
-    "upvotes": 255,
+    "upvotes": 258,
     "author": "aluket",
-    "comments": 182,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=26117334"
   },
   {
     "title": "The GPL-Violations.org Project",
     "url": "http://gpl-violations.org/",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "generalizations",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26119717"
@@ -102,7 +102,7 @@
   {
     "title": "Svgrepo: Browse SVG vectors and icons",
     "url": "https://www.svgrepo.com/",
-    "upvotes": 231,
+    "upvotes": 237,
     "author": "marcodiego",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26117767"
@@ -110,49 +110,41 @@
   {
     "title": "Swift for TensorFlow Shuts Down",
     "url": "https://github.com/tensorflow/swift",
-    "upvotes": 452,
+    "upvotes": 454,
     "author": "high_derivative",
-    "comments": 350,
+    "comments": 352,
     "link": "https://news.ycombinator.com/item?id=26117453"
   },
   {
     "title": "The Making of Facebook’s Supreme Court",
     "url": "https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court",
-    "upvotes": 43,
+    "upvotes": 44,
     "author": "irtefa",
-    "comments": 22,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26121073"
-  },
-  {
-    "title": "Mathematician Solves Sensitivity Conjecture in Two Pages",
-    "url": "https://www.quantamagazine.org/mathematician-solves-computer-science-conjecture-in-two-pages-20190725/",
-    "upvotes": 270,
-    "author": "kjhughes",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=26114886"
-  },
-  {
-    "title": "IMF researchers: digital footprint yields better credit assessment",
-    "url": "https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/",
-    "upvotes": 79,
-    "author": "da_big_ghey",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=26119312"
   },
   {
     "title": "Goodbye YC",
     "url": "https://blog.aaronkharris.com/goodbye-yc",
-    "upvotes": 230,
+    "upvotes": 237,
     "author": "awaxman11",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26116420"
   },
   {
+    "title": "IMF researchers: digital footprint yields better credit assessment",
+    "url": "https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/",
+    "upvotes": 84,
+    "author": "da_big_ghey",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=26119312"
+  },
+  {
     "title": "Fictional Cryptocurrencies",
     "url": "https://astralcodexten.substack.com/p/list-of-fictional-cryptocurrencies",
-    "upvotes": 170,
+    "upvotes": 175,
     "author": "gadtfly",
-    "comments": 82,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26117587"
   },
   {
@@ -164,75 +156,83 @@
     "link": "https://news.ycombinator.com/item?id=26117516"
   },
   {
-    "title": "AWS Babelfish: The Elephant in the PostgreSQL Room?",
-    "url": "https://postgresql.fund/blog/babelfish-the-elephant-in-the-room/",
-    "upvotes": 181,
-    "author": "ahachete",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=26114281"
-  },
-  {
-    "title": "Best Story Wins",
-    "url": "https://www.collaborativefund.com/blog/story/",
-    "upvotes": 31,
-    "author": "joeyespo",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26115902"
-  },
-  {
-    "title": "Ask HN: Why aren't you coding?",
-    "url": "item?id=26112361",
-    "upvotes": 181,
-    "author": "boffinism",
-    "comments": 267,
-    "link": "https://news.ycombinator.com/item?id=26112361"
-  },
-  {
-    "title": "High Speed Hashing for Integers and Strings",
-    "url": "https://arxiv.org/abs/1504.06804",
-    "upvotes": 7,
-    "author": "PartiallyTyped",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26112286"
-  },
-  {
-    "title": "Flameshot – Superb Screenshot Tool",
-    "url": "https://github.com/flameshot-org/flameshot/",
-    "upvotes": 286,
-    "author": "avhception",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26113753"
-  },
-  {
-    "title": "A Beginner’s Guide to Getting Started with Bitcoin",
-    "url": "https://serhack.me/articles/getting-started-with-bitcoin/",
-    "upvotes": 31,
-    "author": "onerom",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26122394"
-  },
-  {
     "title": "Torching for Newts",
     "url": "https://dark-mountain.net/torching-for-newts/",
-    "upvotes": 3,
+    "upvotes": 4,
     "author": "meanie",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26118229"
   },
   {
+    "title": "High Speed Hashing for Integers and Strings",
+    "url": "https://arxiv.org/abs/1504.06804",
+    "upvotes": 10,
+    "author": "PartiallyTyped",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26112286"
+  },
+  {
+    "title": "Best Story Wins",
+    "url": "https://www.collaborativefund.com/blog/story/",
+    "upvotes": 35,
+    "author": "joeyespo",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26115902"
+  },
+  {
     "title": "How .NET container images are maintained",
     "url": "https://devblogs.microsoft.com/dotnet/staying-safe-with-dotnet-containers/",
-    "upvotes": 133,
+    "upvotes": 135,
     "author": "alexis2b",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26118192"
   },
   {
     "title": "Show HN: Digital Pottery in the Browser",
     "url": "https://digital-pottery.glitch.me/",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "high_byte",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26112765"
+  },
+  {
+    "title": "Ggwave: Tiny Data-over-Sound Library",
+    "url": "https://github.com/ggerganov/ggwave#ggwave",
+    "upvotes": 100,
+    "author": "ingve",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26119109"
+  },
+  {
+    "title": "Killer Whales: 'Transient' Orcas Are Thriving",
+    "url": "https://www.theatlantic.com/science/archive/2021/01/orcas-killer-whale-resident-transient/617862/",
+    "upvotes": 61,
+    "author": "ColinWright",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26111960"
+  },
+  {
+    "title": "An experiment in giving cash to recently homeless people [video]",
+    "url": "https://www.bbc.com/reel/video/p096hf4z/the-7-500-universal-basic-income-experiment",
+    "upvotes": 77,
+    "author": "neom",
+    "comments": 287,
+    "link": "https://news.ycombinator.com/item?id=26116833"
+  },
+  {
+    "title": "Short fat engineers are undervalued",
+    "url": "https://nested.substack.com/p/short-fat-engineers-are-undervalued",
+    "upvotes": 301,
+    "author": "atticusberg",
+    "comments": 212,
+    "link": "https://news.ycombinator.com/item?id=26119087"
+  },
+  {
+    "title": "Chick Corea has died",
+    "url": "https://chickcorea.com/",
+    "upvotes": 671,
+    "author": "rock_artist",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=26111248"
   }
 ]
