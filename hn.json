@@ -1,50 +1,58 @@
 [
   {
-    "title": "Google is now a visionary sponsor of the Python Software Foundation",
+    "title": "Google is now a Visionary Sponsor of the Python Software Foundation",
     "url": "http://pyfound.blogspot.com/2021/02/welcoming-google-as-visionary-sponsor.html",
-    "upvotes": 168,
+    "upvotes": 182,
     "author": "Ldorigo",
-    "comments": 131,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=26121937"
   },
   {
     "title": "Calvin and Hobbes Search Engine",
     "url": "http://michaelyingling.com/random/calvin_and_hobbes/",
-    "upvotes": 356,
+    "upvotes": 361,
     "author": "bookofjoe",
-    "comments": 131,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=26119380"
   },
   {
     "title": "FIDO2 security key company releases hardware that's open source and uses Rust",
     "url": "https://solokeys.com/blogs/news/our-solo-v2-campaign-launches-on-january-26th",
-    "upvotes": 290,
+    "upvotes": 295,
     "author": "conorpp",
     "comments": 123,
     "link": "https://news.ycombinator.com/item?id=26118571"
   },
   {
+    "title": "Ditherpunk 2 – beyond 1-bit",
+    "url": "https://www.makeworld.gq/2021/02/dithering.html",
+    "upvotes": 137,
+    "author": "makeworld",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26120631"
+  },
+  {
     "title": "Alternative Shells",
     "url": "https://github.com/oilshell/oil/wiki/Alternative-Shells",
-    "upvotes": 100,
+    "upvotes": 101,
     "author": "chubot",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26121592"
   },
   {
-    "title": "Ditherpunk 2 – beyond 1-bit",
-    "url": "https://www.makeworld.gq/2021/02/dithering.html",
-    "upvotes": 131,
-    "author": "makeworld",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26120631"
+    "title": "Threat Actors Now Target Docker via Container Escape Features",
+    "url": "https://www.trendmicro.com/en_us/research/21/b/threat-actors-now-target-docker-via-container-escape-features.html",
+    "upvotes": 38,
+    "author": "pizza",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26121877"
   },
   {
     "title": "How to Revive a Dead Language",
     "url": "https://daily.jstor.org/how-to-revive-a-dead-language/",
-    "upvotes": 32,
+    "upvotes": 37,
     "author": "tintinnabula",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26111038"
   },
   {
@@ -52,25 +60,25 @@
     "url": "https://jobs.lever.co/taplytics/cab67183-9d2a-4fdb-b5bc-cbbb2d959983"
   },
   {
-    "title": "Threat Actors Now Target Docker via Container Escape Features",
-    "url": "https://www.trendmicro.com/en_us/research/21/b/threat-actors-now-target-docker-via-container-escape-features.html",
-    "upvotes": 33,
-    "author": "pizza",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26121877"
-  },
-  {
     "title": "Disciplined Minds",
     "url": "http://fromthearchives.blogspot.com/2008/01/thanks-daniel-for-excellent.html",
-    "upvotes": 44,
+    "upvotes": 49,
     "author": "luu",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26112204"
+  },
+  {
+    "title": "Microbial ecosystems in the mouth and gut are linked to many ills",
+    "url": "https://www.economist.com/science-and-technology/2021/02/10/microbial-ecosystems-in-the-mouth-and-gut-are-linked-to-many-ills",
+    "upvotes": 262,
+    "author": "aluket",
+    "comments": 185,
+    "link": "https://news.ycombinator.com/item?id=26117334"
   },
   {
     "title": "So, You Want to Learn to Break Ciphers",
     "url": "https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/",
-    "upvotes": 133,
+    "upvotes": 134,
     "author": "noch",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26111570"
@@ -78,57 +86,49 @@
   {
     "title": "Show HN: Search inside YouTube videos using natural language queries",
     "url": "https://github.com/haltakov/natural-language-youtube-search",
-    "upvotes": 200,
+    "upvotes": 202,
     "author": "vladoh",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26118756"
-  },
-  {
-    "title": "Microbial ecosystems in the mouth and gut are linked to many ills",
-    "url": "https://www.economist.com/science-and-technology/2021/02/10/microbial-ecosystems-in-the-mouth-and-gut-are-linked-to-many-ills",
-    "upvotes": 258,
-    "author": "aluket",
-    "comments": 185,
-    "link": "https://news.ycombinator.com/item?id=26117334"
   },
   {
     "title": "The GPL-Violations.org Project",
     "url": "http://gpl-violations.org/",
-    "upvotes": 101,
+    "upvotes": 102,
     "author": "generalizations",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26119717"
   },
   {
+    "title": "Swift for TensorFlow Shuts Down",
+    "url": "https://github.com/tensorflow/swift",
+    "upvotes": 456,
+    "author": "high_derivative",
+    "comments": 353,
+    "link": "https://news.ycombinator.com/item?id=26117453"
+  },
+  {
     "title": "Svgrepo: Browse SVG vectors and icons",
     "url": "https://www.svgrepo.com/",
-    "upvotes": 237,
+    "upvotes": 238,
     "author": "marcodiego",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26117767"
   },
   {
-    "title": "Swift for TensorFlow Shuts Down",
-    "url": "https://github.com/tensorflow/swift",
-    "upvotes": 454,
-    "author": "high_derivative",
-    "comments": 352,
-    "link": "https://news.ycombinator.com/item?id=26117453"
-  },
-  {
     "title": "The Making of Facebook’s Supreme Court",
     "url": "https://www.newyorker.com/tech/annals-of-technology/inside-the-making-of-facebooks-supreme-court",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "irtefa",
-    "comments": 30,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26121073"
   },
   {
     "title": "Goodbye YC",
     "url": "https://blog.aaronkharris.com/goodbye-yc",
-    "upvotes": 237,
+    "upvotes": 238,
     "author": "awaxman11",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26116420"
   },
   {
@@ -136,16 +136,24 @@
     "url": "https://blogs.imf.org/2020/12/17/what-is-really-new-in-fintech/",
     "upvotes": 84,
     "author": "da_big_ghey",
-    "comments": 107,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=26119312"
   },
   {
     "title": "Fictional Cryptocurrencies",
     "url": "https://astralcodexten.substack.com/p/list-of-fictional-cryptocurrencies",
-    "upvotes": 175,
+    "upvotes": 177,
     "author": "gadtfly",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26117587"
+  },
+  {
+    "title": "High Speed Hashing for Integers and Strings",
+    "url": "https://arxiv.org/abs/1504.06804",
+    "upvotes": 11,
+    "author": "PartiallyTyped",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26112286"
   },
   {
     "title": "Linux Memory Management FAQ",
@@ -158,26 +166,26 @@
   {
     "title": "Torching for Newts",
     "url": "https://dark-mountain.net/torching-for-newts/",
-    "upvotes": 4,
+    "upvotes": 5,
     "author": "meanie",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26118229"
   },
   {
-    "title": "High Speed Hashing for Integers and Strings",
-    "url": "https://arxiv.org/abs/1504.06804",
-    "upvotes": 10,
-    "author": "PartiallyTyped",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26112286"
-  },
-  {
     "title": "Best Story Wins",
     "url": "https://www.collaborativefund.com/blog/story/",
-    "upvotes": 35,
+    "upvotes": 36,
     "author": "joeyespo",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26115902"
+  },
+  {
+    "title": "How Early Megacities Emerged from the Jungles of Cambodia",
+    "url": "https://www.atlasobscura.com/articles/ancient-cambodian-megacities",
+    "upvotes": 5,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26122728"
   },
   {
     "title": "How .NET container images are maintained",
@@ -188,6 +196,14 @@
     "link": "https://news.ycombinator.com/item?id=26118192"
   },
   {
+    "title": "Ggwave: Tiny Data-over-Sound Library",
+    "url": "https://github.com/ggerganov/ggwave#ggwave",
+    "upvotes": 100,
+    "author": "ingve",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26119109"
+  },
+  {
     "title": "Show HN: Digital Pottery in the Browser",
     "url": "https://digital-pottery.glitch.me/",
     "upvotes": 37,
@@ -196,19 +212,11 @@
     "link": "https://news.ycombinator.com/item?id=26112765"
   },
   {
-    "title": "Ggwave: Tiny Data-over-Sound Library",
-    "url": "https://github.com/ggerganov/ggwave#ggwave",
-    "upvotes": 100,
-    "author": "ingve",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26119109"
-  },
-  {
     "title": "Killer Whales: 'Transient' Orcas Are Thriving",
     "url": "https://www.theatlantic.com/science/archive/2021/01/orcas-killer-whale-resident-transient/617862/",
-    "upvotes": 61,
+    "upvotes": 62,
     "author": "ColinWright",
-    "comments": 44,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26111960"
   },
   {
@@ -216,23 +224,15 @@
     "url": "https://www.bbc.com/reel/video/p096hf4z/the-7-500-universal-basic-income-experiment",
     "upvotes": 77,
     "author": "neom",
-    "comments": 287,
+    "comments": 289,
     "link": "https://news.ycombinator.com/item?id=26116833"
   },
   {
     "title": "Short fat engineers are undervalued",
     "url": "https://nested.substack.com/p/short-fat-engineers-are-undervalued",
-    "upvotes": 301,
+    "upvotes": 305,
     "author": "atticusberg",
-    "comments": 212,
+    "comments": 215,
     "link": "https://news.ycombinator.com/item?id=26119087"
-  },
-  {
-    "title": "Chick Corea has died",
-    "url": "https://chickcorea.com/",
-    "upvotes": 671,
-    "author": "rock_artist",
-    "comments": 173,
-    "link": "https://news.ycombinator.com/item?id=26111248"
   }
 ]
