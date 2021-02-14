@@ -2,71 +2,63 @@
   {
     "title": "Nyuzi – An Experimental",
     "url": "https://github.com/jbush001/NyuziProcessor/",
-    "upvotes": 11,
+    "upvotes": 31,
     "author": "peter_d_sherman",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26132726"
   },
   {
     "title": "The complexity that lives in the GUI",
     "url": "https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/",
-    "upvotes": 131,
+    "upvotes": 153,
     "author": "yes_but_no",
-    "comments": 67,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26131178"
   },
   {
     "title": "Learn Functional Programming Visually",
     "url": "https://david-peter.de/cube-composer/",
-    "upvotes": 110,
+    "upvotes": 121,
     "author": "polyrand",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26131075"
   },
   {
+    "title": "Bevy: A game engine built in Rust",
+    "url": "https://github.com/bevyengine/bevy",
+    "upvotes": 88,
+    "author": "yagizdegirmenci",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26131350"
+  },
+  {
     "title": "In defense of interesting writing on controversial topics",
     "url": "https://www.slowboring.com/p/slate-star-codex",
-    "upvotes": 58,
+    "upvotes": 76,
     "author": "petulla",
-    "comments": 25,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26132104"
   },
   {
     "title": "“Location-Based Pay” – Who Are You to Complain?",
     "url": "https://blackshaw.substack.com/p/pay",
-    "upvotes": 59,
+    "upvotes": 72,
     "author": "whoooooo123",
-    "comments": 132,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=26131138"
   },
   {
     "title": "K-9 Mail is looking for funding",
     "url": "https://k9mail.app/2021/02/14/K-9-Mail-is-looking-for-funding",
-    "upvotes": 190,
+    "upvotes": 212,
     "author": "BubuIIC",
-    "comments": 45,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26131509"
-  },
-  {
-    "title": "Force Directed Graph of London's Railways",
-    "url": "https://shkspr.mobi/blog/2021/02/force-directed-graph-of-the-london-tube-map-including-crossrail/",
-    "upvotes": 16,
-    "author": "edent",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26131844"
-  },
-  {
-    "title": "Bevy: A game engine built in Rust",
-    "url": "https://github.com/bevyengine/bevy",
-    "upvotes": 76,
-    "author": "yagizdegirmenci",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26131350"
   },
   {
     "title": "Fluxus – A 3D game engine for live-coding worlds into existence",
     "url": "http://www.pawfal.org/fluxus/",
-    "upvotes": 91,
+    "upvotes": 96,
     "author": "joubert",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26130341"
@@ -74,17 +66,33 @@
   {
     "title": "Racket v8.0",
     "url": "https://blog.racket-lang.org/2021/02/racket-v8-0.html",
-    "upvotes": 173,
+    "upvotes": 181,
     "author": "azhenley",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26129480"
+  },
+  {
+    "title": "Force Directed Graph of London's Railways",
+    "url": "https://shkspr.mobi/blog/2021/02/force-directed-graph-of-the-london-tube-map-including-crossrail/",
+    "upvotes": 17,
+    "author": "edent",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26131844"
+  },
+  {
+    "title": "Julia 1.6: what has changed since Julia 1.0?",
+    "url": "https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html",
+    "upvotes": 21,
+    "author": "Sukera",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26132801"
   },
   {
     "title": "Left brain hemisphere more awake the first night sleeping in a new place",
     "url": "https://www.npr.org/sections/health-shots/2016/04/21/474691141/half-your-brain-stands-guard-when-sleeping-in-a-new-place",
-    "upvotes": 41,
+    "upvotes": 49,
     "author": "giuliomagnifico",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26130527"
   },
   {
@@ -92,60 +100,76 @@
     "url": "https://angel.co/company/odeko-inc/jobs"
   },
   {
-    "title": "GTA III and Vice City fully reverse engineered: re3",
-    "url": "https://github.com/GTAmodding/re3",
-    "upvotes": 100,
-    "author": "blewboarwastake",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26130320"
-  },
-  {
     "title": "Why blockchain is not yet working",
     "url": "https://as1ndu.xyz/2018/05/why-blockchain-is-not-yet-working/",
-    "upvotes": 46,
+    "upvotes": 58,
     "author": "max_",
-    "comments": 87,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=26130912"
+  },
+  {
+    "title": "Swing primer",
+    "url": "https://www.ethanhein.com/wp/2021/swing-primer/",
+    "upvotes": 3,
+    "author": "troydavis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26132675"
+  },
+  {
+    "title": "GTA III and Vice City fully reverse engineered: re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "upvotes": 117,
+    "author": "blewboarwastake",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26130320"
   },
   {
     "title": "On navigating a large codebase",
     "url": "https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/",
-    "upvotes": 196,
+    "upvotes": 205,
     "author": "mooreds",
-    "comments": 94,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=26129190"
   },
   {
     "title": "The Shame of Swedish Education: J’Accuse",
     "url": "https://dianeravitch.net/2021/02/13/the-shame-of-swedish-education-jaccuse-part-1/",
-    "upvotes": 72,
+    "upvotes": 83,
     "author": "cloudfifty",
-    "comments": 94,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26131307"
   },
   {
     "title": "India accounts for 11 per cent of global death in road accidents: World Bank",
     "url": "https://www.thehindubusinessline.com/news/india-accounts-for-11-per-cent-of-global-death-in-road-accidents-world-bank/article33834556.ece",
-    "upvotes": 39,
+    "upvotes": 51,
     "author": "rustoo",
-    "comments": 26,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26131473"
   },
   {
     "title": "Basic Music Theory",
     "url": "https://iconcollective.edu/basic-music-theory/",
-    "upvotes": 31,
+    "upvotes": 34,
     "author": "jacquesm",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26130228"
   },
   {
     "title": "Amber Smalltalk",
     "url": "https://amber-lang.net/index.html",
-    "upvotes": 99,
+    "upvotes": 100,
     "author": "owenm",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26128607"
+  },
+  {
+    "title": "Roaring Kitty to testify on GameStop alongside hedge fund managers",
+    "url": "https://www.reuters.com/article/retail-trading-congress-gamestop/update-1-roaring-kitty-to-testify-on-gamestop-alongside-hedge-fund-managers-idUSL1N2KJ0IU",
+    "upvotes": 134,
+    "author": "IamZeroBalance",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=26130104"
   },
   {
     "title": "1921 Duesenberg Model A Belonged to the Same Family for Almost a Century",
@@ -156,57 +180,49 @@
     "link": "https://news.ycombinator.com/item?id=26129157"
   },
   {
-    "title": "Roaring Kitty to testify on GameStop alongside hedge fund managers",
-    "url": "https://www.reuters.com/article/retail-trading-congress-gamestop/update-1-roaring-kitty-to-testify-on-gamestop-alongside-hedge-fund-managers-idUSL1N2KJ0IU",
-    "upvotes": 126,
-    "author": "IamZeroBalance",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=26130104"
-  },
-  {
-    "title": "The Legendary Study That Embarrassed Wine Experts Across the Globe",
-    "url": "http://www.realclearscience.com/blog/2014/08/the_most_infamous_study_on_wine_tasting.html",
-    "upvotes": 47,
-    "author": "Tomte",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26131230"
-  },
-  {
-    "title": "Brendan Eich on the Lex Fridman Podcast [video]",
-    "url": "https://www.youtube.com/watch?v=krB0enBeSiE",
-    "upvotes": 89,
-    "author": "bekantan",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26131043"
-  },
-  {
     "title": "Can’t Get You Out of My Head [video]",
     "url": "https://www.youtube.com/watch?v=MHFrhIAj0ME",
-    "upvotes": 48,
+    "upvotes": 59,
     "author": "emre",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26131077"
-  },
-  {
-    "title": "Statement on New York Times Article",
-    "url": "https://astralcodexten.substack.com/p/statement-on-new-york-times-article",
-    "upvotes": 640,
-    "author": "jger15",
-    "comments": 291,
-    "link": "https://news.ycombinator.com/item?id=26128752"
   },
   {
     "title": "A Streamlit component for real-time video processing web apps, streamlit-webrtc",
     "url": "https://discuss.streamlit.io/t/new-component-streamlit-webrtc-a-new-way-to-deal-with-real-time-media-streams/8669",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "whitphx",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26130494"
+  },
+  {
+    "title": "Brendan Eich on the Lex Fridman Podcast [video]",
+    "url": "https://www.youtube.com/watch?v=krB0enBeSiE",
+    "upvotes": 92,
+    "author": "bekantan",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26131043"
+  },
+  {
+    "title": "Statement on New York Times Article",
+    "url": "https://astralcodexten.substack.com/p/statement-on-new-york-times-article",
+    "upvotes": 660,
+    "author": "jger15",
+    "comments": 301,
+    "link": "https://news.ycombinator.com/item?id=26128752"
+  },
+  {
+    "title": "The Legendary Study That Embarrassed Wine Experts Across the Globe",
+    "url": "http://www.realclearscience.com/blog/2014/08/the_most_infamous_study_on_wine_tasting.html",
+    "upvotes": 51,
+    "author": "Tomte",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26131230"
   },
   {
     "title": "Ziglings: Learn the Zig programming language by fixing tiny broken programs",
     "url": "https://github.com/ratfactor/ziglings",
-    "upvotes": 375,
+    "upvotes": 378,
     "author": "DyslexicAtheist",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26125063"
@@ -214,25 +230,9 @@
   {
     "title": "Shitbowl: The algorithmically powered in-home physical caching platform",
     "url": "https://www.shitbowl.com/",
-    "upvotes": 654,
+    "upvotes": 663,
     "author": "fallingfrog",
     "comments": 225,
     "link": "https://news.ycombinator.com/item?id=26123726"
-  },
-  {
-    "title": "Write a Shell in C",
-    "url": "https://brennan.io/2015/01/16/write-a-shell-in-c/",
-    "upvotes": 237,
-    "author": "mindcrime",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26126010"
-  },
-  {
-    "title": "Show HN: Bestsnip – Draw animations online with automatic inbetweening",
-    "url": "https://bestsnip.com/animation/",
-    "upvotes": 55,
-    "author": "nevernothing",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26126906"
   }
 ]
