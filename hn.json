@@ -1,48 +1,56 @@
 [
   {
-    "title": "K-9 Mail is looking for funding",
-    "url": "https://k9mail.app/2021/02/14/K-9-Mail-is-looking-for-funding",
-    "upvotes": 104,
-    "author": "BubuIIC",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26131509"
-  },
-  {
     "title": "The complexity that lives in the GUI",
     "url": "https://blog.royalsloth.eu/posts/the-complexity-that-lives-in-the-gui/",
-    "upvotes": 49,
+    "upvotes": 67,
     "author": "yes_but_no",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26131178"
   },
   {
     "title": "Learn Functional Programming Visually",
     "url": "https://david-peter.de/cube-composer/",
-    "upvotes": 38,
+    "upvotes": 56,
     "author": "polyrand",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26131075"
   },
   {
     "title": "Bevy: A game engine built in Rust",
     "url": "https://github.com/bevyengine/bevy",
-    "upvotes": 26,
+    "upvotes": 35,
     "author": "yagizdegirmenci",
-    "comments": 7,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26131350"
+  },
+  {
+    "title": "K-9 Mail is looking for funding",
+    "url": "https://k9mail.app/2021/02/14/K-9-Mail-is-looking-for-funding",
+    "upvotes": 127,
+    "author": "BubuIIC",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26131509"
+  },
+  {
+    "title": "Force Directed Graph of London's Railways",
+    "url": "https://shkspr.mobi/blog/2021/02/force-directed-graph-of-the-london-tube-map-including-crossrail/",
+    "upvotes": 6,
+    "author": "edent",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26131844"
   },
   {
     "title": "Fluxus – A 3D game engine for live-coding worlds into existence",
     "url": "http://www.pawfal.org/fluxus/",
-    "upvotes": 64,
+    "upvotes": 70,
     "author": "joubert",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26130341"
   },
   {
     "title": "Racket v8.0",
     "url": "https://blog.racket-lang.org/2021/02/racket-v8-0.html",
-    "upvotes": 134,
+    "upvotes": 148,
     "author": "azhenley",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26129480"
@@ -50,9 +58,9 @@
   {
     "title": "Left brain hemisphere more awake the first night sleeping in a new place",
     "url": "https://www.npr.org/sections/health-shots/2016/04/21/474691141/half-your-brain-stands-guard-when-sleeping-in-a-new-place",
-    "upvotes": 22,
+    "upvotes": 27,
     "author": "giuliomagnifico",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26130527"
   },
   {
@@ -60,25 +68,33 @@
     "url": "https://angel.co/company/odeko-inc/jobs"
   },
   {
-    "title": "On navigating a large codebase",
-    "url": "https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/",
-    "upvotes": 177,
-    "author": "mooreds",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26129190"
-  },
-  {
-    "title": "Holocaust History: What geoscientists are uncovering in Eastern Europe",
+    "title": "Digging Deeper Into Holocaust History",
     "url": "https://nautil.us/issue/95/escape/digging-deeper-into-holocaust-history",
-    "upvotes": 4,
+    "upvotes": 10,
     "author": "dnetesn",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26131652"
   },
   {
+    "title": "On navigating a large codebase",
+    "url": "https://blog.royalsloth.eu/posts/on-navigating-a-large-codebase/",
+    "upvotes": 183,
+    "author": "mooreds",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=26129190"
+  },
+  {
+    "title": "GTA III and Vice City fully reverse engineered: re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "upvotes": 43,
+    "author": "blewboarwastake",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26130320"
+  },
+  {
     "title": "Amber Smalltalk",
     "url": "https://amber-lang.net/index.html",
-    "upvotes": 88,
+    "upvotes": 91,
     "author": "owenm",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26128607"
@@ -86,95 +102,79 @@
   {
     "title": "Brendan Eich on the Lex Fridman Podcast [video]",
     "url": "https://www.youtube.com/watch?v=krB0enBeSiE",
-    "upvotes": 58,
+    "upvotes": 71,
     "author": "bekantan",
-    "comments": 18,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26131043"
   },
   {
-    "title": "GTA III and Vice City fully reverse engineered: re3",
-    "url": "https://github.com/GTAmodding/re3",
-    "upvotes": 23,
-    "author": "blewboarwastake",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26130320"
+    "title": "The Legendary Study That Embarrassed Wine Experts Across the Globe",
+    "url": "http://www.realclearscience.com/blog/2014/08/the_most_infamous_study_on_wine_tasting.html",
+    "upvotes": 30,
+    "author": "Tomte",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26131230"
   },
   {
     "title": "1921 Duesenberg Model A Belonged to the Same Family for Almost a Century",
     "url": "https://www.thedrive.com/news/39252/1921-duesenberg-model-a-belonged-to-the-same-family-for-almost-a-century",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "clouddrover",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26129157"
   },
   {
-    "title": "The Legendary Study That Embarrassed Wine Experts Across the Globe",
-    "url": "http://www.realclearscience.com/blog/2014/08/the_most_infamous_study_on_wine_tasting.html",
-    "upvotes": 21,
-    "author": "Tomte",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26131230"
-  },
-  {
     "title": "Data Laced with History: Causal Trees and Operational CRDTs",
     "url": "http://archagon.net/blog/2018/03/24/data-laced-with-history/",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "mcovalt",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26127570"
   },
   {
-    "title": "The Shame of Swedish Education: J’Accuse",
-    "url": "https://dianeravitch.net/2021/02/13/the-shame-of-swedish-education-jaccuse-part-1/",
-    "upvotes": 51,
-    "author": "cloudfifty",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26131307"
-  },
-  {
-    "title": "A Streamlit component for real-time video processing web apps, streamlit-webrtc",
-    "url": "https://discuss.streamlit.io/t/new-component-streamlit-webrtc-a-new-way-to-deal-with-real-time-media-streams/8669",
-    "upvotes": 13,
-    "author": "whitphx",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26130494"
-  },
-  {
     "title": "Can’t Get You Out of My Head [video]",
     "url": "https://www.youtube.com/watch?v=MHFrhIAj0ME",
-    "upvotes": 26,
+    "upvotes": 32,
     "author": "emre",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26131077"
   },
   {
-    "title": "Statement on New York Times Article",
-    "url": "https://astralcodexten.substack.com/p/statement-on-new-york-times-article",
-    "upvotes": 555,
-    "author": "jger15",
-    "comments": 228,
-    "link": "https://news.ycombinator.com/item?id=26128752"
+    "title": "A Streamlit component for real-time video processing web apps, streamlit-webrtc",
+    "url": "https://discuss.streamlit.io/t/new-component-streamlit-webrtc-a-new-way-to-deal-with-real-time-media-streams/8669",
+    "upvotes": 15,
+    "author": "whitphx",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26130494"
+  },
+  {
+    "title": "India accounts for 11 per cent of global death in road accidents: World Bank",
+    "url": "https://www.thehindubusinessline.com/news/india-accounts-for-11-per-cent-of-global-death-in-road-accidents-world-bank/article33834556.ece",
+    "upvotes": 11,
+    "author": "rustoo",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26131473"
   },
   {
     "title": "What was the original reason for the design of AT&T assembly syntax?",
     "url": "https://stackoverflow.com/q/42244028/334816",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "luu",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26127368"
   },
   {
-    "title": "Do Adults Really Not Remember School Sucked?",
-    "url": "https://www.ianwelsh.net/do-adults-really-not-remember-school-sucked/",
-    "upvotes": 122,
-    "author": "cribbles",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=26131258"
+    "title": "Statement on New York Times Article",
+    "url": "https://astralcodexten.substack.com/p/statement-on-new-york-times-article",
+    "upvotes": 579,
+    "author": "jger15",
+    "comments": 240,
+    "link": "https://news.ycombinator.com/item?id=26128752"
   },
   {
     "title": "Comp.lang.c Google Group has been banned",
     "url": "https://groups.google.com/g/comp.lang.c",
-    "upvotes": 311,
+    "upvotes": 314,
     "author": "veltas",
     "comments": 162,
     "link": "https://news.ycombinator.com/item?id=26126455"
@@ -182,57 +182,57 @@
   {
     "title": "Ziglings: Learn the Zig programming language by fixing tiny broken programs",
     "url": "https://github.com/ratfactor/ziglings",
-    "upvotes": 373,
+    "upvotes": 375,
     "author": "DyslexicAtheist",
-    "comments": 93,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26125063"
+  },
+  {
+    "title": "The Shame of Swedish Education: J’Accuse",
+    "url": "https://dianeravitch.net/2021/02/13/the-shame-of-swedish-education-jaccuse-part-1/",
+    "upvotes": 59,
+    "author": "cloudfifty",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26131307"
   },
   {
     "title": "Rupert Neve, Grammy-Winning Audio Industry Icon, Dies at 94",
     "url": "https://www.rupertneve.com/news/rupert-neve-1926-2021/",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "rock_artist",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26126361"
   },
   {
-    "title": "India has 1% of world’s vehicles but accounts for 11% of all road crash deaths",
-    "url": "https://www.thehindubusinessline.com/news/india-accounts-for-11-per-cent-of-global-death-in-road-accidents-world-bank/article33834556.ece",
-    "upvotes": 5,
-    "author": "rustoo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26131473"
+    "title": "Do Adults Really Not Remember School Sucked?",
+    "url": "https://www.ianwelsh.net/do-adults-really-not-remember-school-sucked/",
+    "upvotes": 137,
+    "author": "cribbles",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=26131258"
   },
   {
     "title": "Shitbowl: The algorithmically powered in-home physical caching platform",
     "url": "https://www.shitbowl.com/",
-    "upvotes": 642,
+    "upvotes": 646,
     "author": "fallingfrog",
     "comments": 220,
     "link": "https://news.ycombinator.com/item?id=26123726"
   },
   {
-    "title": "UK universities face fines as part of 'twin assault' on cancel culture",
-    "url": "https://www.telegraph.co.uk/politics/2021/02/13/exclusive-universities-face-fines-part-twin-assault-cancel-culture/",
-    "upvotes": 3,
-    "author": "BerislavLopac",
+    "title": "Basic Music Theory",
+    "url": "https://iconcollective.edu/basic-music-theory/",
+    "upvotes": 10,
+    "author": "jacquesm",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26131795"
+    "link": "https://news.ycombinator.com/item?id=26130228"
   },
   {
     "title": "Write a Shell in C",
     "url": "https://brennan.io/2015/01/16/write-a-shell-in-c/",
-    "upvotes": 230,
+    "upvotes": 231,
     "author": "mindcrime",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26126010"
-  },
-  {
-    "title": "Show HN: Bestsnip – Draw animations online with automatic inbetweening",
-    "url": "https://bestsnip.com/animation/",
-    "upvotes": 52,
-    "author": "nevernothing",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26126906"
   }
 ]
