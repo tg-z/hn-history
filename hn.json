@@ -1,238 +1,238 @@
 [
   {
+    "title": "Faster JavaScript Calls",
+    "url": "https://v8.dev/blog/adaptor-frame",
+    "upvotes": 53,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26143648"
+  },
+  {
     "title": "Obfuscated Tiny C Compiler",
     "url": "https://bellard.org/otcc/",
-    "upvotes": 255,
+    "upvotes": 278,
     "author": "ducktective",
-    "comments": 67,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26141124"
+  },
+  {
+    "title": "Launch HN: Noya (YC W21) – Direct air capture of CO2 using cooling towers",
+    "url": "item?id=26144432",
+    "upvotes": 9,
+    "author": "jsantos511",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26144432"
   },
   {
     "title": "Running Nomad for a Home Server",
     "url": "https://mrkaran.dev/posts/home-server-nomad/",
-    "upvotes": 87,
+    "upvotes": 115,
     "author": "elliebike",
-    "comments": 39,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26142005"
+  },
+  {
+    "title": "How we hosted FOSDEM 2021 on Matrix",
+    "url": "https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix",
+    "upvotes": 58,
+    "author": "Arathorn",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26142654"
+  },
+  {
+    "title": "Ambition",
+    "url": "https://ambition.com/careers/"
+  },
+  {
+    "title": "Clubhouse’s Inevitability",
+    "url": "https://stratechery.com/2021/clubhouses-inevitability/",
+    "upvotes": 46,
+    "author": "jger15",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26143909"
   },
   {
     "title": "SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president",
     "url": "https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R",
-    "upvotes": 380,
+    "upvotes": 400,
     "author": "andrewinardeer",
-    "comments": 192,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=26138931"
   },
   {
     "title": "Why SELECT * is bad for SQL performance",
     "url": "https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/",
-    "upvotes": 164,
+    "upvotes": 182,
     "author": "wheresvic4",
-    "comments": 97,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26141003"
   },
   {
     "title": "OWASP Cheat Sheet Series",
     "url": "https://cheatsheetseries.owasp.org/",
-    "upvotes": 166,
+    "upvotes": 192,
     "author": "tilt",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26140862"
-  },
-  {
-    "title": "How we hosted FOSDEM 2021 on Matrix",
-    "url": "https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix",
-    "upvotes": 28,
-    "author": "Arathorn",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26142654"
-  },
-  {
-    "title": "Show HN: ustaxes.org – open-source tax filing webapp",
-    "url": "https://github.com/thegrims/UsTaxes",
-    "upvotes": 336,
-    "author": "aidangrimshaw",
-    "comments": 173,
-    "link": "https://news.ycombinator.com/item?id=26138446"
   },
   {
     "title": "LiteSpeed QUIC",
     "url": "https://github.com/litespeedtech/lsquic",
-    "upvotes": 16,
+    "upvotes": 29,
     "author": "ZnZirconium",
-    "comments": 8,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26142741"
   },
   {
-    "title": "26 Years of Delphi",
-    "url": "https://blogs.embarcadero.com/26-years-of-delphi/",
-    "upvotes": 119,
-    "author": "mustafabisic1",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=26141786"
-  },
-  {
-    "title": "An Improved Thread with C++20",
-    "url": "http://modernescpp.com/index.php/an-improved-thread-with-c-20",
-    "upvotes": 53,
-    "author": "ibobev",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26142257"
-  },
-  {
-    "title": "Introduction to the 'Why use F#' series",
-    "url": "https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/",
-    "upvotes": 18,
-    "author": "rfreytag",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26142662"
-  },
-  {
-    "title": "Ercot nearly at capacity for Texas power grid",
-    "url": "http://www.ercot.com/content/cdr/html/real_time_system_conditions.html",
-    "upvotes": 264,
-    "author": "tomrod",
-    "comments": 459,
-    "link": "https://news.ycombinator.com/item?id=26137893"
+    "title": "Show HN: ustaxes.org – open-source tax filing webapp",
+    "url": "https://github.com/thegrims/UsTaxes",
+    "upvotes": 367,
+    "author": "aidangrimshaw",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=26138446"
   },
   {
     "title": "Ask HN: Why are e-ink note-taking devices so expensive compared to iPads?",
     "url": "item?id=26143407",
-    "upvotes": 23,
+    "upvotes": 47,
     "author": "behnamoh",
-    "comments": 24,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26143407"
   },
   {
-    "title": "ReadMe",
-    "url": "https://readme.com/careers#ui-engineer"
+    "title": "Mishima in the 21st Century",
+    "url": "https://asia.nikkei.com/Editor-s-Picks/Tea-Leaves/Yukio-Mishima-in-the-21st-century",
+    "upvotes": 18,
+    "author": "keiferski",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26123447"
+  },
+  {
+    "title": "Launch HN: Pyroscope (YC W21) – Continuous profiling software",
+    "url": "item?id=26143923",
+    "upvotes": 13,
+    "author": "petethepig",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26143923"
+  },
+  {
+    "title": "Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2",
+    "upvotes": 304,
+    "author": "lazycrazyowl",
+    "comments": 313,
+    "link": "https://news.ycombinator.com/item?id=26140086"
+  },
+  {
+    "title": "Introduction to the 'Why use F#' series",
+    "url": "https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/",
+    "upvotes": 29,
+    "author": "rfreytag",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26142662"
+  },
+  {
+    "title": "26 Years of Delphi",
+    "url": "https://blogs.embarcadero.com/26-years-of-delphi/",
+    "upvotes": 134,
+    "author": "mustafabisic1",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=26141786"
+  },
+  {
+    "title": "World’s First 1k-Processor Chip, Powered by a Single AA Battery",
+    "url": "https://www.ucdavis.edu/news/worlds-first-1000-processor-chip",
+    "upvotes": 58,
+    "author": "Bluestein",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=26140957"
+  },
+  {
+    "title": "Pine64 Februrary Update: Show and Tell",
+    "url": "https://www.pine64.org/2021/02/15/february-update-show-and-tell/",
+    "upvotes": 5,
+    "author": "bauen1",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26144056"
+  },
+  {
+    "title": "An Improved Thread with C++20",
+    "url": "http://modernescpp.com/index.php/an-improved-thread-with-c-20",
+    "upvotes": 58,
+    "author": "ibobev",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26142257"
   },
   {
     "title": "I Blew It",
     "url": "http://www.erasmatazz.com/personal/self/i-really-blew-it.html",
-    "upvotes": 240,
+    "upvotes": 258,
     "author": "webmaven",
-    "comments": 236,
+    "comments": 257,
     "link": "https://news.ycombinator.com/item?id=26139348"
   },
   {
-    "title": "Is Your Linux Version Hiding Interrupt CPU Usage from You?",
-    "url": "https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/",
-    "upvotes": 100,
-    "author": "tanelpoder",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26139611"
+    "title": "Bitcoin and other PoW coins are an ESG nightmare",
+    "url": "https://www.ofnumbers.com/2021/02/14/bitcoin-and-other-pow-coins-are-an-esg-nightmare/",
+    "upvotes": 45,
+    "author": "jpkoning",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26142202"
   },
   {
     "title": "WhatsApp alternatives that respect privacy",
     "url": "https://protonmail.com/blog/whatsapp-alternatives/",
-    "upvotes": 59,
+    "upvotes": 90,
     "author": "giuliomagnifico",
-    "comments": 35,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26142510"
+  },
+  {
+    "title": "What is the case against F#?",
+    "url": "https://stackoverflow.com/questions/1105422/what-is-the-case-against-f#",
+    "upvotes": 34,
+    "author": "rfreytag",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=26142362"
+  },
+  {
+    "title": "Is Your Linux Version Hiding Interrupt CPU Usage from You?",
+    "url": "https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/",
+    "upvotes": 107,
+    "author": "tanelpoder",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26139611"
+  },
+  {
+    "title": "Generating conjectures on fundamental constants with the Ramanujan Machine",
+    "url": "https://www.vice.com/en/article/xgzkek/machines-are-inventing-new-math-weve-never-seen",
+    "upvotes": 20,
+    "author": "Brajeshwar",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26142483"
+  },
+  {
+    "title": "Interactive Data Visualisation with Rust",
+    "url": "https://shahinrostami.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/",
+    "upvotes": 74,
+    "author": "batterylow",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26141018"
   },
   {
     "title": "The Therac-25 Incident",
     "url": "https://thedailywtf.com/articles/the-therac-25-incident",
-    "upvotes": 52,
+    "upvotes": 70,
     "author": "dagurp",
-    "comments": 7,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26142432"
   },
   {
     "title": "Show HN: Dato.rss The best RSS Search experience you can find",
     "url": "https://datorss.com",
-    "upvotes": 27,
+    "upvotes": 33,
     "author": "dsantangelo",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26141278"
-  },
-  {
-    "title": "Interactive Data Visualisation with Rust",
-    "url": "https://shahinrostami.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/",
-    "upvotes": 66,
-    "author": "batterylow",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26141018"
-  },
-  {
-    "title": "Python Internals Serie: Int",
-    "url": "http://ykarroum.com/2021/01/10/intobject/",
-    "upvotes": 50,
-    "author": "karroum",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26131703"
-  },
-  {
-    "title": "Microsoft’s Big Win in Quantum Computing Was an ‘Error’ After All",
-    "url": "https://www.wired.com/story/microsoft-win-quantum-computing-error/",
-    "upvotes": 87,
-    "author": "kumarharsh",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26141498"
-  },
-  {
-    "title": "The Drenching Richness of Andrei Tarkovsky",
-    "url": "https://www.newyorker.com/magazine/2021/02/15/the-drenching-richness-of-andrei-tarkovsky",
-    "upvotes": 60,
-    "author": "benbreen",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26126004"
-  },
-  {
-    "title": "Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine",
-    "url": "https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2",
-    "upvotes": 280,
-    "author": "lazycrazyowl",
-    "comments": 296,
-    "link": "https://news.ycombinator.com/item?id=26140086"
-  },
-  {
-    "title": "Show HN: Khan-dl – Khan Academy Course Downloader",
-    "url": "https://github.com/rand-net/khan-dl",
-    "upvotes": 430,
-    "author": "rand_net",
-    "comments": 157,
-    "link": "https://news.ycombinator.com/item?id=26134915"
-  },
-  {
-    "title": "Melting permafrost cause huge underground methane explosions in Siberia",
-    "url": "https://siberiantimes.com/other/others/news/scientists-call-for-urgent-increase-in-monitoring-potentially-explosive-permafrost-heave-mounds/",
-    "upvotes": 189,
-    "author": "dmitriy_ko",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26137703"
-  },
-  {
-    "title": "Hubble Takes Portrait of Nebula",
-    "url": "https://phys.org/news/2021-02-image-hubble-portrait-nebula.html",
-    "upvotes": 39,
-    "author": "dnetesn",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26131656"
-  },
-  {
-    "title": "Half Doses of Moderna Vaccine Produce Neutralizing Antibodies",
-    "url": "https://marginalrevolution.com/marginalrevolution/2021/02/half-doses-of-moderna-produce-neutralizing-antibodies.html",
-    "upvotes": 319,
-    "author": "elsewhen",
-    "comments": 352,
-    "link": "https://news.ycombinator.com/item?id=26134773"
-  },
-  {
-    "title": "World’s First 1k-Processor Chip, Powered by a Single AA Battery",
-    "url": "https://www.ucdavis.edu/news/worlds-first-1000-processor-chip",
-    "upvotes": 54,
-    "author": "Bluestein",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26140957"
-  },
-  {
-    "title": "Extruding Ice from Steel Fences and Pipes with Diurnal Freeze/Thaw",
-    "url": "http://my.ilstu.edu/~jrcarter/ice/diurnal/extrude/",
-    "upvotes": 254,
-    "author": "yosamino",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26121775"
   }
 ]
