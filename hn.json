@@ -2,99 +2,107 @@
   {
     "title": "A tiny C compiler which can compile itself",
     "url": "https://bellard.org/otcc/",
-    "upvotes": 118,
+    "upvotes": 155,
     "author": "ducktective",
-    "comments": 34,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26141124"
+  },
+  {
+    "title": "26 Years of Delphi",
+    "url": "https://blogs.embarcadero.com/26-years-of-delphi/",
+    "upvotes": 60,
+    "author": "mustafabisic1",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26141786"
   },
   {
     "title": "Why SELECT * is bad for SQL performance",
     "url": "https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/",
-    "upvotes": 104,
+    "upvotes": 116,
     "author": "wheresvic4",
-    "comments": 66,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26141003"
-  },
-  {
-    "title": "Bitcoin and other PoW coins are an ESG nightmare",
-    "url": "https://www.ofnumbers.com/2021/02/14/bitcoin-and-other-pow-coins-are-an-esg-nightmare/",
-    "upvotes": 21,
-    "author": "jpkoning",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26142202"
-  },
-  {
-    "title": "SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president",
-    "url": "https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R",
-    "upvotes": 319,
-    "author": "andrewinardeer",
-    "comments": 163,
-    "link": "https://news.ycombinator.com/item?id=26138931"
   },
   {
     "title": "An Improved Thread with C++20",
     "url": "http://modernescpp.com/index.php/an-improved-thread-with-c-20",
-    "upvotes": 15,
+    "upvotes": 26,
     "author": "ibobev",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26142257"
+  },
+  {
+    "title": "SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president",
+    "url": "https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R",
+    "upvotes": 331,
+    "author": "andrewinardeer",
+    "comments": 170,
+    "link": "https://news.ycombinator.com/item?id=26138931"
   },
   {
     "title": "Running Nomad for a Home Server",
     "url": "https://mrkaran.dev/posts/home-server-nomad/",
-    "upvotes": 15,
+    "upvotes": 26,
     "author": "elliebike",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26142005"
   },
   {
     "title": "OWASP Cheat Sheet Series",
     "url": "https://cheatsheetseries.owasp.org/",
-    "upvotes": 102,
+    "upvotes": 118,
     "author": "tilt",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26140862"
   },
   {
-    "title": "26 Years of Delphi",
-    "url": "https://blogs.embarcadero.com/26-years-of-delphi/",
-    "upvotes": 22,
-    "author": "mustafabisic1",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26141786"
+    "title": "Show HN: ustaxes.org – open-source tax filing webapp",
+    "url": "https://github.com/thegrims/UsTaxes",
+    "upvotes": 271,
+    "author": "aidangrimshaw",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=26138446"
+  },
+  {
+    "title": "What is the case against F#?",
+    "url": "https://stackoverflow.com/questions/1105422/what-is-the-case-against-f#",
+    "upvotes": 9,
+    "author": "rfreytag",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26142362"
   },
   {
     "title": "ReadMe",
     "url": "https://readme.com/careers#ui-engineer"
   },
   {
-    "title": "Show HN: ustaxes.org – open-source tax filing webapp",
-    "url": "https://github.com/thegrims/UsTaxes",
-    "upvotes": 257,
-    "author": "aidangrimshaw",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=26138446"
-  },
-  {
     "title": "Ercot nearly at capacity for Texas power grid",
     "url": "http://www.ercot.com/content/cdr/html/real_time_system_conditions.html",
-    "upvotes": 225,
+    "upvotes": 227,
     "author": "tomrod",
-    "comments": 375,
+    "comments": 398,
     "link": "https://news.ycombinator.com/item?id=26137893"
   },
   {
     "title": "I Blew It",
     "url": "http://www.erasmatazz.com/personal/self/i-really-blew-it.html",
-    "upvotes": 193,
+    "upvotes": 200,
     "author": "webmaven",
-    "comments": 161,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=26139348"
+  },
+  {
+    "title": "Machines Are Inventing New Math We've Never Seen",
+    "url": "https://www.vice.com/en/article/xgzkek/machines-are-inventing-new-math-weve-never-seen",
+    "upvotes": 4,
+    "author": "Brajeshwar",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26142483"
   },
   {
     "title": "Is Your Linux Version Hiding Interrupt CPU Usage from You?",
     "url": "https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/#how-to-measure-interrupt-cpu-overhead-when-irq-time-accounting-is-disabled",
-    "upvotes": 80,
+    "upvotes": 84,
     "author": "tanelpoder",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26139611"
@@ -102,7 +110,7 @@
   {
     "title": "Interactive Data Visualisation with Rust",
     "url": "https://shahinrostami.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "batterylow",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26141018"
@@ -110,129 +118,121 @@
   {
     "title": "Melting permafrost cause huge underground methane explosions in Siberia",
     "url": "https://siberiantimes.com/other/others/news/scientists-call-for-urgent-increase-in-monitoring-potentially-explosive-permafrost-heave-mounds/",
-    "upvotes": 148,
+    "upvotes": 156,
     "author": "dmitriy_ko",
-    "comments": 27,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26137703"
   },
   {
     "title": "Microsoft’s Big Win in Quantum Computing Was an ‘Error’ After All",
     "url": "https://www.wired.com/story/microsoft-win-quantum-computing-error/",
-    "upvotes": 37,
-    "author": "kumarharsh",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26141498"
-  },
-  {
-    "title": "The Drenching Richness of Andrei Tarkovsky",
-    "url": "https://www.newyorker.com/magazine/2021/02/15/the-drenching-richness-of-andrei-tarkovsky",
     "upvotes": 47,
-    "author": "benbreen",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26126004"
+    "author": "kumarharsh",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26141498"
   },
   {
     "title": "Python Internals Serie: Int",
     "url": "http://ykarroum.com/2021/01/10/intobject/",
-    "upvotes": 26,
+    "upvotes": 35,
     "author": "karroum",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26131703"
+  },
+  {
+    "title": "The Drenching Richness of Andrei Tarkovsky",
+    "url": "https://www.newyorker.com/magazine/2021/02/15/the-drenching-richness-of-andrei-tarkovsky",
+    "upvotes": 48,
+    "author": "benbreen",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26126004"
+  },
+  {
+    "title": "World’s First 1k-Processor Chip, Powered by a Single AA Battery",
+    "url": "https://www.ucdavis.edu/news/worlds-first-1000-processor-chip",
+    "upvotes": 39,
+    "author": "Bluestein",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26140957"
+  },
+  {
+    "title": "Show HN: Dato.rss The best RSS Search experience you can find",
+    "url": "https://datorss.com",
+    "upvotes": 11,
+    "author": "dsantangelo",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26141278"
   },
   {
     "title": "Show HN: Khan-dl – Khan Academy Course Downloader",
     "url": "https://github.com/rand-net/khan-dl",
-    "upvotes": 408,
+    "upvotes": 415,
     "author": "rand_net",
     "comments": 155,
     "link": "https://news.ycombinator.com/item?id=26134915"
   },
   {
-    "title": "World’s First 1k-Processor Chip, Powered by a Single AA Battery",
-    "url": "https://www.ucdavis.edu/news/worlds-first-1000-processor-chip",
-    "upvotes": 34,
-    "author": "Bluestein",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26140957"
+    "title": "Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2",
+    "upvotes": 219,
+    "author": "lazycrazyowl",
+    "comments": 263,
+    "link": "https://news.ycombinator.com/item?id=26140086"
   },
   {
     "title": "Show HN: Simple tool for creating and organizing daily notes on the command line",
     "url": "https://github.com/dkaslovsky/textnote",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "dankco",
-    "comments": 19,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26123436"
   },
   {
-    "title": "Spotify is letting employees work from anywhere while paying SF and NY salaries",
-    "url": "https://www.businessinsider.com/spotify-unveils-new-remote-work-option-for-all-employees-2021-2",
-    "upvotes": 105,
-    "author": "ivanche",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26141469"
-  },
-  {
-    "title": "Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine",
-    "url": "https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2",
-    "upvotes": 201,
-    "author": "lazycrazyowl",
-    "comments": 252,
-    "link": "https://news.ycombinator.com/item?id=26140086"
-  },
-  {
-    "title": "Show HN: Dato.rss The best RSS Search experience you can find",
-    "url": "https://datorss.com",
-    "upvotes": 7,
-    "author": "dsantangelo",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26141278"
+    "title": "Riot Squad Cops Open Up About Disastrous Response to Capitol Riot",
+    "url": "https://www.propublica.org/article/i-dont-trust-the-people-above-me-riot-squad-cops-open-up-about-disastrous-response-to-capitol-insurrection",
+    "upvotes": 17,
+    "author": "hamiltonians",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26142076"
   },
   {
     "title": "Hubble Takes Portrait of Nebula",
     "url": "https://phys.org/news/2021-02-image-hubble-portrait-nebula.html",
     "upvotes": 29,
     "author": "dnetesn",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26131656"
   },
   {
     "title": "Half Doses of Moderna Vaccine Produce Neutralizing Antibodies",
     "url": "https://marginalrevolution.com/marginalrevolution/2021/02/half-doses-of-moderna-produce-neutralizing-antibodies.html",
-    "upvotes": 303,
+    "upvotes": 310,
     "author": "elsewhen",
-    "comments": 340,
+    "comments": 344,
     "link": "https://news.ycombinator.com/item?id=26134773"
   },
   {
     "title": "Show HN: A simple website for my JavaScript bundler",
     "url": "https://fjbundler.com/",
-    "upvotes": 47,
+    "upvotes": 51,
     "author": "ianertson",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26130613"
+  },
+  {
+    "title": "Spotify is letting employees work from anywhere while paying SF and NY salaries",
+    "url": "https://www.businessinsider.com/spotify-unveils-new-remote-work-option-for-all-employees-2021-2",
+    "upvotes": 126,
+    "author": "ivanche",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=26141469"
   },
   {
     "title": "Extruding Ice from Steel Fences and Pipes with Diurnal Freeze/Thaw",
     "url": "http://my.ilstu.edu/~jrcarter/ice/diurnal/extrude/",
-    "upvotes": 241,
+    "upvotes": 245,
     "author": "yosamino",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26121775"
-  },
-  {
-    "title": "Good Ideas, Through the Looking Glass",
-    "url": "https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf",
-    "upvotes": 26,
-    "author": "benhoyt",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26138218"
-  },
-  {
-    "title": "Why “Trusting the Science” Is Complicated",
-    "url": "https://lareviewofbooks.org/article/why-trusting-the-science-is-complicated/",
-    "upvotes": 184,
-    "author": "pseudolus",
-    "comments": 248,
-    "link": "https://news.ycombinator.com/item?id=26122712"
   }
 ]
