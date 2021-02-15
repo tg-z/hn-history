@@ -2,237 +2,237 @@
   {
     "title": "A tiny C compiler which can compile itself",
     "url": "https://bellard.org/otcc/",
-    "upvotes": 177,
+    "upvotes": 196,
     "author": "ducktective",
-    "comments": 42,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26141124"
   },
   {
     "title": "Running Nomad for a Home Server",
     "url": "https://mrkaran.dev/posts/home-server-nomad/",
-    "upvotes": 40,
+    "upvotes": 57,
     "author": "elliebike",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26142005"
+  },
+  {
+    "title": "An Improved Thread with C++20",
+    "url": "http://modernescpp.com/index.php/an-improved-thread-with-c-20",
+    "upvotes": 41,
+    "author": "ibobev",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26142257"
   },
   {
     "title": "Why SELECT * is bad for SQL performance",
     "url": "https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/",
-    "upvotes": 127,
+    "upvotes": 138,
     "author": "wheresvic4",
-    "comments": 74,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26141003"
   },
   {
     "title": "SolarWinds hack was 'largest and most sophisticated attack' ever: MSFT president",
     "url": "https://www.reuters.com/article/us-cyber-solarwinds-microsoft-idUSKBN2AF03R",
-    "upvotes": 346,
+    "upvotes": 352,
     "author": "andrewinardeer",
-    "comments": 175,
+    "comments": 176,
     "link": "https://news.ycombinator.com/item?id=26138931"
-  },
-  {
-    "title": "An Improved Thread with C++20",
-    "url": "http://modernescpp.com/index.php/an-improved-thread-with-c-20",
-    "upvotes": 31,
-    "author": "ibobev",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26142257"
   },
   {
     "title": "OWASP Cheat Sheet Series",
     "url": "https://cheatsheetseries.owasp.org/",
-    "upvotes": 131,
+    "upvotes": 140,
     "author": "tilt",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26140862"
   },
   {
     "title": "Show HN: ustaxes.org – open-source tax filing webapp",
     "url": "https://github.com/thegrims/UsTaxes",
-    "upvotes": 282,
+    "upvotes": 293,
     "author": "aidangrimshaw",
-    "comments": 142,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=26138446"
   },
   {
     "title": "26 Years of Delphi",
     "url": "https://blogs.embarcadero.com/26-years-of-delphi/",
-    "upvotes": 81,
+    "upvotes": 90,
     "author": "mustafabisic1",
-    "comments": 29,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26141786"
-  },
-  {
-    "title": "The U.S.' vaccine rollout is world-beating",
-    "url": "https://noahpinion.substack.com/p/the-us-vaccine-rollout-is-world-beating",
-    "upvotes": 21,
-    "author": "barry-cotter",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26142410"
   },
   {
     "title": "What is the case against F#?",
     "url": "https://stackoverflow.com/questions/1105422/what-is-the-case-against-f#",
-    "upvotes": 16,
+    "upvotes": 21,
     "author": "rfreytag",
-    "comments": 18,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26142362"
+  },
+  {
+    "title": "Ercot nearly at capacity for Texas power grid",
+    "url": "http://www.ercot.com/content/cdr/html/real_time_system_conditions.html",
+    "upvotes": 239,
+    "author": "tomrod",
+    "comments": 425,
+    "link": "https://news.ycombinator.com/item?id=26137893"
+  },
+  {
+    "title": "I Blew It",
+    "url": "http://www.erasmatazz.com/personal/self/i-really-blew-it.html",
+    "upvotes": 216,
+    "author": "webmaven",
+    "comments": 203,
+    "link": "https://news.ycombinator.com/item?id=26139348"
   },
   {
     "title": "ReadMe",
     "url": "https://readme.com/careers#ui-engineer"
   },
   {
-    "title": "Ercot nearly at capacity for Texas power grid",
-    "url": "http://www.ercot.com/content/cdr/html/real_time_system_conditions.html",
-    "upvotes": 236,
-    "author": "tomrod",
-    "comments": 411,
-    "link": "https://news.ycombinator.com/item?id=26137893"
-  },
-  {
-    "title": "I Blew It",
-    "url": "http://www.erasmatazz.com/personal/self/i-really-blew-it.html",
-    "upvotes": 206,
-    "author": "webmaven",
-    "comments": 189,
-    "link": "https://news.ycombinator.com/item?id=26139348"
-  },
-  {
     "title": "Is Your Linux Version Hiding Interrupt CPU Usage from You?",
     "url": "https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "tanelpoder",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26139611"
   },
   {
+    "title": "LiteSpeed QUIC",
+    "url": "https://github.com/litespeedtech/lsquic",
+    "upvotes": 4,
+    "author": "ZnZirconium",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26142741"
+  },
+  {
+    "title": "Introduction to the 'Why use F#' series",
+    "url": "https://fsharpforfunandprofit.com/posts/why-use-fsharp-intro/",
+    "upvotes": 4,
+    "author": "rfreytag",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26142662"
+  },
+  {
     "title": "Melting permafrost cause huge underground methane explosions in Siberia",
     "url": "https://siberiantimes.com/other/others/news/scientists-call-for-urgent-increase-in-monitoring-potentially-explosive-permafrost-heave-mounds/",
-    "upvotes": 169,
+    "upvotes": 173,
     "author": "dmitriy_ko",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26137703"
-  },
-  {
-    "title": "Microsoft’s Big Win in Quantum Computing Was an ‘Error’ After All",
-    "url": "https://www.wired.com/story/microsoft-win-quantum-computing-error/",
-    "upvotes": 59,
-    "author": "kumarharsh",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26141498"
-  },
-  {
-    "title": "World’s First 1k-Processor Chip, Powered by a Single AA Battery",
-    "url": "https://www.ucdavis.edu/news/worlds-first-1000-processor-chip",
-    "upvotes": 44,
-    "author": "Bluestein",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26140957"
   },
   {
     "title": "Python Internals Serie: Int",
     "url": "http://ykarroum.com/2021/01/10/intobject/",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "karroum",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26131703"
   },
   {
     "title": "Interactive Data Visualisation with Rust",
     "url": "https://shahinrostami.com/posts/programming/rust-notebooks/visualisation-of-co-occurring-types/",
-    "upvotes": 54,
+    "upvotes": 56,
     "author": "batterylow",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26141018"
+  },
+  {
+    "title": "Microsoft’s Big Win in Quantum Computing Was an ‘Error’ After All",
+    "url": "https://www.wired.com/story/microsoft-win-quantum-computing-error/",
+    "upvotes": 67,
+    "author": "kumarharsh",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26141498"
   },
   {
     "title": "The Drenching Richness of Andrei Tarkovsky",
     "url": "https://www.newyorker.com/magazine/2021/02/15/the-drenching-richness-of-andrei-tarkovsky",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "benbreen",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26126004"
-  },
-  {
-    "title": "Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine",
-    "url": "https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2",
-    "upvotes": 235,
-    "author": "lazycrazyowl",
-    "comments": 268,
-    "link": "https://news.ycombinator.com/item?id=26140086"
   },
   {
     "title": "Show HN: Dato.rss The best RSS Search experience you can find",
     "url": "https://datorss.com",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "dsantangelo",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26141278"
   },
   {
-    "title": "Show HN: Khan-dl – Khan Academy Course Downloader",
-    "url": "https://github.com/rand-net/khan-dl",
-    "upvotes": 416,
-    "author": "rand_net",
-    "comments": 155,
-    "link": "https://news.ycombinator.com/item?id=26134915"
+    "title": "World’s First 1k-Processor Chip, Powered by a Single AA Battery",
+    "url": "https://www.ucdavis.edu/news/worlds-first-1000-processor-chip",
+    "upvotes": 47,
+    "author": "Bluestein",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26140957"
   },
   {
-    "title": "Riot Squad Cops Open Up About Disastrous Response to Capitol Riot",
-    "url": "https://www.propublica.org/article/i-dont-trust-the-people-above-me-riot-squad-cops-open-up-about-disastrous-response-to-capitol-insurrection",
-    "upvotes": 32,
-    "author": "hamiltonians",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26142076"
-  },
-  {
-    "title": "Hubble Takes Portrait of Nebula",
-    "url": "https://phys.org/news/2021-02-image-hubble-portrait-nebula.html",
-    "upvotes": 34,
-    "author": "dnetesn",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26131656"
-  },
-  {
-    "title": "Half Doses of Moderna Vaccine Produce Neutralizing Antibodies",
-    "url": "https://marginalrevolution.com/marginalrevolution/2021/02/half-doses-of-moderna-produce-neutralizing-antibodies.html",
-    "upvotes": 312,
-    "author": "elsewhen",
-    "comments": 344,
-    "link": "https://news.ycombinator.com/item?id=26134773"
+    "title": "Israeli study finds 94% drop in symptomatic Covid-19 cases with Pfizer vaccine",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-israel-vaccine-idUSKBN2AE0Q2",
+    "upvotes": 246,
+    "author": "lazycrazyowl",
+    "comments": 271,
+    "link": "https://news.ycombinator.com/item?id=26140086"
   },
   {
     "title": "The Therac-25 Incident",
     "url": "https://thedailywtf.com/articles/the-therac-25-incident",
-    "upvotes": 5,
+    "upvotes": 15,
     "author": "dagurp",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26142432"
   },
   {
+    "title": "WhatsApp alternatives that won’t share your data with Facebook",
+    "url": "https://protonmail.com/blog/whatsapp-alternatives/",
+    "upvotes": 15,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26142510"
+  },
+  {
+    "title": "Show HN: Khan-dl – Khan Academy Course Downloader",
+    "url": "https://github.com/rand-net/khan-dl",
+    "upvotes": 418,
+    "author": "rand_net",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=26134915"
+  },
+  {
+    "title": "Hubble Takes Portrait of Nebula",
+    "url": "https://phys.org/news/2021-02-image-hubble-portrait-nebula.html",
+    "upvotes": 35,
+    "author": "dnetesn",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26131656"
+  },
+  {
+    "title": "Riot Squad Cops Open Up About Disastrous Response to Capitol Riot",
+    "url": "https://www.propublica.org/article/i-dont-trust-the-people-above-me-riot-squad-cops-open-up-about-disastrous-response-to-capitol-insurrection",
+    "upvotes": 42,
+    "author": "hamiltonians",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26142076"
+  },
+  {
+    "title": "Half Doses of Moderna Vaccine Produce Neutralizing Antibodies",
+    "url": "https://marginalrevolution.com/marginalrevolution/2021/02/half-doses-of-moderna-produce-neutralizing-antibodies.html",
+    "upvotes": 314,
+    "author": "elsewhen",
+    "comments": 345,
+    "link": "https://news.ycombinator.com/item?id=26134773"
+  },
+  {
     "title": "Show HN: A simple website for my JavaScript bundler",
     "url": "https://fjbundler.com/",
-    "upvotes": 52,
+    "upvotes": 53,
     "author": "ianertson",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26130613"
-  },
-  {
-    "title": "Extruding Ice from Steel Fences and Pipes with Diurnal Freeze/Thaw",
-    "url": "http://my.ilstu.edu/~jrcarter/ice/diurnal/extrude/",
-    "upvotes": 249,
-    "author": "yosamino",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26121775"
-  },
-  {
-    "title": "Good Ideas, Through the Looking Glass",
-    "url": "https://people.inf.ethz.ch/wirth/Articles/GoodIdeas_origFig.pdf",
-    "upvotes": 27,
-    "author": "benhoyt",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26138218"
   }
 ]
