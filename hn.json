@@ -2,171 +2,147 @@
   {
     "title": "Arranging Invisible Icons in Quadratic Time",
     "url": "https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/",
-    "upvotes": 160,
+    "upvotes": 191,
     "author": "ingve",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26152335"
   },
   {
-    "title": "Many Small Queries Are Efficient in SQLite",
+    "title": "Many small queries are efficient in SQLite",
     "url": "https://sqlite.org/np1queryprob.html",
-    "upvotes": 315,
+    "upvotes": 334,
     "author": "ArtTimeInvestor",
-    "comments": 182,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=26151302"
-  },
-  {
-    "title": "Fake Amazon reviews 'being sold in bulk' online",
-    "url": "https://www.bbc.com/news/business-56069472",
-    "upvotes": 448,
-    "author": "_wldu",
-    "comments": 335,
-    "link": "https://news.ycombinator.com/item?id=26149754"
   },
   {
     "title": "Kanban board in one HTML using localstorage",
     "url": "https://github.com/apankrat/nullboard",
-    "upvotes": 219,
+    "upvotes": 240,
     "author": "synergy20",
-    "comments": 54,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26151207"
   },
   {
     "title": "Learning Ruby: Things I Like, Things I Miss from Python",
     "url": "https://medium.com/workpath-thewaywework/learning-ruby-2-things-i-like-2-things-i-miss-from-python-6f60af8ed16c",
-    "upvotes": 101,
+    "upvotes": 111,
     "author": "OKRHero",
-    "comments": 117,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26151575"
-  },
-  {
-    "title": "Bitcoin surpasses $50K for first time ever as major companies jump into crypto",
-    "url": "https://www.cnbc.com/2021/02/16/bitcoin-btc-price-hits-50000-for-the-first-time.html",
-    "upvotes": 38,
-    "author": "koolba",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26153323"
-  },
-  {
-    "title": "“User Engagement” Is Code for “Addiction”",
-    "url": "https://craigwritescode.medium.com/user-engagement-is-code-for-addiction-a2f50d36d7ac",
-    "upvotes": 109,
-    "author": "wilsocr88",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26153331"
   },
   {
     "title": "Windows Refund Day",
     "url": "http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought",
-    "upvotes": 308,
+    "upvotes": 314,
     "author": "ransom_rs",
-    "comments": 108,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26149376"
+  },
+  {
+    "title": "“User Engagement” Is Code for “Addiction”",
+    "url": "https://craigwritescode.medium.com/user-engagement-is-code-for-addiction-a2f50d36d7ac",
+    "upvotes": 153,
+    "author": "wilsocr88",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=26153331"
+  },
+  {
+    "title": "Building Rich Terminal Dashboards",
+    "url": "https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/",
+    "upvotes": 405,
+    "author": "lumpa",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26149488"
+  },
+  {
+    "title": "How They SRE",
+    "url": "https://github.com/upgundecha/howtheysre",
+    "upvotes": 187,
+    "author": "zdw",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26150629"
+  },
+  {
+    "title": "How the World's First Computer Was Rescued from the Scrap Heap",
+    "url": "https://www.wired.com/2014/11/eniac-unearthed/",
+    "upvotes": 24,
+    "author": "8bitsrule",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26140470"
   },
   {
     "title": "Truebill",
     "url": "https://boards.greenhouse.io/truebill/jobs/4297986003"
   },
   {
-    "title": "Building Rich Terminal Dashboards",
-    "url": "https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/",
-    "upvotes": 388,
-    "author": "lumpa",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=26149488"
-  },
-  {
-    "title": "How They SRE",
-    "url": "https://github.com/upgundecha/howtheysre",
-    "upvotes": 180,
-    "author": "zdw",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26150629"
-  },
-  {
-    "title": "How the World's First Computer Was Rescued from the Scrap Heap",
-    "url": "https://www.wired.com/2014/11/eniac-unearthed/",
-    "upvotes": 20,
-    "author": "8bitsrule",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26140470"
-  },
-  {
-    "title": "Sonobus: Open-source app for low latency peer-to-peer audio",
-    "url": "https://sonobus.net/",
-    "upvotes": 318,
-    "author": "Eduard",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=26148527"
-  },
-  {
-    "title": "Show HN: Jam, an Open Source Clubhouse",
-    "url": "https://jam.systems",
-    "upvotes": 270,
-    "author": "tosh",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26131123"
+    "title": "The Other Woman",
+    "url": "https://thepointmag.com/examined-life/the-other-woman/",
+    "upvotes": 5,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26137903"
   },
   {
     "title": "Blue Beads Could Be the Oldest Evidence of European Goods in North America",
     "url": "https://gizmodo.com/found-in-alaska-these-blue-beads-could-be-the-oldest-e-1846208780",
-    "upvotes": 35,
+    "upvotes": 36,
     "author": "Thevet",
-    "comments": 26,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26138829"
   },
   {
-    "title": "Security features of the Intel/Windows platform secure boot process",
-    "url": "https://igor-blue.github.io/2021/02/04/secure-boot.html",
-    "upvotes": 50,
-    "author": "ingve",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26140122"
+    "title": "Fake Amazon reviews 'being sold in bulk' online",
+    "url": "https://www.bbc.com/news/business-56069472",
+    "upvotes": 463,
+    "author": "_wldu",
+    "comments": 344,
+    "link": "https://news.ycombinator.com/item?id=26149754"
   },
   {
     "title": "“Silicon Valley’s Safe Space” has misinformed readers",
     "url": "https://reason.com/2021/02/15/what-the-new-york-times-hit-piece-on-slate-star-codex-says-about-media-gatekeeping/",
-    "upvotes": 52,
+    "upvotes": 73,
     "author": "Bostonian",
-    "comments": 24,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26153070"
+  },
+  {
+    "title": "Security features of the Intel/Windows platform secure boot process",
+    "url": "https://igor-blue.github.io/2021/02/04/secure-boot.html",
+    "upvotes": 54,
+    "author": "ingve",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26140122"
   },
   {
     "title": "Is This a Branch?",
     "url": "https://bartwronski.com/2021/01/18/is-this-a-branch/",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "wheresvic4",
-    "comments": 52,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26141047"
-  },
-  {
-    "title": "Are the New M1 Macbooks Any Good for Deep Learning?",
-    "url": "https://www.betterdatascience.com/m1-deep-learning/",
-    "upvotes": 159,
-    "author": "syntaxing",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=26148333"
   },
   {
     "title": "Pretty Good Phone Privacy [pdf]",
     "url": "https://raghavan.usc.edu/papers/pgpp-arxiv20.pdf",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "vinnyglennon",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26140989"
   },
   {
     "title": "Supermicro Hack: China Exploited a US Tech Supplier over Years [2021 Follow-Up]",
     "url": "https://www.bloomberg.com/features/2021-supermicro/#",
-    "upvotes": 218,
+    "upvotes": 229,
     "author": "kenneth",
-    "comments": 94,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26149885"
   },
   {
     "title": "Reforming the Mathematical Language of Physics",
     "url": "http://worrydream.com/refs/Hestenes-ReformingTheMathematicalLanguageOfPhysics.pdf",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "alokrai",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26136520"
@@ -174,26 +150,82 @@
   {
     "title": "FPGA NTP Server",
     "url": "https://research.wand.net.nz/hardware/ntp.php",
-    "upvotes": 102,
+    "upvotes": 104,
     "author": "todsacerdoti",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26149620"
+  },
+  {
+    "title": "Show HN: Pageturner – a community for building a reading habit",
+    "url": "https://joinpageturner.com/?ref=hackernews",
+    "upvotes": 6,
+    "author": "bcye",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26152786"
   },
   {
     "title": "The Libet experiment doesn't disprove free will",
     "url": "https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/",
     "upvotes": 49,
     "author": "Bluestein",
-    "comments": 131,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=26147477"
   },
   {
     "title": "Launch HN: Noya (YC W21) – Direct air capture of CO2 using cooling towers",
     "url": "item?id=26144432",
-    "upvotes": 345,
+    "upvotes": 349,
     "author": "jsantos511",
     "comments": 143,
     "link": "https://news.ycombinator.com/item?id=26144432"
+  },
+  {
+    "title": "The Chinese Businessman Paradox",
+    "url": "https://commoncog.com/blog/the-chinese-businessman-paradox/",
+    "upvotes": 29,
+    "author": "riverlong",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26119635"
+  },
+  {
+    "title": "Sonobus: Open-source app for low latency peer-to-peer audio",
+    "url": "https://sonobus.net/",
+    "upvotes": 324,
+    "author": "Eduard",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26148527"
+  },
+  {
+    "title": "Show HN: Jam, an Open Source Clubhouse",
+    "url": "https://jam.systems",
+    "upvotes": 275,
+    "author": "tosh",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=26131123"
+  },
+  {
+    "title": "Launch HN: Pyroscope (YC W21) – Continuous profiling software",
+    "url": "item?id=26143923",
+    "upvotes": 82,
+    "author": "petethepig",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26143923"
+  },
+  {
+    "title": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
+    "url": "http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html",
+    "upvotes": 356,
+    "author": "tusharchoudhary",
+    "comments": 348,
+    "link": "https://news.ycombinator.com/item?id=26146026"
+  },
+  {
+    "title": "What security does a default OpenBSD installation offer?",
+    "url": "https://dataswamp.org/~solene/2021-02-14-openbsd-default-security.html",
+    "upvotes": 108,
+    "author": "zdw",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=26148667"
   },
   {
     "title": "Knight Letters: Magazines of the Lewis Carroll Society of North America",
@@ -202,37 +234,5 @@
     "author": "salutonmundo",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26140082"
-  },
-  {
-    "title": "What security does a default OpenBSD installation offer?",
-    "url": "https://dataswamp.org/~solene/2021-02-14-openbsd-default-security.html",
-    "upvotes": 104,
-    "author": "zdw",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=26148667"
-  },
-  {
-    "title": "The Chinese Businessman Paradox",
-    "url": "https://commoncog.com/blog/the-chinese-businessman-paradox/",
-    "upvotes": 22,
-    "author": "riverlong",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26119635"
-  },
-  {
-    "title": "Launch HN: Pyroscope (YC W21) – Continuous profiling software",
-    "url": "item?id=26143923",
-    "upvotes": 78,
-    "author": "petethepig",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26143923"
-  },
-  {
-    "title": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
-    "url": "http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html",
-    "upvotes": 348,
-    "author": "tusharchoudhary",
-    "comments": 349,
-    "link": "https://news.ycombinator.com/item?id=26146026"
   }
 ]
