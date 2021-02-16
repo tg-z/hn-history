@@ -1,150 +1,158 @@
 [
   {
-    "title": "What I Worked On",
-    "url": "http://paulgraham.com/worked.html",
-    "upvotes": 399,
-    "author": "tosh",
-    "comments": 170,
-    "link": "https://news.ycombinator.com/item?id=26155350"
-  },
-  {
     "title": "Functorio",
     "url": "https://bartoszmilewski.com/2021/02/16/functorio/.",
-    "upvotes": 39,
+    "upvotes": 110,
     "author": "ibobev",
-    "comments": null,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26157969"
   },
   {
-    "title": "Pine64 Unveils Quartz64 SBC",
-    "url": "https://www.cnx-software.com/2021/02/16/pine64-unveils-quartz64-sbc-powered-by-rockchip-rk3566-soc/",
-    "upvotes": 80,
-    "author": "stambros",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26156391"
-  },
-  {
-    "title": "Go 1.16 Release Notes",
-    "url": "https://golang.org/doc/go1.16",
-    "upvotes": 55,
-    "author": "ra7",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26158090"
-  },
-  {
-    "title": "Show HN: Endgame – An AWS Pentesting tool to backdoor or expose AWS resources",
-    "url": "https://github.com/salesforce/endgame",
-    "upvotes": 237,
-    "author": "kmcquade",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=26154038"
+    "title": "What I Worked On",
+    "url": "http://paulgraham.com/worked.html",
+    "upvotes": 430,
+    "author": "tosh",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=26155350"
   },
   {
     "title": "Organizations Using the D Language",
     "url": "https://dlang.org/orgs-using-d.html",
-    "upvotes": 11,
+    "upvotes": 25,
     "author": "crazypython",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26158191"
   },
   {
+    "title": "Pine64 Unveils Quartz64 SBC",
+    "url": "https://www.cnx-software.com/2021/02/16/pine64-unveils-quartz64-sbc-powered-by-rockchip-rk3566-soc/",
+    "upvotes": 84,
+    "author": "stambros",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26156391"
+  },
+  {
+    "title": "Go 1.16 Release Notes",
+    "url": "https://golang.org/doc/go1.16",
+    "upvotes": 90,
+    "author": "ra7",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26158090"
+  },
+  {
+    "title": "Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team",
+    "url": "https://www.tesorio.com/careers#job-openings"
+  },
+  {
+    "title": "Show HN: Endgame – An AWS Pentesting tool to backdoor or expose AWS resources",
+    "url": "https://github.com/salesforce/endgame",
+    "upvotes": 249,
+    "author": "kmcquade",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=26154038"
+  },
+  {
     "title": "The Simtel.net MS-DOS Collection",
     "url": "http://www.lanet.lv/simtel.net/msdos/index-msdos.html",
-    "upvotes": 42,
+    "upvotes": 50,
     "author": "todsacerdoti",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26157165"
   },
   {
     "title": "Umberto Eco: Ur-Fascism",
     "url": "https://theanarchistlibrary.org/library/umberto-eco-ur-fascism.pdf",
-    "upvotes": 95,
+    "upvotes": 116,
     "author": "asterialite",
-    "comments": 22,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26156901"
   },
   {
     "title": "Launch HN: June (YC W21) – Two-click analytics reports on top of Segment data",
     "url": "item?id=26155327",
-    "upvotes": 68,
+    "upvotes": 74,
     "author": "0xferruccio",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26155327"
-  },
-  {
-    "title": "Why Is Esbuild Fast?",
-    "url": "https://esbuild.github.io/faq/#why-is-esbuild-fast",
-    "upvotes": 183,
-    "author": "mef",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26154509"
   },
   {
     "title": "Minimally Invasive",
     "url": "https://brandur.org/minimal-analytics",
-    "upvotes": 62,
+    "upvotes": 65,
     "author": "Chris911",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26155361"
   },
   {
-    "title": "New Report Shows Cops Used Ring Cameras to Monitor Black Lives Matter Protests",
-    "url": "https://www.eff.org/press/releases/new-eff-report-shows-cops-used-ring-cameras-monitor-black-lives-matter-protests",
-    "upvotes": 76,
-    "author": "DiabloD3",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26157331"
-  },
-  {
-    "title": "Taloflow",
-    "url": "https://www.workatastartup.com/jobs/42164"
+    "title": "16 bytes of Python that compile to 32 terabytes of bytecode",
+    "url": "https://codegolf.stackexchange.com/a/69415/4270",
+    "upvotes": 71,
+    "author": "azhenley",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26157674"
   },
   {
     "title": "Researchers rethink life in a cold climate after Antarctic find",
     "url": "https://www.theguardian.com/science/2021/feb/15/researchers-rethink-life-in-a-cold-climate-after-antarctic-find",
-    "upvotes": 35,
+    "upvotes": 42,
     "author": "sandebert",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26140852"
+  },
+  {
+    "title": "Why Is Esbuild Fast?",
+    "url": "https://esbuild.github.io/faq/#why-is-esbuild-fast",
+    "upvotes": 193,
+    "author": "mef",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26154509"
+  },
+  {
+    "title": "New Report Shows Cops Used Ring Cameras to Monitor Black Lives Matter Protests",
+    "url": "https://www.eff.org/press/releases/new-eff-report-shows-cops-used-ring-cameras-monitor-black-lives-matter-protests",
+    "upvotes": 92,
+    "author": "DiabloD3",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26157331"
   },
   {
     "title": "Arranging Invisible Icons in Quadratic Time",
     "url": "https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/",
-    "upvotes": 331,
+    "upvotes": 334,
     "author": "ingve",
-    "comments": 92,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26152335"
-  },
-  {
-    "title": "16 bytes of Python that compile to 32 terabytes of bytecode",
-    "url": "https://codegolf.stackexchange.com/a/69415/4270",
-    "upvotes": 48,
-    "author": "azhenley",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26157674"
   },
   {
     "title": "'New car smell' is the scent of carcinogens",
     "url": "https://www.sciencealert.com/a-20-minute-commute-puts-you-at-risk-of-unacceptably-high-levels-of-carcinogens",
-    "upvotes": 339,
+    "upvotes": 361,
     "author": "samizdis",
-    "comments": 249,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=26154466"
   },
   {
     "title": "Many small queries are efficient in SQLite",
     "url": "https://sqlite.org/np1queryprob.html",
-    "upvotes": 489,
+    "upvotes": 498,
     "author": "ArtTimeInvestor",
-    "comments": 270,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=26151302"
+  },
+  {
+    "title": "Skylight – A Window on Shingled Disk Operation",
+    "url": "https://www.usenix.org/system/files/conference/fast15/fast15-paper-aghayev.pdf",
+    "upvotes": 4,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26139538"
   },
   {
     "title": "Changes to LastPass Free",
     "url": "https://blog.lastpass.com/2021/02/changes-to-lastpass-free/",
-    "upvotes": 253,
+    "upvotes": 262,
     "author": "seng",
-    "comments": 333,
+    "comments": 339,
     "link": "https://news.ycombinator.com/item?id=26153845"
   },
   {
@@ -152,87 +160,79 @@
     "url": "https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/",
     "upvotes": 58,
     "author": "beshrkayali",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26130863"
-  },
-  {
-    "title": "Kanban board in one HTML using localstorage",
-    "url": "https://github.com/apankrat/nullboard",
-    "upvotes": 357,
-    "author": "synergy20",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26151207"
   },
   {
     "title": "Nobody’s Autobiography: Janet Malcolm examines Stein and Toklas in her new book",
     "url": "https://www.bookforum.com/print/1403/janet-malcolm-examines-biography-stein-and-toklas-in-her-new-book-854",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "apollinaire",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26150497"
   },
   {
-    "title": "TikTok hit with consumer law breaches complaints across Europe",
-    "url": "https://www.reuters.com/article/us-tiktok-eu/tiktok-hit-with-consumer-law-breaches-complaints-across-europe-idUSKBN2AG0S8",
-    "upvotes": 168,
-    "author": "giuliomagnifico",
-    "comments": 145,
-    "link": "https://news.ycombinator.com/item?id=26154608"
-  },
-  {
     "title": "Lenovo ThinkStation P620 Review: A Vehicle for Threadripper Pro",
     "url": "https://www.anandtech.com/show/16482/lenovo-thinkstation-p620-review-a-vehicle-for-threadripper-pro",
-    "upvotes": 28,
+    "upvotes": 32,
     "author": "neogodless",
-    "comments": 16,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26154602"
+  },
+  {
+    "title": "TikTok hit with consumer law breaches complaints across Europe",
+    "url": "https://www.reuters.com/article/us-tiktok-eu/tiktok-hit-with-consumer-law-breaches-complaints-across-europe-idUSKBN2AG0S8",
+    "upvotes": 170,
+    "author": "giuliomagnifico",
+    "comments": 147,
+    "link": "https://news.ycombinator.com/item?id=26154608"
   },
   {
     "title": "Computers Aren't Fun Anymore",
     "url": "https://feifan.blog/posts/computers-arent-fun-anymore",
-    "upvotes": 30,
+    "upvotes": 44,
     "author": "hacksilver",
-    "comments": 18,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26154754"
-  },
-  {
-    "title": "Learning Ruby: Things I Like, Things I Miss from Python",
-    "url": "https://medium.com/workpath-thewaywework/learning-ruby-2-things-i-like-2-things-i-miss-from-python-6f60af8ed16c",
-    "upvotes": 183,
-    "author": "OKRHero",
-    "comments": 188,
-    "link": "https://news.ycombinator.com/item?id=26151575"
   },
   {
     "title": "Sq, Sequoia PGP's CLI, Released",
     "url": "https://sequoia-pgp.org/blog/2021/01/26/202101-sq-release/",
-    "upvotes": 92,
+    "upvotes": 96,
     "author": "upofadown",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26141995"
+  },
+  {
+    "title": "Learning Ruby: Things I Like, Things I Miss from Python",
+    "url": "https://medium.com/workpath-thewaywework/learning-ruby-2-things-i-like-2-things-i-miss-from-python-6f60af8ed16c",
+    "upvotes": 186,
+    "author": "OKRHero",
+    "comments": 191,
+    "link": "https://news.ycombinator.com/item?id=26151575"
+  },
+  {
+    "title": "An Air of Permanent Mourning",
+    "url": "https://placesjournal.org/article/reservoir-an-air-of-permanent-mourning/",
+    "upvotes": 13,
+    "author": "tintinnabula",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26144267"
   },
   {
     "title": "Nigeria's Central Bank has prohibited banks from processing cryptocurrencies",
     "url": "https://twitter.com/DocumentingBTC/status/1357679262908694529",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "giuliomagnifico",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26155512"
   },
   {
-    "title": "AirPods as a Platform",
-    "url": "https://julian.digital/2020/04/19/airpods-as-a-platform/",
-    "upvotes": 39,
-    "author": "sc90",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26156881"
-  },
-  {
-    "title": "An Air of Permanent Mourning",
-    "url": "https://placesjournal.org/article/reservoir-an-air-of-permanent-mourning/",
-    "upvotes": 11,
-    "author": "tintinnabula",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26144267"
+    "title": "Show HN: Pageturner – a community for building a reading habit",
+    "url": "https://joinpageturner.com/?ref=hackernews",
+    "upvotes": 63,
+    "author": "bcye",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26152786"
   }
 ]
