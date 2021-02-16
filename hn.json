@@ -2,63 +2,63 @@
   {
     "title": "Many Small Queries Are Efficient in SQLite",
     "url": "https://sqlite.org/np1queryprob.html",
-    "upvotes": 71,
+    "upvotes": 96,
     "author": "ArtTimeInvestor",
-    "comments": 15,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26151302"
   },
   {
     "title": "Fake Amazon reviews 'being sold in bulk' online",
     "url": "https://www.bbc.com/news/business-56069472",
-    "upvotes": 255,
+    "upvotes": 269,
     "author": "_wldu",
-    "comments": 195,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=26149754"
-  },
-  {
-    "title": "Learning Ruby: Things I Like, Things I Miss from Python",
-    "url": "https://medium.com/workpath-thewaywework/learning-ruby-2-things-i-like-2-things-i-miss-from-python-6f60af8ed16c",
-    "upvotes": 9,
-    "author": "OKRHero",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26151575"
   },
   {
     "title": "Kanban board in one HTML using localstorage",
     "url": "https://github.com/apankrat/nullboard",
-    "upvotes": 40,
+    "upvotes": 56,
     "author": "synergy20",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26151207"
+  },
+  {
+    "title": "Learning Ruby: Things I Like, Things I Miss from Python",
+    "url": "https://medium.com/workpath-thewaywework/learning-ruby-2-things-i-like-2-things-i-miss-from-python-6f60af8ed16c",
+    "upvotes": 14,
+    "author": "OKRHero",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26151575"
   },
   {
     "title": "How They SRE",
     "url": "https://github.com/upgundecha/howtheysre",
-    "upvotes": 71,
+    "upvotes": 80,
     "author": "zdw",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26150629"
   },
   {
     "title": "Windows Refund Day",
     "url": "http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought",
-    "upvotes": 199,
+    "upvotes": 210,
     "author": "ransom_rs",
-    "comments": 70,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26149376"
   },
   {
     "title": "Building Rich Terminal Dashboards",
     "url": "https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/",
-    "upvotes": 263,
+    "upvotes": 274,
     "author": "lumpa",
-    "comments": 55,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26149488"
   },
   {
     "title": "Show HN: Jam, an Open Source Clubhouse",
     "url": "https://jam.systems",
-    "upvotes": 178,
+    "upvotes": 186,
     "author": "tosh",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26131123"
@@ -66,15 +66,15 @@
   {
     "title": "Sonobus: Open-source app for low latency peer-to-peer audio",
     "url": "https://sonobus.net/",
-    "upvotes": 206,
+    "upvotes": 216,
     "author": "Eduard",
-    "comments": 38,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26148527"
   },
   {
     "title": "Security features of the Intel/Windows platform secure boot process",
     "url": "https://igor-blue.github.io/2021/02/04/secure-boot.html",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26140122"
@@ -82,39 +82,15 @@
   {
     "title": "Is This a Branch?",
     "url": "https://bartwronski.com/2021/01/18/is-this-a-branch/",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "wheresvic4",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26141047"
-  },
-  {
-    "title": "FPGA NTP Server",
-    "url": "https://research.wand.net.nz/hardware/ntp.php",
-    "upvotes": 64,
-    "author": "todsacerdoti",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26149620"
-  },
-  {
-    "title": "I created the BIPLAN programming language, what do you think about it?",
-    "url": "https://github.com/gioblu/BIPLAN",
-    "upvotes": 13,
-    "author": "gioscarab",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26130845"
-  },
-  {
-    "title": "Pretty Good Phone Privacy [pdf]",
-    "url": "https://raghavan.usc.edu/papers/pgpp-arxiv20.pdf",
-    "upvotes": 31,
-    "author": "vinnyglennon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26140989"
   },
   {
     "title": "Media files extracted from North Korea's Red Star OS",
     "url": "https://github.com/BlackOtton/RedStar-Media",
-    "upvotes": 174,
+    "upvotes": 177,
     "author": "da_big_ghey",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26145333"
@@ -122,94 +98,110 @@
   {
     "title": "Sourcetrail: Free and open-source interactive source explorer",
     "url": "https://github.com/CoatiSoftware/Sourcetrail",
-    "upvotes": 157,
+    "upvotes": 161,
     "author": "yagizdegirmenci",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26130763"
   },
   {
+    "title": "Pretty Good Phone Privacy [pdf]",
+    "url": "https://raghavan.usc.edu/papers/pgpp-arxiv20.pdf",
+    "upvotes": 34,
+    "author": "vinnyglennon",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26140989"
+  },
+  {
     "title": "How Tim Cook transformed Apple after Steve Jobs",
     "url": "https://www.bloomberg.com/news/features/2021-02-09/this-is-how-tim-cook-transformed-apple-aapl-after-steve-jobs",
-    "upvotes": 194,
+    "upvotes": 199,
     "author": "wallflower",
-    "comments": 188,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=26134006"
+  },
+  {
+    "title": "I created the BIPLAN programming language, what do you think about it?",
+    "url": "https://github.com/gioblu/BIPLAN",
+    "upvotes": 16,
+    "author": "gioscarab",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26130845"
+  },
+  {
+    "title": "FPGA NTP Server",
+    "url": "https://research.wand.net.nz/hardware/ntp.php",
+    "upvotes": 65,
+    "author": "todsacerdoti",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26149620"
   },
   {
     "title": "Launch HN: Noya (YC W21) – Direct air capture of CO2 using cooling towers",
     "url": "item?id=26144432",
-    "upvotes": 300,
+    "upvotes": 306,
     "author": "jsantos511",
     "comments": 133,
     "link": "https://news.ycombinator.com/item?id=26144432"
   },
   {
+    "title": "All about thread-local storage",
+    "url": "https://maskray.me/blog/2021-02-14-all-about-thread-local-storage",
+    "upvotes": 16,
+    "author": "MaskRay",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26150512"
+  },
+  {
+    "title": "The Making of Lemmings",
+    "url": "https://readonlymemory.vg/the-making-of-lemmings/",
+    "upvotes": 74,
+    "author": "tosh",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26130821"
+  },
+  {
     "title": "Ink – Scripting language for interactive stories",
     "url": "https://www.inklestudios.com/ink/",
-    "upvotes": 95,
+    "upvotes": 96,
     "author": "josefslerka",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26147329"
   },
   {
-    "title": "The Making of Lemmings",
-    "url": "https://readonlymemory.vg/the-making-of-lemmings/",
-    "upvotes": 71,
-    "author": "tosh",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26130821"
-  },
-  {
-    "title": "Undici – an HTTP/1.1 client, written from scratch for Node.js",
-    "url": "https://www.npmjs.com/package/undici",
-    "upvotes": 3,
-    "author": "vishnuharidas",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26151322"
-  },
-  {
-    "title": "Are the New M1 Macbooks Any Good for Deep Learning?",
-    "url": "https://www.betterdatascience.com/m1-deep-learning/",
-    "upvotes": 117,
-    "author": "syntaxing",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=26148333"
-  },
-  {
     "title": "What security does a default OpenBSD installation offer?",
     "url": "https://dataswamp.org/~solene/2021-02-14-openbsd-default-security.html",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "zdw",
-    "comments": 51,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26148667"
   },
   {
     "title": "The Physics of baking good Pizza [pdf]",
     "url": "https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf",
-    "upvotes": 77,
+    "upvotes": 85,
     "author": "Tomte",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26142082"
   },
   {
     "title": "Python strings are immutable, but only sometimes",
     "url": "https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html",
-    "upvotes": 149,
+    "upvotes": 155,
     "author": "jermaustin1",
     "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26145775"
   },
   {
-    "title": "BuildZoom",
-    "url": "https://jobs.lever.co/buildzoom"
+    "title": "Are the New M1 Macbooks Any Good for Deep Learning?",
+    "url": "https://www.betterdatascience.com/m1-deep-learning/",
+    "upvotes": 118,
+    "author": "syntaxing",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26148333"
   },
   {
-    "title": "Fastcheck: Property based testing for JavaScript and TypeScript",
-    "url": "https://dubzzz.github.io/fast-check.github.com/",
-    "upvotes": 33,
-    "author": "alokrai",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26147011"
+    "title": "BuildZoom",
+    "url": "https://jobs.lever.co/buildzoom"
   },
   {
     "title": "Launch HN: Pyroscope (YC W21) – Continuous profiling software",
@@ -220,19 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=26143923"
   },
   {
-    "title": "All about thread-local storage",
-    "url": "https://maskray.me/blog/2021-02-14-all-about-thread-local-storage",
-    "upvotes": 13,
-    "author": "MaskRay",
+    "title": "Fastcheck: Property based testing for JavaScript and TypeScript",
+    "url": "https://dubzzz.github.io/fast-check.github.com/",
+    "upvotes": 33,
+    "author": "alokrai",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26147011"
+  },
+  {
+    "title": "Undici – an HTTP/1.1 client, written from scratch for Node.js",
+    "url": "https://www.npmjs.com/package/undici",
+    "upvotes": 5,
+    "author": "vishnuharidas",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26150512"
+    "link": "https://news.ycombinator.com/item?id=26151322"
   },
   {
     "title": "Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning",
     "url": "https://blog.evjang.com/2021/02/backprop.html",
     "upvotes": 83,
     "author": "ericjang",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26127387"
   }
 ]
