@@ -2,66 +2,74 @@
   {
     "title": "Functorio",
     "url": "https://bartoszmilewski.com/2021/02/16/functorio/.",
-    "upvotes": 254,
+    "upvotes": 284,
     "author": "ibobev",
-    "comments": 75,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26157969"
   },
   {
     "title": "What I Worked On",
     "url": "http://paulgraham.com/worked.html",
-    "upvotes": 516,
+    "upvotes": 531,
     "author": "tosh",
-    "comments": 241,
+    "comments": 252,
     "link": "https://news.ycombinator.com/item?id=26155350"
-  },
-  {
-    "title": "Visual Studio Code team considers Vim mode depending on upvotes",
-    "url": "https://github.com/microsoft/vscode/issues/114851#issuecomment-766987871",
-    "upvotes": 29,
-    "author": "dschuessler",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26159357"
   },
   {
     "title": "Organizations Using the D Language",
     "url": "https://dlang.org/orgs-using-d.html",
-    "upvotes": 58,
+    "upvotes": 63,
     "author": "crazypython",
-    "comments": 19,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26158191"
   },
   {
     "title": "Pine64 Unveils Quartz64 SBC",
     "url": "https://www.cnx-software.com/2021/02/16/pine64-unveils-quartz64-sbc-powered-by-rockchip-rk3566-soc/",
-    "upvotes": 107,
+    "upvotes": 112,
     "author": "stambros",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26156391"
   },
   {
-    "title": "Go 1.16 Release Notes",
-    "url": "https://golang.org/doc/go1.16",
-    "upvotes": 160,
-    "author": "ra7",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26158090"
+    "title": "Behold z, the unsung jewel that rethinks shell navigation",
+    "url": "https://aymericbeaumet.com/behold-z-the-unsung-jewel-that-rethinks-shell-navigation",
+    "upvotes": 31,
+    "author": "aymericbeaumet",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26153401"
   },
   {
     "title": "Show HN: Endgame – An AWS Pentesting tool to backdoor or expose AWS resources",
     "url": "https://github.com/salesforce/endgame",
-    "upvotes": 280,
+    "upvotes": 284,
     "author": "kmcquade",
     "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26154038"
   },
   {
-    "title": "The Simtel.net MS-DOS Collection",
-    "url": "http://www.lanet.lv/simtel.net/msdos/index-msdos.html",
-    "upvotes": 76,
-    "author": "todsacerdoti",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26157165"
+    "title": "Clubhouse Bio Generator",
+    "url": "https://perchance.org/owh9gelu4t",
+    "upvotes": 24,
+    "author": "ChrisArchitect",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26159405"
+  },
+  {
+    "title": "Go 1.16 Release Notes",
+    "url": "https://golang.org/doc/go1.16",
+    "upvotes": 174,
+    "author": "ra7",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26158090"
+  },
+  {
+    "title": "NASA's Perseverance rover will attempt to land on Mars this week",
+    "url": "https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-perseverance-rover-landing-on-mars-overview",
+    "upvotes": 17,
+    "author": "quercusa",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26159106"
   },
   {
     "title": "Tesorio Is Hiring Senior PMs and Senior Engineers – join our distributed fintech team",
@@ -70,169 +78,161 @@
   {
     "title": "What Inception Net Doesn't See",
     "url": "https://abidlabs.github.io/Inception-Blindspots/",
-    "upvotes": 18,
+    "upvotes": 27,
     "author": "Aliabid94",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26146597"
-  },
-  {
-    "title": "Why Is Esbuild Fast?",
-    "url": "https://esbuild.github.io/faq/#why-is-esbuild-fast",
-    "upvotes": 224,
-    "author": "mef",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=26154509"
-  },
-  {
-    "title": "16 bytes of Python that compile to 32 terabytes of bytecode",
-    "url": "https://codegolf.stackexchange.com/a/69415/4270",
-    "upvotes": 125,
-    "author": "azhenley",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26157674"
-  },
-  {
-    "title": "Jacquard by Google",
-    "url": "https://atap.google.com/jacquard/",
-    "upvotes": 38,
-    "author": "lgats",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26157726"
-  },
-  {
-    "title": "AirPods as a Platform",
-    "url": "https://julian.digital/2020/04/19/airpods-as-a-platform/",
-    "upvotes": 45,
-    "author": "sc90",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26156881"
-  },
-  {
-    "title": "Behold z, the unsung jewel that rethinks shell navigation",
-    "url": "https://aymericbeaumet.com/behold-z-the-unsung-jewel-that-rethinks-shell-navigation",
-    "upvotes": 20,
-    "author": "aymericbeaumet",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26153401"
-  },
-  {
-    "title": "Umberto Eco: Ur-Fascism",
-    "url": "https://theanarchistlibrary.org/library/umberto-eco-ur-fascism.pdf",
-    "upvotes": 164,
-    "author": "asterialite",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=26156901"
-  },
-  {
-    "title": "Hydrogen paste has a similar range to that of gasoline",
-    "url": "https://trib.al/E5llYxw",
-    "upvotes": 20,
-    "author": "vlindos",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26157788"
-  },
-  {
-    "title": "TikTok hit with consumer law breaches complaints across Europe",
-    "url": "https://www.reuters.com/article/us-tiktok-eu/tiktok-hit-with-consumer-law-breaches-complaints-across-europe-idUSKBN2AG0S8",
-    "upvotes": 186,
-    "author": "giuliomagnifico",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=26154608"
-  },
-  {
-    "title": "Bitcoin surpasses $50K as major companies jump into crypto",
-    "url": "https://www.cnbc.com/2021/02/16/bitcoin-btc-price-hits-50000-for-the-first-time.html",
-    "upvotes": 56,
-    "author": "koolba",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=26153323"
-  },
-  {
-    "title": "Launch HN: June (YC W21) – Two-click analytics reports on top of Segment data",
-    "url": "item?id=26155327",
-    "upvotes": 91,
-    "author": "0xferruccio",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26155327"
-  },
-  {
-    "title": "Researchers rethink life in a cold climate after Antarctic find",
-    "url": "https://www.theguardian.com/science/2021/feb/15/researchers-rethink-life-in-a-cold-climate-after-antarctic-find",
-    "upvotes": 56,
-    "author": "sandebert",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26140852"
-  },
-  {
-    "title": "Arranging Invisible Icons in Quadratic Time",
-    "url": "https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/",
-    "upvotes": 345,
-    "author": "ingve",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26152335"
-  },
-  {
-    "title": "Minimally Invasive",
-    "url": "https://brandur.org/minimal-analytics",
-    "upvotes": 70,
-    "author": "Chris911",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26155361"
   },
   {
     "title": "Typing Is Hard",
     "url": "https://3fx.ch/typing-is-hard.html",
-    "upvotes": 5,
+    "upvotes": 12,
     "author": "pansa2",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26140363"
   },
   {
-    "title": "Clubhouse Bio Generator",
-    "url": "https://perchance.org/owh9gelu4t",
-    "upvotes": 6,
-    "author": "ChrisArchitect",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26159405"
+    "title": "Why Is Esbuild Fast?",
+    "url": "https://esbuild.github.io/faq/#why-is-esbuild-fast",
+    "upvotes": 230,
+    "author": "mef",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=26154509"
+  },
+  {
+    "title": "The Simtel.net MS-DOS Collection",
+    "url": "http://www.lanet.lv/simtel.net/msdos/index-msdos.html",
+    "upvotes": 81,
+    "author": "todsacerdoti",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26157165"
+  },
+  {
+    "title": "AirPods as a Platform",
+    "url": "https://julian.digital/2020/04/19/airpods-as-a-platform/",
+    "upvotes": 56,
+    "author": "sc90",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26156881"
+  },
+  {
+    "title": "16 bytes of Python that compile to 32 terabytes of bytecode",
+    "url": "https://codegolf.stackexchange.com/a/69415/4270",
+    "upvotes": 132,
+    "author": "azhenley",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26157674"
+  },
+  {
+    "title": "Jacquard by Google",
+    "url": "https://atap.google.com/jacquard/",
+    "upvotes": 45,
+    "author": "lgats",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=26157726"
+  },
+  {
+    "title": "Bitcoin surpasses $50K as major companies jump into crypto",
+    "url": "https://www.cnbc.com/2021/02/16/bitcoin-btc-price-hits-50000-for-the-first-time.html",
+    "upvotes": 74,
+    "author": "koolba",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=26153323"
+  },
+  {
+    "title": "Umberto Eco: Ur-Fascism",
+    "url": "https://theanarchistlibrary.org/library/umberto-eco-ur-fascism.pdf",
+    "upvotes": 169,
+    "author": "asterialite",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=26156901"
+  },
+  {
+    "title": "Researchers rethink life in a cold climate after Antarctic find",
+    "url": "https://www.theguardian.com/science/2021/feb/15/researchers-rethink-life-in-a-cold-climate-after-antarctic-find",
+    "upvotes": 61,
+    "author": "sandebert",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26140852"
+  },
+  {
+    "title": "TikTok hit with consumer law breaches complaints across Europe",
+    "url": "https://www.reuters.com/article/us-tiktok-eu/tiktok-hit-with-consumer-law-breaches-complaints-across-europe-idUSKBN2AG0S8",
+    "upvotes": 192,
+    "author": "giuliomagnifico",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=26154608"
+  },
+  {
+    "title": "Minimally Invasive",
+    "url": "https://brandur.org/minimal-analytics",
+    "upvotes": 73,
+    "author": "Chris911",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26155361"
+  },
+  {
+    "title": "Arranging Invisible Icons in Quadratic Time",
+    "url": "https://randomascii.wordpress.com/2021/02/16/arranging-invisible-icons-in-quadratic-time/",
+    "upvotes": 347,
+    "author": "ingve",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=26152335"
+  },
+  {
+    "title": "Launch HN: June (YC W21) – Two-click analytics reports on top of Segment data",
+    "url": "item?id=26155327",
+    "upvotes": 95,
+    "author": "0xferruccio",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26155327"
+  },
+  {
+    "title": "Photographer Sues Kat Von D over Miles Davis Tattoo",
+    "url": "https://petapixel.com/2021/02/15/photographer-sues-kat-von-d-over-miles-davis-tattoo/",
+    "upvotes": 59,
+    "author": "throw0101a",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26158910"
   },
   {
     "title": "'New car smell' is the scent of carcinogens",
     "url": "https://www.sciencealert.com/a-20-minute-commute-puts-you-at-risk-of-unacceptably-high-levels-of-carcinogens",
-    "upvotes": 418,
+    "upvotes": 429,
     "author": "samizdis",
-    "comments": 301,
+    "comments": 309,
     "link": "https://news.ycombinator.com/item?id=26154466"
   },
   {
     "title": "Is Dev Compensation Bimodal?",
     "url": "https://danluu.com/bimodal-compensation/",
-    "upvotes": 79,
+    "upvotes": 81,
     "author": "ZephyrBlu",
-    "comments": 115,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=26140098"
-  },
-  {
-    "title": "Photographer Sues Kat Von D over Miles Davis Tattoo",
-    "url": "https://petapixel.com/2021/02/15/photographer-sues-kat-von-d-over-miles-davis-tattoo/",
-    "upvotes": 51,
-    "author": "throw0101a",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26158910"
   },
   {
     "title": "The VT-69 portable data terminal",
     "url": "http://violence.works",
-    "upvotes": 82,
+    "upvotes": 83,
     "author": "656565656565",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26154900"
   },
   {
-    "title": "Skylight – A Window on Shingled Disk Operation",
-    "url": "https://www.usenix.org/system/files/conference/fast15/fast15-paper-aghayev.pdf",
-    "upvotes": 10,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26139538"
+    "title": "Is Spacetime Real?",
+    "url": "https://www.forbes.com/sites/startswithabang/2021/02/12/ask-ethan-is-spacetime-real",
+    "upvotes": 39,
+    "author": "RickJWagner",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=26153388"
+  },
+  {
+    "title": "A closer look at Raspberry Pi RP2040 Programmable IOs",
+    "url": "https://www.cnx-software.com/2021/01/27/a-closer-look-at-raspberry-pi-rp2040-programmable-ios-pio/",
+    "upvotes": 74,
+    "author": "beshrkayali",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26130863"
   }
 ]
