@@ -2,47 +2,55 @@
   {
     "title": "Building Rich Terminal Dashboards",
     "url": "https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/",
-    "upvotes": 106,
+    "upvotes": 120,
     "author": "lumpa",
-    "comments": 23,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26149488"
-  },
-  {
-    "title": "Sonobus: Open-source app for low latency peer-to-peer audio",
-    "url": "https://sonobus.net/",
-    "upvotes": 86,
-    "author": "Eduard",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26148527"
   },
   {
     "title": "Are the New M1 Macbooks Any Good for Deep Learning?",
     "url": "https://www.betterdatascience.com/m1-deep-learning/",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "syntaxing",
-    "comments": 69,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26148333"
+  },
+  {
+    "title": "Sonobus: Open-source app for low latency peer-to-peer audio",
+    "url": "https://sonobus.net/",
+    "upvotes": 96,
+    "author": "Eduard",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26148527"
   },
   {
     "title": "Show HN: Jam, an Open Source Clubhouse",
     "url": "https://jam.systems",
-    "upvotes": 72,
+    "upvotes": 77,
     "author": "tosh",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26131123"
+  },
+  {
+    "title": "Windows Refund Day",
+    "url": "http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought",
+    "upvotes": 51,
+    "author": "ransom_rs",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26149376"
   },
   {
     "title": "FPGA NTP Server",
     "url": "https://research.wand.net.nz/hardware/ntp.php",
     "upvotes": 27,
     "author": "todsacerdoti",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26149620"
   },
   {
     "title": "Faster JavaScript Calls",
     "url": "https://v8.dev/blog/adaptor-frame",
-    "upvotes": 366,
+    "upvotes": 370,
     "author": "feross",
     "comments": 109,
     "link": "https://news.ycombinator.com/item?id=26143648"
@@ -50,23 +58,15 @@
   {
     "title": "Is This a Branch?",
     "url": "https://bartwronski.com/2021/01/18/is-this-a-branch/",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "wheresvic4",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26141047"
   },
   {
-    "title": "Windows Refund Day",
-    "url": "http://marc.merlins.org/linux/refundday/#:~:text=For%20those%20who%20hadn%27t,with%20the%20machine%20they%20bought",
-    "upvotes": 41,
-    "author": "ransom_rs",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26149376"
-  },
-  {
     "title": "What security offers a default OpenBSD installation?",
     "url": "https://dataswamp.org/~solene/2021-02-14-openbsd-default-security.html",
-    "upvotes": 39,
+    "upvotes": 43,
     "author": "zdw",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26148667"
@@ -74,31 +74,31 @@
   {
     "title": "Media files extracted from North Korea's Red Star OS",
     "url": "https://github.com/BlackOtton/RedStar-Media",
-    "upvotes": 140,
+    "upvotes": 141,
     "author": "da_big_ghey",
-    "comments": 70,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26145333"
   },
   {
     "title": "How Tim Cook transformed Apple after Steve Jobs",
     "url": "https://www.bloomberg.com/news/features/2021-02-09/this-is-how-tim-cook-transformed-apple-aapl-after-steve-jobs",
-    "upvotes": 125,
+    "upvotes": 131,
     "author": "wallflower",
-    "comments": 127,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=26134006"
   },
   {
     "title": "Sourcetrail: Free and open-source interactive source explorer",
     "url": "https://github.com/CoatiSoftware/Sourcetrail",
-    "upvotes": 104,
+    "upvotes": 107,
     "author": "yagizdegirmenci",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26130763"
   },
   {
     "title": "US Presidential Election $25k Database Bounty Review",
     "url": "https://www.dolthub.com/blog/2021-02-15-election-bounty-review/",
-    "upvotes": 105,
+    "upvotes": 109,
     "author": "mjangle1985",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26149511"
@@ -106,102 +106,110 @@
   {
     "title": "Launch HN: Noya (YC W21) – Direct air capture of CO2 using cooling towers",
     "url": "item?id=26144432",
-    "upvotes": 256,
+    "upvotes": 257,
     "author": "jsantos511",
-    "comments": 124,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=26144432"
-  },
-  {
-    "title": "Python strings are immutable, but only sometimes",
-    "url": "https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html",
-    "upvotes": 117,
-    "author": "jermaustin1",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=26145775"
   },
   {
     "title": "Performance Optimization Contest",
     "url": "https://easyperf.net/blog/2019/02/02/Performance-optimization-contest",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "robfig",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26149436"
+  },
+  {
+    "title": "The Physics of baking good Pizza [pdf]",
+    "url": "https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf",
+    "upvotes": 37,
+    "author": "Tomte",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26142082"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
-    "url": "http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html",
-    "upvotes": 273,
-    "author": "tusharchoudhary",
-    "comments": 294,
-    "link": "https://news.ycombinator.com/item?id=26146026"
-  },
-  {
-    "title": "The Physics of baking good Pizza [pdf]",
-    "url": "https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf",
-    "upvotes": 34,
-    "author": "Tomte",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26142082"
-  },
-  {
-    "title": "Who Should Stop Unethical A.I.?",
-    "url": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
-    "upvotes": 65,
-    "author": "tmfi",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=26143379"
+    "title": "Python strings are immutable, but only sometimes",
+    "url": "https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html",
+    "upvotes": 119,
+    "author": "jermaustin1",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26145775"
   },
   {
     "title": "The Making of Lemmings",
     "url": "https://readonlymemory.vg/the-making-of-lemmings/",
-    "upvotes": 26,
+    "upvotes": 31,
     "author": "tosh",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26130821"
   },
   {
+    "title": "Mining Bitcoin with pencil and paper: 0.67 hashes per day",
+    "url": "http://www.righto.com/2014/09/mining-bitcoin-with-pencil-and-paper.html",
+    "upvotes": 276,
+    "author": "tusharchoudhary",
+    "comments": 299,
+    "link": "https://news.ycombinator.com/item?id=26146026"
+  },
+  {
+    "title": "Who Should Stop Unethical A.I.?",
+    "url": "https://www.newyorker.com/tech/annals-of-technology/who-should-stop-unethical-ai",
+    "upvotes": 66,
+    "author": "tmfi",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=26143379"
+  },
+  {
     "title": "How we hosted FOSDEM 2021 on Matrix",
     "url": "https://matrix.org/blog/2021/02/15/how-we-hosted-fosdem-2021-on-matrix",
-    "upvotes": 207,
+    "upvotes": 208,
     "author": "Arathorn",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26142654"
+  },
+  {
+    "title": "The Worst Experience I've Had with an Aarch64 MacBook",
+    "url": "https://christine.website/blog/apple-macbook-air-m1-review-2021-02-15",
+    "upvotes": 22,
+    "author": "daenney",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26149069"
+  },
+  {
+    "title": "Ink – Scripting language for interactive stories",
+    "url": "https://www.inklestudios.com/ink/",
+    "upvotes": 49,
+    "author": "josefslerka",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26147329"
   },
   {
     "title": "Unikraft: Posix-Like Unikernel",
     "url": "http://www.unikraft.org/",
     "upvotes": 45,
     "author": "pjmlp",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26142285"
-  },
-  {
-    "title": "Ink – Scripting language for interactive stories",
-    "url": "https://www.inklestudios.com/ink/",
-    "upvotes": 46,
-    "author": "josefslerka",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26147329"
-  },
-  {
-    "title": "The Worst Experience I've Had with an Aarch64 MacBook",
-    "url": "https://christine.website/blog/apple-macbook-air-m1-review-2021-02-15",
-    "upvotes": 20,
-    "author": "daenney",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26149069"
   },
   {
     "title": "Don't Mess with Backprop: Doubts about Biologically Plausible Deep Learning",
     "url": "https://blog.evjang.com/2021/02/backprop.html",
-    "upvotes": 65,
+    "upvotes": 67,
     "author": "ericjang",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26127387"
+  },
+  {
+    "title": "The Therac-25 Incident",
+    "url": "https://thedailywtf.com/articles/the-therac-25-incident",
+    "upvotes": 189,
+    "author": "dagurp",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26142432"
   },
   {
     "title": "The name’s Ford, Alan Ford: how an Italian comic book spy became a Yugoslav hero",
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26141009"
   },
   {
-    "title": "The Therac-25 Incident",
-    "url": "https://thedailywtf.com/articles/the-therac-25-incident",
-    "upvotes": 185,
-    "author": "dagurp",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26142432"
+    "title": "Fastcheck: Property based testing for JavaScript and TypeScript",
+    "url": "https://dubzzz.github.io/fast-check.github.com/",
+    "upvotes": 4,
+    "author": "alokrai",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26147011"
   },
   {
-    "title": "UiPath on track to be the best-ever European seed investment",
-    "url": "https://sifted.eu/articles/uipath-seed-investors/",
-    "upvotes": 55,
-    "author": "imartin2k",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=26142799"
-  },
-  {
-    "title": "The Libet experiment doesn't disprove free will",
-    "url": "https://blogs.scientificamerican.com/observations/how-a-flawed-experiment-proved-that-free-will-doesnt-exist/",
-    "upvotes": 23,
-    "author": "Bluestein",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26147477"
+    "title": "Fake Amazon reviews 'being sold in bulk' online",
+    "url": "https://www.bbc.com/news/business-56069472",
+    "upvotes": 9,
+    "author": "_wldu",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26149754"
   }
 ]
