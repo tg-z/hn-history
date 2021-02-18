@@ -2,171 +2,195 @@
   {
     "title": "Perseverance Rover lands on Mars [video]",
     "url": "https://www.youtube.com/watch?v=gm0b_ijaYMQ",
-    "upvotes": 380,
+    "upvotes": 442,
     "author": "malloreon",
-    "comments": 174,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=26184190"
   },
   {
     "title": "Judge: Citibank isn't entitled to $500M it sent to various creditors last August",
     "url": "https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/",
-    "upvotes": 984,
+    "upvotes": 993,
     "author": "danbr",
-    "comments": 471,
+    "comments": 479,
     "link": "https://news.ycombinator.com/item?id=26180785"
   },
   {
     "title": "Gleam 0.14 – type-safe language for the Erlang VM",
     "url": "https://gleam.run/news/gleam-v0.14-released/",
-    "upvotes": 102,
+    "upvotes": 122,
     "author": "lpil",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26185690"
   },
   {
     "title": "Share of U.S. workers holding multiple jobs is rising",
     "url": "https://www.reuters.com/article/us-usa-economy-multiple-jobs-idUSKBN2AH2PI",
-    "upvotes": 108,
+    "upvotes": 128,
     "author": "batmaniam",
-    "comments": 99,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26184012"
   },
   {
     "title": "Vertical farming does not save space",
     "url": "https://www.lowtechmagazine.com/2021/02/vertical-farming-ecosystem-services.html",
-    "upvotes": 132,
+    "upvotes": 145,
     "author": "oftenwrong",
-    "comments": 175,
+    "comments": 197,
     "link": "https://news.ycombinator.com/item?id=26184355"
+  },
+  {
+    "title": "Texas power outage is a nation wide problem",
+    "url": "https://garrettbattaglia.com/post/texas-power/",
+    "upvotes": 23,
+    "author": "gwoplock",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26186645"
   },
   {
     "title": "Bruce Blackburn, Designer of NASA Worm Logo, Has Died",
     "url": "https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "NaOH",
-    "comments": 6,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26185810"
   },
   {
-    "title": "1977: Zork",
-    "url": "https://if50.substack.com/p/1977-zork",
-    "upvotes": 210,
-    "author": "fanf2",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=26181863"
+    "title": "Jane Austen's concept of information",
+    "url": "https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html",
+    "upvotes": 9,
+    "author": "benbreen",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26186685"
   },
   {
-    "title": "Nvidia announces mining GPUs, cuts the hash rate of RTX-3060 in half",
-    "url": "https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/",
-    "upvotes": 159,
-    "author": "bcatanzaro",
-    "comments": 272,
-    "link": "https://news.ycombinator.com/item?id=26180260"
+    "title": "How ClickHouse saved our data",
+    "url": "https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/",
+    "upvotes": 19,
+    "author": "mmcclure",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26182015"
   },
   {
     "title": "Raptor Maps",
     "url": "https://raptormaps.com/jobs/"
   },
   {
-    "title": "Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep",
-    "url": "https://jemma.dev/blog/gc-mark-and-sweep",
-    "upvotes": 88,
-    "author": "mooreds",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26182796"
-  },
-  {
-    "title": "There’s no such thing as “a startup within a big company”",
-    "url": "https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc",
-    "upvotes": 400,
-    "author": "isolli",
-    "comments": 241,
-    "link": "https://news.ycombinator.com/item?id=26178518"
+    "title": "Nvidia announces mining GPUs, cuts the hash rate of RTX-3060 in half",
+    "url": "https://blogs.nvidia.com/blog/2021/02/18/geforce-cmp/",
+    "upvotes": 181,
+    "author": "bcatanzaro",
+    "comments": 299,
+    "link": "https://news.ycombinator.com/item?id=26180260"
   },
   {
     "title": "Python 3.x: RCE in Python applications that accept floats as untrusted input",
     "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177",
-    "upvotes": 36,
+    "upvotes": 46,
     "author": "bitshifta",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26185005"
+  },
+  {
+    "title": "1977: Zork",
+    "url": "https://if50.substack.com/p/1977-zork",
+    "upvotes": 214,
+    "author": "fanf2",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=26181863"
+  },
+  {
+    "title": "There’s no such thing as “a startup within a big company”",
+    "url": "https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc",
+    "upvotes": 403,
+    "author": "isolli",
+    "comments": 245,
+    "link": "https://news.ycombinator.com/item?id=26178518"
   },
   {
     "title": "Migrating to SQLAlchemy 2.0",
     "url": "https://docs.sqlalchemy.org/en/14/changelog/migration_20.html",
-    "upvotes": 133,
+    "upvotes": 139,
     "author": "brainless",
-    "comments": 64,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26182744"
   },
   {
     "title": "Mitigating Memory Safety Issues in Open Source Software",
     "url": "https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html",
-    "upvotes": 337,
+    "upvotes": 338,
     "author": "littlestymaar",
-    "comments": 202,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=26179032"
   },
   {
-    "title": "How ClickHouse saved our data",
-    "url": "https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/",
-    "upvotes": 6,
-    "author": "mmcclure",
+    "title": "Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep",
+    "url": "https://jemma.dev/blog/gc-mark-and-sweep",
+    "upvotes": 90,
+    "author": "mooreds",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26182796"
+  },
+  {
+    "title": "Parallel Shells with Xargs",
+    "url": "https://www.linuxjournal.com/content/parallel-shells-xargs-utilize-all-your-cpu-cores-unix-and-windows",
+    "upvotes": 16,
+    "author": "oedmarap",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26182015"
+    "link": "https://news.ycombinator.com/item?id=26178257"
   },
   {
     "title": "Global debt soars to 356% of GDP",
     "url": "https://www.axios.com/global-debt-gdp-898959ed-f96a-4c4d-85a3-5d3cc419631f.html",
-    "upvotes": 201,
+    "upvotes": 206,
     "author": "cwwc",
-    "comments": 318,
+    "comments": 326,
     "link": "https://news.ycombinator.com/item?id=26179943"
   },
   {
     "title": "Skyline – Your GitHub story in 3D",
     "url": "https://skyline.github.com/",
-    "upvotes": 195,
+    "upvotes": 202,
     "author": "alexellisuk",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26179395"
-  },
-  {
-    "title": "Airbnb will build a new tech hub in Atlanta",
-    "url": "https://www.protocol.com/airbnb-new-tech-hub-atlanta",
-    "upvotes": 93,
-    "author": "7d7n",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=26181766"
-  },
-  {
-    "title": "Commandline Database Clients with Autocompletion and Syntax Highlighting",
-    "url": "https://www.dbcli.com",
-    "upvotes": 62,
-    "author": "thunderbong",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26182902"
   },
   {
     "title": "Controlled levitation of nanostructured thin films",
     "url": "https://advances.sciencemag.org/content/7/7/eabe1127",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "SQL2219",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26165743"
   },
   {
-    "title": "Jane Austen's concept of information",
-    "url": "https://www.cs.bham.ac.uk/research/projects/cogaff/misc/austen-info.html",
-    "upvotes": 3,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26186685"
+    "title": "The frame rate of the universe",
+    "url": "https://www.librador.com/2009/01/16/The-frame-rate-of-the-universe/",
+    "upvotes": 46,
+    "author": "codesections",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26178259"
+  },
+  {
+    "title": "Airbnb will build a new tech hub in Atlanta",
+    "url": "https://www.protocol.com/airbnb-new-tech-hub-atlanta",
+    "upvotes": 98,
+    "author": "7d7n",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=26181766"
+  },
+  {
+    "title": "Commandline Database Clients with Autocompletion and Syntax Highlighting",
+    "url": "https://www.dbcli.com",
+    "upvotes": 67,
+    "author": "thunderbong",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26182902"
   },
   {
     "title": "StoneKnifeForth",
     "url": "https://github.com/kragen/stoneknifeforth",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "guerrilla",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26178342"
@@ -176,63 +200,39 @@
     "url": "item?id=26179281",
     "upvotes": 71,
     "author": "juliantorresgo",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26179281"
   },
   {
     "title": "Browsers eating RAM",
     "url": "https://www.flotato.com/post/memory-chrome-safari-flotato",
-    "upvotes": 73,
+    "upvotes": 78,
     "author": "todsacerdoti",
-    "comments": 85,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=26179817"
-  },
-  {
-    "title": "The frame rate of the universe",
-    "url": "https://www.librador.com/2009/01/16/The-frame-rate-of-the-universe/",
-    "upvotes": 38,
-    "author": "codesections",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26178259"
   },
   {
     "title": "GPT-3, Esq? Evaluating AI Legal Summaries [pdf]",
     "url": "http://www.davidvictorrodriguez.com/uploads/2/6/4/2/26420847/gpt-3_esq_-_evaluating_ai_legal_summaries.pdf",
-    "upvotes": 43,
+    "upvotes": 44,
     "author": "gavelin",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26183114"
-  },
-  {
-    "title": "Open source chess developers warn about a commercial engine based on Stockfish",
-    "url": "https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off",
-    "upvotes": 100,
-    "author": "1337shadow",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26185139"
-  },
-  {
-    "title": "Real-time dialogue between experimenters and dreamers during REM sleep",
-    "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(21)00059-2",
-    "upvotes": 12,
-    "author": "kasperni",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26185603"
-  },
-  {
-    "title": "Uber shuts down app that told drivers if Uber underpaid them",
-    "url": "https://www.vice.com/en/article/wx8yvm/uber-shuts-down-app-that-lets-users-know-how-badly-theyve-been-cheated",
-    "upvotes": 120,
-    "author": "donsupreme",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26184352"
   },
   {
     "title": "The Fantasy of Opting Out",
     "url": "https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/",
-    "upvotes": 210,
+    "upvotes": 211,
     "author": "Fiveplus",
-    "comments": 90,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=26178523"
+  },
+  {
+    "title": "Open source chess developers warn about a commercial engine based on Stockfish",
+    "url": "https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off",
+    "upvotes": 106,
+    "author": "1337shadow",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26185139"
   }
 ]
