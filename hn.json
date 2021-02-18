@@ -2,131 +2,139 @@
   {
     "title": "Citibank just got a $500M lesson in the importance of UI design",
     "url": "https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/",
-    "upvotes": 506,
+    "upvotes": 556,
     "author": "danbr",
-    "comments": 255,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=26180785"
   },
   {
     "title": "Mitigating Memory Safety Issues in Open Source Software",
     "url": "https://security.googleblog.com/2021/02/mitigating-memory-safety-issues-in-open.html",
-    "upvotes": 287,
+    "upvotes": 293,
     "author": "littlestymaar",
-    "comments": 145,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=26179032"
+  },
+  {
+    "title": "50 years of text games – 1977: Zork",
+    "url": "https://if50.substack.com/p/1977-zork",
+    "upvotes": 38,
+    "author": "fanf2",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26181863"
   },
   {
     "title": "Skyline – Your GitHub story in 3D",
     "url": "https://skyline.github.com/",
-    "upvotes": 77,
+    "upvotes": 91,
     "author": "alexellisuk",
-    "comments": 33,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26179395"
   },
   {
     "title": "Why There’s No Such Thing as “A Startup Within a Big Company”",
     "url": "https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc",
-    "upvotes": 287,
+    "upvotes": 302,
     "author": "isolli",
-    "comments": 173,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=26178518"
-  },
-  {
-    "title": "50 years of text games – 1977: Zork",
-    "url": "https://if50.substack.com/p/1977-zork",
-    "upvotes": 23,
-    "author": "fanf2",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26181863"
   },
   {
     "title": "OpenZFS – dRAID, Finally",
     "url": "https://klarasystems.com/articles/openzfs-draid-finally/",
-    "upvotes": 92,
+    "upvotes": 99,
     "author": "throw0101a",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26179566"
+  },
+  {
+    "title": "The Fantasy of Opting Out",
+    "url": "https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/",
+    "upvotes": 159,
+    "author": "Fiveplus",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26178523"
   },
   {
     "title": "Bodyport",
     "url": "https://bodyport.com/careers"
   },
   {
-    "title": "The Fantasy of Opting Out",
-    "url": "https://thereader.mitpress.mit.edu/the-fantasy-of-opting-out/",
-    "upvotes": 148,
-    "author": "Fiveplus",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26178523"
+    "title": "Poly will be shutting down forever on 30 June 2021",
+    "url": "https://poly.google.com/",
+    "upvotes": 26,
+    "author": "bane",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26182081"
+  },
+  {
+    "title": "Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep",
+    "url": "https://jemma.dev/blog/gc-mark-and-sweep",
+    "upvotes": 5,
+    "author": "mooreds",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26182796"
   },
   {
     "title": "Sci-Hub: Elsevier and Springer Nature Obtain UK ISP Blocking Order",
     "url": "https://torrentfreak.com/sci-hub-elsevier-and-springer-nature-obtain-uk-isp-blocking-order-210218/",
-    "upvotes": 62,
+    "upvotes": 83,
     "author": "parsecs",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26181776"
+  },
+  {
+    "title": "Cheap PCB story",
+    "url": "https://github.com/hardenedlinux/cheap-pcb/blob/main/cheap-pcb-story.md",
+    "upvotes": 21,
+    "author": "hardenedlinux",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26176964"
   },
   {
     "title": "Lithuania plans to hold drills in case of accident at the Belarus nuclear plant",
     "url": "https://www.lrt.lt/en/news-in-english/19/1346034/lithuania-plans-to-hold-evacuation-drills-after-belarus-launches-nuclear-plant",
-    "upvotes": 126,
+    "upvotes": 130,
     "author": "maury91",
-    "comments": 84,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26178235"
   },
   {
     "title": "How NASA Designed a Helicopter That Could Fly Autonomously on Mars",
     "url": "https://spectrum.ieee.org/automaton/aerospace/robotic-exploration/nasa-designed-perseverance-helicopter-rover-fly-autonomously-mars",
-    "upvotes": 162,
+    "upvotes": 165,
     "author": "hacksilver",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26177619"
   },
   {
-    "title": "Poly will be shutting down forever on 30 June 2021",
-    "url": "https://poly.google.com/",
-    "upvotes": 6,
-    "author": "bane",
+    "title": "Migrating to SQLAlchemy 2.0",
+    "url": "https://docs.sqlalchemy.org/en/14/changelog/migration_20.html",
+    "upvotes": 5,
+    "author": "brainless",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26182081"
-  },
-  {
-    "title": "Airbnb will build a new tech hub in Atlanta",
-    "url": "https://www.protocol.com/airbnb-new-tech-hub-atlanta",
-    "upvotes": 57,
-    "author": "7d7n",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26181766"
-  },
-  {
-    "title": "Cheap PCB story",
-    "url": "https://github.com/hardenedlinux/cheap-pcb/blob/main/cheap-pcb-story.md",
-    "upvotes": 12,
-    "author": "hardenedlinux",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26176964"
+    "link": "https://news.ycombinator.com/item?id=26182744"
   },
   {
     "title": "New Model M Is an American-Made Keyboard That Puts a Spring Back in Your Typing",
     "url": "https://tidbits.com/2021/02/17/new-model-m-is-an-american-made-keyboard-that-puts-a-spring-back-in-your-typing/",
-    "upvotes": 151,
+    "upvotes": 152,
     "author": "miles",
-    "comments": 177,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=26177055"
   },
   {
     "title": "Launch HN: Ontop (YC W21) – Easily hire and pay remote workers in LATAM",
     "url": "item?id=26179281",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "juliantorresgo",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26179281"
   },
   {
     "title": "StoneKnifeForth",
     "url": "https://github.com/kragen/stoneknifeforth",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "guerrilla",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26178342"
@@ -134,105 +142,97 @@
   {
     "title": "Coq 8.13",
     "url": "https://coq.inria.fr/news/coq-8-13-0-is-out.html",
-    "upvotes": 78,
+    "upvotes": 85,
     "author": "infruset",
-    "comments": 18,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26180078"
   },
   {
     "title": "Starlink is now Accepting General Pre-orders",
     "url": "https://www.starlink.com/",
-    "upvotes": 705,
+    "upvotes": 712,
     "author": "sf_rob",
-    "comments": 461,
+    "comments": 464,
     "link": "https://news.ycombinator.com/item?id=26174915"
   },
   {
     "title": "I Am a Heroin User. I Do Not Have a Drug Problem",
     "url": "http://m.nautil.us/issue/96/rewired/i-am-a-heroin-user-i-do-not-have-a-drug-problem",
-    "upvotes": 170,
+    "upvotes": 178,
     "author": "CapitalistCartr",
-    "comments": 391,
+    "comments": 424,
     "link": "https://news.ycombinator.com/item?id=26179003"
-  },
-  {
-    "title": "Game Stopped?",
-    "url": "https://www.youtube.com/watch?v=RfEuNHVPc_k",
-    "upvotes": 14,
-    "author": "pmorici",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26182467"
   },
   {
     "title": "Who did the Anglo-Saxons think they were?",
     "url": "https://www.archaeology.co.uk/articles/who-did-the-anglo-saxons-think-they-were.htm",
-    "upvotes": 155,
+    "upvotes": 157,
     "author": "diodorus",
-    "comments": 109,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=26175972"
+  },
+  {
+    "title": "Airbnb will build a new tech hub in Atlanta",
+    "url": "https://www.protocol.com/airbnb-new-tech-hub-atlanta",
+    "upvotes": 63,
+    "author": "7d7n",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26181766"
   },
   {
     "title": "Facebook knew for years ad reach estimates were based on ‘wrong data’",
     "url": "https://techcrunch.com/2021/02/18/facebook-knew-for-years-ad-reach-estimates-were-based-on-wrong-data-but-blocked-fixes-over-revenue-impact-per-court-filing/",
-    "upvotes": 103,
+    "upvotes": 112,
     "author": "hashingroll",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26179162"
+  },
+  {
+    "title": "Game Stopped?",
+    "url": "https://www.youtube.com/watch?v=RfEuNHVPc_k",
+    "upvotes": 25,
+    "author": "pmorici",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26182467"
   },
   {
     "title": "Precisely: Better assertions for Python tests",
     "url": "https://github.com/mwilliamson/python-precisely",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "trymas",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26177546"
   },
   {
+    "title": "Robinhood CEO, Reddit Co-Founder and Others Testify on GameStop Stock",
+    "url": "https://www.c-span.org/video/?508545-1/robinhood-ceo-reddit-founder-testify-gamestop-stock-part-1&playEvent",
+    "upvotes": 9,
+    "author": "jedberg",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26182715"
+  },
+  {
     "title": "Global debt soars to 356% of GDP",
     "url": "https://www.axios.com/global-debt-gdp-898959ed-f96a-4c4d-85a3-5d3cc419631f.html",
-    "upvotes": 155,
+    "upvotes": 160,
     "author": "cwwc",
-    "comments": 243,
+    "comments": 250,
     "link": "https://news.ycombinator.com/item?id=26179943"
   },
   {
     "title": "Zsh Tricks to Blow Your Mind",
     "url": "https://www.twilio.com/blog/zsh-tricks-to-blow-your-mind",
-    "upvotes": 297,
+    "upvotes": 299,
     "author": "2pEXgD0fZ5cF",
-    "comments": 177,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=26175894"
   },
   {
     "title": "Don’t format a drive of M1 Macs from recovery mode",
     "url": "https://giuliomagnifico.medium.com/dont-ever-format-a-drive-of-m1-macs-from-recovery-mode-38f8676f20cd",
-    "upvotes": 146,
+    "upvotes": 147,
     "author": "giuliomagnifico",
-    "comments": 115,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26177263"
-  },
-  {
-    "title": "Curl is C",
-    "url": "https://daniel.haxx.se/blog/2017/03/27/curl-is-c/",
-    "upvotes": 68,
-    "author": "taf2",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26179601"
-  },
-  {
-    "title": "How Will Linux Handle Quantum Computing?",
-    "url": "https://blog.linuxplumbersconf.org/2017/ocw/system/presentations/4704/original/QC-slides.2017.09.13f.pdf",
-    "upvotes": 8,
-    "author": "QuietApe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26179242"
-  },
-  {
-    "title": "Ask HN: Advice for finding an entry-level remote job?",
-    "url": "item?id=26171008",
-    "upvotes": 684,
-    "author": "AskHNremote2021",
-    "comments": 189,
-    "link": "https://news.ycombinator.com/item?id=26171008"
   }
 ]
