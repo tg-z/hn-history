@@ -2,55 +2,63 @@
   {
     "title": "Monolith First",
     "url": "https://martinfowler.com/bliki/MonolithFirst.html",
-    "upvotes": 335,
+    "upvotes": 378,
     "author": "asyrafql",
-    "comments": 137,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=26190584"
-  },
-  {
-    "title": "“I will slaughter you”",
-    "url": "https://daniel.haxx.se/blog/2021/02/19/i-will-slaughter-you/",
-    "upvotes": 248,
-    "author": "ingve",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=26192025"
   },
   {
     "title": "How to be more productive without forcing yourself",
     "url": "https://www.deprocrastination.co/blog/how-to-be-productive-without-forcing-yourself",
-    "upvotes": 61,
+    "upvotes": 98,
     "author": "vitabenes",
-    "comments": 20,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26191516"
-  },
-  {
-    "title": "Perseverance Rover lands on Mars [video]",
-    "url": "https://www.youtube.com/watch?v=gm0b_ijaYMQ",
-    "upvotes": 1292,
-    "author": "malloreon",
-    "comments": 415,
-    "link": "https://news.ycombinator.com/item?id=26184190"
   },
   {
     "title": "Bill allows U.S. publishers to team up when negotiating with Facebook, Google",
     "url": "https://www.reuters.com/article/us-australia-media-facebook-us-exclusive/exclusive-coming-bill-would-allow-u-s-news-publishers-to-team-up-when-negotiating-with-facebook-google-idUSKBN2AJ16X",
-    "upvotes": 5,
+    "upvotes": 17,
     "author": "mikesabbagh",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26192563"
+  },
+  {
+    "title": "Perseverance Rover lands on Mars [video]",
+    "url": "https://www.youtube.com/watch?v=gm0b_ijaYMQ",
+    "upvotes": 1304,
+    "author": "malloreon",
+    "comments": 417,
+    "link": "https://news.ycombinator.com/item?id=26184190"
   },
   {
     "title": "12 requests per second: A realistic look at Python web frameworks",
     "url": "https://suade.org/dev/12-requests-per-second-with-python/",
-    "upvotes": 332,
+    "upvotes": 347,
     "author": "gilad",
-    "comments": 138,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=26188765"
+  },
+  {
+    "title": "Checked C",
+    "url": "https://github.com/microsoft/checkedc",
+    "upvotes": 91,
+    "author": "tosh",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26190403"
+  },
+  {
+    "title": "Why is it so hard to see code from 5 minutes ago?",
+    "url": "https://web.eecs.utk.edu/~azh/blog/yestercode.html",
+    "upvotes": 422,
+    "author": "azhenley",
+    "comments": 306,
+    "link": "https://news.ycombinator.com/item?id=26187881"
   },
   {
     "title": "Thunderstorms spew out gamma rays – these scientists want to know why",
     "url": "https://www.nature.com/articles/d41586-021-00395-3",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "pseudolus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26192043"
@@ -60,145 +68,145 @@
     "url": "https://www.workatastartup.com/jobs/32116"
   },
   {
-    "title": "Checked C",
-    "url": "https://github.com/microsoft/checkedc",
-    "upvotes": 82,
-    "author": "tosh",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26190403"
-  },
-  {
-    "title": "Why is it so hard to see code from 5 minutes ago?",
-    "url": "https://web.eecs.utk.edu/~azh/blog/yestercode.html",
-    "upvotes": 408,
-    "author": "azhenley",
-    "comments": 303,
-    "link": "https://news.ycombinator.com/item?id=26187881"
-  },
-  {
     "title": "Reflections on Using Haskell for My Startup",
     "url": "https://alistairb.dev/reflections-on-haskell-for-startup/",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "_query",
-    "comments": 43,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26176940"
   },
   {
-    "title": "The MetaHumans: High-fidelity digital humans in minutes",
-    "url": "https://www.unrealengine.com/en-US/digital-humans",
-    "upvotes": 90,
-    "author": "danboarder",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26189827"
-  },
-  {
-    "title": "The Texas power outage is a nation-wide problem",
-    "url": "https://garrettbattaglia.com/post/texas-power/",
-    "upvotes": 266,
-    "author": "gwoplock",
-    "comments": 410,
-    "link": "https://news.ycombinator.com/item?id=26186645"
-  },
-  {
-    "title": "A Follow-Up to “Location-Based Pay”",
-    "url": "https://blackshaw.substack.com/p/pay-2",
-    "upvotes": 41,
-    "author": "blackshaw",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26190717"
-  },
-  {
-    "title": "Designing a RISC-V CPU, Part 1: Learning hardware design as a software engineer",
-    "url": "https://mcla.ug/blog/risc-v-cpu-part-1.html",
-    "upvotes": 74,
-    "author": "lochsh",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26164574"
-  },
-  {
-    "title": "French Silk Sample Book",
-    "url": "https://publicdomainreview.org/collection/french-silk-sample-book",
-    "upvotes": 6,
-    "author": "prismatic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26172654"
-  },
-  {
-    "title": "Radio Amateur Copies Signal from Mars-Orbiting Satellite",
-    "url": "http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite",
-    "upvotes": 140,
-    "author": "wglb",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26188575"
-  },
-  {
-    "title": "Things You Should Do Now",
-    "url": "https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/",
-    "upvotes": 62,
-    "author": "bshanks",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26189995"
-  },
-  {
-    "title": "There’s no such thing as “a startup within a big company”",
-    "url": "https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc",
-    "upvotes": 537,
-    "author": "isolli",
-    "comments": 284,
-    "link": "https://news.ycombinator.com/item?id=26178518"
+    "title": "Restoring Nominet’s Purpose",
+    "url": "https://publicbenefit.uk/",
+    "upvotes": 29,
+    "author": "ohashi",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26191570"
   },
   {
     "title": "Maybe We Can Have Nice Things",
     "url": "https://noncombatant.org/2021/02/16/maybe-we-can-have-nice-things/",
-    "upvotes": 3,
+    "upvotes": 7,
     "author": "ChrisSD",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26168730"
   },
   {
+    "title": "The MetaHumans: High-fidelity digital humans in minutes",
+    "url": "https://www.unrealengine.com/en-US/digital-humans",
+    "upvotes": 91,
+    "author": "danboarder",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26189827"
+  },
+  {
+    "title": "The Texas power outage is a nation-wide problem",
+    "url": "https://garrettbattaglia.com/post/texas-power/",
+    "upvotes": 271,
+    "author": "gwoplock",
+    "comments": 415,
+    "link": "https://news.ycombinator.com/item?id=26186645"
+  },
+  {
+    "title": "Designing a RISC-V CPU, Part 1: Learning hardware design as a software engineer",
+    "url": "https://mcla.ug/blog/risc-v-cpu-part-1.html",
+    "upvotes": 78,
+    "author": "lochsh",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26164574"
+  },
+  {
+    "title": "A Follow-Up to “Location-Based Pay”",
+    "url": "https://blackshaw.substack.com/p/pay-2",
+    "upvotes": 43,
+    "author": "blackshaw",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26190717"
+  },
+  {
+    "title": "Things You Should Do Now",
+    "url": "https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/",
+    "upvotes": 70,
+    "author": "bshanks",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26189995"
+  },
+  {
+    "title": "Radio Amateur Copies Signal from Mars-Orbiting Satellite",
+    "url": "http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite",
+    "upvotes": 145,
+    "author": "wglb",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26188575"
+  },
+  {
+    "title": "There’s no such thing as “a startup within a big company”",
+    "url": "https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc",
+    "upvotes": 540,
+    "author": "isolli",
+    "comments": 284,
+    "link": "https://news.ycombinator.com/item?id=26178518"
+  },
+  {
+    "title": "French Silk Sample Book",
+    "url": "https://publicdomainreview.org/collection/french-silk-sample-book",
+    "upvotes": 7,
+    "author": "prismatic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26172654"
+  },
+  {
     "title": "Coding in Ada: Strings",
     "url": "https://craftofcoding.wordpress.com/2021/02/16/coding-ada-strings-iv-unbounded-to-string/",
-    "upvotes": 20,
+    "upvotes": 24,
     "author": "thindil",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26178225"
-  },
-  {
-    "title": "Uber drivers are workers not self employed, Supreme Court rules",
-    "url": "https://www.bbc.co.uk/news/business-56123668",
-    "upvotes": 215,
-    "author": "BellLabradors",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=26191364"
-  },
-  {
-    "title": "Remove Nominet's",
-    "url": "https://publicbenefit.uk/",
-    "upvotes": 20,
-    "author": "ohashi",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26191570"
   },
   {
     "title": "Tagged Unions Are Overrated",
     "url": "https://buttondown.email/nelhage/archive/tagged-unions-are-overrated/",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "mpweiher",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26190642"
+  },
+  {
+    "title": "Uber drivers are workers not self employed, Supreme Court rules",
+    "url": "https://www.bbc.co.uk/news/business-56123668",
+    "upvotes": 234,
+    "author": "BellLabradors",
+    "comments": 215,
+    "link": "https://news.ycombinator.com/item?id=26191364"
   },
   {
     "title": "Judge: Citibank isn't entitled to $500M it sent to various creditors last August",
     "url": "https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/",
-    "upvotes": 1169,
+    "upvotes": 1173,
     "author": "danbr",
-    "comments": 564,
+    "comments": 565,
     "link": "https://news.ycombinator.com/item?id=26180785"
+  },
+  {
+    "title": "Facebook is gambling Australia can't do without it. What if we prove them wrong",
+    "url": "https://www.theguardian.com/commentisfree/2021/feb/19/facebook-is-gambling-australia-cant-live-without-it-imagine-if-we-prove-them-wrong",
+    "upvotes": 33,
+    "author": "samizdis",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26192205"
+  },
+  {
+    "title": "“I will slaughter you”",
+    "url": "https://daniel.haxx.se/blog/2021/02/19/i-will-slaughter-you/",
+    "upvotes": 282,
+    "author": "ingve",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=26192025"
   },
   {
     "title": "Decoding Mars 2020",
     "url": "https://destevez.net/2020/08/decoding-mars-2020/",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "followben",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26172593"
@@ -214,25 +222,17 @@
   {
     "title": "How I started believing in Cycle Time over Estimation",
     "url": "https://www.norberhuis.nl/how-i-started-believing-in-cycle-time-over-estimation/",
-    "upvotes": 60,
+    "upvotes": 64,
     "author": "snorberhuis",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26165779"
   },
   {
-    "title": "I Miss My Bar",
-    "url": "http://imissmybar.com/",
-    "upvotes": 182,
-    "author": "interweb",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=26188710"
-  },
-  {
-    "title": "Facebook is gambling Australia can't do without it. What if we prove them wrong",
-    "url": "https://www.theguardian.com/commentisfree/2021/feb/19/facebook-is-gambling-australia-cant-live-without-it-imagine-if-we-prove-them-wrong",
-    "upvotes": 20,
-    "author": "samizdis",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26192205"
+    "title": "The Adams Event",
+    "url": "https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago",
+    "upvotes": 69,
+    "author": "layer8",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26188649"
   }
 ]
