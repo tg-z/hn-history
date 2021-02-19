@@ -2,31 +2,55 @@
   {
     "title": "Perseverance Rover lands on Mars [video]",
     "url": "https://www.youtube.com/watch?v=gm0b_ijaYMQ",
-    "upvotes": 1097,
+    "upvotes": 1141,
     "author": "malloreon",
-    "comments": 382,
+    "comments": 388,
     "link": "https://news.ycombinator.com/item?id=26184190"
   },
   {
     "title": "12 requests per second: A realistic look at Python web frameworks",
     "url": "https://suade.org/dev/12-requests-per-second-with-python/",
-    "upvotes": 202,
+    "upvotes": 225,
     "author": "gilad",
-    "comments": 69,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26188765"
   },
   {
     "title": "Why is it so hard to see code from 5 minutes ago?",
     "url": "https://web.eecs.utk.edu/~azh/blog/yestercode.html",
-    "upvotes": 283,
+    "upvotes": 302,
     "author": "azhenley",
-    "comments": 220,
+    "comments": 234,
     "link": "https://news.ycombinator.com/item?id=26187881"
+  },
+  {
+    "title": "Checked C",
+    "url": "https://github.com/microsoft/checkedc",
+    "upvotes": 19,
+    "author": "tosh",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26190403"
+  },
+  {
+    "title": "Reflections on Using Haskell for My Startup",
+    "url": "https://alistairb.dev/reflections-on-haskell-for-startup/",
+    "upvotes": 20,
+    "author": "_query",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26176940"
+  },
+  {
+    "title": "Monolith First",
+    "url": "https://martinfowler.com/bliki/MonolithFirst.html",
+    "upvotes": 18,
+    "author": "asyrafql",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26190584"
   },
   {
     "title": "Radio Amateur Copies Signal from Mars-Orbiting Satellite",
     "url": "http://www.arrl.org/news/british-columbia-radio-amateur-copies-signal-from-mars-orbiting-satellite",
-    "upvotes": 110,
+    "upvotes": 117,
     "author": "wglb",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26188575"
@@ -34,205 +58,181 @@
   {
     "title": "The MetaHumans: High-fidelity digital humans in minutes",
     "url": "https://www.unrealengine.com/en-US/digital-humans",
-    "upvotes": 40,
+    "upvotes": 47,
     "author": "danboarder",
-    "comments": 10,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26189827"
   },
   {
     "title": "The Texas power outage is a nation-wide problem",
     "url": "https://garrettbattaglia.com/post/texas-power/",
-    "upvotes": 224,
+    "upvotes": 232,
     "author": "gwoplock",
-    "comments": 379,
+    "comments": 384,
     "link": "https://news.ycombinator.com/item?id=26186645"
-  },
-  {
-    "title": "Reflections on Using Haskell for My Startup",
-    "url": "https://alistairb.dev/reflections-on-haskell-for-startup/",
-    "upvotes": 5,
-    "author": "_query",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26176940"
-  },
-  {
-    "title": "Gleam 0.14 – type-safe language for the Erlang VM",
-    "url": "https://gleam.run/news/gleam-v0.14-released/",
-    "upvotes": 230,
-    "author": "lpil",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26185690"
-  },
-  {
-    "title": "Checked C",
-    "url": "https://github.com/microsoft/checkedc",
-    "upvotes": 6,
-    "author": "tosh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26190403"
-  },
-  {
-    "title": "I Miss My Bar",
-    "url": "http://imissmybar.com/",
-    "upvotes": 59,
-    "author": "interweb",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26188710"
-  },
-  {
-    "title": "Decoding Mars 2020",
-    "url": "https://destevez.net/2020/08/decoding-mars-2020/",
-    "upvotes": 23,
-    "author": "followben",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26172593"
   },
   {
     "title": "Designing a RISC-V CPU, Part 1: Learning hardware design as a software engineer",
     "url": "https://mcla.ug/blog/risc-v-cpu-part-1.html",
-    "upvotes": 15,
+    "upvotes": 24,
     "author": "lochsh",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26164574"
   },
   {
-    "title": "How I started believing in Cycle Time over Estimation",
-    "url": "https://www.norberhuis.nl/how-i-started-believing-in-cycle-time-over-estimation/",
-    "upvotes": 37,
-    "author": "snorberhuis",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26165779"
+    "title": "Gleam 0.14 – type-safe language for the Erlang VM",
+    "url": "https://gleam.run/news/gleam-v0.14-released/",
+    "upvotes": 238,
+    "author": "lpil",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26185690"
   },
   {
-    "title": "Open source chess developers warn about a commercial engine based on Stockfish",
-    "url": "https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off",
-    "upvotes": 186,
-    "author": "1337shadow",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26185139"
+    "title": "I Miss My Bar",
+    "url": "http://imissmybar.com/",
+    "upvotes": 77,
+    "author": "interweb",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26188710"
+  },
+  {
+    "title": "Decoding Mars 2020",
+    "url": "https://destevez.net/2020/08/decoding-mars-2020/",
+    "upvotes": 29,
+    "author": "followben",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26172593"
+  },
+  {
+    "title": "How I started believing in Cycle Time over Estimation",
+    "url": "https://www.norberhuis.nl/how-i-started-believing-in-cycle-time-over-estimation/",
+    "upvotes": 42,
+    "author": "snorberhuis",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26165779"
   },
   {
     "title": "Vertical farming does not save space",
     "url": "https://www.lowtechmagazine.com/2021/02/vertical-farming-ecosystem-services.html",
-    "upvotes": 239,
+    "upvotes": 242,
     "author": "oftenwrong",
-    "comments": 340,
+    "comments": 348,
     "link": "https://news.ycombinator.com/item?id=26184355"
-  },
-  {
-    "title": "Monolith First",
-    "url": "https://martinfowler.com/bliki/MonolithFirst.html",
-    "upvotes": 4,
-    "author": "asyrafql",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26190584"
-  },
-  {
-    "title": "Judge: Citibank isn't entitled to $500M it sent to various creditors last August",
-    "url": "https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/",
-    "upvotes": 1143,
-    "author": "danbr",
-    "comments": 554,
-    "link": "https://news.ycombinator.com/item?id=26180785"
   },
   {
     "title": "There’s no such thing as “a startup within a big company”",
     "url": "https://hunterwalk.medium.com/why-theres-no-such-thing-as-a-startup-within-a-big-company-c3003615f3bc",
-    "upvotes": 507,
+    "upvotes": 510,
     "author": "isolli",
-    "comments": 274,
+    "comments": 277,
     "link": "https://news.ycombinator.com/item?id=26178518"
+  },
+  {
+    "title": "Open source chess developers warn about a commercial engine based on Stockfish",
+    "url": "https://lichess.org/blog/YCvy7xMAACIA8007/fat-fritz-2-is-a-rip-off",
+    "upvotes": 197,
+    "author": "1337shadow",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=26185139"
+  },
+  {
+    "title": "Judge: Citibank isn't entitled to $500M it sent to various creditors last August",
+    "url": "https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/",
+    "upvotes": 1146,
+    "author": "danbr",
+    "comments": 556,
+    "link": "https://news.ycombinator.com/item?id=26180785"
   },
   {
     "title": "Bruce Blackburn, Designer of NASA Worm Logo, Has Died",
     "url": "https://www.nytimes.com/2021/02/18/us/bruce-blackburn-dead.html",
-    "upvotes": 126,
+    "upvotes": 129,
     "author": "NaOH",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26185810"
+  },
+  {
+    "title": "Things You Should Do Now",
+    "url": "https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/",
+    "upvotes": 16,
+    "author": "bshanks",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26189995"
   },
   {
     "title": "The Adams Event",
     "url": "https://newsroom.unsw.edu.au/news/science-tech/ancient-relic-points-turning-point-earths-history-42000-years-ago",
-    "upvotes": 49,
+    "upvotes": 54,
     "author": "layer8",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26188649"
   },
   {
     "title": "Python 3.x: RCE in Python applications that accept floats as untrusted input",
     "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-3177",
-    "upvotes": 189,
+    "upvotes": 191,
     "author": "bitshifta",
-    "comments": 47,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26185005"
   },
   {
     "title": "Variable tyre pressure wheelset is a mountain biking breakthrough",
     "url": "https://www.news24.com/ride24/news/variable-tyre-pressure-wheelset-is-a-mountain-biking-breakthrough-20210125",
-    "upvotes": 45,
+    "upvotes": 48,
     "author": "mardiyah",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26188526"
   },
   {
     "title": "1977: Zork",
     "url": "https://if50.substack.com/p/1977-zork",
-    "upvotes": 264,
+    "upvotes": 267,
     "author": "fanf2",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26181863"
+  },
+  {
+    "title": "The Rules of Margin Collapse",
+    "url": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
+    "upvotes": 41,
+    "author": "bpierre",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26165675"
   },
   {
     "title": "Swiss File Knife – A Command Line Tools Collection",
     "url": "http://stahlworks.com/dev/swiss-file-knife.html",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "interfixus",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26176360"
-  },
-  {
-    "title": "Things You Should Do Now",
-    "url": "https://secure.phabricator.com/book/phabflavor/article/things_you_should_do_now/",
-    "upvotes": 10,
-    "author": "bshanks",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26189995"
   },
   {
     "title": "Share of U.S. workers holding multiple jobs is rising",
     "url": "https://www.reuters.com/article/us-usa-economy-multiple-jobs-idUSKBN2AH2PI",
     "upvotes": 235,
     "author": "batmaniam",
-    "comments": 255,
+    "comments": 256,
     "link": "https://news.ycombinator.com/item?id=26184012"
+  },
+  {
+    "title": "How ClickHouse saved our data",
+    "url": "https://mux.com/blog/from-russia-with-love-how-clickhouse-saved-our-data/",
+    "upvotes": 112,
+    "author": "mmcclure",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26182015"
   },
   {
     "title": "Raptor Maps",
     "url": "https://raptormaps.com/jobs/"
   },
   {
-    "title": "TLS certificates specifying hosts via the CommonName field is more or less gone",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/TLSCertificateCNMostlyGone",
-    "upvotes": 60,
-    "author": "zdw",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26176448"
-  },
-  {
     "title": "Migrating to SQLAlchemy 2.0",
     "url": "https://docs.sqlalchemy.org/en/14/changelog/migration_20.html",
-    "upvotes": 182,
+    "upvotes": 184,
     "author": "brainless",
-    "comments": 92,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26182744"
-  },
-  {
-    "title": "The Rules of Margin Collapse",
-    "url": "https://www.joshwcomeau.com/css/rules-of-margin-collapse/",
-    "upvotes": 34,
-    "author": "bpierre",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26165675"
   }
 ]
