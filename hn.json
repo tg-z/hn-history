@@ -2,73 +2,81 @@
   {
     "title": "How to Destroy the Earth",
     "url": "https://qntm.org/destroy",
-    "upvotes": 131,
+    "upvotes": 143,
     "author": "NateEag",
-    "comments": 71,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26204892"
   },
   {
     "title": "Cranelift, Part 2: Compiler Efficiency, CFGs, and a Branch Peephole Optimizer",
     "url": "https://cfallin.org/blog/2021/01/22/cranelift-isel-2/",
-    "upvotes": 61,
+    "upvotes": 68,
     "author": "lukastyrychtr",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26205418"
   },
   {
     "title": "Teardown of a quartz crystal oscillator and the tiny IC inside",
     "url": "https://www.righto.com/2021/02/teardown-of-quartz-crystal-oscillator.html",
-    "upvotes": 20,
+    "upvotes": 30,
     "author": "parsecs",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26206132"
+  },
+  {
+    "title": "Show HN: Vellum – An interactive list of nonfiction books reviewed by academics",
+    "url": "https://vellum.tachy.org",
+    "upvotes": 14,
+    "author": "pizzicato",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26206712"
   },
   {
     "title": "Little is a statically typed, C-like scripting language",
     "url": "http://www.little-lang.org/",
-    "upvotes": 107,
+    "upvotes": 114,
     "author": "Thedarkb",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26204218"
   },
   {
     "title": "M1 Macs have another hidden boot mode",
     "url": "https://eclecticlight.co/2021/02/20/m1-macs-have-another-hidden-boot-mode/",
-    "upvotes": 268,
+    "upvotes": 272,
     "author": "giuliomagnifico",
-    "comments": 157,
+    "comments": 162,
     "link": "https://news.ycombinator.com/item?id=26203178"
   },
   {
     "title": "How Swift achieved dynamic linking where Rust couldn't",
     "url": "https://gankra.github.io/blah/swift-abi/",
-    "upvotes": 56,
+    "upvotes": 69,
     "author": "zdw",
-    "comments": 12,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26205969"
-  },
-  {
-    "title": "Coca-Cola Confirms Training Employees to ‘Be Less White’",
-    "url": "https://beckernews.com/coca-cola-confirms-training-employees-to-be-less-white-36954/",
-    "upvotes": 3,
-    "author": "da_big_ghey",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26206783"
   },
   {
     "title": "Photos from the Surface of Venus",
     "url": "https://twitter.com/barry/status/1362520729305112576",
-    "upvotes": 63,
+    "upvotes": 71,
     "author": "uptown",
-    "comments": 24,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26192723"
+  },
+  {
+    "title": "How can you not be romantic about programming?",
+    "url": "https://thorstenball.com/blog/2020/09/08/how-can-you-not-be-romantic-about-programming/",
+    "upvotes": 3,
+    "author": "joubert",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26206921"
   },
   {
     "title": "Tribler: An attack-resilient micro-economy for media",
     "url": "https://github.com/Tribler/tribler/wiki#tribler-an-attack-resilient-micro-economy-for-media",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "curmudgeon22",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26206105"
   },
   {
@@ -78,26 +86,106 @@
   {
     "title": "New malware found on 30k Macs has security pros stumped",
     "url": "https://arstechnica.com/information-technology/2021/02/new-malware-found-on-30000-macs-has-security-pros-stumped/",
-    "upvotes": 202,
+    "upvotes": 219,
     "author": "furcyd",
-    "comments": 86,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26204756"
+  },
+  {
+    "title": "Machine Learning for Computer Architecture",
+    "url": "https://ai.googleblog.com/2021/02/machine-learning-for-computer.html",
+    "upvotes": 7,
+    "author": "tmfi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26206416"
   },
   {
     "title": "Draw an iceberg and see how it would float in water",
     "url": "https://joshdata.me/iceberger.html",
-    "upvotes": 1371,
+    "upvotes": 1382,
     "author": "raldi",
-    "comments": 146,
+    "comments": 147,
     "link": "https://news.ycombinator.com/item?id=26201160"
+  },
+  {
+    "title": "Princeton astrophysicists re-imagine world map",
+    "url": "https://www.princeton.edu/news/2021/02/15/princeton-astrophysicists-re-imagine-world-map-designing-less-distorted-radically",
+    "upvotes": 9,
+    "author": "FullyFunctional",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26190788"
   },
   {
     "title": "My history with Forth and stack machines",
     "url": "https://yosefk.com/blog/my-history-with-forth-stack-machines.html",
-    "upvotes": 70,
+    "upvotes": 72,
     "author": "panic",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26203518"
+  },
+  {
+    "title": "I don't know, Timmy, being God is a big responsibility",
+    "url": "https://qntm.org/responsibility",
+    "upvotes": 330,
+    "author": "pdkl95",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=26202063"
+  },
+  {
+    "title": "Handheld two-way radios for preppers and other curious folks",
+    "url": "https://lcamtuf.coredump.cx/prep/handheld.html",
+    "upvotes": 7,
+    "author": "wglb",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26182122"
+  },
+  {
+    "title": "Highest rates of teen bullying are between friends and friends-of-friends: study",
+    "url": "https://www.ucdavis.edu/news/most-teen-bullying-occurs-among-peers-climbing-social-ladder",
+    "upvotes": 178,
+    "author": "thereare5lights",
+    "comments": 239,
+    "link": "https://news.ycombinator.com/item?id=26202049"
+  },
+  {
+    "title": "Elizabeth Ann, the First Cloned Black-Footed Ferret",
+    "url": "https://www.nytimes.com/2021/02/18/science/black-footed-ferret-clone.html",
+    "upvotes": 21,
+    "author": "chetangoti",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26192442"
+  },
+  {
+    "title": "Show HN: Sabre – The bullshit-free",
+    "url": "https://github.com/garritfra/sabre",
+    "upvotes": 5,
+    "author": "garritfra",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26206631"
+  },
+  {
+    "title": "Artificial Neural Nets Finally Yield Clues to How Brains Learn",
+    "url": "https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/",
+    "upvotes": 70,
+    "author": "giorgiop",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26203269"
+  },
+  {
+    "title": "Native Type Theory",
+    "url": "https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html",
+    "upvotes": 104,
+    "author": "gbrown_",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=26203257"
+  },
+  {
+    "title": "Twitch censors live Metallica concert with dorkiest music imaginable",
+    "url": "https://music.avclub.com/twitch-censors-live-metallica-concert-with-dorkiest-mus-1846314134",
+    "upvotes": 44,
+    "author": "Borlands",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26205993"
   },
   {
     "title": "A global environmental crisis 42,000 years ago",
@@ -108,65 +196,9 @@
     "link": "https://news.ycombinator.com/item?id=26206257"
   },
   {
-    "title": "I don't know, Timmy, being God is a big responsibility",
-    "url": "https://qntm.org/responsibility",
-    "upvotes": 324,
-    "author": "pdkl95",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=26202063"
-  },
-  {
-    "title": "Handheld two-way radios for preppers and other curious folks",
-    "url": "https://lcamtuf.coredump.cx/prep/handheld.html",
-    "upvotes": 4,
-    "author": "wglb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26182122"
-  },
-  {
-    "title": "Highest rates of teen bullying are between friends and friends-of-friends: study",
-    "url": "https://www.ucdavis.edu/news/most-teen-bullying-occurs-among-peers-climbing-social-ladder",
-    "upvotes": 170,
-    "author": "thereare5lights",
-    "comments": 229,
-    "link": "https://news.ycombinator.com/item?id=26202049"
-  },
-  {
-    "title": "Artificial Neural Nets Finally Yield Clues to How Brains Learn",
-    "url": "https://www.quantamagazine.org/artificial-neural-nets-finally-yield-clues-to-how-brains-learn-20210218/",
-    "upvotes": 67,
-    "author": "giorgiop",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26203269"
-  },
-  {
-    "title": "Native Type Theory",
-    "url": "https://golem.ph.utexas.edu/category/2021/02/native_type_theory.html",
-    "upvotes": 102,
-    "author": "gbrown_",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26203257"
-  },
-  {
-    "title": "Elizabeth Ann, the First Cloned Black-Footed Ferret",
-    "url": "https://www.nytimes.com/2021/02/18/science/black-footed-ferret-clone.html",
-    "upvotes": 15,
-    "author": "chetangoti",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26192442"
-  },
-  {
-    "title": "Twitch censors live Metallica concert with dorkiest music imaginable",
-    "url": "https://music.avclub.com/twitch-censors-live-metallica-concert-with-dorkiest-mus-1846314134",
-    "upvotes": 32,
-    "author": "Borlands",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26205993"
-  },
-  {
     "title": "Mobile Computational Photography: A Tour",
     "url": "https://arxiv.org/abs/2102.09000",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "sytelus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26190660"
@@ -174,65 +206,33 @@
   {
     "title": "Metallica's BlizzCon Performance Ruined by Twitch",
     "url": "https://www.gamespot.com/articles/metallicas-blizzcon-performance-ruined-by-twitch/1100-6487855/",
-    "upvotes": 109,
+    "upvotes": 124,
     "author": "croes",
-    "comments": 55,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26204691"
-  },
-  {
-    "title": "Princeton astrophysicists re-imagine world map",
-    "url": "https://www.princeton.edu/news/2021/02/15/princeton-astrophysicists-re-imagine-world-map-designing-less-distorted-radically",
-    "upvotes": 4,
-    "author": "FullyFunctional",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26190788"
   },
   {
     "title": "How to have better arguments online",
     "url": "https://www.theguardian.com/society/2021/feb/16/how-to-have-better-arguments-social-media-politics-conflict",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "samizdis",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26202991"
+  },
+  {
+    "title": "Ask HN: Truly successful applications based on decentralized networks?",
+    "url": "item?id=26206504",
+    "upvotes": 8,
+    "author": "rafiki6",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26206504"
   },
   {
     "title": "Perseverance Rover lands on Mars [video]",
     "url": "https://www.youtube.com/watch?v=gm0b_ijaYMQ",
-    "upvotes": 1605,
+    "upvotes": 1609,
     "author": "malloreon",
     "comments": 474,
     "link": "https://news.ycombinator.com/item?id=26184190"
-  },
-  {
-    "title": "Unique_ptr difference between libstdc++ and Libc++ crashes your application",
-    "url": "https://blogs.kde.org/2021/02/20/uniqueptr-difference-between-libstdc-and-libc-crashes-your-application",
-    "upvotes": 32,
-    "author": "ognarb",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26205550"
-  },
-  {
-    "title": "Tauri: An Electron alternative written in Rust",
-    "url": "https://tauri.studio/",
-    "upvotes": 1056,
-    "author": "metalwhale",
-    "comments": 395,
-    "link": "https://news.ycombinator.com/item?id=26194990"
-  },
-  {
-    "title": "90K packages are stolen daily in NYC. A building resisted",
-    "url": "https://www.nytimes.com/2021/02/19/nyregion/package-theft-east-village.html",
-    "upvotes": 43,
-    "author": "fortran77",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26205307"
-  },
-  {
-    "title": "Scientists Achieve Real-Time Communication with Lucid Dreamers in Breakthrough",
-    "url": "https://www.vice.com/en/article/4admym/scientists-achieve-real-time-communication-with-lucid-dreamers-in-breakthrough",
-    "upvotes": 98,
-    "author": "elsewhen",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26203685"
   }
 ]
