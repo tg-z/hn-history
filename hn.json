@@ -2,49 +2,57 @@
   {
     "title": "Find a person's profile across 350 social media sites",
     "url": "https://github.com/qeeqbox/social-analyzer",
-    "upvotes": 205,
+    "upvotes": 238,
     "author": "hunvreus",
-    "comments": 79,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=26213554"
   },
   {
     "title": "Formalising Mathematics: An Introduction",
     "url": "https://xenaproject.wordpress.com/2021/01/21/formalising-mathematics-an-introduction/",
-    "upvotes": 27,
+    "upvotes": 34,
     "author": "panic",
-    "comments": null,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26214593"
   },
   {
     "title": "Silent Running: The sci-fi that predicted modern crises",
     "url": "https://www.bbc.com/culture/article/20210212-silent-running-the-sci-fi-that-predicted-modern-crises",
-    "upvotes": 113,
+    "upvotes": 125,
     "author": "bobkrusty",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26212975"
   },
   {
     "title": "Build an SMS Forwarder with Raspberry Pi Zero W and Waveshare SIM7000E Hat",
     "url": "https://mete.dev/2021/02/21/build-an-sms-forwarder-with-raspberry-pi-zero-w-and-waveshare-sim7000e-hat/",
-    "upvotes": 40,
+    "upvotes": 47,
     "author": "mtrcn",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26213956"
+  },
+  {
+    "title": "Please do not put IP addresses into DNS MX records",
+    "url": "https://blog.hboeck.de/archives/904-Please-do-not-put-IP-addresses-into-DNS-MX-records.html",
+    "upvotes": 15,
+    "author": "hannob",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26215112"
   },
   {
     "title": "The Beirut Bank Job",
     "url": "https://darknetdiaries.com/episode/6/",
-    "upvotes": 227,
+    "upvotes": 231,
     "author": "mleonhard",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26212208"
   },
   {
     "title": "Boringtechnology.club",
     "url": "http://boringtechnology.club/",
-    "upvotes": 347,
+    "upvotes": 362,
     "author": "asyrafql",
-    "comments": 185,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=26211721"
   },
   {
@@ -54,15 +62,15 @@
   {
     "title": "Nvidia Limits RTX 3060 Hash Rate",
     "url": "https://www.tomshardware.com/news/nvidia-announces-cryptocurrency-mining-processor-gpu-line",
-    "upvotes": 159,
+    "upvotes": 166,
     "author": "stambros",
-    "comments": 283,
+    "comments": 307,
     "link": "https://news.ycombinator.com/item?id=26192201"
   },
   {
     "title": "Reconstructing the Menu of a Pub in Ancient Pompeii",
     "url": "https://www.atlasobscura.com/articles/recreate-the-menu-of-pompeii-ancient-pub",
-    "upvotes": 31,
+    "upvotes": 35,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26210774"
@@ -70,39 +78,31 @@
   {
     "title": "Super-efficient blockchain architecture based on FIDO keys",
     "url": "https://dandanua.github.io/posts/super-efficient-blockchain-architecture-based-on-fido-keys/",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "dandanua",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26214175"
-  },
-  {
-    "title": "Life of an HTTP request in a Go server",
-    "url": "https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/",
-    "upvotes": 36,
-    "author": "ibobev",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26211248"
   },
   {
     "title": "Alice 4 FPGA Rasterizer",
     "url": "https://lkesteloot.github.io/alice/alice4/fpga-rasterizer.html",
-    "upvotes": 5,
+    "upvotes": 11,
     "author": "peter_d_sherman",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26214600"
   },
   {
-    "title": "How my school gamed the stats",
-    "url": "https://www.greaterwrong.com/posts/Yv9aj9bWD5H7aaDdy/how-my-school-gamed-the-stats",
-    "upvotes": 102,
-    "author": "optimalsolver",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=26211921"
+    "title": "Life of an HTTP request in a Go server",
+    "url": "https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/",
+    "upvotes": 38,
+    "author": "ibobev",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26211248"
   },
   {
     "title": "Enabling Support for MathML in Chrome",
     "url": "https://bugs.chromium.org/p/chromium/issues/detail?id=152430",
-    "upvotes": 7,
+    "upvotes": 11,
     "author": "pera",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26214072"
@@ -110,15 +110,23 @@
   {
     "title": "Show HN: CompreFace is a free and open-source face recognition software",
     "url": "https://github.com/exadel-inc/CompreFace",
-    "upvotes": 9,
+    "upvotes": 15,
     "author": "pospielov",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26214038"
+  },
+  {
+    "title": "How my school gamed the stats",
+    "url": "https://www.greaterwrong.com/posts/Yv9aj9bWD5H7aaDdy/how-my-school-gamed-the-stats",
+    "upvotes": 103,
+    "author": "optimalsolver",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26211921"
   },
   {
     "title": "pierogis – python/rust image and animation processing",
     "url": "https://github.com/pierogis/pierogis",
-    "upvotes": 5,
+    "upvotes": 10,
     "author": "ksm1717",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26214180"
@@ -126,7 +134,7 @@
   {
     "title": "Alex Cabal: Standard Ebooks",
     "url": "https://mythaxis.com/2021/02/19/alex-cabal-standard-ebooks/",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "robin_reala",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26207484"
@@ -134,71 +142,79 @@
   {
     "title": "Linux Logo",
     "url": "https://lkml.org/lkml/1996/5/12/136",
-    "upvotes": 119,
+    "upvotes": 122,
     "author": "baba_ramdev",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26210829"
   },
   {
-    "title": "Importance of Conceptual Integrity in System Design",
-    "url": "https://wiki.c2.com/?ConceptualIntegrity",
-    "upvotes": 75,
-    "author": "zwliew",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26211582"
+    "title": "Arara: the cool TeX automation tool",
+    "url": "https://gitlab.com/islandoftex/arara",
+    "upvotes": 7,
+    "author": "nanna",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26211705"
   },
   {
     "title": "United B772 at Denver on Feb 20th 2021, engine inlet separates from engine",
     "url": "https://avherald.com/h?article=4e35503b&opt=0",
-    "upvotes": 680,
+    "upvotes": 681,
     "author": "haunter",
-    "comments": 424,
+    "comments": 430,
     "link": "https://news.ycombinator.com/item?id=26208555"
   },
   {
     "title": "Kodi 19 Matrix Released",
     "url": "https://kodi.tv/article/kodi-190-matrix-release",
-    "upvotes": 45,
+    "upvotes": 49,
     "author": "danfritz",
-    "comments": 27,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26211924"
+  },
+  {
+    "title": "Importance of Conceptual Integrity in System Design",
+    "url": "https://wiki.c2.com/?ConceptualIntegrity",
+    "upvotes": 77,
+    "author": "zwliew",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26211582"
   },
   {
     "title": "Canon Cat",
     "url": "https://en.wikipedia.org/wiki/Canon_Cat",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "DanielBMarkham",
-    "comments": 5,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26213934"
   },
   {
     "title": "Facebook takes down main page of Myanmar military",
     "url": "https://www.reuters.com/article/us-myanmar-politics-facebook/facebook-takes-down-main-page-of-myanmar-military-idUSKBN2AL029",
-    "upvotes": 112,
+    "upvotes": 118,
     "author": "PEOPLEgetoff",
-    "comments": 105,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26211787"
-  },
-  {
-    "title": "A Dishonest, Indifferent, and Toxic Culture",
-    "url": "https://huixiangvoice.medium.com/a-dishonest-indifferent-and-toxic-culture-113339aa67e9",
-    "upvotes": 374,
-    "author": "brzozowski",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=26211670"
   },
   {
     "title": "Show HN: A browser extension to use picture-in-picture with any website",
     "url": "https://www.tabfloater.io/",
-    "upvotes": 85,
+    "upvotes": 88,
     "author": "ba32107",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26206214"
+  },
+  {
+    "title": "A Dishonest, Indifferent, and Toxic Culture",
+    "url": "https://huixiangvoice.medium.com/a-dishonest-indifferent-and-toxic-culture-113339aa67e9",
+    "upvotes": 378,
+    "author": "brzozowski",
+    "comments": 144,
+    "link": "https://news.ycombinator.com/item?id=26211670"
   },
   {
     "title": "How to Destroy the Earth",
     "url": "https://qntm.org/destroy",
-    "upvotes": 272,
+    "upvotes": 274,
     "author": "NateEag",
     "comments": 146,
     "link": "https://news.ycombinator.com/item?id=26204892"
@@ -206,7 +222,7 @@
   {
     "title": "The Consoles of My Life",
     "url": "https://microship.com/consoles/",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "Kototama",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26192603"
@@ -214,25 +230,9 @@
   {
     "title": "Draw an iceberg and see how it would float in water",
     "url": "https://joshdata.me/iceberger.html",
-    "upvotes": 1592,
+    "upvotes": 1596,
     "author": "raldi",
     "comments": 164,
     "link": "https://news.ycombinator.com/item?id=26201160"
-  },
-  {
-    "title": "NHS saves children’s lives with world-first ‘dead’ heart transplants",
-    "url": "https://www.thetimes.co.uk/article/nhs-saves-childrens-lives-with-world-first-dead-heart-transplants-b0httn8lb",
-    "upvotes": 43,
-    "author": "blacktulip",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26212645"
-  },
-  {
-    "title": "Scheme in a Grid",
-    "url": "https://siag.nu/siag/index.html",
-    "upvotes": 19,
-    "author": "galfarragem",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26212129"
   }
 ]
