@@ -1,43 +1,59 @@
 [
   {
-    "title": "Tree-sitter: an incremental parsing system for programming tools",
-    "url": "https://github.com/tree-sitter/tree-sitter",
-    "upvotes": 129,
-    "author": "sbt567",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26225298"
-  },
-  {
     "title": "Software Bug Keeping Hundreds of Inmates in Arizona Prisons Beyond Release Dates",
     "url": "https://kjzz.org/content/1660988/whistleblowers-software-bug-keeping-hundreds-inmates-arizona-prisons-beyond-release",
-    "upvotes": 59,
+    "upvotes": 148,
     "author": "macg333",
-    "comments": 14,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26225956"
+  },
+  {
+    "title": "Tree-sitter: an incremental parsing system for programming tools",
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "upvotes": 161,
+    "author": "sbt567",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26225298"
   },
   {
     "title": "Lena",
     "url": "https://qntm.org/mmacevedo",
-    "upvotes": 155,
+    "upvotes": 214,
     "author": "burkaman",
-    "comments": 29,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26224835"
   },
   {
-    "title": "Traitor: Linux privilege escalation made easy",
-    "url": "https://github.com/liamg/traitor",
-    "upvotes": 90,
-    "author": "draugadrotten",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26224719"
+    "title": "Living Like It's 99: No Social Media, No Smartphone",
+    "url": "https://www.alvarez.io/posts/living-like-it-s-99/",
+    "upvotes": 28,
+    "author": "betaman0",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26226864"
   },
   {
     "title": "Best practices for REST API design",
     "url": "https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/",
-    "upvotes": 101,
+    "upvotes": 139,
     "author": "r_singh",
-    "comments": 70,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26225373"
+  },
+  {
+    "title": "Abundant Capital",
+    "url": "https://blog.aaronkharris.com/abundant-capital",
+    "upvotes": 34,
+    "author": "tomhoward",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26226723"
+  },
+  {
+    "title": "Traitor: Linux privilege escalation made easy",
+    "url": "https://github.com/liamg/traitor",
+    "upvotes": 107,
+    "author": "draugadrotten",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26224719"
   },
   {
     "title": "Smarking",
@@ -46,193 +62,177 @@
   {
     "title": "Vaccination linked to 'substantial reduction' in hospital admissions",
     "url": "https://www.heraldscotland.com/news/19107740.coronavirus-scotland-vaccination-linked-substantial-reduction-hospital-admissions/",
-    "upvotes": 51,
+    "upvotes": 91,
     "author": "BellLabradors",
-    "comments": 23,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26224519"
-  },
-  {
-    "title": "Flowrite: Turn short lists of facts into well-written emails",
-    "url": "https://www.flowrite.com/?ref=lbixer#waitlist",
-    "upvotes": 38,
-    "author": "crazypython",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26225480"
-  },
-  {
-    "title": "Start with a Niche",
-    "url": "https://fibery.io/blog/start-with-a-niche/",
-    "upvotes": 19,
-    "author": "tablet",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26222313"
-  },
-  {
-    "title": "Daft Punk Break Up",
-    "url": "https://pitchfork.com/news/daft-punk-call-it-quits/",
-    "upvotes": 491,
-    "author": "psychanarch",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=26225201"
   },
   {
     "title": "TikTok and the Network Effects of Creativity",
     "url": "https://www.eugenewei.com/blog/2021/2/15/american-idle",
-    "upvotes": 19,
+    "upvotes": 32,
     "author": "MaximumMadness",
-    "comments": null,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26225781"
-  },
-  {
-    "title": "Tasks, microtasks, queues and schedules – JakeArchibald.com",
-    "url": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/",
-    "upvotes": 35,
-    "author": "rbanffy",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26224488"
-  },
-  {
-    "title": "Abundant Capital",
-    "url": "https://blog.aaronkharris.com/abundant-capital",
-    "upvotes": 3,
-    "author": "tomhoward",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26226723"
-  },
-  {
-    "title": "Research software code is likely to remain a tangled mess",
-    "url": "http://shape-of-code.coding-guidelines.com/2021/02/21/research-software-code-is-likely-to-remain-a-tangled-mess/",
-    "upvotes": 90,
-    "author": "hacksilver",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=26223114"
-  },
-  {
-    "title": "My tutorial and take on C++20 coroutines",
-    "url": "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html",
-    "upvotes": 134,
-    "author": "erwan",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26221690"
-  },
-  {
-    "title": "SwiftGraphQL – A GraphQL client that lets you forget about GraphQL",
-    "url": "http://github.com/maticzav/swift-graphql",
-    "upvotes": 78,
-    "author": "maticzav",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26224060"
-  },
-  {
-    "title": "Nuklear: A cross-platform GUI library in C",
-    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
-    "upvotes": 306,
-    "author": "ducktective",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=26212787"
   },
   {
     "title": "Launch HN: H3X (YC W21) – High power density electric aircraft motors",
     "url": "item?id=26224709",
-    "upvotes": 46,
+    "upvotes": 60,
     "author": "jjsylvestre",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26224709"
+  },
+  {
+    "title": "Start with a Niche",
+    "url": "https://fibery.io/blog/start-with-a-niche/",
+    "upvotes": 26,
+    "author": "tablet",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26222313"
+  },
+  {
+    "title": "Tasks, microtasks, queues and schedules – JakeArchibald.com",
+    "url": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/",
+    "upvotes": 45,
+    "author": "rbanffy",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26224488"
+  },
+  {
+    "title": "Research software code is likely to remain a tangled mess",
+    "url": "http://shape-of-code.coding-guidelines.com/2021/02/21/research-software-code-is-likely-to-remain-a-tangled-mess/",
+    "upvotes": 98,
+    "author": "hacksilver",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=26223114"
+  },
+  {
+    "title": "Daft Punk Break Up",
+    "url": "https://pitchfork.com/news/daft-punk-call-it-quits/",
+    "upvotes": 582,
+    "author": "psychanarch",
+    "comments": 197,
+    "link": "https://news.ycombinator.com/item?id=26225201"
+  },
+  {
+    "title": "My tutorial and take on C++20 coroutines",
+    "url": "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html",
+    "upvotes": 137,
+    "author": "erwan",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=26221690"
+  },
+  {
+    "title": "Languages That Could Change the Way You See the World",
+    "url": "https://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world",
+    "upvotes": 29,
+    "author": "ColinWright",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26224117"
   },
   {
     "title": "Indian Government Breached, Massive Amount of Critical Vulnerabilities",
     "url": "https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/",
-    "upvotes": 244,
+    "upvotes": 253,
     "author": "astroanax",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26221607"
   },
   {
-    "title": "Languages That Could Change the Way You See the World",
-    "url": "https://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world",
-    "upvotes": 23,
-    "author": "ColinWright",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26224117"
+    "title": "Training Makes Runners More Efficient, but Not Cyclists",
+    "url": "https://www.outsideonline.com/2301366/training-makes-runners-more-efficient-not-cyclists",
+    "upvotes": 21,
+    "author": "dfgdghdf",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26224364"
   },
   {
     "title": "JIT-Compiling SQL Queries in PostgreSQL Using LLVM",
     "url": "https://www.pgcon.org/2017/schedule/events/1092.en.html",
-    "upvotes": 109,
+    "upvotes": 113,
     "author": "croh",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26211895"
-  },
-  {
-    "title": "Training Makes Runners More Efficient, but Not Cyclists",
-    "url": "https://www.outsideonline.com/2301366/training-makes-runners-more-efficient-not-cyclists",
-    "upvotes": 14,
-    "author": "dfgdghdf",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26224364"
   },
   {
     "title": "Enable hibernation when Lockdown is enabled",
     "url": "https://lore.kernel.org/lkml/20210220013255.1083202-1-matthewgarrett@google.com/T/#u",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "doener",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26222160"
   },
   {
+    "title": "The ants and the pheromones",
+    "url": "https://blog.acolyer.org/2021/02/08/the-ants-and-the-pheromones/",
+    "upvotes": 3,
+    "author": "eternalban",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26222843"
+  },
+  {
     "title": "Opinion: We’ll Have Herd Immunity by April",
     "url": "https://www.wsj.com/articles/well-have-herd-immunity-by-april-11613669731",
-    "upvotes": 68,
+    "upvotes": 82,
     "author": "welpandthen",
-    "comments": 104,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=26215308"
   },
   {
     "title": "Kea parrots perform domain-general statistical inference",
     "url": "https://www.nature.com/articles/s41467-020-14695-1",
-    "upvotes": 72,
+    "upvotes": 76,
     "author": "giorgiop",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26221751"
+  },
+  {
+    "title": "SwiftGraphQL – A GraphQL client that lets you forget about GraphQL",
+    "url": "http://github.com/maticzav/swift-graphql",
+    "upvotes": 79,
+    "author": "maticzav",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26224060"
+  },
+  {
+    "title": "Flowrite: Turn short lists of facts into well-written emails",
+    "url": "https://www.flowrite.com/?ref=lbixer#waitlist",
+    "upvotes": 49,
+    "author": "crazypython",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26225480"
   },
   {
     "title": "Ethereum Isn't Fun Anymore",
     "url": "https://timdaub.github.io/2021/02/22/ethereum-isnt-fun-anymore/",
-    "upvotes": 213,
+    "upvotes": 229,
     "author": "timdaub",
-    "comments": 379,
+    "comments": 435,
     "link": "https://news.ycombinator.com/item?id=26222709"
-  },
-  {
-    "title": "Finite State Machines",
-    "url": "https://adlrocha.substack.com/p/adlrocha-finite-state-machines",
-    "upvotes": 79,
-    "author": "adlrocha",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26212686"
   },
   {
     "title": "Earth’s magnetic field broke down 42k years ago, caused sudden climate change",
     "url": "https://theconversation.com/earths-magnetic-field-broke-down-42-000-years-ago-and-caused-massive-sudden-climate-change-155580",
-    "upvotes": 62,
+    "upvotes": 76,
     "author": "T-A",
-    "comments": 19,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26223402"
   },
   {
-    "title": "Intensional Logic in Context – from philosophy to technology",
-    "url": "https://billwadge.wordpress.com/2021/02/21/intensional-logic-in-context-from-philosophy-to-technology/",
-    "upvotes": 22,
-    "author": "unclefuzzy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26215417"
+    "title": "Nuklear: A cross-platform GUI library in C",
+    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+    "upvotes": 309,
+    "author": "ducktective",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=26212787"
   },
   {
-    "title": "Korean Air, Asiana to ground Boeing 777 after engine incident",
-    "url": "http://www.koreaherald.com/view.php?ud=20210222001051",
-    "upvotes": 142,
-    "author": "dlcmh",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26222386"
+    "title": "Finite State Machines",
+    "url": "https://adlrocha.substack.com/p/adlrocha-finite-state-machines",
+    "upvotes": 88,
+    "author": "adlrocha",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26212686"
   }
 ]
