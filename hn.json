@@ -1,132 +1,156 @@
 [
   {
+    "title": "Ethereum Isn't Fun Anymore",
+    "url": "https://timdaub.github.io/2021/02/22/ethereum-isnt-fun-anymore/",
+    "upvotes": 37,
+    "author": "timdaub",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26222709"
+  },
+  {
     "title": "My tutorial and take on C++20 coroutines",
     "url": "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html",
-    "upvotes": 57,
+    "upvotes": 64,
     "author": "erwan",
-    "comments": 40,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26221690"
   },
   {
     "title": "Enable hibernation when Lockdown is enabled",
     "url": "https://lore.kernel.org/lkml/20210220013255.1083202-1-matthewgarrett@google.com/T/#u",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "doener",
-    "comments": 4,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26222160"
+  },
+  {
+    "title": "Nuklear: A cross-platform GUI library in C",
+    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+    "upvotes": 222,
+    "author": "ducktective",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26212787"
   },
   {
     "title": "Indian Government Breached, Massive Amount of Critical Vulnerabilities",
     "url": "https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/",
-    "upvotes": 101,
+    "upvotes": 118,
     "author": "astroanax",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26221607"
   },
   {
-    "title": "Nuklear: A cross-platform GUI library in C",
-    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
-    "upvotes": 219,
-    "author": "ducktective",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26212787"
-  },
-  {
     "title": "What Is Huffman Coding?",
     "url": "https://www.baseclass.io/huffman-coding/",
-    "upvotes": 184,
+    "upvotes": 188,
     "author": "davethedevguy",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26203282"
   },
   {
-    "title": "Passerine: A small extensible language designed for concise expression",
-    "url": "http://passerine.io",
-    "upvotes": 179,
-    "author": "isaacimagine",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26212491"
+    "title": "Korean Air, Asiana to ground Boeing 777 after engine incident",
+    "url": "http://www.koreaherald.com/view.php?ud=20210222001051",
+    "upvotes": 8,
+    "author": "dlcmh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26222386"
   },
   {
     "title": "Kea parrots perform domain-general statistical inference",
     "url": "https://www.nature.com/articles/s41467-020-14695-1",
-    "upvotes": 23,
+    "upvotes": 28,
     "author": "giorgiop",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26221751"
+  },
+  {
+    "title": "Passerine: A small extensible language designed for concise expression",
+    "url": "http://passerine.io",
+    "upvotes": 182,
+    "author": "isaacimagine",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26212491"
+  },
+  {
+    "title": "JIT-Compiling SQL Queries in PostgreSQL Using LLVM",
+    "url": "https://www.pgcon.org/2017/schedule/events/1092.en.html",
+    "upvotes": 32,
+    "author": "croh",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26211895"
   },
   {
     "title": "I paid for Spotify playlist placements so you don’t have to",
     "url": "https://najinsan.wordpress.com/2021/02/15/i-paid-for-spotify-playlist-placements-so-you-dont-have-to/",
-    "upvotes": 176,
+    "upvotes": 185,
     "author": "pgl",
-    "comments": 83,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26205941"
   },
   {
-    "title": "Cross-Database Queries in SQLite",
-    "url": "https://simonwillison.net/2021/Feb/21/cross-database-queries/",
-    "upvotes": 148,
-    "author": "chmaynard",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=26217754"
-  },
-  {
-    "title": "Hitchhikers Guide to the Galaxy – 30th Anniversary Edition – Free Play Online",
-    "url": "https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition",
-    "upvotes": 154,
-    "author": "sep_field",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26221211"
+    "title": "The Viking Invasion of Leicestershire",
+    "url": "http://www.thiswasleicestershire.co.uk/2012/11/the-viking-invasion-of-leicestershire.html",
+    "upvotes": 27,
+    "author": "zeristor",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26212092"
   },
   {
     "title": "Raycast",
     "url": "https://raycast.com/jobs"
   },
   {
-    "title": "JIT-Compiling SQL Queries in PostgreSQL Using LLVM",
-    "url": "https://www.pgcon.org/2017/schedule/events/1092.en.html",
-    "upvotes": 26,
-    "author": "croh",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26211895"
+    "title": "Cross-Database Queries in SQLite",
+    "url": "https://simonwillison.net/2021/Feb/21/cross-database-queries/",
+    "upvotes": 149,
+    "author": "chmaynard",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26217754"
   },
   {
     "title": "Finite State Machines",
     "url": "https://adlrocha.substack.com/p/adlrocha-finite-state-machines",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "adlrocha",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26212686"
   },
   {
-    "title": "The Viking Invasion of Leicestershire",
-    "url": "http://www.thiswasleicestershire.co.uk/2012/11/the-viking-invasion-of-leicestershire.html",
-    "upvotes": 24,
-    "author": "zeristor",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26212092"
-  },
-  {
-    "title": "Go is not an easy language",
-    "url": "https://www.arp242.net/go-easy.html",
-    "upvotes": 254,
-    "author": "jen20",
-    "comments": 168,
-    "link": "https://news.ycombinator.com/item?id=26220693"
+    "title": "Hitchhikers Guide to the Galaxy – 30th Anniversary Edition – Free Play Online",
+    "url": "https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition",
+    "upvotes": 159,
+    "author": "sep_field",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26221211"
   },
   {
     "title": "Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes",
     "url": "https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "pseudolus",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26218938"
+  },
+  {
+    "title": "Go is not an easy language",
+    "url": "https://www.arp242.net/go-easy.html",
+    "upvotes": 269,
+    "author": "jen20",
+    "comments": 179,
+    "link": "https://news.ycombinator.com/item?id=26220693"
+  },
+  {
+    "title": "YouTube blocked chess channel after mistaken detection of racial slurs",
+    "url": "https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html",
+    "upvotes": 370,
+    "author": "anigbrowl",
+    "comments": 399,
+    "link": "https://news.ycombinator.com/item?id=26218476"
   },
   {
     "title": "The Source Code Control System",
     "url": "https://basepath.com/aup/talks/SCCS-Slideshow.pdf",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "rdpintqogeogsaa",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26211920"
@@ -134,105 +158,81 @@
   {
     "title": "Super Mario 64 Decompilation",
     "url": "https://github.com/n64decomp/sm64",
-    "upvotes": 83,
+    "upvotes": 90,
     "author": "jmacjmac",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26219661"
   },
   {
     "title": "A Data Pipeline Is a Materialized View",
     "url": "https://nchammas.com/writing/data-pipeline-materialized-view",
-    "upvotes": 94,
+    "upvotes": 98,
     "author": "nchammas",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26217911"
   },
   {
-    "title": "YouTube blocked chess channel after mistaken detection of racial slurs",
-    "url": "https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html",
-    "upvotes": 352,
-    "author": "anigbrowl",
-    "comments": 392,
-    "link": "https://news.ycombinator.com/item?id=26218476"
-  },
-  {
-    "title": "Project Xanadu",
-    "url": "https://en.wikipedia.org/wiki/Project_Xanadu",
-    "upvotes": 121,
-    "author": "alokrai",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=26216036"
+    "title": "Intensional Logic in Context – from philosophy to technology",
+    "url": "https://billwadge.wordpress.com/2021/02/21/intensional-logic-in-context-from-philosophy-to-technology/",
+    "upvotes": 3,
+    "author": "unclefuzzy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26215417"
   },
   {
     "title": "Feedback Welcome: I am developing an e-paper calendar as a consumer product",
     "url": "https://www.invisible-computers.com/",
-    "upvotes": 126,
+    "upvotes": 129,
     "author": "konschubert",
-    "comments": 143,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=26216357"
   },
   {
-    "title": "Designing for Voice User Interfaces",
-    "url": "https://blog.snappymob.com/designing-for-voice-user-interfaces-principles-and-best-practices",
-    "upvotes": 34,
-    "author": "allending",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26213122"
+    "title": "Project Xanadu",
+    "url": "https://en.wikipedia.org/wiki/Project_Xanadu",
+    "upvotes": 122,
+    "author": "alokrai",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=26216036"
   },
   {
     "title": "‘It just blew fire’: Kauai woman watched as an engine fell apart on flight 328",
     "url": "https://www.hawaiinewsnow.com/2021/02/21/it-just-blew-fire-kauai-woman-watched-engine-failed-united-flight/",
     "upvotes": 85,
     "author": "lightlyused",
-    "comments": 114,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=26216509"
+  },
+  {
+    "title": "Mistakes I've Made as an Engineering Manager",
+    "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
+    "upvotes": 400,
+    "author": "sebg",
+    "comments": 144,
+    "link": "https://news.ycombinator.com/item?id=26216016"
+  },
+  {
+    "title": "Data Immutability, Verifiability and Integrity Without the Blockchain Overhead",
+    "url": "https://techtake.info/2021/02/16/data-immutability-verifiability-and-integrity-without-the-blockchain-overhead/",
+    "upvotes": 11,
+    "author": "sidcool",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26221324"
   },
   {
     "title": "Biocrusts Are an Entire World Beneath Our Feet",
     "url": "https://www.atlasobscura.com/articles/what-is-a-biocrust",
-    "upvotes": 35,
+    "upvotes": 36,
     "author": "pseudolus",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26203475"
   },
   {
-    "title": "Mistakes I've Made as an Engineering Manager",
-    "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
-    "upvotes": 395,
-    "author": "sebg",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=26216016"
-  },
-  {
-    "title": "The modern packager’s security nightmare",
-    "url": "https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/",
-    "upvotes": 287,
-    "author": "summm",
-    "comments": 227,
-    "link": "https://news.ycombinator.com/item?id=26203853"
-  },
-  {
     "title": "TransferWise changes name to Wise",
     "url": "https://wise.com/gb/blog/world-meet-wise",
-    "upvotes": 193,
+    "upvotes": 195,
     "author": "watbe",
-    "comments": 155,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=26218693"
-  },
-  {
-    "title": "I Am Bezos",
-    "url": "https://iambezos.com",
-    "upvotes": 108,
-    "author": "diimdeep",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26222503"
-  },
-  {
-    "title": "Data Immutability, Verifiability and Integrity Without the Blockchain Overhead",
-    "url": "https://techtake.info/2021/02/16/data-immutability-verifiability-and-integrity-without-the-blockchain-overhead/",
-    "upvotes": 10,
-    "author": "sidcool",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26221324"
   }
 ]
