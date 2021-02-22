@@ -1,140 +1,164 @@
 [
   {
-    "title": "Virtual passport app presents real data risk, experts warn",
-    "url": "https://www.cbc.ca/news/canada/ottawa/passport-application-online-program-1.5920625",
-    "upvotes": 85,
-    "author": "pseudolus",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26223347"
-  },
-  {
     "title": "SwiftGraphQL – A GraphQL client that lets you forget about GraphQL",
     "url": "http://github.com/maticzav/swift-graphql",
-    "upvotes": 33,
+    "upvotes": 51,
     "author": "maticzav",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26224060"
-  },
-  {
-    "title": "Korean Air, Asiana to ground Boeing 777 after engine incident",
-    "url": "http://www.koreaherald.com/view.php?ud=20210222001051",
-    "upvotes": 114,
-    "author": "dlcmh",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26222386"
   },
   {
     "title": "Research software code is likely to remain a tangled mess",
     "url": "http://shape-of-code.coding-guidelines.com/2021/02/21/research-software-code-is-likely-to-remain-a-tangled-mess/",
-    "upvotes": 45,
+    "upvotes": 65,
     "author": "hacksilver",
-    "comments": 58,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26223114"
-  },
-  {
-    "title": "Nuklear: A cross-platform GUI library in C",
-    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
-    "upvotes": 274,
-    "author": "ducktective",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=26212787"
   },
   {
     "title": "My tutorial and take on C++20 coroutines",
     "url": "https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html",
-    "upvotes": 109,
+    "upvotes": 118,
     "author": "erwan",
     "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26221690"
   },
   {
+    "title": "Launch HN: H3X (YC W21) – High power density electric aircraft motors",
+    "url": "item?id=26224709",
+    "upvotes": 12,
+    "author": "jjsylvestre",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26224709"
+  },
+  {
+    "title": "Nuklear: A cross-platform GUI library in C",
+    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+    "upvotes": 283,
+    "author": "ducktective",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26212787"
+  },
+  {
     "title": "What Is Huffman Coding?",
     "url": "https://www.baseclass.io/huffman-coding/",
-    "upvotes": 241,
+    "upvotes": 252,
     "author": "davethedevguy",
-    "comments": 49,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26203282"
   },
   {
-    "title": "Enable hibernation when Lockdown is enabled",
-    "url": "https://lore.kernel.org/lkml/20210220013255.1083202-1-matthewgarrett@google.com/T/#u",
-    "upvotes": 57,
-    "author": "doener",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26222160"
+    "title": "Traitor: Linux privilege escalation made easy",
+    "url": "https://github.com/liamg/traitor",
+    "upvotes": 6,
+    "author": "draugadrotten",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26224719"
   },
   {
     "title": "JIT-Compiling SQL Queries in PostgreSQL Using LLVM",
     "url": "https://www.pgcon.org/2017/schedule/events/1092.en.html",
-    "upvotes": 81,
+    "upvotes": 93,
     "author": "croh",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26211895"
   },
   {
-    "title": "Why Does the Pandemic Seem to Be Hitting Some Countries Harder Than Others?",
-    "url": "https://www.newyorker.com/magazine/2021/03/01/why-does-the-pandemic-seem-to-be-hitting-some-countries-harder-than-others",
-    "upvotes": 23,
-    "author": "irtefa",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26224034"
+    "title": "Enable hibernation when Lockdown is enabled",
+    "url": "https://lore.kernel.org/lkml/20210220013255.1083202-1-matthewgarrett@google.com/T/#u",
+    "upvotes": 60,
+    "author": "doener",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26222160"
+  },
+  {
+    "title": "Tasks, microtasks, queues and schedules – JakeArchibald.com",
+    "url": "https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/",
+    "upvotes": 3,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26224488"
   },
   {
     "title": "Jupiter",
     "url": "https://jupiter.co/careers"
   },
   {
+    "title": "Indian Government Breached, Massive Amount of Critical Vulnerabilities",
+    "url": "https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/",
+    "upvotes": 203,
+    "author": "astroanax",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26221607"
+  },
+  {
     "title": "Kea parrots perform domain-general statistical inference",
     "url": "https://www.nature.com/articles/s41467-020-14695-1",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "giorgiop",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26221751"
   },
   {
-    "title": "Passerine: A small extensible language designed for concise expression",
-    "url": "http://passerine.io",
-    "upvotes": 202,
-    "author": "isaacimagine",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=26212491"
+    "title": "Virtual passport app presents real data risk, experts warn",
+    "url": "https://www.cbc.ca/news/canada/ottawa/passport-application-online-program-1.5920625",
+    "upvotes": 100,
+    "author": "pseudolus",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26223347"
   },
   {
-    "title": "Indian Government Breached, Massive Amount of Critical Vulnerabilities",
-    "url": "https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/",
-    "upvotes": 191,
-    "author": "astroanax",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26221607"
+    "title": "Ethereum Isn't Fun Anymore",
+    "url": "https://timdaub.github.io/2021/02/22/ethereum-isnt-fun-anymore/",
+    "upvotes": 153,
+    "author": "timdaub",
+    "comments": 266,
+    "link": "https://news.ycombinator.com/item?id=26222709"
+  },
+  {
+    "title": "Daft Punk Call It Quits",
+    "url": "https://pitchfork.com/news/daft-punk-call-it-quits/",
+    "upvotes": 5,
+    "author": "psychanarch",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26225201"
+  },
+  {
+    "title": "TransferWise changes name to Wise",
+    "url": "https://wise.com/gb/blog/world-meet-wise",
+    "upvotes": 213,
+    "author": "watbe",
+    "comments": 202,
+    "link": "https://news.ycombinator.com/item?id=26218693"
+  },
+  {
+    "title": "Korean Air, Asiana to ground Boeing 777 after engine incident",
+    "url": "http://www.koreaherald.com/view.php?ud=20210222001051",
+    "upvotes": 130,
+    "author": "dlcmh",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26222386"
   },
   {
     "title": "Finite State Machines",
     "url": "https://adlrocha.substack.com/p/adlrocha-finite-state-machines",
-    "upvotes": 61,
+    "upvotes": 66,
     "author": "adlrocha",
-    "comments": 16,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26212686"
-  },
-  {
-    "title": "YouTube blocked chess channel after mistaken detection of racial slurs",
-    "url": "https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html",
-    "upvotes": 453,
-    "author": "anigbrowl",
-    "comments": 450,
-    "link": "https://news.ycombinator.com/item?id=26218476"
   },
   {
     "title": "Doomsday Ships Were Ready to Ride Out Nuclear Armageddon Before Doomsday Planes",
     "url": "https://www.thedrive.com/the-war-zone/39301/there-were-doomsday-ships-ready-to-ride-out-nuclear-armageddon-before-there-were-doomsday-planes",
-    "upvotes": 76,
+    "upvotes": 80,
     "author": "pseudolus",
-    "comments": 61,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26218938"
   },
   {
     "title": "Intensional Logic in Context – from philosophy to technology",
     "url": "https://billwadge.wordpress.com/2021/02/21/intensional-logic-in-context-from-philosophy-to-technology/",
-    "upvotes": 12,
+    "upvotes": 16,
     "author": "unclefuzzy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26215417"
@@ -142,97 +166,73 @@
   {
     "title": "Super Mario 64 Decompilation",
     "url": "https://github.com/n64decomp/sm64",
-    "upvotes": 118,
+    "upvotes": 124,
     "author": "jmacjmac",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26219661"
-  },
-  {
-    "title": "Hitchhikers Guide to the Galaxy – 30th Anniversary Edition – Free Play Online",
-    "url": "https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition",
-    "upvotes": 207,
-    "author": "sep_field",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26221211"
-  },
-  {
-    "title": "Twitter locks out Irish Bishop after he criticized euthanasia",
-    "url": "https://reclaimthenet.org/twitter-locks-out-irish-bishop-after-he-criticized-euthanasia/",
-    "upvotes": 185,
-    "author": "URfejk",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=26223303"
-  },
-  {
-    "title": "The Source Code Control System",
-    "url": "https://basepath.com/aup/talks/SCCS-Slideshow.pdf",
-    "upvotes": 39,
-    "author": "rdpintqogeogsaa",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26211920"
-  },
-  {
-    "title": "Data Immutability, Verifiability and Integrity Without the Blockchain Overhead",
-    "url": "https://techtake.info/2021/02/16/data-immutability-verifiability-and-integrity-without-the-blockchain-overhead/",
-    "upvotes": 27,
-    "author": "sidcool",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26221324"
   },
   {
     "title": "Go is not an easy language",
     "url": "https://www.arp242.net/go-easy.html",
-    "upvotes": 357,
+    "upvotes": 376,
     "author": "jen20",
-    "comments": 262,
+    "comments": 278,
     "link": "https://news.ycombinator.com/item?id=26220693"
   },
   {
-    "title": "Apparent hackers behind Kia ransomware attack demand millions in Bitcoin",
-    "url": "https://www.thedrive.com/tech/39309/the-apparent-hackers-behind-kias-ransomware-attack-are-demanding-millions-in-bitcoin",
-    "upvotes": 206,
-    "author": "ourmandave",
-    "comments": 250,
-    "link": "https://news.ycombinator.com/item?id=26217564"
-  },
-  {
-    "title": "Mistakes I've Made as an Engineering Manager",
-    "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
-    "upvotes": 439,
-    "author": "sebg",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=26216016"
+    "title": "The Viking Invasion of Leicestershire",
+    "url": "http://www.thiswasleicestershire.co.uk/2012/11/the-viking-invasion-of-leicestershire.html",
+    "upvotes": 50,
+    "author": "zeristor",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26212092"
   },
   {
     "title": "Earth’s magnetic field broke down 42k years ago, caused sudden climate change",
     "url": "https://theconversation.com/earths-magnetic-field-broke-down-42-000-years-ago-and-caused-massive-sudden-climate-change-155580",
-    "upvotes": 14,
+    "upvotes": 26,
     "author": "T-A",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26223402"
   },
   {
-    "title": "The modern packager’s security nightmare",
-    "url": "https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/",
-    "upvotes": 301,
-    "author": "summm",
-    "comments": 245,
-    "link": "https://news.ycombinator.com/item?id=26203853"
+    "title": "Hitchhikers Guide to the Galaxy – 30th Anniversary Edition – Free Play Online",
+    "url": "https://www.bbc.co.uk/programmes/articles/1g84m0sXpnNCv84GpN2PLZG/the-game-30th-anniversary-edition",
+    "upvotes": 216,
+    "author": "sep_field",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26221211"
   },
   {
-    "title": "Cross-Database Queries in SQLite",
-    "url": "https://simonwillison.net/2021/Feb/21/cross-database-queries/",
-    "upvotes": 177,
-    "author": "chmaynard",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=26217754"
+    "title": "YouTube blocked chess channel after mistaken detection of racial slurs",
+    "url": "https://www.news18.com/news/buzz/youtube-ai-blocked-chess-channel-after-confusing-black-and-white-for-racist-slurs-3454316.html",
+    "upvotes": 472,
+    "author": "anigbrowl",
+    "comments": 464,
+    "link": "https://news.ycombinator.com/item?id=26218476"
   },
   {
-    "title": "I paid for Spotify playlist placements so you don’t have to",
-    "url": "https://najinsan.wordpress.com/2021/02/15/i-paid-for-spotify-playlist-placements-so-you-dont-have-to/",
-    "upvotes": 211,
-    "author": "pgl",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=26205941"
+    "title": "Apple’s tech interview scope for junior position",
+    "url": "https://twitter.com/krzyzanowskim/status/1363640961318985729",
+    "upvotes": 61,
+    "author": "krzyzanowskim",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26222733"
+  },
+  {
+    "title": "MacBook Pro M1X benchmarks have leaked",
+    "url": "https://www.tomsguide.com/news/macbook-pro-m1x-benchmarks-just-leaked-and-intel-should-be-scared",
+    "upvotes": 73,
+    "author": "rbanffy",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26223300"
+  },
+  {
+    "title": "The Source Code Control System",
+    "url": "https://basepath.com/aup/talks/SCCS-Slideshow.pdf",
+    "upvotes": 41,
+    "author": "rdpintqogeogsaa",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26211920"
   }
 ]
