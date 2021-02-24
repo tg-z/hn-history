@@ -2,131 +2,131 @@
   {
     "title": "State Partitioning",
     "url": "https://hacks.mozilla.org/2021/02/introducing-state-partitioning/",
-    "upvotes": 92,
+    "upvotes": 104,
     "author": "oedmarap",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26248595"
   },
   {
     "title": "LinkedIn is building a gig marketplace",
     "url": "https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/",
-    "upvotes": 212,
+    "upvotes": 217,
     "author": "ArtTimeInvestor",
-    "comments": 179,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=26247278"
   },
   {
     "title": "BBC Micro at 40: How it inspired a generation of coders [video]",
     "url": "https://www.bbc.co.uk/news/technology-56098808",
-    "upvotes": 55,
+    "upvotes": 65,
     "author": "zeristor",
-    "comments": 34,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26247933"
+  },
+  {
+    "title": "Modules, Monoliths, and Microservices",
+    "url": "https://tailscale.com/blog/modules-monoliths-and-microservices/",
+    "upvotes": 170,
+    "author": "kozmico",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26247052"
+  },
+  {
+    "title": "Launch HN: Weweb.io (YC W21) – Create websites visually using JAMstack tools",
+    "url": "item?id=26248123",
+    "upvotes": 72,
+    "author": "raphael-gold",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26248123"
   },
   {
     "title": "Show HN: I built a cute, little isometric block stacking editor in QML",
     "url": "https://www.kdab.com/3d-block-building-game/",
     "upvotes": 34,
     "author": "wuschelhase",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26248502"
   },
   {
-    "title": "Launch HN: Weweb.io (YC W21) – Create websites visually using JAMstack tools",
-    "url": "item?id=26248123",
-    "upvotes": 71,
-    "author": "raphael-gold",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26248123"
-  },
-  {
-    "title": "Modules, Monoliths, and Microservices",
-    "url": "https://tailscale.com/blog/modules-monoliths-and-microservices/",
-    "upvotes": 169,
-    "author": "kozmico",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26247052"
-  },
-  {
-    "title": "M1 Mac owners are experiencing high SSD writes over short periods of time",
-    "url": "https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/",
-    "upvotes": 603,
-    "author": "voisin",
-    "comments": 416,
-    "link": "https://news.ycombinator.com/item?id=26244093"
+    "title": "Two fighter pilots passed out over Nevada last year. Software saved them both",
+    "url": "https://www.popsci.com/story/technology/agcas-technology-saves-pilots-lives/",
+    "upvotes": 50,
+    "author": "prostoalex",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26230732"
   },
   {
     "title": "Streak",
     "url": "https://www.streak.com/careers/product-engineer"
   },
   {
-    "title": "Two fighter pilots passed out over Nevada last year. Software saved them both",
-    "url": "https://www.popsci.com/story/technology/agcas-technology-saves-pilots-lives/",
-    "upvotes": 47,
-    "author": "prostoalex",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26230732"
+    "title": "M1 Mac owners are experiencing high SSD writes over short periods of time",
+    "url": "https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/",
+    "upvotes": 608,
+    "author": "voisin",
+    "comments": 420,
+    "link": "https://news.ycombinator.com/item?id=26244093"
   },
   {
     "title": "Cloud-Making Aerosol Could Devastate Polar Sea Ice",
     "url": "https://www.quantamagazine.org/cloud-making-aerosol-could-devastate-polar-sea-ice-20210223/",
-    "upvotes": 8,
+    "upvotes": 11,
     "author": "pseudolus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26248814"
   },
   {
-    "title": "Making Games on Your Own as an Engineer",
-    "url": "https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/",
-    "upvotes": 200,
-    "author": "Eyas",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26246049"
-  },
-  {
     "title": "The Trouble with Cassandra: Why It's a Poor Choice for Object Store Metadata DB",
     "url": "https://blog.min.io/the-trouble-with-cassandra-based-object-stores/",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "jasim",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26248507"
+  },
+  {
+    "title": "Making Games on Your Own as an Engineer",
+    "url": "https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/",
+    "upvotes": 208,
+    "author": "Eyas",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26246049"
   },
   {
     "title": "Building an E-Ink Laptop",
     "url": "https://alexsoto.dev/building-an-e-ink-laptop.html",
-    "upvotes": 234,
+    "upvotes": 236,
     "author": "alex-a-soto",
-    "comments": 114,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=26245563"
-  },
-  {
-    "title": "Beeple Mania",
-    "url": "https://www.esquire.com/entertainment/a35500985/who-is-beeple-mike-winkelmann-nft-interview/",
-    "upvotes": 5,
-    "author": "dadt",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26243116"
   },
   {
     "title": "50 Years of Pascal",
     "url": "https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext",
-    "upvotes": 123,
+    "upvotes": 129,
     "author": "matt_d",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26244281"
+  },
+  {
+    "title": "Fuzzy Name Matching in Postgres",
+    "url": "https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql",
+    "upvotes": 44,
+    "author": "polm23",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26236772"
   },
   {
     "title": "Nim versions 1.4.4 and 1.2.10",
     "url": "https://nim-lang.org/blog/2021/02/23/versions-144-and-1210-released.html",
-    "upvotes": 61,
+    "upvotes": 69,
     "author": "0-_-0",
-    "comments": 17,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26248134"
   },
   {
     "title": "RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi",
     "url": "https://github.com/akuker/RASCSI/wiki",
-    "upvotes": 54,
+    "upvotes": 58,
     "author": "todsacerdoti",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26247078"
@@ -134,17 +134,33 @@
   {
     "title": "Architecture of the Playstation 2",
     "url": "https://www.copetti.org/writings/consoles/playstation-2/",
-    "upvotes": 258,
+    "upvotes": 261,
     "author": "biwasa",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26243964"
   },
   {
+    "title": "Beeple Mania",
+    "url": "https://www.esquire.com/entertainment/a35500985/who-is-beeple-mike-winkelmann-nft-interview/",
+    "upvotes": 6,
+    "author": "dadt",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26243116"
+  },
+  {
+    "title": "Enabling Rich Statistical Analyses with Differential Privacy",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/workloads-counting-queries-enabling-rich-statistical-analyses",
+    "upvotes": 7,
+    "author": "oedmarap",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26248600"
+  },
+  {
     "title": "Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study",
     "url": "https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0",
-    "upvotes": 65,
+    "upvotes": 67,
     "author": "tempestn",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26248002"
   },
   {
@@ -152,37 +168,21 @@
     "url": "https://chadaustin.me/2021/02/wired-sculpt/",
     "upvotes": 51,
     "author": "yuribro",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26223805"
-  },
-  {
-    "title": "Fuzzy Name Matching in Postgres",
-    "url": "https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql",
-    "upvotes": 38,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26236772"
-  },
-  {
-    "title": "Enabling Rich Statistical Analyses with Differential Privacy",
-    "url": "https://www.nist.gov/blogs/cybersecurity-insights/workloads-counting-queries-enabling-rich-statistical-analyses",
-    "upvotes": 6,
-    "author": "oedmarap",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26248600"
   },
   {
     "title": "Launch HN: GreaseBoss (YC W21) – Real-time system to manage industrial greasing",
     "url": "item?id=26240581",
-    "upvotes": 220,
+    "upvotes": 221,
     "author": "SteveGreaseBoss",
-    "comments": 137,
+    "comments": 138,
     "link": "https://news.ycombinator.com/item?id=26240581"
   },
   {
     "title": "Total Cookie Protection",
     "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/",
-    "upvotes": 1414,
+    "upvotes": 1418,
     "author": "todsacerdoti",
     "comments": 396,
     "link": "https://news.ycombinator.com/item?id=26237404"
@@ -190,49 +190,49 @@
   {
     "title": "Buttergate: Why are Canadians complaining about hard butter?",
     "url": "https://www.bbc.com/news/world-us-canada-56175784",
-    "upvotes": 28,
+    "upvotes": 30,
     "author": "curmudgeon22",
-    "comments": 16,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26247165"
+  },
+  {
+    "title": "Logarithmic Maps of the Universe",
+    "url": "https://www.astro.princeton.edu/universe/",
+    "upvotes": 118,
+    "author": "autoditype",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26245502"
   },
   {
     "title": "Show HN: Test your Gitlab CI Pipelines changes locally using Docker",
     "url": "https://github.com/mdubourg001/glci",
     "upvotes": 21,
     "author": "damnhotuser",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26236677"
   },
   {
-    "title": "Logarithmic Maps of the Universe",
-    "url": "https://www.astro.princeton.edu/universe/",
-    "upvotes": 112,
-    "author": "autoditype",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26245502"
+    "title": "Fry's Electronics is closing all stores",
+    "url": "https://twitter.com/bill0004/status/1364407906192424964",
+    "upvotes": 355,
+    "author": "synack",
+    "comments": 201,
+    "link": "https://news.ycombinator.com/item?id=26246435"
   },
   {
     "title": "The grisly trials that gave poison to prisoners",
     "url": "https://www.nature.com/articles/d41586-021-00077-0",
     "upvotes": 29,
     "author": "Petiver",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26247299"
-  },
-  {
-    "title": "Fry's Electronics is closing all stores",
-    "url": "https://twitter.com/bill0004/status/1364407906192424964",
-    "upvotes": 347,
-    "author": "synack",
-    "comments": 198,
-    "link": "https://news.ycombinator.com/item?id=26246435"
   },
   {
     "title": "Free for Developers",
     "url": "https://free-for.dev/#/",
-    "upvotes": 802,
+    "upvotes": 809,
     "author": "fs111",
-    "comments": 170,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=26239711"
   }
 ]
