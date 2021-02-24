@@ -1,238 +1,242 @@
 [
   {
-    "title": "Nim versions 1.4.4 and 1.2.10 released",
-    "url": "https://nim-lang.org/blog/2021/02/23/versions-144-and-1210-released.html",
-    "upvotes": 41,
-    "author": "0-_-0",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26248134"
+    "title": "State Partitioning",
+    "url": "https://hacks.mozilla.org/2021/02/introducing-state-partitioning/",
+    "upvotes": 45,
+    "author": "oedmarap",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26248595"
   },
   {
     "title": "LinkedIn is building a gig marketplace",
     "url": "https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/",
-    "upvotes": 176,
+    "upvotes": 184,
     "author": "ArtTimeInvestor",
-    "comments": 143,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=26247278"
   },
   {
     "title": "Modules, Monoliths, and Microservices",
     "url": "https://tailscale.com/blog/modules-monoliths-and-microservices/",
-    "upvotes": 137,
+    "upvotes": 145,
     "author": "kozmico",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26247052"
-  },
-  {
-    "title": "Firefox Introduces State Partitioning",
-    "url": "https://hacks.mozilla.org/2021/02/introducing-state-partitioning/",
-    "upvotes": 5,
-    "author": "oedmarap",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26248595"
   },
   {
     "title": "Launch HN: Weweb.io (YC W21) – Create websites visually using JAMstack tools",
     "url": "item?id=26248123",
-    "upvotes": 38,
+    "upvotes": 53,
     "author": "raphael-gold",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26248123"
   },
   {
     "title": "M1 Mac owners are experiencing high SSD writes over short periods of time",
     "url": "https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/",
-    "upvotes": 563,
+    "upvotes": 577,
     "author": "voisin",
-    "comments": 383,
+    "comments": 391,
     "link": "https://news.ycombinator.com/item?id=26244093"
   },
   {
-    "title": "BBC Micro at 40: How it inspired a generation of coders",
+    "title": "BBC Micro at 40: How it inspired a generation of coders [video]",
     "url": "https://www.bbc.co.uk/news/technology-56098808",
-    "upvotes": 21,
+    "upvotes": 35,
     "author": "zeristor",
-    "comments": 14,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26247933"
   },
   {
     "title": "Making Games on Your Own as an Engineer",
     "url": "https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/",
-    "upvotes": 180,
+    "upvotes": 191,
     "author": "Eyas",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26246049"
   },
   {
+    "title": "Show HN: I built a cute, little isometric block stacking editor in QML",
+    "url": "https://www.kdab.com/3d-block-building-game/",
+    "upvotes": 16,
+    "author": "wuschelhase",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26248502"
+  },
+  {
     "title": "Building an E-Ink Laptop",
     "url": "https://alexsoto.dev/building-an-e-ink-laptop.html",
-    "upvotes": 204,
+    "upvotes": 212,
     "author": "alex-a-soto",
-    "comments": 91,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26245563"
+  },
+  {
+    "title": "Nim versions 1.4.4 and 1.2.10",
+    "url": "https://nim-lang.org/blog/2021/02/23/versions-144-and-1210-released.html",
+    "upvotes": 50,
+    "author": "0-_-0",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26248134"
   },
   {
     "title": "RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi",
     "url": "https://github.com/akuker/RASCSI/wiki",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "todsacerdoti",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26247078"
   },
   {
     "title": "Two fighter pilots passed out over Nevada last year. Software saved them both",
     "url": "https://www.popsci.com/story/technology/agcas-technology-saves-pilots-lives/",
-    "upvotes": 13,
+    "upvotes": 24,
     "author": "prostoalex",
-    "comments": 3,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26230732"
-  },
-  {
-    "title": "50 Years of Pascal",
-    "url": "https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext",
-    "upvotes": 106,
-    "author": "matt_d",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26244281"
   },
   {
     "title": "10 Years of Open-Source Visualization: Did I learn anything from D3.js?",
     "url": "https://observablehq.com/@mbostock/10-years-of-open-source-visualization",
-    "upvotes": 313,
+    "upvotes": 324,
     "author": "serial_dev",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26240339"
+  },
+  {
+    "title": "50 Years of Pascal",
+    "url": "https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext",
+    "upvotes": 112,
+    "author": "matt_d",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26244281"
   },
   {
     "title": "Architecture of the Playstation 2",
     "url": "https://www.copetti.org/writings/consoles/playstation-2/",
-    "upvotes": 241,
+    "upvotes": 247,
     "author": "biwasa",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26243964"
-  },
-  {
-    "title": "Show HN: I built a cute, little isometric block stacking editor in QML",
-    "url": "https://www.kdab.com/3d-block-building-game/",
-    "upvotes": 5,
-    "author": "wuschelhase",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26248502"
-  },
-  {
-    "title": "Microsoft Sculpt Wired Conversion Mod",
-    "url": "https://chadaustin.me/2021/02/wired-sculpt/",
-    "upvotes": 36,
-    "author": "yuribro",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26223805"
   },
   {
     "title": "Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study",
     "url": "https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0",
-    "upvotes": 30,
+    "upvotes": 44,
     "author": "tempestn",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26248002"
+  },
+  {
+    "title": "Microsoft Sculpt Wired Conversion Mod",
+    "url": "https://chadaustin.me/2021/02/wired-sculpt/",
+    "upvotes": 40,
+    "author": "yuribro",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26223805"
+  },
+  {
+    "title": "Enabling Rich Statistical Analyses with Differential Privacy",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/workloads-counting-queries-enabling-rich-statistical-analyses",
+    "upvotes": 3,
+    "author": "oedmarap",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26248600"
   },
   {
     "title": "Launch HN: GreaseBoss (YC W21) – Real-time system to manage industrial greasing",
     "url": "item?id=26240581",
-    "upvotes": 214,
+    "upvotes": 217,
     "author": "SteveGreaseBoss",
     "comments": 133,
     "link": "https://news.ycombinator.com/item?id=26240581"
   },
   {
-    "title": "Fry's Electronics is closing all stores",
-    "url": "https://twitter.com/bill0004/status/1364407906192424964",
-    "upvotes": 325,
-    "author": "synack",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=26246435"
-  },
-  {
-    "title": "Total Cookie Protection",
-    "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/",
-    "upvotes": 1398,
-    "author": "todsacerdoti",
-    "comments": 391,
-    "link": "https://news.ycombinator.com/item?id=26237404"
+    "title": "Buttergate: Why are Canadians complaining about hard butter?",
+    "url": "https://www.bbc.com/news/world-us-canada-56175784",
+    "upvotes": 19,
+    "author": "curmudgeon22",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26247165"
   },
   {
     "title": "The grisly trials that gave poison to prisoners",
     "url": "https://www.nature.com/articles/d41586-021-00077-0",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "Petiver",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26247299"
   },
   {
-    "title": "Buttergate: Why are Canadians complaining about hard butter?",
-    "url": "https://www.bbc.com/news/world-us-canada-56175784",
-    "upvotes": 15,
-    "author": "curmudgeon22",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26247165"
+    "title": "Total Cookie Protection",
+    "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/",
+    "upvotes": 1401,
+    "author": "todsacerdoti",
+    "comments": 394,
+    "link": "https://news.ycombinator.com/item?id=26237404"
   },
   {
-    "title": "Try to guess if code is real or GPT2-generated",
-    "url": "https://doesnotexist.codes",
-    "upvotes": 183,
-    "author": "AlexDenisov",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26242264"
-  },
-  {
-    "title": "Lawrence Ferlinghetti has died",
-    "url": "https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html",
-    "upvotes": 129,
-    "author": "thedday",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26241780"
-  },
-  {
-    "title": "Show HN: Test your Gitlab CI Pipelines changes locally using Docker",
-    "url": "https://github.com/mdubourg001/glci",
-    "upvotes": 10,
-    "author": "damnhotuser",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26236677"
-  },
-  {
-    "title": "Free for Developers",
-    "url": "https://free-for.dev/#/",
-    "upvotes": 769,
-    "author": "fs111",
-    "comments": 165,
-    "link": "https://news.ycombinator.com/item?id=26239711"
-  },
-  {
-    "title": "On Writing More",
-    "url": "https://ava.substack.com/p/on-writing-more",
-    "upvotes": 97,
-    "author": "riverlong",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26246619"
-  },
-  {
-    "title": "How should economists think about biodiversity?",
-    "url": "https://www.economist.com/finance-and-economics/2021/02/06/how-should-economists-think-about-biodiversity",
-    "upvotes": 50,
-    "author": "prostoalex",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26230992"
+    "title": "Fry's Electronics is closing all stores",
+    "url": "https://twitter.com/bill0004/status/1364407906192424964",
+    "upvotes": 329,
+    "author": "synack",
+    "comments": 195,
+    "link": "https://news.ycombinator.com/item?id=26246435"
   },
   {
     "title": "Logarithmic Maps of the Universe",
     "url": "https://www.astro.princeton.edu/universe/",
-    "upvotes": 102,
+    "upvotes": 108,
     "author": "autoditype",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26245502"
   },
   {
-    "title": "Impraise",
-    "url": "https://jobs.impraise.com/o/senior-backend-developer"
+    "title": "The Trouble with Cassandra: Why It's a Poor Choice for Object Store Metadata DB",
+    "url": "https://blog.min.io/the-trouble-with-cassandra-based-object-stores/",
+    "upvotes": 3,
+    "author": "jasim",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26248507"
+  },
+  {
+    "title": "Show HN: Test your Gitlab CI Pipelines changes locally using Docker",
+    "url": "https://github.com/mdubourg001/glci",
+    "upvotes": 16,
+    "author": "damnhotuser",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26236677"
+  },
+  {
+    "title": "Lawrence Ferlinghetti has died",
+    "url": "https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html",
+    "upvotes": 130,
+    "author": "thedday",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26241780"
+  },
+  {
+    "title": "Tweaking Corn Kernels with Crispr",
+    "url": "https://phys.org/news/2021-02-tweaking-corn-kernels-crispr.html",
+    "upvotes": 12,
+    "author": "sigmaprimus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26236731"
+  },
+  {
+    "title": "How should economists think about biodiversity?",
+    "url": "https://www.economist.com/finance-and-economics/2021/02/06/how-should-economists-think-about-biodiversity",
+    "upvotes": 56,
+    "author": "prostoalex",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26230992"
+  },
+  {
+    "title": "Cproxy: Per app transparent proxy built on Linux cgroup net_cls",
+    "url": "https://github.com/NOBLES5E/cproxy",
+    "upvotes": 23,
+    "author": "lian0",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26247266"
   }
 ]
