@@ -2,95 +2,87 @@
   {
     "title": "LinkedIn is building a gig marketplace, taking on UpWork and Fiverr",
     "url": "https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/",
-    "upvotes": 77,
+    "upvotes": 108,
     "author": "ArtTimeInvestor",
-    "comments": 35,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26247278"
-  },
-  {
-    "title": "RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi",
-    "url": "https://github.com/akuker/RASCSI/wiki",
-    "upvotes": 31,
-    "author": "todsacerdoti",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26247078"
-  },
-  {
-    "title": "M1 Mac owners are experiencing high SSD writes over short periods of time",
-    "url": "https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/",
-    "upvotes": 469,
-    "author": "voisin",
-    "comments": 318,
-    "link": "https://news.ycombinator.com/item?id=26244093"
   },
   {
     "title": "Modules, Monoliths, and Microservices",
     "url": "https://tailscale.com/blog/modules-monoliths-and-microservices/",
-    "upvotes": 39,
+    "upvotes": 67,
     "author": "kozmico",
-    "comments": 2,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26247052"
+  },
+  {
+    "title": "M1 Mac owners are experiencing high SSD writes over short periods of time",
+    "url": "https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/",
+    "upvotes": 493,
+    "author": "voisin",
+    "comments": 329,
+    "link": "https://news.ycombinator.com/item?id=26244093"
+  },
+  {
+    "title": "RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi",
+    "url": "https://github.com/akuker/RASCSI/wiki",
+    "upvotes": 34,
+    "author": "todsacerdoti",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26247078"
   },
   {
     "title": "Making Games on Your Own as an Engineer",
     "url": "https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/",
-    "upvotes": 129,
+    "upvotes": 142,
     "author": "Eyas",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26246049"
   },
   {
     "title": "Building an E-Ink Laptop",
     "url": "https://alexsoto.dev/building-an-e-ink-laptop.html",
-    "upvotes": 150,
+    "upvotes": 166,
     "author": "alex-a-soto",
-    "comments": 68,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26245563"
-  },
-  {
-    "title": "Free for Developers",
-    "url": "https://free-for.dev/#/",
-    "upvotes": 722,
-    "author": "fs111",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=26239711"
   },
   {
     "title": "Microsoft Sculpt Wired Conversion Mod",
     "url": "https://chadaustin.me/2021/02/wired-sculpt/",
-    "upvotes": 12,
+    "upvotes": 17,
     "author": "yuribro",
-    "comments": null,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26223805"
   },
   {
     "title": "10 Years of Open-Source Visualization: Did I learn anything from D3.js?",
     "url": "https://observablehq.com/@mbostock/10-years-of-open-source-visualization",
-    "upvotes": 256,
+    "upvotes": 268,
     "author": "serial_dev",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26240339"
   },
   {
     "title": "Fry's Electronics is closing all stores",
     "url": "https://twitter.com/bill0004/status/1364407906192424964",
-    "upvotes": 267,
+    "upvotes": 283,
     "author": "synack",
-    "comments": 157,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=26246435"
   },
   {
     "title": "Architecture of the Playstation 2",
     "url": "https://www.copetti.org/writings/consoles/playstation-2/",
-    "upvotes": 198,
+    "upvotes": 205,
     "author": "biwasa",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26243964"
   },
   {
     "title": "50 Years of Pascal",
     "url": "https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext",
-    "upvotes": 66,
+    "upvotes": 73,
     "author": "matt_d",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26244281"
@@ -98,141 +90,149 @@
   {
     "title": "Launch HN: GreaseBoss (YC W21) – Real-time system to manage industrial greasing",
     "url": "item?id=26240581",
-    "upvotes": 200,
+    "upvotes": 205,
     "author": "SteveGreaseBoss",
     "comments": 129,
     "link": "https://news.ycombinator.com/item?id=26240581"
   },
   {
-    "title": "On Writing More",
-    "url": "https://ava.substack.com/p/on-writing-more",
-    "upvotes": 82,
-    "author": "riverlong",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26246619"
+    "title": "The grisly trials that gave poison to prisoners",
+    "url": "https://www.nature.com/articles/d41586-021-00077-0",
+    "upvotes": 9,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26247299"
+  },
+  {
+    "title": "California’s coronavirus strain looks increasingly dangerous",
+    "url": "https://www.sandiegouniontribune.com/news/science/story/2021-02-23/california-homegrown-coronavirus-strain-looks-increasingly-transmissible-and-dangerous",
+    "upvotes": 29,
+    "author": "thereare5lights",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26247429"
   },
   {
     "title": "Total Cookie Protection",
     "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/",
-    "upvotes": 1357,
+    "upvotes": 1363,
     "author": "todsacerdoti",
-    "comments": 387,
+    "comments": 388,
     "link": "https://news.ycombinator.com/item?id=26237404"
   },
   {
-    "title": "How should economists think about biodiversity?",
-    "url": "https://www.economist.com/finance-and-economics/2021/02/06/how-should-economists-think-about-biodiversity",
-    "upvotes": 28,
-    "author": "prostoalex",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26230992"
-  },
-  {
-    "title": "USPS Selects Oshkosh Defense for Next Generation Delivery Vehicle Fleet",
-    "url": "https://oshkoshcorp.com/en/news/2-23-21-usps",
-    "upvotes": 37,
-    "author": "jonbaer",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26246116"
+    "title": "On Writing More",
+    "url": "https://ava.substack.com/p/on-writing-more",
+    "upvotes": 87,
+    "author": "riverlong",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26246619"
   },
   {
     "title": "Lawrence Ferlinghetti has died",
     "url": "https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html",
     "upvotes": 118,
     "author": "thedday",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26241780"
+  },
+  {
+    "title": "Tweaking Corn Kernels with Crispr",
+    "url": "https://phys.org/news/2021-02-tweaking-corn-kernels-crispr.html",
+    "upvotes": 3,
+    "author": "sigmaprimus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26236731"
   },
   {
     "title": "Logarithmic Maps of the Universe",
     "url": "https://www.astro.princeton.edu/universe/",
-    "upvotes": 77,
+    "upvotes": 87,
     "author": "autoditype",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26245502"
+  },
+  {
+    "title": "How should economists think about biodiversity?",
+    "url": "https://www.economist.com/finance-and-economics/2021/02/06/how-should-economists-think-about-biodiversity",
+    "upvotes": 35,
+    "author": "prostoalex",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26230992"
+  },
+  {
+    "title": "Free for Developers",
+    "url": "https://free-for.dev/#/",
+    "upvotes": 741,
+    "author": "fs111",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=26239711"
   },
   {
     "title": "Try to guess if code is real or GPT2-generated",
     "url": "https://doesnotexist.codes",
-    "upvotes": 147,
+    "upvotes": 150,
     "author": "AlexDenisov",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=26242264"
-  },
-  {
-    "title": "The grisly trials that gave poison to prisoners",
-    "url": "https://www.nature.com/articles/d41586-021-00077-0",
-    "upvotes": 5,
-    "author": "Petiver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26247299"
   },
   {
     "title": "The Thousand Brains Theory of Intelligence",
     "url": "https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/",
-    "upvotes": 163,
+    "upvotes": 165,
     "author": "hacksilver",
-    "comments": 55,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26240901"
   },
   {
     "title": "Open Source in the 5G Stack",
     "url": "https://github.blog/2021-02-23-open-source-in-the-5g-stack/",
-    "upvotes": 102,
+    "upvotes": 106,
     "author": "todsacerdoti",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26242659"
   },
   {
-    "title": "Avoid Contentious Terms",
-    "url": "https://www.jefftk.com/p/avoid-contentious-terms",
-    "upvotes": 62,
-    "author": "apsec112",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26246477"
+    "title": "Cproxy: Per app transparent proxy built on Linux cgroup net_cls",
+    "url": "https://github.com/NOBLES5E/cproxy",
+    "upvotes": 5,
+    "author": "lian0",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26247266"
   },
   {
-    "title": "FAA Statement on Pratt and Whitney Engine Emergency Airworthiness Directive",
-    "url": "https://www.faa.gov/news/updates/?newsId=96858",
-    "upvotes": 39,
-    "author": "infodocket",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26245577"
+    "title": "Show HN: Replace printf",
+    "url": "https://github.com/exebook/generic-print",
+    "upvotes": 73,
+    "author": "exebook",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26243495"
   },
   {
     "title": "Impraise",
     "url": "https://jobs.impraise.com/o/senior-backend-developer"
   },
   {
-    "title": "The Romantic Reputation of John Keats",
-    "url": "https://www.historytoday.com/archive/history-matters/romantic-reputation-john-keats",
-    "upvotes": 10,
-    "author": "apollinaire",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26232741"
+    "title": "FAA Statement on Pratt and Whitney Engine Emergency Airworthiness Directive",
+    "url": "https://www.faa.gov/news/updates/?newsId=96858",
+    "upvotes": 41,
+    "author": "infodocket",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26245577"
   },
   {
     "title": "An ancient Greek approach to risk and the lessons it can offer the modern world",
     "url": "https://theconversation.com/an-ancient-greek-approach-to-risk-and-the-lessons-it-can-offer-the-modern-world-154139",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "diodorus",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26231920"
   },
   {
-    "title": "California’s coronavirus strain looks increasingly dangerous",
-    "url": "https://www.sandiegouniontribune.com/news/science/story/2021-02-23/california-homegrown-coronavirus-strain-looks-increasingly-transmissible-and-dangerous",
-    "upvotes": 7,
-    "author": "thereare5lights",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26247429"
-  },
-  {
-    "title": "Add experimental fuzz test support for Go 1.17",
-    "url": "https://github.com/golang/go/issues/44551",
-    "upvotes": 104,
-    "author": "typical182",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26240692"
+    "title": "The Romantic Reputation of John Keats",
+    "url": "https://www.historytoday.com/archive/history-matters/romantic-reputation-john-keats",
+    "upvotes": 11,
+    "author": "apollinaire",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26232741"
   }
 ]
