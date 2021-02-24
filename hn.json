@@ -1,64 +1,72 @@
 [
   {
-    "title": "On Writing More",
-    "url": "https://ava.substack.com/p/on-writing-more",
-    "upvotes": 59,
-    "author": "riverlong",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26246619"
-  },
-  {
     "title": "M1 Mac owners are experiencing high SSD writes over short periods of time",
     "url": "https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/",
-    "upvotes": 410,
+    "upvotes": 425,
     "author": "voisin",
-    "comments": 286,
+    "comments": 300,
     "link": "https://news.ycombinator.com/item?id=26244093"
   },
   {
     "title": "Making Games on Your Own as an Engineer",
     "url": "https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/",
-    "upvotes": 87,
+    "upvotes": 96,
     "author": "Eyas",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26246049"
   },
   {
-    "title": "Fry's Electronics is closing all stores",
-    "url": "https://twitter.com/bill0004/status/1364407906192424964",
-    "upvotes": 210,
-    "author": "synack",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=26246435"
-  },
-  {
     "title": "Building an E-Ink Laptop",
     "url": "https://alexsoto.dev/building-an-e-ink-laptop.html",
-    "upvotes": 107,
+    "upvotes": 117,
     "author": "alex-a-soto",
-    "comments": 50,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26245563"
   },
   {
     "title": "Free for Developers",
     "url": "https://free-for.dev/#/",
-    "upvotes": 661,
+    "upvotes": 681,
     "author": "fs111",
-    "comments": 149,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=26239711"
+  },
+  {
+    "title": "Fry's Electronics is closing all stores",
+    "url": "https://twitter.com/bill0004/status/1364407906192424964",
+    "upvotes": 221,
+    "author": "synack",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=26246435"
+  },
+  {
+    "title": "LinkedIn is building a gig marketplace, taking on UpWork and Fiverr",
+    "url": "https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/",
+    "upvotes": 8,
+    "author": "ArtTimeInvestor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26247278"
+  },
+  {
+    "title": "RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi",
+    "url": "https://github.com/akuker/RASCSI/wiki",
+    "upvotes": 9,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26247078"
   },
   {
     "title": "10 Years of Open-Source Visualization: Did I learn anything from D3.js?",
     "url": "https://observablehq.com/@mbostock/10-years-of-open-source-visualization",
-    "upvotes": 231,
+    "upvotes": 241,
     "author": "serial_dev",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26240339"
   },
   {
     "title": "Architecture of the Playstation 2",
     "url": "https://www.copetti.org/writings/consoles/playstation-2/",
-    "upvotes": 176,
+    "upvotes": 179,
     "author": "biwasa",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26243964"
@@ -66,103 +74,131 @@
   {
     "title": "50 Years of Pascal",
     "url": "https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext",
-    "upvotes": 37,
+    "upvotes": 47,
     "author": "matt_d",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26244281"
-  },
-  {
-    "title": "When did generic grocery brands get so good looking?",
-    "url": "https://eyeondesign.aiga.org/when-did-generic-grocery-brands-get-so-good-looking/",
-    "upvotes": 15,
-    "author": "secondary",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26243139"
-  },
-  {
-    "title": "Total Cookie Protection",
-    "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/",
-    "upvotes": 1328,
-    "author": "todsacerdoti",
-    "comments": 381,
-    "link": "https://news.ycombinator.com/item?id=26237404"
   },
   {
     "title": "Launch HN: GreaseBoss (YC W21) – Real-time system to manage industrial greasing",
     "url": "item?id=26240581",
-    "upvotes": 191,
+    "upvotes": 193,
     "author": "SteveGreaseBoss",
     "comments": 126,
     "link": "https://news.ycombinator.com/item?id=26240581"
   },
   {
+    "title": "On Writing More",
+    "url": "https://ava.substack.com/p/on-writing-more",
+    "upvotes": 67,
+    "author": "riverlong",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26246619"
+  },
+  {
+    "title": "Total Cookie Protection",
+    "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/",
+    "upvotes": 1339,
+    "author": "todsacerdoti",
+    "comments": 384,
+    "link": "https://news.ycombinator.com/item?id=26237404"
+  },
+  {
     "title": "How should economists think about biodiversity?",
     "url": "https://www.economist.com/finance-and-economics/2021/02/06/how-should-economists-think-about-biodiversity",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "prostoalex",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26230992"
   },
   {
-    "title": "RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi",
-    "url": "https://github.com/akuker/RASCSI/wiki",
-    "upvotes": 3,
-    "author": "todsacerdoti",
+    "title": "Modules, Monoliths, and Microservices",
+    "url": "https://tailscale.com/blog/modules-monoliths-and-microservices/",
+    "upvotes": 5,
+    "author": "kozmico",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26247078"
+    "link": "https://news.ycombinator.com/item?id=26247052"
+  },
+  {
+    "title": "When did generic grocery brands get so good looking?",
+    "url": "https://eyeondesign.aiga.org/when-did-generic-grocery-brands-get-so-good-looking/",
+    "upvotes": 17,
+    "author": "secondary",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26243139"
   },
   {
     "title": "Lawrence Ferlinghetti has died",
     "url": "https://www.nytimes.com/2021/02/23/obituaries/lawrence-ferlinghetti-dead.html",
-    "upvotes": 109,
+    "upvotes": 111,
     "author": "thedday",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26241780"
   },
   {
+    "title": "Logarithmic Maps of the Universe",
+    "url": "https://www.astro.princeton.edu/universe/",
+    "upvotes": 73,
+    "author": "autoditype",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26245502"
+  },
+  {
     "title": "Try to guess if code is real or GPT2-generated",
     "url": "https://doesnotexist.codes",
-    "upvotes": 135,
+    "upvotes": 138,
     "author": "AlexDenisov",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26242264"
   },
   {
-    "title": "Logarithmic Maps of the Universe",
-    "url": "https://www.astro.princeton.edu/universe/",
-    "upvotes": 70,
-    "author": "autoditype",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26245502"
+    "title": "USPS Selects Oshkosh Defense for Next Generation Delivery Vehicle Fleet",
+    "url": "https://oshkoshcorp.com/en/news/2-23-21-usps",
+    "upvotes": 27,
+    "author": "jonbaer",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26246116"
   },
   {
     "title": "The Thousand Brains Theory of Intelligence",
     "url": "https://numenta.com/blog/2019/01/16/the-thousand-brains-theory-of-intelligence/",
-    "upvotes": 158,
+    "upvotes": 160,
     "author": "hacksilver",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26240901"
+  },
+  {
+    "title": "Avoid Contentious Terms",
+    "url": "https://www.jefftk.com/p/avoid-contentious-terms",
+    "upvotes": 55,
+    "author": "apsec112",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26246477"
+  },
+  {
+    "title": "Impraise",
+    "url": "https://jobs.impraise.com/o/senior-backend-developer"
+  },
+  {
+    "title": "The Romantic Reputation of John Keats",
+    "url": "https://www.historytoday.com/archive/history-matters/romantic-reputation-john-keats",
+    "upvotes": 7,
+    "author": "apollinaire",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26232741"
   },
   {
     "title": "Resolved: DNSSEC records still not passed to applications",
     "url": "https://github.com/systemd/systemd/issues/18714",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "Sami_Lehtinen",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26246695"
   },
   {
-    "title": "USPS Selects Oshkosh Defense for Next Generation Delivery Vehicle Fleet",
-    "url": "https://oshkoshcorp.com/en/news/2-23-21-usps",
-    "upvotes": 21,
-    "author": "jonbaer",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26246116"
-  },
-  {
     "title": "An ancient Greek approach to risk and the lessons it can offer the modern world",
     "url": "https://theconversation.com/an-ancient-greek-approach-to-risk-and-the-lessons-it-can-offer-the-modern-world-154139",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "diodorus",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26231920"
@@ -170,10 +206,26 @@
   {
     "title": "Taking a Stand in the War on General-Purpose Computing",
     "url": "https://cheapskatesguide.org/articles/war-on-gp-computing.html",
-    "upvotes": 248,
+    "upvotes": 252,
     "author": "Funes-",
-    "comments": 232,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=26242991"
+  },
+  {
+    "title": "Open Source in the 5G Stack",
+    "url": "https://github.blog/2021-02-23-open-source-in-the-5g-stack/",
+    "upvotes": 92,
+    "author": "todsacerdoti",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26242659"
+  },
+  {
+    "title": "Recreating Real-World Terrain with React, Three.js and WebGL Shaders",
+    "url": "https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1",
+    "upvotes": 161,
+    "author": "ObiWanFrijoles",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26239236"
   },
   {
     "title": "An introduction to Programming with ECMA-55 Minimal BASIC [pdf]",
@@ -182,57 +234,5 @@
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26236686"
-  },
-  {
-    "title": "Recreating Real-World Terrain with React, Three.js and WebGL Shaders",
-    "url": "https://techblog.geekyants.com/recreating-real-world-terrain-with-react-threejs-and-webgl-shaders-1",
-    "upvotes": 160,
-    "author": "ObiWanFrijoles",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26239236"
-  },
-  {
-    "title": "Impraise",
-    "url": "https://jobs.impraise.com/o/senior-backend-developer"
-  },
-  {
-    "title": "Open Source in the 5G Stack",
-    "url": "https://github.blog/2021-02-23-open-source-in-the-5g-stack/",
-    "upvotes": 89,
-    "author": "todsacerdoti",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26242659"
-  },
-  {
-    "title": "The Romantic Reputation of John Keats",
-    "url": "https://www.historytoday.com/archive/history-matters/romantic-reputation-john-keats",
-    "upvotes": 6,
-    "author": "apollinaire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26232741"
-  },
-  {
-    "title": "Show HN: Replace printf",
-    "url": "https://github.com/exebook/generic-print",
-    "upvotes": 67,
-    "author": "exebook",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26243495"
-  },
-  {
-    "title": "Avoid Contentious Terms",
-    "url": "https://www.jefftk.com/p/avoid-contentious-terms",
-    "upvotes": 50,
-    "author": "apsec112",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26246477"
-  },
-  {
-    "title": "Git is my buddy: Effective Git as a solo developer",
-    "url": "https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/",
-    "upvotes": 376,
-    "author": "vortex_ape",
-    "comments": 182,
-    "link": "https://news.ycombinator.com/item?id=26239068"
   }
 ]
