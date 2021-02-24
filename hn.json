@@ -2,55 +2,47 @@
   {
     "title": "State Partitioning",
     "url": "https://hacks.mozilla.org/2021/02/introducing-state-partitioning/",
-    "upvotes": 128,
+    "upvotes": 149,
     "author": "oedmarap",
-    "comments": 38,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26248595"
   },
   {
     "title": "LinkedIn is building a gig marketplace",
     "url": "https://aimgroup.com/2021/02/22/linkedin-building-gig-marketplace/",
-    "upvotes": 225,
+    "upvotes": 238,
     "author": "ArtTimeInvestor",
-    "comments": 202,
+    "comments": 215,
     "link": "https://news.ycombinator.com/item?id=26247278"
-  },
-  {
-    "title": "Cloud-Making Aerosol Could Devastate Polar Sea Ice",
-    "url": "https://www.quantamagazine.org/cloud-making-aerosol-could-devastate-polar-sea-ice-20210223/",
-    "upvotes": 21,
-    "author": "pseudolus",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26248814"
   },
   {
     "title": "BBC Micro at 40: How it inspired a generation of coders [video]",
     "url": "https://www.bbc.co.uk/news/technology-56098808",
-    "upvotes": 74,
+    "upvotes": 79,
     "author": "zeristor",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26247933"
-  },
-  {
-    "title": "Two fighter pilots passed out over Nevada last year. Software saved them both",
-    "url": "https://www.popsci.com/story/technology/agcas-technology-saves-pilots-lives/",
-    "upvotes": 62,
-    "author": "prostoalex",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26230732"
   },
   {
     "title": "Show HN: I built a cute, little isometric block stacking editor in QML",
     "url": "https://www.kdab.com/3d-block-building-game/",
-    "upvotes": 45,
+    "upvotes": 54,
     "author": "wuschelhase",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26248502"
+  },
+  {
+    "title": "Beeple Mania",
+    "url": "https://www.esquire.com/entertainment/a35500985/who-is-beeple-mike-winkelmann-nft-interview/",
+    "upvotes": 23,
+    "author": "dadt",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26243116"
   },
   {
     "title": "Modules, Monoliths, and Microservices",
     "url": "https://tailscale.com/blog/modules-monoliths-and-microservices/",
-    "upvotes": 179,
+    "upvotes": 188,
     "author": "kozmico",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26247052"
@@ -58,62 +50,94 @@
   {
     "title": "Launch HN: Weweb.io (YC W21) – Create websites visually using JAMstack tools",
     "url": "item?id=26248123",
-    "upvotes": 74,
+    "upvotes": 82,
     "author": "raphael-gold",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26248123"
+  },
+  {
+    "title": "Two fighter pilots passed out over Nevada last year. Software saved them both",
+    "url": "https://www.popsci.com/story/technology/agcas-technology-saves-pilots-lives/",
+    "upvotes": 73,
+    "author": "prostoalex",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26230732"
+  },
+  {
+    "title": "The Trouble with Cassandra: Why It's a Poor Choice for Object Store Metadata DB",
+    "url": "https://blog.min.io/the-trouble-with-cassandra-based-object-stores/",
+    "upvotes": 29,
+    "author": "jasim",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26248507"
   },
   {
     "title": "Streak",
     "url": "https://www.streak.com/careers/product-engineer"
   },
   {
-    "title": "M1 Mac owners are experiencing high SSD writes over short periods of time",
-    "url": "https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/",
-    "upvotes": 613,
-    "author": "voisin",
-    "comments": 430,
-    "link": "https://news.ycombinator.com/item?id=26244093"
-  },
-  {
-    "title": "The Trouble with Cassandra: Why It's a Poor Choice for Object Store Metadata DB",
-    "url": "https://blog.min.io/the-trouble-with-cassandra-based-object-stores/",
-    "upvotes": 26,
-    "author": "jasim",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26248507"
+    "title": "Cloud-Making Aerosol Could Devastate Polar Sea Ice",
+    "url": "https://www.quantamagazine.org/cloud-making-aerosol-could-devastate-polar-sea-ice-20210223/",
+    "upvotes": 24,
+    "author": "pseudolus",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26248814"
   },
   {
     "title": "Making Games on Your Own as an Engineer",
     "url": "https://blog.eyas.sh/2021/02/unity-for-engineers-pt11-development-process/",
-    "upvotes": 217,
+    "upvotes": 233,
     "author": "Eyas",
-    "comments": 37,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26246049"
+  },
+  {
+    "title": "We trademark Open Source software and you should too",
+    "url": "https://lightmeter.io/why-trademark-open-source-software/",
+    "upvotes": 7,
+    "author": "samtuke",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26249262"
   },
   {
     "title": "Building an E-Ink Laptop",
     "url": "https://alexsoto.dev/building-an-e-ink-laptop.html",
-    "upvotes": 240,
+    "upvotes": 248,
     "author": "alex-a-soto",
-    "comments": 118,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26245563"
+  },
+  {
+    "title": "Enabling Rich Statistical Analyses with Differential Privacy",
+    "url": "https://www.nist.gov/blogs/cybersecurity-insights/workloads-counting-queries-enabling-rich-statistical-analyses",
+    "upvotes": 16,
+    "author": "oedmarap",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26248600"
   },
   {
     "title": "50 Years of Pascal",
     "url": "https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext",
-    "upvotes": 130,
+    "upvotes": 135,
     "author": "matt_d",
     "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26244281"
   },
   {
-    "title": "Enabling Rich Statistical Analyses with Differential Privacy",
-    "url": "https://www.nist.gov/blogs/cybersecurity-insights/workloads-counting-queries-enabling-rich-statistical-analyses",
-    "upvotes": 11,
-    "author": "oedmarap",
+    "title": "Is the Western way of raising kids weird?",
+    "url": "https://www.bbc.com/future/article/20210222-the-unusual-ways-western-parents-raise-children",
+    "upvotes": 8,
+    "author": "elijahparker",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26248600"
+    "link": "https://news.ycombinator.com/item?id=26249242"
+  },
+  {
+    "title": "Fuzzy Name Matching in Postgres",
+    "url": "https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql",
+    "upvotes": 56,
+    "author": "polm23",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26236772"
   },
   {
     "title": "RaSCSI: A virtual SCSI device emulator that runs on a Raspberry Pi",
@@ -124,57 +148,41 @@
     "link": "https://news.ycombinator.com/item?id=26247078"
   },
   {
-    "title": "Fuzzy Name Matching in Postgres",
-    "url": "https://info.crunchydata.com/blog/fuzzy-name-matching-in-postgresql",
-    "upvotes": 51,
-    "author": "polm23",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26236772"
+    "title": "Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study",
+    "url": "https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0",
+    "upvotes": 87,
+    "author": "tempestn",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26248002"
   },
   {
     "title": "Nim versions 1.4.4 and 1.2.10",
     "url": "https://nim-lang.org/blog/2021/02/23/versions-144-and-1210-released.html",
-    "upvotes": 75,
+    "upvotes": 81,
     "author": "0-_-0",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26248134"
   },
   {
-    "title": "Common asthma drug cuts Covid-19 hospitalization, recovery time – Oxford study",
-    "url": "https://www.reuters.com/article/uk-health-coronavirus-asthma-treatment-idUKKBN2A92L0",
-    "upvotes": 79,
-    "author": "tempestn",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26248002"
-  },
-  {
-    "title": "Architecture of the Playstation 2",
-    "url": "https://www.copetti.org/writings/consoles/playstation-2/",
-    "upvotes": 267,
-    "author": "biwasa",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26243964"
+    "title": "Show HN: Test your Gitlab CI Pipelines changes locally using Docker",
+    "url": "https://github.com/mdubourg001/glci",
+    "upvotes": 30,
+    "author": "damnhotuser",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26236677"
   },
   {
     "title": "Microsoft Sculpt Wired Conversion Mod",
     "url": "https://chadaustin.me/2021/02/wired-sculpt/",
-    "upvotes": 55,
+    "upvotes": 58,
     "author": "yuribro",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26223805"
-  },
-  {
-    "title": "Beeple Mania",
-    "url": "https://www.esquire.com/entertainment/a35500985/who-is-beeple-mike-winkelmann-nft-interview/",
-    "upvotes": 8,
-    "author": "dadt",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26243116"
   },
   {
     "title": "Launch HN: GreaseBoss (YC W21) – Real-time system to manage industrial greasing",
     "url": "item?id=26240581",
-    "upvotes": 223,
+    "upvotes": 224,
     "author": "SteveGreaseBoss",
     "comments": 138,
     "link": "https://news.ycombinator.com/item?id=26240581"
@@ -182,57 +190,49 @@
   {
     "title": "Total Cookie Protection",
     "url": "https://blog.mozilla.org/security/2021/02/23/total-cookie-protection/",
-    "upvotes": 1424,
+    "upvotes": 1431,
     "author": "todsacerdoti",
-    "comments": 397,
+    "comments": 400,
     "link": "https://news.ycombinator.com/item?id=26237404"
-  },
-  {
-    "title": "Show HN: Test your Gitlab CI Pipelines changes locally using Docker",
-    "url": "https://github.com/mdubourg001/glci",
-    "upvotes": 24,
-    "author": "damnhotuser",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26236677"
-  },
-  {
-    "title": "Buttergate: Why are Canadians complaining about hard butter?",
-    "url": "https://www.bbc.com/news/world-us-canada-56175784",
-    "upvotes": 37,
-    "author": "curmudgeon22",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26247165"
   },
   {
     "title": "Logarithmic Maps of the Universe",
     "url": "https://www.astro.princeton.edu/universe/",
-    "upvotes": 120,
+    "upvotes": 125,
     "author": "autoditype",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26245502"
   },
   {
     "title": "Fry's Electronics is closing all stores",
     "url": "https://twitter.com/bill0004/status/1364407906192424964",
-    "upvotes": 367,
+    "upvotes": 387,
     "author": "synack",
-    "comments": 207,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=26246435"
-  },
-  {
-    "title": "CEO Secrets: 'My billion pound company has no HR department'",
-    "url": "https://www.bbc.co.uk/news/business-56130187",
-    "upvotes": 22,
-    "author": "DrBazza",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26248154"
   },
   {
     "title": "The grisly trials that gave poison to prisoners",
     "url": "https://www.nature.com/articles/d41586-021-00077-0",
     "upvotes": 30,
     "author": "Petiver",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26247299"
+  },
+  {
+    "title": "M1 Mac owners are experiencing high SSD writes over short periods of time",
+    "url": "https://linustechtips.com/topic/1306757-m1-mac-owners-are-experiencing-extremely-high-ssd-writes-over-short-periods-of-time-likely-thanks-to-aggressive-swap/",
+    "upvotes": 626,
+    "author": "voisin",
+    "comments": 437,
+    "link": "https://news.ycombinator.com/item?id=26244093"
+  },
+  {
+    "title": "Free for Developers",
+    "url": "https://free-for.dev/#/",
+    "upvotes": 822,
+    "author": "fs111",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=26239711"
   }
 ]
