@@ -2,47 +2,55 @@
   {
     "title": "Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing",
     "url": "https://github.com/DidierRLopes/GamestonkTerminal",
-    "upvotes": 647,
+    "upvotes": 714,
     "author": "sexy_year",
-    "comments": 111,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=26258773"
   },
   {
     "title": "Show HN: QEMU front end for M1 and Intel Macs",
     "url": "https://mac.getutm.app/",
-    "upvotes": 51,
+    "upvotes": 94,
     "author": "osy",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26260390"
   },
   {
     "title": "The decline of computers as a general-purpose technology",
     "url": "https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext",
-    "upvotes": 52,
+    "upvotes": 64,
     "author": "matt_d",
-    "comments": 13,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26238376"
-  },
-  {
-    "title": "Shopify says remove Stripe billing or get booted from their app store",
-    "url": "item?id=26260174",
-    "upvotes": 125,
-    "author": "ponny",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26260174"
   },
   {
     "title": "Common Nginx misconfigurations that leave your web server open to attack",
     "url": "https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/",
-    "upvotes": 31,
+    "upvotes": 66,
     "author": "sshroot",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26259955"
+  },
+  {
+    "title": "Shopify says remove Stripe billing or get booted from their app store",
+    "url": "item?id=26260174",
+    "upvotes": 171,
+    "author": "ponny",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26260174"
+  },
+  {
+    "title": "How to issue a central bank digital currency",
+    "url": "https://www.snb.ch/en/mmr/papers/id/working_paper_2021_03",
+    "upvotes": 14,
+    "author": "Tomte",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26260524"
   },
   {
     "title": "FPGA Developer Tutorials",
     "url": "https://www.fpgatutorial.com/",
-    "upvotes": 28,
+    "upvotes": 35,
     "author": "Alekhine",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26248603"
@@ -50,23 +58,15 @@
   {
     "title": "17 year old Firefox feature request fixed",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=259640",
-    "upvotes": 338,
+    "upvotes": 348,
     "author": "abridgett",
-    "comments": 180,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=26256459"
-  },
-  {
-    "title": "How to issue a central bank digital currency",
-    "url": "https://www.snb.ch/en/mmr/papers/id/working_paper_2021_03",
-    "upvotes": 7,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26260524"
   },
   {
     "title": "Show HN: I wrote a book about using data science to solve “everyday” problems",
     "url": "https://andrewnc.github.io/blog/everyday_data_science.html",
-    "upvotes": 483,
+    "upvotes": 498,
     "author": "andrewnc",
     "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26253281"
@@ -74,7 +74,7 @@
   {
     "title": "Kindergarden Quantum Mechanics Graduates",
     "url": "https://arxiv.org/abs/2102.10984",
-    "upvotes": 9,
+    "upvotes": 14,
     "author": "mathgenius",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26248980"
@@ -82,50 +82,66 @@
   {
     "title": "Firefox Release Includes Total Cookie Protection and Multiple Picture-in-Picture",
     "url": "https://blog.mozilla.org/blog/2021/02/23/latest-firefox-release-includes-multiple-picture-in-picture-and-total-cookie-protection/",
-    "upvotes": 254,
+    "upvotes": 265,
     "author": "stunt",
-    "comments": 122,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=26254785"
-  },
-  {
-    "title": "rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi",
-    "url": "https://github.com/librerpi/rpi-open-firmware",
-    "upvotes": 60,
-    "author": "pabs3",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26258417"
-  },
-  {
-    "title": "Erlang/OTP 24 Release Candidate 1",
-    "url": "https://www.erlang.org/news/144",
-    "upvotes": 49,
-    "author": "ramchip",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26260127"
   },
   {
     "title": "A Simple Way to Reduce Cognitive Bias",
     "url": "https://nautil.us/blog/a-simple-way-to-reduce-cognitive-bias",
-    "upvotes": 52,
+    "upvotes": 60,
     "author": "prostoalex",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26235812"
+  },
+  {
+    "title": "rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi",
+    "url": "https://github.com/librerpi/rpi-open-firmware",
+    "upvotes": 67,
+    "author": "pabs3",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26258417"
   },
   {
     "title": "My experience as a Gazan girl getting into Silicon Valley companies",
     "url": "https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1",
-    "upvotes": 1483,
+    "upvotes": 1496,
     "author": "daliaawad",
-    "comments": 371,
+    "comments": 374,
     "link": "https://news.ycombinator.com/item?id=26251143"
+  },
+  {
+    "title": "Erlang/OTP 24 Release Candidate 1",
+    "url": "https://www.erlang.org/news/144",
+    "upvotes": 60,
+    "author": "ramchip",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26260127"
+  },
+  {
+    "title": "A battery invented 120 years before its time",
+    "url": "https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon",
+    "upvotes": 31,
+    "author": "fpoling",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26249254"
   },
   {
     "title": "Rare 'half-male, half-female' cardinal photographed in Pennsylvania",
     "url": "https://www.bbc.com/news/world-us-canada-56189600",
-    "upvotes": 117,
+    "upvotes": 119,
     "author": "mrmcd",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26257982"
+  },
+  {
+    "title": "One Way to Represent Things",
+    "url": "https://macwright.com/2021/02/23/one-way-to-represent-things.html",
+    "upvotes": 15,
+    "author": "todsacerdoti",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26242495"
   },
   {
     "title": "Show HN: Horcrux, a Playground for Shamir Secret Sharing",
@@ -136,44 +152,52 @@
     "link": "https://news.ycombinator.com/item?id=26256726"
   },
   {
-    "title": "When everyone's a genius",
+    "title": "When Everyone’s a Genius: A Few Thoughts on Speculation",
     "url": "https://www.collaborativefund.com/blog/speculation/",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "luord",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26260165"
   },
   {
     "title": "RFC6238 TOTP implementation in pure PostgreSQL",
     "url": "https://github.com/pyramation/totp",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "pyramation",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26258261"
-  },
-  {
-    "title": "A battery invented 120 years before its time",
-    "url": "https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon",
-    "upvotes": 23,
-    "author": "fpoling",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26249254"
   },
   {
     "title": "The Wadley Loop",
     "url": "https://lennartb.home.xs4all.nl/wadley.html",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "bilegeek",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26252373"
   },
   {
+    "title": "Automated Reasoning as an Annoying Child",
+    "url": "https://galois.com/blog/2020/10/automated-reasoning-as-an-annoying-child/",
+    "upvotes": 3,
+    "author": "lelf",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26248349"
+  },
+  {
     "title": "Show HN: Alert yourself after a long-running task in terminal",
     "url": "https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966",
-    "upvotes": 39,
+    "upvotes": 44,
     "author": "petethepig",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26259007"
+  },
+  {
+    "title": "A list of open and open source 5G software projects",
+    "url": "https://open5g.info",
+    "upvotes": 61,
+    "author": "mychele",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26257959"
   },
   {
     "title": "Grow the IndieWeb with Webmentions",
@@ -184,55 +208,31 @@
     "link": "https://news.ycombinator.com/item?id=26258557"
   },
   {
-    "title": "A list of open and open source 5G software projects",
-    "url": "https://open5g.info",
-    "upvotes": 58,
-    "author": "mychele",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26257959"
-  },
-  {
-    "title": "Amazon insiders sound alarm over security",
-    "url": "https://www.politico.eu/article/data-at-risk-amazon-security-threat/",
-    "upvotes": 103,
-    "author": "nothinggoesaway",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26259724"
-  },
-  {
-    "title": "Apple buys a company every three to four weeks",
-    "url": "https://www.bbc.com/news/business-56178792",
-    "upvotes": 162,
-    "author": "ra7",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26258610"
+    "title": "Google Cloud vs. AWS Onboarding Comparison",
+    "url": "https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html",
+    "upvotes": 612,
+    "author": "kevinslin",
+    "comments": 343,
+    "link": "https://news.ycombinator.com/item?id=26252010"
   },
   {
     "title": "Relationship Hero",
     "url": "item?id=26255829"
   },
   {
-    "title": "One Way to Represent Things",
-    "url": "https://macwright.com/2021/02/23/one-way-to-represent-things.html",
-    "upvotes": 9,
-    "author": "todsacerdoti",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26242495"
+    "title": "Amazon insiders sound alarm over security",
+    "url": "https://www.politico.eu/article/data-at-risk-amazon-security-threat/",
+    "upvotes": 111,
+    "author": "nothinggoesaway",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26259724"
   },
   {
     "title": "Hundreds of workers at cybersecurity agency vote to strike",
     "url": "https://www.cbc.ca/news/politics/cse-cybersecurity-strike-1.5926825",
-    "upvotes": 50,
+    "upvotes": 53,
     "author": "megzh",
-    "comments": 30,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26258081"
-  },
-  {
-    "title": "2D IsometricRenderer",
-    "url": "https://github.com/Grille/2D-isometricRenderer",
-    "upvotes": 55,
-    "author": "autoditype",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26257839"
   }
 ]
