@@ -1,40 +1,56 @@
 [
   {
+    "title": "Coinbase S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm",
+    "upvotes": 16,
+    "author": "kacy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26262170"
+  },
+  {
     "title": "Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing",
     "url": "https://github.com/DidierRLopes/GamestonkTerminal",
-    "upvotes": 1003,
+    "upvotes": 1067,
     "author": "sexy_year",
-    "comments": 183,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=26258773"
   },
   {
     "title": "Show HN: QEMU front end for M1 and Intel Macs",
     "url": "https://mac.getutm.app/",
-    "upvotes": 210,
+    "upvotes": 231,
     "author": "osy",
-    "comments": 43,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26260390"
   },
   {
     "title": "The decline of computers as a general-purpose technology",
     "url": "https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext",
-    "upvotes": 146,
+    "upvotes": 162,
     "author": "matt_d",
-    "comments": 69,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26238376"
   },
   {
     "title": "Common Nginx misconfigurations that leave your web server open to attack",
     "url": "https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/",
-    "upvotes": 177,
+    "upvotes": 201,
     "author": "sshroot",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26259955"
+  },
+  {
+    "title": "Linux Capabilities in a nutshell",
+    "url": "https://k3a.me/linux-capabilities-in-a-nutshell/",
+    "upvotes": 41,
+    "author": "todsacerdoti",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26261310"
   },
   {
     "title": "SiPearl Lets Rhea Design Leak: 72x Zeus Cores, 4x HBM2E, 4-6 DDR5",
     "url": "https://www.anandtech.com/show/16072/sipearl-lets-rhea-design-leak-72x-zeus-cores-4x-hbm2e-46-ddr5",
-    "upvotes": 22,
+    "upvotes": 29,
     "author": "rbanffy",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26261327"
@@ -44,89 +60,97 @@
     "url": "https://boards.greenhouse.io/pachyderm/jobs/4281816003"
   },
   {
+    "title": "GNU Taler – Payment system for privacy-friendly, fast, easy online transactions",
+    "url": "https://taler.net/en/",
+    "upvotes": 28,
+    "author": "2pEXgD0fZ5cF",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26261314"
+  },
+  {
     "title": "Static Executables with SBCL v2",
     "url": "https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html",
-    "upvotes": 33,
+    "upvotes": 40,
     "author": "todsacerdoti",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26261098"
   },
   {
-    "title": "Linux Capabilities in a nutshell",
-    "url": "https://k3a.me/linux-capabilities-in-a-nutshell/",
-    "upvotes": 32,
-    "author": "todsacerdoti",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26261310"
-  },
-  {
     "title": "17 year old Firefox feature request fixed",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=259640",
-    "upvotes": 408,
+    "upvotes": 424,
     "author": "abridgett",
-    "comments": 228,
+    "comments": 231,
     "link": "https://news.ycombinator.com/item?id=26256459"
+  },
+  {
+    "title": "Implementing \"defer\"",
+    "url": "https://c3.handmade.network/blogs/p/7641-implementing_defer",
+    "upvotes": 15,
+    "author": "lerno",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26247954"
   },
   {
     "title": "Shopify says remove Stripe billing or get booted from their app store",
     "url": "item?id=26260174",
-    "upvotes": 340,
+    "upvotes": 367,
     "author": "ponny",
-    "comments": 93,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26260174"
   },
   {
     "title": "FPGA Developer Tutorials",
     "url": "https://www.fpgatutorial.com/",
-    "upvotes": 73,
+    "upvotes": 79,
     "author": "Alekhine",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26248603"
   },
   {
+    "title": "Scientists create new class of “Turing patterns” in colonies of E. coli",
+    "url": "https://arstechnica.com/science/2021/02/scientists-create-new-class-of-turing-patterns-in-colonies-of-e-coli/",
+    "upvotes": 7,
+    "author": "vo2maxer",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26244829"
+  },
+  {
     "title": "The compiler for Teal, a typed dialect of Lua",
     "url": "https://github.com/teal-language/tl",
-    "upvotes": 10,
+    "upvotes": 13,
     "author": "harporoeder",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26247813"
   },
   {
-    "title": "Implementing \"defer\"",
-    "url": "https://c3.handmade.network/blogs/p/7641-implementing_defer",
-    "upvotes": 6,
-    "author": "lerno",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26247954"
-  },
-  {
     "title": "My experience as a Gazan girl getting into Silicon Valley companies",
     "url": "https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1",
-    "upvotes": 1551,
+    "upvotes": 1564,
     "author": "daliaawad",
-    "comments": 395,
+    "comments": 398,
     "link": "https://news.ycombinator.com/item?id=26251143"
-  },
-  {
-    "title": "GNU Taler – Payment system for privacy-friendly, fast, easy online transactions",
-    "url": "https://taler.net/en/",
-    "upvotes": 9,
-    "author": "2pEXgD0fZ5cF",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26261314"
   },
   {
     "title": "A Simple Way to Reduce Cognitive Bias",
     "url": "https://nautil.us/blog/a-simple-way-to-reduce-cognitive-bias",
-    "upvotes": 91,
+    "upvotes": 98,
     "author": "prostoalex",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26235812"
+  },
+  {
+    "title": "When Everyone’s a Genius: A Few Thoughts on Speculation",
+    "url": "https://www.collaborativefund.com/blog/speculation/",
+    "upvotes": 32,
+    "author": "luord",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26260165"
   },
   {
     "title": "rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi",
     "url": "https://github.com/librerpi/rpi-open-firmware",
-    "upvotes": 83,
+    "upvotes": 85,
     "author": "pabs3",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26258417"
@@ -134,105 +158,81 @@
   {
     "title": "A battery invented 120 years before its time",
     "url": "https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "fpoling",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26249254"
-  },
-  {
-    "title": "When Everyone’s a Genius: A Few Thoughts on Speculation",
-    "url": "https://www.collaborativefund.com/blog/speculation/",
-    "upvotes": 27,
-    "author": "luord",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26260165"
-  },
-  {
-    "title": "Rare 'half-male, half-female' cardinal photographed in Pennsylvania",
-    "url": "https://www.bbc.com/news/world-us-canada-56189600",
-    "upvotes": 133,
-    "author": "mrmcd",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=26257982"
-  },
-  {
-    "title": "Show HN: Horcrux, a Playground for Shamir Secret Sharing",
-    "url": "https://francoisbest.com/horcrux",
-    "upvotes": 129,
-    "author": "franky47",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26256726"
   },
   {
     "title": "Kindergarden Quantum Mechanics Graduates",
     "url": "https://arxiv.org/abs/2102.10984",
-    "upvotes": 31,
+    "upvotes": 36,
     "author": "mathgenius",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26248980"
   },
   {
-    "title": "Show HN: Alert yourself after a long-running task in terminal",
-    "url": "https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966",
-    "upvotes": 56,
-    "author": "petethepig",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26259007"
-  },
-  {
-    "title": "RFC6238 TOTP implementation in pure PostgreSQL",
-    "url": "https://github.com/pyramation/totp",
-    "upvotes": 60,
-    "author": "pyramation",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26258261"
+    "title": "Rare 'half-male, half-female' cardinal photographed in Pennsylvania",
+    "url": "https://www.bbc.com/news/world-us-canada-56189600",
+    "upvotes": 137,
+    "author": "mrmcd",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26257982"
   },
   {
     "title": "Automated Reasoning as an Annoying Child",
     "url": "https://galois.com/blog/2020/10/automated-reasoning-as-an-annoying-child/",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "lelf",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26248349"
   },
   {
+    "title": "Show HN: Horcrux, a Playground for Shamir Secret Sharing",
+    "url": "https://francoisbest.com/horcrux",
+    "upvotes": 134,
+    "author": "franky47",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26256726"
+  },
+  {
+    "title": "Show HN: Alert yourself after a long-running task in terminal",
+    "url": "https://gist.github.com/petethepig/2d29e8b7e2ebc808bfe760b632608966",
+    "upvotes": 62,
+    "author": "petethepig",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26259007"
+  },
+  {
+    "title": "RFC6238 TOTP implementation in pure PostgreSQL",
+    "url": "https://github.com/pyramation/totp",
+    "upvotes": 61,
+    "author": "pyramation",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26258261"
+  },
+  {
     "title": "One Way to Represent Things",
     "url": "https://macwright.com/2021/02/23/one-way-to-represent-things.html",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "todsacerdoti",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26242495"
+  },
+  {
+    "title": "What working in an Antarctic station taught a researcher about isolation",
+    "url": "https://www.cbc.ca/radio/whitecoat/prescription-for-resilience-coping-with-covid-1.5892248/what-working-in-an-antarctic-station-taught-this-researcher-about-coping-with-isolation-1.5899320",
+    "upvotes": 19,
+    "author": "pseudolus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26235896"
   },
   {
     "title": "Show HN: I wrote a book about using data science to solve “everyday” problems",
     "url": "https://andrewnc.github.io/blog/everyday_data_science.html",
-    "upvotes": 533,
+    "upvotes": 540,
     "author": "andrewnc",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26253281"
-  },
-  {
-    "title": "Google Cloud vs. AWS Onboarding Comparison",
-    "url": "https://www.kevinslin.com/notes/ebd7fd65-988f-422a-93f5-b1fe5c3f29ce.html",
-    "upvotes": 627,
-    "author": "kevinslin",
-    "comments": 348,
-    "link": "https://news.ycombinator.com/item?id=26252010"
-  },
-  {
-    "title": "Erlang/OTP 24 Release Candidate 1",
-    "url": "https://www.erlang.org/news/144",
-    "upvotes": 90,
-    "author": "ramchip",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26260127"
-  },
-  {
-    "title": "A list of open and open source 5G software projects",
-    "url": "https://open5g.info",
-    "upvotes": 69,
-    "author": "mychele",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26257959"
   }
 ]
