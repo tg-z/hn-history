@@ -1,74 +1,82 @@
 [
   {
-    "title": "Coinbase S-1",
-    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm",
-    "upvotes": 129,
-    "author": "kacy",
-    "comments": 160,
-    "link": "https://news.ycombinator.com/item?id=26262170"
-  },
-  {
-    "title": "DigitalOcean IPO S-1",
+    "title": "DigitalOcean S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1582961/000119312521055798/d898181ds1.htm",
-    "upvotes": 31,
+    "upvotes": 108,
     "author": "marc__1",
-    "comments": 3,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26262465"
   },
   {
-    "title": "Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing",
-    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
-    "upvotes": 1157,
-    "author": "sexy_year",
-    "comments": 213,
-    "link": "https://news.ycombinator.com/item?id=26258773"
+    "title": "Coinbase S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm",
+    "upvotes": 172,
+    "author": "kacy",
+    "comments": 204,
+    "link": "https://news.ycombinator.com/item?id=26262170"
   },
   {
     "title": "Proofs Should Repair Themselves",
     "url": "https://galois.com/blog/2020/12/proofs-should-repair-themselves/",
-    "upvotes": 5,
+    "upvotes": 18,
     "author": "harperlee",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26262653"
   },
   {
+    "title": "Show HN: Can’t afford Bloomberg Terminal? No prob, I built the next best thing",
+    "url": "https://github.com/DidierRLopes/GamestonkTerminal",
+    "upvotes": 1185,
+    "author": "sexy_year",
+    "comments": 220,
+    "link": "https://news.ycombinator.com/item?id=26258773"
+  },
+  {
+    "title": "If Aliens Exist, Here’s How We’ll Find Them",
+    "url": "http://m.nautil.us/issue/97/wonder/if-aliens-exist-heres-how-well-find-them",
+    "upvotes": 12,
+    "author": "CapitalistCartr",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26262658"
+  },
+  {
     "title": "Show HN: QEMU front end for M1 and Intel Macs",
     "url": "https://mac.getutm.app/",
-    "upvotes": 270,
+    "upvotes": 274,
     "author": "osy",
-    "comments": 56,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26260390"
   },
   {
     "title": "GNU Taler – Payment system for privacy-friendly, fast, easy online transactions",
     "url": "https://taler.net/en/",
-    "upvotes": 84,
+    "upvotes": 100,
     "author": "2pEXgD0fZ5cF",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26261314"
   },
   {
     "title": "The decline of computers as a general-purpose technology",
     "url": "https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext",
-    "upvotes": 194,
+    "upvotes": 205,
     "author": "matt_d",
-    "comments": 100,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26238376"
   },
   {
     "title": "Common Nginx misconfigurations that leave your web server open to attack",
     "url": "https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/",
-    "upvotes": 236,
+    "upvotes": 246,
     "author": "sshroot",
-    "comments": 28,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26259955"
   },
   {
     "title": "Linux Capabilities in a nutshell",
     "url": "https://k3a.me/linux-capabilities-in-a-nutshell/",
-    "upvotes": 58,
+    "upvotes": 66,
     "author": "todsacerdoti",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26261310"
   },
   {
@@ -76,163 +84,155 @@
     "url": "https://boards.greenhouse.io/pachyderm/jobs/4281816003"
   },
   {
+    "title": "Static Executables with SBCL v2",
+    "url": "https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html",
+    "upvotes": 65,
+    "author": "todsacerdoti",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26261098"
+  },
+  {
+    "title": "Will technology save us from climate change?",
+    "url": "https://www.media.mit.edu/events/will-technology-save-us-from-climate-change/",
+    "upvotes": 11,
+    "author": "HourglassFR",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26262667"
+  },
+  {
     "title": "Show HN: A command-line utility for deploying serverless applications to AWS",
     "url": "https://github.com/JakePartusch/serverlessui",
-    "upvotes": 10,
+    "upvotes": 15,
     "author": "jpartusch",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26262192"
   },
   {
     "title": "SiPearl Lets Rhea Design Leak: 72x Zeus Cores, 4x HBM2E, 4-6 DDR5",
     "url": "https://www.anandtech.com/show/16072/sipearl-lets-rhea-design-leak-72x-zeus-cores-4x-hbm2e-46-ddr5",
-    "upvotes": 37,
+    "upvotes": 38,
     "author": "rbanffy",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26261327"
   },
   {
-    "title": "Static Executables with SBCL v2",
-    "url": "https://www.timmons.dev/posts/static-executables-with-sbcl-v2.html",
-    "upvotes": 54,
-    "author": "todsacerdoti",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26261098"
-  },
-  {
     "title": "Scientists create new class of “Turing patterns” in colonies of E. coli",
     "url": "https://arstechnica.com/science/2021/02/scientists-create-new-class-of-turing-patterns-in-colonies-of-e-coli/",
-    "upvotes": 14,
+    "upvotes": 19,
     "author": "vo2maxer",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26244829"
   },
   {
-    "title": "Implementing \"defer\"",
-    "url": "https://c3.handmade.network/blogs/p/7641-implementing_defer",
-    "upvotes": 25,
-    "author": "lerno",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26247954"
+    "title": "Programming Book Profits",
+    "url": "https://johnresig.com/blog/programming-book-profits/",
+    "upvotes": 11,
+    "author": "max_",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26247260"
   },
   {
     "title": "Shopify says remove Stripe billing or get booted from their app store",
     "url": "item?id=26260174",
-    "upvotes": 444,
+    "upvotes": 464,
     "author": "ponny",
-    "comments": 127,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=26260174"
   },
   {
-    "title": "FPGA Developer Tutorials",
-    "url": "https://www.fpgatutorial.com/",
-    "upvotes": 94,
-    "author": "Alekhine",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26248603"
-  },
-  {
-    "title": "The Evolution of Developer Salaries: Looking Back 20 Years",
-    "url": "https://codesubmit.io/blog/the-evolution-of-developer-salaries/#tracing-developer-salaries-in-america-from-2001-to-2019",
-    "upvotes": 43,
-    "author": "fagnerbrack",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26260710"
+    "title": "Implementing \"defer\"",
+    "url": "https://c3.handmade.network/blogs/p/7641-implementing_defer",
+    "upvotes": 27,
+    "author": "lerno",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26247954"
   },
   {
     "title": "The compiler for Teal, a typed dialect of Lua",
     "url": "https://github.com/teal-language/tl",
-    "upvotes": 23,
+    "upvotes": 27,
     "author": "harporoeder",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26247813"
   },
   {
-    "title": "Programming Book Profits",
-    "url": "https://johnresig.com/blog/programming-book-profits/",
-    "upvotes": 5,
-    "author": "max_",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26247260"
+    "title": "FPGA Developer Tutorials",
+    "url": "https://www.fpgatutorial.com/",
+    "upvotes": 100,
+    "author": "Alekhine",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26248603"
+  },
+  {
+    "title": "The Evolution of Developer Salaries: Looking Back 20 Years",
+    "url": "https://codesubmit.io/blog/the-evolution-of-developer-salaries/#tracing-developer-salaries-in-america-from-2001-to-2019",
+    "upvotes": 47,
+    "author": "fagnerbrack",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26260710"
+  },
+  {
+    "title": "When Everyone’s a Genius: A Few Thoughts on Speculation",
+    "url": "https://www.collaborativefund.com/blog/speculation/",
+    "upvotes": 48,
+    "author": "luord",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=26260165"
   },
   {
     "title": "My experience as a Gazan girl getting into Silicon Valley companies",
     "url": "https://daliaawad28.medium.com/my-experience-as-a-gazan-girl-getting-into-silicon-valley-companies-488062d769a1",
-    "upvotes": 1589,
+    "upvotes": 1596,
     "author": "daliaawad",
-    "comments": 406,
+    "comments": 412,
     "link": "https://news.ycombinator.com/item?id=26251143"
   },
   {
     "title": "A Simple Way to Reduce Cognitive Bias",
     "url": "https://nautil.us/blog/a-simple-way-to-reduce-cognitive-bias",
-    "upvotes": 112,
+    "upvotes": 118,
     "author": "prostoalex",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26235812"
-  },
-  {
-    "title": "When Everyone’s a Genius: A Few Thoughts on Speculation",
-    "url": "https://www.collaborativefund.com/blog/speculation/",
-    "upvotes": 40,
-    "author": "luord",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26260165"
-  },
-  {
-    "title": "Potential Apple M1 Flaw Discovered by Hector Martin",
-    "url": "https://twitter.com/marcan42/status/1364603530271625216",
-    "upvotes": 23,
-    "author": "Kipters",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26262118"
   },
   {
     "title": "A battery invented 120 years before its time",
     "url": "https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "fpoling",
-    "comments": 30,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26249254"
   },
   {
     "title": "rpi-open-firmware: open-source VPU side bootloader for Raspberry Pi",
     "url": "https://github.com/librerpi/rpi-open-firmware",
-    "upvotes": 97,
+    "upvotes": 100,
     "author": "pabs3",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26258417"
   },
   {
     "title": "Rare 'half-male, half-female' cardinal photographed in Pennsylvania",
     "url": "https://www.bbc.com/news/world-us-canada-56189600",
-    "upvotes": 142,
+    "upvotes": 146,
     "author": "mrmcd",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26257982"
   },
   {
     "title": "Kindergarden Quantum Mechanics Graduates",
     "url": "https://arxiv.org/abs/2102.10984",
-    "upvotes": 41,
+    "upvotes": 49,
     "author": "mathgenius",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26248980"
-  },
-  {
-    "title": "Automated Reasoning as an Annoying Child",
-    "url": "https://galois.com/blog/2020/10/automated-reasoning-as-an-annoying-child/",
-    "upvotes": 24,
-    "author": "lelf",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26248349"
   },
   {
     "title": "How to issue a central bank digital currency",
     "url": "https://www.snb.ch/en/mmr/papers/id/working_paper_2021_03",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "Tomte",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26260524"
   }
 ]
