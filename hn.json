@@ -2,65 +2,73 @@
   {
     "title": "Show HN: Redbean – Single-file distributable web server",
     "url": "https://justine.lol/redbean/index.html",
-    "upvotes": 268,
+    "upvotes": 324,
     "author": "jart",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26271117"
   },
   {
     "title": "Being on Call",
     "url": "https://tyler.kim/being-on-call",
-    "upvotes": 34,
+    "upvotes": 44,
     "author": "colluder",
-    "comments": 15,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26272170"
   },
   {
     "title": "How often should I rotate my SSH keys?",
     "url": "https://tailscale.com/blog/rotate-ssh-keys/",
-    "upvotes": 104,
+    "upvotes": 112,
     "author": "todsacerdoti",
-    "comments": 54,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26249380"
   },
   {
     "title": "Zine machine: a compact 3D-printed block printing press",
     "url": "https://hibred.pmvabf.org/zine-machine",
-    "upvotes": 158,
+    "upvotes": 160,
     "author": "hownottowrite",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26270251"
+  },
+  {
+    "title": "Why is the DOS path character “\\”?",
+    "url": "https://web.archive.org/web/20100612035120/http://blogs.msdn.com/b/larryosterman/archive/2005/06/24/432386.aspx",
+    "upvotes": 9,
+    "author": "jez",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26272492"
   },
   {
     "title": "Intercal, YAML, and Other Horrible Programming Languages",
     "url": "https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "sidcool",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26271582"
-  },
-  {
-    "title": "Google admits Kubernetes container tech is too complex",
-    "url": "https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/",
-    "upvotes": 186,
-    "author": "pjmlp",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=26271470"
   },
   {
     "title": "The Framework Laptop",
     "url": "https://frame.work/blog/introducing-the-framework-laptop",
-    "upvotes": 2145,
+    "upvotes": 2159,
     "author": "bitigchi",
-    "comments": 848,
+    "comments": 849,
     "link": "https://news.ycombinator.com/item?id=26263508"
+  },
+  {
+    "title": "Google admits Kubernetes container tech is too complex",
+    "url": "https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/",
+    "upvotes": 199,
+    "author": "pjmlp",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26271470"
   },
   {
     "title": "The future of web software is HTML over WebSockets",
     "url": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
-    "upvotes": 385,
+    "upvotes": 388,
     "author": "jack_riminton",
-    "comments": 237,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=26265999"
   },
   {
@@ -70,7 +78,7 @@
   {
     "title": "Map of my personal data infrastructure",
     "url": "https://beepb00p.xyz/myinfra.html",
-    "upvotes": 187,
+    "upvotes": 191,
     "author": "nreece",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26269832"
@@ -78,26 +86,18 @@
   {
     "title": "ISO 8601: the better date format",
     "url": "https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/",
-    "upvotes": 80,
+    "upvotes": 97,
     "author": "kirbykevinson",
-    "comments": 102,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26272084"
   },
   {
     "title": "Launch HN: Enombic (YC S20) – Create your own stock indexes",
     "url": "item?id=26265872",
-    "upvotes": 199,
+    "upvotes": 204,
     "author": "kmckiern",
-    "comments": 149,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=26265872"
-  },
-  {
-    "title": "Protest note about user privacy changes by Reddit",
-    "url": "https://www.reddit.com/r/europe/comments/ls7ft8/protest_note_about_user_privacy_changes_by_reddit/",
-    "upvotes": 39,
-    "author": "docdeek",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26272062"
   },
   {
     "title": "How We Test Concurrent Primitives in Kotlin Coroutines",
@@ -108,28 +108,28 @@
     "link": "https://news.ycombinator.com/item?id=26249366"
   },
   {
+    "title": "Protest note about user privacy changes by Reddit",
+    "url": "https://www.reddit.com/r/europe/comments/ls7ft8/protest_note_about_user_privacy_changes_by_reddit/",
+    "upvotes": 47,
+    "author": "docdeek",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26272062"
+  },
+  {
     "title": "OpenScan Offers 10-Micron 3D Scanning on a Raspberry Pi and HQ Camera Module",
     "url": "https://www.hackster.io/news/thomas-megel-s-openscan-offers-10-micron-3d-scanning-on-a-raspberry-pi-and-hq-camera-module-308a2540c5b8",
-    "upvotes": 116,
+    "upvotes": 118,
     "author": "ENadyr",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26247348"
   },
   {
     "title": "Semiconductors Demand 30% Above Supply, 20% Year-on-Year Growth",
     "url": "https://www.anandtech.com/show/16511/leading-foundries-enjoy-massive-revenue-growth-as-capacities-get-fully-loaded",
-    "upvotes": 162,
+    "upvotes": 163,
     "author": "ksec",
-    "comments": 108,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=26267216"
-  },
-  {
-    "title": "IoTaWatt Open Source WiFi Electric Power Monitor",
-    "url": "https://www.iotawatt.com/",
-    "upvotes": 150,
-    "author": "mrep",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26268460"
   },
   {
     "title": "Local-First Software:You Own Your Data, in Spite of the Cloud",
@@ -140,20 +140,28 @@
     "link": "https://news.ycombinator.com/item?id=26266881"
   },
   {
-    "title": "One Way to Represent Things",
-    "url": "https://macwright.com/2021/02/23/one-way-to-represent-things.html",
-    "upvotes": 67,
-    "author": "todsacerdoti",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26242495"
+    "title": "IoTaWatt Open Source WiFi Electric Power Monitor",
+    "url": "https://www.iotawatt.com/",
+    "upvotes": 150,
+    "author": "mrep",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=26268460"
   },
   {
     "title": "Show HN: CalcuLaTeX, a pretty-printing calculator language",
     "url": "https://mkhan45.github.io/CalcuLaTeX-Web/",
-    "upvotes": 194,
+    "upvotes": 196,
     "author": "fish45",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26250809"
+  },
+  {
+    "title": "One Way to Represent Things",
+    "url": "https://macwright.com/2021/02/23/one-way-to-represent-things.html",
+    "upvotes": 67,
+    "author": "todsacerdoti",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26242495"
   },
   {
     "title": "1,000 True Fans",
@@ -164,36 +172,44 @@
     "link": "https://news.ycombinator.com/item?id=26270182"
   },
   {
-    "title": "Lisbon’s startup scene rises as Portugal gears up",
-    "url": "https://techcrunch.com/2021/01/07/lisbons-startup-scene-rises-as-portugal-gears-up-to-be-a-european-tech-tiger/",
-    "upvotes": 81,
-    "author": "brauhaus",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26248981"
-  },
-  {
     "title": "DigitalOcean S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1582961/000119312521055798/d898181ds1.htm",
-    "upvotes": 836,
+    "upvotes": 841,
     "author": "marc__1",
     "comments": 386,
     "link": "https://news.ycombinator.com/item?id=26262465"
+  },
+  {
+    "title": "The GameStop Mess Exposes the Naked Short Selling Scam – The American Prospect",
+    "url": "https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/",
+    "upvotes": 40,
+    "author": "xbmcuser",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26271960"
+  },
+  {
+    "title": "CP/Mish is an open source sort-of-CP/M distribution for Z80",
+    "url": "http://cowlark.com/cpmish/index.html",
+    "upvotes": 84,
+    "author": "mariuz",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26267707"
   },
   {
     "title": "A Minimal Email Client",
     "url": "https://manuelmoreale.com/emails",
     "upvotes": 133,
     "author": "reimertz",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26248668"
   },
   {
-    "title": "CP/Mish is an open source sort-of-CP/M distribution for Z80",
-    "url": "http://cowlark.com/cpmish/index.html",
-    "upvotes": 81,
-    "author": "mariuz",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26267707"
+    "title": "Google Analytics: Stop feeding the beast",
+    "url": "https://casparwre.de/blog/stop-using-google-analytics/",
+    "upvotes": 648,
+    "author": "caspii",
+    "comments": 342,
+    "link": "https://news.ycombinator.com/item?id=26263149"
   },
   {
     "title": "A Famous Black Hole Gets an Update",
@@ -204,35 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26262148"
   },
   {
-    "title": "The GameStop Mess Exposes the Naked Short Selling Scam – The American Prospect",
-    "url": "https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/",
-    "upvotes": 33,
-    "author": "xbmcuser",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26271960"
-  },
-  {
-    "title": "Google Analytics: Stop feeding the beast",
-    "url": "https://casparwre.de/blog/stop-using-google-analytics/",
-    "upvotes": 646,
-    "author": "caspii",
-    "comments": 337,
-    "link": "https://news.ycombinator.com/item?id=26263149"
-  },
-  {
     "title": "The Trade Effects of 3D Printing [pdf]",
     "url": "http://documents1.worldbank.org/curated/en/152701569432061451/pdf/Is-3D-Printing-a-Threat-to-Global-Trade-The-Trade-Effects-You-Didnt-Hear-About.pdf",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "searchableguy",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26250929"
   },
   {
     "title": "30k Hours",
     "url": "https://github.com/breck7/30000hours",
-    "upvotes": 50,
+    "upvotes": 51,
     "author": "breck",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26270207"
   }
 ]
