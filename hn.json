@@ -2,71 +2,79 @@
   {
     "title": "Show HN: Redbean – Single-file distributable web server",
     "url": "https://justine.lol/redbean/index.html",
-    "upvotes": 507,
+    "upvotes": 549,
     "author": "jart",
-    "comments": 74,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26271117"
   },
   {
-    "title": "Why is the DOS path character “\\”?",
-    "url": "https://web.archive.org/web/20100612035120/http://blogs.msdn.com/b/larryosterman/archive/2005/06/24/432386.aspx",
-    "upvotes": 77,
-    "author": "jez",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26272492"
+    "title": "Firefox for iOS 32",
+    "url": "https://support.mozilla.org/en-US/kb/whats-new-firefox-ios-version-32",
+    "upvotes": 28,
+    "author": "pzmarzly",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26272710"
   },
   {
-    "title": "What's new in Firefox for iOS",
-    "url": "https://support.mozilla.org/en-US/kb/whats-new-firefox-ios-version-32",
-    "upvotes": 25,
-    "author": "pzmarzly",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26272710"
+    "title": "Intercal, YAML, and Other Horrible Programming Languages",
+    "url": "https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/",
+    "upvotes": 76,
+    "author": "sidcool",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26271582"
   },
   {
     "title": "Zine machine: a compact 3D-printed block printing press",
     "url": "https://hibred.pmvabf.org/zine-machine",
-    "upvotes": 175,
+    "upvotes": 180,
     "author": "hownottowrite",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26270251"
   },
   {
-    "title": "How often should I rotate my SSH keys?",
-    "url": "https://tailscale.com/blog/rotate-ssh-keys/",
-    "upvotes": 151,
-    "author": "todsacerdoti",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26249380"
-  },
-  {
-    "title": "Intercal, YAML, and Other Horrible Programming Languages",
-    "url": "https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/",
-    "upvotes": 62,
-    "author": "sidcool",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=26271582"
-  },
-  {
     "title": "The Framework Laptop",
     "url": "https://frame.work/blog/introducing-the-framework-laptop",
-    "upvotes": 2208,
+    "upvotes": 2221,
     "author": "bitigchi",
-    "comments": 864,
+    "comments": 868,
     "link": "https://news.ycombinator.com/item?id=26263508"
+  },
+  {
+    "title": "Show HN: Interactive real-time chemistry and fluids: water electrolysis",
+    "url": "https://cselab.github.io/aphros/wasm/electrochem.html",
+    "upvotes": 23,
+    "author": "pkarnakov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26272642"
+  },
+  {
+    "title": "Why is the DOS path character \"\\\"?",
+    "url": "https://web.archive.org/web/20100612035120/http://blogs.msdn.com/b/larryosterman/archive/2005/06/24/432386.aspx",
+    "upvotes": 87,
+    "author": "jez",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26272492"
+  },
+  {
+    "title": "How often should I rotate my SSH keys?",
+    "url": "https://tailscale.com/blog/rotate-ssh-keys/",
+    "upvotes": 155,
+    "author": "todsacerdoti",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=26249380"
   },
   {
     "title": "Google admits Kubernetes container tech is too complex",
     "url": "https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/",
-    "upvotes": 264,
+    "upvotes": 278,
     "author": "pjmlp",
-    "comments": 150,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=26271470"
   },
   {
     "title": "Map of my personal data infrastructure",
     "url": "https://beepb00p.xyz/myinfra.html",
-    "upvotes": 210,
+    "upvotes": 212,
     "author": "nreece",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26269832"
@@ -80,48 +88,40 @@
     "link": "https://news.ycombinator.com/item?id=26265872"
   },
   {
-    "title": "Show HN: Interactive real-time chemistry and fluids: water electrolysis",
-    "url": "https://cselab.github.io/aphros/wasm/electrochem.html",
-    "upvotes": 17,
-    "author": "pkarnakov",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26272642"
-  },
-  {
     "title": "Being on Call",
     "url": "https://tyler.kim/being-on-call",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "colluder",
-    "comments": 51,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26272170"
+  },
+  {
+    "title": "OpenScan Offers 10-Micron 3D Scanning on a Raspberry Pi and HQ Camera Module",
+    "url": "https://www.hackster.io/news/thomas-megel-s-openscan-offers-10-micron-3d-scanning-on-a-raspberry-pi-and-hq-camera-module-308a2540c5b8",
+    "upvotes": 126,
+    "author": "ENadyr",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26247348"
   },
   {
     "title": "Etleap (YC W13) Is Hiring a Customer Success Manager",
     "url": "item?id=26272048"
   },
   {
-    "title": "Semiconductors Demand 30% Above Supply, 20% Year-on-Year Growth",
-    "url": "https://www.anandtech.com/show/16511/leading-foundries-enjoy-massive-revenue-growth-as-capacities-get-fully-loaded",
-    "upvotes": 176,
-    "author": "ksec",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=26267216"
-  },
-  {
-    "title": "OpenScan Offers 10-Micron 3D Scanning on a Raspberry Pi and HQ Camera Module",
-    "url": "https://www.hackster.io/news/thomas-megel-s-openscan-offers-10-micron-3d-scanning-on-a-raspberry-pi-and-hq-camera-module-308a2540c5b8",
-    "upvotes": 124,
-    "author": "ENadyr",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26247348"
-  },
-  {
     "title": "Protest note about user privacy changes by Reddit",
     "url": "https://www.reddit.com/r/europe/comments/ls7ft8/protest_note_about_user_privacy_changes_by_reddit/",
-    "upvotes": 80,
+    "upvotes": 87,
     "author": "docdeek",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26272062"
+  },
+  {
+    "title": "How We Test Concurrent Primitives in Kotlin Coroutines",
+    "url": "https://blog.jetbrains.com/kotlin/2021/02/how-we-test-concurrent-primitives-in-kotlin-coroutines/",
+    "upvotes": 102,
+    "author": "ingve",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26249366"
   },
   {
     "title": "IoTaWatt Open Source WiFi Electric Power Monitor",
@@ -132,27 +132,19 @@
     "link": "https://news.ycombinator.com/item?id=26268460"
   },
   {
-    "title": "How We Test Concurrent Primitives in Kotlin Coroutines",
-    "url": "https://blog.jetbrains.com/kotlin/2021/02/how-we-test-concurrent-primitives-in-kotlin-coroutines/",
-    "upvotes": 98,
-    "author": "ingve",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26249366"
-  },
-  {
     "title": "One Way to Represent Things",
     "url": "https://macwright.com/2021/02/23/one-way-to-represent-things.html",
     "upvotes": 77,
     "author": "todsacerdoti",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26242495"
   },
   {
     "title": "1,000 True Fans",
     "url": "https://kk.org/thetechnium/1000-true-fans/",
-    "upvotes": 83,
+    "upvotes": 84,
     "author": "tosh",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26270182"
   },
   {
@@ -164,12 +156,12 @@
     "link": "https://news.ycombinator.com/item?id=26262465"
   },
   {
-    "title": "A Famous Black Hole Gets an Update",
-    "url": "https://www.nytimes.com/2021/02/18/science/cygnus-black-hole-astronomy.html",
-    "upvotes": 13,
-    "author": "furcyd",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26262148"
+    "title": "The Trade Effects of 3D Printing [pdf]",
+    "url": "http://documents1.worldbank.org/curated/en/152701569432061451/pdf/Is-3D-Printing-a-Threat-to-Global-Trade-The-Trade-Effects-You-Didnt-Hear-About.pdf",
+    "upvotes": 17,
+    "author": "searchableguy",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26250929"
   },
   {
     "title": "CP/Mish is an open source sort-of-CP/M distribution for Z80",
@@ -182,34 +174,34 @@
   {
     "title": "Google Analytics: Stop feeding the beast",
     "url": "https://casparwre.de/blog/stop-using-google-analytics/",
-    "upvotes": 670,
+    "upvotes": 672,
     "author": "caspii",
     "comments": 353,
     "link": "https://news.ycombinator.com/item?id=26263149"
   },
   {
-    "title": "The Trade Effects of 3D Printing [pdf]",
-    "url": "http://documents1.worldbank.org/curated/en/152701569432061451/pdf/Is-3D-Printing-a-Threat-to-Global-Trade-The-Trade-Effects-You-Didnt-Hear-About.pdf",
+    "title": "A Famous Black Hole Gets an Update",
+    "url": "https://www.nytimes.com/2021/02/18/science/cygnus-black-hole-astronomy.html",
     "upvotes": 15,
-    "author": "searchableguy",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26250929"
+    "author": "furcyd",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26262148"
   },
   {
     "title": "The future of web software is HTML over WebSockets",
     "url": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
-    "upvotes": 405,
+    "upvotes": 410,
     "author": "jack_riminton",
-    "comments": 254,
+    "comments": 259,
     "link": "https://news.ycombinator.com/item?id=26265999"
   },
   {
-    "title": "The GameStop Mess Exposes the Naked Short Selling Scam – The American Prospect",
-    "url": "https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/",
-    "upvotes": 59,
-    "author": "xbmcuser",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26271960"
+    "title": "ISO 8601: the better date format",
+    "url": "https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/",
+    "upvotes": 137,
+    "author": "kirbykevinson",
+    "comments": 195,
+    "link": "https://news.ycombinator.com/item?id=26272084"
   },
   {
     "title": "30k Hours",
@@ -220,19 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=26270207"
   },
   {
-    "title": "ISO 8601: the better date format",
-    "url": "https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/",
-    "upvotes": 130,
-    "author": "kirbykevinson",
-    "comments": 190,
-    "link": "https://news.ycombinator.com/item?id=26272084"
-  },
-  {
     "title": "Quitting Twitter",
     "url": "https://blog.nindalf.com/posts/quitting-twitter/",
-    "upvotes": 251,
+    "upvotes": 252,
     "author": "thewarrior",
-    "comments": 252,
+    "comments": 254,
     "link": "https://news.ycombinator.com/item?id=26267529"
+  },
+  {
+    "title": "Coinbase S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm",
+    "upvotes": 629,
+    "author": "kacy",
+    "comments": 673,
+    "link": "https://news.ycombinator.com/item?id=26262170"
+  },
+  {
+    "title": "Malaysian Grandfather Is Facing Death for Weed",
+    "url": "https://www.vice.com/en/article/g5bexx/dr-ganja-death-penalty-weed-medical-marijuana",
+    "upvotes": 6,
+    "author": "DyslexicAtheist",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26273273"
   }
 ]
