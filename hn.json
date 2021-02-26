@@ -2,15 +2,15 @@
   {
     "title": "The Framework Laptop",
     "url": "https://frame.work/blog/introducing-the-framework-laptop",
-    "upvotes": 1982,
+    "upvotes": 2021,
     "author": "bitigchi",
-    "comments": 799,
+    "comments": 809,
     "link": "https://news.ycombinator.com/item?id=26263508"
   },
   {
     "title": "Zine machine: a compact 3D-printed block printing press",
     "url": "https://hibred.pmvabf.org/zine-machine",
-    "upvotes": 108,
+    "upvotes": 115,
     "author": "hownottowrite",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26270251"
@@ -18,39 +18,47 @@
   {
     "title": "Map of my personal data infrastructure",
     "url": "https://beepb00p.xyz/myinfra.html",
-    "upvotes": 129,
+    "upvotes": 141,
     "author": "nreece",
-    "comments": 47,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26269832"
   },
   {
     "title": "Google Analytics: Stop feeding the beast",
     "url": "https://casparwre.de/blog/stop-using-google-analytics/",
-    "upvotes": 601,
+    "upvotes": 616,
     "author": "caspii",
-    "comments": 313,
+    "comments": 316,
     "link": "https://news.ycombinator.com/item?id=26263149"
   },
   {
     "title": "How We Test Concurrent Primitives in Kotlin Coroutines",
     "url": "https://blog.jetbrains.com/kotlin/2021/02/how-we-test-concurrent-primitives-in-kotlin-coroutines/",
-    "upvotes": 55,
+    "upvotes": 63,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26249366"
   },
   {
+    "title": "How often should I rotate my SSH keys?",
+    "url": "https://tailscale.com/blog/rotate-ssh-keys/",
+    "upvotes": 14,
+    "author": "todsacerdoti",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26249380"
+  },
+  {
     "title": "IoTaWatt Open Source WiFi Electric Power Monitor",
     "url": "https://www.iotawatt.com/",
-    "upvotes": 129,
+    "upvotes": 134,
     "author": "mrep",
-    "comments": 53,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26268460"
   },
   {
     "title": "OpenScan Offers 10-Micron 3D Scanning on a Raspberry Pi and HQ Camera Module",
     "url": "https://www.hackster.io/news/thomas-megel-s-openscan-offers-10-micron-3d-scanning-on-a-raspberry-pi-and-hq-camera-module-308a2540c5b8",
-    "upvotes": 92,
+    "upvotes": 97,
     "author": "ENadyr",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26247348"
@@ -58,39 +66,39 @@
   {
     "title": "1,000 True Fans",
     "url": "https://kk.org/thetechnium/1000-true-fans/",
-    "upvotes": 55,
+    "upvotes": 57,
     "author": "tosh",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26270182"
-  },
-  {
-    "title": "The future of web software is HTML over WebSockets",
-    "url": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
-    "upvotes": 314,
-    "author": "jack_riminton",
-    "comments": 214,
-    "link": "https://news.ycombinator.com/item?id=26265999"
   },
   {
     "title": "Launch HN: Enombic (YC S20) – Create your own stock indexes",
     "url": "item?id=26265872",
-    "upvotes": 170,
+    "upvotes": 175,
     "author": "kmckiern",
-    "comments": 142,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=26265872"
+  },
+  {
+    "title": "The future of web software is HTML over WebSockets",
+    "url": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
+    "upvotes": 318,
+    "author": "jack_riminton",
+    "comments": 219,
+    "link": "https://news.ycombinator.com/item?id=26265999"
   },
   {
     "title": "Semiconductors Demand 30% Above Supply, 20% Year-on-Year Growth",
     "url": "https://www.anandtech.com/show/16511/leading-foundries-enjoy-massive-revenue-growth-as-capacities-get-fully-loaded",
-    "upvotes": 122,
+    "upvotes": 130,
     "author": "ksec",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26267216"
   },
   {
     "title": "Local-First Software:You Own Your Data, in Spite of the Cloud",
     "url": "https://martin.kleppmann.com/papers/local-first.pdf",
-    "upvotes": 166,
+    "upvotes": 169,
     "author": "JeanMarcS",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26266881"
@@ -98,9 +106,9 @@
   {
     "title": "Lisbon’s startup scene rises as Portugal gears up",
     "url": "https://techcrunch.com/2021/01/07/lisbons-startup-scene-rises-as-portugal-gears-up-to-be-a-european-tech-tiger/",
-    "upvotes": 55,
+    "upvotes": 59,
     "author": "brauhaus",
-    "comments": 29,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26248981"
   },
   {
@@ -110,31 +118,55 @@
   {
     "title": "A solo journey to $100k in sales",
     "url": "https://draculatheme.com/pro/journey",
-    "upvotes": 414,
+    "upvotes": 419,
     "author": "zenorocha",
-    "comments": 141,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26262989"
+  },
+  {
+    "title": "Google admits Kubernetes container tech is too complex",
+    "url": "https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/",
+    "upvotes": 21,
+    "author": "pjmlp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26271470"
+  },
+  {
+    "title": "Show HN: Redbean: single-file distributable web server",
+    "url": "https://justine.lol/redbean/index.html",
+    "upvotes": 11,
+    "author": "jart",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26271117"
+  },
+  {
+    "title": "Show HN: CalcuLaTeX, a pretty-printing calculator language",
+    "url": "https://mkhan45.github.io/CalcuLaTeX-Web/",
+    "upvotes": 173,
+    "author": "fish45",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26250809"
+  },
+  {
+    "title": "AAA survey finds 86% of drivers afraid to ride in automated vehicles",
+    "url": "https://www.8newsnow.com/news/local-news/aaa-survey-finds-86-of-drivers-afraid-to-ride-in-automated-vehicles/",
+    "upvotes": 3,
+    "author": "jocker12",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26271460"
   },
   {
     "title": "30k Hours",
     "url": "https://github.com/breck7/30000hours",
     "upvotes": 37,
     "author": "breck",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26270207"
-  },
-  {
-    "title": "Show HN: CalcuLaTeX, a pretty-printing calculator language",
-    "url": "https://mkhan45.github.io/CalcuLaTeX-Web/",
-    "upvotes": 168,
-    "author": "fish45",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26250809"
   },
   {
     "title": "CP/Mish is an open source sort-of-CP/M distribution for Z80",
     "url": "http://cowlark.com/cpmish/index.html",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "mariuz",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26267707"
@@ -142,97 +174,65 @@
   {
     "title": "DigitalOcean S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1582961/000119312521055798/d898181ds1.htm",
-    "upvotes": 813,
+    "upvotes": 817,
     "author": "marc__1",
-    "comments": 379,
+    "comments": 381,
     "link": "https://news.ycombinator.com/item?id=26262465"
   },
   {
     "title": "A Minimal Email Client",
     "url": "https://manuelmoreale.com/emails",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "reimertz",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26248668"
   },
   {
-    "title": "How often should I rotate my SSH keys?",
-    "url": "https://tailscale.com/blog/rotate-ssh-keys/",
-    "upvotes": 3,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26249380"
-  },
-  {
     "title": "An Interview with Sci-Hub’s Alexandra Elbakyan on the Delhi HC Case",
     "url": "https://science.thewire.in/the-sciences/interview-alexandra-elbakyan-sci-hub-elsevier-academic-publishing-open-access/",
-    "upvotes": 184,
+    "upvotes": 186,
     "author": "amrrs",
-    "comments": 119,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26264378"
   },
   {
     "title": "Quitting Twitter",
     "url": "https://blog.nindalf.com/posts/quitting-twitter/",
-    "upvotes": 222,
+    "upvotes": 227,
     "author": "thewarrior",
-    "comments": 237,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=26267529"
-  },
-  {
-    "title": "Technology Without Industry",
-    "url": "https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html",
-    "upvotes": 55,
-    "author": "oli5679",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26268484"
-  },
-  {
-    "title": "Plain Text Protocols",
-    "url": "https://blainsmith.com/articles/plain-text-protocols/",
-    "upvotes": 181,
-    "author": "tate",
-    "comments": 155,
-    "link": "https://news.ycombinator.com/item?id=26263085"
-  },
-  {
-    "title": "Scientists begin building highly accurate digital twin of our planet",
-    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2021/02/a-highly-accurate-digital-twin-of-our-planet.html",
-    "upvotes": 105,
-    "author": "giuliomagnifico",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26263942"
-  },
-  {
-    "title": "Wi-Fi 6 is designed to reduce congestion from devices",
-    "url": "https://www.nytimes.com/2021/02/24/technology/personaltech/new-generation-wi-fi-home-network.html",
-    "upvotes": 106,
-    "author": "CapitalistCartr",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=26249175"
-  },
-  {
-    "title": "Coinbase S-1",
-    "url": "https://www.sec.gov/Archives/edgar/data/1679788/000162828021003168/coinbaseglobalincs-1.htm",
-    "upvotes": 609,
-    "author": "kacy",
-    "comments": 659,
-    "link": "https://news.ycombinator.com/item?id=26262170"
   },
   {
     "title": "Bitcoin not for me, says ex-Microsoft chief",
     "url": "https://www.bbc.com/news/technology-56195869",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "rmason",
-    "comments": 20,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26270046"
   },
   {
-    "title": "The battery invented 120 years before its time",
-    "url": "https://www.bbc.com/future/article/20210223-the-battery-invented-120-years-too-soon#:~:text=Future%20Planet&text=At%20the%20turn%20of%20the,is%20coming%20into%20its%20own.&text=Edison%20claimed%20the%20nickel%2Diron,fast%20as%20lead%2Dacid%20batteries.",
-    "upvotes": 17,
-    "author": "rmason",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26270013"
+    "title": "Plain Text Protocols",
+    "url": "https://blainsmith.com/articles/plain-text-protocols/",
+    "upvotes": 182,
+    "author": "tate",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=26263085"
+  },
+  {
+    "title": "Technology Without Industry",
+    "url": "https://geohot.github.io/blog/jekyll/update/2021/01/18/technology-without-industry.html",
+    "upvotes": 57,
+    "author": "oli5679",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26268484"
+  },
+  {
+    "title": "Scientists begin building highly accurate digital twin of our planet",
+    "url": "https://ethz.ch/en/news-and-events/eth-news/news/2021/02/a-highly-accurate-digital-twin-of-our-planet.html",
+    "upvotes": 109,
+    "author": "giuliomagnifico",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=26263942"
   }
 ]
