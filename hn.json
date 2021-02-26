@@ -2,94 +2,102 @@
   {
     "title": "Show HN: Redbean – Single-file distributable web server",
     "url": "https://justine.lol/redbean/index.html",
-    "upvotes": 168,
+    "upvotes": 268,
     "author": "jart",
-    "comments": 21,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26271117"
-  },
-  {
-    "title": "ISO 8601: the better date format",
-    "url": "https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/",
-    "upvotes": 29,
-    "author": "kirbykevinson",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26272084"
   },
   {
     "title": "Being on Call",
     "url": "https://tyler.kim/being-on-call",
-    "upvotes": 22,
+    "upvotes": 34,
     "author": "colluder",
-    "comments": 7,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26272170"
   },
   {
     "title": "How often should I rotate my SSH keys?",
     "url": "https://tailscale.com/blog/rotate-ssh-keys/",
-    "upvotes": 94,
+    "upvotes": 104,
     "author": "todsacerdoti",
-    "comments": 51,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26249380"
   },
   {
     "title": "Zine machine: a compact 3D-printed block printing press",
     "url": "https://hibred.pmvabf.org/zine-machine",
-    "upvotes": 152,
+    "upvotes": 158,
     "author": "hownottowrite",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26270251"
   },
   {
+    "title": "Intercal, YAML, and Other Horrible Programming Languages",
+    "url": "https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/",
+    "upvotes": 35,
+    "author": "sidcool",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26271582"
+  },
+  {
+    "title": "Google admits Kubernetes container tech is too complex",
+    "url": "https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/",
+    "upvotes": 186,
+    "author": "pjmlp",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26271470"
+  },
+  {
     "title": "The Framework Laptop",
     "url": "https://frame.work/blog/introducing-the-framework-laptop",
-    "upvotes": 2129,
+    "upvotes": 2145,
     "author": "bitigchi",
-    "comments": 841,
+    "comments": 848,
     "link": "https://news.ycombinator.com/item?id=26263508"
   },
   {
-    "title": "Intercal, YAML, and Other Horrible Programming Languages",
-    "url": "https://blog.earthly.dev/intercal-yaml-and-other-horrible-programming-languages/",
-    "upvotes": 27,
-    "author": "sidcool",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26271582"
+    "title": "The future of web software is HTML over WebSockets",
+    "url": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
+    "upvotes": 385,
+    "author": "jack_riminton",
+    "comments": 237,
+    "link": "https://news.ycombinator.com/item?id=26265999"
   },
   {
     "title": "Etleap (YC W13) Is Hiring a Customer Success Manager",
     "url": "item?id=26272048"
   },
   {
-    "title": "Google admits Kubernetes container tech is too complex",
-    "url": "https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/",
-    "upvotes": 149,
-    "author": "pjmlp",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26271470"
-  },
-  {
-    "title": "The future of web software is HTML over WebSockets",
-    "url": "https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/",
-    "upvotes": 371,
-    "author": "jack_riminton",
-    "comments": 234,
-    "link": "https://news.ycombinator.com/item?id=26265999"
-  },
-  {
     "title": "Map of my personal data infrastructure",
     "url": "https://beepb00p.xyz/myinfra.html",
-    "upvotes": 178,
+    "upvotes": 187,
     "author": "nreece",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26269832"
   },
   {
+    "title": "ISO 8601: the better date format",
+    "url": "https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/",
+    "upvotes": 80,
+    "author": "kirbykevinson",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=26272084"
+  },
+  {
     "title": "Launch HN: Enombic (YC S20) – Create your own stock indexes",
     "url": "item?id=26265872",
-    "upvotes": 194,
+    "upvotes": 199,
     "author": "kmckiern",
     "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26265872"
+  },
+  {
+    "title": "Protest note about user privacy changes by Reddit",
+    "url": "https://www.reddit.com/r/europe/comments/ls7ft8/protest_note_about_user_privacy_changes_by_reddit/",
+    "upvotes": 39,
+    "author": "docdeek",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26272062"
   },
   {
     "title": "How We Test Concurrent Primitives in Kotlin Coroutines",
@@ -102,135 +110,127 @@
   {
     "title": "OpenScan Offers 10-Micron 3D Scanning on a Raspberry Pi and HQ Camera Module",
     "url": "https://www.hackster.io/news/thomas-megel-s-openscan-offers-10-micron-3d-scanning-on-a-raspberry-pi-and-hq-camera-module-308a2540c5b8",
-    "upvotes": 114,
+    "upvotes": 116,
     "author": "ENadyr",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26247348"
+  },
+  {
+    "title": "Semiconductors Demand 30% Above Supply, 20% Year-on-Year Growth",
+    "url": "https://www.anandtech.com/show/16511/leading-foundries-enjoy-massive-revenue-growth-as-capacities-get-fully-loaded",
+    "upvotes": 162,
+    "author": "ksec",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=26267216"
   },
   {
     "title": "IoTaWatt Open Source WiFi Electric Power Monitor",
     "url": "https://www.iotawatt.com/",
-    "upvotes": 147,
+    "upvotes": 150,
     "author": "mrep",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26268460"
   },
   {
-    "title": "Semiconductors Demand 30% Above Supply, 20% Year-on-Year Growth",
-    "url": "https://www.anandtech.com/show/16511/leading-foundries-enjoy-massive-revenue-growth-as-capacities-get-fully-loaded",
-    "upvotes": 156,
-    "author": "ksec",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=26267216"
-  },
-  {
     "title": "Local-First Software:You Own Your Data, in Spite of the Cloud",
     "url": "https://martin.kleppmann.com/papers/local-first.pdf",
-    "upvotes": 187,
+    "upvotes": 192,
     "author": "JeanMarcS",
     "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26266881"
   },
   {
-    "title": "Protest note about user privacy changes by Reddit",
-    "url": "https://www.reddit.com/r/europe/comments/ls7ft8/protest_note_about_user_privacy_changes_by_reddit/",
-    "upvotes": 17,
-    "author": "docdeek",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26272062"
-  },
-  {
     "title": "One Way to Represent Things",
     "url": "https://macwright.com/2021/02/23/one-way-to-represent-things.html",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "todsacerdoti",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26242495"
-  },
-  {
-    "title": "1,000 True Fans",
-    "url": "https://kk.org/thetechnium/1000-true-fans/",
-    "upvotes": 73,
-    "author": "tosh",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26270182"
   },
   {
     "title": "Show HN: CalcuLaTeX, a pretty-printing calculator language",
     "url": "https://mkhan45.github.io/CalcuLaTeX-Web/",
-    "upvotes": 191,
+    "upvotes": 194,
     "author": "fish45",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26250809"
   },
   {
+    "title": "1,000 True Fans",
+    "url": "https://kk.org/thetechnium/1000-true-fans/",
+    "upvotes": 76,
+    "author": "tosh",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26270182"
+  },
+  {
     "title": "Lisbon’s startup scene rises as Portugal gears up",
     "url": "https://techcrunch.com/2021/01/07/lisbons-startup-scene-rises-as-portugal-gears-up-to-be-a-european-tech-tiger/",
-    "upvotes": 79,
+    "upvotes": 81,
     "author": "brauhaus",
-    "comments": 46,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26248981"
   },
   {
     "title": "DigitalOcean S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1582961/000119312521055798/d898181ds1.htm",
-    "upvotes": 830,
+    "upvotes": 836,
     "author": "marc__1",
-    "comments": 385,
+    "comments": 386,
     "link": "https://news.ycombinator.com/item?id=26262465"
-  },
-  {
-    "title": "CP/Mish is an open source sort-of-CP/M distribution for Z80",
-    "url": "http://cowlark.com/cpmish/index.html",
-    "upvotes": 80,
-    "author": "mariuz",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26267707"
   },
   {
     "title": "A Minimal Email Client",
     "url": "https://manuelmoreale.com/emails",
-    "upvotes": 130,
+    "upvotes": 133,
     "author": "reimertz",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26248668"
   },
   {
-    "title": "Google Analytics: Stop feeding the beast",
-    "url": "https://casparwre.de/blog/stop-using-google-analytics/",
-    "upvotes": 643,
-    "author": "caspii",
-    "comments": 335,
-    "link": "https://news.ycombinator.com/item?id=26263149"
+    "title": "CP/Mish is an open source sort-of-CP/M distribution for Z80",
+    "url": "http://cowlark.com/cpmish/index.html",
+    "upvotes": 81,
+    "author": "mariuz",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26267707"
   },
   {
     "title": "A Famous Black Hole Gets an Update",
     "url": "https://www.nytimes.com/2021/02/18/science/cygnus-black-hole-astronomy.html",
-    "upvotes": 5,
+    "upvotes": 7,
     "author": "furcyd",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26262148"
   },
   {
+    "title": "The GameStop Mess Exposes the Naked Short Selling Scam – The American Prospect",
+    "url": "https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/",
+    "upvotes": 33,
+    "author": "xbmcuser",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26271960"
+  },
+  {
+    "title": "Google Analytics: Stop feeding the beast",
+    "url": "https://casparwre.de/blog/stop-using-google-analytics/",
+    "upvotes": 646,
+    "author": "caspii",
+    "comments": 337,
+    "link": "https://news.ycombinator.com/item?id=26263149"
+  },
+  {
     "title": "The Trade Effects of 3D Printing [pdf]",
     "url": "http://documents1.worldbank.org/curated/en/152701569432061451/pdf/Is-3D-Printing-a-Threat-to-Global-Trade-The-Trade-Effects-You-Didnt-Hear-About.pdf",
-    "upvotes": 9,
+    "upvotes": 10,
     "author": "searchableguy",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26250929"
   },
   {
-    "title": "The GameStop Mess Exposes the Naked Short Selling Scam – The American Prospect",
-    "url": "https://prospect.org/power/gamestop-mess-exposes-the-naked-short-selling-scam/",
-    "upvotes": 25,
-    "author": "xbmcuser",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26271960"
-  },
-  {
     "title": "30k Hours",
     "url": "https://github.com/breck7/30000hours",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "breck",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26270207"
