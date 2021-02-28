@@ -1,72 +1,80 @@
 [
   {
+    "title": "Cinder – a C++ library for programming with aesthetic intent",
+    "url": "https://libcinder.org/",
+    "upvotes": 13,
+    "author": "gjvc",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26289200"
+  },
+  {
     "title": "Noweb – A Simple, Extensible Tool for Literate Programming",
     "url": "https://www.cs.tufts.edu/~nr/noweb/",
-    "upvotes": 66,
+    "upvotes": 75,
     "author": "Tomte",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26287728"
   },
   {
-    "title": "Ponzis and Bitcoin as a response to a bad economy: the case of Nigeria",
-    "url": "http://jpkoning.blogspot.com/2021/02/how-bad-economy-leads-to-ponzis-and.html",
-    "upvotes": 10,
-    "author": "jpkoning",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26289083"
-  },
-  {
-    "title": "Fake_contacts: Android app to create fake phone contacts, to do data-poisoning",
-    "url": "https://github.com/BillDietrich/fake_contacts",
-    "upvotes": 337,
-    "author": "karlzt",
-    "comments": 265,
-    "link": "https://news.ycombinator.com/item?id=26286194"
+    "title": "WebAssembly",
+    "url": "https://developer.mozilla.org/en-US/docs/WebAssembly",
+    "upvotes": 11,
+    "author": "fctorial",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26289080"
   },
   {
     "title": "Translating My Z3 Tutorial to Coq",
     "url": "https://www.philipzucker.com/translating-z3-to-coq/",
-    "upvotes": 11,
+    "upvotes": 19,
     "author": "philzook",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26288749"
   },
   {
-    "title": "A single cell slime mold makes decisions without a central nervous system",
-    "url": "https://www.tum.de/nc/en/about-tum/news/press-releases/details/36462/",
-    "upvotes": 113,
-    "author": "gmays",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26285926"
-  },
-  {
     "title": "Wi-LE: Can WiFi replace Bluetooth?",
     "url": "http://web.cs.ucla.edu/~omid/Papers/Hotnets19.pdf",
-    "upvotes": 15,
+    "upvotes": 31,
     "author": "docuru",
-    "comments": 4,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26283651"
   },
   {
-    "title": "The curious case of the handlebar bag scam",
-    "url": "https://cyclingtips.com/2021/02/route-werks-handlebar-bag-scam/",
-    "upvotes": 136,
-    "author": "Zhenya",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=26285655"
+    "title": "Fake_contacts: Android app to create fake phone contacts, to do data-poisoning",
+    "url": "https://github.com/BillDietrich/fake_contacts",
+    "upvotes": 350,
+    "author": "karlzt",
+    "comments": 271,
+    "link": "https://news.ycombinator.com/item?id=26286194"
+  },
+  {
+    "title": "A single cell slime mold makes decisions without a central nervous system",
+    "url": "https://www.tum.de/nc/en/about-tum/news/press-releases/details/36462/",
+    "upvotes": 117,
+    "author": "gmays",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26285926"
   },
   {
     "title": "Catfish Charlie, the CIA’s Robotic Spy",
     "url": "https://spectrum.ieee.org/tech-history/silicon-revolution/meet-catfish-charlie-the-cias-robotic-spy",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "kensai",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26283637"
   },
   {
+    "title": "The curious case of the handlebar bag scam",
+    "url": "https://cyclingtips.com/2021/02/route-werks-handlebar-bag-scam/",
+    "upvotes": 143,
+    "author": "Zhenya",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=26285655"
+  },
+  {
     "title": "DMR's Thesis: Unpacking an Enigma",
     "url": "https://dmrthesis.net",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "sritchie",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26288080"
@@ -74,9 +82,9 @@
   {
     "title": "Amazon rainforest rock art 'depicts giant Ice Age creatures'",
     "url": "https://www.bbc.com/news/world-latin-america-55172063",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "Thevet",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26284982"
   },
   {
@@ -84,73 +92,73 @@
     "url": "item?id=26288121"
   },
   {
-    "title": "As important as the Beetle? Two days with Volkswagen’s electric ID.4",
-    "url": "https://arstechnica.com/?p=1745730",
-    "upvotes": 29,
-    "author": "feross",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26288708"
-  },
-  {
-    "title": "Megastructures Superweapons and Global Architectures in Sci-Fi Computer Games",
-    "url": "https://www.academia.edu/36651707/Megastructures_Superweapons_and_Global_Architectures_in_Science_Fiction_Computer_Games",
-    "upvotes": 28,
-    "author": "niDistinct",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26287590"
+    "title": "1991's PC technology was unbelievable",
+    "url": "https://www.zdnet.com/article/1991s-pc-technology-was-unbelievable/",
+    "upvotes": 80,
+    "author": "doener",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=26283385"
   },
   {
     "title": "Massively parallel ultrafast random bit generation with a chip-scale laser",
     "url": "https://science.sciencemag.org/content/371/6532/948",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "ycnews",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26287811"
   },
   {
-    "title": "1991's PC technology was unbelievable",
-    "url": "https://www.zdnet.com/article/1991s-pc-technology-was-unbelievable/",
-    "upvotes": 70,
-    "author": "doener",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=26283385"
+    "title": "As important as the Beetle? Two days with Volkswagen’s electric ID.4",
+    "url": "https://arstechnica.com/?p=1745730",
+    "upvotes": 37,
+    "author": "feross",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26288708"
   },
   {
     "title": "Amazon rainforest plots sold via Facebook Marketplace ads",
     "url": "https://www.bbc.com/news/technology-56168844",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "bbirnbaum",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26287879"
   },
   {
+    "title": "Megastructures Superweapons and Global Architectures in Sci-Fi Computer Games",
+    "url": "https://www.academia.edu/36651707/Megastructures_Superweapons_and_Global_Architectures_in_Science_Fiction_Computer_Games",
+    "upvotes": 31,
+    "author": "niDistinct",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26287590"
+  },
+  {
     "title": "Why isn't Godot an ECS-based game engine?",
     "url": "https://godotengine.org/article/why-isnt-godot-ecs-based-game-engine",
-    "upvotes": 218,
+    "upvotes": 225,
     "author": "nafey",
-    "comments": 119,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=26284158"
   },
   {
     "title": "Show HN: Rich Text Math Editing on the Web with Markdown and AsciiMath",
     "url": "https://writer.math.dev/landing.html",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "abhinav22",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26287948"
   },
   {
-    "title": "Private contact discovery for Signal",
-    "url": "https://signal.org/blog/private-contact-discovery/",
-    "upvotes": 33,
-    "author": "tchalla",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26287381"
+    "title": "Zealandia: Earth’s Hidden Continent",
+    "url": "https://www.geosociety.org/gsatoday/archive/27/3/article/GSATG321A.1.htm",
+    "upvotes": 4,
+    "author": "Bluestein",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26284529"
   },
   {
     "title": "Launch HN: Spruce (YC W21) – OSS for User Owned and Provably Authentic Data",
     "url": "item?id=26285687",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "wyc",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26285687"
@@ -158,81 +166,73 @@
   {
     "title": "A Vim Guide for Advanced Users",
     "url": "https://thevaluable.dev/vim-advanced/",
-    "upvotes": 461,
+    "upvotes": 474,
     "author": "asicsp",
-    "comments": 124,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26284618"
-  },
-  {
-    "title": "Bitcoin's vast energy use could burst its bubble",
-    "url": "https://www.bbc.com/news/science-environment-56215787",
-    "upvotes": 9,
-    "author": "avi_vallarapu",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26289112"
   },
   {
     "title": "Alternative shell with native support for JSON, YAML, TOML, CSV, etc.",
     "url": "https://github.com/lmorg/murex",
-    "upvotes": 154,
+    "upvotes": 155,
     "author": "hnlmorg",
-    "comments": 70,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26284294"
+  },
+  {
+    "title": "Private contact discovery for Signal",
+    "url": "https://signal.org/blog/private-contact-discovery/",
+    "upvotes": 34,
+    "author": "tchalla",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26287381"
+  },
+  {
+    "title": "SolarWinds CEO blames intern for password leak",
+    "url": "https://edition.cnn.com/2021/02/26/politics/solarwinds123-password-intern/index.html",
+    "upvotes": 261,
+    "author": "tnolet",
+    "comments": 183,
+    "link": "https://news.ycombinator.com/item?id=26284782"
   },
   {
     "title": "Making hibernation work under Linux Lockdown",
     "url": "https://mjg59.dreamwidth.org/55845.html",
     "upvotes": 85,
     "author": "edward",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26285683"
   },
   {
-    "title": "SolarWinds CEO blames intern for password leak",
-    "url": "https://edition.cnn.com/2021/02/26/politics/solarwinds123-password-intern/index.html",
-    "upvotes": 248,
-    "author": "tnolet",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=26284782"
+    "title": "Bitcoin's vast energy use could burst its bubble",
+    "url": "https://www.bbc.com/news/science-environment-56215787",
+    "upvotes": 52,
+    "author": "avi_vallarapu",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26289112"
   },
   {
-    "title": "Optimal boarding method for airline passengers",
-    "url": "https://arxiv.org/abs/0802.0733",
-    "upvotes": 28,
-    "author": "tjalfi",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26285645"
+    "title": "NFTs and a Thousand True Fans",
+    "url": "https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans/",
+    "upvotes": 48,
+    "author": "parsecs",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26286991"
   },
   {
     "title": "Resources for chief technology officers, with the emphasis on startups",
     "url": "https://github.com/kuchin/awesome-cto",
-    "upvotes": 373,
+    "upvotes": 382,
     "author": "szimpl",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26284750"
   },
   {
-    "title": "NFTs and a Thousand True Fans",
-    "url": "https://a16z.com/2021/02/27/nfts-and-a-thousand-true-fans/",
-    "upvotes": 39,
-    "author": "parsecs",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26286991"
-  },
-  {
-    "title": "Build a Star Tracker for Your DSLR and Make Your Own Star Charts",
-    "url": "https://www.instructables.com/Build-a-star-tracker-for-your-DSLR-and-make-your-o/",
-    "upvotes": 23,
-    "author": "autoditype",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26286862"
-  },
-  {
-    "title": "Igalia will restart their",
-    "url": "https://mathml.igalia.com/news/2021/02/15/mathml-plans-for-2021/#new",
-    "upvotes": 38,
-    "author": "mindcrime",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26288454"
+    "title": "Optimal boarding method for airline passengers",
+    "url": "https://arxiv.org/abs/0802.0733",
+    "upvotes": 29,
+    "author": "tjalfi",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26285645"
   }
 ]
