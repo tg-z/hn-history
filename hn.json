@@ -2,39 +2,39 @@
   {
     "title": "How I cut GTA Online loading times by 70%",
     "url": "https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/",
-    "upvotes": 1776,
+    "upvotes": 1824,
     "author": "kuroguro",
-    "comments": 360,
+    "comments": 364,
     "link": "https://news.ycombinator.com/item?id=26296339"
   },
   {
     "title": "The Mars Helicopter Is Online and Getting Ready to Fly",
     "url": "https://www.universetoday.com/150224/the-mars-helicopter-is-online-and-getting-ready-to-fly/",
-    "upvotes": 426,
+    "upvotes": 429,
     "author": "CapitalistCartr",
-    "comments": 177,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=26294552"
-  },
-  {
-    "title": "Little League wants all your information",
-    "url": "https://honeypot.net/post/little-league-wants-all-your-information/",
-    "upvotes": 216,
-    "author": "ColinWright",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26296845"
   },
   {
     "title": "JSON parser written in 6502 assembly language",
     "url": "https://github.com/ppelleti/json65",
-    "upvotes": 47,
+    "upvotes": 51,
     "author": "lifthrasiir",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26298462"
+  },
+  {
+    "title": "Little League wants all your information",
+    "url": "https://honeypot.net/post/little-league-wants-all-your-information/",
+    "upvotes": 219,
+    "author": "ColinWright",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=26296845"
   },
   {
     "title": "OMU – “One Man Unix”",
     "url": "http://www.pix.net/mirrored/discordia.org.uk/~steve/omu.html",
-    "upvotes": 68,
+    "upvotes": 73,
     "author": "marcodiego",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26298022"
@@ -42,15 +42,15 @@
   {
     "title": "Not Lisp again",
     "url": "https://funcall.blogspot.com/2009/03/not-lisp-again.html",
-    "upvotes": 127,
+    "upvotes": 130,
     "author": "caslon",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26297040"
   },
   {
     "title": "A Native Tiling Window Manager for Windows 10, Inspired by I3wm",
     "url": "https://github.com/McYoloSwagHam/win3wm",
-    "upvotes": 234,
+    "upvotes": 236,
     "author": "mcyoloswagham",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26295100"
@@ -58,15 +58,15 @@
   {
     "title": "Cname / DNS based third party tracking",
     "url": "https://arxiv.org/abs/2102.09301v2",
-    "upvotes": 33,
+    "upvotes": 38,
     "author": "chdlr",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26297984"
   },
   {
     "title": "Procfs: Processes as Files",
     "url": "https://lucasvr.gobolinux.org/etc/Killian84-Procfs-USENIX.pdf",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "tanelpoder",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26298564"
@@ -78,7 +78,7 @@
   {
     "title": "RIP Flynn.io",
     "url": "https://github.com/flynn/flynn",
-    "upvotes": 199,
+    "upvotes": 203,
     "author": "corobo",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26295065"
@@ -86,7 +86,7 @@
   {
     "title": "Multi-User Dungeons",
     "url": "https://medium.com/@williamson.f93/multi-user-dungeons-muds-what-are-they-and-how-to-play-af3ec0f29f4a",
-    "upvotes": 135,
+    "upvotes": 142,
     "author": "niDistinct",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26291145"
@@ -94,10 +94,26 @@
   {
     "title": "Create animated GIF and WebP from videos using FFmpeg",
     "url": "https://mattj.io/posts/2021-02-27-create-animated-gif-and-webp-from-videos-using-ffmpeg/",
-    "upvotes": 98,
+    "upvotes": 102,
     "author": "Audiolite",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26296315"
+  },
+  {
+    "title": "Strange chip: Teardown of a vintage IBM token ring controller",
+    "url": "https://www.righto.com/2021/02/strange-chip-teardown-of-vintage-ibm.html",
+    "upvotes": 111,
+    "author": "parsecs",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26295435"
+  },
+  {
+    "title": "Squeak: A Free Smalltalk System – On RISC OS",
+    "url": "http://www.rowledge.org/tim/squeak/",
+    "upvotes": 22,
+    "author": "lproven",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26298075"
   },
   {
     "title": "Show HN: QueryCal – calculate metrics from your calendars using SQL",
@@ -108,44 +124,28 @@
     "link": "https://news.ycombinator.com/item?id=26292687"
   },
   {
-    "title": "Strange chip: Teardown of a vintage IBM token ring controller",
-    "url": "https://www.righto.com/2021/02/strange-chip-teardown-of-vintage-ibm.html",
-    "upvotes": 109,
-    "author": "parsecs",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26295435"
-  },
-  {
-    "title": "Squeak: A Free Smalltalk System – On RISC OS",
-    "url": "http://www.rowledge.org/tim/squeak/",
-    "upvotes": 20,
-    "author": "lproven",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26298075"
+    "title": "Get a Life",
+    "url": "http://crypto.stanford.edu/~blynn/haskell/life.html",
+    "upvotes": 111,
+    "author": "akkartik",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26295792"
   },
   {
     "title": "Reversible Computing",
     "url": "https://en.wikipedia.org/wiki/Reversible_computing",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "ve55",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26294693"
   },
   {
-    "title": "Get a Life",
-    "url": "http://crypto.stanford.edu/~blynn/haskell/life.html",
-    "upvotes": 105,
-    "author": "akkartik",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26295792"
-  },
-  {
-    "title": "Weird architectures weren't supported to begin with",
-    "url": "https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with",
-    "upvotes": 267,
-    "author": "woodruffw",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=26294397"
+    "title": "Making SoA Tollerable",
+    "url": "https://hacksoflife.blogspot.com/2021/02/making-soa-tollerable.html",
+    "upvotes": 3,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26293079"
   },
   {
     "title": "Gradient Free Optimizers: A collection of modern optimization methods in Python",
@@ -158,34 +158,42 @@
   {
     "title": "Apple removes $1k featureless iPhone application",
     "url": "https://latimesblogs.latimes.com/technology/2008/08/iphone-i-am-ric.html",
-    "upvotes": 78,
+    "upvotes": 82,
     "author": "EndXA",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26296870"
+  },
+  {
+    "title": "Weird architectures weren't supported to begin with",
+    "url": "https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with",
+    "upvotes": 269,
+    "author": "woodruffw",
+    "comments": 156,
+    "link": "https://news.ycombinator.com/item?id=26294397"
   },
   {
     "title": "Warren Buffett's bet against hedge funds at the Long Now Foundation",
     "url": "https://longbets.org/362/",
     "upvotes": 75,
     "author": "mooreds",
-    "comments": 92,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=26294386"
-  },
-  {
-    "title": "Users are losing out against Big Sur’s sealed System",
-    "url": "https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/",
-    "upvotes": 215,
-    "author": "zdw",
-    "comments": 236,
-    "link": "https://news.ycombinator.com/item?id=26295177"
   },
   {
     "title": "Snyk: Find and fix vulnerabilities in open-source dependencies",
     "url": "https://github.com/snyk/snyk",
-    "upvotes": 85,
+    "upvotes": 87,
     "author": "karlicoss",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26294972"
+  },
+  {
+    "title": "Users are losing out against Big Sur’s sealed System",
+    "url": "https://eclecticlight.co/2021/02/28/last-week-on-my-mac-users-are-losing-out-against-big-surs-sealed-system/",
+    "upvotes": 217,
+    "author": "zdw",
+    "comments": 246,
+    "link": "https://news.ycombinator.com/item?id=26295177"
   },
   {
     "title": "Unfolding the Earth: Myriahedral Projections",
@@ -198,10 +206,18 @@
   {
     "title": "Building a Design System at a Startup",
     "url": "https://medium.com/deepnote/building-a-design-system-at-a-startup-7b352d9875b3",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "sunaden",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26291215"
+  },
+  {
+    "title": "Ask HN: Should I pass on a new job because they want me to sign a non-compete?",
+    "url": "item?id=26299188",
+    "upvotes": 7,
+    "author": "trentnix",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26299188"
   },
   {
     "title": "Launch HN: Xix.ai (YC W17) – Securely authenticate in web apps by face",
@@ -218,21 +234,5 @@
     "author": "samclemens",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26285338"
-  },
-  {
-    "title": "Running my own DoH relay and getting Pi-hole protection away from home",
-    "url": "https://scotthelme.co.uk/running-my-own-doh-relay-and-getting-pihole/",
-    "upvotes": 31,
-    "author": "giuliomagnifico",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26291402"
-  },
-  {
-    "title": "The Half-Life of Code",
-    "url": "https://sandimetz.com/blog/2017/6/1/the-half-life-of-code",
-    "upvotes": 60,
-    "author": "tmfi",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26283343"
   }
 ]
