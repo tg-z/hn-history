@@ -1,99 +1,107 @@
 [
   {
-    "title": "Bitcoin Is Time",
-    "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
-    "upvotes": 34,
-    "author": "taylorwc",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26315923"
-  },
-  {
     "title": "SSH and User-Mode IP WireGuard",
     "url": "https://fly.io/blog/ssh-and-user-mode-ip-wireguard/",
-    "upvotes": 60,
+    "upvotes": 95,
     "author": "BCM43",
-    "comments": 15,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26315695"
-  },
-  {
-    "title": "Trust: The Need for Public Understanding of How Science Works",
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227",
-    "upvotes": 102,
-    "author": "XzetaU8",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26314610"
   },
   {
     "title": "Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube",
     "url": "https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/",
-    "upvotes": 32,
+    "upvotes": 65,
     "author": "coldpie",
-    "comments": 3,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26315368"
+  },
+  {
+    "title": "ClickHouse as an alternative to Elasticsearch for log storage and analysis",
+    "url": "https://pixeljets.com/blog/clickhouse-vs-elasticsearch/",
+    "upvotes": 15,
+    "author": "jetter",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26316401"
+  },
+  {
+    "title": "Trust: The Need for Public Understanding of How Science Works",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227",
+    "upvotes": 119,
+    "author": "XzetaU8",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=26314610"
   },
   {
     "title": "Statistics Postdoc Tames Decades-Old Geometry Problem",
     "url": "https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/",
-    "upvotes": 51,
+    "upvotes": 65,
     "author": "rbanffy",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26314900"
   },
   {
     "title": "Bash_unit – bash unit testing framework",
     "url": "https://github.com/pgrange/bash_unit",
-    "upvotes": 66,
+    "upvotes": 74,
     "author": "arunc",
-    "comments": 29,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26314160"
-  },
-  {
-    "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
-    "url": "item?id=26315585",
-    "upvotes": 26,
-    "author": "jayair",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26315585"
   },
   {
     "title": "Internet Archive Infrastructure",
     "url": "https://archive.org/details/jonah-edwards-presentation",
-    "upvotes": 387,
+    "upvotes": 401,
     "author": "mynameisbort",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26300191"
+  },
+  {
+    "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
+    "url": "item?id=26315585",
+    "upvotes": 34,
+    "author": "jayair",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26315585"
   },
   {
     "title": "Mrcal – Camera Calibrations and More",
     "url": "http://mrcal.secretsauce.net/",
-    "upvotes": 43,
+    "upvotes": 47,
     "author": "pabs3",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26300118"
   },
   {
     "title": "“someone uploaded ~3500 packages to PyPI that point to a malicious URL”",
     "url": "https://twitter.com/DataNerdery/status/1366263351685226499",
-    "upvotes": 86,
+    "upvotes": 112,
     "author": "DyslexicAtheist",
-    "comments": 37,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26315039"
-  },
-  {
-    "title": "Publisher Nacon Cracked and Pirated Our Game: The Sinking City",
-    "url": "https://frogwares.com/how-nacon-cracked-and-pirated-the-sinking-city/",
-    "upvotes": 338,
-    "author": "jccalhoun",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26311522"
   },
   {
     "title": "Mindsets to Avoid as a Senior Software Developer",
     "url": "https://betterprogramming.pub/the-3-mindsets-to-avoid-as-a-senior-software-developer-efc8fa17fc3",
-    "upvotes": 8,
+    "upvotes": 21,
     "author": "sidcool",
-    "comments": null,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26315116"
+  },
+  {
+    "title": "Publisher Nacon Cracked and Pirated Our Game: The Sinking City",
+    "url": "https://frogwares.com/how-nacon-cracked-and-pirated-the-sinking-city/",
+    "upvotes": 349,
+    "author": "jccalhoun",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=26311522"
+  },
+  {
+    "title": "The Web’s Missing Interoperability",
+    "url": "https://stratechery.com/2021/the-webs-missing-interoperability/",
+    "upvotes": 5,
+    "author": "davidmckenna",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26316209"
   },
   {
     "title": "KeyDB",
@@ -102,137 +110,129 @@
   {
     "title": "How to Read Assembly Language",
     "url": "https://wolchok.org/posts/how-to-read-assembly-language/",
-    "upvotes": 206,
+    "upvotes": 221,
     "author": "sidcool",
-    "comments": 59,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26311722"
   },
   {
     "title": "Element Matrix Services Announces Element Home",
     "url": "https://element.io/blog/element-home/",
-    "upvotes": 159,
+    "upvotes": 167,
     "author": "decrypt",
-    "comments": 107,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26311801"
   },
   {
     "title": "Proposal for an Internet Service: The Eternal Home Page",
     "url": "http://neilsloane.com/doc/eternal.html",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "jstrieb",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26313569"
   },
   {
     "title": "Show HN: Weather stations to detect thermal inversions, prevent pesticide drift",
     "url": "https://cotl.com.au/launch.html",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "Damon_Mesonet",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26313216"
   },
   {
     "title": "Are Xiaomi browsers spyware? Yes, they are",
     "url": "https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../",
-    "upvotes": 1091,
+    "upvotes": 1101,
     "author": "autoditype",
-    "comments": 422,
+    "comments": 427,
     "link": "https://news.ycombinator.com/item?id=26306661"
   },
   {
-    "title": "Google-Free Android Smartphones Are Now Available in the U.S.",
-    "url": "https://wccftech.com/google-free-android-smartphones-are-now-available-in-the-u-s/",
-    "upvotes": 51,
-    "author": "rbanffy",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26314954"
+    "title": "NASA Mars Perseverance Rover Uses Same PowerPC Chipset Found in 1998 G3 iMac",
+    "url": "https://www.macrumors.com/2021/03/02/nasa-mars-perseverance-rover-imac-powerpc/",
+    "upvotes": 8,
+    "author": "Tomte",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26316265"
   },
   {
-    "title": "WSL Hello Sudo: Face Recognition of Windows Hello on Windows Subsystem for Linux",
-    "url": "https://github.com/nullpo-head/WSL-Hello-sudo",
-    "upvotes": 193,
-    "author": "cglong",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26310461"
+    "title": "Bitcoin Is Time",
+    "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
+    "upvotes": 70,
+    "author": "taylorwc",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26315923"
   },
   {
     "title": "National Security Commission on Artificial Intelligence's Final Report",
     "url": "https://www.nscai.gov/2021-final-report/",
-    "upvotes": 119,
+    "upvotes": 126,
     "author": "AndrewKemendo",
-    "comments": 64,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26311616"
   },
   {
     "title": "Speed Is the Killer Feature",
     "url": "https://bdickason.com/posts/speed-is-the-killer-feature/",
-    "upvotes": 292,
+    "upvotes": 308,
     "author": "bdickason",
-    "comments": 259,
+    "comments": 277,
     "link": "https://news.ycombinator.com/item?id=26312516"
-  },
-  {
-    "title": "React Cosmos – Build UIs at Scale",
-    "url": "https://reactcosmos.org/",
-    "upvotes": 74,
-    "author": "delduca",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26302416"
-  },
-  {
-    "title": "Hollywood’s Economy of Secrets",
-    "url": "https://www.wired.com/story/sex-tapes-hush-money-hollywood-kevin-blatt/",
-    "upvotes": 47,
-    "author": "sillybilly",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26309110"
   },
   {
     "title": "Apple Card Disabled My iCloud, App Store, and Apple ID Accounts",
     "url": "https://dcurt.is/apple-card-can-disable-your-icloud-account",
-    "upvotes": 582,
+    "upvotes": 597,
     "author": "sp332",
-    "comments": 245,
+    "comments": 255,
     "link": "https://news.ycombinator.com/item?id=26310817"
   },
   {
-    "title": "Abandoned Side Project That Quietly Turned into a $700m/Year Revenue Business",
-    "url": "https://entrepreneurshandbook.co/a-web-designer-turned-his-side-project-into-a-700m-year-revenue-business-without-vc-money-55cd13ee560",
-    "upvotes": 30,
-    "author": "Anon84",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26315100"
+    "title": "React Cosmos – Build UIs at Scale",
+    "url": "https://reactcosmos.org/",
+    "upvotes": 83,
+    "author": "delduca",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26302416"
   },
   {
     "title": "Edit: A text-editor mixing vi and Acme",
     "url": "https://c9x.me/edit/",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "caslon",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26311168"
   },
   {
-    "title": "LastPass Android app has got 7 trackers in it",
-    "url": "https://reports.exodus-privacy.eu.org/en/reports/165465/",
-    "upvotes": 253,
-    "author": "aquir",
-    "comments": 208,
-    "link": "https://news.ycombinator.com/item?id=26313254"
+    "title": "Google-Free Android Smartphones Are Now Available in the U.S.",
+    "url": "https://wccftech.com/google-free-android-smartphones-are-now-available-in-the-u-s/",
+    "upvotes": 60,
+    "author": "rbanffy",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26314954"
+  },
+  {
+    "title": "Hollywood’s Economy of Secrets",
+    "url": "https://www.wired.com/story/sex-tapes-hush-money-hollywood-kevin-blatt/",
+    "upvotes": 52,
+    "author": "sillybilly",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26309110"
   },
   {
     "title": "Literate: A Flexible Literate Programming System",
     "url": "https://zyedidia.github.io/literate/index.html",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "cableclasper",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26311089"
   },
   {
-    "title": "U.S. asks Google for detailed search data in antitrust case",
-    "url": "https://www.bnnbloomberg.ca/u-s-asks-google-for-detailed-search-data-in-antitrust-case-1.1570497",
-    "upvotes": 221,
-    "author": "johncena33",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26310292"
+    "title": "LastPass Android app has got 7 trackers in it",
+    "url": "https://reports.exodus-privacy.eu.org/en/reports/165465/",
+    "upvotes": 266,
+    "author": "aquir",
+    "comments": 217,
+    "link": "https://news.ycombinator.com/item?id=26313254"
   }
 ]
