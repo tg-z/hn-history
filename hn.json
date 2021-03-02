@@ -2,23 +2,23 @@
   {
     "title": "Are Xiaomi browsers spyware? Yes, they are",
     "url": "https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../",
-    "upvotes": 708,
+    "upvotes": 725,
     "author": "autoditype",
-    "comments": 284,
+    "comments": 289,
     "link": "https://news.ycombinator.com/item?id=26306661"
   },
   {
     "title": "U.S. asks Google for detailed search data in antitrust case",
     "url": "https://www.bnnbloomberg.ca/u-s-asks-google-for-detailed-search-data-in-antitrust-case-1.1570497",
-    "upvotes": 91,
+    "upvotes": 97,
     "author": "johncena33",
-    "comments": 41,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26310292"
   },
   {
     "title": "WSL Hello Sudo: Face Recognition of Windows Hello on Windows Subsystem for Linux",
     "url": "https://github.com/nullpo-head/WSL-Hello-sudo",
-    "upvotes": 78,
+    "upvotes": 86,
     "author": "cglong",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26310461"
@@ -26,31 +26,39 @@
   {
     "title": "Peer-to-Peer Databases for the Decentralized Web",
     "url": "https://orbitdb.org/",
-    "upvotes": 90,
+    "upvotes": 98,
     "author": "fossislife",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26310094"
   },
   {
     "title": "Lyra audio codec enables high-quality voice calls at 3 kbps bitrate",
     "url": "https://www.cnx-software.com/2021/02/28/lyra-audio-codec-enables-3-kbps-bitrate-for-high-quality-voice-calls/",
-    "upvotes": 216,
+    "upvotes": 225,
     "author": "homarp",
-    "comments": 130,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=26300229"
+  },
+  {
+    "title": "Edit: A text-editor mixing vi and Acme",
+    "url": "https://c9x.me/edit/",
+    "upvotes": 21,
+    "author": "caslon",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26311168"
   },
   {
     "title": "Low Earth Orbit Visualization",
     "url": "https://platform.leolabs.space/visualization",
-    "upvotes": 125,
+    "upvotes": 139,
     "author": "vortex_ape",
-    "comments": 33,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26309367"
   },
   {
     "title": "Literate: A Flexible Literate Programming System",
     "url": "https://zyedidia.github.io/literate/index.html",
-    "upvotes": 21,
+    "upvotes": 28,
     "author": "cableclasper",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26311089"
@@ -58,115 +66,99 @@
   {
     "title": "Apple Card Disabled My iCloud, App Store, and Apple ID Accounts",
     "url": "https://dcurt.is/apple-card-can-disable-your-icloud-account",
-    "upvotes": 228,
+    "upvotes": 248,
     "author": "sp332",
-    "comments": 83,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=26310817"
-  },
-  {
-    "title": "Edit: A text-editor mixing vi and Acme",
-    "url": "https://c9x.me/edit/",
-    "upvotes": 10,
-    "author": "caslon",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26311168"
   },
   {
     "title": "Foundational Distributed Systems Papers",
     "url": "http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html",
-    "upvotes": 137,
+    "upvotes": 146,
     "author": "mastabadtomm",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26292627"
+  },
+  {
+    "title": "Parsing can become accidentally quadratic because of sscanf",
+    "url": "https://github.com/biojppm/rapidyaml/issues/40",
+    "upvotes": 451,
+    "author": "JdeBP",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=26302744"
   },
   {
     "title": "Laylo Is Hiring a Senior Front End",
     "url": "item?id=26310633"
   },
   {
-    "title": "Parsing can become accidentally quadratic because of sscanf",
-    "url": "https://github.com/biojppm/rapidyaml/issues/40",
-    "upvotes": 449,
-    "author": "JdeBP",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=26302744"
-  },
-  {
-    "title": "Show HN: Fast Rolling Quantiles for Python",
-    "url": "https://github.com/marmarelis/rolling-quantiles",
-    "upvotes": 24,
-    "author": "myrl",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26310780"
-  },
-  {
-    "title": "Ask HN: Who is hiring?",
-    "url": "item?id=26304051",
-    "upvotes": 312,
-    "author": "whoishiring",
-    "comments": 692,
-    "link": "https://news.ycombinator.com/item?id=26304051"
+    "title": "Compass S-1",
+    "url": "https://www.sec.gov/Archives/edgar/data/0001563190/000119312521063859/d36119ds1.htm",
+    "upvotes": 61,
+    "author": "zacharyozer",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26310113"
   },
   {
     "title": "Splitting the Ping",
     "url": "https://blog.benjojo.co.uk/post/ping-with-loss-latency-split",
-    "upvotes": 41,
+    "upvotes": 45,
     "author": "symisc_devel",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26309833"
+  },
+  {
+    "title": "Ask HN: Who is hiring?",
+    "url": "item?id=26304051",
+    "upvotes": 314,
+    "author": "whoishiring",
+    "comments": 694,
+    "link": "https://news.ycombinator.com/item?id=26304051"
   },
   {
     "title": "Demoscene the Amiga Years Volume 1",
     "url": "https://www.editions64k.fr/",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "doener",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26308978"
   },
   {
     "title": "'It's not in books, it's in the world': Lawrence Ferlinghetti's shining legacy",
     "url": "https://www.sfgate.com/sf-culture/article/It-s-not-in-books-it-s-in-the-world-Lawrence-15979936.php",
-    "upvotes": 8,
+    "upvotes": 9,
     "author": "pepys",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26300100"
   },
   {
+    "title": "Show HN: Fast Rolling Quantiles for Python",
+    "url": "https://github.com/marmarelis/rolling-quantiles",
+    "upvotes": 29,
+    "author": "myrl",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26310780"
+  },
+  {
     "title": "Why does an A note sound different across instruments?",
     "url": "https://omarshehata.me/notebook/exploring_sound",
-    "upvotes": 114,
+    "upvotes": 117,
     "author": "OmarShehata",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26308241"
   },
   {
     "title": "Your Thinking Rate Is Fixed",
     "url": "https://fs.blog/2021/03/thinking-rate-fixed/",
-    "upvotes": 155,
+    "upvotes": 157,
     "author": "feross",
-    "comments": 96,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=26302455"
-  },
-  {
-    "title": "Compass S-1",
-    "url": "https://www.sec.gov/Archives/edgar/data/0001563190/000119312521063859/d36119ds1.htm",
-    "upvotes": 59,
-    "author": "zacharyozer",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26310113"
-  },
-  {
-    "title": "Use Touch ID for Sudo on Mac",
-    "url": "https://davidwalsh.name/touch-sudo",
-    "upvotes": 467,
-    "author": "syck",
-    "comments": 196,
-    "link": "https://news.ycombinator.com/item?id=26302139"
   },
   {
     "title": "Generate Flowcharts from Text",
     "url": "https://flowchart.fun/",
-    "upvotes": 393,
+    "upvotes": 398,
     "author": "tonerow",
     "comments": 116,
     "link": "https://news.ycombinator.com/item?id=26303784"
@@ -174,7 +166,7 @@
   {
     "title": "Pyroscope: Continuous Profiling Platform",
     "url": "https://github.com/pyroscope-io/pyroscope",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "rbanffy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26301164"
@@ -182,15 +174,15 @@
   {
     "title": "Bastion – A Highly-Available Distributed Fault-Tolerant Runtime for Rust",
     "url": "https://github.com/bastion-rs/bastion/blob/master/README.md",
-    "upvotes": 142,
+    "upvotes": 144,
     "author": "ibraheemdev",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26304568"
   },
   {
     "title": "Show HN: Ten seconds to ponder if a thread is worth it",
     "url": "https://gist.github.com/veggiedefender/64079c9b14b8e2866b99918ef54e047b",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "eat_veggies",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26306478"
@@ -198,7 +190,7 @@
   {
     "title": "Launch HN: Corrily (YC W21) – Price Optimization for SaaS",
     "url": "item?id=26302217",
-    "upvotes": 61,
+    "upvotes": 63,
     "author": "abelr",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26302217"
@@ -206,33 +198,41 @@
   {
     "title": "Amiga Video Slot RGB to HDMI",
     "url": "https://github.com/Bloodmosher/Amiga-VideoSlot-RGBtoHDMI",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "zdw",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26308973"
+  },
+  {
+    "title": "75 Years Ago, 'War of the Worlds' Started a Panic. Or Did It?",
+    "url": "https://slate.com/culture/2013/10/orson-welles-war-of-the-worlds-panic-myth-the-infamous-radio-broadcast-did-not-cause-a-nationwide-hysteria.html",
+    "upvotes": 75,
+    "author": "1cvmask",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=26305384"
   },
   {
     "title": "Some Were Meant For C",
     "url": "https://www.cs.kent.ac.uk/people/staff/srk21/research/papers/kell17some-preprint.pdf",
     "upvotes": 86,
     "author": "fractalb",
-    "comments": 108,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=26300199"
-  },
-  {
-    "title": "75 Years Ago, 'War of the Worlds' Started a Panic. Or Did It?",
-    "url": "https://slate.com/culture/2013/10/orson-welles-war-of-the-worlds-panic-myth-the-infamous-radio-broadcast-did-not-cause-a-nationwide-hysteria.html",
-    "upvotes": 73,
-    "author": "1cvmask",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26305384"
   },
   {
     "title": "Introducing dbt + Materialize",
     "url": "https://materialize.com/introducing-dbt-materialize/",
-    "upvotes": 87,
+    "upvotes": 93,
     "author": "jldlaughlin",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26306861"
+  },
+  {
+    "title": "Sir Kazuo Ishiguro warns of young authors self-censoring out of 'fear'",
+    "url": "https://www.bbc.com/news/entertainment-arts-56208347",
+    "upvotes": 350,
+    "author": "undefined1",
+    "comments": 567,
+    "link": "https://news.ycombinator.com/item?id=26305624"
   }
 ]
