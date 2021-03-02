@@ -1,74 +1,82 @@
 [
   {
+    "title": "jQuery 3.6.0",
+    "url": "http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/",
+    "upvotes": 45,
+    "author": "mkurz",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26318872"
+  },
+  {
     "title": "ClickHouse as an alternative to Elasticsearch for log storage and analysis",
     "url": "https://pixeljets.com/blog/clickhouse-vs-elasticsearch/",
-    "upvotes": 179,
+    "upvotes": 190,
     "author": "jetter",
-    "comments": 65,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26316401"
   },
   {
     "title": "Lotus 1-2-3 arbitrary resolution",
     "url": "https://lock.cmpxchg8b.com/lotus123.html",
-    "upvotes": 106,
+    "upvotes": 143,
     "author": "diffuse_l",
-    "comments": 26,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26316637"
   },
   {
     "title": "Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube",
     "url": "https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/",
-    "upvotes": 177,
+    "upvotes": 193,
     "author": "coldpie",
-    "comments": 29,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26315368"
   },
   {
     "title": "SSH and User-Mode IP WireGuard",
     "url": "https://fly.io/blog/ssh-and-user-mode-ip-wireguard/",
-    "upvotes": 198,
+    "upvotes": 208,
     "author": "BCM43",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26315695"
-  },
-  {
-    "title": "Launch HN: Athens Research (YC W21) – Open-Source Roam Research",
-    "url": "item?id=26316793",
-    "upvotes": 144,
-    "author": "tangjeff0",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26316793"
   },
   {
     "title": "Robot AI beats world-class curling competitors",
     "url": "https://www.scientificamerican.com/video/watch-a-robot-ai-beat-world-class-curling-competitors/",
-    "upvotes": 14,
+    "upvotes": 27,
     "author": "pmontra",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26318362"
+  },
+  {
+    "title": "Launch HN: Athens Research (YC W21) – Open-Source Roam Research",
+    "url": "item?id=26316793",
+    "upvotes": 159,
+    "author": "tangjeff0",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26316793"
   },
   {
     "title": "The Web’s Missing Interoperability",
     "url": "https://stratechery.com/2021/the-webs-missing-interoperability/",
-    "upvotes": 73,
+    "upvotes": 81,
     "author": "davidmckenna",
-    "comments": 26,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26316209"
   },
   {
     "title": "Bitcoin Is Time",
     "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
-    "upvotes": 196,
+    "upvotes": 212,
     "author": "taylorwc",
-    "comments": 403,
+    "comments": 459,
     "link": "https://news.ycombinator.com/item?id=26315923"
   },
   {
     "title": "SEMrush S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1831840/000162828021003658/semrushforms-1.htm",
-    "upvotes": 7,
+    "upvotes": 19,
     "author": "us0r",
-    "comments": 3,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26318586"
   },
   {
@@ -78,137 +86,145 @@
   {
     "title": "Statistics Postdoc Tames Decades-Old Geometry Problem",
     "url": "https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/",
-    "upvotes": 120,
+    "upvotes": 129,
     "author": "rbanffy",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26314900"
   },
   {
     "title": "Speed Is the Killer Feature",
     "url": "https://bdickason.com/posts/speed-is-the-killer-feature/",
-    "upvotes": 428,
+    "upvotes": 435,
     "author": "bdickason",
-    "comments": 375,
+    "comments": 392,
     "link": "https://news.ycombinator.com/item?id=26312516"
-  },
-  {
-    "title": "How an Anti-TypeScript “JavaScript developer” like me became a TypeScript fan",
-    "url": "https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7",
-    "upvotes": 103,
-    "author": "chiragswadia",
-    "comments": 182,
-    "link": "https://news.ycombinator.com/item?id=26314756"
-  },
-  {
-    "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
-    "url": "item?id=26315585",
-    "upvotes": 64,
-    "author": "jayair",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26315585"
-  },
-  {
-    "title": "Internet Archive Infrastructure",
-    "url": "https://archive.org/details/jonah-edwards-presentation",
-    "upvotes": 466,
-    "author": "mynameisbort",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26300191"
   },
   {
     "title": "Teams for Education",
     "url": "https://repl.it/teams-for-education",
-    "upvotes": 26,
+    "upvotes": 34,
     "author": "dsr12",
-    "comments": 9,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26317642"
   },
   {
-    "title": "Early Byzantine finds at the far ends of the world",
-    "url": "https://www.caitlingreen.org/2017/03/a-very-long-way-from-home.html",
-    "upvotes": 13,
-    "author": "Thevet",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26310569"
+    "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
+    "url": "item?id=26315585",
+    "upvotes": 71,
+    "author": "jayair",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26315585"
   },
   {
-    "title": "Giving Ada a Chance",
-    "url": "https://ajxs.me/blog/Giving_Ada_a_chance.html",
-    "upvotes": 45,
-    "author": "jayp1418",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26302344"
+    "title": "Google-free /e/ OS is now selling preloaded phones in the US, starting at $380",
+    "url": "https://arstechnica.com/gadgets/2021/03/google-free-e-os-is-now-selling-pre-loaded-phones-in-the-us-starting-at-380/",
+    "upvotes": 39,
+    "author": "thg",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26318731"
+  },
+  {
+    "title": "How an Anti-TypeScript “JavaScript developer” like me became a TypeScript fan",
+    "url": "https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7",
+    "upvotes": 107,
+    "author": "chiragswadia",
+    "comments": 190,
+    "link": "https://news.ycombinator.com/item?id=26314756"
   },
   {
     "title": "Elegant Bash Conditionals",
     "url": "https://timvisee.com/blog/elegant-bash-conditionals/",
-    "upvotes": 6,
+    "upvotes": 10,
     "author": "timvisee",
-    "comments": 2,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26314489"
+  },
+  {
+    "title": "Giving Ada a Chance",
+    "url": "https://ajxs.me/blog/Giving_Ada_a_chance.html",
+    "upvotes": 54,
+    "author": "jayp1418",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26302344"
+  },
+  {
+    "title": "Rent controls have split housing in Berlin into two distinct markets",
+    "url": "https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared",
+    "upvotes": 68,
+    "author": "vanburen",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=26315434"
+  },
+  {
+    "title": "Early Byzantine finds at the far ends of the world",
+    "url": "https://www.caitlingreen.org/2017/03/a-very-long-way-from-home.html",
+    "upvotes": 17,
+    "author": "Thevet",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26310569"
   },
   {
     "title": "Mrcal – Camera Calibrations and More",
     "url": "http://mrcal.secretsauce.net/",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "pabs3",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26300118"
+  },
+  {
+    "title": "Perseverance rover uses same PowerPC chipset found in 1998 G3 iMac",
+    "url": "https://www.macrumors.com/2021/03/02/nasa-mars-perseverance-rover-imac-powerpc/",
+    "upvotes": 62,
+    "author": "Tomte",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26316265"
   },
   {
     "title": "3500 packages uploaded to PyPI, pointing to a malicious URL",
     "url": "https://twitter.com/DataNerdery/status/1366263351685226499",
-    "upvotes": 195,
+    "upvotes": 206,
     "author": "DyslexicAtheist",
-    "comments": 90,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26315039"
   },
   {
     "title": "Almost 40% of U.S. Consumers Trust Online Reviews Less Than They Did 5 Years Ago",
     "url": "https://www.reviews.com/home/security-systems/almost-40-percent-of-us-consumers-trust-online-reviews-less-than-they-did-five-years-ago/",
-    "upvotes": 95,
+    "upvotes": 119,
     "author": "sharkweek",
-    "comments": 79,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=26317741"
   },
   {
     "title": "Trust: The Need for Public Understanding of How Science Works",
     "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227",
-    "upvotes": 158,
+    "upvotes": 164,
     "author": "XzetaU8",
-    "comments": 176,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=26314610"
   },
   {
-    "title": "Bash_unit – bash unit testing framework",
-    "url": "https://github.com/pgrange/bash_unit",
-    "upvotes": 90,
-    "author": "arunc",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=26314160"
+    "title": "Semantic Versioning Will Not Save You",
+    "url": "https://hynek.me/articles/semver-will-not-save-you/",
+    "upvotes": 43,
+    "author": "smitty1e",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26314620"
   },
   {
-    "title": "Google-free /e/ OS is now selling preloaded phones in the US, starting at $380",
-    "url": "https://arstechnica.com/gadgets/2021/03/google-free-e-os-is-now-selling-pre-loaded-phones-in-the-us-starting-at-380/",
-    "upvotes": 12,
-    "author": "thg",
+    "title": "The End of Indie",
+    "url": "https://medium.com/@bryce/the-end-of-indie-6e1b92d90b09",
+    "upvotes": 23,
+    "author": "_pius",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26318731"
-  },
-  {
-    "title": "Element Matrix Services Announces Element Home",
-    "url": "https://element.io/blog/element-home/",
-    "upvotes": 188,
-    "author": "decrypt",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=26311801"
+    "link": "https://news.ycombinator.com/item?id=26318721"
   },
   {
     "title": "Proposal for an Internet Service: The Eternal Home Page",
     "url": "http://neilsloane.com/doc/eternal.html",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "jstrieb",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26313569"
   },
   {
@@ -218,21 +234,5 @@
     "author": "Damon_Mesonet",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26313216"
-  },
-  {
-    "title": "MailChimp: A side project that turned into a $700m/year revenue business",
-    "url": "https://entrepreneurshandbook.co/a-web-designer-turned-his-side-project-into-a-700m-year-revenue-business-without-vc-money-55cd13ee560",
-    "upvotes": 113,
-    "author": "Anon84",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26315100"
-  },
-  {
-    "title": "Are Xiaomi browsers spyware? Yes, they are",
-    "url": "https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../",
-    "upvotes": 1150,
-    "author": "autoditype",
-    "comments": 447,
-    "link": "https://news.ycombinator.com/item?id=26306661"
   }
 ]
