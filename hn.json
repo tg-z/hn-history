@@ -1,48 +1,64 @@
 [
   {
+    "title": "MIT Press has granted full access to all its journals",
+    "url": "https://www.mitpressjournals.org/action/showPublications",
+    "upvotes": 53,
+    "author": "orixilus",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26322089"
+  },
+  {
     "title": "Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut",
     "url": "https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html",
-    "upvotes": 383,
+    "upvotes": 427,
     "author": "adrian_mrd",
-    "comments": 364,
+    "comments": 408,
     "link": "https://news.ycombinator.com/item?id=26319850"
   },
   {
-    "title": "Watchy: The Hackable $50 Smartwatch",
-    "url": "https://spectrum.ieee.org/geek-life/hands-on/watchy-the-hackable-50-smartwatch",
-    "upvotes": 58,
-    "author": "ystad",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26320532"
+    "title": "“This destroys the RSA cryptosystem”",
+    "url": "https://eprint.iacr.org/2021/232",
+    "upvotes": 112,
+    "author": "renaudg",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26321962"
   },
   {
     "title": "For the First Time, Physicists Have Filmed the Oscillation of a Time Crystal",
     "url": "https://www.sciencealert.com/watch-the-first-ever-video-of-a-time-crystal-oscillating",
-    "upvotes": 84,
+    "upvotes": 95,
     "author": "IFR",
-    "comments": 25,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26313932"
   },
   {
     "title": "Lotus 1-2-3 arbitrary resolution",
     "url": "https://lock.cmpxchg8b.com/lotus123.html",
-    "upvotes": 272,
+    "upvotes": 277,
     "author": "diffuse_l",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26316637"
   },
   {
     "title": "ClickHouse as an alternative to Elasticsearch for log storage and analysis",
     "url": "https://pixeljets.com/blog/clickhouse-vs-elasticsearch/",
-    "upvotes": 266,
+    "upvotes": 269,
     "author": "jetter",
-    "comments": 103,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=26316401"
+  },
+  {
+    "title": "Watchy: The Hackable $50 Smartwatch",
+    "url": "https://spectrum.ieee.org/geek-life/hands-on/watchy-the-hackable-50-smartwatch",
+    "upvotes": 67,
+    "author": "ystad",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26320532"
   },
   {
     "title": "Robot AI beats world-class curling competitors",
     "url": "https://www.scientificamerican.com/video/watch-a-robot-ai-beat-world-class-curling-competitors/",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "pmontra",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26318362"
@@ -50,78 +66,118 @@
   {
     "title": "Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube",
     "url": "https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/",
-    "upvotes": 238,
+    "upvotes": 239,
     "author": "coldpie",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26315368"
-  },
-  {
-    "title": "SSH and User-Mode IP WireGuard",
-    "url": "https://fly.io/blog/ssh-and-user-mode-ip-wireguard/",
-    "upvotes": 264,
-    "author": "BCM43",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26315695"
   },
   {
     "title": "Volley",
     "url": "https://jobs.lever.co/volleythat"
   },
   {
-    "title": "jQuery 3.6.0",
-    "url": "http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/",
-    "upvotes": 220,
-    "author": "mkurz",
-    "comments": 184,
-    "link": "https://news.ycombinator.com/item?id=26318872"
+    "title": "SSH and User-Mode IP WireGuard",
+    "url": "https://fly.io/blog/ssh-and-user-mode-ip-wireguard/",
+    "upvotes": 268,
+    "author": "BCM43",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=26315695"
   },
   {
     "title": "Cryptic terrestrial fungus-like fossils of the early Ediacaran Period",
     "url": "https://www.nature.com/articles/s41467-021-20975-1",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "bryanrasmussen",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26320627"
   },
   {
     "title": "Dieter Rams Palettes",
     "url": "http://blog.presentandcorrect.com/rams-palettes",
-    "upvotes": 59,
+    "upvotes": 67,
     "author": "bookofjoe",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26318379"
+  },
+  {
+    "title": "jQuery 3.6.0",
+    "url": "http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/",
+    "upvotes": 227,
+    "author": "mkurz",
+    "comments": 190,
+    "link": "https://news.ycombinator.com/item?id=26318872"
   },
   {
     "title": "Launch HN: Athens Research (YC W21) – Open-Source Roam Research",
     "url": "item?id=26316793",
-    "upvotes": 207,
+    "upvotes": 209,
     "author": "tangjeff0",
-    "comments": 90,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=26316793"
+  },
+  {
+    "title": "Can One Hear the Shape of a Drum? [pdf]",
+    "url": "https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/MarkKac.pdf",
+    "upvotes": 6,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26312738"
   },
   {
     "title": "Giving Ada a Chance",
     "url": "https://ajxs.me/blog/Giving_Ada_a_chance.html",
-    "upvotes": 115,
+    "upvotes": 118,
     "author": "jayp1418",
-    "comments": 125,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=26302344"
   },
   {
     "title": "Feedback Ladders: How We Encode Code Reviews at Netlify",
     "url": "https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/",
-    "upvotes": 36,
+    "upvotes": 41,
     "author": "saadatq",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26319865"
   },
   {
     "title": "Bitcoin Is Time",
     "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
-    "upvotes": 304,
+    "upvotes": 310,
     "author": "taylorwc",
-    "comments": 808,
+    "comments": 823,
     "link": "https://news.ycombinator.com/item?id=26315923"
+  },
+  {
+    "title": "Rent controls have split housing in Berlin into two distinct markets",
+    "url": "https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared",
+    "upvotes": 159,
+    "author": "vanburen",
+    "comments": 346,
+    "link": "https://news.ycombinator.com/item?id=26315434"
+  },
+  {
+    "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
+    "url": "item?id=26315585",
+    "upvotes": 95,
+    "author": "jayair",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=26315585"
+  },
+  {
+    "title": "The Web’s Missing Interoperability",
+    "url": "https://stratechery.com/2021/the-webs-missing-interoperability/",
+    "upvotes": 109,
+    "author": "davidmckenna",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=26316209"
+  },
+  {
+    "title": "Rookie coding mistake prior to Gab hack came from site’s CTO",
+    "url": "https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/",
+    "upvotes": 129,
+    "author": "minimaxir",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=26319649"
   },
   {
     "title": "All by Myself",
@@ -132,38 +188,6 @@
     "link": "https://news.ycombinator.com/item?id=26312523"
   },
   {
-    "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
-    "url": "item?id=26315585",
-    "upvotes": 91,
-    "author": "jayair",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26315585"
-  },
-  {
-    "title": "Rent controls have split housing in Berlin into two distinct markets",
-    "url": "https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared",
-    "upvotes": 149,
-    "author": "vanburen",
-    "comments": 327,
-    "link": "https://news.ycombinator.com/item?id=26315434"
-  },
-  {
-    "title": "Rookie coding mistake prior to Gab hack came from site’s CTO",
-    "url": "https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/",
-    "upvotes": 120,
-    "author": "minimaxir",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26319649"
-  },
-  {
-    "title": "Show HN: PhpOverWebsocket",
-    "url": "https://github.com/nemiah/phpOverWebsocket",
-    "upvotes": 14,
-    "author": "nemiah",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26320916"
-  },
-  {
     "title": "Statistics Postdoc Tames Decades-Old Geometry Problem",
     "url": "https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/",
     "upvotes": 159,
@@ -172,67 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=26314900"
   },
   {
+    "title": "How an Anti-TypeScript “JavaScript developer” like me became a TypeScript fan",
+    "url": "https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7",
+    "upvotes": 143,
+    "author": "chiragswadia",
+    "comments": 282,
+    "link": "https://news.ycombinator.com/item?id=26314756"
+  },
+  {
     "title": "SEMrush S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1831840/000162828021003658/semrushforms-1.htm",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "us0r",
-    "comments": 43,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26318586"
   },
   {
-    "title": "How an Anti-TypeScript “JavaScript developer” like me became a TypeScript fan",
-    "url": "https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7",
-    "upvotes": 141,
-    "author": "chiragswadia",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=26314756"
+    "title": "Show HN: PhpOverWebsocket",
+    "url": "https://github.com/nemiah/phpOverWebsocket",
+    "upvotes": 18,
+    "author": "nemiah",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26320916"
   },
   {
     "title": "The Boxes of Hock Wah Yeo",
     "url": "https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "salgernon",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26319184"
   },
   {
-    "title": "The Web’s Missing Interoperability",
-    "url": "https://stratechery.com/2021/the-webs-missing-interoperability/",
-    "upvotes": 105,
-    "author": "davidmckenna",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26316209"
-  },
-  {
-    "title": "Google-free /e/ OS is now selling preloaded phones in the US, starting at $380",
-    "url": "https://arstechnica.com/gadgets/2021/03/google-free-e-os-is-now-selling-pre-loaded-phones-in-the-us-starting-at-380/",
-    "upvotes": 109,
-    "author": "thg",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26318731"
-  },
-  {
     "title": "Repl.it Teams for Education",
     "url": "https://repl.it/teams-for-education",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "dsr12",
-    "comments": 33,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26317642"
-  },
-  {
-    "title": "Early Byzantine finds at the far ends of the world",
-    "url": "https://www.caitlingreen.org/2017/03/a-very-long-way-from-home.html",
-    "upvotes": 32,
-    "author": "Thevet",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26310569"
-  },
-  {
-    "title": "Elegant Bash Conditionals",
-    "url": "https://timvisee.com/blog/elegant-bash-conditionals/",
-    "upvotes": 65,
-    "author": "timvisee",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26314489"
   }
 ]
