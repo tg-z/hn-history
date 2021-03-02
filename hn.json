@@ -1,32 +1,32 @@
 [
   {
-    "title": "Internet Archive Infrastructure",
-    "url": "https://archive.org/details/jonah-edwards-presentation",
-    "upvotes": 221,
-    "author": "mynameisbort",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26300191"
-  },
-  {
     "title": "Speed Is the Killer Feature",
     "url": "https://bdickason.com/posts/speed-is-the-killer-feature/",
-    "upvotes": 75,
+    "upvotes": 115,
     "author": "bdickason",
-    "comments": 46,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26312516"
+  },
+  {
+    "title": "Internet Archive Infrastructure",
+    "url": "https://archive.org/details/jonah-edwards-presentation",
+    "upvotes": 246,
+    "author": "mynameisbort",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26300191"
   },
   {
     "title": "Publisher Nacon Cracked and Pirated Our Game: The Sinking City",
     "url": "https://frogwares.com/how-nacon-cracked-and-pirated-the-sinking-city/",
-    "upvotes": 195,
+    "upvotes": 208,
     "author": "jccalhoun",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26311522"
   },
   {
     "title": "How to Read Assembly Language",
     "url": "https://wolchok.org/posts/how-to-read-assembly-language/",
-    "upvotes": 117,
+    "upvotes": 123,
     "author": "sidcool",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26311722"
@@ -34,31 +34,15 @@
   {
     "title": "U.S. asks Google for detailed search data in antitrust case",
     "url": "https://www.bnnbloomberg.ca/u-s-asks-google-for-detailed-search-data-in-antitrust-case-1.1570497",
-    "upvotes": 180,
+    "upvotes": 185,
     "author": "johncena33",
-    "comments": 83,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26310292"
-  },
-  {
-    "title": "Proposal for an Internet Service: The Eternal Home Page",
-    "url": "http://neilsloane.com/doc/eternal.html",
-    "upvotes": 6,
-    "author": "jstrieb",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26313569"
-  },
-  {
-    "title": "Show HN: A network of weather stations to help prevent pesticide spray drift",
-    "url": "https://cotl.com.au/launch.html",
-    "upvotes": 12,
-    "author": "Damon_Mesonet",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26313216"
   },
   {
     "title": "Peer-to-Peer Databases for the Decentralized Web",
     "url": "https://orbitdb.org/",
-    "upvotes": 198,
+    "upvotes": 203,
     "author": "fossislife",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26310094"
@@ -66,127 +50,135 @@
   {
     "title": "Lyra audio codec enables high-quality voice calls at 3 kbps bitrate",
     "url": "https://www.cnx-software.com/2021/02/28/lyra-audio-codec-enables-3-kbps-bitrate-for-high-quality-voice-calls/",
-    "upvotes": 301,
+    "upvotes": 304,
     "author": "homarp",
     "comments": 165,
     "link": "https://news.ycombinator.com/item?id=26300229"
   },
   {
+    "title": "LastPass Android app has got 7 trackers in it",
+    "url": "https://reports.exodus-privacy.eu.org/en/reports/165465/",
+    "upvotes": 63,
+    "author": "aquir",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26313254"
+  },
+  {
     "title": "WSL Hello Sudo: Face Recognition of Windows Hello on Windows Subsystem for Linux",
     "url": "https://github.com/nullpo-head/WSL-Hello-sudo",
-    "upvotes": 153,
+    "upvotes": 159,
     "author": "cglong",
-    "comments": 46,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26310461"
   },
   {
     "title": "Element Matrix Services Announces Element Home",
     "url": "https://element.io/blog/element-home/",
-    "upvotes": 79,
+    "upvotes": 85,
     "author": "decrypt",
-    "comments": 42,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26311801"
+  },
+  {
+    "title": "Show HN: A network of weather stations to help prevent pesticide spray drift",
+    "url": "https://cotl.com.au/launch.html",
+    "upvotes": 14,
+    "author": "Damon_Mesonet",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26313216"
+  },
+  {
+    "title": "Proposal for an Internet Service: The Eternal Home Page",
+    "url": "http://neilsloane.com/doc/eternal.html",
+    "upvotes": 6,
+    "author": "jstrieb",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26313569"
+  },
+  {
+    "title": "Are Xiaomi browsers spyware? Yes, they are",
+    "url": "https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../",
+    "upvotes": 1012,
+    "author": "autoditype",
+    "comments": 392,
+    "link": "https://news.ycombinator.com/item?id=26306661"
   },
   {
     "title": "National Security Commission on Artificial Intelligence's Final Report",
     "url": "https://www.nscai.gov/2021-final-report/",
-    "upvotes": 84,
+    "upvotes": 88,
     "author": "AndrewKemendo",
-    "comments": 42,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26311616"
-  },
-  {
-    "title": "LastPass Android app has got 7 trackers in it",
-    "url": "https://reports.exodus-privacy.eu.org/en/reports/165465/",
-    "upvotes": 41,
-    "author": "aquir",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26313254"
   },
   {
     "title": "Low Earth Orbit Visualization",
     "url": "https://platform.leolabs.space/visualization",
-    "upvotes": 233,
+    "upvotes": 235,
     "author": "vortex_ape",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26309367"
   },
   {
-    "title": "Are Xiaomi browsers spyware? Yes, they are",
-    "url": "https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../",
-    "upvotes": 1004,
-    "author": "autoditype",
-    "comments": 385,
-    "link": "https://news.ycombinator.com/item?id=26306661"
-  },
-  {
     "title": "The Microwave Economy",
     "url": "https://perell.com/essay/the-microwave-economy/",
-    "upvotes": 29,
+    "upvotes": 32,
     "author": "bengtan",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26312352"
   },
   {
-    "title": "Demonpore 64 – The first molecular gaming console",
-    "url": "http://molecular.tv/",
-    "upvotes": 13,
-    "author": "kemmishtree",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26301525"
-  },
-  {
     "title": "Everything is broken, and it’s okay",
     "url": "https://increment.com/reliability/failure-is-okay/",
-    "upvotes": 36,
+    "upvotes": 40,
     "author": "kiyanwang",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26300339"
   },
   {
     "title": "Hollywood’s Economy of Secrets",
     "url": "https://www.wired.com/story/sex-tapes-hush-money-hollywood-kevin-blatt/",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "sillybilly",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26309110"
+  },
+  {
+    "title": "Demonpore 64 – The first molecular gaming console",
+    "url": "http://molecular.tv/",
+    "upvotes": 14,
+    "author": "kemmishtree",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26301525"
   },
   {
     "title": "Apple Card Disabled My iCloud, App Store, and Apple ID Accounts",
     "url": "https://dcurt.is/apple-card-can-disable-your-icloud-account",
-    "upvotes": 471,
+    "upvotes": 487,
     "author": "sp332",
-    "comments": 197,
+    "comments": 202,
     "link": "https://news.ycombinator.com/item?id=26310817"
   },
   {
     "title": "Gab has been hacked and 70GB of data leaked",
     "url": "https://arstechnica.com/information-technology/2021/03/gab-the-far-right-website-has-been-hacked-and-70gb-of-data-leaked/",
-    "upvotes": 170,
+    "upvotes": 178,
     "author": "daenney",
-    "comments": 303,
+    "comments": 323,
     "link": "https://news.ycombinator.com/item?id=26309925"
   },
   {
     "title": "Foundational Distributed Systems Papers",
     "url": "http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html",
-    "upvotes": 215,
+    "upvotes": 218,
     "author": "mastabadtomm",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26292627"
   },
   {
-    "title": "Literate: A Flexible Literate Programming System",
-    "url": "https://zyedidia.github.io/literate/index.html",
-    "upvotes": 55,
-    "author": "cableclasper",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26311089"
-  },
-  {
     "title": "Edit: A text-editor mixing vi and Acme",
     "url": "https://c9x.me/edit/",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "caslon",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26311168"
@@ -194,10 +186,18 @@
   {
     "title": "Splitting the Ping",
     "url": "https://blog.benjojo.co.uk/post/ping-with-loss-latency-split",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "symisc_devel",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26309833"
+  },
+  {
+    "title": "Literate: A Flexible Literate Programming System",
+    "url": "https://zyedidia.github.io/literate/index.html",
+    "upvotes": 57,
+    "author": "cableclasper",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26311089"
   },
   {
     "title": "Laylo Is Hiring a Senior Front End",
@@ -206,31 +206,31 @@
   {
     "title": "Why does an A note sound different across instruments?",
     "url": "https://omarshehata.me/notebook/exploring_sound",
-    "upvotes": 173,
+    "upvotes": 175,
     "author": "OmarShehata",
-    "comments": 90,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26308241"
-  },
-  {
-    "title": "Demoscene the Amiga Years Volume 1",
-    "url": "https://www.editions64k.fr/",
-    "upvotes": 121,
-    "author": "doener",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26308978"
   },
   {
     "title": "Lady Jane Grey’s Letters from the Tower of London",
     "url": "https://blogs.bl.uk/digitisedmanuscripts/2021/02/lady-jane-greys-letters-from-the-tower-of-london.html",
-    "upvotes": 22,
+    "upvotes": 25,
     "author": "drdee",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26300145"
   },
   {
+    "title": "Demoscene the Amiga Years Volume 1",
+    "url": "https://www.editions64k.fr/",
+    "upvotes": 124,
+    "author": "doener",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26308978"
+  },
+  {
     "title": "Show HN: Fast Rolling Quantiles for Python",
     "url": "https://github.com/marmarelis/rolling-quantiles",
-    "upvotes": 51,
+    "upvotes": 54,
     "author": "myrl",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26310780"
