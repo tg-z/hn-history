@@ -2,49 +2,57 @@
   {
     "title": "ClickHouse as an alternative to Elasticsearch for log storage and analysis",
     "url": "https://pixeljets.com/blog/clickhouse-vs-elasticsearch/",
-    "upvotes": 112,
+    "upvotes": 141,
     "author": "jetter",
-    "comments": 27,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26316401"
   },
   {
     "title": "SSH and User-Mode IP WireGuard",
     "url": "https://fly.io/blog/ssh-and-user-mode-ip-wireguard/",
-    "upvotes": 156,
+    "upvotes": 169,
     "author": "BCM43",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26315695"
-  },
-  {
-    "title": "Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube",
-    "url": "https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/",
-    "upvotes": 125,
-    "author": "coldpie",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26315368"
   },
   {
     "title": "Launch HN: Athens Research (YC W21) – Open-Source Roam Research",
     "url": "item?id=26316793",
-    "upvotes": 100,
+    "upvotes": 121,
     "author": "tangjeff0",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26316793"
+  },
+  {
+    "title": "Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube",
+    "url": "https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/",
+    "upvotes": 138,
+    "author": "coldpie",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26315368"
+  },
+  {
+    "title": "Lotus 1-2-3 arbitrary resolution",
+    "url": "https://lock.cmpxchg8b.com/lotus123.html",
+    "upvotes": 59,
+    "author": "diffuse_l",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26316637"
   },
   {
     "title": "The Web’s Missing Interoperability",
     "url": "https://stratechery.com/2021/the-webs-missing-interoperability/",
-    "upvotes": 45,
+    "upvotes": 54,
     "author": "davidmckenna",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26316209"
   },
   {
     "title": "Statistics Postdoc Tames Decades-Old Geometry Problem",
     "url": "https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/",
-    "upvotes": 93,
+    "upvotes": 103,
     "author": "rbanffy",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26314900"
   },
   {
@@ -52,145 +60,153 @@
     "url": "https://ambition.com/careers/"
   },
   {
-    "title": "Lotus 1-2-3 arbitrary resolution",
-    "url": "https://lock.cmpxchg8b.com/lotus123.html",
-    "upvotes": 31,
-    "author": "diffuse_l",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26316637"
-  },
-  {
     "title": "Speed Is the Killer Feature",
     "url": "https://bdickason.com/posts/speed-is-the-killer-feature/",
-    "upvotes": 372,
+    "upvotes": 388,
     "author": "bdickason",
-    "comments": 320,
+    "comments": 330,
     "link": "https://news.ycombinator.com/item?id=26312516"
-  },
-  {
-    "title": "Internet Archive Infrastructure",
-    "url": "https://archive.org/details/jonah-edwards-presentation",
-    "upvotes": 441,
-    "author": "mynameisbort",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26300191"
-  },
-  {
-    "title": "Bash_unit – bash unit testing framework",
-    "url": "https://github.com/pgrange/bash_unit",
-    "upvotes": 87,
-    "author": "arunc",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26314160"
   },
   {
     "title": "How an Anti-TypeScript “JavaScript developer” like me became a TypeScript fan",
     "url": "https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7",
-    "upvotes": 76,
+    "upvotes": 81,
     "author": "chiragswadia",
-    "comments": 116,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=26314756"
   },
   {
-    "title": "Bitcoin Is Time",
-    "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
-    "upvotes": 132,
-    "author": "taylorwc",
-    "comments": 248,
-    "link": "https://news.ycombinator.com/item?id=26315923"
+    "title": "Internet Archive Infrastructure",
+    "url": "https://archive.org/details/jonah-edwards-presentation",
+    "upvotes": 448,
+    "author": "mynameisbort",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=26300191"
+  },
+  {
+    "title": "Almost 40% of U.S. Consumers Trust Online Reviews Less Than They Did 5 Years Ago",
+    "url": "https://www.reviews.com/home/security-systems/almost-40-percent-of-us-consumers-trust-online-reviews-less-than-they-did-five-years-ago/",
+    "upvotes": 26,
+    "author": "sharkweek",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26317741"
+  },
+  {
+    "title": "Giving ADA a Chance",
+    "url": "https://ajxs.me/blog/Giving_Ada_a_chance.html",
+    "upvotes": 32,
+    "author": "jayp1418",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26302344"
   },
   {
     "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
     "url": "item?id=26315585",
-    "upvotes": 51,
+    "upvotes": 56,
     "author": "jayair",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26315585"
+  },
+  {
+    "title": "Bash_unit – bash unit testing framework",
+    "url": "https://github.com/pgrange/bash_unit",
+    "upvotes": 88,
+    "author": "arunc",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=26314160"
+  },
+  {
+    "title": "Publisher Nacon Cracked and Pirated Our Game: The Sinking City",
+    "url": "https://frogwares.com/how-nacon-cracked-and-pirated-the-sinking-city/",
+    "upvotes": 375,
+    "author": "jccalhoun",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=26311522"
   },
   {
     "title": "Mrcal – Camera Calibrations and More",
     "url": "http://mrcal.secretsauce.net/",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "pabs3",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26300118"
   },
   {
-    "title": "Publisher Nacon Cracked and Pirated Our Game: The Sinking City",
-    "url": "https://frogwares.com/how-nacon-cracked-and-pirated-the-sinking-city/",
-    "upvotes": 371,
-    "author": "jccalhoun",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=26311522"
-  },
-  {
-    "title": "Giving ADA a Chance",
-    "url": "https://ajxs.me/blog/Giving_Ada_a_chance.html",
-    "upvotes": 23,
-    "author": "jayp1418",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26302344"
+    "title": "Early Byzantine finds at the far ends of the world",
+    "url": "https://www.caitlingreen.org/2017/03/a-very-long-way-from-home.html",
+    "upvotes": 7,
+    "author": "Thevet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26310569"
   },
   {
     "title": "3500 packages uploaded to PyPI, pointing to a malicious URL",
     "url": "https://twitter.com/DataNerdery/status/1366263351685226499",
-    "upvotes": 157,
+    "upvotes": 167,
     "author": "DyslexicAtheist",
-    "comments": 74,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26315039"
   },
   {
-    "title": "Mindsets to Avoid as a Senior Software Developer",
-    "url": "https://betterprogramming.pub/the-3-mindsets-to-avoid-as-a-senior-software-developer-efc8fa17fc3",
-    "upvotes": 55,
-    "author": "sidcool",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26315116"
+    "title": "Bitcoin Is Time",
+    "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
+    "upvotes": 145,
+    "author": "taylorwc",
+    "comments": 302,
+    "link": "https://news.ycombinator.com/item?id=26315923"
   },
   {
-    "title": "Trust: The Need for Public Understanding of How Science Works",
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227",
-    "upvotes": 143,
-    "author": "XzetaU8",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=26314610"
+    "title": "Teams for Education",
+    "url": "https://repl.it/teams-for-education",
+    "upvotes": 7,
+    "author": "dsr12",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26317642"
   },
   {
     "title": "How to Read Assembly Language",
     "url": "https://wolchok.org/posts/how-to-read-assembly-language/",
-    "upvotes": 244,
+    "upvotes": 249,
     "author": "sidcool",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26311722"
   },
   {
-    "title": "Element Matrix Services Announces Element Home",
-    "url": "https://element.io/blog/element-home/",
-    "upvotes": 182,
-    "author": "decrypt",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=26311801"
+    "title": "Trust: The Need for Public Understanding of How Science Works",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227",
+    "upvotes": 144,
+    "author": "XzetaU8",
+    "comments": 164,
+    "link": "https://news.ycombinator.com/item?id=26314610"
   },
   {
-    "title": "NASA Mars Perseverance Rover Uses Same PowerPC Chipset Found in 1998 G3 iMac",
-    "url": "https://www.macrumors.com/2021/03/02/nasa-mars-perseverance-rover-imac-powerpc/",
-    "upvotes": 42,
-    "author": "Tomte",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26316265"
+    "title": "Element Matrix Services Announces Element Home",
+    "url": "https://element.io/blog/element-home/",
+    "upvotes": 184,
+    "author": "decrypt",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=26311801"
   },
   {
     "title": "Proposal for an Internet Service: The Eternal Home Page",
     "url": "http://neilsloane.com/doc/eternal.html",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "jstrieb",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26313569"
+  },
+  {
+    "title": "Mindsets to Avoid as a Senior Software Developer",
+    "url": "https://betterprogramming.pub/the-3-mindsets-to-avoid-as-a-senior-software-developer-efc8fa17fc3",
+    "upvotes": 60,
+    "author": "sidcool",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26315116"
   },
   {
     "title": "Show HN: A network of weather stations to help prevent pesticide spray drift",
     "url": "https://cotl.com.au/launch.html",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "Damon_Mesonet",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26313216"
@@ -198,41 +214,25 @@
   {
     "title": "MailChimp: A side project that turned into a $700m/year revenue business",
     "url": "https://entrepreneurshandbook.co/a-web-designer-turned-his-side-project-into-a-700m-year-revenue-business-without-vc-money-55cd13ee560",
-    "upvotes": 86,
+    "upvotes": 96,
     "author": "Anon84",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26315100"
   },
   {
     "title": "Are Xiaomi browsers spyware? Yes, they are",
     "url": "https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../",
-    "upvotes": 1127,
+    "upvotes": 1133,
     "author": "autoditype",
-    "comments": 431,
+    "comments": 435,
     "link": "https://news.ycombinator.com/item?id=26306661"
   },
   {
     "title": "Semantic Versioning Will Not Save You",
     "url": "https://hynek.me/articles/semver-will-not-save-you/",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "smitty1e",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26314620"
-  },
-  {
-    "title": "National Security Commission on Artificial Intelligence's Final Report",
-    "url": "https://www.nscai.gov/2021-final-report/",
-    "upvotes": 135,
-    "author": "AndrewKemendo",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=26311616"
-  },
-  {
-    "title": "New ETF will track social-media-hyped stocks",
-    "url": "https://markets.businessinsider.com/news/stocks/vaneck-social-sentiment-etf-target-social-media-reddit-meme-stocks-2021-2-1030056054",
-    "upvotes": 4,
-    "author": "fbelzile",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26317630"
   }
 ]
