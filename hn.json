@@ -1,91 +1,99 @@
 [
   {
-    "title": "jQuery 3.6.0",
-    "url": "http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/",
-    "upvotes": 108,
-    "author": "mkurz",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26318872"
-  },
-  {
     "title": "ClickHouse as an alternative to Elasticsearch for log storage and analysis",
     "url": "https://pixeljets.com/blog/clickhouse-vs-elasticsearch/",
-    "upvotes": 204,
+    "upvotes": 214,
     "author": "jetter",
-    "comments": 78,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26316401"
   },
   {
     "title": "Lotus 1-2-3 arbitrary resolution",
     "url": "https://lock.cmpxchg8b.com/lotus123.html",
-    "upvotes": 170,
+    "upvotes": 190,
     "author": "diffuse_l",
-    "comments": 40,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26316637"
+  },
+  {
+    "title": "jQuery 3.6.0",
+    "url": "http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/",
+    "upvotes": 147,
+    "author": "mkurz",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=26318872"
   },
   {
     "title": "Using Ghidra to Reverse Engineer Super Monkey Ball for GameCube",
     "url": "https://www.smokingonabike.com/2021/02/28/hacking-super-monkey-ball-part-2-decompilation-with-ghidra/",
-    "upvotes": 203,
+    "upvotes": 213,
     "author": "coldpie",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26315368"
   },
   {
     "title": "Robot AI beats world-class curling competitors",
     "url": "https://www.scientificamerican.com/video/watch-a-robot-ai-beat-world-class-curling-competitors/",
-    "upvotes": 35,
+    "upvotes": 41,
     "author": "pmontra",
-    "comments": 9,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26318362"
   },
   {
     "title": "SSH and User-Mode IP WireGuard",
     "url": "https://fly.io/blog/ssh-and-user-mode-ip-wireguard/",
-    "upvotes": 213,
+    "upvotes": 223,
     "author": "BCM43",
-    "comments": 63,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26315695"
   },
   {
     "title": "Launch HN: Athens Research (YC W21) – Open-Source Roam Research",
     "url": "item?id=26316793",
-    "upvotes": 168,
+    "upvotes": 180,
     "author": "tangjeff0",
-    "comments": 62,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26316793"
+  },
+  {
+    "title": "Feedback Ladders: How We Encode Code Reviews at Netlify",
+    "url": "https://www.netlify.com/blog/2020/03/05/feedback-ladders-how-we-encode-code-reviews-at-netlify/",
+    "upvotes": 7,
+    "author": "saadatq",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26319865"
+  },
+  {
+    "title": "Bitcoin Is Time",
+    "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
+    "upvotes": 250,
+    "author": "taylorwc",
+    "comments": 600,
+    "link": "https://news.ycombinator.com/item?id=26315923"
   },
   {
     "title": "The Web’s Missing Interoperability",
     "url": "https://stratechery.com/2021/the-webs-missing-interoperability/",
-    "upvotes": 90,
+    "upvotes": 95,
     "author": "davidmckenna",
-    "comments": 39,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26316209"
   },
   {
     "title": "SEMrush S-1",
     "url": "https://www.sec.gov/Archives/edgar/data/1831840/000162828021003658/semrushforms-1.htm",
-    "upvotes": 27,
+    "upvotes": 30,
     "author": "us0r",
-    "comments": 21,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26318586"
   },
   {
-    "title": "Bitcoin Is Time",
-    "url": "https://dergigi.com/2021/01/14/bitcoin-is-time/",
-    "upvotes": 226,
-    "author": "taylorwc",
-    "comments": 523,
-    "link": "https://news.ycombinator.com/item?id=26315923"
-  },
-  {
-    "title": "Statistics Postdoc Tames Decades-Old Geometry Problem",
-    "url": "https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/",
-    "upvotes": 136,
-    "author": "rbanffy",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26314900"
+    "title": "Giving Ada a Chance",
+    "url": "https://ajxs.me/blog/Giving_Ada_a_chance.html",
+    "upvotes": 77,
+    "author": "jayp1418",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26302344"
   },
   {
     "title": "Ambition is hiring a Product Manager, Designer – Nashville, Chattanooga, Atlanta",
@@ -94,47 +102,71 @@
   {
     "title": "Speed Is the Killer Feature",
     "url": "https://bdickason.com/posts/speed-is-the-killer-feature/",
-    "upvotes": 444,
+    "upvotes": 460,
     "author": "bdickason",
-    "comments": 409,
+    "comments": 416,
     "link": "https://news.ycombinator.com/item?id=26312516"
+  },
+  {
+    "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
+    "url": "item?id=26315585",
+    "upvotes": 78,
+    "author": "jayair",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26315585"
+  },
+  {
+    "title": "Statistics Postdoc Tames Decades-Old Geometry Problem",
+    "url": "https://www.quantamagazine.org/statistics-postdoc-tames-decades-old-geometry-problem-20210301/",
+    "upvotes": 137,
+    "author": "rbanffy",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26314900"
   },
   {
     "title": "Google-free /e/ OS is now selling preloaded phones in the US, starting at $380",
     "url": "https://arstechnica.com/gadgets/2021/03/google-free-e-os-is-now-selling-pre-loaded-phones-in-the-us-starting-at-380/",
-    "upvotes": 54,
+    "upvotes": 69,
     "author": "thg",
-    "comments": 12,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26318731"
   },
   {
     "title": "How an Anti-TypeScript “JavaScript developer” like me became a TypeScript fan",
     "url": "https://chiragswadia.medium.com/how-an-anti-typescript-javascript-developer-like-me-became-a-typescript-fan-a4e043151ad7",
-    "upvotes": 116,
+    "upvotes": 123,
     "author": "chiragswadia",
-    "comments": 200,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=26314756"
   },
   {
-    "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
-    "url": "item?id=26315585",
-    "upvotes": 74,
-    "author": "jayair",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26315585"
+    "title": "Rent controls have split housing in Berlin into two distinct markets",
+    "url": "https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared",
+    "upvotes": 93,
+    "author": "vanburen",
+    "comments": 182,
+    "link": "https://news.ycombinator.com/item?id=26315434"
   },
   {
-    "title": "Giving Ada a Chance",
-    "url": "https://ajxs.me/blog/Giving_Ada_a_chance.html",
-    "upvotes": 59,
-    "author": "jayp1418",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=26302344"
+    "title": "Rookie coding mistake prior to Gab hack came from site’s CTO",
+    "url": "https://arstechnica.com/gadgets/2021/03/rookie-coding-mistake-prior-to-gab-hack-came-from-sites-cto/",
+    "upvotes": 36,
+    "author": "minimaxir",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26319649"
+  },
+  {
+    "title": "Elegant Bash Conditionals",
+    "url": "https://timvisee.com/blog/elegant-bash-conditionals/",
+    "upvotes": 24,
+    "author": "timvisee",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26314489"
   },
   {
     "title": "The Boxes of Hock Wah Yeo",
     "url": "https://obscuritory.com/essay/incredible-boxes-of-hock-wah-yeo/",
-    "upvotes": 7,
+    "upvotes": 12,
     "author": "salgernon",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26319184"
@@ -142,47 +174,39 @@
   {
     "title": "Teams for Education",
     "url": "https://repl.it/teams-for-education",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "dsr12",
-    "comments": 19,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26317642"
   },
   {
-    "title": "Elegant Bash Conditionals",
-    "url": "https://timvisee.com/blog/elegant-bash-conditionals/",
-    "upvotes": 17,
-    "author": "timvisee",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26314489"
-  },
-  {
-    "title": "Rent controls have split housing in Berlin into two distinct markets",
-    "url": "https://www.bloomberg.com/opinion/articles/2021-03-02/berlin-s-rent-controls-are-proving-to-be-the-disaster-we-feared",
-    "upvotes": 83,
-    "author": "vanburen",
-    "comments": 139,
-    "link": "https://news.ycombinator.com/item?id=26315434"
-  },
-  {
-    "title": "The sensor stories behind the Mars Perseverance images",
-    "url": "https://www.imveurope.com/analysis-opinion/sensor-stories-behind-mars-perseverance-images",
-    "upvotes": 5,
-    "author": "giuliomagnifico",
+    "title": "Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut",
+    "url": "https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html",
+    "upvotes": 3,
+    "author": "adrian_mrd",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26302358"
+    "link": "https://news.ycombinator.com/item?id=26319850"
   },
   {
     "title": "Early Byzantine finds at the far ends of the world",
     "url": "https://www.caitlingreen.org/2017/03/a-very-long-way-from-home.html",
-    "upvotes": 19,
+    "upvotes": 24,
     "author": "Thevet",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26310569"
   },
   {
+    "title": "The sensor stories behind the Mars Perseverance images",
+    "url": "https://www.imveurope.com/analysis-opinion/sensor-stories-behind-mars-perseverance-images",
+    "upvotes": 9,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26302358"
+  },
+  {
     "title": "Mrcal – Camera Calibrations and More",
     "url": "http://mrcal.secretsauce.net/",
-    "upvotes": 71,
+    "upvotes": 75,
     "author": "pabs3",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26300118"
@@ -190,49 +214,25 @@
   {
     "title": "Perseverance rover uses same PowerPC chipset found in 1998 G3 iMac",
     "url": "https://www.macrumors.com/2021/03/02/nasa-mars-perseverance-rover-imac-powerpc/",
-    "upvotes": 74,
+    "upvotes": 81,
     "author": "Tomte",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26316265"
   },
   {
     "title": "3500 packages uploaded to PyPI, pointing to a malicious URL",
     "url": "https://twitter.com/DataNerdery/status/1366263351685226499",
-    "upvotes": 215,
+    "upvotes": 227,
     "author": "DyslexicAtheist",
-    "comments": 98,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=26315039"
   },
   {
     "title": "Almost 40% of U.S. Consumers Trust Online Reviews Less Than They Did 5 Years Ago",
     "url": "https://www.reviews.com/home/security-systems/almost-40-percent-of-us-consumers-trust-online-reviews-less-than-they-did-five-years-ago/",
-    "upvotes": 137,
+    "upvotes": 156,
     "author": "sharkweek",
-    "comments": 115,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=26317741"
-  },
-  {
-    "title": "Trust: The Need for Public Understanding of How Science Works",
-    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/hast.1227",
-    "upvotes": 173,
-    "author": "XzetaU8",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=26314610"
-  },
-  {
-    "title": "The End of Indie",
-    "url": "https://medium.com/@bryce/the-end-of-indie-6e1b92d90b09",
-    "upvotes": 33,
-    "author": "_pius",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26318721"
-  },
-  {
-    "title": "Semantic Versioning Will Not Save You",
-    "url": "https://hynek.me/articles/semver-will-not-save-you/",
-    "upvotes": 48,
-    "author": "smitty1e",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26314620"
   }
 ]
