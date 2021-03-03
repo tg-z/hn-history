@@ -1,90 +1,98 @@
 [
   {
+    "title": "Möbius Printing Helper",
+    "url": "https://shreevatsa.net/mobius-print/",
+    "upvotes": 18,
+    "author": "tta",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26326639"
+  },
+  {
     "title": "NASA's Perseverance rover sends stunning images",
     "url": "https://www.bbc.com/news/in-pictures-56238018",
-    "upvotes": 561,
+    "upvotes": 589,
     "author": "astdb",
-    "comments": 233,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=26323852"
   },
   {
     "title": "Microsoft Power-Fx: a low-code general purpose programming language",
     "url": "https://github.com/microsoft/power-fx",
-    "upvotes": 222,
+    "upvotes": 227,
     "author": "Garbage",
-    "comments": 71,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26324347"
   },
   {
     "title": "Linux Desktop on Apple Silicon/M1 in Practice",
     "url": "https://gist.github.com/akihikodaki/87df4149e7ca87f18dc56807ec5a1bc5",
-    "upvotes": 121,
+    "upvotes": 130,
     "author": "aodaki",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26324590"
-  },
-  {
-    "title": "Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut",
-    "url": "https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html",
-    "upvotes": 930,
-    "author": "adrian_mrd",
-    "comments": 753,
-    "link": "https://news.ycombinator.com/item?id=26319850"
   },
   {
     "title": "DJI FPV",
     "url": "https://www.dji.com/dji-fpv",
-    "upvotes": 65,
+    "upvotes": 79,
     "author": "qkhhly",
-    "comments": 24,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26325090"
+  },
+  {
+    "title": "Beyond Meat signs global supply deals with McDonald’s, KFC and Pizza Hut",
+    "url": "https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html",
+    "upvotes": 949,
+    "author": "adrian_mrd",
+    "comments": 780,
+    "link": "https://news.ycombinator.com/item?id=26319850"
   },
   {
     "title": "Gigerenzer’s simple rules of thumb often outperform complex models",
     "url": "https://www.foundingfuel.com/article/gigerenzers-simple-rules/",
-    "upvotes": 36,
+    "upvotes": 44,
     "author": "haltingproblem",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26325425"
-  },
-  {
-    "title": "Understanding the evolution of game consoles through their architecture",
-    "url": "https://www.copetti.org/writings/consoles/",
-    "upvotes": 29,
-    "author": "hardmaru",
     "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26325375"
+    "link": "https://news.ycombinator.com/item?id=26325425"
   },
   {
     "title": "Toyota Develops Packaged Fuel Cell System Module for Hydrogen Utilization",
     "url": "https://global.toyota/en/newsroom/corporate/34799439.html",
-    "upvotes": 34,
+    "upvotes": 45,
     "author": "panabee",
-    "comments": 19,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26325171"
+  },
+  {
+    "title": "Understanding the evolution of game consoles through their architecture",
+    "url": "https://www.copetti.org/writings/consoles/",
+    "upvotes": 34,
+    "author": "hardmaru",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26325375"
   },
   {
     "title": "The Whole Web Pays for Google and Facebook to Be Free",
     "url": "https://www.bloomberg.com/opinion/articles/2021-03-03/pay-for-twitter-super-follows-you-can-thank-google-and-facebook",
-    "upvotes": 46,
+    "upvotes": 60,
     "author": "chewz",
-    "comments": 7,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26325950"
   },
   {
     "title": "Local PDF Tools – Powered by WebAssembly",
     "url": "https://localpdf.tech/",
-    "upvotes": 120,
+    "upvotes": 125,
     "author": "twapi",
-    "comments": 36,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26323966"
   },
   {
     "title": "Scientists talked to people in their lucid dreams",
     "url": "https://www.npr.org/2021/02/27/971958260/scientists-talked-to-people-in-their-dreams-they-answered",
-    "upvotes": 42,
+    "upvotes": 50,
     "author": "sxp",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26324967"
   },
   {
@@ -92,76 +100,76 @@
     "url": "https://jobs.ashbyhq.com/memfault/1ab6fff8-f6ee-4c2d-a40d-1bfaffc39191?utm_source=Oo4aejgXnk"
   },
   {
-    "title": "On the Instability of Bitcoin Without the Block Reward [pdf]",
-    "url": "https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf",
-    "upvotes": 70,
-    "author": "nayuki",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26325355"
-  },
-  {
-    "title": "Lotus 1-2-3 arbitrary resolution",
-    "url": "https://lock.cmpxchg8b.com/lotus123.html",
-    "upvotes": 439,
-    "author": "diffuse_l",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26316637"
+    "title": "Apple is removing Rosetta from Macs during updates in certain countries",
+    "url": "https://twitter.com/SteveMoser/status/1366904041243041794",
+    "upvotes": 40,
+    "author": "Gys",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26326042"
   },
   {
     "title": "Physicists have filmed the oscillation of a time crystal",
     "url": "https://www.sciencealert.com/watch-the-first-ever-video-of-a-time-crystal-oscillating",
-    "upvotes": 259,
+    "upvotes": 266,
     "author": "IFR",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26313932"
   },
   {
+    "title": "Lotus 1-2-3 arbitrary resolution",
+    "url": "https://lock.cmpxchg8b.com/lotus123.html",
+    "upvotes": 441,
+    "author": "diffuse_l",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26316637"
+  },
+  {
     "title": "The Boston Camera",
     "url": "https://en.wikipedia.org/wiki/Boston_Camera",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "tragiclos",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26323527"
   },
   {
-    "title": "Apple is removing Rosetta from Macs during updates in certain countries",
-    "url": "https://twitter.com/SteveMoser/status/1366904041243041794",
-    "upvotes": 25,
-    "author": "Gys",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26326042"
-  },
-  {
-    "title": "Why northern Europe is so indebted",
-    "url": "https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/",
-    "upvotes": 73,
-    "author": "bryanrasmussen",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26325765"
-  },
-  {
-    "title": "Deno v1.8 – support for WebGPU, private modules, Intl, and much more",
-    "url": "https://deno.land/posts/v1.8#new-features-and-changes",
-    "upvotes": 284,
-    "author": "searchableguy",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26323600"
+    "title": "On the Instability of Bitcoin Without the Block Reward [pdf]",
+    "url": "https://www.cs.princeton.edu/~arvindn/publications/mining_CCS.pdf",
+    "upvotes": 72,
+    "author": "nayuki",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=26325355"
   },
   {
     "title": "Graphene ‘Nano-Origami’ Could Take Us Past the End of Moore’s Law",
     "url": "https://singularityhub.com/2021/03/01/graphene-nano-origami-could-take-us-past-the-end-of-moores-law",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "squid_demon",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26325464"
+  },
+  {
+    "title": "Deno v1.8 – support for WebGPU, private modules, Intl, and much more",
+    "url": "https://deno.land/posts/v1.8#new-features-and-changes",
+    "upvotes": 290,
+    "author": "searchableguy",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=26323600"
   },
   {
     "title": "Watchy: Hackable $50 Smartwatch",
     "url": "https://spectrum.ieee.org/geek-life/hands-on/watchy-the-hackable-50-smartwatch",
-    "upvotes": 243,
+    "upvotes": 248,
     "author": "ystad",
-    "comments": 135,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=26320532"
+  },
+  {
+    "title": "Why northern Europe is so indebted",
+    "url": "https://theloop.ecpr.eu/why-northern-europe-is-so-indebted/",
+    "upvotes": 78,
+    "author": "bryanrasmussen",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=26325765"
   },
   {
     "title": "Don Lancaster's Guru's Lair Home Page",
@@ -174,9 +182,9 @@
   {
     "title": "Launch HN: Athens Research (YC W21) – Open-Source Roam Research",
     "url": "item?id=26316793",
-    "upvotes": 274,
+    "upvotes": 275,
     "author": "tangjeff0",
-    "comments": 117,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26316793"
   },
   {
@@ -184,24 +192,8 @@
     "url": "item?id=26324850",
     "upvotes": 26,
     "author": "wakahiu",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26324850"
-  },
-  {
-    "title": "Python 3.10.0a6 is available, now with 100% more pattern matching",
-    "url": "https://mail.python.org/archives/list/python-committers@python.org/message/VGZDQ5TFMSWEQZS6HNDLDJQ7GAASGUUB/",
-    "upvotes": 57,
-    "author": "pansa2",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26325259"
-  },
-  {
-    "title": "Bats and the Origin of Outbreaks",
-    "url": "https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/index.html",
-    "upvotes": 10,
-    "author": "ckastner",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26325442"
   },
   {
     "title": "Launch HN: SST (YC W21) – A live development environment for AWS Lambda",
@@ -212,27 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26315585"
   },
   {
+    "title": "Python 3.10.0a6 is available, now with 100% more pattern matching",
+    "url": "https://mail.python.org/archives/list/python-committers@python.org/message/VGZDQ5TFMSWEQZS6HNDLDJQ7GAASGUUB/",
+    "upvotes": 60,
+    "author": "pansa2",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26325259"
+  },
+  {
     "title": "Xforms Toolkit",
     "url": "http://xforms-toolkit.org/screenshots/",
-    "upvotes": 62,
+    "upvotes": 63,
     "author": "marcodiego",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26314851"
   },
   {
-    "title": "The MIT Press launches Direct to Open",
-    "url": "https://mitpress.mit.edu/blog/mit-press-launches-direct-open",
-    "upvotes": 499,
-    "author": "orixilus",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26322089"
+    "title": "Bats and the Origin of Outbreaks",
+    "url": "https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/index.html",
+    "upvotes": 14,
+    "author": "ckastner",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26325442"
   },
   {
-    "title": "“This destroys the RSA cryptosystem”",
-    "url": "https://eprint.iacr.org/2021/232",
-    "upvotes": 230,
-    "author": "renaudg",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=26321962"
+    "title": "The MIT Press launches Direct to Open",
+    "url": "https://mitpress.mit.edu/blog/mit-press-launches-direct-open",
+    "upvotes": 502,
+    "author": "orixilus",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26322089"
   }
 ]
