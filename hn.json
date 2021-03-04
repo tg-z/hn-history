@@ -1,108 +1,124 @@
 [
   {
+    "title": "Git's list of banned C functions",
+    "url": "https://github.com/git/git/blob/master/banned.h",
+    "upvotes": 67,
+    "author": "muds",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26347867"
+  },
+  {
     "title": "Apple now lets you transfer your iCloud Photos to Google Photos",
     "url": "https://support.apple.com/en-us/HT208514",
-    "upvotes": 343,
+    "upvotes": 367,
     "author": "brunoluiz",
-    "comments": 223,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=26344739"
   },
   {
     "title": "The lessons of Fukushima – Nuclear power must be well regulated, not ditched",
     "url": "https://www.economist.com/leaders/2021/03/06/nuclear-power-must-be-well-regulated-not-ditched",
-    "upvotes": 103,
+    "upvotes": 139,
     "author": "mpweiher",
-    "comments": 104,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=26347073"
   },
   {
     "title": "HTTPWTF",
     "url": "https://httptoolkit.tech/blog/http-wtf/",
-    "upvotes": 369,
+    "upvotes": 396,
     "author": "pimterry",
-    "comments": 76,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26343577"
-  },
-  {
-    "title": "Understanding deep learning requires rethinking generalization",
-    "url": "https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext",
-    "upvotes": 55,
-    "author": "tmfi",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26346226"
   },
   {
     "title": "Tintern 'secret' medieval tunnel system found by accident",
     "url": "https://www.bbc.co.uk/news/uk-wales-56281726",
-    "upvotes": 33,
+    "upvotes": 49,
     "author": "goodcanadian",
-    "comments": 22,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26346879"
+  },
+  {
+    "title": "Whatnot",
+    "url": "https://jobs.lever.co/whatnot"
+  },
+  {
+    "title": "Understanding deep learning requires rethinking generalization",
+    "url": "https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext",
+    "upvotes": 60,
+    "author": "tmfi",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26346226"
+  },
+  {
+    "title": "Launch HN: Lendflow (YC W21) – Infrastructure for embedded lending services",
+    "url": "item?id=26347962",
+    "upvotes": 17,
+    "author": "jon-fry",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26347962"
+  },
+  {
+    "title": "“User engagement” is code for “addiction”",
+    "url": "https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac",
+    "upvotes": 191,
+    "author": "rbanffy",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26346688"
   },
   {
     "title": "An Introduction to Lockless Algorithms",
     "url": "https://lwn.net/Articles/844224/",
-    "upvotes": 48,
+    "upvotes": 54,
     "author": "signa11",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26346033"
-  },
-  {
-    "title": "“User Engagement” Is Code for “Addiction”",
-    "url": "https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac",
-    "upvotes": 151,
-    "author": "rbanffy",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26346688"
-  },
-  {
-    "title": "Female Founder Secrets: Fertility",
-    "url": "https://femfosec.com/fertility/",
-    "upvotes": 196,
-    "author": "femfosec",
-    "comments": 342,
-    "link": "https://news.ycombinator.com/item?id=26345226"
-  },
-  {
-    "title": "Speeding up Chrome's release cycle",
-    "url": "https://blog.chromium.org/2021/03/speeding-up-release-cycle.html",
-    "upvotes": 47,
-    "author": "twapi",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26345845"
   },
   {
     "title": "Multimodal Neurons in Artificial Neural Networks",
     "url": "https://openai.com/blog/multimodal-neurons/",
-    "upvotes": 6,
+    "upvotes": 13,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26347613"
   },
   {
-    "title": "The Importance of Learning CSS",
-    "url": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
-    "upvotes": 26,
-    "author": "feross",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26346141"
-  },
-  {
     "title": "Apache Age: A Graph Extension for PostgreSQL",
     "url": "https://age.apache.org/",
-    "upvotes": 25,
+    "upvotes": 38,
     "author": "based2",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26345755"
   },
   {
-    "title": "Resquared",
-    "url": "https://www.workatastartup.com/jobs/42392"
+    "title": "Female Founder Secrets: Fertility",
+    "url": "https://femfosec.com/fertility/",
+    "upvotes": 214,
+    "author": "femfosec",
+    "comments": 379,
+    "link": "https://news.ycombinator.com/item?id=26345226"
+  },
+  {
+    "title": "Speeding up Chrome's release cycle",
+    "url": "https://blog.chromium.org/2021/03/speeding-up-release-cycle.html",
+    "upvotes": 50,
+    "author": "twapi",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26345845"
+  },
+  {
+    "title": "100Mbps uploads and downloads should be US broadband standard, senators say",
+    "url": "https://arstechnica.com/tech-policy/2021/03/100mbps-uploads-and-downloads-should-be-us-broadband-standard-senators-say/",
+    "upvotes": 55,
+    "author": "caution",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26347380"
   },
   {
     "title": "Lion: A formally verified, 5-stage pipeline RISC-V core",
     "url": "https://github.com/standardsemiconductor/lion",
-    "upvotes": 198,
+    "upvotes": 200,
     "author": "varbhat",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26341055"
@@ -110,129 +126,113 @@
   {
     "title": "DuckDuckGo – two non-JavaScript versions of search results",
     "url": "https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/",
-    "upvotes": 80,
+    "upvotes": 92,
     "author": "URfejk",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26344358"
   },
   {
     "title": "An Introduction to Hierarchical Modeling",
     "url": "http://mfviz.com/hierarchical-models/",
-    "upvotes": 55,
+    "upvotes": 62,
     "author": "andyxor",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26312904"
   },
   {
-    "title": "A reminder that you should double-check the licenses for software you use",
-    "url": "https://github.com/katharostech/ldtk-rs/blob/master/LICENSE.md",
-    "upvotes": 75,
-    "author": "serverholic",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26346451"
-  },
-  {
-    "title": "Reverse-engineering Rosetta 2 Part 1: Analyzing AoT files and the runtime",
-    "url": "https://ffri.github.io/ProjectChampollion/part1/",
-    "upvotes": 18,
-    "author": "my123",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26346980"
-  },
-  {
-    "title": "100Mbps uploads and downloads should be US broadband standard, senators say",
-    "url": "https://arstechnica.com/tech-policy/2021/03/100mbps-uploads-and-downloads-should-be-us-broadband-standard-senators-say/",
-    "upvotes": 24,
-    "author": "caution",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26347380"
-  },
-  {
-    "title": "That Is Not How Your Brain Works",
-    "url": "https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works",
-    "upvotes": 198,
-    "author": "dnetesn",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26341218"
-  },
-  {
     "title": "The Black Death: A New Culprit?",
     "url": "https://www.historytoday.com/archive/natural-histories/black-death-new-culprit",
-    "upvotes": 6,
+    "upvotes": 16,
     "author": "benbreen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26336647"
   },
   {
+    "title": "Turntable.fm is back from the dead – and now there are two",
+    "url": "https://www.theverge.com/2021/3/4/22313793/turntable-fm-return-two-versions-original",
+    "upvotes": 8,
+    "author": "jbredeche",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26347501"
+  },
+  {
+    "title": "Show HN: LinkWall – Your Landing Page Linked to Social Activity",
+    "url": "https://linkwall.me",
+    "upvotes": 3,
+    "author": "atatomir",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26348079"
+  },
+  {
+    "title": "That Is Not How Your Brain Works",
+    "url": "https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works",
+    "upvotes": 205,
+    "author": "dnetesn",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=26341218"
+  },
+  {
+    "title": "The Importance of Learning CSS",
+    "url": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+    "upvotes": 35,
+    "author": "feross",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26346141"
+  },
+  {
+    "title": "Reverse-engineering Rosetta 2 Part 1: Analyzing AoT files and the runtime",
+    "url": "https://ffri.github.io/ProjectChampollion/part1/",
+    "upvotes": 21,
+    "author": "my123",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26346980"
+  },
+  {
     "title": "How to Operate an Airport in Antarctica",
     "url": "https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/",
-    "upvotes": 246,
+    "upvotes": 254,
     "author": "Arnt",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26340384"
   },
   {
     "title": "Tips for Shipping Data Products Fast",
     "url": "https://shopify.engineering/shipping-data-products-fast",
-    "upvotes": 125,
+    "upvotes": 130,
     "author": "oedmarap",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26341032"
-  },
-  {
-    "title": "Playing with symmetric encryption algorithms in Ruby",
-    "url": "https://medium.com/@Bakku1505/playing-with-symmetric-encryption-algorithms-in-ruby-8652f105341e",
-    "upvotes": 9,
-    "author": "damir",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26312697"
   },
   {
     "title": "Launch HN: Alinea (YC W21) – Invest in stocks you believe in",
     "url": "item?id=26342977",
-    "upvotes": 79,
+    "upvotes": 81,
     "author": "anamlakhani_",
-    "comments": 89,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=26342977"
+  },
+  {
+    "title": "Playing with symmetric encryption algorithms in Ruby",
+    "url": "https://medium.com/@Bakku1505/playing-with-symmetric-encryption-algorithms-in-ruby-8652f105341e",
+    "upvotes": 10,
+    "author": "damir",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26312697"
   },
   {
     "title": "OpenHaystack: Tracking Personal 'AirTags' via Apple's Find My Network",
     "url": "https://github.com/seemoo-lab/openhaystack",
-    "upvotes": 51,
-    "author": "mstute",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26342504"
-  },
-  {
-    "title": "It Can Happen to You",
-    "url": "https://www.mattkeeter.com/blog/2021-03-01-happen/",
-    "upvotes": 1524,
-    "author": "mooreds",
-    "comments": 373,
-    "link": "https://news.ycombinator.com/item?id=26337046"
-  },
-  {
-    "title": "The Mutable Gallery",
-    "url": "https://mutable.gallery/",
     "upvotes": 56,
-    "author": "nanna",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26327569"
-  },
-  {
-    "title": "PDP-1 Spotting – The Amherst Mystery",
-    "url": "https://www.masswerk.at/nowgobang/2021/pdp1-spotting",
-    "upvotes": 52,
-    "author": "masswerk",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26313124"
+    "author": "mstute",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26342504"
   },
   {
     "title": "Google’s FLoC Is a Terrible Idea",
     "url": "https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea",
-    "upvotes": 200,
+    "upvotes": 214,
     "author": "wyldfire",
-    "comments": 123,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=26344013"
   }
 ]
