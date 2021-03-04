@@ -1,116 +1,84 @@
 [
   {
-    "title": "Gab Has Been Breached",
-    "url": "https://www.troyhunt.com/gab-has-been-breached/",
-    "upvotes": 151,
-    "author": "nikbackm",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26339126"
-  },
-  {
     "title": "It Can Happen to You",
     "url": "https://www.mattkeeter.com/blog/2021-03-01-happen/",
-    "upvotes": 671,
+    "upvotes": 722,
     "author": "mooreds",
-    "comments": 177,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=26337046"
-  },
-  {
-    "title": "India’s new intermediary liability and digital media laws will harm the internet",
-    "url": "https://blog.mozilla.org/netpolicy/2021/03/02/indias-new-intermediary-liability-and-digital-media-regulations-will-harm-the-open-internet/",
-    "upvotes": 54,
-    "author": "searchableguy",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26339051"
   },
   {
     "title": "Okta to Acquire Auth0 for $6.5B",
     "url": "https://www.cnbc.com/2021/03/03/okta-is-buying-security-rival-auth0-for-6point5-billion-stock-falls.html",
-    "upvotes": 461,
+    "upvotes": 474,
     "author": "lpage",
-    "comments": 234,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=26334516"
   },
   {
-    "title": "Norwegian Won’t Fly the Boeing 737 Max Again",
-    "url": "https://simpleflying.com/norwegian-drops-737-max/",
-    "upvotes": 100,
-    "author": "neverminder",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=26338186"
+    "title": "The Air Force is having to reverse engineer parts of its own stealth bomber",
+    "url": "https://www.thedrive.com/the-war-zone/39537/the-air-force-needs-to-reverse-engineer-parts-of-its-own-stealth-bomber",
+    "upvotes": 348,
+    "author": "alrs",
+    "comments": 187,
+    "link": "https://news.ycombinator.com/item?id=26333649"
   },
   {
-    "title": "Killing TurboTax",
-    "url": "https://kunle.app/feb-2021-how-to-dismantle-turbotax.html",
-    "upvotes": 742,
-    "author": "kunle",
-    "comments": 569,
-    "link": "https://news.ycombinator.com/item?id=26330584"
+    "title": "Accidentally quadratic: When Python is faster than C++",
+    "url": "https://arxiv.org/abs/1911.12338",
+    "upvotes": 77,
+    "author": "mehrdadn",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26337913"
+  },
+  {
+    "title": "M1 MacBook Air hits 900 GFlops in the browser with Safari's experimental WebGPU",
+    "url": "https://jott.live/markdown/m1_webgpu_perf",
+    "upvotes": 309,
+    "author": "brrrrrm",
+    "comments": 289,
+    "link": "https://news.ycombinator.com/item?id=26333369"
+  },
+  {
+    "title": "Cbonsai: Grow bonsai trees in your terminal",
+    "url": "https://gitlab.com/jallbrit/cbonsai",
+    "upvotes": 195,
+    "author": "throwaway888abc",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26336396"
+  },
+  {
+    "title": "Twin sisters worth millions thanks to female gamers",
+    "url": "https://www.bbc.com/news/business-56261671",
+    "upvotes": 97,
+    "author": "alexanderdmitri",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26337537"
   },
   {
     "title": "Raycast",
     "url": "https://raycast.com/jobs"
   },
   {
-    "title": "The Air Force is having to reverse engineer parts of its own stealth bomber",
-    "url": "https://www.thedrive.com/the-war-zone/39537/the-air-force-needs-to-reverse-engineer-parts-of-its-own-stealth-bomber",
-    "upvotes": 341,
-    "author": "alrs",
-    "comments": 183,
-    "link": "https://news.ycombinator.com/item?id=26333649"
-  },
-  {
-    "title": "Accidentally quadratic: When Python is faster than C++",
-    "url": "https://arxiv.org/abs/1911.12338",
-    "upvotes": 66,
-    "author": "mehrdadn",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26337913"
-  },
-  {
-    "title": "Twin sisters worth millions thanks to female gamers",
-    "url": "https://www.bbc.com/news/business-56261671",
-    "upvotes": 93,
-    "author": "alexanderdmitri",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26337537"
-  },
-  {
-    "title": "M1 MacBook Air hits 900 GFlops in the browser with Safari's experimental WebGPU",
-    "url": "https://jott.live/markdown/m1_webgpu_perf",
-    "upvotes": 297,
-    "author": "brrrrrm",
-    "comments": 279,
-    "link": "https://news.ycombinator.com/item?id=26333369"
-  },
-  {
-    "title": "Cbonsai: Grow bonsai trees in your terminal",
-    "url": "https://gitlab.com/jallbrit/cbonsai",
-    "upvotes": 190,
-    "author": "throwaway888abc",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26336396"
+    "title": "Godot maintainer removes controversial satirical piece from documentation",
+    "url": "https://github.com/godotengine/godot-docs/commit/b872229427dddb9b749f46af597e85e25cf2955a",
+    "upvotes": 174,
+    "author": "phreack",
+    "comments": 206,
+    "link": "https://news.ycombinator.com/item?id=26336076"
   },
   {
     "title": "Iceberg simulator – draw an iceberg and see how it floats and melts",
     "url": "https://engaging-data.com/iceberger-remixed/?h=",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "engagingdata",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26337410"
-  },
-  {
-    "title": "Godot maintainer removes controversial satirical piece from documentation",
-    "url": "https://github.com/godotengine/godot-docs/commit/b872229427dddb9b749f46af597e85e25cf2955a",
-    "upvotes": 161,
-    "author": "phreack",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=26336076"
   },
   {
     "title": "Goat Ops",
     "url": "http://www.goatops.com/",
-    "upvotes": 81,
+    "upvotes": 90,
     "author": "Something1234",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26336880"
@@ -118,15 +86,23 @@
   {
     "title": "Emily Riehl is rewriting the foundations of higher category theory",
     "url": "https://www.quantamagazine.org/emily-riehl-conducts-the-mathematical-orchestra-from-the-middle-20200902/",
-    "upvotes": 172,
+    "upvotes": 181,
     "author": "guerrilla",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26334535"
+  },
+  {
+    "title": "Fast Factoring Integers by SVP Algorithms: “This Destroys the RSA Cryptosystem.” [pdf]",
+    "url": "https://eprint.iacr.org/2021/232.pdf",
+    "upvotes": 12,
+    "author": "sb057",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26339162"
   },
   {
     "title": "Google Cloud products in 4 words or less",
     "url": "https://cloud.google.com/blog/topics/developers-practitioners/back-popular-demand-google-cloud-products-4-words-or-less-2021-edition",
-    "upvotes": 227,
+    "upvotes": 234,
     "author": "gw5815",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26332348"
@@ -134,17 +110,25 @@
   {
     "title": "Bitsquatting Windows.com",
     "url": "https://remyhax.xyz/posts/bitsquatting-windows/",
-    "upvotes": 34,
+    "upvotes": 41,
     "author": "vikrum",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26338244"
+  },
+  {
+    "title": "Killing TurboTax",
+    "url": "https://kunle.app/feb-2021-how-to-dismantle-turbotax.html",
+    "upvotes": 751,
+    "author": "kunle",
+    "comments": 574,
+    "link": "https://news.ycombinator.com/item?id=26330584"
   },
   {
     "title": "Brave buys a search engine, promises no tracking, no profiling",
     "url": "https://www.theregister.com/2021/03/03/brave_buys_a_search_engine/",
-    "upvotes": 821,
+    "upvotes": 823,
     "author": "samizdis",
-    "comments": 358,
+    "comments": 363,
     "link": "https://news.ycombinator.com/item?id=26328758"
   },
   {
@@ -152,61 +136,69 @@
     "url": "item?id=26327717",
     "upvotes": 135,
     "author": "yaseer",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26327717"
   },
   {
     "title": "Flutter 2",
     "url": "https://developers.googleblog.com/2021/03/announcing-flutter-2.html",
-    "upvotes": 699,
+    "upvotes": 705,
     "author": "wstrange",
-    "comments": 631,
+    "comments": 640,
     "link": "https://news.ycombinator.com/item?id=26332944"
+  },
+  {
+    "title": "India’s new intermediary liability and digital media laws will harm the internet",
+    "url": "https://blog.mozilla.org/netpolicy/2021/03/02/indias-new-intermediary-liability-and-digital-media-regulations-will-harm-the-open-internet/",
+    "upvotes": 68,
+    "author": "searchableguy",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26339051"
   },
   {
     "title": "Did Schnorr destroy RSA? Show me the factors",
     "url": "https://sweis.medium.com/did-schnorr-destroy-rsa-show-me-the-factors-dcb1bb980ab0",
-    "upvotes": 245,
+    "upvotes": 249,
     "author": "sweis",
-    "comments": 166,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=26334086"
-  },
-  {
-    "title": "Fast Factoring Integers by SVP Algorithms: “This Destroys the RSA Cryptosystem.” [pdf]",
-    "url": "https://eprint.iacr.org/2021/232.pdf",
-    "upvotes": 7,
-    "author": "sb057",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26339162"
   },
   {
     "title": "fs.promises.readFile is 40% slower than fs.readFile",
     "url": "https://github.com/nodejs/node/issues/37583",
-    "upvotes": 110,
+    "upvotes": 117,
     "author": "Jarred",
-    "comments": 50,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26332774"
   },
   {
     "title": "Google to stop selling ads based on your specific web browsing",
     "url": "https://www.wsj.com/articles/google-to-stop-selling-ads-based-on-your-specific-web-browsing-11614780021",
-    "upvotes": 577,
+    "upvotes": 579,
     "author": "ghshephard",
-    "comments": 281,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=26328428"
   },
   {
     "title": "Peak Design calls out Amazon for copying its camera bag, including the name",
     "url": "https://www.youtube.com/watch?v=HbxWGjQ2szQ",
-    "upvotes": 64,
+    "upvotes": 83,
     "author": "LordAtlas",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26338525"
+  },
+  {
+    "title": "Germanium transistors: logic circuits in the IBM 1401 computer",
+    "url": "https://www.righto.com/2021/03/germanium-transistors-logic-circuits-in.html",
+    "upvotes": 72,
+    "author": "parsecs",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26332334"
   },
   {
     "title": "A Terse Guide On Hiring Your First Engineering Manager",
     "url": "https://mikedebo.com/work/2021/03/02/terse-guide-on-hiring-an-engineering-manager/",
-    "upvotes": 51,
+    "upvotes": 53,
     "author": "debo_",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26336281"
@@ -214,7 +206,7 @@
   {
     "title": "Probability, Mathematical Statistics, Stochastic Processes",
     "url": "http://www.randomservices.org/random/",
-    "upvotes": 108,
+    "upvotes": 116,
     "author": "happy-go-lucky",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26331487"
@@ -222,10 +214,18 @@
   {
     "title": "Dialog – domain-specific language for interactive fiction",
     "url": "https://www.linusakesson.net/dialog/index.php",
-    "upvotes": 47,
+    "upvotes": 50,
     "author": "Ivoah",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26328673"
+  },
+  {
+    "title": "Write complicated anonymous functions other than lambdas in Python",
+    "url": "https://github.com/hsfzxjy/lambdex",
+    "upvotes": 9,
+    "author": "satya71",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26338710"
   },
   {
     "title": "ThredUp S-1 IPO",
