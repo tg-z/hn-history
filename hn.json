@@ -2,139 +2,171 @@
   {
     "title": "Apple now lets you transfer your iCloud Photos to Google Photos",
     "url": "https://support.apple.com/en-us/HT208514",
-    "upvotes": 309,
+    "upvotes": 343,
     "author": "brunoluiz",
-    "comments": 182,
+    "comments": 223,
     "link": "https://news.ycombinator.com/item?id=26344739"
   },
   {
     "title": "The lessons of Fukushima – Nuclear power must be well regulated, not ditched",
     "url": "https://www.economist.com/leaders/2021/03/06/nuclear-power-must-be-well-regulated-not-ditched",
-    "upvotes": 53,
+    "upvotes": 103,
     "author": "mpweiher",
-    "comments": 42,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=26347073"
   },
   {
     "title": "HTTPWTF",
     "url": "https://httptoolkit.tech/blog/http-wtf/",
-    "upvotes": 331,
+    "upvotes": 369,
     "author": "pimterry",
-    "comments": 70,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26343577"
-  },
-  {
-    "title": "Tintern 'secret' medieval tunnel system found by accident",
-    "url": "https://www.bbc.co.uk/news/uk-wales-56281726",
-    "upvotes": 19,
-    "author": "goodcanadian",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26346879"
   },
   {
     "title": "Understanding deep learning requires rethinking generalization",
     "url": "https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext",
-    "upvotes": 42,
+    "upvotes": 55,
     "author": "tmfi",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26346226"
   },
   {
-    "title": "“User Engagement” Is Code for “Addiction”",
-    "url": "https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac",
-    "upvotes": 95,
-    "author": "rbanffy",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26346688"
+    "title": "Tintern 'secret' medieval tunnel system found by accident",
+    "url": "https://www.bbc.co.uk/news/uk-wales-56281726",
+    "upvotes": 33,
+    "author": "goodcanadian",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26346879"
   },
   {
     "title": "An Introduction to Lockless Algorithms",
     "url": "https://lwn.net/Articles/844224/",
-    "upvotes": 31,
+    "upvotes": 48,
     "author": "signa11",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26346033"
+  },
+  {
+    "title": "“User Engagement” Is Code for “Addiction”",
+    "url": "https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac",
+    "upvotes": 151,
+    "author": "rbanffy",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26346688"
   },
   {
     "title": "Female Founder Secrets: Fertility",
     "url": "https://femfosec.com/fertility/",
-    "upvotes": 161,
+    "upvotes": 196,
     "author": "femfosec",
-    "comments": 289,
+    "comments": 342,
     "link": "https://news.ycombinator.com/item?id=26345226"
-  },
-  {
-    "title": "A reminder that you should double-check the licenses for software you use",
-    "url": "https://github.com/katharostech/ldtk-rs/blob/master/LICENSE.md",
-    "upvotes": 57,
-    "author": "serverholic",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26346451"
   },
   {
     "title": "Speeding up Chrome's release cycle",
     "url": "https://blog.chromium.org/2021/03/speeding-up-release-cycle.html",
-    "upvotes": 38,
+    "upvotes": 47,
     "author": "twapi",
-    "comments": 23,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26345845"
   },
   {
-    "title": "Lion: A formally verified, 5-stage pipeline RISC-V core",
-    "url": "https://github.com/standardsemiconductor/lion",
-    "upvotes": 192,
-    "author": "varbhat",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26341055"
+    "title": "Multimodal Neurons in Artificial Neural Networks",
+    "url": "https://openai.com/blog/multimodal-neurons/",
+    "upvotes": 6,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26347613"
+  },
+  {
+    "title": "The Importance of Learning CSS",
+    "url": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
+    "upvotes": 26,
+    "author": "feross",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26346141"
+  },
+  {
+    "title": "Apache Age: A Graph Extension for PostgreSQL",
+    "url": "https://age.apache.org/",
+    "upvotes": 25,
+    "author": "based2",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26345755"
   },
   {
     "title": "Resquared",
     "url": "https://www.workatastartup.com/jobs/42392"
   },
   {
+    "title": "Lion: A formally verified, 5-stage pipeline RISC-V core",
+    "url": "https://github.com/standardsemiconductor/lion",
+    "upvotes": 198,
+    "author": "varbhat",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=26341055"
+  },
+  {
+    "title": "DuckDuckGo – two non-JavaScript versions of search results",
+    "url": "https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/",
+    "upvotes": 80,
+    "author": "URfejk",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26344358"
+  },
+  {
     "title": "An Introduction to Hierarchical Modeling",
     "url": "http://mfviz.com/hierarchical-models/",
-    "upvotes": 50,
+    "upvotes": 55,
     "author": "andyxor",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26312904"
   },
   {
-    "title": "DuckDuckGo – two non-JavaScript versions of search results",
-    "url": "https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/",
-    "upvotes": 57,
-    "author": "URfejk",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26344358"
+    "title": "A reminder that you should double-check the licenses for software you use",
+    "url": "https://github.com/katharostech/ldtk-rs/blob/master/LICENSE.md",
+    "upvotes": 75,
+    "author": "serverholic",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26346451"
   },
   {
-    "title": "The Importance of Learning CSS",
-    "url": "https://www.joshwcomeau.com/css/the-importance-of-learning-css/",
-    "upvotes": 14,
-    "author": "feross",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26346141"
+    "title": "Reverse-engineering Rosetta 2 Part 1: Analyzing AoT files and the runtime",
+    "url": "https://ffri.github.io/ProjectChampollion/part1/",
+    "upvotes": 18,
+    "author": "my123",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26346980"
+  },
+  {
+    "title": "100Mbps uploads and downloads should be US broadband standard, senators say",
+    "url": "https://arstechnica.com/tech-policy/2021/03/100mbps-uploads-and-downloads-should-be-us-broadband-standard-senators-say/",
+    "upvotes": 24,
+    "author": "caution",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26347380"
   },
   {
     "title": "That Is Not How Your Brain Works",
     "url": "https://nautil.us/issue/98/mind/that-is-not-how-your-brain-works",
-    "upvotes": 191,
+    "upvotes": 198,
     "author": "dnetesn",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26341218"
   },
   {
-    "title": "Apache Age: A Graph Extension for PostgreSQL",
-    "url": "https://age.apache.org/",
-    "upvotes": 11,
-    "author": "based2",
+    "title": "The Black Death: A New Culprit?",
+    "url": "https://www.historytoday.com/archive/natural-histories/black-death-new-culprit",
+    "upvotes": 6,
+    "author": "benbreen",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26345755"
+    "link": "https://news.ycombinator.com/item?id=26336647"
   },
   {
     "title": "How to Operate an Airport in Antarctica",
     "url": "https://www.flightradar24.com/blog/troll-research-station-how-to-operate-an-airport-in-antarctica/",
-    "upvotes": 237,
+    "upvotes": 246,
     "author": "Arnt",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26340384"
@@ -142,97 +174,65 @@
   {
     "title": "Tips for Shipping Data Products Fast",
     "url": "https://shopify.engineering/shipping-data-products-fast",
-    "upvotes": 122,
+    "upvotes": 125,
     "author": "oedmarap",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26341032"
-  },
-  {
-    "title": "Launch HN: Alinea (YC W21) – Invest in stocks you believe in",
-    "url": "item?id=26342977",
-    "upvotes": 73,
-    "author": "anamlakhani_",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=26342977"
   },
   {
     "title": "Playing with symmetric encryption algorithms in Ruby",
     "url": "https://medium.com/@Bakku1505/playing-with-symmetric-encryption-algorithms-in-ruby-8652f105341e",
-    "upvotes": 8,
+    "upvotes": 9,
     "author": "damir",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26312697"
   },
   {
-    "title": "Reverse-engineering Rosetta 2 Part 1: Analyzing AoT files and the runtime",
-    "url": "https://ffri.github.io/ProjectChampollion/part1/",
-    "upvotes": 6,
-    "author": "my123",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26346980"
+    "title": "Launch HN: Alinea (YC W21) – Invest in stocks you believe in",
+    "url": "item?id=26342977",
+    "upvotes": 79,
+    "author": "anamlakhani_",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26342977"
   },
   {
-    "title": "The Mutable Gallery",
-    "url": "https://mutable.gallery/",
+    "title": "OpenHaystack: Tracking Personal 'AirTags' via Apple's Find My Network",
+    "url": "https://github.com/seemoo-lab/openhaystack",
     "upvotes": 51,
-    "author": "nanna",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26327569"
+    "author": "mstute",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26342504"
   },
   {
     "title": "It Can Happen to You",
     "url": "https://www.mattkeeter.com/blog/2021-03-01-happen/",
-    "upvotes": 1512,
+    "upvotes": 1524,
     "author": "mooreds",
     "comments": 373,
     "link": "https://news.ycombinator.com/item?id=26337046"
   },
   {
-    "title": "OpenHaystack: Tracking Personal 'AirTags' via Apple's Find My Network",
-    "url": "https://github.com/seemoo-lab/openhaystack",
-    "upvotes": 41,
-    "author": "mstute",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26342504"
-  },
-  {
-    "title": "Show HN: Practical Python Projects book release",
-    "url": "item?id=26346586",
-    "upvotes": 13,
-    "author": "yasoob",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26346586"
+    "title": "The Mutable Gallery",
+    "url": "https://mutable.gallery/",
+    "upvotes": 56,
+    "author": "nanna",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26327569"
   },
   {
     "title": "PDP-1 Spotting – The Amherst Mystery",
     "url": "https://www.masswerk.at/nowgobang/2021/pdp1-spotting",
-    "upvotes": 49,
+    "upvotes": 52,
     "author": "masswerk",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26313124"
   },
   {
-    "title": "TSMC at the head of history’s tide: two high walls and one sharp knife",
-    "url": "https://docs.google.com/document/d/1RMr9lzlgrReruoosnoHLIZ0hHbqJT5Kq7hZmcG6_uqg/mobilebasic#heading=h.xehsiu9i1mw1",
-    "upvotes": 178,
-    "author": "avoidboringppl",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=26339341"
-  },
-  {
     "title": "Google’s FLoC Is a Terrible Idea",
     "url": "https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea",
-    "upvotes": 179,
+    "upvotes": 200,
     "author": "wyldfire",
-    "comments": 113,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=26344013"
-  },
-  {
-    "title": "Show HN: Gleek diagram maker – UML class, Sequence, ER diagrams, Flowcharts",
-    "url": "https://www.gleek.io",
-    "upvotes": 38,
-    "author": "vladojsem",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=26341046"
   }
 ]
