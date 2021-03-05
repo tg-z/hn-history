@@ -2,195 +2,211 @@
   {
     "title": "Bring Your Own Client",
     "url": "https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html",
-    "upvotes": 151,
+    "upvotes": 180,
     "author": "pcr910303",
-    "comments": 76,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=26355779"
-  },
-  {
-    "title": "'Floating ship' photographed off Cornish coast by walker",
-    "url": "https://www.bbc.co.uk/news/uk-england-cornwall-56286719",
-    "upvotes": 91,
-    "author": "jmkd",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26355480"
-  },
-  {
-    "title": "Open source projects should run office hours",
-    "url": "https://simonwillison.net/2021/Feb/19/office-hours/",
-    "upvotes": 491,
-    "author": "tosh",
-    "comments": 194,
-    "link": "https://news.ycombinator.com/item?id=26351053"
   },
   {
     "title": "Symbolics.jl: A Modern Computer Algebra System for a Modern Language",
     "url": "https://discourse.julialang.org/t/ann-symbolics-jl-a-modern-computer-algebra-system-for-a-modern-language/56251",
-    "upvotes": 5,
+    "upvotes": 32,
     "author": "natemcintosh",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26356854"
   },
   {
-    "title": "PyTorch 1.8, with AMD ROCm support",
-    "url": "https://github.com/pytorch/pytorch/releases/tag/v1.8.0",
-    "upvotes": 205,
-    "author": "lnyan",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26353184"
+    "title": "'Floating ship' photographed off Cornish coast by walker",
+    "url": "https://www.bbc.co.uk/news/uk-england-cornwall-56286719",
+    "upvotes": 131,
+    "author": "jmkd",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26355480"
   },
   {
     "title": "Valve's Proton Has Enabled 7000 Windows Games on Linux",
     "url": "https://boilingsteam.com/7000-windows-games-working-on-linux-with-proton/",
-    "upvotes": 44,
+    "upvotes": 109,
     "author": "ekianjo",
-    "comments": 6,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26356492"
   },
   {
-    "title": "Girl and Computer: Reflecting on the journey that got me to where I am today",
-    "url": "https://rmurphey.medium.com/girl-computer-31ecd328bc53",
-    "upvotes": 93,
-    "author": "mpweiher",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26354243"
+    "title": "Open source projects should run office hours",
+    "url": "https://simonwillison.net/2021/Feb/19/office-hours/",
+    "upvotes": 501,
+    "author": "tosh",
+    "comments": 200,
+    "link": "https://news.ycombinator.com/item?id=26351053"
   },
   {
-    "title": "\"World's highest-capacity\" solid-state battery developed in Japan",
-    "url": "https://asia.nikkei.com/Business/Energy/World-s-highest-capacity-solid-state-battery-developed-in-Japan",
-    "upvotes": 86,
-    "author": "bornelsewhere",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26353853"
+    "title": "PyTorch 1.8, with AMD ROCm support",
+    "url": "https://github.com/pytorch/pytorch/releases/tag/v1.8.0",
+    "upvotes": 216,
+    "author": "lnyan",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=26353184"
   },
   {
     "title": "How does your programming language handle “minus zero”",
     "url": "https://lemire.me/blog/2021/03/04/how-does-your-programming-language-handle-minus-zero-0-0/",
-    "upvotes": 38,
+    "upvotes": 46,
     "author": "ibobev",
-    "comments": 44,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26355220"
+  },
+  {
+    "title": "Girl and Computer: Reflecting on the journey that got me to where I am today",
+    "url": "https://rmurphey.medium.com/girl-computer-31ecd328bc53",
+    "upvotes": 110,
+    "author": "mpweiher",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26354243"
+  },
+  {
+    "title": "Zshelf: Z-Library books downloader for reMarkable tablet",
+    "url": "https://github.com/khanhas/zshelf",
+    "upvotes": 29,
+    "author": "markMacLean",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26355778"
+  },
+  {
+    "title": "\"World's highest-capacity\" solid-state battery developed in Japan",
+    "url": "https://asia.nikkei.com/Business/Energy/World-s-highest-capacity-solid-state-battery-developed-in-Japan",
+    "upvotes": 92,
+    "author": "bornelsewhere",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26353853"
   },
   {
     "title": "Duffel",
     "url": "https://jobs.lever.co/duffel/b84d43ae-d244-4a26-803c-d155b96ce0eb"
   },
   {
+    "title": "You can't parse [X]HTML with regex",
+    "url": "https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454",
+    "upvotes": 46,
+    "author": "BerislavLopac",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26355006"
+  },
+  {
     "title": "Git's list of banned C functions",
     "url": "https://github.com/git/git/blob/master/banned.h",
-    "upvotes": 777,
+    "upvotes": 788,
     "author": "muds",
-    "comments": 532,
+    "comments": 541,
     "link": "https://news.ycombinator.com/item?id=26347867"
+  },
+  {
+    "title": "Framing 101",
+    "url": "https://www.frameworksinstitute.org/tools-and-resources/framing-101/",
+    "upvotes": 5,
+    "author": "tschiller",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26356872"
   },
   {
     "title": "Binance Smart Chain DeFi Project Hacked for $31M",
     "url": "https://cryptobriefing.com/binance-smart-chain-defi-project-hacked-31-million/",
-    "upvotes": 45,
+    "upvotes": 59,
     "author": "capableweb",
-    "comments": 37,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26356202"
-  },
-  {
-    "title": "Zshelf: Z-Library books downloader for reMarkable tablet",
-    "url": "https://github.com/khanhas/zshelf",
-    "upvotes": 20,
-    "author": "markMacLean",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26355778"
   },
   {
     "title": "A warning about 5.12-rc1",
     "url": "https://lwn.net/Articles/848265/",
-    "upvotes": 157,
+    "upvotes": 161,
     "author": "eplanit",
-    "comments": 78,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26351702"
   },
   {
     "title": "Dr. Seuss books deemed offensive will be delisted from eBay",
     "url": "https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201",
-    "upvotes": 744,
+    "upvotes": 761,
     "author": "undefined1",
-    "comments": 1648,
+    "comments": 1680,
     "link": "https://news.ycombinator.com/item?id=26347654"
   },
   {
     "title": "Ask HN: Do you think Agile/Scrum is beneficial for software delivery?",
     "url": "item?id=26345235",
-    "upvotes": 379,
+    "upvotes": 389,
     "author": "andyxor",
-    "comments": 564,
+    "comments": 576,
     "link": "https://news.ycombinator.com/item?id=26345235"
+  },
+  {
+    "title": "Clothing, How Did They Make It? Part I: High Fiber",
+    "url": "https://acoup.blog/2021/03/05/collections-clothing-how-did-they-make-it-part-i-high-fiber/",
+    "upvotes": 12,
+    "author": "CapitalistCartr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26355046"
+  },
+  {
+    "title": "Voith Schneider Propeller",
+    "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
+    "upvotes": 149,
+    "author": "luu",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26339421"
   },
   {
     "title": "State-of-the-Art Image Generation Models",
     "url": "https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "pizza",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26351754"
   },
   {
-    "title": "Voith Schneider Propeller",
-    "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
-    "upvotes": 144,
-    "author": "luu",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26339421"
-  },
-  {
-    "title": "Honda's now selling the first production car with level 3 self-driving",
-    "url": "https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech",
-    "upvotes": 265,
-    "author": "nradov",
-    "comments": 274,
-    "link": "https://news.ycombinator.com/item?id=26352039"
-  },
-  {
     "title": "NIH will invest $1B to investigate 'long Covid'",
     "url": "https://www.nature.com/articles/d41586-021-00586-y",
-    "upvotes": 264,
+    "upvotes": 272,
     "author": "sohkamyung",
-    "comments": 190,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=26350951"
   },
   {
     "title": "Book Review: Fussell on Class",
     "url": "https://astralcodexten.substack.com/p/book-review-fussell-on-class",
-    "upvotes": 106,
+    "upvotes": 109,
     "author": "DaoIsTheWay",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26351913"
   },
   {
-    "title": "DuckDuckGo – two non-JavaScript versions of search results",
-    "url": "https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/",
-    "upvotes": 374,
-    "author": "URfejk",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=26344358"
+    "title": "Honda's now selling the first production car with level 3 self-driving",
+    "url": "https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech",
+    "upvotes": 268,
+    "author": "nradov",
+    "comments": 283,
+    "link": "https://news.ycombinator.com/item?id=26352039"
   },
   {
     "title": "Apache Age: A Graph Extension for PostgreSQL",
     "url": "https://age.apache.org/",
-    "upvotes": 195,
+    "upvotes": 197,
     "author": "based2",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26345755"
   },
   {
     "title": "Stability of Fixed Points of High Dimensional Dynamical Systems",
     "url": "https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "adipandas",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26352308"
   },
   {
     "title": "Understanding deep learning requires rethinking generalization",
     "url": "https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext",
-    "upvotes": 148,
+    "upvotes": 153,
     "author": "tmfi",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26346226"
@@ -198,7 +214,7 @@
   {
     "title": "An Introduction to Lockless Algorithms",
     "url": "https://lwn.net/Articles/844224/",
-    "upvotes": 202,
+    "upvotes": 208,
     "author": "signa11",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26346033"
@@ -206,33 +222,17 @@
   {
     "title": "Multimodal Neurons in Artificial Neural Networks",
     "url": "https://openai.com/blog/multimodal-neurons/",
-    "upvotes": 146,
+    "upvotes": 149,
     "author": "todsacerdoti",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26347613"
   },
   {
-    "title": "Clothing, How Did They Make It? Part I: High Fiber",
-    "url": "https://acoup.blog/2021/03/05/collections-clothing-how-did-they-make-it-part-i-high-fiber/",
-    "upvotes": 6,
-    "author": "CapitalistCartr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26355046"
-  },
-  {
     "title": "Tintern 'secret' medieval tunnel system found by accident",
     "url": "https://www.bbc.co.uk/news/uk-wales-56281726",
-    "upvotes": 182,
+    "upvotes": 184,
     "author": "goodcanadian",
     "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26346879"
-  },
-  {
-    "title": "“User engagement” is code for “addiction”",
-    "url": "https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac",
-    "upvotes": 663,
-    "author": "rbanffy",
-    "comments": 235,
-    "link": "https://news.ycombinator.com/item?id=26346688"
   }
 ]
