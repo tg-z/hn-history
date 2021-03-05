@@ -1,59 +1,75 @@
 [
   {
-    "title": "Open source projects should run office hours",
-    "url": "https://simonwillison.net/2021/Feb/19/office-hours/",
-    "upvotes": 289,
-    "author": "tosh",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26351053"
+    "title": "PyTorch 1.8, with AMD ROCm support",
+    "url": "https://github.com/pytorch/pytorch/releases/tag/v1.8.0",
+    "upvotes": 50,
+    "author": "lnyan",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26353184"
   },
   {
-    "title": "PyTorch 1.8 release with AMD ROCm support",
-    "url": "https://github.com/pytorch/pytorch/releases/tag/v1.8.0",
-    "upvotes": 31,
-    "author": "lnyan",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26353184"
+    "title": "Open source projects should run office hours",
+    "url": "https://simonwillison.net/2021/Feb/19/office-hours/",
+    "upvotes": 301,
+    "author": "tosh",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=26351053"
   },
   {
     "title": "Honda's now selling the first production car with level 3 self-driving",
     "url": "https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech",
-    "upvotes": 155,
+    "upvotes": 164,
     "author": "nradov",
-    "comments": 125,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=26352039"
+  },
+  {
+    "title": "Git's list of banned C functions",
+    "url": "https://github.com/git/git/blob/master/banned.h",
+    "upvotes": 615,
+    "author": "muds",
+    "comments": 453,
+    "link": "https://news.ycombinator.com/item?id=26347867"
   },
   {
     "title": "Book Review: Fussell on Class",
     "url": "https://astralcodexten.substack.com/p/book-review-fussell-on-class",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "DaoIsTheWay",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26351913"
   },
   {
-    "title": "Git's list of banned C functions",
-    "url": "https://github.com/git/git/blob/master/banned.h",
-    "upvotes": 604,
-    "author": "muds",
-    "comments": 445,
-    "link": "https://news.ycombinator.com/item?id=26347867"
-  },
-  {
     "title": "HTTPWTF",
     "url": "https://httptoolkit.tech/blog/http-wtf/",
-    "upvotes": 670,
+    "upvotes": 675,
     "author": "pimterry",
-    "comments": 115,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26343577"
   },
   {
     "title": "Stability of Fixed Points of High Dimensional Dynamical Systems",
     "url": "https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "adipandas",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26352308"
+  },
+  {
+    "title": "A warning about 5.12-rc1",
+    "url": "https://lwn.net/Articles/848265/",
+    "upvotes": 53,
+    "author": "eplanit",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26351702"
+  },
+  {
+    "title": "Google’s FLoC Is a Terrible Idea",
+    "url": "https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea",
+    "upvotes": 476,
+    "author": "wyldfire",
+    "comments": 281,
+    "link": "https://news.ycombinator.com/item?id=26344013"
   },
   {
     "title": "State-of-the-Art Image Generation Models",
@@ -64,57 +80,41 @@
     "link": "https://news.ycombinator.com/item?id=26351754"
   },
   {
-    "title": "A warning about 5.12-rc1",
-    "url": "https://lwn.net/Articles/848265/",
-    "upvotes": 45,
-    "author": "eplanit",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26351702"
-  },
-  {
-    "title": "Google’s FLoC Is a Terrible Idea",
-    "url": "https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea",
-    "upvotes": 466,
-    "author": "wyldfire",
-    "comments": 277,
-    "link": "https://news.ycombinator.com/item?id=26344013"
+    "title": "Dr. Seuss books deemed offensive will be delisted from eBay",
+    "url": "https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201",
+    "upvotes": 481,
+    "author": "undefined1",
+    "comments": 1000,
+    "link": "https://news.ycombinator.com/item?id=26347654"
   },
   {
     "title": "Voith Schneider Propeller",
     "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
-    "upvotes": 91,
+    "upvotes": 92,
     "author": "luu",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26339421"
-  },
-  {
-    "title": "Dr. Seuss books deemed offensive will be delisted from eBay",
-    "url": "https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201",
-    "upvotes": 469,
-    "author": "undefined1",
-    "comments": 964,
-    "link": "https://news.ycombinator.com/item?id=26347654"
   },
   {
     "title": "US health agency will invest $1B to investigate 'long Covid'",
     "url": "https://www.nature.com/articles/d41586-021-00586-y",
-    "upvotes": 170,
+    "upvotes": 171,
     "author": "sohkamyung",
-    "comments": 118,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=26350951"
   },
   {
     "title": "Ask HN: Do you think Agile/Scrum is beneficial for software delivery?",
     "url": "item?id=26345235",
-    "upvotes": 224,
+    "upvotes": 227,
     "author": "andyxor",
-    "comments": 338,
+    "comments": 344,
     "link": "https://news.ycombinator.com/item?id=26345235"
   },
   {
     "title": "Apache Age: A Graph Extension for PostgreSQL",
     "url": "https://age.apache.org/",
-    "upvotes": 153,
+    "upvotes": 157,
     "author": "based2",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26345755"
@@ -128,12 +128,12 @@
     "link": "https://news.ycombinator.com/item?id=26347613"
   },
   {
-    "title": "Who Wrote Your Favorite Song? It’s Complicated",
-    "url": "https://www.wsj.com/articles/who-really-wrote-your-favorite-song-its-complicated-11614176253",
-    "upvotes": 13,
-    "author": "jkuria",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26352499"
+    "title": "Understanding deep learning requires rethinking generalization",
+    "url": "https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext",
+    "upvotes": 122,
+    "author": "tmfi",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26346226"
   },
   {
     "title": "AI Teaches Itself Diplomacy",
@@ -144,17 +144,9 @@
     "link": "https://news.ycombinator.com/item?id=26350590"
   },
   {
-    "title": "Understanding deep learning requires rethinking generalization",
-    "url": "https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext",
-    "upvotes": 122,
-    "author": "tmfi",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26346226"
-  },
-  {
     "title": "DuckDuckGo – two non-JavaScript versions of search results",
     "url": "https://help.duckduckgo.com/duckduckgo-help-pages/features/non-javascript/",
-    "upvotes": 259,
+    "upvotes": 267,
     "author": "URfejk",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26344358"
@@ -162,7 +154,7 @@
   {
     "title": "“User engagement” is code for “addiction”",
     "url": "https://medium.com/swlh/user-engagement-is-code-for-addiction-a2f50d36d7ac",
-    "upvotes": 546,
+    "upvotes": 556,
     "author": "rbanffy",
     "comments": 181,
     "link": "https://news.ycombinator.com/item?id=26346688"
@@ -170,7 +162,7 @@
   {
     "title": "An Introduction to Lockless Algorithms",
     "url": "https://lwn.net/Articles/844224/",
-    "upvotes": 156,
+    "upvotes": 161,
     "author": "signa11",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26346033"
@@ -178,10 +170,18 @@
   {
     "title": "Launch HN: Lendflow (YC W21) – Infrastructure for embedded lending services",
     "url": "item?id=26347962",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "jon-fry",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26347962"
+  },
+  {
+    "title": "Who Wrote Your Favorite Song? It’s Complicated",
+    "url": "https://www.wsj.com/articles/who-really-wrote-your-favorite-song-its-complicated-11614176253",
+    "upvotes": 13,
+    "author": "jkuria",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26352499"
   },
   {
     "title": "Turntable.fm is back from the dead – and now there are two",
@@ -198,7 +198,7 @@
   {
     "title": "Tintern 'secret' medieval tunnel system found by accident",
     "url": "https://www.bbc.co.uk/news/uk-wales-56281726",
-    "upvotes": 146,
+    "upvotes": 147,
     "author": "goodcanadian",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26346879"
@@ -206,25 +206,25 @@
   {
     "title": "The lessons of Fukushima – Nuclear power must be well regulated, not ditched",
     "url": "https://www.economist.com/leaders/2021/03/06/nuclear-power-must-be-well-regulated-not-ditched",
-    "upvotes": 315,
+    "upvotes": 316,
     "author": "mpweiher",
-    "comments": 360,
+    "comments": 361,
     "link": "https://news.ycombinator.com/item?id=26347073"
   },
   {
     "title": "100Mbps uploads and downloads should be US broadband standard, senators say",
     "url": "https://arstechnica.com/tech-policy/2021/03/100mbps-uploads-and-downloads-should-be-us-broadband-standard-senators-say/",
-    "upvotes": 349,
+    "upvotes": 353,
     "author": "caution",
-    "comments": 174,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=26347380"
   },
   {
     "title": "Apple now lets you transfer your iCloud Photos to Google Photos",
     "url": "https://support.apple.com/en-us/HT208514",
-    "upvotes": 499,
+    "upvotes": 503,
     "author": "brunoluiz",
-    "comments": 327,
+    "comments": 329,
     "link": "https://news.ycombinator.com/item?id=26344739"
   },
   {
@@ -232,7 +232,7 @@
     "url": "https://ffri.github.io/ProjectChampollion/part1/",
     "upvotes": 96,
     "author": "my123",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26346980"
   }
 ]
