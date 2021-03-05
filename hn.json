@@ -2,81 +2,89 @@
   {
     "title": "Bring Your Own Client",
     "url": "https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html",
-    "upvotes": 180,
+    "upvotes": 208,
     "author": "pcr910303",
-    "comments": 93,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26355779"
   },
   {
     "title": "Symbolics.jl: A Modern Computer Algebra System for a Modern Language",
     "url": "https://discourse.julialang.org/t/ann-symbolics-jl-a-modern-computer-algebra-system-for-a-modern-language/56251",
-    "upvotes": 32,
+    "upvotes": 57,
     "author": "natemcintosh",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26356854"
   },
   {
     "title": "'Floating ship' photographed off Cornish coast by walker",
     "url": "https://www.bbc.co.uk/news/uk-england-cornwall-56286719",
-    "upvotes": 131,
+    "upvotes": 164,
     "author": "jmkd",
-    "comments": 57,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26355480"
   },
   {
     "title": "Valve's Proton Has Enabled 7000 Windows Games on Linux",
     "url": "https://boilingsteam.com/7000-windows-games-working-on-linux-with-proton/",
-    "upvotes": 109,
+    "upvotes": 163,
     "author": "ekianjo",
-    "comments": 37,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26356492"
+  },
+  {
+    "title": "Framing 101",
+    "url": "https://www.frameworksinstitute.org/tools-and-resources/framing-101/",
+    "upvotes": 20,
+    "author": "tschiller",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26356872"
   },
   {
     "title": "Open source projects should run office hours",
     "url": "https://simonwillison.net/2021/Feb/19/office-hours/",
-    "upvotes": 501,
+    "upvotes": 517,
     "author": "tosh",
-    "comments": 200,
+    "comments": 209,
     "link": "https://news.ycombinator.com/item?id=26351053"
   },
   {
     "title": "PyTorch 1.8, with AMD ROCm support",
     "url": "https://github.com/pytorch/pytorch/releases/tag/v1.8.0",
-    "upvotes": 216,
+    "upvotes": 222,
     "author": "lnyan",
-    "comments": 87,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=26353184"
+  },
+  {
+    "title": "You can't parse [X]HTML with regex",
+    "url": "https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454",
+    "upvotes": 56,
+    "author": "BerislavLopac",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26355006"
   },
   {
     "title": "How does your programming language handle “minus zero”",
     "url": "https://lemire.me/blog/2021/03/04/how-does-your-programming-language-handle-minus-zero-0-0/",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "ibobev",
-    "comments": 61,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26355220"
-  },
-  {
-    "title": "Girl and Computer: Reflecting on the journey that got me to where I am today",
-    "url": "https://rmurphey.medium.com/girl-computer-31ecd328bc53",
-    "upvotes": 110,
-    "author": "mpweiher",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26354243"
   },
   {
     "title": "Zshelf: Z-Library books downloader for reMarkable tablet",
     "url": "https://github.com/khanhas/zshelf",
-    "upvotes": 29,
+    "upvotes": 39,
     "author": "markMacLean",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26355778"
   },
   {
     "title": "\"World's highest-capacity\" solid-state battery developed in Japan",
     "url": "https://asia.nikkei.com/Business/Energy/World-s-highest-capacity-solid-state-battery-developed-in-Japan",
-    "upvotes": 92,
+    "upvotes": 94,
     "author": "bornelsewhere",
-    "comments": 52,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26353853"
   },
   {
@@ -84,155 +92,147 @@
     "url": "https://jobs.lever.co/duffel/b84d43ae-d244-4a26-803c-d155b96ce0eb"
   },
   {
-    "title": "You can't parse [X]HTML with regex",
-    "url": "https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454",
-    "upvotes": 46,
-    "author": "BerislavLopac",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26355006"
-  },
-  {
-    "title": "Git's list of banned C functions",
-    "url": "https://github.com/git/git/blob/master/banned.h",
-    "upvotes": 788,
-    "author": "muds",
-    "comments": 541,
-    "link": "https://news.ycombinator.com/item?id=26347867"
-  },
-  {
-    "title": "Framing 101",
-    "url": "https://www.frameworksinstitute.org/tools-and-resources/framing-101/",
-    "upvotes": 5,
-    "author": "tschiller",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26356872"
-  },
-  {
-    "title": "Binance Smart Chain DeFi Project Hacked for $31M",
-    "url": "https://cryptobriefing.com/binance-smart-chain-defi-project-hacked-31-million/",
-    "upvotes": 59,
-    "author": "capableweb",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26356202"
+    "title": "Girl and Computer: Reflecting on the journey that got me to where I am today",
+    "url": "https://rmurphey.medium.com/girl-computer-31ecd328bc53",
+    "upvotes": 118,
+    "author": "mpweiher",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26354243"
   },
   {
     "title": "A warning about 5.12-rc1",
     "url": "https://lwn.net/Articles/848265/",
-    "upvotes": 161,
+    "upvotes": 169,
     "author": "eplanit",
-    "comments": 83,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26351702"
   },
   {
-    "title": "Dr. Seuss books deemed offensive will be delisted from eBay",
-    "url": "https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201",
-    "upvotes": 761,
-    "author": "undefined1",
-    "comments": 1680,
-    "link": "https://news.ycombinator.com/item?id=26347654"
+    "title": "Binance Smart Chain DeFi Project Hacked for $31M",
+    "url": "https://cryptobriefing.com/binance-smart-chain-defi-project-hacked-31-million/",
+    "upvotes": 71,
+    "author": "capableweb",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26356202"
   },
   {
-    "title": "Ask HN: Do you think Agile/Scrum is beneficial for software delivery?",
-    "url": "item?id=26345235",
-    "upvotes": 389,
-    "author": "andyxor",
-    "comments": 576,
-    "link": "https://news.ycombinator.com/item?id=26345235"
+    "title": "Clojure from a Schemer's Perspective",
+    "url": "https://www.more-magic.net/posts/thoughts-on-clojure.html",
+    "upvotes": 7,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26356367"
   },
   {
     "title": "Clothing, How Did They Make It? Part I: High Fiber",
     "url": "https://acoup.blog/2021/03/05/collections-clothing-how-did-they-make-it-part-i-high-fiber/",
-    "upvotes": 12,
+    "upvotes": 18,
     "author": "CapitalistCartr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26355046"
   },
   {
-    "title": "Voith Schneider Propeller",
-    "url": "https://en.wikipedia.org/wiki/Voith_Schneider_Propeller",
-    "upvotes": 149,
-    "author": "luu",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26339421"
-  },
-  {
     "title": "State-of-the-Art Image Generation Models",
     "url": "https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/",
-    "upvotes": 95,
+    "upvotes": 99,
     "author": "pizza",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26351754"
   },
   {
     "title": "NIH will invest $1B to investigate 'long Covid'",
     "url": "https://www.nature.com/articles/d41586-021-00586-y",
-    "upvotes": 272,
+    "upvotes": 279,
     "author": "sohkamyung",
-    "comments": 203,
+    "comments": 214,
     "link": "https://news.ycombinator.com/item?id=26350951"
+  },
+  {
+    "title": "Honda's now selling the first production car with level 3 self-driving",
+    "url": "https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech",
+    "upvotes": 275,
+    "author": "nradov",
+    "comments": 290,
+    "link": "https://news.ycombinator.com/item?id=26352039"
+  },
+  {
+    "title": "Git's list of banned C functions",
+    "url": "https://github.com/git/git/blob/master/banned.h",
+    "upvotes": 798,
+    "author": "muds",
+    "comments": 546,
+    "link": "https://news.ycombinator.com/item?id=26347867"
+  },
+  {
+    "title": "Stability of Fixed Points of High Dimensional Dynamical Systems",
+    "url": "https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/",
+    "upvotes": 48,
+    "author": "adipandas",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26352308"
+  },
+  {
+    "title": "Scientists announce a physical warp drive is possible",
+    "url": "https://www.esquire.com/news-politics/a35728928/scientists-say-physical-warp-drive-is-possible/",
+    "upvotes": 9,
+    "author": "jacksonpollock",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26357298"
   },
   {
     "title": "Book Review: Fussell on Class",
     "url": "https://astralcodexten.substack.com/p/book-review-fussell-on-class",
     "upvotes": 109,
     "author": "DaoIsTheWay",
-    "comments": 33,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26351913"
   },
   {
-    "title": "Honda's now selling the first production car with level 3 self-driving",
-    "url": "https://www.thedrive.com/news/39609/hondas-now-selling-the-worlds-first-production-car-with-level-3-self-driving-tech",
-    "upvotes": 268,
-    "author": "nradov",
-    "comments": 283,
-    "link": "https://news.ycombinator.com/item?id=26352039"
+    "title": "Reddit hires its first chief financial officer as it prepares for an IPO",
+    "url": "https://www.nytimes.com/2021/03/05/technology/reddit-chief-financial-officer-ipo.html",
+    "upvotes": 6,
+    "author": "nwotnagrom",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26357271"
   },
   {
-    "title": "Apache Age: A Graph Extension for PostgreSQL",
-    "url": "https://age.apache.org/",
-    "upvotes": 197,
-    "author": "based2",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26345755"
+    "title": "HTTPWTF",
+    "url": "https://httptoolkit.tech/blog/http-wtf/",
+    "upvotes": 763,
+    "author": "pimterry",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=26343577"
   },
   {
-    "title": "Stability of Fixed Points of High Dimensional Dynamical Systems",
-    "url": "https://adipandas.github.io/posts/2021/03/fixed-point-high-dim/",
-    "upvotes": 47,
-    "author": "adipandas",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26352308"
+    "title": "Dr. Seuss books deemed offensive will be delisted from eBay",
+    "url": "https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201",
+    "upvotes": 777,
+    "author": "undefined1",
+    "comments": 1713,
+    "link": "https://news.ycombinator.com/item?id=26347654"
   },
   {
-    "title": "Understanding deep learning requires rethinking generalization",
-    "url": "https://cacm.acm.org/magazines/2021/3/250713-understanding-deep-learning-still-requires-rethinking-generalization/fulltext",
-    "upvotes": 153,
-    "author": "tmfi",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26346226"
+    "title": "Physicists found 4 new subatomic particles that may test the laws of nature",
+    "url": "https://www.sciencealert.com/scientists-just-discovered-four-new-subatomic-particles-all-tetraquarks",
+    "upvotes": 3,
+    "author": "jacksonpollock",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26357328"
   },
   {
-    "title": "An Introduction to Lockless Algorithms",
-    "url": "https://lwn.net/Articles/844224/",
-    "upvotes": 208,
-    "author": "signa11",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26346033"
+    "title": "It Can Happen to You",
+    "url": "https://www.mattkeeter.com/blog/2021-03-01-happen/",
+    "upvotes": 1607,
+    "author": "mooreds",
+    "comments": 400,
+    "link": "https://news.ycombinator.com/item?id=26337046"
   },
   {
-    "title": "Multimodal Neurons in Artificial Neural Networks",
-    "url": "https://openai.com/blog/multimodal-neurons/",
-    "upvotes": 149,
-    "author": "todsacerdoti",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=26347613"
-  },
-  {
-    "title": "Tintern 'secret' medieval tunnel system found by accident",
-    "url": "https://www.bbc.co.uk/news/uk-wales-56281726",
-    "upvotes": 184,
-    "author": "goodcanadian",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=26346879"
+    "title": "Launch HN: Lendflow (YC W21) – Infrastructure for embedded lending services",
+    "url": "item?id=26347962",
+    "upvotes": 57,
+    "author": "jon-fry",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26347962"
   }
 ]
