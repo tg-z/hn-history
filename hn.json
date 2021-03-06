@@ -2,41 +2,49 @@
   {
     "title": "Animated Engines",
     "url": "http://animatedengines.com/",
-    "upvotes": 281,
+    "upvotes": 314,
     "author": "marcodiego",
-    "comments": 32,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26368939"
   },
   {
     "title": "Citus 10 brings columnar compression to Postgres",
     "url": "https://www.citusdata.com/blog/2021/03/06/citus-10-columnar-compression-for-postgres/",
-    "upvotes": 96,
+    "upvotes": 108,
     "author": "whitepoplar",
-    "comments": 27,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26369305"
   },
   {
     "title": "WordStar: A Writer's Word Processor",
     "url": "http://sfwriter.com/wordstar.htm",
-    "upvotes": 22,
+    "upvotes": 34,
     "author": "Tomte",
-    "comments": 6,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26370252"
   },
   {
     "title": "Thanks HN: Lessons learned after Google nearly killed my site",
     "url": "https://www.uploader.win/blog/",
-    "upvotes": 243,
+    "upvotes": 266,
     "author": "uploaderwin",
-    "comments": 116,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=26357033"
+  },
+  {
+    "title": "Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge",
+    "url": "https://github.com/dolthub/dolt#dolt",
+    "upvotes": 14,
+    "author": "crazypython",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26370572"
   },
   {
     "title": "What Is RPN? Why Did/Does HP Use RPN? Learning RPN",
     "url": "https://www.hpmuseum.org/rpn.htm",
-    "upvotes": 47,
+    "upvotes": 55,
     "author": "susam",
-    "comments": 34,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26369414"
   },
   {
@@ -44,17 +52,9 @@
     "url": "https://contentfly.com/company"
   },
   {
-    "title": "Reflections on IDEA vs VS Code",
-    "url": "https://archive.vn/nNdT1",
-    "upvotes": 206,
-    "author": "regexrex",
-    "comments": 265,
-    "link": "https://news.ycombinator.com/item?id=26367410"
-  },
-  {
     "title": "The bizarre beasts living in Romania's poison cave",
     "url": "http://www.bbc.co.uk/earth/story/20150904-the-bizarre-beasts-living-in-romanias-poison-cave",
-    "upvotes": 59,
+    "upvotes": 78,
     "author": "EndXA",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26368786"
@@ -62,74 +62,122 @@
   {
     "title": "Download the Entire Wikimedia Database",
     "url": "https://dumps.wikimedia.org/",
-    "upvotes": 5,
+    "upvotes": 15,
     "author": "surround",
-    "comments": null,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26370397"
+  },
+  {
+    "title": "Reflections on IDEA vs VS Code",
+    "url": "https://archive.vn/nNdT1",
+    "upvotes": 217,
+    "author": "regexrex",
+    "comments": 278,
+    "link": "https://news.ycombinator.com/item?id=26367410"
+  },
+  {
+    "title": "Why Read Classic Books?",
+    "url": "https://literaryforge.blog/2021/03/03/why-read-classic-books/",
+    "upvotes": 29,
+    "author": "tosh",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26340534"
+  },
+  {
+    "title": "Launch HN: Lunatic (YC W21) – An Erlang Inspired WebAssembly Platform",
+    "url": "item?id=26367029",
+    "upvotes": 110,
+    "author": "withtypes",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26367029"
   },
   {
     "title": "A Brief History of Cryptocurrency as Payment",
     "url": "https://www.bakkt.com/blog/consumer/a-brief-history-of-cryptocurrency-as-payment",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "mooreds",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26369449"
-  },
-  {
-    "title": "Virtual Particles: What are they?",
-    "url": "https://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/",
-    "upvotes": 62,
-    "author": "czzr",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26368637"
-  },
-  {
-    "title": "Zero Data App",
-    "url": "https://0data.app/",
-    "upvotes": 420,
-    "author": "polm23",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=26365835"
   },
   {
     "title": "Show HN: PrograMaker – Visual Programming Platform",
     "url": "https://programaker.com/about",
-    "upvotes": 12,
+    "upvotes": 16,
     "author": "kenkeiras",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26369893"
   },
   {
-    "title": "Delphi Method",
-    "url": "https://en.wikipedia.org/wiki/Delphi_method",
-    "upvotes": 77,
-    "author": "the-mitr",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26368011"
+    "title": "Zero Data App",
+    "url": "https://0data.app/",
+    "upvotes": 430,
+    "author": "polm23",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=26365835"
   },
   {
     "title": "Show HN: Pakhi – Bangla Programming Language",
     "url": "https://github.com/Shafin098/pakhi-bhasha",
-    "upvotes": 37,
+    "upvotes": 46,
     "author": "shafin_",
-    "comments": 26,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26368847"
   },
   {
-    "title": "Tesla has closed its forums to launch a social platform and fans are not happy",
-    "url": "https://techcrunch.com/2021/03/05/tesla-has-closed-its-forums-to-launch-a-social-platform-and-fans-are-not-happy/",
-    "upvotes": 46,
-    "author": "_Microft",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26369623"
+    "title": "Virtual Particles: What are they?",
+    "url": "https://profmattstrassler.com/articles-and-posts/particle-physics-basics/virtual-particles-what-are-they/",
+    "upvotes": 65,
+    "author": "czzr",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26368637"
+  },
+  {
+    "title": "Delphi Method",
+    "url": "https://en.wikipedia.org/wiki/Delphi_method",
+    "upvotes": 79,
+    "author": "the-mitr",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26368011"
   },
   {
     "title": "IBM Port-A-Punch: create punched card documents anywhere",
     "url": "https://tedium.co/2017/03/29/ibm-port-a-punch-card-device/",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "ingve",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26369191"
+  },
+  {
+    "title": "What the Mouse Knows",
+    "url": "https://simonsarris.substack.com/p/what-the-mouse-knows",
+    "upvotes": 4,
+    "author": "exolymph",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26353113"
+  },
+  {
+    "title": "Chinese hacking spree hit an ‘astronomical’ number of victims",
+    "url": "https://www.wired.com/story/china-microsoft-exchange-server-hack-victims/",
+    "upvotes": 70,
+    "author": "ombirsharma",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=26369138"
+  },
+  {
+    "title": "Tesla has closed its forums to launch a social platform and fans are not happy",
+    "url": "https://techcrunch.com/2021/03/05/tesla-has-closed-its-forums-to-launch-a-social-platform-and-fans-are-not-happy/",
+    "upvotes": 55,
+    "author": "_Microft",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26369623"
+  },
+  {
+    "title": "The Phantom Forests That Built Mesa Verde",
+    "url": "https://www.sapiens.org/column/curiosities/mesa-verde-ancestral-puebloan/",
+    "upvotes": 32,
+    "author": "Thevet",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26352019"
   },
   {
     "title": "Ian McEwan on Bach, Philip Roth and Living an Episodic Life",
@@ -140,99 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=26368491"
   },
   {
-    "title": "The Phantom Forests That Built Mesa Verde",
-    "url": "https://www.sapiens.org/column/curiosities/mesa-verde-ancestral-puebloan/",
-    "upvotes": 31,
-    "author": "Thevet",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26352019"
-  },
-  {
-    "title": "Why Read Classic Books?",
-    "url": "https://literaryforge.blog/2021/03/03/why-read-classic-books/",
-    "upvotes": 13,
-    "author": "tosh",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26340534"
-  },
-  {
-    "title": "Launch HN: Lunatic (YC W21) – An Erlang Inspired WebAssembly Platform",
-    "url": "item?id=26367029",
-    "upvotes": 107,
-    "author": "withtypes",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26367029"
-  },
-  {
-    "title": "Why was the Amiga Kickstart 1.x “Insert floppy” graphic so bad?",
-    "url": "https://retrocomputing.stackexchange.com/questions/13897/why-was-the-kickstart-1-x-insert-floppy-graphic-so-bad/13901",
-    "upvotes": 69,
-    "author": "andy_herbert",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26369057"
-  },
-  {
-    "title": "Show HN: I made a note-taking app for roleplaying games like D&D",
-    "url": "https://www.critical-notes.com",
-    "upvotes": 10,
-    "author": "kevinrenskers",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26369653"
-  },
-  {
-    "title": "Tell HN: I am doing online reading sessions on analytic number theory",
-    "url": "https://spxy.github.io/bc/",
-    "upvotes": 88,
-    "author": "susam",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26366464"
-  },
-  {
-    "title": "Tech posers of the Bauhaus",
-    "url": "https://www.orgonomyproductions.info/notes/notes/2021/02/27/TechPosersBauhaus.html",
-    "upvotes": 77,
-    "author": "amicoleo",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26366513"
-  },
-  {
-    "title": "Solving the “garage orphans” problem",
-    "url": "https://electricautonomy.ca/2019/06/24/solving-the-electric-vehicle-garage-orphans-problem/",
-    "upvotes": 7,
-    "author": "throw0101a",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26341466"
-  },
-  {
     "title": "Dos.Zone – interactive database of DOS games",
     "url": "http://dos.zone",
-    "upvotes": 8,
+    "upvotes": 15,
     "author": "emersonrsantos",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26369211"
   },
   {
-    "title": "30k U.S. organizations newly hacked via holes in Microsoft Exchange Server",
-    "url": "https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/",
-    "upvotes": 958,
-    "author": "parsecs",
-    "comments": 401,
-    "link": "https://news.ycombinator.com/item?id=26362178"
+    "title": "Jack Dorsey Dorsey is attempting to sell his first tweet as an NFT",
+    "url": "https://www.theverge.com/2021/3/5/22316320/jack-dorsey-original-tweet-nft-cent-valuables",
+    "upvotes": 33,
+    "author": "pmlnr",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26369546"
   },
   {
-    "title": "Ask HN: Is abuse from supervisors as common in industry as in academia?",
-    "url": "item?id=26367099",
-    "upvotes": 201,
-    "author": "phdonewiththis",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=26367099"
+    "title": "Show HN: I made a note-taking app for roleplaying games like D&D",
+    "url": "https://www.critical-notes.com",
+    "upvotes": 17,
+    "author": "kevinrenskers",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26369653"
   },
   {
-    "title": "Chaos Strikes Global Shipping",
-    "url": "https://www.nytimes.com/2021/03/06/business/global-shipping.html",
-    "upvotes": 56,
-    "author": "donmcc",
+    "title": "Solving the “garage orphans” problem",
+    "url": "https://electricautonomy.ca/2019/06/24/solving-the-electric-vehicle-garage-orphans-problem/",
+    "upvotes": 11,
+    "author": "throw0101a",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26341466"
+  },
+  {
+    "title": "Tell HN: I am doing online reading sessions on analytic number theory",
+    "url": "https://spxy.github.io/bc/",
+    "upvotes": 90,
+    "author": "susam",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26366464"
+  },
+  {
+    "title": "Why was the Amiga Kickstart 1.x “Insert floppy” graphic so bad?",
+    "url": "https://retrocomputing.stackexchange.com/questions/13897/why-was-the-kickstart-1-x-insert-floppy-graphic-so-bad/13901",
+    "upvotes": 75,
+    "author": "andy_herbert",
     "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26368711"
+    "link": "https://news.ycombinator.com/item?id=26369057"
   }
 ]
