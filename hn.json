@@ -2,66 +2,66 @@
   {
     "title": "30k U.S. organizations newly hacked via holes in Microsoft Exchange Server",
     "url": "https://krebsonsecurity.com/2021/03/at-least-30000-u-s-organizations-newly-hacked-via-holes-in-microsofts-email-software/",
-    "upvotes": 400,
+    "upvotes": 420,
     "author": "parsecs",
-    "comments": 151,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=26362178"
-  },
-  {
-    "title": "Show HN: Svelte NodeGUI, a lightweight Electron alternative with native UI",
-    "url": "https://github.com/nodegui/svelte-nodegui",
-    "upvotes": 323,
-    "author": "LinguaBrowse",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=26361423"
   },
   {
     "title": "Burned House Horizon",
     "url": "https://en.wikipedia.org/wiki/Burned_house_horizon",
-    "upvotes": 32,
+    "upvotes": 46,
     "author": "diodorus",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26364285"
+  },
+  {
+    "title": "Show HN: Svelte NodeGUI, a lightweight Electron alternative with native UI",
+    "url": "https://github.com/nodegui/svelte-nodegui",
+    "upvotes": 327,
+    "author": "LinguaBrowse",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=26361423"
   },
   {
     "title": "Coursera S-1 IPO",
     "url": "https://www.sec.gov/Archives/edgar/data/1651562/000119312521071525/d65490ds1.htm",
-    "upvotes": 182,
+    "upvotes": 185,
     "author": "marc__1",
-    "comments": 63,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26362443"
   },
   {
     "title": "Fusion startup plans reactor with small but powerful superconducting magnets",
     "url": "https://www.sciencemag.org/news/2021/03/fusion-startup-plans-reactor-small-powerful-superconducting-magnets",
-    "upvotes": 222,
+    "upvotes": 223,
     "author": "rbanffy",
-    "comments": 243,
+    "comments": 248,
     "link": "https://news.ycombinator.com/item?id=26360005"
   },
   {
     "title": "An update on Android's audio latency",
     "url": "https://android-developers.googleblog.com/2021/03/an-update-on-androids-audio-latency.html",
-    "upvotes": 139,
+    "upvotes": 142,
     "author": "ingve",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26361191"
   },
   {
     "title": "Number Unemployed for 27 Weeks and Over",
     "url": "https://fred.stlouisfed.org/series/UEMP27OV",
-    "upvotes": 32,
+    "upvotes": 37,
     "author": "sndean",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26363953"
   },
   {
-    "title": "Bring Your Own Client",
-    "url": "https://www.geoffreylitt.com/2021/03/05/bring-your-own-client.html",
-    "upvotes": 482,
-    "author": "pcr910303",
-    "comments": 218,
-    "link": "https://news.ycombinator.com/item?id=26355779"
+    "title": "Symbolics.jl: A Modern Computer Algebra System for a Modern Language",
+    "url": "https://discourse.julialang.org/t/ann-symbolics-jl-a-modern-computer-algebra-system-for-a-modern-language/56251",
+    "upvotes": 320,
+    "author": "natemcintosh",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=26356854"
   },
   {
     "title": "Isadore Singer Bridged Math and Physics",
@@ -72,17 +72,9 @@
     "link": "https://news.ycombinator.com/item?id=26362360"
   },
   {
-    "title": "Symbolics.jl: A Modern Computer Algebra System for a Modern Language",
-    "url": "https://discourse.julialang.org/t/ann-symbolics-jl-a-modern-computer-algebra-system-for-a-modern-language/56251",
-    "upvotes": 318,
-    "author": "natemcintosh",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26356854"
-  },
-  {
     "title": "Show HN: Relocate.me – get your next tech job abroad",
     "url": "https://relocate.me",
-    "upvotes": 134,
+    "upvotes": 138,
     "author": "andrewstetsenko",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26360779"
@@ -90,15 +82,23 @@
   {
     "title": "Wing Commander III",
     "url": "https://www.filfre.net/2021/03/wing-commander-iii/",
-    "upvotes": 193,
+    "upvotes": 195,
     "author": "doppp",
-    "comments": 137,
+    "comments": 138,
     "link": "https://news.ycombinator.com/item?id=26359431"
+  },
+  {
+    "title": "Intel Core I7-11700K Review: Blasting Off with Rocket Lake",
+    "url": "https://www.anandtech.com/show/16535/intel-core-i7-11700k-review-blasting-off-with-rocket-lake",
+    "upvotes": 64,
+    "author": "stsmwg",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=26363116"
   },
   {
     "title": "Data Transfer Project by Apple, Facebook, Google, Microsoft, etc.",
     "url": "https://datatransferproject.dev/",
-    "upvotes": 165,
+    "upvotes": 167,
     "author": "aleyan",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26360101"
@@ -106,18 +106,10 @@
   {
     "title": "Simulating CRT Monitors with FFmpeg",
     "url": "https://int10h.org/blog/2021/01/simulating-crt-monitors-ffmpeg-pt-1-color/",
-    "upvotes": 24,
+    "upvotes": 28,
     "author": "sep",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26355175"
-  },
-  {
-    "title": "Intel Core I7-11700K Review: Blasting Off with Rocket Lake",
-    "url": "https://www.anandtech.com/show/16535/intel-core-i7-11700k-review-blasting-off-with-rocket-lake",
-    "upvotes": 60,
-    "author": "stsmwg",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=26363116"
   },
   {
     "title": "FizzBuzz in 65c816 Assembly for Super Mario World",
@@ -128,47 +120,39 @@
     "link": "https://news.ycombinator.com/item?id=26362739"
   },
   {
-    "title": "Our World in Data",
-    "url": "https://ourworldindata.org/jobs"
-  },
-  {
-    "title": "Dark patterns after the GDPR: consent pop-ups and their influence",
-    "url": "https://dl.acm.org/doi/10.1145/3313831.3376321",
-    "upvotes": 147,
-    "author": "DyslexicAtheist",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=26358882"
-  },
-  {
-    "title": "Valve's Proton Has Enabled 7000 Windows Games on Linux",
-    "url": "https://boilingsteam.com/7000-windows-games-working-on-linux-with-proton/",
-    "upvotes": 685,
-    "author": "ekianjo",
-    "comments": 292,
-    "link": "https://news.ycombinator.com/item?id=26356492"
-  },
-  {
     "title": "How to Build a Community: Starting with “Why?”",
     "url": "https://clrcrl.com/2021/03/03/how-to-build-a-community-why.html",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "alexdean",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26363709"
   },
   {
-    "title": "Show HN: Monitor server hardware usage from phone",
-    "url": "https://github.com/lab-ml/labml/blob/master/guides/hardware_monitoring.md",
-    "upvotes": 15,
-    "author": "vpj",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26355243"
+    "title": "Dark patterns after the GDPR: consent pop-ups and their influence",
+    "url": "https://dl.acm.org/doi/10.1145/3313831.3376321",
+    "upvotes": 148,
+    "author": "DyslexicAtheist",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=26358882"
+  },
+  {
+    "title": "Our World in Data",
+    "url": "https://ourworldindata.org/jobs"
+  },
+  {
+    "title": "Valve's Proton Has Enabled 7000 Windows Games on Linux",
+    "url": "https://boilingsteam.com/7000-windows-games-working-on-linux-with-proton/",
+    "upvotes": 689,
+    "author": "ekianjo",
+    "comments": 298,
+    "link": "https://news.ycombinator.com/item?id=26356492"
   },
   {
     "title": "Zola: A fast static site generator in a single binary",
     "url": "https://www.getzola.org/",
-    "upvotes": 202,
+    "upvotes": 204,
     "author": "ibraheemdev",
-    "comments": 145,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=26357389"
   },
   {
@@ -178,6 +162,14 @@
     "author": "Petiver",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26353246"
+  },
+  {
+    "title": "Show HN: Monitor server hardware usage from phone",
+    "url": "https://github.com/lab-ml/labml/blob/master/guides/hardware_monitoring.md",
+    "upvotes": 15,
+    "author": "vpj",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26355243"
   },
   {
     "title": "Caramel: An OCaml for the Erlang VM",
@@ -190,18 +182,10 @@
   {
     "title": "Clothing, How Did They Make It? Part I: High Fiber",
     "url": "https://acoup.blog/2021/03/05/collections-clothing-how-did-they-make-it-part-i-high-fiber/",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "CapitalistCartr",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26355046"
-  },
-  {
-    "title": "The Zen Anti-Interpretation of Quantum Mechanics",
-    "url": "https://www.scottaaronson.com/blog/?p=5359",
-    "upvotes": 6,
-    "author": "nabla9",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26363004"
   },
   {
     "title": "Modern Text Features in R",
@@ -222,17 +206,33 @@
   {
     "title": "Capstone Disassembler Framework",
     "url": "https://github.com/aquynh/capstone",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "jmacjmac",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26356388"
   },
   {
-    "title": "Feeling Sheepish: Where did the phrase black sheep come from, anyway?",
-    "url": "https://www.laphamsquarterly.org/roundtable/feeling-sheepish",
-    "upvotes": 17,
-    "author": "pepys",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26345627"
+    "title": "The Zen Anti-Interpretation of Quantum Mechanics",
+    "url": "https://www.scottaaronson.com/blog/?p=5359",
+    "upvotes": 8,
+    "author": "nabla9",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26363004"
+  },
+  {
+    "title": "Kalman Filter",
+    "url": "https://en.wikipedia.org/wiki/Kalman_filter",
+    "upvotes": 9,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26363347"
+  },
+  {
+    "title": "Mischa's Cursed Webring",
+    "url": "https://cursed.lol",
+    "upvotes": 91,
+    "author": "bwooster",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26358952"
   }
 ]
