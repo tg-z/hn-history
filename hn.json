@@ -1,40 +1,48 @@
 [
   {
+    "title": "The Kilobyte's Gambit: Can you beat 1024 bytes of JavaScript [at chess]?",
+    "url": "https://vole.wtf/kilobytes-gambit/",
+    "upvotes": 39,
+    "author": "msszczep2",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26380110"
+  },
+  {
     "title": "We may soon have city-spanning 900 MHz mesh networks",
     "url": "https://cheapskatesguide.org/articles/900mhz-mesh.html",
-    "upvotes": 169,
+    "upvotes": 180,
     "author": "RiderOfGiraffes",
-    "comments": 131,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=26376388"
+  },
+  {
+    "title": "Review: The Book of Why",
+    "url": "https://tachy.org/posts/book-of-why/",
+    "upvotes": 36,
+    "author": "pizzicato",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26379695"
   },
   {
     "title": "Raspberry Pi for Kill Mosquitoes by Laser",
     "url": "https://www.preprints.org/manuscript/202101.0412/v1",
-    "upvotes": 183,
+    "upvotes": 191,
     "author": "ColinWright",
-    "comments": 142,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=26376376"
   },
   {
     "title": "Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun",
     "url": "https://kevinlynagh.com/rust-zig/",
-    "upvotes": 600,
+    "upvotes": 608,
     "author": "iansinnott",
-    "comments": 279,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=26374268"
-  },
-  {
-    "title": "Review: The Book of Why",
-    "url": "https://tachy.org/posts/book-of-why/",
-    "upvotes": 30,
-    "author": "pizzicato",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26379695"
   },
   {
     "title": "Someone is hacking the hackers",
     "url": "https://gizmodo.com/someone-is-hacking-the-hackers-1846406428",
-    "upvotes": 212,
+    "upvotes": 217,
     "author": "fortran77",
     "comments": 123,
     "link": "https://news.ycombinator.com/item?id=26376421"
@@ -42,26 +50,26 @@
   {
     "title": "Donate Unrestricted",
     "url": "http://paulgraham.com/donate.html",
-    "upvotes": 217,
+    "upvotes": 227,
     "author": "razin",
-    "comments": 232,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=26376441"
+  },
+  {
+    "title": "Simple and Free Web Analytics",
+    "url": "https://counter.dev/",
+    "upvotes": 37,
+    "author": "ihucos",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26379569"
   },
   {
     "title": "A Second Conversation with Werner Vogels",
     "url": "https://cacm.acm.org/magazines/2021/3/250706-a-second-conversation-with-werner-vogels/fulltext",
-    "upvotes": 31,
+    "upvotes": 37,
     "author": "mpweiher",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26365873"
-  },
-  {
-    "title": "I Bought a Business for $0",
-    "url": "https://every.to/superorganizers/how-i-bought-a-business-for-0",
-    "upvotes": 157,
-    "author": "catchmeifyoucan",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26377535"
   },
   {
     "title": "Solugen",
@@ -70,169 +78,161 @@
   {
     "title": "Switzerland votes against electronic ID system provided by private companies",
     "url": "https://www.swissinfo.ch/eng/digital-identity-scheme-faces-scepticism-around-data-privacy/46399636",
-    "upvotes": 434,
+    "upvotes": 446,
     "author": "bontoJR",
-    "comments": 239,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=26377906"
   },
   {
-    "title": "The Kilobyte's Gambit: Can you beat 1024 bytes of JavaScript [at chess]?",
-    "url": "https://vole.wtf/kilobytes-gambit/",
-    "upvotes": 8,
-    "author": "msszczep2",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26380110"
-  },
-  {
-    "title": "Qubes-Lite with KVM and Wayland",
-    "url": "https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/",
-    "upvotes": 35,
-    "author": "todsacerdoti",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26378854"
-  },
-  {
-    "title": "Simple and Free Web Analytics",
-    "url": "https://counter.dev/",
-    "upvotes": 27,
-    "author": "ihucos",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26379569"
+    "title": "I Bought a Business for $0",
+    "url": "https://every.to/superorganizers/how-i-bought-a-business-for-0",
+    "upvotes": 174,
+    "author": "catchmeifyoucan",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=26377535"
   },
   {
     "title": "A truck driver uncovers secrets about the first nuclear bombs",
     "url": "https://www.newyorker.com/magazine/2008/12/15/atomic-john",
-    "upvotes": 35,
+    "upvotes": 41,
     "author": "3eto",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26366564"
-  },
-  {
-    "title": "Launch HN: PingPong (YC W21) – Video messaging for remote teams",
-    "url": "item?id=26377761",
-    "upvotes": 43,
-    "author": "jeffwhitlock",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26377761"
-  },
-  {
-    "title": "Why winter exercise can be especially hard on the lungs",
-    "url": "https://www.cbc.ca/news/canada/winter-exercise-lungs-1.5936703",
-    "upvotes": 121,
-    "author": "curmudgeon22",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26376423"
-  },
-  {
-    "title": "Popular YouTubers who are building their own sites",
-    "url": "https://www.bbc.com/news/technology-55349255",
-    "upvotes": 148,
-    "author": "mikesabbagh",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=26379548"
-  },
-  {
-    "title": "The blissful political incorrectness of Soviet comedies",
-    "url": "https://thecritic.co.uk/the-blissful-political-incorrectness-of-soviet-comedies/",
-    "upvotes": 65,
-    "author": "hyperrail",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26377822"
-  },
-  {
-    "title": "Let's Encrypt's performance is currently degraded due to a DDoS attack",
-    "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6044830be2838505358d3108",
-    "upvotes": 230,
-    "author": "sorcix",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=26374430"
-  },
-  {
-    "title": "“Design Patterns” Aren't",
-    "url": "http://perl.plover.com/yak/design/",
-    "upvotes": 62,
-    "author": "Tomte",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26376607"
-  },
-  {
-    "title": "The ZX81 Turns 40",
-    "url": "https://www.theregister.com/2021/03/05/zx81_at_40/",
-    "upvotes": 116,
-    "author": "ggambetta",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=26374090"
-  },
-  {
-    "title": "The Sad Story of the Centris",
-    "url": "https://512pixels.net/2021/03/the-sad-story-of-the-centris/",
-    "upvotes": 18,
-    "author": "ingve",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26366260"
-  },
-  {
-    "title": "Spirograph",
-    "url": "https://en.wikipedia.org/wiki/Spirograph",
-    "upvotes": 15,
-    "author": "peter_d_sherman",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26377999"
-  },
-  {
-    "title": "How the United States and Soviet Union embarked on a macabre surgical arms race",
-    "url": "https://www.atlasobscura.com/articles/cold-war-surgical-arms-race",
-    "upvotes": 31,
-    "author": "pseudolus",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26366749"
-  },
-  {
-    "title": "Apple M1 Microarchitecture Research",
-    "url": "https://dougallj.github.io/applecpu/firestorm.html",
-    "upvotes": 143,
-    "author": "my123",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26375139"
-  },
-  {
-    "title": "Simple and privacy-friendly alternative to Google Analytic",
-    "url": "https://github.com/plausible/analytics",
-    "upvotes": 145,
-    "author": "rajeshrajappan",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26374755"
-  },
-  {
-    "title": "Show HN: Buy My Side Project",
-    "url": "https://buymysideproject.com",
-    "upvotes": 139,
-    "author": "raunometsa",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=26375850"
-  },
-  {
-    "title": "Blogging Is Hard",
-    "url": "https://yosefk.com/blog/blogging-is-hard.html",
-    "upvotes": 8,
-    "author": "luu",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26373425"
   },
   {
     "title": "UC’s termination of Elsevier contract has had limited negative impact",
     "url": "https://dailybruin.com/2020/02/27/ucs-termination-of-elsevier-contract-has-had-limited-negative-impact",
-    "upvotes": 9,
+    "upvotes": 21,
     "author": "ColinWright",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26379954"
   },
   {
+    "title": "Launch HN: PingPong (YC W21) – Video messaging for remote teams",
+    "url": "item?id=26377761",
+    "upvotes": 46,
+    "author": "jeffwhitlock",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26377761"
+  },
+  {
+    "title": "Qubes-Lite with KVM and Wayland",
+    "url": "https://roscidus.com/blog/blog/2021/03/07/qubes-lite-with-kvm-and-wayland/",
+    "upvotes": 39,
+    "author": "todsacerdoti",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26378854"
+  },
+  {
+    "title": "The blissful political incorrectness of Soviet comedies",
+    "url": "https://thecritic.co.uk/the-blissful-political-incorrectness-of-soviet-comedies/",
+    "upvotes": 71,
+    "author": "hyperrail",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26377822"
+  },
+  {
+    "title": "Why winter exercise can be especially hard on the lungs",
+    "url": "https://www.cbc.ca/news/canada/winter-exercise-lungs-1.5936703",
+    "upvotes": 122,
+    "author": "curmudgeon22",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=26376423"
+  },
+  {
+    "title": "Let's Encrypt's performance is currently degraded due to a DDoS attack",
+    "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6044830be2838505358d3108",
+    "upvotes": 234,
+    "author": "sorcix",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26374430"
+  },
+  {
+    "title": "The ZX81 Turns 40",
+    "url": "https://www.theregister.com/2021/03/05/zx81_at_40/",
+    "upvotes": 119,
+    "author": "ggambetta",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=26374090"
+  },
+  {
+    "title": "“Design Patterns” Aren't",
+    "url": "http://perl.plover.com/yak/design/",
+    "upvotes": 64,
+    "author": "Tomte",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26376607"
+  },
+  {
+    "title": "Apple M1 Microarchitecture Research",
+    "url": "https://dougallj.github.io/applecpu/firestorm.html",
+    "upvotes": 148,
+    "author": "my123",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26375139"
+  },
+  {
+    "title": "The Sad Story of the Centris",
+    "url": "https://512pixels.net/2021/03/the-sad-story-of-the-centris/",
+    "upvotes": 19,
+    "author": "ingve",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26366260"
+  },
+  {
+    "title": "How the United States and Soviet Union embarked on a macabre surgical arms race",
+    "url": "https://www.atlasobscura.com/articles/cold-war-surgical-arms-race",
+    "upvotes": 32,
+    "author": "pseudolus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26366749"
+  },
+  {
+    "title": "Simple and privacy-friendly alternative to Google Analytic",
+    "url": "https://github.com/plausible/analytics",
+    "upvotes": 149,
+    "author": "rajeshrajappan",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=26374755"
+  },
+  {
+    "title": "Popular YouTubers who are building their own sites",
+    "url": "https://www.bbc.com/news/technology-55349255",
+    "upvotes": 158,
+    "author": "mikesabbagh",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=26379548"
+  },
+  {
     "title": "Neuroscience: Idle minds",
     "url": "https://www.nature.com/news/neuroscience-idle-minds-1.11440",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "fremden",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26378035"
+  },
+  {
+    "title": "Show HN: Buy My Side Project",
+    "url": "https://buymysideproject.com",
+    "upvotes": 144,
+    "author": "raunometsa",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26375850"
+  },
+  {
+    "title": "Spirograph",
+    "url": "https://en.wikipedia.org/wiki/Spirograph",
+    "upvotes": 17,
+    "author": "peter_d_sherman",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26377999"
+  },
+  {
+    "title": "Blogging Is Hard",
+    "url": "https://yosefk.com/blog/blogging-is-hard.html",
+    "upvotes": 10,
+    "author": "luu",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26373425"
   }
 ]
