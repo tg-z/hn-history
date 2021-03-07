@@ -2,97 +2,105 @@
   {
     "title": "I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun",
     "url": "https://kevinlynagh.com/rust-zig/",
-    "upvotes": 101,
+    "upvotes": 126,
     "author": "iansinnott",
-    "comments": 36,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26374268"
   },
   {
     "title": "NFTs Are a Dangerous Trap",
     "url": "https://seths.blog/2021/03/nfts-are-a-dangerous-trap/",
-    "upvotes": 383,
+    "upvotes": 396,
     "author": "josephscott",
-    "comments": 329,
+    "comments": 338,
     "link": "https://news.ycombinator.com/item?id=26373108"
   },
   {
     "title": "Falsehoods Programmers Believe About Names",
     "url": "https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/",
-    "upvotes": 19,
+    "upvotes": 29,
     "author": "MikusR",
-    "comments": 3,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26374593"
   },
   {
     "title": "The Ergodicity Problem in Economics",
     "url": "https://www.nature.com/articles/s41567-019-0732-0",
-    "upvotes": 62,
+    "upvotes": 68,
     "author": "ali92hm",
-    "comments": 19,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26373847"
+  },
+  {
+    "title": "Let's Encrypt's performance is currently degraded due to a DDoS attack",
+    "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6044830be2838505358d3108",
+    "upvotes": 19,
+    "author": "sorcix",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26374430"
   },
   {
     "title": "Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge",
     "url": "https://github.com/dolthub/dolt#dolt",
-    "upvotes": 594,
+    "upvotes": 599,
     "author": "crazypython",
-    "comments": 148,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26370572"
   },
   {
     "title": "ISO Standard for Preparing Tea",
     "url": "https://en.wikipedia.org/wiki/ISO_3103",
-    "upvotes": 94,
+    "upvotes": 102,
     "author": "polm23",
-    "comments": 56,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26373364"
   },
   {
     "title": "Procrastination is flight, deadline is fight, freeze is staring at the screen",
     "url": "https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299",
-    "upvotes": 276,
+    "upvotes": 280,
     "author": "stared",
-    "comments": 45,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26371848"
+  },
+  {
+    "title": "Divorce rate cut in half for couples who discussed relationship movies",
+    "url": "https://www.rochester.edu/news/divorce-rate-cut-in-half-for-couples-who-discussed-relationship-movies/",
+    "upvotes": 89,
+    "author": "mleonhard",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26373543"
   },
   {
     "title": "507 Mechanical Movements",
     "url": "http://507movements.com",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "Naracion",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26373539"
   },
   {
-    "title": "Don’t use 7-segment displays",
-    "url": "http://www.harold.thimbleby.net/cv/files/seven-segment.pdf",
-    "upvotes": 58,
-    "author": "parsecs",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26373405"
-  },
-  {
     "title": "Nodes.io – A new way to create with code",
     "url": "https://nodes.io/",
-    "upvotes": 260,
+    "upvotes": 263,
     "author": "triptych",
-    "comments": 53,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26371818"
   },
   {
-    "title": "Divorce rate cut in half for couples who discussed relationship movies",
-    "url": "https://www.rochester.edu/news/divorce-rate-cut-in-half-for-couples-who-discussed-relationship-movies/",
-    "upvotes": 85,
-    "author": "mleonhard",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26373543"
+    "title": "Don’t use 7-segment displays",
+    "url": "http://www.harold.thimbleby.net/cv/files/seven-segment.pdf",
+    "upvotes": 60,
+    "author": "parsecs",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26373405"
   },
   {
     "title": "FFMPEG from Zero to Hero",
     "url": "https://ffmpegfromzerotohero.com/",
-    "upvotes": 308,
+    "upvotes": 316,
     "author": "wilsonfiifi",
-    "comments": 108,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=26370704"
   },
   {
@@ -100,76 +108,100 @@
     "url": "https://impraise.recruitee.com/o/senior-product-designer"
   },
   {
-    "title": "How do you fund that game prototype?",
-    "url": "https://gamediscoverability.substack.com/p/how-do-you-fund-that-game-prototype",
-    "upvotes": 14,
-    "author": "polm23",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26366136"
+    "title": "Simple and privacy-friendly alternative to Google Analytic",
+    "url": "https://github.com/plausible/analytics",
+    "upvotes": 3,
+    "author": "rajeshrajappan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26374755"
   },
   {
     "title": "Cactus Comments: Federated web comments based on Matrix protocol",
     "url": "https://cactus.chat/",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "decrypt",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26371813"
   },
   {
-    "title": "Do Digital Platforms Reduce Moral Hazard? The Case of Uber and Taxis",
-    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3721",
-    "upvotes": 67,
-    "author": "nwotnagrom",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26372185"
+    "title": "How do you fund that game prototype?",
+    "url": "https://gamediscoverability.substack.com/p/how-do-you-fund-that-game-prototype",
+    "upvotes": 17,
+    "author": "polm23",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26366136"
   },
   {
     "title": "Transplant an organ? Why not an entire body?",
     "url": "https://www.washingtonpost.com/outlook/transplant-an-organ-why-not-an-entire-body/2021/03/04/ae55bf54-64b4-11eb-8c64-9595888caa15_story.html",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "apollinaire",
-    "comments": 67,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26373180"
   },
   {
     "title": "YouTuber Builds Working 3D-Printed Turbojet Engine and Tests It in His Attic",
     "url": "https://www.thedrive.com/news/39624/youtuber-builds-working-3d-printed-turbojet-engine-and-tests-it-in-his-attic",
-    "upvotes": 126,
+    "upvotes": 128,
     "author": "clouddrover",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26371034"
   },
   {
     "title": "WordStar: A Writer's Word Processor",
     "url": "http://sfwriter.com/wordstar.htm",
-    "upvotes": 129,
+    "upvotes": 131,
     "author": "Tomte",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26370252"
   },
   {
     "title": "The moving sofa problem",
     "url": "https://www.math.ucdavis.edu/~romik/movingsofa/",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "EndXA",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26327383"
   },
   {
+    "title": "The Digital Transformation of Cars Is Just Beginning",
+    "url": "https://mule.substack.com/p/the-digital-transformation-of-cars",
+    "upvotes": 8,
+    "author": "reteltech",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26374078"
+  },
+  {
+    "title": "Do Digital Platforms Reduce Moral Hazard? The Case of Uber and Taxis",
+    "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3721",
+    "upvotes": 68,
+    "author": "nwotnagrom",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26372185"
+  },
+  {
     "title": "Notes from a Year of Building Keyboards",
     "url": "https://kevinlynagh.com/keyboards/",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "2mol",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26373951"
   },
   {
-    "title": "Let's Encrypt's performance is currently degraded due to a DDoS attack",
-    "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6044830be2838505358d3108",
-    "upvotes": 3,
-    "author": "sorcix",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26374430"
+    "title": "Build Your Machine Today",
+    "url": "https://vention.io",
+    "upvotes": 91,
+    "author": "alex_hirner",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26371625"
+  },
+  {
+    "title": "Show HN: I built a service to share source code without signing up",
+    "url": "https://harigami.net",
+    "upvotes": 17,
+    "author": "sti320a",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26367574"
   },
   {
     "title": "Reconstant: Share constant definitions between programming languages",
@@ -180,59 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=26374010"
   },
   {
-    "title": "Build Your Machine Today",
-    "url": "https://vention.io",
-    "upvotes": 89,
-    "author": "alex_hirner",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26371625"
-  },
-  {
     "title": "Animated Engines",
     "url": "http://animatedengines.com/",
-    "upvotes": 599,
+    "upvotes": 604,
     "author": "marcodiego",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26368939"
   },
   {
-    "title": "Show HN: I built a service to share source code without signing up",
-    "url": "https://harigami.net",
-    "upvotes": 16,
-    "author": "sti320a",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26367574"
-  },
-  {
-    "title": "Reality Is Perplexing Enough: An Interview with Jorge Luis Borges",
-    "url": "https://www.commonwealmagazine.org/interview-jorge-luis-borges",
-    "upvotes": 71,
-    "author": "keiferski",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26355663"
-  },
-  {
     "title": "The Math Behind Project Scheduling, Bug Tracking, and Triage",
     "url": "https://apenwarr.ca/log/?m=201712",
-    "upvotes": 27,
+    "upvotes": 30,
     "author": "codesuki",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26373014"
   },
   {
-    "title": "Justified Variables: Words of the same length with related meanings",
-    "url": "https://github.com/timvieira/justified-variables",
-    "upvotes": 61,
-    "author": "polm23",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26359214"
-  },
-  {
-    "title": "Bay Area drug kingpins lured low-level dealers, promising cheap rent",
-    "url": "https://www.eastbaytimes.com/2020/03/12/in-the-midst-of-housing-shortage-bay-area-drug-kingpins-lured-in-low-level-dealers-with-promises-of-cheap-rent-feds-say/",
-    "upvotes": 45,
-    "author": "loosetypes",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26372134"
+    "title": "Reality Is Perplexing Enough: An Interview with Jorge Luis Borges",
+    "url": "https://www.commonwealmagazine.org/interview-jorge-luis-borges",
+    "upvotes": 72,
+    "author": "keiferski",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26355663"
   }
 ]
