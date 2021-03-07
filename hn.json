@@ -2,141 +2,149 @@
   {
     "title": "I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun",
     "url": "https://kevinlynagh.com/rust-zig/",
-    "upvotes": 126,
+    "upvotes": 157,
     "author": "iansinnott",
-    "comments": 51,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26374268"
   },
   {
     "title": "NFTs Are a Dangerous Trap",
     "url": "https://seths.blog/2021/03/nfts-are-a-dangerous-trap/",
-    "upvotes": 396,
+    "upvotes": 415,
     "author": "josephscott",
-    "comments": 338,
+    "comments": 349,
     "link": "https://news.ycombinator.com/item?id=26373108"
   },
   {
     "title": "Falsehoods Programmers Believe About Names",
     "url": "https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "MikusR",
-    "comments": 20,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26374593"
-  },
-  {
-    "title": "The Ergodicity Problem in Economics",
-    "url": "https://www.nature.com/articles/s41567-019-0732-0",
-    "upvotes": 68,
-    "author": "ali92hm",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26373847"
   },
   {
     "title": "Let's Encrypt's performance is currently degraded due to a DDoS attack",
     "url": "https://letsencrypt.status.io/pages/incident/55957a99e800baa4470002da/6044830be2838505358d3108",
-    "upvotes": 19,
+    "upvotes": 31,
     "author": "sorcix",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26374430"
+  },
+  {
+    "title": "Simple and privacy-friendly alternative to Google Analytic",
+    "url": "https://github.com/plausible/analytics",
+    "upvotes": 12,
+    "author": "rajeshrajappan",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26374755"
   },
   {
     "title": "Dolt is Git for Data: a SQL database that you can fork, clone, branch, merge",
     "url": "https://github.com/dolthub/dolt#dolt",
-    "upvotes": 599,
+    "upvotes": 612,
     "author": "crazypython",
     "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26370572"
   },
   {
+    "title": "The Ergodicity Problem in Economics",
+    "url": "https://www.nature.com/articles/s41567-019-0732-0",
+    "upvotes": 74,
+    "author": "ali92hm",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26373847"
+  },
+  {
     "title": "ISO Standard for Preparing Tea",
     "url": "https://en.wikipedia.org/wiki/ISO_3103",
-    "upvotes": 102,
+    "upvotes": 111,
     "author": "polm23",
-    "comments": 62,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26373364"
   },
   {
     "title": "Procrastination is flight, deadline is fight, freeze is staring at the screen",
     "url": "https://pmigdal.medium.com/dont-fight-flight-or-freeze-your-body-and-emotions-96f5aa30b299",
-    "upvotes": 280,
+    "upvotes": 293,
     "author": "stared",
-    "comments": 48,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26371848"
   },
   {
     "title": "Divorce rate cut in half for couples who discussed relationship movies",
     "url": "https://www.rochester.edu/news/divorce-rate-cut-in-half-for-couples-who-discussed-relationship-movies/",
-    "upvotes": 89,
+    "upvotes": 94,
     "author": "mleonhard",
-    "comments": 50,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26373543"
-  },
-  {
-    "title": "507 Mechanical Movements",
-    "url": "http://507movements.com",
-    "upvotes": 57,
-    "author": "Naracion",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26373539"
   },
   {
     "title": "Nodes.io – A new way to create with code",
     "url": "https://nodes.io/",
-    "upvotes": 263,
+    "upvotes": 267,
     "author": "triptych",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26371818"
   },
   {
-    "title": "Don’t use 7-segment displays",
-    "url": "http://www.harold.thimbleby.net/cv/files/seven-segment.pdf",
-    "upvotes": 60,
-    "author": "parsecs",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26373405"
+    "title": "507 Mechanical Movements",
+    "url": "http://507movements.com",
+    "upvotes": 62,
+    "author": "Naracion",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26373539"
   },
   {
     "title": "FFMPEG from Zero to Hero",
     "url": "https://ffmpegfromzerotohero.com/",
-    "upvotes": 316,
+    "upvotes": 328,
     "author": "wilsonfiifi",
-    "comments": 109,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26370704"
+  },
+  {
+    "title": "Don’t use 7-segment displays",
+    "url": "http://www.harold.thimbleby.net/cv/files/seven-segment.pdf",
+    "upvotes": 65,
+    "author": "parsecs",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26373405"
   },
   {
     "title": "Impraise",
     "url": "https://impraise.recruitee.com/o/senior-product-designer"
   },
   {
-    "title": "Simple and privacy-friendly alternative to Google Analytic",
-    "url": "https://github.com/plausible/analytics",
-    "upvotes": 3,
-    "author": "rajeshrajappan",
+    "title": "The Digital Transformation of Cars Is Just Beginning",
+    "url": "https://mule.substack.com/p/the-digital-transformation-of-cars",
+    "upvotes": 10,
+    "author": "reteltech",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26374755"
+    "link": "https://news.ycombinator.com/item?id=26374078"
+  },
+  {
+    "title": "Notes from a Year of Building Keyboards",
+    "url": "https://kevinlynagh.com/keyboards/",
+    "upvotes": 20,
+    "author": "2mol",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26373951"
   },
   {
     "title": "Cactus Comments: Federated web comments based on Matrix protocol",
     "url": "https://cactus.chat/",
-    "upvotes": 114,
+    "upvotes": 117,
     "author": "decrypt",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26371813"
-  },
-  {
-    "title": "How do you fund that game prototype?",
-    "url": "https://gamediscoverability.substack.com/p/how-do-you-fund-that-game-prototype",
-    "upvotes": 17,
-    "author": "polm23",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26366136"
   },
   {
     "title": "Transplant an organ? Why not an entire body?",
     "url": "https://www.washingtonpost.com/outlook/transplant-an-organ-why-not-an-entire-body/2021/03/04/ae55bf54-64b4-11eb-8c64-9595888caa15_story.html",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "apollinaire",
-    "comments": 75,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26373180"
   },
   {
@@ -150,50 +158,74 @@
   {
     "title": "WordStar: A Writer's Word Processor",
     "url": "http://sfwriter.com/wordstar.htm",
-    "upvotes": 131,
+    "upvotes": 135,
     "author": "Tomte",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26370252"
   },
   {
+    "title": "How do you fund that game prototype?",
+    "url": "https://gamediscoverability.substack.com/p/how-do-you-fund-that-game-prototype",
+    "upvotes": 19,
+    "author": "polm23",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26366136"
+  },
+  {
     "title": "The moving sofa problem",
     "url": "https://www.math.ucdavis.edu/~romik/movingsofa/",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "EndXA",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26327383"
   },
   {
-    "title": "The Digital Transformation of Cars Is Just Beginning",
-    "url": "https://mule.substack.com/p/the-digital-transformation-of-cars",
-    "upvotes": 8,
-    "author": "reteltech",
+    "title": "Build Your Machine Today",
+    "url": "https://vention.io",
+    "upvotes": 93,
+    "author": "alex_hirner",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26371625"
+  },
+  {
+    "title": "Reconstant: Share constant definitions between programming languages",
+    "url": "https://github.com/aantn/reconstant",
+    "upvotes": 9,
+    "author": "nyellin",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26374078"
+    "link": "https://news.ycombinator.com/item?id=26374010"
+  },
+  {
+    "title": "Animated Engines",
+    "url": "http://animatedengines.com/",
+    "upvotes": 609,
+    "author": "marcodiego",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26368939"
   },
   {
     "title": "Do Digital Platforms Reduce Moral Hazard? The Case of Uber and Taxis",
     "url": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2020.3721",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "nwotnagrom",
-    "comments": 66,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26372185"
   },
   {
-    "title": "Notes from a Year of Building Keyboards",
-    "url": "https://kevinlynagh.com/keyboards/",
-    "upvotes": 13,
-    "author": "2mol",
+    "title": "The Math Behind Project Scheduling, Bug Tracking, and Triage",
+    "url": "https://apenwarr.ca/log/?m=201712",
+    "upvotes": 32,
+    "author": "codesuki",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26373951"
+    "link": "https://news.ycombinator.com/item?id=26373014"
   },
   {
-    "title": "Build Your Machine Today",
-    "url": "https://vention.io",
-    "upvotes": 91,
-    "author": "alex_hirner",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26371625"
+    "title": "Reality Is Perplexing Enough: An Interview with Jorge Luis Borges",
+    "url": "https://www.commonwealmagazine.org/interview-jorge-luis-borges",
+    "upvotes": 74,
+    "author": "keiferski",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26355663"
   },
   {
     "title": "Show HN: I built a service to share source code without signing up",
@@ -202,37 +234,5 @@
     "author": "sti320a",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26367574"
-  },
-  {
-    "title": "Reconstant: Share constant definitions between programming languages",
-    "url": "https://github.com/aantn/reconstant",
-    "upvotes": 8,
-    "author": "nyellin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26374010"
-  },
-  {
-    "title": "Animated Engines",
-    "url": "http://animatedengines.com/",
-    "upvotes": 604,
-    "author": "marcodiego",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=26368939"
-  },
-  {
-    "title": "The Math Behind Project Scheduling, Bug Tracking, and Triage",
-    "url": "https://apenwarr.ca/log/?m=201712",
-    "upvotes": 30,
-    "author": "codesuki",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26373014"
-  },
-  {
-    "title": "Reality Is Perplexing Enough: An Interview with Jorge Luis Borges",
-    "url": "https://www.commonwealmagazine.org/interview-jorge-luis-borges",
-    "upvotes": 72,
-    "author": "keiferski",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26355663"
   }
 ]
