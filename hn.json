@@ -1,24 +1,32 @@
 [
   {
+    "title": "Write libraries instead of services, where possible",
+    "url": "http://catern.com/services.html",
+    "upvotes": 29,
+    "author": "catern",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26398960"
+  },
+  {
     "title": "Debian Running on Rust Coreutils",
     "url": "https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils",
-    "upvotes": 265,
+    "upvotes": 284,
     "author": "todsacerdoti",
-    "comments": 158,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=26396798"
   },
   {
     "title": "Shops return to rural Sweden but are now staff-free",
     "url": "https://www.bbc.co.uk/news/business-56237988",
-    "upvotes": 89,
+    "upvotes": 108,
     "author": "BlackVanilla",
-    "comments": 160,
+    "comments": 199,
     "link": "https://news.ycombinator.com/item?id=26398197"
   },
   {
     "title": "At Home with Our Ancient Cousins, the Neanderthals",
     "url": "https://www.nytimes.com/2020/11/07/books/review/kindred-neanderthals-rebecca-wragg-sykes.html",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26381829"
@@ -26,58 +34,58 @@
   {
     "title": "New algorithm breaks speed limit for solving linear equations",
     "url": "https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/",
-    "upvotes": 471,
+    "upvotes": 477,
     "author": "ot",
-    "comments": 94,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26393795"
   },
   {
     "title": "I want a computer that I own",
     "url": "http://misc-stuff.terraaeon.com/articles/computer-i-own.html",
-    "upvotes": 771,
+    "upvotes": 789,
     "author": "bezelbuttons",
-    "comments": 527,
+    "comments": 537,
     "link": "https://news.ycombinator.com/item?id=26393824"
+  },
+  {
+    "title": "Donate Unrestricted",
+    "url": "http://www.paulgraham.com/donate.html",
+    "upvotes": 9,
+    "author": "pso",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26398909"
   },
   {
     "title": "The Quirks of Gmail UI",
     "url": "https://hanami.run/blog/posts/the-quirks-of-gmail-ui/",
-    "upvotes": 101,
+    "upvotes": 111,
     "author": "todsacerdoti",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26396978"
-  },
-  {
-    "title": "Fuckin' user interface design, I swear",
-    "url": "https://blog.plover.com/tech/ui.html",
-    "upvotes": 448,
-    "author": "luu",
-    "comments": 273,
-    "link": "https://news.ycombinator.com/item?id=26381768"
   },
   {
     "title": "5k Year Old Bog Oak Table: Digging up 4k-year-old trees for furniture",
     "url": "https://blog.lostartpress.com/2021/02/21/adamson-low-treasure-out-of-the-bog/",
-    "upvotes": 72,
+    "upvotes": 89,
     "author": "WuTangCFO",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26396594"
   },
   {
-    "title": "Write libraries instead of services, where possible",
-    "url": "http://catern.com/services.html",
-    "upvotes": 7,
-    "author": "catern",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26398960"
+    "title": "Fuckin' user interface design, I swear",
+    "url": "https://blog.plover.com/tech/ui.html",
+    "upvotes": 478,
+    "author": "luu",
+    "comments": 294,
+    "link": "https://news.ycombinator.com/item?id=26381768"
   },
   {
-    "title": "The Art of Immutable Architecture",
-    "url": "https://www.immutablearchitecture.com",
-    "upvotes": 9,
-    "author": "iou",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26387050"
+    "title": "Why forex trading is exploding across Africa",
+    "url": "https://restofworld.org/2021/inside-zimbabwes-underground-forex-trade/",
+    "upvotes": 5,
+    "author": "RealDeinonychus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26399101"
   },
   {
     "title": "Reverie Labs",
@@ -86,63 +94,55 @@
   {
     "title": "Generalists vs specialists – Who has a greater chance of success?",
     "url": "https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/",
-    "upvotes": 145,
+    "upvotes": 154,
     "author": "dcu",
-    "comments": 93,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26395361"
   },
   {
     "title": "`three = 1` in the Linux sourcecode",
     "url": "https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698",
-    "upvotes": 132,
+    "upvotes": 138,
     "author": "ddtaylor",
-    "comments": 34,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26396671"
   },
   {
-    "title": "A Year at Google Brain",
-    "url": "https://www.debugmind.com/2020/01/04/paths-to-the-future-a-year-at-google-brain/",
-    "upvotes": 299,
-    "author": "sytelus",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26374143"
-  },
-  {
-    "title": "A bug related to handling of authenticated sessions",
-    "url": "https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/",
-    "upvotes": 182,
-    "author": "todsacerdoti",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26395138"
-  },
-  {
-    "title": "I self-published a paperback and eBook using LaTeX and Pandoc",
-    "url": "http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1",
-    "upvotes": 182,
-    "author": "grecy",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26394564"
+    "title": "Launch HN: Segments.ai (YC W21) – Build better datasets for image segmentation",
+    "url": "item?id=26398518",
+    "upvotes": 9,
+    "author": "bertdb",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26398518"
   },
   {
     "title": "You Can Learn Glass Blowing",
     "url": "http://blog.modernmechanix.com/you-can-learn-glass-blowing/",
-    "upvotes": 47,
+    "upvotes": 53,
     "author": "Tomte",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26375307"
   },
   {
-    "title": "Launch HN: Segments.ai (YC W21) – Build better datasets for image segmentation",
-    "url": "item?id=26398518",
-    "upvotes": 7,
-    "author": "bertdb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26398518"
+    "title": "A bug related to handling of authenticated sessions",
+    "url": "https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/",
+    "upvotes": 183,
+    "author": "todsacerdoti",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26395138"
+  },
+  {
+    "title": "I self-published a paperback and eBook using LaTeX and Pandoc",
+    "url": "http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1",
+    "upvotes": 186,
+    "author": "grecy",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26394564"
   },
   {
     "title": "“An Introduction to Ray Tracing” is now free for download",
     "url": "http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "Tomte",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26396142"
@@ -150,89 +150,89 @@
   {
     "title": "Music Software and Bad Interface Design: Avid’s Sibelius",
     "url": "https://www.youtube.com/watch?v=dKx1wnXClcI",
-    "upvotes": 57,
+    "upvotes": 62,
     "author": "JimWestergren",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26397924"
+  },
+  {
+    "title": "Replaying real life: how the Waymo Driver avoids fatal human crashes",
+    "url": "https://blog.waymo.com/2021/03/replaying-real-life.html",
+    "upvotes": 122,
+    "author": "Crash0v3rid3",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=26393171"
   },
   {
     "title": "The race to teach sign language to computers",
     "url": "https://www.economist.com/science-and-technology/2021/03/06/the-race-to-teach-sign-language-to-computers",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "sohkamyung",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26375431"
   },
   {
     "title": "The Most-Used Mathematical Algorithm Idea in History",
     "url": "https://writings.stephenwolfram.com/2016/05/solomon-golomb-19322016/",
-    "upvotes": 158,
+    "upvotes": 160,
     "author": "daneelsan",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26393381"
   },
   {
-    "title": "Replaying real life: how the Waymo Driver avoids fatal human crashes",
-    "url": "https://blog.waymo.com/2021/03/replaying-real-life.html",
-    "upvotes": 119,
-    "author": "Crash0v3rid3",
-    "comments": 124,
-    "link": "https://news.ycombinator.com/item?id=26393171"
+    "title": "An Unwitting Monument: On Egon Schiele’s Pandemic Year",
+    "url": "https://www.laphamsquarterly.org/roundtable/unwitting-monument",
+    "upvotes": 6,
+    "author": "prismatic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26387425"
   },
   {
     "title": "Self-decapitating sea slugs regrow their bodies – hearts and all",
     "url": "https://www.theguardian.com/environment/2021/mar/08/keep-your-head-the-self-decapitating-sea-slugs-that-regrow-their-bodies-hearts-and-all",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "YeGoblynQueenne",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26397734"
   },
   {
     "title": "AI learns from brain signals to create personalized attractive faces",
     "url": "https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "erichocean",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26392453"
+  },
+  {
+    "title": "Developing an underwater robot to save people from drowning",
+    "url": "https://www.fraunhofer.de/en/press/research-news/2021/march-2021/an-autonomous-underwater-robot-saves-people-from-drowning.html",
+    "upvotes": 31,
+    "author": "mayiplease",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26390896"
   },
   {
     "title": "Dimensionality – time sensitivity",
     "url": "https://billwadge.wordpress.com/2021/03/08/dimensionality-time-sensistivity/",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "mr_golyadkin",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26391261"
   },
   {
-    "title": "Developing an underwater robot to save people from drowning",
-    "url": "https://www.fraunhofer.de/en/press/research-news/2021/march-2021/an-autonomous-underwater-robot-saves-people-from-drowning.html",
-    "upvotes": 27,
-    "author": "mayiplease",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26390896"
+    "title": "Validating Bayesian Inference Algorithms with Simulation-Based Calibration [pdf]",
+    "url": "http://www.stat.columbia.edu/~gelman/research/unpublished/sbc.pdf",
+    "upvotes": 28,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26381218"
   },
   {
     "title": "-2000 Lines of Code",
     "url": "https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt",
-    "upvotes": 608,
+    "upvotes": 613,
     "author": "pcr910303",
-    "comments": 245,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=26387179"
-  },
-  {
-    "title": "Launch HN: Bristle (YC W21) – At-home microbiome test to improve oral health",
-    "url": "item?id=26386664",
-    "upvotes": 137,
-    "author": "dannygrannick",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26386664"
-  },
-  {
-    "title": "Validating Bayesian Inference Algorithms with Simulation-Based Calibration [pdf]",
-    "url": "http://www.stat.columbia.edu/~gelman/research/unpublished/sbc.pdf",
-    "upvotes": 25,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26381218"
   }
 ]
