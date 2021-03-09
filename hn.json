@@ -2,195 +2,227 @@
   {
     "title": "Webmention.io",
     "url": "https://webmention.io/",
-    "upvotes": 152,
+    "upvotes": 172,
     "author": "bezelbuttons",
-    "comments": 36,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26401955"
-  },
-  {
-    "title": "Children Playing Blockchain",
-    "url": "https://jott.live/markdown/elementary_blockchain",
-    "upvotes": 52,
-    "author": "brrrrrm",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26402966"
-  },
-  {
-    "title": "Write libraries instead of services, where possible",
-    "url": "http://catern.com/services.html",
-    "upvotes": 403,
-    "author": "catern",
-    "comments": 237,
-    "link": "https://news.ycombinator.com/item?id=26398960"
   },
   {
     "title": "UK businesses caught buying five-star Google reviews",
     "url": "https://www.bbc.com/news/technology-56321576",
-    "upvotes": 55,
+    "upvotes": 81,
     "author": "leephillips",
-    "comments": 54,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26402682"
+  },
+  {
+    "title": "What Happens When Investment Firms Acquire Trailer Parks",
+    "url": "https://www.newyorker.com/magazine/2021/03/15/what-happens-when-investment-firms-acquire-trailer-parks",
+    "upvotes": 27,
+    "author": "fortran77",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26403790"
+  },
+  {
+    "title": "Write libraries instead of services, where possible",
+    "url": "http://catern.com/services.html",
+    "upvotes": 418,
+    "author": "catern",
+    "comments": 249,
+    "link": "https://news.ycombinator.com/item?id=26398960"
   },
   {
     "title": "Internet Archive Scholar: Search Millions of Research Papers",
     "url": "http://blog.archive.org/2021/03/09/search-scholarly-materials-preserved-in-the-internet-archive/",
-    "upvotes": 57,
+    "upvotes": 82,
     "author": "bnewbold",
-    "comments": 7,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26401568"
+  },
+  {
+    "title": "AtoB",
+    "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
+  },
+  {
+    "title": "Show HN: I made a tool to convert images of tables to CSV",
+    "url": "https://github.com/artperrin/image2csv",
+    "upvotes": 27,
+    "author": "aperrin",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26403341"
   },
   {
     "title": "Building Webhooks into Your Application: Guidelines and Best Practices",
     "url": "https://workos.com/blog/building-webhooks-into-your-application-guidelines-and-best-practices?src=hn",
-    "upvotes": 47,
+    "upvotes": 57,
     "author": "grinich",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26401838"
+  },
+  {
+    "title": "Hertz, the original meme stock, is turning out to be worthless",
+    "url": "https://www.bloomberg.com/news/articles/2021-03-02/hertz-the-original-meme-stock-is-turning-out-to-be-worthless",
+    "upvotes": 95,
+    "author": "prostoalex",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=26387100"
   },
   {
     "title": "Israel’s lucrative and secretive cybersurveillance industry",
     "url": "https://restofworld.org/2021/inside-israels-lucrative-and-secretive-cybersurveillance-talent-pipeline/",
-    "upvotes": 208,
+    "upvotes": 219,
     "author": "leoschwartz",
-    "comments": 142,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=26398767"
   },
   {
     "title": "Esbuild 0.9",
     "url": "https://github.com/evanw/esbuild/releases/tag/v0.9.0",
-    "upvotes": 125,
+    "upvotes": 135,
     "author": "swyx",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26399377"
   },
   {
     "title": "The Roblox Microverse",
     "url": "https://stratechery.com/2021/the-roblox-microverse/",
-    "upvotes": 77,
+    "upvotes": 85,
     "author": "Kinrany",
-    "comments": 94,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26400239"
   },
   {
     "title": "Debian Running on Rust Coreutils",
     "url": "https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils",
-    "upvotes": 417,
+    "upvotes": 424,
     "author": "todsacerdoti",
-    "comments": 242,
+    "comments": 250,
     "link": "https://news.ycombinator.com/item?id=26396798"
   },
   {
-    "title": "Hertz, the original meme stock, is turning out to be worthless",
-    "url": "https://www.bloomberg.com/news/articles/2021-03-02/hertz-the-original-meme-stock-is-turning-out-to-be-worthless",
-    "upvotes": 80,
-    "author": "prostoalex",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=26387100"
+    "title": "Children Playing Blockchain",
+    "url": "https://jott.live/markdown/elementary_blockchain",
+    "upvotes": 70,
+    "author": "brrrrrm",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=26402966"
   },
   {
     "title": "Show HN: Diahook – Webhooks as a Service",
     "url": "https://www.diahook.com/?r=hn",
-    "upvotes": 97,
+    "upvotes": 105,
     "author": "tasn",
-    "comments": 65,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26399672"
-  },
-  {
-    "title": "Lumi",
-    "url": "https://www.lumi.com/jobs"
   },
   {
     "title": "Nuclear technology’s role in the world’s energy supply is shrinking",
     "url": "https://www.nature.com/articles/d41586-021-00615-w",
-    "upvotes": 67,
+    "upvotes": 74,
     "author": "hacksilver",
-    "comments": 117,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=26401782"
-  },
-  {
-    "title": "The Future of Group Messaging",
-    "url": "https://thejarren.com/group-messaging",
-    "upvotes": 34,
-    "author": "thejarren",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26401140"
-  },
-  {
-    "title": "Friends by Robin Dunbar review – how important are your pals?",
-    "url": "https://www.theguardian.com/books/2021/feb/21/friends-by-robin-dunbar-review-how-important-are-your-pals",
-    "upvotes": 28,
-    "author": "Thevet",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26387062"
-  },
-  {
-    "title": "Cracking of encrypted messaging service dealt major blow to organised crime",
-    "url": "https://www.brusselstimes.com/news/belgium-all-news/159039/cracking-of-encrypted-text-messaging-service-sky-ecc-app-dealt-major-blow-to-organised-crime/",
-    "upvotes": 52,
-    "author": "melicerte",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26398798"
-  },
-  {
-    "title": "Italo Calvino, The Art of Fiction No. 130",
-    "url": "https://theparisreview.org/interviews/2027/the-art-of-fiction-no-130-italo-calvino",
-    "upvotes": 40,
-    "author": "benbreen",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26395898"
-  },
-  {
-    "title": "5k Year Old Bog Oak Table: Digging up 4k-year-old trees for furniture",
-    "url": "https://blog.lostartpress.com/2021/02/21/adamson-low-treasure-out-of-the-bog/",
-    "upvotes": 243,
-    "author": "WuTangCFO",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26396594"
-  },
-  {
-    "title": "Girls perform better academically in almost all countries",
-    "url": "http://www.economist.com/news/international/21645759-boys-are-being-outclassed-girls-both-school-and-university-and-gap",
-    "upvotes": 155,
-    "author": "ddtaylor",
-    "comments": 333,
-    "link": "https://news.ycombinator.com/item?id=26401786"
   },
   {
     "title": "Downsampling Time Series for Visual Representation [pdf]",
     "url": "https://skemman.is/bitstream/1946/15343/3/SS_MSthesis.pdf",
-    "upvotes": 10,
+    "upvotes": 17,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26401935"
   },
   {
-    "title": "The technical interview practice gap",
-    "url": "https://blog.interviewing.io/the-technical-interview-practice-gap-and-how-it-keeps-underrepresented-groups-out-of-software-engineering/",
-    "upvotes": 47,
-    "author": "leeny",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26401081"
+    "title": "Cracking of encrypted messaging service dealt major blow to organised crime",
+    "url": "https://www.brusselstimes.com/news/belgium-all-news/159039/cracking-of-encrypted-text-messaging-service-sky-ecc-app-dealt-major-blow-to-organised-crime/",
+    "upvotes": 58,
+    "author": "melicerte",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26398798"
   },
   {
-    "title": "ISO-8601 date format reference not publicly available",
-    "url": "https://twitter.com/isostandards/status/1367138676162105344",
-    "upvotes": 224,
-    "author": "tosh",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26400089"
+    "title": "The Future of Group Messaging",
+    "url": "https://thejarren.com/group-messaging",
+    "upvotes": 40,
+    "author": "thejarren",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26401140"
+  },
+  {
+    "title": "Italo Calvino, The Art of Fiction No. 130",
+    "url": "https://theparisreview.org/interviews/2027/the-art-of-fiction-no-130-italo-calvino",
+    "upvotes": 46,
+    "author": "benbreen",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26395898"
+  },
+  {
+    "title": "Friends by Robin Dunbar review – how important are your pals?",
+    "url": "https://www.theguardian.com/books/2021/feb/21/friends-by-robin-dunbar-review-how-important-are-your-pals",
+    "upvotes": 32,
+    "author": "Thevet",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26387062"
+  },
+  {
+    "title": "5k Year Old Bog Oak Table: Digging up 4k-year-old trees for furniture",
+    "url": "https://blog.lostartpress.com/2021/02/21/adamson-low-treasure-out-of-the-bog/",
+    "upvotes": 249,
+    "author": "WuTangCFO",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=26396594"
+  },
+  {
+    "title": "Comparison of Postsurgical Scars Between Vegan and Omnivore Patients",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32769530/",
+    "upvotes": 56,
+    "author": "shadykiller",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26401611"
+  },
+  {
+    "title": "Girls perform better academically in almost all countries",
+    "url": "http://www.economist.com/news/international/21645759-boys-are-being-outclassed-girls-both-school-and-university-and-gap",
+    "upvotes": 165,
+    "author": "ddtaylor",
+    "comments": 364,
+    "link": "https://news.ycombinator.com/item?id=26401786"
   },
   {
     "title": "Launch HN: Charge Running (YC W21) – Social running app with real-time coaching",
     "url": "item?id=26400053",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "mknippen",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26400053"
+  },
+  {
+    "title": "ISO-8601 date format reference not publicly available",
+    "url": "https://twitter.com/isostandards/status/1367138676162105344",
+    "upvotes": 236,
+    "author": "tosh",
+    "comments": 122,
+    "link": "https://news.ycombinator.com/item?id=26400089"
+  },
+  {
+    "title": "The technical interview practice gap",
+    "url": "https://blog.interviewing.io/the-technical-interview-practice-gap-and-how-it-keeps-underrepresented-groups-out-of-software-engineering/",
+    "upvotes": 52,
+    "author": "leeny",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=26401081"
+  },
+  {
+    "title": "T-Mobile to share customers' data with advertisers unless they opt out",
+    "url": "https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless",
+    "upvotes": 17,
+    "author": "34679",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26403614"
   },
   {
     "title": "Apple M1 latencies, throughput and iops",
     "url": "https://dougallj.github.io/applecpu/firestorm-int.html",
-    "upvotes": 80,
+    "upvotes": 86,
     "author": "dimtion",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26399758"
@@ -198,41 +230,9 @@
   {
     "title": "The Quirks of Gmail UI",
     "url": "https://hanami.run/blog/posts/the-quirks-of-gmail-ui/",
-    "upvotes": 170,
+    "upvotes": 174,
     "author": "todsacerdoti",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26396978"
-  },
-  {
-    "title": "Comparison of Postsurgical Scars Between Vegan and Omnivore Patients",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/32769530/",
-    "upvotes": 48,
-    "author": "shadykiller",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26401611"
-  },
-  {
-    "title": "Object Browser",
-    "url": "https://wiki.c2.com/?ObjectBrowser",
-    "upvotes": 30,
-    "author": "tosh",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26400374"
-  },
-  {
-    "title": "Inspired by Alabama’s union battle, Amazon workers elsewhere consider organizing",
-    "url": "https://www.washingtonpost.com/technology/2021/03/09/amazon-union-bessemer-history/",
-    "upvotes": 177,
-    "author": "blinding-streak",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=26398870"
-  },
-  {
-    "title": "Shops return to rural Sweden but are now staff-free",
-    "url": "https://www.bbc.co.uk/news/business-56237988",
-    "upvotes": 222,
-    "author": "BlackVanilla",
-    "comments": 377,
-    "link": "https://news.ycombinator.com/item?id=26398197"
   }
 ]
