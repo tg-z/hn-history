@@ -2,31 +2,39 @@
   {
     "title": "Debian Running on Rust Coreutils",
     "url": "https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils",
-    "upvotes": 38,
+    "upvotes": 71,
     "author": "todsacerdoti",
-    "comments": 2,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26396798"
   },
   {
     "title": "New algorithm breaks speed limit for solving linear equations",
     "url": "https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/",
-    "upvotes": 363,
+    "upvotes": 370,
     "author": "ot",
-    "comments": 81,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26393795"
+  },
+  {
+    "title": "`three = 1` in the Linux sourcecode",
+    "url": "https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698",
+    "upvotes": 23,
+    "author": "ddtaylor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26396671"
   },
   {
     "title": "I want a computer that I own",
     "url": "http://misc-stuff.terraaeon.com/articles/computer-i-own.html",
-    "upvotes": 559,
+    "upvotes": 574,
     "author": "bezelbuttons",
-    "comments": 410,
+    "comments": 425,
     "link": "https://news.ycombinator.com/item?id=26393824"
   },
   {
     "title": "A bug related to handling of authenticated sessions",
     "url": "https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/",
-    "upvotes": 141,
+    "upvotes": 146,
     "author": "todsacerdoti",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26395138"
@@ -34,71 +42,71 @@
   {
     "title": "A Year at Google Brain",
     "url": "https://www.debugmind.com/2020/01/04/paths-to-the-future-a-year-at-google-brain/",
-    "upvotes": 243,
+    "upvotes": 251,
     "author": "sytelus",
-    "comments": 55,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26374143"
   },
   {
     "title": "I self-published a paperback and eBook using LaTeX and Pandoc",
     "url": "http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1",
-    "upvotes": 104,
+    "upvotes": 109,
     "author": "grecy",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26394564"
   },
   {
-    "title": "Its the Sugar, Folks",
-    "url": "http://opinionator.blogs.nytimes.com/2013/02/27/its-the-sugar-folks/",
-    "upvotes": 40,
-    "author": "ddtaylor",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26396351"
+    "title": "Fuckin' user interface design, I swear",
+    "url": "https://blog.plover.com/tech/ui.html",
+    "upvotes": 166,
+    "author": "luu",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=26381768"
   },
   {
     "title": "The Most-Used Mathematical Algorithm Idea in History",
     "url": "https://writings.stephenwolfram.com/2016/05/solomon-golomb-19322016/",
-    "upvotes": 109,
+    "upvotes": 113,
     "author": "daneelsan",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26393381"
-  },
-  {
-    "title": "Generalists vs. specialists – who has a greater chance of success?",
-    "url": "https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/",
-    "upvotes": 83,
-    "author": "dcu",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26395361"
   },
   {
     "title": "Why software projects take longer than you think: a statistical model",
     "url": "https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#",
-    "upvotes": 218,
+    "upvotes": 224,
     "author": "max_",
-    "comments": 85,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26366112"
   },
   {
     "title": "The race to teach sign language to computers",
     "url": "https://www.economist.com/science-and-technology/2021/03/06/the-race-to-teach-sign-language-to-computers",
-    "upvotes": 9,
+    "upvotes": 10,
     "author": "sohkamyung",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26375431"
   },
   {
-    "title": "Fuckin' user interface design, I swear",
-    "url": "https://blog.plover.com/tech/ui.html",
-    "upvotes": 146,
-    "author": "luu",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=26381768"
+    "title": "Generalists vs. specialists – who has a greater chance of success?",
+    "url": "https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/",
+    "upvotes": 87,
+    "author": "dcu",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26395361"
+  },
+  {
+    "title": "AI learns from brain signals to create personalized attractive faces",
+    "url": "https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/",
+    "upvotes": 63,
+    "author": "erichocean",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26392453"
   },
   {
     "title": "The Unstoppable Momentum of Outdated Science",
     "url": "https://rogerpielkejr.substack.com/p/the-unstoppable-momentum-of-outdated",
-    "upvotes": 188,
+    "upvotes": 189,
     "author": "zmaten",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26390835"
@@ -106,23 +114,15 @@
   {
     "title": "“ISO obstructs adoption of standards by paywalling them”",
     "url": "https://twitter.com/TimSweeneyEpic/status/1368637789248626699",
-    "upvotes": 895,
+    "upvotes": 899,
     "author": "linksbro",
     "comments": 263,
     "link": "https://news.ycombinator.com/item?id=26390040"
   },
   {
-    "title": "AI learns from brain signals to create personalized attractive faces",
-    "url": "https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/",
-    "upvotes": 58,
-    "author": "erichocean",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26392453"
-  },
-  {
     "title": "MIPS Becomes RISC-V",
     "url": "https://www.eejournal.com/article/wait-what-mips-becomes-risc-v/",
-    "upvotes": 380,
+    "upvotes": 383,
     "author": "zimmerfrei",
     "comments": 192,
     "link": "https://news.ycombinator.com/item?id=26389006"
@@ -130,49 +130,41 @@
   {
     "title": "-2000 Lines of Code",
     "url": "https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt",
-    "upvotes": 566,
+    "upvotes": 572,
     "author": "pcr910303",
     "comments": 241,
     "link": "https://news.ycombinator.com/item?id=26387179"
   },
   {
-    "title": "Launch HN: Bristle (YC W21) – At-home microbiome test to improve oral health",
-    "url": "item?id=26386664",
-    "upvotes": 118,
-    "author": "dannygrannick",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26386664"
-  },
-  {
     "title": "Bubble Wrap Artist Creates Masterpieces by Injecting Paint into Each Bubble",
     "url": "https://www.goodnewsnetwork.org/bradley-hart-bubble-wrap-art/",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "RickJWagner",
-    "comments": 21,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26394624"
+  },
+  {
+    "title": "Launch HN: Bristle (YC W21) – At-home microbiome test to improve oral health",
+    "url": "item?id=26386664",
+    "upvotes": 120,
+    "author": "dannygrannick",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=26386664"
   },
   {
     "title": "Developing an underwater robot to save people from drowning",
     "url": "https://www.fraunhofer.de/en/press/research-news/2021/march-2021/an-autonomous-underwater-robot-saves-people-from-drowning.html",
-    "upvotes": 8,
+    "upvotes": 9,
     "author": "mayiplease",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26390896"
   },
   {
-    "title": "The Mystery of the Missing Sockeye",
-    "url": "http://oceans.nautil.us/article/678/the-mystery-of-the-missing-sockeye",
-    "upvotes": 11,
-    "author": "dnetesn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26384463"
-  },
-  {
     "title": "When the prison banned board games, we played chess in our minds",
     "url": "https://www.themarshallproject.org/2021/02/11/when-the-prison-banned-board-games-we-played-chess-in-our-minds",
-    "upvotes": 265,
+    "upvotes": 267,
     "author": "danso",
-    "comments": 223,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=26385142"
   },
   {
@@ -184,12 +176,12 @@
     "link": "https://news.ycombinator.com/item?id=26366757"
   },
   {
-    "title": "Replaying real life: how the Waymo Driver avoids fatal human crashes",
-    "url": "https://blog.waymo.com/2021/03/replaying-real-life.html?m=1",
-    "upvotes": 101,
-    "author": "Crash0v3rid3",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26393171"
+    "title": "The Mystery of the Missing Sockeye",
+    "url": "http://oceans.nautil.us/article/678/the-mystery-of-the-missing-sockeye",
+    "upvotes": 11,
+    "author": "dnetesn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26384463"
   },
   {
     "title": "Validating Bayesian Inference Algorithms with Simulation-Based Calibration [pdf]",
@@ -208,16 +200,24 @@
     "link": "https://news.ycombinator.com/item?id=26385434"
   },
   {
-    "title": "Mux",
-    "url": "https://mux.com/jobs?hnj=stack"
+    "title": "Replaying real life: how the Waymo Driver avoids fatal human crashes",
+    "url": "https://blog.waymo.com/2021/03/replaying-real-life.html?m=1",
+    "upvotes": 103,
+    "author": "Crash0v3rid3",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26393171"
   },
   {
     "title": "Remembering Allan McDonald, who refused to approve the Challenger launch",
     "url": "https://text.npr.org/974534021",
-    "upvotes": 1379,
+    "upvotes": 1382,
     "author": "everybodyknows",
     "comments": 285,
     "link": "https://news.ycombinator.com/item?id=26380822"
+  },
+  {
+    "title": "Mux",
+    "url": "https://mux.com/jobs?hnj=stack"
   },
   {
     "title": "How much Swamp Dogg has the High Fidelity series sold?",
@@ -228,11 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=26389657"
   },
   {
-    "title": "Over 140k virus species in the human gut, half of which are new to science",
-    "url": "https://www.sanger.ac.uk/news_item/scientists-identify-over-140000-virus-species-in-the-human-gut-half-of-which-are-new-to-science/",
-    "upvotes": 194,
-    "author": "majkinetor",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=26389397"
+    "title": "Ask HN: Do you create music? let's hear it",
+    "url": "item?id=26391254",
+    "upvotes": 207,
+    "author": "saadalem",
+    "comments": 272,
+    "link": "https://news.ycombinator.com/item?id=26391254"
   }
 ]
