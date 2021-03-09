@@ -1,75 +1,83 @@
 [
   {
-    "title": "Write libraries instead of services, where possible",
-    "url": "http://catern.com/services.html",
-    "upvotes": 343,
-    "author": "catern",
-    "comments": 194,
-    "link": "https://news.ycombinator.com/item?id=26398960"
-  },
-  {
-    "title": "Nuclear technology’s role in the world’s energy supply is shrinking",
-    "url": "https://www.nature.com/articles/d41586-021-00615-w",
-    "upvotes": 31,
-    "author": "hacksilver",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26401782"
-  },
-  {
     "title": "Webmention.io",
     "url": "https://webmention.io/",
-    "upvotes": 28,
+    "upvotes": 71,
     "author": "bezelbuttons",
-    "comments": 2,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26401955"
   },
   {
-    "title": "Israel’s lucrative and secretive cybersurveillance industry",
-    "url": "https://restofworld.org/2021/inside-israels-lucrative-and-secretive-cybersurveillance-talent-pipeline/",
-    "upvotes": 172,
-    "author": "leoschwartz",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26398767"
+    "title": "Write libraries instead of services, where possible",
+    "url": "http://catern.com/services.html",
+    "upvotes": 365,
+    "author": "catern",
+    "comments": 216,
+    "link": "https://news.ycombinator.com/item?id=26398960"
   },
   {
     "title": "The Uyghur Genocide: An examination of breaches of the 1948 Genocide Convention",
     "url": "https://newlinesinstitute.org/uyghurs/the-uyghur-genocide-an-examination-of-chinas-breaches-of-the-1948-genocide-convention/",
-    "upvotes": 119,
+    "upvotes": 209,
     "author": "lawrenceyan",
-    "comments": 43,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=26401715"
+  },
+  {
+    "title": "Israel’s lucrative and secretive cybersurveillance industry",
+    "url": "https://restofworld.org/2021/inside-israels-lucrative-and-secretive-cybersurveillance-talent-pipeline/",
+    "upvotes": 184,
+    "author": "leoschwartz",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=26398767"
+  },
+  {
+    "title": "Building Webhooks into Your Application: Guidelines and Best Practices",
+    "url": "https://workos.com/blog/building-webhooks-into-your-application-guidelines-and-best-practices?src=hn",
+    "upvotes": 22,
+    "author": "grinich",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26401838"
   },
   {
     "title": "Release v0.9.0 · Evanw/Esbuild",
     "url": "https://github.com/evanw/esbuild/releases/tag/v0.9.0",
-    "upvotes": 93,
+    "upvotes": 100,
     "author": "swyx",
-    "comments": 44,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26399377"
-  },
-  {
-    "title": "Girls perform better academically in almost all countries",
-    "url": "http://www.economist.com/news/international/21645759-boys-are-being-outclassed-girls-both-school-and-university-and-gap",
-    "upvotes": 103,
-    "author": "ddtaylor",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=26401786"
   },
   {
     "title": "Debian Running on Rust Coreutils",
     "url": "https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils",
-    "upvotes": 387,
+    "upvotes": 398,
     "author": "todsacerdoti",
-    "comments": 231,
+    "comments": 233,
     "link": "https://news.ycombinator.com/item?id=26396798"
   },
   {
     "title": "Show HN: Diahook – Webhooks as a Service",
     "url": "https://www.diahook.com/?r=hn",
-    "upvotes": 70,
+    "upvotes": 76,
     "author": "tasn",
-    "comments": 49,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26399672"
+  },
+  {
+    "title": "The technical interview practice gap",
+    "url": "https://blog.interviewing.io/the-technical-interview-practice-gap-and-how-it-keeps-underrepresented-groups-out-of-software-engineering/",
+    "upvotes": 22,
+    "author": "leeny",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26401081"
+  },
+  {
+    "title": "Friends by Robin Dunbar review – how important are your pals?",
+    "url": "https://www.theguardian.com/books/2021/feb/21/friends-by-robin-dunbar-review-how-important-are-your-pals",
+    "upvotes": 20,
+    "author": "Thevet",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26387062"
   },
   {
     "title": "Lumi",
@@ -78,161 +86,153 @@
   {
     "title": "Italo Calvino, The Art of Fiction No. 130",
     "url": "https://theparisreview.org/interviews/2027/the-art-of-fiction-no-130-italo-calvino",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "benbreen",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26395898"
-  },
-  {
-    "title": "Friends by Robin Dunbar review – how important are your pals?",
-    "url": "https://www.theguardian.com/books/2021/feb/21/friends-by-robin-dunbar-review-how-important-are-your-pals",
-    "upvotes": 14,
-    "author": "Thevet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26387062"
-  },
-  {
-    "title": "Building Webhooks into Your Application: Guidelines and Best Practices",
-    "url": "https://workos.com/blog/building-webhooks-into-your-application-guidelines-and-best-practices?src=hn",
-    "upvotes": 8,
-    "author": "grinich",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26401838"
   },
   {
     "title": "Launch HN: Charge Running (YC W21) – Social running app with real-time coaching",
     "url": "item?id=26400053",
-    "upvotes": 40,
+    "upvotes": 44,
     "author": "mknippen",
-    "comments": 22,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26400053"
   },
   {
     "title": "ISO-8601 date format reference not publicly available",
     "url": "https://twitter.com/isostandards/status/1367138676162105344",
-    "upvotes": 178,
+    "upvotes": 196,
     "author": "tosh",
-    "comments": 73,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26400089"
   },
   {
     "title": "5k Year Old Bog Oak Table: Digging up 4k-year-old trees for furniture",
     "url": "https://blog.lostartpress.com/2021/02/21/adamson-low-treasure-out-of-the-bog/",
-    "upvotes": 211,
+    "upvotes": 224,
     "author": "WuTangCFO",
-    "comments": 70,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26396594"
   },
   {
-    "title": "Object Browser",
-    "url": "https://wiki.c2.com/?ObjectBrowser",
-    "upvotes": 25,
-    "author": "tosh",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26400374"
+    "title": "The Future of Group Messaging",
+    "url": "https://thejarren.com/group-messaging",
+    "upvotes": 19,
+    "author": "thejarren",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26401140"
+  },
+  {
+    "title": "Internet Archive Scholar: Search Millions of Research Papers",
+    "url": "http://blog.archive.org/2021/03/09/search-scholarly-materials-preserved-in-the-internet-archive/",
+    "upvotes": 7,
+    "author": "bnewbold",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26401568"
   },
   {
     "title": "The Quirks of Gmail UI",
     "url": "https://hanami.run/blog/posts/the-quirks-of-gmail-ui/",
-    "upvotes": 165,
+    "upvotes": 166,
     "author": "todsacerdoti",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26396978"
+  },
+  {
+    "title": "Object Browser",
+    "url": "https://wiki.c2.com/?ObjectBrowser",
+    "upvotes": 28,
+    "author": "tosh",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26400374"
   },
   {
     "title": "Apple M1 latencies, throughput and iops",
     "url": "https://dougallj.github.io/applecpu/firestorm-int.html",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "dimtion",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26399758"
   },
   {
     "title": "Shops return to rural Sweden but are now staff-free",
     "url": "https://www.bbc.co.uk/news/business-56237988",
-    "upvotes": 206,
+    "upvotes": 213,
     "author": "BlackVanilla",
-    "comments": 358,
+    "comments": 369,
     "link": "https://news.ycombinator.com/item?id=26398197"
   },
   {
-    "title": "Cracking of encrypted messaging service dealt major blow to organised crime",
-    "url": "https://www.brusselstimes.com/news/belgium-all-news/159039/cracking-of-encrypted-text-messaging-service-sky-ecc-app-dealt-major-blow-to-organised-crime/",
-    "upvotes": 38,
-    "author": "melicerte",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26398798"
+    "title": "Splash: Review of Merpeople: A Human History",
+    "url": "https://www.nybooks.com/articles/2021/03/25/merpeople-splash/",
+    "upvotes": 5,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26387685"
   },
   {
     "title": "Inspired by Alabama’s union battle, Amazon workers elsewhere consider organizing",
     "url": "https://www.washingtonpost.com/technology/2021/03/09/amazon-union-bessemer-history/",
-    "upvotes": 144,
+    "upvotes": 155,
     "author": "blinding-streak",
-    "comments": 91,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=26398870"
   },
   {
-    "title": "The technical interview practice gap",
-    "url": "https://blog.interviewing.io/the-technical-interview-practice-gap-and-how-it-keeps-underrepresented-groups-out-of-software-engineering/",
-    "upvotes": 8,
-    "author": "leeny",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26401081"
+    "title": "Cracking of encrypted messaging service dealt major blow to organised crime",
+    "url": "https://www.brusselstimes.com/news/belgium-all-news/159039/cracking-of-encrypted-text-messaging-service-sky-ecc-app-dealt-major-blow-to-organised-crime/",
+    "upvotes": 40,
+    "author": "melicerte",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26398798"
   },
   {
     "title": "At Home with Our Ancient Cousins, the Neanderthals",
     "url": "https://www.nytimes.com/2020/11/07/books/review/kindred-neanderthals-rebecca-wragg-sykes.html",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "diodorus",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26381829"
   },
   {
-    "title": "Synthetic Data: Even Better Than the Real Thing?",
-    "url": "https://cacm.acm.org/news/251046-synthetic-data-even-better-than-the-real-thing/fulltext",
-    "upvotes": 4,
+    "title": "Nuclear technology’s role in the world’s energy supply is shrinking",
+    "url": "https://www.nature.com/articles/d41586-021-00615-w",
+    "upvotes": 46,
     "author": "hacksilver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26401431"
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26401782"
+  },
+  {
+    "title": "Comparison of Postsurgical Scars Between Vegan and Omnivore Patients",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32769530/",
+    "upvotes": 18,
+    "author": "shadykiller",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26401611"
   },
   {
     "title": "`three = 1` in the Linux sourcecode",
     "url": "https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698",
-    "upvotes": 200,
+    "upvotes": 208,
     "author": "ddtaylor",
-    "comments": 80,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26396671"
-  },
-  {
-    "title": "“An Introduction to Ray Tracing” is now free for download",
-    "url": "http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/",
-    "upvotes": 114,
-    "author": "Tomte",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26396142"
   },
   {
     "title": "Generalists vs specialists – Who has a greater chance of success?",
     "url": "https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/",
-    "upvotes": 197,
+    "upvotes": 201,
     "author": "dcu",
-    "comments": 134,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=26395361"
   },
   {
-    "title": "You Can Learn Glass Blowing",
-    "url": "http://blog.modernmechanix.com/you-can-learn-glass-blowing/",
-    "upvotes": 79,
+    "title": "“An Introduction to Ray Tracing” is now free for download",
+    "url": "http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/",
+    "upvotes": 119,
     "author": "Tomte",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26375307"
-  },
-  {
-    "title": "A Hybrid Apache Arrow/Numpy DataFrame with Vaex Version 4.0",
-    "url": "https://vaex.io/blog/a-hybrid-apache-arrow-numpy-dataframe-with-vaex-version-4",
-    "upvotes": 41,
-    "author": "maartenbreddels",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26399224"
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26396142"
   }
 ]
