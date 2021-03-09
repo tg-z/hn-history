@@ -1,40 +1,48 @@
 [
   {
-    "title": "Google HR 'suggested medical leave' for racism victims",
-    "url": "https://www.bbc.co.uk/news/technology-56321568",
-    "upvotes": 16,
-    "author": "edent",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26397304"
-  },
-  {
     "title": "Debian Running on Rust Coreutils",
     "url": "https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils",
-    "upvotes": 93,
+    "upvotes": 111,
     "author": "todsacerdoti",
-    "comments": 52,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26396798"
   },
   {
     "title": "New algorithm breaks speed limit for solving linear equations",
     "url": "https://www.quantamagazine.org/new-algorithm-breaks-speed-limit-for-solving-linear-equations-20210308/",
-    "upvotes": 385,
+    "upvotes": 394,
     "author": "ot",
-    "comments": 86,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26393795"
+  },
+  {
+    "title": "The Quirks of Gmail UI",
+    "url": "https://hanami.run/blog/posts/the-quirks-of-gmail-ui/",
+    "upvotes": 13,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26396978"
   },
   {
     "title": "I want a computer that I own",
     "url": "http://misc-stuff.terraaeon.com/articles/computer-i-own.html",
-    "upvotes": 600,
+    "upvotes": 618,
     "author": "bezelbuttons",
-    "comments": 449,
+    "comments": 455,
     "link": "https://news.ycombinator.com/item?id=26393824"
+  },
+  {
+    "title": "Fuckin' user interface design, I swear",
+    "url": "https://blog.plover.com/tech/ui.html",
+    "upvotes": 217,
+    "author": "luu",
+    "comments": 144,
+    "link": "https://news.ycombinator.com/item?id=26381768"
   },
   {
     "title": "A bug related to handling of authenticated sessions",
     "url": "https://github.blog/2021-03-08-github-security-update-a-bug-related-to-handling-of-authenticated-sessions/",
-    "upvotes": 156,
+    "upvotes": 158,
     "author": "todsacerdoti",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26395138"
@@ -42,39 +50,39 @@
   {
     "title": "A Year at Google Brain",
     "url": "https://www.debugmind.com/2020/01/04/paths-to-the-future-a-year-at-google-brain/",
-    "upvotes": 256,
+    "upvotes": 261,
     "author": "sytelus",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26374143"
-  },
-  {
-    "title": "Fuckin' user interface design, I swear",
-    "url": "https://blog.plover.com/tech/ui.html",
-    "upvotes": 201,
-    "author": "luu",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=26381768"
-  },
-  {
-    "title": "I self-published a paperback and eBook using LaTeX and Pandoc",
-    "url": "http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1",
-    "upvotes": 119,
-    "author": "grecy",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26394564"
   },
   {
     "title": "`three = 1` in the Linux sourcecode",
     "url": "https://github.com/torvalds/linux/blob/d158fc7f36a25e19791d25a55da5623399a2644f/fs/ext4/resize.c#L698",
-    "upvotes": 55,
+    "upvotes": 61,
     "author": "ddtaylor",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26396671"
+  },
+  {
+    "title": "I self-published a paperback and eBook using LaTeX and Pandoc",
+    "url": "http://theroadchoseme.com/how-i-self-published-a-professional-paperback-and-ebook-using-latex-and-pandoc/?1",
+    "upvotes": 125,
+    "author": "grecy",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26394564"
+  },
+  {
+    "title": "Google HR 'suggested medical leave' for racism victims",
+    "url": "https://www.bbc.co.uk/news/technology-56321568",
+    "upvotes": 46,
+    "author": "edent",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26397304"
   },
   {
     "title": "You Can Learn Glass Blowing",
     "url": "http://blog.modernmechanix.com/you-can-learn-glass-blowing/",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26375307"
@@ -82,26 +90,18 @@
   {
     "title": "The Most-Used Mathematical Algorithm Idea in History",
     "url": "https://writings.stephenwolfram.com/2016/05/solomon-golomb-19322016/",
-    "upvotes": 120,
+    "upvotes": 124,
     "author": "daneelsan",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26393381"
   },
   {
     "title": "Why software projects take longer than you think: a statistical model",
     "url": "https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#",
-    "upvotes": 231,
+    "upvotes": 233,
     "author": "max_",
-    "comments": 90,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26366112"
-  },
-  {
-    "title": "The Quirks of Gmail UI",
-    "url": "https://hanami.run/blog/posts/the-quirks-of-gmail-ui/",
-    "upvotes": 3,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26396978"
   },
   {
     "title": "The race to teach sign language to computers",
@@ -112,76 +112,68 @@
     "link": "https://news.ycombinator.com/item?id=26375431"
   },
   {
-    "title": "Generalists vs. specialists – who has a greater chance of success?",
-    "url": "https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/",
-    "upvotes": 93,
-    "author": "dcu",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26395361"
-  },
-  {
-    "title": "AI learns from brain signals to create personalized attractive faces",
-    "url": "https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/",
-    "upvotes": 66,
-    "author": "erichocean",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26392453"
-  },
-  {
     "title": "“An Introduction to Ray Tracing” is now free for download",
     "url": "http://www.realtimerendering.com/blog/an-introduction-to-ray-tracing-is-now-free-for-download/",
-    "upvotes": 8,
+    "upvotes": 12,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26396142"
   },
   {
-    "title": "Address Sanitizer for MSVC Now Generally Available",
-    "url": "https://devblogs.microsoft.com/cppblog/address-sanitizer-for-msvc-now-generally-available/",
-    "upvotes": 5,
-    "author": "pjmlp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26397329"
+    "title": "AI learns from brain signals to create personalized attractive faces",
+    "url": "https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/",
+    "upvotes": 67,
+    "author": "erichocean",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26392453"
   },
   {
     "title": "The Unstoppable Momentum of Outdated Science",
     "url": "https://rogerpielkejr.substack.com/p/the-unstoppable-momentum-of-outdated",
     "upvotes": 192,
     "author": "zmaten",
-    "comments": 102,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=26390835"
+  },
+  {
+    "title": "Generalists vs. specialists – who has a greater chance of success?",
+    "url": "https://www.abhijitbhaduri.com/2019/08/15/generalists-specialists/",
+    "upvotes": 94,
+    "author": "dcu",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26395361"
+  },
+  {
+    "title": "Address Sanitizer for MSVC Now Generally Available",
+    "url": "https://devblogs.microsoft.com/cppblog/address-sanitizer-for-msvc-now-generally-available/",
+    "upvotes": 7,
+    "author": "pjmlp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26397329"
+  },
+  {
+    "title": "Developing an underwater robot to save people from drowning",
+    "url": "https://www.fraunhofer.de/en/press/research-news/2021/march-2021/an-autonomous-underwater-robot-saves-people-from-drowning.html",
+    "upvotes": 12,
+    "author": "mayiplease",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26390896"
   },
   {
     "title": "MIPS Becomes RISC-V",
     "url": "https://www.eejournal.com/article/wait-what-mips-becomes-risc-v/",
     "upvotes": 384,
     "author": "zimmerfrei",
-    "comments": 194,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=26389006"
   },
   {
     "title": "-2000 Lines of Code",
     "url": "https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt",
-    "upvotes": 579,
+    "upvotes": 582,
     "author": "pcr910303",
-    "comments": 242,
+    "comments": 243,
     "link": "https://news.ycombinator.com/item?id=26387179"
-  },
-  {
-    "title": "Bubble Wrap Artist Creates Masterpieces by Injecting Paint into Each Bubble",
-    "url": "https://www.goodnewsnetwork.org/bradley-hart-bubble-wrap-art/",
-    "upvotes": 33,
-    "author": "RickJWagner",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26394624"
-  },
-  {
-    "title": "Developing an underwater robot to save people from drowning",
-    "url": "https://www.fraunhofer.de/en/press/research-news/2021/march-2021/an-autonomous-underwater-robot-saves-people-from-drowning.html",
-    "upvotes": 10,
-    "author": "mayiplease",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26390896"
   },
   {
     "title": "Launch HN: Bristle (YC W21) – At-home microbiome test to improve oral health",
@@ -192,33 +184,25 @@
     "link": "https://news.ycombinator.com/item?id=26386664"
   },
   {
-    "title": "Validating Bayesian Inference Algorithms with Simulation-Based Calibration [pdf]",
-    "url": "http://www.stat.columbia.edu/~gelman/research/unpublished/sbc.pdf",
-    "upvotes": 10,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26381218"
+    "title": "Bubble Wrap Artist Creates Masterpieces by Injecting Paint into Each Bubble",
+    "url": "https://www.goodnewsnetwork.org/bradley-hart-bubble-wrap-art/",
+    "upvotes": 33,
+    "author": "RickJWagner",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26394624"
   },
   {
     "title": "Maxwell’s gambling demon is smart enough to quit while it’s ahead",
     "url": "https://arstechnica.com/science/2021/03/new-gambling-version-of-maxwells-demon-knows-when-to-fold-em/",
-    "upvotes": 35,
+    "upvotes": 36,
     "author": "pseudolus",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26366757"
-  },
-  {
-    "title": "Replaying real life: how the Waymo Driver avoids fatal human crashes",
-    "url": "https://blog.waymo.com/2021/03/replaying-real-life.html?m=1",
-    "upvotes": 107,
-    "author": "Crash0v3rid3",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=26393171"
   },
   {
     "title": "Launch HN: Runops (YC W21) – A better cloud shell for production apps",
     "url": "item?id=26385434",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "andriosr",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26385434"
@@ -228,11 +212,27 @@
     "url": "https://mux.com/jobs?hnj=stack"
   },
   {
+    "title": "Validating Bayesian Inference Algorithms with Simulation-Based Calibration [pdf]",
+    "url": "http://www.stat.columbia.edu/~gelman/research/unpublished/sbc.pdf",
+    "upvotes": 10,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26381218"
+  },
+  {
     "title": "Remembering Allan McDonald, who refused to approve the Challenger launch",
     "url": "https://text.npr.org/974534021",
-    "upvotes": 1385,
+    "upvotes": 1388,
     "author": "everybodyknows",
     "comments": 286,
     "link": "https://news.ycombinator.com/item?id=26380822"
+  },
+  {
+    "title": "Replaying real life: how the Waymo Driver avoids fatal human crashes",
+    "url": "https://blog.waymo.com/2021/03/replaying-real-life.html?m=1",
+    "upvotes": 107,
+    "author": "Crash0v3rid3",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=26393171"
   }
 ]
