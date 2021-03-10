@@ -2,39 +2,39 @@
   {
     "title": "Git: Malicious repositories can execute remote code while cloning",
     "url": "https://www.openwall.com/lists/oss-security/2021/03/09/3",
-    "upvotes": 334,
+    "upvotes": 344,
     "author": "todsacerdoti",
-    "comments": 97,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26404830"
   },
   {
     "title": "Hackers break into thousands of security cameras, exposing Tesla, jail, hospital",
     "url": "https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681",
-    "upvotes": 294,
+    "upvotes": 303,
     "author": "f430",
-    "comments": 128,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=26405056"
   },
   {
     "title": "Why asynchronous Rust doesn't work",
     "url": "https://theta.eu.org/2021/03/08/async-rust-2.html",
-    "upvotes": 16,
+    "upvotes": 34,
     "author": "tazjin",
-    "comments": 4,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26406989"
   },
   {
     "title": "Achieving 250K concurrent connections on Cloud Run",
     "url": "https://ahmet.im/blog/cloud-run-chat-server/",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "alpb",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26406206"
   },
   {
     "title": "UK businesses caught buying five-star Google reviews",
     "url": "https://www.bbc.com/news/technology-56321576",
-    "upvotes": 256,
+    "upvotes": 259,
     "author": "leephillips",
     "comments": 155,
     "link": "https://news.ycombinator.com/item?id=26402682"
@@ -42,23 +42,23 @@
   {
     "title": "Write libraries instead of services, where possible",
     "url": "http://catern.com/services.html",
-    "upvotes": 521,
+    "upvotes": 523,
     "author": "catern",
-    "comments": 298,
+    "comments": 299,
     "link": "https://news.ycombinator.com/item?id=26398960"
   },
   {
     "title": "Webmention.io",
     "url": "https://webmention.io/",
-    "upvotes": 297,
+    "upvotes": 300,
     "author": "bezelbuttons",
-    "comments": 82,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26401955"
   },
   {
     "title": "Show HN: I made a tool to convert images of tables to CSV",
     "url": "https://github.com/artperrin/image2csv",
-    "upvotes": 193,
+    "upvotes": 195,
     "author": "aperrin",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26403341"
@@ -66,9 +66,9 @@
   {
     "title": "Internet Archive Scholar: Search Millions of Research Papers",
     "url": "http://blog.archive.org/2021/03/09/search-scholarly-materials-preserved-in-the-internet-archive/",
-    "upvotes": 215,
+    "upvotes": 216,
     "author": "bnewbold",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26401568"
   },
   {
@@ -78,65 +78,65 @@
   {
     "title": "RSS as a Facebook alternative",
     "url": "https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/",
-    "upvotes": 115,
+    "upvotes": 120,
     "author": "dgrin91",
-    "comments": 44,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26403669"
   },
   {
     "title": "Accelerating Neural Networks on Mobile and Web with Sparse Inference",
     "url": "https://ai.googleblog.com/2021/03/accelerating-neural-networks-on-mobile.html",
-    "upvotes": 33,
+    "upvotes": 37,
     "author": "theafh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26403505"
   },
   {
-    "title": "Report on an Unidentified Space Station",
-    "url": "http://geosci.uchicago.edu/~kite/doc/roauss.htm",
-    "upvotes": 37,
-    "author": "optimalsolver",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26405515"
+    "title": "Cloudflare, OKTA Hacked",
+    "url": "https://twitter.com/nyancrimew/status/1369437256193343496",
+    "upvotes": 43,
+    "author": "marianov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26406969"
   },
   {
     "title": "Hertz, the original meme stock, is turning out to be worthless",
     "url": "https://www.bloomberg.com/news/articles/2021-03-02/hertz-the-original-meme-stock-is-turning-out-to-be-worthless",
-    "upvotes": 168,
+    "upvotes": 170,
     "author": "prostoalex",
-    "comments": 248,
+    "comments": 251,
     "link": "https://news.ycombinator.com/item?id=26387100"
+  },
+  {
+    "title": "Report on an Unidentified Space Station",
+    "url": "http://geosci.uchicago.edu/~kite/doc/roauss.htm",
+    "upvotes": 41,
+    "author": "optimalsolver",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26405515"
   },
   {
     "title": "Organizations announced for Google Summer of Code 2021",
     "url": "https://summerofcode.withgoogle.com/organizations/",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "mfilion",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26402780"
   },
   {
     "title": "Flipper Zero: Tamagochi for Hackers",
     "url": "https://flipperzero.one/",
-    "upvotes": 110,
+    "upvotes": 114,
     "author": "tarsiec",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26405919"
   },
   {
-    "title": "Japan to stage Tokyo Olympics without overseas spectators",
-    "url": "https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators",
-    "upvotes": 15,
-    "author": "curmudgeon22",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26406981"
-  },
-  {
     "title": "Esbuild 0.9",
     "url": "https://github.com/evanw/esbuild/releases/tag/v0.9.0",
-    "upvotes": 208,
+    "upvotes": 211,
     "author": "swyx",
-    "comments": 102,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=26399377"
   },
   {
@@ -156,36 +156,52 @@
     "link": "https://news.ycombinator.com/item?id=26401935"
   },
   {
-    "title": "The Railsification of SaaS",
-    "url": "https://keithwhor.medium.com/the-railsification-of-saas-e5d284fa44a1",
-    "upvotes": 35,
-    "author": "keithwhor",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26400587"
+    "title": "Japan to stage Tokyo Olympics without overseas spectators",
+    "url": "https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators",
+    "upvotes": 17,
+    "author": "curmudgeon22",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26406981"
   },
   {
     "title": "The Roblox Microverse",
     "url": "https://stratechery.com/2021/the-roblox-microverse/",
-    "upvotes": 132,
+    "upvotes": 136,
     "author": "Kinrany",
-    "comments": 163,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=26400239"
+  },
+  {
+    "title": "The Railsification of SaaS",
+    "url": "https://keithwhor.medium.com/the-railsification-of-saas-e5d284fa44a1",
+    "upvotes": 37,
+    "author": "keithwhor",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26400587"
   },
   {
     "title": "The Future of Group Messaging",
     "url": "https://thejarren.com/group-messaging",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "thejarren",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26401140"
   },
   {
     "title": "T-Mobile to share customers' data with advertisers unless they opt out",
     "url": "https://thehill.com/policy/technology/542303-t-mobile-to-share-customers-web-mobile-app-data-with-advertisers-unless",
-    "upvotes": 265,
+    "upvotes": 268,
     "author": "34679",
-    "comments": 151,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=26403614"
+  },
+  {
+    "title": "Launch HN: Charge Running (YC W21) – Social running app with real-time coaching",
+    "url": "item?id=26400053",
+    "upvotes": 68,
+    "author": "mknippen",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26400053"
   },
   {
     "title": "Show HN: Singlelink – an open-source micro-site platform",
@@ -196,28 +212,12 @@
     "link": "https://news.ycombinator.com/item?id=26404164"
   },
   {
-    "title": "Launch HN: Charge Running (YC W21) – Social running app with real-time coaching",
-    "url": "item?id=26400053",
-    "upvotes": 68,
-    "author": "mknippen",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26400053"
-  },
-  {
     "title": "Cracking of encrypted messaging service dealt major blow to organised crime",
     "url": "https://www.brusselstimes.com/news/belgium-all-news/159039/cracking-of-encrypted-text-messaging-service-sky-ecc-app-dealt-major-blow-to-organised-crime/",
     "upvotes": 114,
     "author": "melicerte",
-    "comments": 118,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26398798"
-  },
-  {
-    "title": "EU seeks to supercharge computer chip production",
-    "url": "https://www.bbc.com/news/technology-56334210",
-    "upvotes": 31,
-    "author": "mikesabbagh",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26406082"
   },
   {
     "title": "Italo Calvino, The Art of Fiction No. 130",
@@ -228,11 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=26395898"
   },
   {
-    "title": "Israel’s lucrative and secretive cybersurveillance industry",
-    "url": "https://restofworld.org/2021/inside-israels-lucrative-and-secretive-cybersurveillance-talent-pipeline/",
-    "upvotes": 304,
-    "author": "leoschwartz",
-    "comments": 264,
-    "link": "https://news.ycombinator.com/item?id=26398767"
+    "title": "EU seeks to supercharge computer chip production",
+    "url": "https://www.bbc.com/news/technology-56334210",
+    "upvotes": 33,
+    "author": "mikesabbagh",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26406082"
   }
 ]
