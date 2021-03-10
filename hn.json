@@ -2,66 +2,74 @@
   {
     "title": "Lou Ottens, inventor of cassette tape, has died",
     "url": "https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/",
-    "upvotes": 74,
+    "upvotes": 96,
     "author": "Anon84",
-    "comments": 15,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26410135"
   },
   {
     "title": "Fire declared in OVH SBG2 datacentre building",
     "url": "http://travaux.ovh.net/?do=details&id=49471&",
-    "upvotes": 762,
+    "upvotes": 782,
     "author": "finniananderson",
-    "comments": 361,
+    "comments": 376,
     "link": "https://news.ycombinator.com/item?id=26407323"
   },
   {
     "title": "Authelia is an open-source authentication/authorization server with 2FA/SSO",
     "url": "https://github.com/authelia/authelia",
-    "upvotes": 46,
+    "upvotes": 65,
     "author": "thunderbong",
-    "comments": 13,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26409820"
   },
   {
     "title": "We created a fake language to root out resume liars",
     "url": "https://www.facebook.com/groups/CFprogrammers/permalink/10158154545285036/",
-    "upvotes": 214,
+    "upvotes": 229,
     "author": "rmason",
-    "comments": 287,
+    "comments": 322,
     "link": "https://news.ycombinator.com/item?id=26408181"
   },
   {
     "title": "Why asynchronous Rust doesn't work",
     "url": "https://theta.eu.org/2021/03/08/async-rust-2.html",
-    "upvotes": 454,
+    "upvotes": 463,
     "author": "tazjin",
-    "comments": 299,
+    "comments": 304,
     "link": "https://news.ycombinator.com/item?id=26406989"
   },
   {
     "title": "Emacs org-mode examples and cookbook",
     "url": "http://ehneilsen.net/notebook/orgExamples/org-examples.html",
-    "upvotes": 117,
+    "upvotes": 123,
     "author": "ddtaylor",
-    "comments": 18,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26408822"
   },
   {
     "title": "Staying Out of TTL Hell",
     "url": "http://calpaterson.com/ttl-hell.html",
-    "upvotes": 46,
+    "upvotes": 51,
     "author": "todsacerdoti",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26409076"
   },
   {
     "title": "I don't want to learn your query language",
     "url": "https://erikbern.com/2018/08/30/i-dont-want-to-learn-your-garbage-query-language.html",
-    "upvotes": 87,
+    "upvotes": 109,
     "author": "nudpiedo",
-    "comments": 45,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26410047"
+  },
+  {
+    "title": "UK 'Right to repair' law to come in this summer",
+    "url": "https://www.bbc.co.uk/news/business-56340077",
+    "upvotes": 122,
+    "author": "djaychela",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=26408941"
   },
   {
     "title": "Jupiter",
@@ -70,23 +78,15 @@
   {
     "title": "Bats and the Origin of Outbreaks",
     "url": "https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/",
-    "upvotes": 34,
+    "upvotes": 38,
     "author": "jordinebot",
-    "comments": 11,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26409419"
-  },
-  {
-    "title": "UK 'Right to repair' law to come in this summer",
-    "url": "https://www.bbc.co.uk/news/business-56340077",
-    "upvotes": 110,
-    "author": "djaychela",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=26408941"
   },
   {
     "title": "Great Man-Made River",
     "url": "https://en.wikipedia.org/wiki/Great_Man-Made_River",
-    "upvotes": 62,
+    "upvotes": 66,
     "author": "zeristor",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26375053"
@@ -94,7 +94,7 @@
   {
     "title": "The Challenges of Integrating the Unix and Mac OS Environments",
     "url": "https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/invitedtalks/sanchez_html/sanchez.html",
-    "upvotes": 30,
+    "upvotes": 37,
     "author": "DvdGiessen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26409156"
@@ -102,47 +102,39 @@
   {
     "title": "Japan to stage Tokyo Olympics without overseas spectators",
     "url": "https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "curmudgeon22",
-    "comments": 116,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=26406981"
-  },
-  {
-    "title": "Git: Malicious repositories can execute remote code while cloning",
-    "url": "https://www.openwall.com/lists/oss-security/2021/03/09/3",
-    "upvotes": 533,
-    "author": "todsacerdoti",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=26404830"
-  },
-  {
-    "title": "Hackers break into thousands of security cameras, exposing Tesla, jail, hospital",
-    "url": "https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681",
-    "upvotes": 561,
-    "author": "f430",
-    "comments": 215,
-    "link": "https://news.ycombinator.com/item?id=26405056"
-  },
-  {
-    "title": "T-Mobile Is Taking All of Your Sweet, Sweet Data Unless You Tell It to Stop",
-    "url": "https://gizmodo.com/t-mobile-is-taking-all-of-your-sweet-sweet-data-unles-1846441449",
-    "upvotes": 35,
-    "author": "pedro-guimaraes",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26410369"
   },
   {
     "title": "An S-100 80486 CPU Board",
     "url": "http://www.s100computers.com/My%20System%20Pages/80486%20Board/80486%20CPU%20Board.htm",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "userbinator",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26407783"
   },
   {
+    "title": "Git: Malicious repositories can execute remote code while cloning",
+    "url": "https://www.openwall.com/lists/oss-security/2021/03/09/3",
+    "upvotes": 539,
+    "author": "todsacerdoti",
+    "comments": 183,
+    "link": "https://news.ycombinator.com/item?id=26404830"
+  },
+  {
+    "title": "Hackers break into thousands of security cameras, exposing Tesla, jail, hospital",
+    "url": "https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681",
+    "upvotes": 564,
+    "author": "f430",
+    "comments": 216,
+    "link": "https://news.ycombinator.com/item?id=26405056"
+  },
+  {
     "title": "Building a high-scale chat server on Cloud Run",
     "url": "https://ahmet.im/blog/cloud-run-chat-server/",
-    "upvotes": 133,
+    "upvotes": 134,
     "author": "alpb",
     "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26406206"
@@ -150,89 +142,97 @@
   {
     "title": "Ideas to improve the user and developer experiences of databases",
     "url": "https://dnlhg.com/posts/database-ux-ideas",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "dnlhg",
-    "comments": 20,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26398415"
+  },
+  {
+    "title": "Ask HN: Those who quit their jobs to travel the world, how did it go?",
+    "url": "item?id=26407560",
+    "upvotes": 220,
+    "author": "cercatrova",
+    "comments": 235,
+    "link": "https://news.ycombinator.com/item?id=26407560"
+  },
+  {
+    "title": "Breaking the warp barrier for faster-than-light travel",
+    "url": "https://www.uni-goettingen.de/en/3240.html?id=6192",
+    "upvotes": 60,
+    "author": "mrrazz",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26408041"
   },
   {
     "title": "Seawater Greenhouse",
     "url": "https://seawatergreenhouse.com/construction-blog/2017/11/7/construction-completed",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "zeristor",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26396759"
   },
   {
-    "title": "Breaking the warp barrier for faster-than-light travel",
-    "url": "https://www.uni-goettingen.de/en/3240.html?id=6192",
-    "upvotes": 56,
-    "author": "mrrazz",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26408041"
-  },
-  {
-    "title": "Ask HN: Those who quit their jobs to travel the world, how did it go?",
-    "url": "item?id=26407560",
-    "upvotes": 207,
-    "author": "cercatrova",
-    "comments": 225,
-    "link": "https://news.ycombinator.com/item?id=26407560"
-  },
-  {
-    "title": "Retracing a Donner Party path, nearly two centuries later",
-    "url": "https://www.atlasobscura.com/articles/donner-route-2020",
-    "upvotes": 24,
-    "author": "Moody_10001",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26408382"
-  },
-  {
     "title": "The Railsification of SaaS",
     "url": "https://keithwhor.medium.com/the-railsification-of-saas-e5d284fa44a1",
-    "upvotes": 127,
+    "upvotes": 130,
     "author": "keithwhor",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26400587"
   },
   {
     "title": "Fukushima radiation did not damage health of local people, UN says",
     "url": "https://www.theguardian.com/environment/2021/mar/10/fukushima-meltdown-did-not-damage-health-un-japan",
-    "upvotes": 65,
+    "upvotes": 70,
     "author": "ericdanielski",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26409247"
   },
   {
     "title": "Drivers new to level 2 driving assistance had lower awareness of on-road events",
     "url": "https://www.thedrive.com/news/39688/drivers-new-to-automated-assists-more-often-missed-a-giant-teddy-bear-speeding-past-them-study",
-    "upvotes": 38,
+    "upvotes": 39,
     "author": "alphabettsy",
-    "comments": 45,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26407854"
-  },
-  {
-    "title": "Blockchain-based and open source Digital Euro usage in Café",
-    "url": "https://www.delta.tudelft.nl/article/delft-cafe-premieres-eemcs-blockchain-euro",
-    "upvotes": 78,
-    "author": "synctext",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26409174"
   },
   {
     "title": "Report on an Unidentified Space Station",
     "url": "http://geosci.uchicago.edu/~kite/doc/roauss.htm",
-    "upvotes": 113,
+    "upvotes": 115,
     "author": "optimalsolver",
-    "comments": 47,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26405515"
+  },
+  {
+    "title": "Retracing a Donner Party path, nearly two centuries later",
+    "url": "https://www.atlasobscura.com/articles/donner-route-2020",
+    "upvotes": 25,
+    "author": "Moody_10001",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26408382"
   },
   {
     "title": "UK businesses caught buying five-star Google reviews",
     "url": "https://www.bbc.com/news/technology-56321576",
-    "upvotes": 339,
+    "upvotes": 341,
     "author": "leephillips",
-    "comments": 211,
+    "comments": 214,
     "link": "https://news.ycombinator.com/item?id=26402682"
+  },
+  {
+    "title": "Write libraries instead of services, where possible",
+    "url": "http://catern.com/services.html",
+    "upvotes": 604,
+    "author": "catern",
+    "comments": 312,
+    "link": "https://news.ycombinator.com/item?id=26398960"
+  },
+  {
+    "title": "Delft café premieres with EEMCS blockchain euro",
+    "url": "https://www.delta.tudelft.nl/article/delft-cafe-premieres-eemcs-blockchain-euro",
+    "upvotes": 81,
+    "author": "synctext",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=26409174"
   }
 ]
