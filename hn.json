@@ -2,58 +2,66 @@
   {
     "title": "Fire declared in OVH SBG2 datacentre building",
     "url": "http://travaux.ovh.net/?do=details&id=49471&",
-    "upvotes": 521,
+    "upvotes": 558,
     "author": "finniananderson",
-    "comments": 222,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=26407323"
   },
   {
     "title": "Emacs org-mode examples and cookbook",
     "url": "http://ehneilsen.net/notebook/orgExamples/org-examples.html",
-    "upvotes": 64,
+    "upvotes": 70,
     "author": "ddtaylor",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26408822"
   },
   {
     "title": "Why asynchronous Rust doesn't work",
     "url": "https://theta.eu.org/2021/03/08/async-rust-2.html",
-    "upvotes": 353,
+    "upvotes": 363,
     "author": "tazjin",
-    "comments": 207,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=26406989"
   },
   {
     "title": "Git: Malicious repositories can execute remote code while cloning",
     "url": "https://www.openwall.com/lists/oss-security/2021/03/09/3",
-    "upvotes": 475,
+    "upvotes": 479,
     "author": "todsacerdoti",
-    "comments": 159,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=26404830"
   },
   {
     "title": "Hackers break into thousands of security cameras, exposing Tesla, jail, hospital",
     "url": "https://www.bnnbloomberg.ca/hackers-break-into-thousands-of-security-cameras-exposing-tesla-jails-hospitals-1.1574681",
-    "upvotes": 485,
+    "upvotes": 491,
     "author": "f430",
-    "comments": 192,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=26405056"
   },
   {
     "title": "Blockchain-based and open source Digital Euro usage in Café",
     "url": "https://www.delta.tudelft.nl/article/delft-cafe-premieres-eemcs-blockchain-euro",
-    "upvotes": 22,
+    "upvotes": 30,
     "author": "synctext",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26409174"
   },
   {
     "title": "We created a fake language to root out resume liars",
     "url": "https://www.facebook.com/groups/CFprogrammers/permalink/10158154545285036/",
-    "upvotes": 104,
+    "upvotes": 111,
     "author": "rmason",
-    "comments": 95,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26408181"
+  },
+  {
+    "title": "UK 'Right to repair' law to come in this summer",
+    "url": "https://www.bbc.co.uk/news/business-56340077",
+    "upvotes": 48,
+    "author": "djaychela",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26408941"
   },
   {
     "title": "Staying Out of TTL Hell",
@@ -64,19 +72,19 @@
     "link": "https://news.ycombinator.com/item?id=26409076"
   },
   {
-    "title": "UK 'Right to repair' law to come in this summer",
-    "url": "https://www.bbc.co.uk/news/business-56340077",
-    "upvotes": 40,
-    "author": "djaychela",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26408941"
+    "title": "UK businesses caught buying five-star Google reviews",
+    "url": "https://www.bbc.com/news/technology-56321576",
+    "upvotes": 319,
+    "author": "leephillips",
+    "comments": 204,
+    "link": "https://news.ycombinator.com/item?id=26402682"
   },
   {
     "title": "Great Man-Made River",
     "url": "https://en.wikipedia.org/wiki/Great_Man-Made_River",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "zeristor",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26375053"
   },
   {
@@ -84,28 +92,52 @@
     "url": "https://raycast.com/jobs"
   },
   {
-    "title": "UK businesses caught buying five-star Google reviews",
-    "url": "https://www.bbc.com/news/technology-56321576",
-    "upvotes": 317,
-    "author": "leephillips",
-    "comments": 204,
-    "link": "https://news.ycombinator.com/item?id=26402682"
-  },
-  {
     "title": "An S-100 80486 CPU Board",
     "url": "http://www.s100computers.com/My%20System%20Pages/80486%20Board/80486%20CPU%20Board.htm",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "userbinator",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26407783"
+  },
+  {
+    "title": "The Challenges of Integrating the Unix and Mac OS Environments",
+    "url": "https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/invitedtalks/sanchez_html/sanchez.html",
+    "upvotes": 5,
+    "author": "DvdGiessen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26409156"
+  },
+  {
+    "title": "Bats and the Origin of Outbreaks",
+    "url": "https://graphics.reuters.com/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/",
+    "upvotes": 4,
+    "author": "jordinebot",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26409419"
   },
   {
     "title": "Show HN: I made a tool to convert images of tables to CSV",
     "url": "https://github.com/artperrin/image2csv",
-    "upvotes": 279,
+    "upvotes": 283,
     "author": "aperrin",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26403341"
+  },
+  {
+    "title": "Japan to stage Tokyo Olympics without overseas spectators",
+    "url": "https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators",
+    "upvotes": 62,
+    "author": "curmudgeon22",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26406981"
+  },
+  {
+    "title": "Building a high-scale chat server on Cloud Run",
+    "url": "https://ahmet.im/blog/cloud-run-chat-server/",
+    "upvotes": 116,
+    "author": "alpb",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=26406206"
   },
   {
     "title": "Retracing a Donner Party path, nearly two centuries later",
@@ -116,83 +148,51 @@
     "link": "https://news.ycombinator.com/item?id=26408382"
   },
   {
-    "title": "Building a high-scale chat server on Cloud Run",
-    "url": "https://ahmet.im/blog/cloud-run-chat-server/",
-    "upvotes": 113,
-    "author": "alpb",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26406206"
-  },
-  {
-    "title": "Japan to stage Tokyo Olympics without overseas spectators",
-    "url": "https://japantoday.com/category/tokyo-2020-olympics/update1-japan-to-stage-tokyo-olympics-without-overseas-spectators",
-    "upvotes": 56,
-    "author": "curmudgeon22",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26406981"
-  },
-  {
-    "title": "Webmention.io",
-    "url": "https://webmention.io/",
-    "upvotes": 352,
-    "author": "bezelbuttons",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=26401955"
-  },
-  {
     "title": "RSS as a Facebook alternative",
     "url": "https://thenewleafjournal.com/around-the-web-rss-as-a-facebook-alternative/",
-    "upvotes": 188,
+    "upvotes": 190,
     "author": "dgrin91",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26403669"
   },
   {
-    "title": "The Challenges of Integrating the Unix and Mac OS Environments",
-    "url": "https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/invitedtalks/sanchez_html/sanchez.html",
-    "upvotes": 3,
-    "author": "DvdGiessen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26409156"
-  },
-  {
     "title": "Ideas to improve the user and developer experiences of databases",
     "url": "https://dnlhg.com/posts/database-ux-ideas",
-    "upvotes": 21,
+    "upvotes": 23,
     "author": "dnlhg",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26398415"
   },
   {
     "title": "Seawater Greenhouse",
     "url": "https://seawatergreenhouse.com/construction-blog/2017/11/7/construction-completed",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "zeristor",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26396759"
   },
   {
-    "title": "Ask HN: Those who quit their jobs to travel the world, how did it go?",
-    "url": "item?id=26407560",
-    "upvotes": 120,
-    "author": "cercatrova",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=26407560"
-  },
-  {
     "title": "Fukushima radiation did not damage health of local people, UN says",
     "url": "https://www.theguardian.com/environment/2021/mar/10/fukushima-meltdown-did-not-damage-health-un-japan",
-    "upvotes": 10,
+    "upvotes": 17,
     "author": "ericdanielski",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26409247"
+  },
+  {
+    "title": "Ask HN: Those who quit their jobs to travel the world, how did it go?",
+    "url": "item?id=26407560",
+    "upvotes": 129,
+    "author": "cercatrova",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=26407560"
   },
   {
     "title": "The Railsification of SaaS",
     "url": "https://keithwhor.medium.com/the-railsification-of-saas-e5d284fa44a1",
-    "upvotes": 103,
+    "upvotes": 104,
     "author": "keithwhor",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26400587"
   },
   {
@@ -200,7 +200,7 @@
     "url": "https://www.thedrive.com/news/39688/drivers-new-to-automated-assists-more-often-missed-a-giant-teddy-bear-speeding-past-them-study",
     "upvotes": 27,
     "author": "alphabettsy",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26407854"
   },
   {
@@ -208,7 +208,7 @@
     "url": "http://geosci.uchicago.edu/~kite/doc/roauss.htm",
     "upvotes": 87,
     "author": "optimalsolver",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26405515"
   },
   {
@@ -222,17 +222,17 @@
   {
     "title": "Write libraries instead of services, where possible",
     "url": "http://catern.com/services.html",
-    "upvotes": 581,
+    "upvotes": 583,
     "author": "catern",
     "comments": 309,
     "link": "https://news.ycombinator.com/item?id=26398960"
   },
   {
-    "title": "Downsampling Time Series for Visual Representation [pdf]",
-    "url": "https://skemman.is/bitstream/1946/15343/3/SS_MSthesis.pdf",
-    "upvotes": 123,
-    "author": "todsacerdoti",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26401935"
+    "title": "Russia slows Twitter's speed over failure to remove banned content",
+    "url": "https://www.reuters.com/article/us-russia-twitter/russia-slows-twitters-speed-over-failure-to-remove-banned-content-idUSKBN2B20ME",
+    "upvotes": 14,
+    "author": "reddotX",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26409132"
   }
 ]
