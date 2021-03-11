@@ -2,39 +2,47 @@
   {
     "title": "Dennis Ritchie's first C compiler on GitHub",
     "url": "https://github.com/mortdeus/legacy-cc",
-    "upvotes": 53,
+    "upvotes": 90,
     "author": "jnord",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26419628"
   },
   {
     "title": "Zig, parser combinators, and why they're awesome",
     "url": "https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome",
-    "upvotes": 231,
+    "upvotes": 238,
     "author": "todsacerdoti",
-    "comments": 73,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26416531"
   },
   {
     "title": "Psilocybin Community and Education Hub",
     "url": "https://www.tripsitters.org/",
-    "upvotes": 46,
+    "upvotes": 57,
     "author": "mooreds",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26419176"
   },
   {
     "title": "How the New York Times A/B tests their headlines",
     "url": "https://blog.tjcx.me/p/new-york-times-ab-testing",
-    "upvotes": 136,
+    "upvotes": 156,
     "author": "mtlynch",
-    "comments": 81,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26419070"
+  },
+  {
+    "title": "Mantis Shrimp Inspires New Breed of Light Sensors",
+    "url": "https://news.ncsu.edu/2021/03/shrimp-light-tech/",
+    "upvotes": 16,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26400218"
   },
   {
     "title": "netaddr.IP: a new IP address type for Go",
     "url": "https://tailscale.com/blog/netaddr-new-ip-type-for-go/",
-    "upvotes": 233,
+    "upvotes": 247,
     "author": "smitop",
     "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26416553"
@@ -42,79 +50,63 @@
   {
     "title": "Zapier reached a $5B valuation with $1.3M of funding",
     "url": "https://www.forbes.com/sites/alexkonrad/2021/03/08/zapier-bootstraps-to-5-billion-valuation/",
-    "upvotes": 285,
+    "upvotes": 291,
     "author": "gmays",
-    "comments": 194,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=26404675"
   },
   {
     "title": "OctoPrint",
     "url": "https://octoprint.org/",
-    "upvotes": 187,
+    "upvotes": 195,
     "author": "laktak",
     "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26415856"
   },
   {
-    "title": "Mantis Shrimp Inspires New Breed of Light Sensors",
-    "url": "https://news.ncsu.edu/2021/03/shrimp-light-tech/",
-    "upvotes": 7,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26400218"
+    "title": "Raycasting in JavaScript and React",
+    "url": "https://github.com/ahuth/raycast",
+    "upvotes": 29,
+    "author": "ahuth",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26399329"
+  },
+  {
+    "title": "Making an online multiplayer game with Godot and Nakama",
+    "url": "https://heroiclabs.com/blog/announcements/godot-fishgame/",
+    "upvotes": 110,
+    "author": "erlend_sh",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26416545"
   },
   {
     "title": "Launch HN: Remora (YC W21) – Carbon capture for semi trucks",
     "url": "item?id=26412624",
-    "upvotes": 239,
+    "upvotes": 240,
     "author": "paulgross",
     "comments": 159,
     "link": "https://news.ycombinator.com/item?id=26412624"
   },
   {
-    "title": "Making an online multiplayer game with Godot and Nakama",
-    "url": "https://heroiclabs.com/blog/announcements/godot-fishgame/",
-    "upvotes": 102,
-    "author": "erlend_sh",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26416545"
-  },
-  {
     "title": "Agate, a simple Gemini server written in Rust",
     "url": "https://github.com/mbrubeck/agate",
-    "upvotes": 177,
+    "upvotes": 179,
     "author": "Funes-",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26401158"
   },
   {
-    "title": "Raycasting in JavaScript and React",
-    "url": "https://github.com/ahuth/raycast",
-    "upvotes": 20,
-    "author": "ahuth",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26399329"
-  },
-  {
     "title": "Xilinx Opens Up Vitis HLS Tool for FPGAs",
     "url": "https://www.eetimes.com/xilinx-opens-up-vitis-hls-tool-for-fpgas/",
-    "upvotes": 52,
+    "upvotes": 54,
     "author": "UncleOxidant",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26418307"
-  },
-  {
-    "title": "based.cooking",
-    "url": "https://based.cooking/",
-    "upvotes": 92,
-    "author": "meribold",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26419717"
   },
   {
     "title": "Decoded: GNU coreutils",
     "url": "http://maizure.org/projects/decoded-gnu-coreutils/",
-    "upvotes": 250,
+    "upvotes": 256,
     "author": "pcr910303",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26411908"
@@ -122,117 +114,125 @@
   {
     "title": "What does any of this have to do with physics?",
     "url": "https://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics",
-    "upvotes": 239,
+    "upvotes": 242,
     "author": "telotortium",
-    "comments": 141,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=26413343"
+  },
+  {
+    "title": "Ancient woman may have been powerful leader, 4k-year-old treasure suggests",
+    "url": "https://www.nationalgeographic.com/history/article/ancient-woman-powerful-european-leader-4000-year-old-treasure-suggests",
+    "upvotes": 23,
+    "author": "ryan_j_naughton",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26419633"
+  },
+  {
+    "title": "Capturing Reality is now part of Epic Games",
+    "url": "https://www.epicgames.com/site/en-US/news/capturing-reality-is-now-part-of-epic-games",
+    "upvotes": 103,
+    "author": "dagmx",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26399728"
   },
   {
     "title": "The SQLite R*Tree Module",
     "url": "https://www.sqlite.org/rtree.html",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "sirffuzzylogik",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26416621"
   },
   {
-    "title": "Capturing Reality is now part of Epic Games",
-    "url": "https://www.epicgames.com/site/en-US/news/capturing-reality-is-now-part-of-epic-games",
-    "upvotes": 97,
-    "author": "dagmx",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26399728"
+    "title": "A tactical guide to kickstarting a community",
+    "url": "https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/",
+    "upvotes": 187,
+    "author": "someproduct",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26413955"
+  },
+  {
+    "title": "based.cooking",
+    "url": "https://based.cooking/",
+    "upvotes": 99,
+    "author": "meribold",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=26419717"
   },
   {
     "title": "Semaphore – Modern UI for Ansible",
     "url": "https://github.com/ansible-semaphore/semaphore",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "cbrookins",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26418830"
-  },
-  {
-    "title": "A tactical guide to kickstarting a community",
-    "url": "https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/",
-    "upvotes": 186,
-    "author": "someproduct",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26413955"
-  },
-  {
-    "title": "The Product Strategy Stack",
-    "url": "https://www.reforge.com/blog/the-product-strategy-stack",
-    "upvotes": 9,
-    "author": "freddier",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26419584"
   },
   {
     "title": "EasyPost",
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "IPv6 Adoption Visualization",
-    "url": "https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp",
-    "upvotes": 79,
-    "author": "capableweb",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26418872"
+    "title": "Pipe – Instant access to your annual cash flow",
+    "url": "https://www.pipe.com/",
+    "upvotes": 5,
+    "author": "telotortium",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26420180"
   },
   {
     "title": "I guess I have to watch ads everywhere on my $1,500 LG TV now",
     "url": "https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store",
-    "upvotes": 202,
+    "upvotes": 223,
     "author": "brundolf",
-    "comments": 273,
+    "comments": 306,
     "link": "https://news.ycombinator.com/item?id=26417491"
   },
   {
-    "title": "Data Science for Psychologists",
-    "url": "https://bookdown.org/hneth/ds4psy/",
-    "upvotes": 19,
-    "author": "sebg",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26399143"
+    "title": "IPv6 Adoption Visualization",
+    "url": "https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp",
+    "upvotes": 84,
+    "author": "capableweb",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26418872"
   },
   {
     "title": "Launch HN: Haystack (YC W21) – Engineering analytics that don’t suck",
     "url": "item?id=26413311",
-    "upvotes": 88,
+    "upvotes": 89,
     "author": "lovedev",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26413311"
   },
   {
+    "title": "The Product Strategy Stack",
+    "url": "https://www.reforge.com/blog/the-product-strategy-stack",
+    "upvotes": 11,
+    "author": "freddier",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26419584"
+  },
+  {
+    "title": "Data Science for Psychologists",
+    "url": "https://bookdown.org/hneth/ds4psy/",
+    "upvotes": 20,
+    "author": "sebg",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26399143"
+  },
+  {
     "title": "Tesseract Teaser",
     "url": "https://www.solipsys.co.uk/new/TesseractTeaser.html",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "zdw",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26400168"
   },
   {
-    "title": "Ancient woman may have been powerful leader, 4k-year-old treasure suggests",
-    "url": "https://www.nationalgeographic.com/history/article/ancient-woman-powerful-european-leader-4000-year-old-treasure-suggests",
-    "upvotes": 19,
-    "author": "ryan_j_naughton",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26419633"
-  },
-  {
     "title": "Microscopic Wormholes Possible in Theory",
     "url": "https://phys.org/news/2021-03-microscopic-wormholes-theory.html",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "dnetesn",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26405962"
-  },
-  {
-    "title": "Fuzzing Java in OSS-Fuzz",
-    "url": "https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html",
-    "upvotes": 107,
-    "author": "theafh",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26413503"
   }
 ]
