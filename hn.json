@@ -1,80 +1,72 @@
 [
   {
-    "title": "India has the most IPv6 Adoption in the world",
-    "url": "https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp",
-    "upvotes": 50,
-    "author": "capableweb",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26418872"
-  },
-  {
     "title": "Zig, parser combinators, and why they're awesome",
     "url": "https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome",
-    "upvotes": 191,
+    "upvotes": 198,
     "author": "todsacerdoti",
-    "comments": 49,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26416531"
+  },
+  {
+    "title": "How the New York Times A/B tests their headlines",
+    "url": "https://blog.tjcx.me/p/new-york-times-ab-testing",
+    "upvotes": 46,
+    "author": "mtlynch",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26419070"
   },
   {
     "title": "netaddr.IP: a new IP address type for Go",
     "url": "https://tailscale.com/blog/netaddr-new-ip-type-for-go/",
-    "upvotes": 193,
+    "upvotes": 198,
     "author": "smitop",
-    "comments": 65,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26416553"
-  },
-  {
-    "title": "How The New York Times A/B tests their headlines",
-    "url": "https://blog.tjcx.me/p/new-york-times-ab-testing",
-    "upvotes": 35,
-    "author": "mtlynch",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26419070"
-  },
-  {
-    "title": "What We Can Learn from Japanese Prefab Homes",
-    "url": "https://www.dwell.com/article/japanese-prefab-homes-e1f1b65c",
-    "upvotes": 58,
-    "author": "fortran77",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26399071"
   },
   {
     "title": "Semaphore – Modern UI for Ansible",
     "url": "https://github.com/ansible-semaphore/semaphore",
-    "upvotes": 27,
+    "upvotes": 34,
     "author": "cbrookins",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26418830"
   },
   {
     "title": "Zapier reached a $5B valuation with $1.3M of funding",
     "url": "https://www.forbes.com/sites/alexkonrad/2021/03/08/zapier-bootstraps-to-5-billion-valuation/",
-    "upvotes": 254,
+    "upvotes": 260,
     "author": "gmays",
-    "comments": 171,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=26404675"
   },
   {
     "title": "OctoPrint",
     "url": "https://octoprint.org/",
-    "upvotes": 153,
+    "upvotes": 158,
     "author": "laktak",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26415856"
   },
   {
+    "title": "What We Can Learn from Japanese Prefab Homes",
+    "url": "https://www.dwell.com/article/japanese-prefab-homes-e1f1b65c",
+    "upvotes": 60,
+    "author": "fortran77",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26399071"
+  },
+  {
     "title": "Xilinx Opens Up Vitis HLS Tool for FPGAs",
     "url": "https://www.eetimes.com/xilinx-opens-up-vitis-hls-tool-for-fpgas/",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "UncleOxidant",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26418307"
   },
   {
     "title": "Making an online multiplayer game with Godot and Nakama",
     "url": "https://heroiclabs.com/blog/announcements/godot-fishgame/",
-    "upvotes": 85,
+    "upvotes": 88,
     "author": "erlend_sh",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26416545"
@@ -82,7 +74,7 @@
   {
     "title": "Agate, a simple Gemini server written in Rust",
     "url": "https://github.com/mbrubeck/agate",
-    "upvotes": 164,
+    "upvotes": 167,
     "author": "Funes-",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26401158"
@@ -90,50 +82,58 @@
   {
     "title": "Launch HN: Remora (YC W21) – Carbon capture for semi trucks",
     "url": "item?id=26412624",
-    "upvotes": 225,
+    "upvotes": 226,
     "author": "paulgross",
     "comments": 155,
     "link": "https://news.ycombinator.com/item?id=26412624"
   },
   {
-    "title": "Lou Ottens, inventor of cassette tape, has died",
-    "url": "https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/",
-    "upvotes": 384,
-    "author": "Anon84",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=26410135"
+    "title": "4,000 year old woman may have been powerful European leader, treasure suggests",
+    "url": "https://www.nationalgeographic.com/history/article/ancient-woman-powerful-european-leader-4000-year-old-treasure-suggests",
+    "upvotes": 3,
+    "author": "ryan_j_naughton",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26419633"
   },
   {
-    "title": "The SQLite R*Tree Module",
-    "url": "https://www.sqlite.org/rtree.html",
-    "upvotes": 60,
-    "author": "sirffuzzylogik",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26416621"
+    "title": "IPv6 Adoption Visualization",
+    "url": "https://www.akamai.com/uk/en/resources/our-thinking/state-of-the-internet-report/state-of-the-internet-ipv6-adoption-visualization.jsp",
+    "upvotes": 61,
+    "author": "capableweb",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26418872"
   },
   {
     "title": "Decoded: GNU coreutils",
     "url": "http://maizure.org/projects/decoded-gnu-coreutils/",
-    "upvotes": 241,
+    "upvotes": 244,
     "author": "pcr910303",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26411908"
   },
   {
-    "title": "What does any of this have to do with physics?",
-    "url": "https://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics",
-    "upvotes": 221,
-    "author": "telotortium",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=26413343"
+    "title": "The SQLite R*Tree Module",
+    "url": "https://www.sqlite.org/rtree.html",
+    "upvotes": 62,
+    "author": "sirffuzzylogik",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26416621"
   },
   {
     "title": "Capturing Reality is now part of Epic Games",
     "url": "https://www.epicgames.com/site/en-US/news/capturing-reality-is-now-part-of-epic-games",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "dagmx",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26399728"
+  },
+  {
+    "title": "What does any of this have to do with physics?",
+    "url": "https://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics",
+    "upvotes": 225,
+    "author": "telotortium",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=26413343"
   },
   {
     "title": "EasyPost",
@@ -148,52 +148,68 @@
     "link": "https://news.ycombinator.com/item?id=26413955"
   },
   {
+    "title": "Oracle Cloud is unreachable",
+    "url": "https://ocistatus.oraclecloud.com/incidents/qjxllgkywysj",
+    "upvotes": 85,
+    "author": "inopinatus",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26418492"
+  },
+  {
+    "title": "Nuclear Power Looks to Regain Its Footing 10 Years After Fukushima",
+    "url": "https://www.scientificamerican.com/article/nuclear-power-looks-to-regain-its-footing-10-years-after-fukushima/",
+    "upvotes": 3,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26419334"
+  },
+  {
     "title": "Tesseract Teaser",
     "url": "https://www.solipsys.co.uk/new/TesseractTeaser.html",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "zdw",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26400168"
   },
   {
-    "title": "Oracle Cloud is unreachable",
-    "url": "https://ocistatus.oraclecloud.com/incidents/qjxllgkywysj",
-    "upvotes": 82,
-    "author": "inopinatus",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=26418492"
-  },
-  {
     "title": "I guess I have to watch ads everywhere on my $1,500 LG TV now",
     "url": "https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store",
-    "upvotes": 118,
+    "upvotes": 135,
     "author": "brundolf",
-    "comments": 158,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=26417491"
+  },
+  {
+    "title": "Data Science for Psychologists",
+    "url": "https://bookdown.org/hneth/ds4psy/",
+    "upvotes": 13,
+    "author": "sebg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26399143"
   },
   {
     "title": "Minecraft vs. Roblox",
     "url": "https://www.codeadvantage.org/coding-for-kids-blog/minecraft-vs-roblox",
-    "upvotes": 104,
+    "upvotes": 106,
     "author": "lawrenceyan",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26415048"
   },
   {
     "title": "Microscopic Wormholes Possible in Theory",
     "url": "https://phys.org/news/2021-03-microscopic-wormholes-theory.html",
-    "upvotes": 23,
+    "upvotes": 24,
     "author": "dnetesn",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26405962"
   },
   {
-    "title": "Data Science for Psychologists",
-    "url": "https://bookdown.org/hneth/ds4psy/",
-    "upvotes": 11,
-    "author": "sebg",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26399143"
+    "title": "PSA: macOS updates often modify your System Preferences to violate your Privacy",
+    "url": "item?id=26418809",
+    "upvotes": 56,
+    "author": "webmobdev",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26418809"
   },
   {
     "title": "Show HN: No/Low code in-app onboarding guides for SaaS businesses",
@@ -204,35 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26417187"
   },
   {
+    "title": "Fuzzing Java in OSS-Fuzz",
+    "url": "https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html",
+    "upvotes": 102,
+    "author": "theafh",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26413503"
+  },
+  {
     "title": "Show HN: A GUI for Google App Engine",
     "url": "https://nocommandline.com",
     "upvotes": 31,
     "author": "nocommandline",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26411188"
-  },
-  {
-    "title": "Fuzzing Java in OSS-Fuzz",
-    "url": "https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html",
-    "upvotes": 99,
-    "author": "theafh",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26413503"
-  },
-  {
-    "title": "PSA: macOS updates often modify your System Preferences to violate your Privacy",
-    "url": "item?id=26418809",
-    "upvotes": 51,
-    "author": "webmobdev",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26418809"
-  },
-  {
-    "title": "Slonik: A PostgreSQL client with strict types, detailed logging, and assertions",
-    "url": "https://github.com/gajus/slonik",
-    "upvotes": 45,
-    "author": "shawndellysse",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26415558"
   }
 ]
