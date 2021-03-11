@@ -2,81 +2,89 @@
   {
     "title": "Zig, parser combinators, and why they're awesome",
     "url": "https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome",
-    "upvotes": 91,
+    "upvotes": 112,
     "author": "todsacerdoti",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26416531"
   },
   {
     "title": "netaddr.ip: a new IP address type for Go",
     "url": "https://tailscale.com/blog/netaddr-new-ip-type-for-go/",
-    "upvotes": 73,
+    "upvotes": 108,
     "author": "smitop",
-    "comments": 21,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26416553"
   },
   {
     "title": "Zapier reached a $5B valuation with $1.3M of funding",
     "url": "https://www.forbes.com/sites/alexkonrad/2021/03/08/zapier-bootstraps-to-5-billion-valuation/",
-    "upvotes": 199,
+    "upvotes": 213,
     "author": "gmays",
-    "comments": 90,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26404675"
   },
   {
     "title": "OctoPrint",
     "url": "https://octoprint.org/",
-    "upvotes": 99,
+    "upvotes": 115,
     "author": "laktak",
-    "comments": 33,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26415856"
-  },
-  {
-    "title": "Agate, a simple Gemini server written in Rust",
-    "url": "https://github.com/mbrubeck/agate",
-    "upvotes": 135,
-    "author": "Funes-",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26401158"
   },
   {
     "title": "Making an online multiplayer game with Godot and Nakama",
     "url": "https://heroiclabs.com/blog/announcements/godot-fishgame/",
-    "upvotes": 38,
+    "upvotes": 49,
     "author": "erlend_sh",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26416545"
   },
   {
+    "title": "Agate, a simple Gemini server written in Rust",
+    "url": "https://github.com/mbrubeck/agate",
+    "upvotes": 143,
+    "author": "Funes-",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26401158"
+  },
+  {
     "title": "What does any of this have to do with physics?",
     "url": "https://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics",
-    "upvotes": 188,
+    "upvotes": 193,
     "author": "telotortium",
-    "comments": 91,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=26413343"
+  },
+  {
+    "title": "So You Want to Abolish Time Zones",
+    "url": "https://qntm.org/abolish",
+    "upvotes": 44,
+    "author": "JoshTriplett",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26416337"
   },
   {
     "title": "Launch HN: Remora (YC W21) – Carbon capture for semi trucks",
     "url": "item?id=26412624",
-    "upvotes": 198,
+    "upvotes": 203,
     "author": "paulgross",
-    "comments": 140,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=26412624"
   },
   {
     "title": "The SQLite R*Tree Module",
     "url": "https://www.sqlite.org/rtree.html",
-    "upvotes": 35,
+    "upvotes": 39,
     "author": "sirffuzzylogik",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26416621"
   },
   {
     "title": "Go Developer Survey 2020 Results",
     "url": "https://blog.golang.org/survey2020-results",
-    "upvotes": 8,
+    "upvotes": 22,
     "author": "radimm",
-    "comments": 3,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26417515"
   },
   {
@@ -86,31 +94,15 @@
   {
     "title": "Decoded: GNU coreutils",
     "url": "http://maizure.org/projects/decoded-gnu-coreutils/",
-    "upvotes": 217,
+    "upvotes": 220,
     "author": "pcr910303",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26411908"
   },
   {
-    "title": "So You Want to Abolish Time Zones",
-    "url": "https://qntm.org/abolish",
-    "upvotes": 29,
-    "author": "JoshTriplett",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26416337"
-  },
-  {
-    "title": "Emirates’ Tim Clark says Boeing ‘not getting it’ on 737 Max, 787",
-    "url": "https://theaircurrent.com/industry-strategy/emirates-tim-clark-says-boeing-not-getting-it-on-737-max-787/",
-    "upvotes": 92,
-    "author": "firebaze",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=26416266"
-  },
-  {
     "title": "Lou Ottens, inventor of cassette tape, has died",
     "url": "https://netherlandsnewslive.com/inventor-of-cassette-tape-lou-ottens-passed-away-financial/107722/",
-    "upvotes": 357,
+    "upvotes": 364,
     "author": "Anon84",
     "comments": 140,
     "link": "https://news.ycombinator.com/item?id=26410135"
@@ -118,50 +110,90 @@
   {
     "title": "Capturing Reality is now part of Epic Games",
     "url": "https://www.epicgames.com/site/en-US/news/capturing-reality-is-now-part-of-epic-games",
-    "upvotes": 42,
+    "upvotes": 52,
     "author": "dagmx",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26399728"
-  },
-  {
-    "title": "Minecraft vs. Roblox",
-    "url": "https://www.codeadvantage.org/coding-for-kids-blog/minecraft-vs-roblox",
-    "upvotes": 77,
-    "author": "lawrenceyan",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=26415048"
   },
   {
     "title": "Microscopic Wormholes Possible in Theory",
     "url": "https://phys.org/news/2021-03-microscopic-wormholes-theory.html",
-    "upvotes": 6,
+    "upvotes": 10,
     "author": "dnetesn",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26405962"
   },
   {
     "title": "A tactical guide to kickstarting a community",
     "url": "https://orbit.love/blog/a-tactical-guide-to-kickstarting-your-community/",
-    "upvotes": 123,
+    "upvotes": 134,
     "author": "someproduct",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26413955"
+  },
+  {
+    "title": "Emirates’ Tim Clark says Boeing ‘not getting it’ on 737 Max, 787",
+    "url": "https://theaircurrent.com/industry-strategy/emirates-tim-clark-says-boeing-not-getting-it-on-737-max-787/",
+    "upvotes": 100,
+    "author": "firebaze",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=26416266"
+  },
+  {
+    "title": "Show HN: A GUI for Google App Engine",
+    "url": "https://nocommandline.com",
+    "upvotes": 11,
+    "author": "nocommandline",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26411188"
+  },
+  {
+    "title": "Slonik: A PostgreSQL client with strict types, detailed logging, and assertions",
+    "url": "https://github.com/gajus/slonik",
+    "upvotes": 29,
+    "author": "shawndellysse",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26415558"
   },
   {
     "title": "Authelia is an open-source authentication/authorization server with 2FA/SSO",
     "url": "https://github.com/authelia/authelia",
-    "upvotes": 260,
+    "upvotes": 261,
     "author": "thunderbong",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26409820"
   },
   {
+    "title": "Macabre Mystery of a British Family’s Skull-Topped Spoons",
+    "url": "https://www.atlasobscura.com/articles/yorkshire-death-spoons",
+    "upvotes": 35,
+    "author": "samizdis",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26399684"
+  },
+  {
+    "title": "Minecraft vs. Roblox",
+    "url": "https://www.codeadvantage.org/coding-for-kids-blog/minecraft-vs-roblox",
+    "upvotes": 80,
+    "author": "lawrenceyan",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26415048"
+  },
+  {
     "title": "Fuzzing Java in OSS-Fuzz",
     "url": "https://security.googleblog.com/2021/03/fuzzing-java-in-oss-fuzz.html",
-    "upvotes": 90,
+    "upvotes": 91,
     "author": "theafh",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26413503"
+  },
+  {
+    "title": "Launch HN: Haystack (YC W21) – Engineering analytics that don’t suck",
+    "url": "item?id=26413311",
+    "upvotes": 72,
+    "author": "lovedev",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26413311"
   },
   {
     "title": "Investing in Wrapbook",
@@ -172,67 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26400256"
   },
   {
-    "title": "Macabre Mystery of a British Family’s Skull-Topped Spoons",
-    "url": "https://www.atlasobscura.com/articles/yorkshire-death-spoons",
-    "upvotes": 31,
-    "author": "samizdis",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26399684"
-  },
-  {
-    "title": "Launch HN: Haystack (YC W21) – Engineering analytics that don’t suck",
-    "url": "item?id=26413311",
-    "upvotes": 70,
-    "author": "lovedev",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26413311"
-  },
-  {
-    "title": "Slonik: A PostgreSQL client with strict types, detailed logging, and assertions",
-    "url": "https://github.com/gajus/slonik",
-    "upvotes": 22,
-    "author": "shawndellysse",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26415558"
-  },
-  {
     "title": "U.S. senators reintroduce bill to make daylight saving time permanent",
     "url": "https://fox8.com/news/u-s-senators-reintroduce-bill-to-make-daylight-saving-time-permanent/",
-    "upvotes": 372,
+    "upvotes": 394,
     "author": "prostoalex",
-    "comments": 297,
+    "comments": 311,
     "link": "https://news.ycombinator.com/item?id=26415657"
-  },
-  {
-    "title": "I guess I have to watch ads everywhere on my $1,500 LG TV now",
-    "url": "https://www.theverge.com/tldr/2021/3/10/22323790/lg-oled-tv-commercials-content-store",
-    "upvotes": 31,
-    "author": "brundolf",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26417491"
-  },
-  {
-    "title": "Environmental impacts of food consumption by dogs and cats",
-    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0181301",
-    "upvotes": 80,
-    "author": "adrian_mrd",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=26417373"
   },
   {
     "title": "Post-Spectre Web Development, Editor's Draft, 2021-03-10",
     "url": "https://w3c.github.io/webappsec-post-spectre-webdev/",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "distortedsignal",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26413336"
+  },
+  {
+    "title": "What is life? Its vast diversity defies easy definition",
+    "url": "https://www.quantamagazine.org/what-is-life-its-vast-diversity-defies-easy-definition-20210309/",
+    "upvotes": 68,
+    "author": "gHeadphone",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26411499"
   },
   {
     "title": "Apple has gone to extraordinary lengths to make scroll bars invisible",
     "url": "https://twitter.com/simonw/status/1369708900216270849",
-    "upvotes": 517,
+    "upvotes": 528,
     "author": "edward",
-    "comments": 363,
+    "comments": 376,
     "link": "https://news.ycombinator.com/item?id=26414741"
   }
 ]
