@@ -2,34 +2,34 @@
   {
     "title": "Speed of Rust vs. C",
     "url": "https://kornel.ski/rust-c-speed",
-    "upvotes": 130,
+    "upvotes": 150,
     "author": "sivizius",
-    "comments": 43,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26443768"
   },
   {
     "title": "How to convert your old laptop screen into an external monitor",
     "url": "https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/",
-    "upvotes": 111,
+    "upvotes": 116,
     "author": "louwrentius",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26443025"
   },
   {
-    "title": "RethinkDB: why we failed",
-    "url": "https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo",
-    "upvotes": 93,
-    "author": "anhldbk",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26443406"
-  },
-  {
     "title": "The demise and potential revival of the American chestnut",
     "url": "https://www.sierraclub.org/sierra/2021-2-march-april/feature/demise-and-potential-revival-american-chestnut",
-    "upvotes": 213,
+    "upvotes": 217,
     "author": "jseliger",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26441593"
+  },
+  {
+    "title": "RethinkDB: why we failed",
+    "url": "https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html?zarsrc=30&utm_source=zalo&utm_medium=zalo&utm_campaign=zalo",
+    "upvotes": 99,
+    "author": "anhldbk",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=26443406"
   },
   {
     "title": "Myanmar's satellite held by Japan on space station due to spying concern",
@@ -40,41 +40,53 @@
     "link": "https://news.ycombinator.com/item?id=26438899"
   },
   {
-    "title": "printvideo.com",
+    "title": "Blueberry Medical",
+    "url": "https://www.workatastartup.com/jobs/42677"
+  },
+  {
+    "title": "Printvideo.com",
     "url": "https://justine.lol/printvideo.html",
-    "upvotes": 31,
+    "upvotes": 36,
     "author": "luu",
-    "comments": 5,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26420664"
+  },
+  {
+    "title": "Grand Theft Auto: Rockstar Leeds founder Gordon Hall dies aged 51",
+    "url": "https://www.bbc.co.uk/news/uk-england-leeds-56374535",
+    "upvotes": 5,
+    "author": "asplake",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26444444"
   },
   {
     "title": "Vitalik escalates ETH 2.0 merge as miners plan a 51% attack",
     "url": "https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/",
-    "upvotes": 205,
+    "upvotes": 215,
     "author": "michaelsbradley",
-    "comments": 199,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=26441399"
   },
   {
     "title": "RegEx Crossword",
     "url": "http://jimbly.github.io/regex-crossword/",
-    "upvotes": 299,
+    "upvotes": 301,
     "author": "andrelaszlo",
-    "comments": 121,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=26439208"
   },
   {
     "title": "Fabbrica: A sans serif typeface with a utilitarian aesthetic",
     "url": "https://www.cinetype.com/fabbrica",
-    "upvotes": 68,
+    "upvotes": 72,
     "author": "kmckiern",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26441594"
   },
   {
     "title": "M.2 on a Raspberry Pi – The Tofu CM4 Carrier Board",
     "url": "https://www.jeffgeerling.com/blog/2021/m2-on-raspberry-pi-tofu-compute-module-4-carrier-board",
-    "upvotes": 263,
+    "upvotes": 264,
     "author": "geerlingguy",
     "comments": 172,
     "link": "https://news.ycombinator.com/item?id=26437152"
@@ -82,9 +94,9 @@
   {
     "title": "A brief history of router architecture",
     "url": "https://blog.apnic.net/2021/03/12/a-brief-history-of-router-architecture/",
-    "upvotes": 67,
+    "upvotes": 72,
     "author": "xuande",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26442845"
   },
   {
@@ -98,51 +110,63 @@
   {
     "title": "Overview of Early Electric Cars",
     "url": "https://www.lowtechmagazine.com/overview-of-early-electric-cars.html",
-    "upvotes": 13,
+    "upvotes": 14,
     "author": "rsj_hn",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26422912"
   },
   {
     "title": "Spectre in JavaScript",
     "url": "https://leaky.page/",
-    "upvotes": 186,
+    "upvotes": 188,
     "author": "jeffbee",
     "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26438040"
   },
   {
-    "title": "Show HN: A Terminal Tetris Game",
-    "url": "https://github.com/adder46/tetris.rs",
-    "upvotes": 20,
-    "author": "adder46",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26443551"
-  },
-  {
     "title": "Online Hacker Simulator",
     "url": "https://hacker-simulator.com/",
-    "upvotes": 63,
+    "upvotes": 64,
     "author": "nazgulsenpai",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26442314"
   },
   {
-    "title": "BuildZoom is hiring remote engineers – we sponsor visas",
-    "url": "item?id=26442901"
-  },
-  {
     "title": "Diode Drive – Privacy-focused distributed alternative to GoogleDrive and Dropbox",
     "url": "https://diode.io/resources/download/",
-    "upvotes": 104,
+    "upvotes": 105,
     "author": "punnerud",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26439131"
+  },
+  {
+    "title": "Web Crawler Latency Experiment",
+    "url": "https://sites.google.com/view/webcrawlerlatency/experiment",
+    "upvotes": 5,
+    "author": "vector_spaces",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26442425"
+  },
+  {
+    "title": "Show HN: A Terminal Tetris Game",
+    "url": "https://github.com/adder46/tetris.rs",
+    "upvotes": 21,
+    "author": "adder46",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26443551"
+  },
+  {
+    "title": "Ask HN: What happens when someone copies an NFT onto another blockhain?",
+    "url": "item?id=26444625",
+    "upvotes": 3,
+    "author": "capiki",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26444625"
   },
   {
     "title": "Point Cloud Library",
     "url": "https://pointclouds.org/",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "gjvc",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26442465"
@@ -150,7 +174,7 @@
   {
     "title": "What's New in SQLite 3.35",
     "url": "https://nalgeon.github.io/sqlite-3-35/",
-    "upvotes": 387,
+    "upvotes": 391,
     "author": "nalgeon",
     "comments": 130,
     "link": "https://news.ycombinator.com/item?id=26440397"
@@ -158,50 +182,26 @@
   {
     "title": "GPT-3 vs. 3M free-text trivia responses",
     "url": "https://www.watercoolertrivia.com/blog/gpt-3-vs-water-cooler-trivia-participants-a-human-vs-robot-showdown",
-    "upvotes": 69,
+    "upvotes": 71,
     "author": "cowllin",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26440894"
   },
   {
-    "title": "Web Crawler Latency Experiment",
-    "url": "https://sites.google.com/view/webcrawlerlatency/experiment",
-    "upvotes": 3,
-    "author": "vector_spaces",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26442425"
-  },
-  {
-    "title": "How Git servers work, and how to keep yours secure",
-    "url": "https://gemini.nytpu.com/gemlog/2021-03-07.gmi",
-    "upvotes": 139,
-    "author": "danielg0",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26436872"
-  },
-  {
     "title": "Binance investigated by CFTC over whether US residents trade on platform",
     "url": "https://www.bnnbloomberg.ca/binance-probed-by-cftc-over-whether-u-s-residents-made-trades-1.1576124",
-    "upvotes": 96,
+    "upvotes": 97,
     "author": "f430",
-    "comments": 55,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26438284"
   },
   {
     "title": "Deutsche Märchen: German fairy tales [pdf]",
     "url": "https://www.cs.ubc.ca/~udls/slides/2019-tim-deutsche_marchen.pdf",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "mmastrac",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26442047"
-  },
-  {
-    "title": "Hospitals lift curtain on prices, reveals giant swings for hips, knees and more",
-    "url": "https://www.medtechdive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596593/",
-    "upvotes": 209,
-    "author": "theonlyklas",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=26440702"
   },
   {
     "title": "Launch HN: Venu (YC W21) – True-to-Life 3D Virtual Trade Shows",
@@ -228,11 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=26424919"
   },
   {
-    "title": "Vintage technology and why some people still use it",
-    "url": "https://www.bbc.co.uk/news/business-55808632",
-    "upvotes": 63,
-    "author": "open-source-ux",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=26439724"
+    "title": "Hospitals lift curtain on prices, reveals giant swings for hips, knees and more",
+    "url": "https://www.medtechdive.com/news/hospitals-price-transparency-spotty-compliance-swings-price/596593/",
+    "upvotes": 211,
+    "author": "theonlyklas",
+    "comments": 178,
+    "link": "https://news.ycombinator.com/item?id=26440702"
   }
 ]
