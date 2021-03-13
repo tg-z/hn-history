@@ -1,78 +1,110 @@
 [
   {
+    "title": "The productivity of working from home: Evidence from Japan",
+    "url": "https://voxeu.org/article/productivity-working-home-evidence-japan",
+    "upvotes": 24,
+    "author": "elsewhen",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26448156"
+  },
+  {
     "title": "“This Browser Is Lightning Fast”: Effects of Messaging on Perceived Performance [pdf]",
     "url": "https://arxiv.org/ftp/arxiv/papers/2103/2103.06181.pdf",
-    "upvotes": 39,
+    "upvotes": 48,
     "author": "cpeterso",
-    "comments": 10,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26440654"
   },
   {
-    "title": "Zero-3 Offload: Scale DL models to trillion parameters without code changes",
-    "url": "https://www.deepspeed.ai/news/2021/03/07/zero3-offload.html",
-    "upvotes": 60,
-    "author": "ghosthamlet",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26447018"
+    "title": "Is a Long-Dismissed Forgery the Oldest Known Biblical Manuscript?",
+    "url": "https://www.nytimes.com/2021/03/10/arts/bible-deuteronomy-discovery.html",
+    "upvotes": 8,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26448478"
+  },
+  {
+    "title": "Templating for Lawyers",
+    "url": "https://writing.kemitchell.com/2021/03/13/Templating-for-Lawyers.html",
+    "upvotes": 13,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26448618"
   },
   {
     "title": "Out of the Top Fifty Games on Steam, 70% Work on Linux",
     "url": "https://boilingsteam.com/out-of-the-top-50-games-70-work-on-linux-now/",
-    "upvotes": 125,
+    "upvotes": 155,
     "author": "ekianjo",
-    "comments": 53,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26447674"
+  },
+  {
+    "title": "Zero-3 Offload: Scale DL models to trillion parameters without code changes",
+    "url": "https://www.deepspeed.ai/news/2021/03/07/zero3-offload.html",
+    "upvotes": 64,
+    "author": "ghosthamlet",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26447018"
+  },
+  {
+    "title": "Trapped Priors as a Basic Problem of Rationality",
+    "url": "https://astralcodexten.substack.com/p/trapped-priors-as-a-basic-problem",
+    "upvotes": 13,
+    "author": "yamrzou",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26447924"
+  },
+  {
+    "title": "Woman created deepfake videos to force rivals off daughter’s cheerleading squad",
+    "url": "https://www.pennlive.com/news/2021/03/pa-woman-created-deepfake-videos-to-force-rivals-off-daughters-cheerleading-squad-police.html",
+    "upvotes": 29,
+    "author": "coloneltcb",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26447471"
   },
   {
     "title": "An Object-Oriented Language for the '20s",
     "url": "https://adam.nels.onl/blog/an-oo-languge-for-the-20s/",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "ar-nelson",
-    "comments": 146,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=26446685"
-  },
-  {
-    "title": "Speed of Rust vs. C",
-    "url": "https://kornel.ski/rust-c-speed",
-    "upvotes": 544,
-    "author": "sivizius",
-    "comments": 345,
-    "link": "https://news.ycombinator.com/item?id=26443768"
-  },
-  {
-    "title": "A directory of handmade webpages",
-    "url": "https://gossipsweb.net/",
-    "upvotes": 90,
-    "author": "cookingoils",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26446516"
-  },
-  {
-    "title": "Docker Security Cheat Sheet",
-    "url": "https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html",
-    "upvotes": 160,
-    "author": "soheilpro",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26446337"
-  },
-  {
-    "title": "Flameshot – Simple, powerful screenshot tool for all major operating systems",
-    "url": "https://flameshot.org/changelog/",
-    "upvotes": 241,
-    "author": "VitalyAnkh",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=26446070"
   },
   {
     "title": "Modern Treasury",
     "url": "https://angel.co/company/moderntreasury/jobs/1243741-product-manager-banks-and-payments"
   },
   {
+    "title": "Docker Security Cheat Sheet",
+    "url": "https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html",
+    "upvotes": 173,
+    "author": "soheilpro",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26446337"
+  },
+  {
+    "title": "A directory of handmade webpages",
+    "url": "https://gossipsweb.net/",
+    "upvotes": 95,
+    "author": "cookingoils",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26446516"
+  },
+  {
+    "title": "Flameshot – Simple, powerful screenshot tool for all major operating systems",
+    "url": "https://flameshot.org/changelog/",
+    "upvotes": 247,
+    "author": "VitalyAnkh",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=26446070"
+  },
+  {
     "title": "Google isn’t happy with Microsoft over online news",
     "url": "https://www.theverge.com/2021/3/12/22327306/google-microsoft-attack-open-web-online-news-australia-laws",
-    "upvotes": 112,
+    "upvotes": 116,
     "author": "dsr12",
-    "comments": 133,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=26445180"
   },
   {
@@ -86,66 +118,98 @@
   {
     "title": "Loom EGA/VGA Comparison",
     "url": "http://www.superrune.com/tutorials/loom_ega.php",
-    "upvotes": 109,
+    "upvotes": 112,
     "author": "ingve",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26445522"
   },
   {
     "title": "Gordon Hall has died",
     "url": "https://www.bbc.co.uk/news/uk-england-leeds-56374535",
-    "upvotes": 175,
+    "upvotes": 176,
     "author": "asplake",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26444444"
   },
   {
-    "title": "Toronto swaps Google-backed, not-so-smart city plans for people-centred vision",
-    "url": "https://www.theguardian.com/world/2021/mar/12/toronto-canada-quayside-urban-centre",
-    "upvotes": 152,
-    "author": "mgbmtl",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=26446157"
-  },
-  {
-    "title": "Resurrecting Fortran",
-    "url": "https://ondrejcertik.com/blog/2021/03/resurrecting-fortran/",
-    "upvotes": 53,
-    "author": "yomritoyj",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26445438"
-  },
-  {
-    "title": "Routing the Technical Interview",
-    "url": "https://lars.hupel.info/articles/routing-the-interview/",
-    "upvotes": 71,
-    "author": "zdw",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26428143"
-  },
-  {
-    "title": "Show HN: Authenticator by 2Stable – The missing Authenticator app",
-    "url": "https://authenticator.2stable.com",
-    "upvotes": 21,
-    "author": "newkevinarcher",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26446679"
-  },
-  {
     "title": "George Costakis: The Keeper of Modernities",
     "url": "https://www.tretyakovgallerymagazine.com/articles/1-2015-46/george-costakis-keeper-modernities",
-    "upvotes": 3,
+    "upvotes": 4,
     "author": "brudgers",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26443367"
   },
   {
+    "title": "Routing the Technical Interview",
+    "url": "https://lars.hupel.info/articles/routing-the-interview/",
+    "upvotes": 75,
+    "author": "zdw",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26428143"
+  },
+  {
+    "title": "Toronto swaps Google-backed, not-so-smart city plans for people-centred vision",
+    "url": "https://www.theguardian.com/world/2021/mar/12/toronto-canada-quayside-urban-centre",
+    "upvotes": 158,
+    "author": "mgbmtl",
+    "comments": 123,
+    "link": "https://news.ycombinator.com/item?id=26446157"
+  },
+  {
+    "title": "Show HN: Authenticator by 2Stable – The missing Authenticator app",
+    "url": "https://authenticator.2stable.com",
+    "upvotes": 22,
+    "author": "newkevinarcher",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26446679"
+  },
+  {
+    "title": "Resurrecting Fortran",
+    "url": "https://ondrejcertik.com/blog/2021/03/resurrecting-fortran/",
+    "upvotes": 56,
+    "author": "yomritoyj",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26445438"
+  },
+  {
     "title": "SSL: Stupid Stack Language",
     "url": "https://esolangs.org/wiki/StupidStackLanguage",
-    "upvotes": 64,
+    "upvotes": 65,
     "author": "max_",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26445471"
+  },
+  {
+    "title": "China’s $4k electric cars tap huge market Tesla can’t reach",
+    "url": "https://www.bloomberg.com/news/articles/2021-03-10/cheap-electric-vehicles-in-china-bring-green-transportation-to-the-masses",
+    "upvotes": 72,
+    "author": "pseudolus",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=26422781"
+  },
+  {
+    "title": "Toward Confidential Cloud Computing",
+    "url": "https://queue.acm.org/detail.cfm?id=3456125",
+    "upvotes": 32,
+    "author": "hacksilver",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26446113"
+  },
+  {
+    "title": "Speed of Rust vs. C",
+    "url": "https://kornel.ski/rust-c-speed",
+    "upvotes": 550,
+    "author": "sivizius",
+    "comments": 355,
+    "link": "https://news.ycombinator.com/item?id=26443768"
+  },
+  {
+    "title": "Complex Mapping Visualizer",
+    "url": "https://mabotkin.github.io/complex/",
+    "upvotes": 37,
+    "author": "vector_spaces",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26442418"
   },
   {
     "title": "Printvideo.com",
@@ -156,83 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26420664"
   },
   {
-    "title": "China’s $4k electric cars tap huge market Tesla can’t reach",
-    "url": "https://www.bloomberg.com/news/articles/2021-03-10/cheap-electric-vehicles-in-china-bring-green-transportation-to-the-masses",
-    "upvotes": 68,
-    "author": "pseudolus",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=26422781"
-  },
-  {
-    "title": "Toward Confidential Cloud Computing",
-    "url": "https://queue.acm.org/detail.cfm?id=3456125",
-    "upvotes": 30,
-    "author": "hacksilver",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26446113"
-  },
-  {
-    "title": "Complex Mapping Visualizer",
-    "url": "https://mabotkin.github.io/complex/",
-    "upvotes": 35,
-    "author": "vector_spaces",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26442418"
-  },
-  {
     "title": "Best Practices for BI Dashboards",
     "url": "https://www.metabase.com/learn/building-analytics/dashboards/bi-dashboard-best-practices.html",
-    "upvotes": 29,
+    "upvotes": 35,
     "author": "ReDeiPirati",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26447505"
-  },
-  {
-    "title": "Translating Newton’s Principia",
-    "url": "https://principia.blog/2021/02/02/a-question-of-definitions/",
-    "upvotes": 52,
-    "author": "chesterfield",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26432331"
   },
   {
     "title": "How to convert your old laptop screen into an external monitor",
     "url": "https://www.slashdigit.com/convert-old-laptop-screen-external-monitor/",
-    "upvotes": 282,
+    "upvotes": 285,
     "author": "louwrentius",
     "comments": 104,
     "link": "https://news.ycombinator.com/item?id=26443025"
-  },
-  {
-    "title": "RethinkDB: why we failed",
-    "url": "https://www.defmacro.org/2017/01/18/why-rethinkdb-failed.html",
-    "upvotes": 315,
-    "author": "anhldbk",
-    "comments": 196,
-    "link": "https://news.ycombinator.com/item?id=26443406"
-  },
-  {
-    "title": "Synth Playground",
-    "url": "https://learningsynths.ableton.com/en/playground",
-    "upvotes": 115,
-    "author": "spking",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26429207"
-  },
-  {
-    "title": "Overview of Early Electric Cars",
-    "url": "https://www.lowtechmagazine.com/overview-of-early-electric-cars.html",
-    "upvotes": 47,
-    "author": "rsj_hn",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26422912"
-  },
-  {
-    "title": "Vitalik escalates ETH 2.0 merge as miners plan a 51% attack",
-    "url": "https://our.status.im/vitalik-escalates-eth-2-0-merge-as-miners-plan-a-51-attack/",
-    "upvotes": 430,
-    "author": "michaelsbradley",
-    "comments": 435,
-    "link": "https://news.ycombinator.com/item?id=26441399"
   }
 ]
