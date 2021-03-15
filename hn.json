@@ -2,23 +2,31 @@
   {
     "title": "Satellite imagery shows Northern California kelp forests have collapsed",
     "url": "https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/",
-    "upvotes": 249,
+    "upvotes": 272,
     "author": "PretzelFisch",
-    "comments": 165,
+    "comments": 183,
     "link": "https://news.ycombinator.com/item?id=26460390"
+  },
+  {
+    "title": "2D Graphics on Modern GPU",
+    "url": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html",
+    "upvotes": 25,
+    "author": "peter_d_sherman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26462348"
   },
   {
     "title": "New Bare Hash Map: 2X-3X Speedup over SOTA",
     "url": "https://github.com/wangyi-fudan/wyhash",
-    "upvotes": 13,
+    "upvotes": 25,
     "author": "wangyi_fudan",
-    "comments": 3,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26462229"
   },
   {
     "title": "Security.txt",
     "url": "https://securitytxt.org/",
-    "upvotes": 599,
+    "upvotes": 610,
     "author": "tosh",
     "comments": 146,
     "link": "https://news.ycombinator.com/item?id=26455493"
@@ -26,213 +34,205 @@
   {
     "title": "LeoCAD 21.03",
     "url": "https://www.leocad.org/",
-    "upvotes": 144,
+    "upvotes": 148,
     "author": "app4soft",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26458863"
   },
   {
+    "title": "Creating an Excel Add-In in D",
+    "url": "https://blog.jonharrington.org/d_excel_addin/",
+    "upvotes": 10,
+    "author": "teleforce",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26462290"
+  },
+  {
     "title": "Why we’re removing comments on most of Inquirer.com",
     "url": "https://www.inquirer.com/about/philadelphia-inquirer-comments-section-changes-20210201.html",
-    "upvotes": 83,
+    "upvotes": 91,
     "author": "mellosouls",
-    "comments": 155,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=26460238"
-  },
-  {
-    "title": "Narco Submarine Found in Spain",
-    "url": "http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html",
-    "upvotes": 84,
-    "author": "homarp",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26459633"
-  },
-  {
-    "title": "2D Graphics on Modern GPU",
-    "url": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html",
-    "upvotes": 5,
-    "author": "peter_d_sherman",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26462348"
-  },
-  {
-    "title": "A developers guide to HIPAA compliance",
-    "url": "https://github.com/truevault/hipaa-compliance-developers-guide",
-    "upvotes": 83,
-    "author": "swyx",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26458852"
   },
   {
     "title": "How to Read ARM64 Assembly Language",
     "url": "https://wolchok.org/posts/how-to-read-arm64-assembly-language/",
-    "upvotes": 24,
+    "upvotes": 35,
     "author": "chmaynard",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26461054"
   },
   {
-    "title": "Ketchup is a non-Newtonian fluid",
-    "url": "https://www.scientificamerican.com/article/ketchup-is-not-just-a-condiment-it-is-also-a-non-newtonian-fluid/",
-    "upvotes": 76,
-    "author": "pseudolus",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26445980"
+    "title": "Narco Submarine Found in Spain",
+    "url": "http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html",
+    "upvotes": 89,
+    "author": "homarp",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=26459633"
   },
   {
-    "title": "The School of Wirth",
-    "url": "http://pascal.hansotten.com/",
-    "upvotes": 68,
-    "author": "gjvc",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26458606"
+    "title": "A developers guide to HIPAA compliance",
+    "url": "https://github.com/truevault/hipaa-compliance-developers-guide",
+    "upvotes": 93,
+    "author": "swyx",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26458852"
   },
   {
     "title": "Build your own “data lake” for reporting purposes",
     "url": "https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/",
-    "upvotes": 47,
+    "upvotes": 55,
     "author": "Signez",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26446207"
   },
   {
-    "title": "Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?",
-    "url": "https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac",
-    "upvotes": 340,
-    "author": "personjerry",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=26459184"
+    "title": "The School of Wirth",
+    "url": "http://pascal.hansotten.com/",
+    "upvotes": 69,
+    "author": "gjvc",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26458606"
   },
   {
     "title": "A flexible and durable “electronic” fabric that can be used as a display",
     "url": "https://www.shine.cn/news/metro/2103115812/",
-    "upvotes": 113,
+    "upvotes": 118,
     "author": "sjreese",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26446340"
   },
   {
-    "title": "EBPFSnitch: An eBPF based Linux Application Firewall",
-    "url": "https://github.com/harporoeder/ebpfsnitch",
-    "upvotes": 260,
-    "author": "harporoeder",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26455058"
+    "title": "Ketchup is a non-Newtonian fluid",
+    "url": "https://www.scientificamerican.com/article/ketchup-is-not-just-a-condiment-it-is-also-a-non-newtonian-fluid/",
+    "upvotes": 79,
+    "author": "pseudolus",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26445980"
+  },
+  {
+    "title": "Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?",
+    "url": "https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac",
+    "upvotes": 348,
+    "author": "personjerry",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=26459184"
   },
   {
     "title": "The Waste of Daylight",
     "url": "https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/the-waste-of-daylight/",
-    "upvotes": 26,
+    "upvotes": 27,
     "author": "Hooke",
-    "comments": 60,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26455988"
-  },
-  {
-    "title": "What If You Could Describe Your Dreams While Dreaming?",
-    "url": "https://nautil.us/issue/98/mind/what-if-you-could-describe-your-dreams-while-dreaming",
-    "upvotes": 6,
-    "author": "dnetesn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26446442"
   },
   {
     "title": "The power of imagination, and other parenting lessons from Calvin and Hobbes",
     "url": "https://www.washingtonpost.com/lifestyle/2019/04/05/power-imagination-other-parenting-lessons-calvin-hobbes/",
-    "upvotes": 67,
+    "upvotes": 73,
     "author": "thunderbong",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26444521"
+  },
+  {
+    "title": "Al Jaffee turns 100, and Mad magazine salutes its legendary artist",
+    "url": "https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/",
+    "upvotes": 30,
+    "author": "drfuchs",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26461739"
+  },
+  {
+    "title": "Writing Pong in Rust for My OS Written in Rust",
+    "url": "https://blog.stephenmarz.com/2021/02/22/writing-pong-in-rust/",
+    "upvotes": 3,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26445081"
+  },
+  {
+    "title": "Atari 800XL PCB Remake",
+    "url": "https://ezcontents.org/atari-800xl-pcb-remake",
+    "upvotes": 73,
+    "author": "mariuz",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=26456587"
   },
   {
     "title": "AtoB",
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
   },
   {
-    "title": "A Beginner's Guide to Mecha",
-    "url": "https://www.nypl.org/blog/2019/04/04/beginners-guide-mecha-manga-anime",
-    "upvotes": 50,
-    "author": "rustoo",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26458377"
-  },
-  {
-    "title": "Atari 800XL PCB Remake",
-    "url": "https://ezcontents.org/atari-800xl-pcb-remake",
-    "upvotes": 72,
-    "author": "mariuz",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26456587"
-  },
-  {
     "title": "Blender website under maintenance due to hacking attempt",
     "url": "https://twitter.com/Blender/status/1371273322399404038",
-    "upvotes": 6,
+    "upvotes": 15,
     "author": "funkaster",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26462305"
+  },
+  {
+    "title": "What If You Could Describe Your Dreams While Dreaming?",
+    "url": "https://nautil.us/issue/98/mind/what-if-you-could-describe-your-dreams-while-dreaming",
+    "upvotes": 9,
+    "author": "dnetesn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26446442"
   },
   {
     "title": "The Part Time Creator Manifesto",
     "url": "https://www.swyx.io/part-time-creator-manifesto/",
-    "upvotes": 17,
+    "upvotes": 27,
     "author": "sebg",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26461938"
   },
   {
-    "title": "Al Jaffee turns 100, and Mad magazine salutes its legendary artist",
-    "url": "https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/",
-    "upvotes": 18,
-    "author": "drfuchs",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26461739"
-  },
-  {
     "title": "Did an Irish Monk 'Discover' America?",
     "url": "https://www.history.com/.amp/news/did-an-irish-monk-discover-america",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "ptidhomme",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26458771"
-  },
-  {
-    "title": "Stripe valuation soars to $95B after latest fundraising",
-    "url": "https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f",
-    "upvotes": 136,
-    "author": "minimaxir",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=26459258"
   },
   {
     "title": "Canadian Hydrogen Intensity Mapping Experiment",
     "url": "https://en.wikipedia.org/wiki/Canadian_Hydrogen_Intensity_Mapping_Experiment",
-    "upvotes": 9,
+    "upvotes": 13,
     "author": "luu",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26453708"
   },
   {
     "title": "The odd couple: John Keats and F. Scott Fitzgerald",
     "url": "https://www.spectator.co.uk/article/the-odd-couple-john-keats-and-f-scott-fitzgerald",
-    "upvotes": 8,
+    "upvotes": 9,
     "author": "apollinaire",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26448671"
   },
   {
+    "title": "Stripe valuation soars to $95B after latest fundraising",
+    "url": "https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f",
+    "upvotes": 138,
+    "author": "minimaxir",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=26459258"
+  },
+  {
     "title": "SpaceX delivers 3rd batch of Starlink satellites in two weeks",
     "url": "https://techcrunch.com/2021/03/14/spacex-flies-falcon-9-rocket-booster-for-a-record-9th-time-delivers-3rd-batch-of-starlink-satellites-in-two-weeks/",
-    "upvotes": 205,
+    "upvotes": 211,
     "author": "scottbucks",
-    "comments": 285,
+    "comments": 291,
     "link": "https://news.ycombinator.com/item?id=26457128"
   },
   {
     "title": "In the Vicinity of Genius",
     "url": "https://www.thenation.com/article/culture/robert-fulford-glenn-gould/",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "tintinnabula",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26452583"
   }
 ]
