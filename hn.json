@@ -2,39 +2,47 @@
   {
     "title": "Satellite imagery shows Northern California kelp forests have collapsed",
     "url": "https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/",
-    "upvotes": 395,
+    "upvotes": 413,
     "author": "PretzelFisch",
-    "comments": 241,
+    "comments": 249,
     "link": "https://news.ycombinator.com/item?id=26460390"
   },
   {
     "title": "2D Graphics on Modern GPU",
     "url": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html",
-    "upvotes": 77,
+    "upvotes": 84,
     "author": "peter_d_sherman",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26462348"
   },
   {
     "title": "Software engineers make the best CEOs, at least when measured by market cap",
     "url": "https://iism.org/article/so-why-are-software-engineers-better-ceos-60",
-    "upvotes": 102,
+    "upvotes": 117,
     "author": "replyifuagree",
-    "comments": 46,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26462443"
   },
   {
     "title": "Al Jaffee turns 100",
     "url": "https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/",
-    "upvotes": 69,
+    "upvotes": 71,
     "author": "drfuchs",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26461739"
   },
   {
+    "title": "Generate Complete Sets of Serial Numbers for OS X-KVM, Docker-OS X, OpenCore",
+    "url": "https://github.com/sickcodes/osx-serial-generator",
+    "upvotes": 9,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26463273"
+  },
+  {
     "title": "Writing Pong in Rust for My OS Written in Rust",
     "url": "https://blog.stephenmarz.com/2021/02/22/writing-pong-in-rust/",
-    "upvotes": 51,
+    "upvotes": 58,
     "author": "lukastyrychtr",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26445081"
@@ -42,9 +50,9 @@
   {
     "title": "Creating an Excel Add-In in D",
     "url": "https://blog.jonharrington.org/d_excel_addin/",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "teleforce",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26462290"
   },
   {
@@ -52,73 +60,57 @@
     "url": "https://raycast.com/jobs"
   },
   {
-    "title": "Generate Complete Sets of Serial Numbers for OS X-KVM, Docker-OS X, OpenCore",
-    "url": "https://github.com/sickcodes/osx-serial-generator",
-    "upvotes": 4,
-    "author": "giuliomagnifico",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26463273"
-  },
-  {
     "title": "How to Read ARM64 Assembly Language",
     "url": "https://wolchok.org/posts/how-to-read-arm64-assembly-language/",
-    "upvotes": 77,
+    "upvotes": 78,
     "author": "chmaynard",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26461054"
-  },
-  {
-    "title": "Why we’re removing comments on most of Inquirer.com",
-    "url": "https://www.inquirer.com/about/philadelphia-inquirer-comments-section-changes-20210201.html",
-    "upvotes": 130,
-    "author": "mellosouls",
-    "comments": 210,
-    "link": "https://news.ycombinator.com/item?id=26460238"
   },
   {
     "title": "LeoCAD 21.03",
     "url": "https://www.leocad.org/",
-    "upvotes": 173,
+    "upvotes": 180,
     "author": "app4soft",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26458863"
   },
   {
-    "title": "New Bare Hash Map: 2X-3X Speedup over SOTA",
-    "url": "https://github.com/wangyi-fudan/wyhash",
-    "upvotes": 44,
-    "author": "wangyi_fudan",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26462229"
-  },
-  {
-    "title": "Facebook has 10k engineers working on AR/VR",
-    "url": "https://www.makeuseof.com/facebook-ar-vr-development/",
-    "upvotes": 34,
-    "author": "onion2k",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26463022"
-  },
-  {
     "title": "IPFS Local Offline Collaboration Sig",
     "url": "https://blog.fission.codes/ipfs-local-offline-collaboration-sig/",
-    "upvotes": 15,
+    "upvotes": 21,
     "author": "allenleein",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26462597"
   },
   {
-    "title": "Legislative Performance Futures – Incentivize Good Laws by Monetizing the Future",
-    "url": "https://bpodgursky.com/2021/03/15/legislative-performance-futures-incentivize-good-laws-by-monetizing-the-verdict-of-history/",
-    "upvotes": 14,
-    "author": "bpodgursky",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26462673"
+    "title": "Why we’re removing comments on most of Inquirer.com",
+    "url": "https://www.inquirer.com/about/philadelphia-inquirer-comments-section-changes-20210201.html",
+    "upvotes": 135,
+    "author": "mellosouls",
+    "comments": 220,
+    "link": "https://news.ycombinator.com/item?id=26460238"
+  },
+  {
+    "title": "New Bare Hash Map: 2X-3X Speedup over SOTA",
+    "url": "https://github.com/wangyi-fudan/wyhash",
+    "upvotes": 47,
+    "author": "wangyi_fudan",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26462229"
+  },
+  {
+    "title": "Facebook has 10k engineers working on AR/VR",
+    "url": "https://www.makeuseof.com/facebook-ar-vr-development/",
+    "upvotes": 44,
+    "author": "onion2k",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26463022"
   },
   {
     "title": "A developers guide to HIPAA compliance",
     "url": "https://github.com/truevault/hipaa-compliance-developers-guide",
-    "upvotes": 134,
+    "upvotes": 139,
     "author": "swyx",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26458852"
@@ -126,73 +118,89 @@
   {
     "title": "Swap Curve Fitting",
     "url": "https://colab.research.google.com/github/google/tf-quant-finance/blob/master/tf_quant_finance/examples/jupyter_notebooks/Swap_Curve_Fitting.ipynb",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "thrower",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26454683"
   },
   {
+    "title": "Spain to launch modest trial of four-day working week",
+    "url": "https://www.theguardian.com/world/2021/mar/15/spain-to-launch-trial-of-four-day-working-week",
+    "upvotes": 16,
+    "author": "fireinsnow",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26463247"
+  },
+  {
     "title": "Build your own “data lake” for reporting purposes",
     "url": "https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "Signez",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26446207"
   },
   {
+    "title": "Legislative Performance Futures – Incentivize Good Laws by Monetizing the Future",
+    "url": "https://bpodgursky.com/2021/03/15/legislative-performance-futures-incentivize-good-laws-by-monetizing-the-verdict-of-history/",
+    "upvotes": 14,
+    "author": "bpodgursky",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26462673"
+  },
+  {
+    "title": "Narco Submarine Found in Spain",
+    "url": "http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html",
+    "upvotes": 124,
+    "author": "homarp",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26459633"
+  },
+  {
     "title": "Ketchup is a non-Newtonian fluid",
     "url": "https://www.scientificamerican.com/article/ketchup-is-not-just-a-condiment-it-is-also-a-non-newtonian-fluid/",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "pseudolus",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26445980"
   },
   {
     "title": "The School of Wirth",
     "url": "http://pascal.hansotten.com/",
-    "upvotes": 82,
+    "upvotes": 83,
     "author": "gjvc",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26458606"
   },
   {
     "title": "A flexible and durable “electronic” fabric that can be used as a display",
     "url": "https://www.shine.cn/news/metro/2103115812/",
-    "upvotes": 129,
+    "upvotes": 130,
     "author": "sjreese",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26446340"
   },
   {
-    "title": "Narco Submarine Found in Spain",
-    "url": "http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html",
-    "upvotes": 116,
-    "author": "homarp",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26459633"
+    "title": "Security.txt",
+    "url": "https://securitytxt.org/",
+    "upvotes": 640,
+    "author": "tosh",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=26455493"
   },
   {
     "title": "Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?",
     "url": "https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac",
-    "upvotes": 396,
+    "upvotes": 404,
     "author": "personjerry",
-    "comments": 102,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=26459184"
-  },
-  {
-    "title": "Security.txt",
-    "url": "https://securitytxt.org/",
-    "upvotes": 637,
-    "author": "tosh",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=26455493"
   },
   {
     "title": "The Waste of Daylight",
     "url": "https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/the-waste-of-daylight/",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "Hooke",
-    "comments": 110,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=26455988"
   },
   {
@@ -200,39 +208,31 @@
     "url": "https://www.nybooks.com/articles/2021/03/25/philosophy-an-art-jonathan-ree-witcraft/",
     "upvotes": 52,
     "author": "diodorus",
-    "comments": 89,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26456223"
-  },
-  {
-    "title": "Spain to launch modest trial of four-day working week",
-    "url": "https://www.theguardian.com/world/2021/mar/15/spain-to-launch-trial-of-four-day-working-week",
-    "upvotes": 5,
-    "author": "fireinsnow",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26463247"
   },
   {
     "title": "The power of imagination, and other parenting lessons from Calvin and Hobbes",
     "url": "https://www.washingtonpost.com/lifestyle/2019/04/05/power-imagination-other-parenting-lessons-calvin-hobbes/",
-    "upvotes": 90,
+    "upvotes": 92,
     "author": "thunderbong",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26444521"
   },
   {
-    "title": "Atari 800XL PCB Remake",
-    "url": "https://ezcontents.org/atari-800xl-pcb-remake",
-    "upvotes": 77,
-    "author": "mariuz",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26456587"
-  },
-  {
     "title": "Trader Joe’s $2 wine became a best-seller",
     "url": "https://thehustle.co/how-trader-joes-2-wine-became-a-best-seller/",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "rmason",
-    "comments": 21,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26458646"
+  },
+  {
+    "title": "A Beginner's Guide to Mecha",
+    "url": "https://www.nypl.org/blog/2019/04/04/beginners-guide-mecha-manga-anime",
+    "upvotes": 57,
+    "author": "rustoo",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26458377"
   }
 ]
