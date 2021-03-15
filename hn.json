@@ -2,23 +2,31 @@
   {
     "title": "Satellite imagery shows Northern California kelp forests have collapsed",
     "url": "https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/",
-    "upvotes": 234,
+    "upvotes": 249,
     "author": "PretzelFisch",
-    "comments": 148,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=26460390"
+  },
+  {
+    "title": "New Bare Hash Map: 2X-3X Speedup over SOTA",
+    "url": "https://github.com/wangyi-fudan/wyhash",
+    "upvotes": 13,
+    "author": "wangyi_fudan",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26462229"
   },
   {
     "title": "Security.txt",
     "url": "https://securitytxt.org/",
-    "upvotes": 594,
+    "upvotes": 599,
     "author": "tosh",
-    "comments": 143,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=26455493"
   },
   {
     "title": "LeoCAD 21.03",
     "url": "https://www.leocad.org/",
-    "upvotes": 141,
+    "upvotes": 144,
     "author": "app4soft",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26458863"
@@ -26,110 +34,126 @@
   {
     "title": "Why we’re removing comments on most of Inquirer.com",
     "url": "https://www.inquirer.com/about/philadelphia-inquirer-comments-section-changes-20210201.html",
-    "upvotes": 80,
+    "upvotes": 83,
     "author": "mellosouls",
-    "comments": 139,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=26460238"
   },
   {
     "title": "Narco Submarine Found in Spain",
     "url": "http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html",
-    "upvotes": 79,
+    "upvotes": 84,
     "author": "homarp",
-    "comments": 42,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26459633"
   },
   {
-    "title": "New Bare Hash Map: 2X-3X Speedup over SOTA",
-    "url": "https://github.com/wangyi-fudan/wyhash",
-    "upvotes": 3,
-    "author": "wangyi_fudan",
+    "title": "2D Graphics on Modern GPU",
+    "url": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html",
+    "upvotes": 5,
+    "author": "peter_d_sherman",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26462229"
-  },
-  {
-    "title": "The School of Wirth",
-    "url": "http://pascal.hansotten.com/",
-    "upvotes": 67,
-    "author": "gjvc",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26458606"
-  },
-  {
-    "title": "Ketchup is a non-Newtonian fluid",
-    "url": "https://www.scientificamerican.com/article/ketchup-is-not-just-a-condiment-it-is-also-a-non-newtonian-fluid/",
-    "upvotes": 75,
-    "author": "pseudolus",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26445980"
-  },
-  {
-    "title": "Build your own “data lake” for reporting purposes",
-    "url": "https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/",
-    "upvotes": 46,
-    "author": "Signez",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26446207"
+    "link": "https://news.ycombinator.com/item?id=26462348"
   },
   {
     "title": "A developers guide to HIPAA compliance",
     "url": "https://github.com/truevault/hipaa-compliance-developers-guide",
-    "upvotes": 76,
+    "upvotes": 83,
     "author": "swyx",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26458852"
-  },
-  {
-    "title": "Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?",
-    "url": "https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac",
-    "upvotes": 331,
-    "author": "personjerry",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=26459184"
-  },
-  {
-    "title": "A flexible and durable “electronic” fabric that can be used as a display",
-    "url": "https://www.shine.cn/news/metro/2103115812/",
-    "upvotes": 109,
-    "author": "sjreese",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26446340"
   },
   {
     "title": "How to Read ARM64 Assembly Language",
     "url": "https://wolchok.org/posts/how-to-read-arm64-assembly-language/",
-    "upvotes": 13,
+    "upvotes": 24,
     "author": "chmaynard",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26461054"
   },
   {
+    "title": "Ketchup is a non-Newtonian fluid",
+    "url": "https://www.scientificamerican.com/article/ketchup-is-not-just-a-condiment-it-is-also-a-non-newtonian-fluid/",
+    "upvotes": 76,
+    "author": "pseudolus",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26445980"
+  },
+  {
+    "title": "The School of Wirth",
+    "url": "http://pascal.hansotten.com/",
+    "upvotes": 68,
+    "author": "gjvc",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26458606"
+  },
+  {
+    "title": "Build your own “data lake” for reporting purposes",
+    "url": "https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/",
+    "upvotes": 47,
+    "author": "Signez",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26446207"
+  },
+  {
+    "title": "Why are tar.xz files 15x smaller when using Python's tar compared to macOS tar?",
+    "url": "https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac",
+    "upvotes": 340,
+    "author": "personjerry",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=26459184"
+  },
+  {
+    "title": "A flexible and durable “electronic” fabric that can be used as a display",
+    "url": "https://www.shine.cn/news/metro/2103115812/",
+    "upvotes": 113,
+    "author": "sjreese",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26446340"
+  },
+  {
     "title": "EBPFSnitch: An eBPF based Linux Application Firewall",
     "url": "https://github.com/harporoeder/ebpfsnitch",
-    "upvotes": 258,
+    "upvotes": 260,
     "author": "harporoeder",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26455058"
   },
   {
-    "title": "The power of imagination, and other parenting lessons from Calvin and Hobbes",
-    "url": "https://www.washingtonpost.com/lifestyle/2019/04/05/power-imagination-other-parenting-lessons-calvin-hobbes/",
-    "upvotes": 65,
-    "author": "thunderbong",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26444521"
+    "title": "The Waste of Daylight",
+    "url": "https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/the-waste-of-daylight/",
+    "upvotes": 26,
+    "author": "Hooke",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26455988"
   },
   {
-    "title": "A Beginner's Guide to Mecha",
-    "url": "https://www.nypl.org/blog/2019/04/04/beginners-guide-mecha-manga-anime",
-    "upvotes": 48,
-    "author": "rustoo",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26458377"
+    "title": "What If You Could Describe Your Dreams While Dreaming?",
+    "url": "https://nautil.us/issue/98/mind/what-if-you-could-describe-your-dreams-while-dreaming",
+    "upvotes": 6,
+    "author": "dnetesn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26446442"
+  },
+  {
+    "title": "The power of imagination, and other parenting lessons from Calvin and Hobbes",
+    "url": "https://www.washingtonpost.com/lifestyle/2019/04/05/power-imagination-other-parenting-lessons-calvin-hobbes/",
+    "upvotes": 67,
+    "author": "thunderbong",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26444521"
   },
   {
     "title": "AtoB",
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
+  },
+  {
+    "title": "A Beginner's Guide to Mecha",
+    "url": "https://www.nypl.org/blog/2019/04/04/beginners-guide-mecha-manga-anime",
+    "upvotes": 50,
+    "author": "rustoo",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26458377"
   },
   {
     "title": "Atari 800XL PCB Remake",
@@ -140,28 +164,44 @@
     "link": "https://news.ycombinator.com/item?id=26456587"
   },
   {
-    "title": "What If You Could Describe Your Dreams While Dreaming?",
-    "url": "https://nautil.us/issue/98/mind/what-if-you-could-describe-your-dreams-while-dreaming",
-    "upvotes": 3,
-    "author": "dnetesn",
+    "title": "Blender website under maintenance due to hacking attempt",
+    "url": "https://twitter.com/Blender/status/1371273322399404038",
+    "upvotes": 6,
+    "author": "funkaster",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26446442"
-  },
-  {
-    "title": "Al Jaffee turns 100, and Mad magazine salutes its legendary artist",
-    "url": "https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/",
-    "upvotes": 14,
-    "author": "drfuchs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26461739"
+    "link": "https://news.ycombinator.com/item?id=26462305"
   },
   {
     "title": "The Part Time Creator Manifesto",
     "url": "https://www.swyx.io/part-time-creator-manifesto/",
-    "upvotes": 11,
+    "upvotes": 17,
     "author": "sebg",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26461938"
+  },
+  {
+    "title": "Al Jaffee turns 100, and Mad magazine salutes its legendary artist",
+    "url": "https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/",
+    "upvotes": 18,
+    "author": "drfuchs",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26461739"
+  },
+  {
+    "title": "Did an Irish Monk 'Discover' America?",
+    "url": "https://www.history.com/.amp/news/did-an-irish-monk-discover-america",
+    "upvotes": 27,
+    "author": "ptidhomme",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26458771"
+  },
+  {
+    "title": "Stripe valuation soars to $95B after latest fundraising",
+    "url": "https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f",
+    "upvotes": 136,
+    "author": "minimaxir",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=26459258"
   },
   {
     "title": "Canadian Hydrogen Intensity Mapping Experiment",
@@ -172,14 +212,6 @@
     "link": "https://news.ycombinator.com/item?id=26453708"
   },
   {
-    "title": "Did an Irish Monk 'Discover' America?",
-    "url": "https://www.history.com/.amp/news/did-an-irish-monk-discover-america",
-    "upvotes": 25,
-    "author": "ptidhomme",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26458771"
-  },
-  {
     "title": "The odd couple: John Keats and F. Scott Fitzgerald",
     "url": "https://www.spectator.co.uk/article/the-odd-couple-john-keats-and-f-scott-fitzgerald",
     "upvotes": 8,
@@ -188,12 +220,12 @@
     "link": "https://news.ycombinator.com/item?id=26448671"
   },
   {
-    "title": "Stripe valuation soars to $95B after latest fundraising",
-    "url": "https://www.ft.com/content/b9949a88-6c09-4de5-92e7-73994bb2b62f",
-    "upvotes": 132,
-    "author": "minimaxir",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=26459258"
+    "title": "SpaceX delivers 3rd batch of Starlink satellites in two weeks",
+    "url": "https://techcrunch.com/2021/03/14/spacex-flies-falcon-9-rocket-booster-for-a-record-9th-time-delivers-3rd-batch-of-starlink-satellites-in-two-weeks/",
+    "upvotes": 205,
+    "author": "scottbucks",
+    "comments": 285,
+    "link": "https://news.ycombinator.com/item?id=26457128"
   },
   {
     "title": "In the Vicinity of Genius",
@@ -202,37 +234,5 @@
     "author": "tintinnabula",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26452583"
-  },
-  {
-    "title": "SpaceX delivers 3rd batch of Starlink satellites in two weeks",
-    "url": "https://techcrunch.com/2021/03/14/spacex-flies-falcon-9-rocket-booster-for-a-record-9th-time-delivers-3rd-batch-of-starlink-satellites-in-two-weeks/",
-    "upvotes": 201,
-    "author": "scottbucks",
-    "comments": 279,
-    "link": "https://news.ycombinator.com/item?id=26457128"
-  },
-  {
-    "title": "Reprojecting the Perseverance landing footage onto satellite imagery",
-    "url": "https://matthewearl.github.io/2021/03/06/mars2020-reproject/",
-    "upvotes": 581,
-    "author": "bmease",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26452504"
-  },
-  {
-    "title": "Refund of pre-installed Windows: Lenovo must pay 20k euros in damages",
-    "url": "https://fsfe.org/news/2021/news-20210302-01.html",
-    "upvotes": 213,
-    "author": "rendx",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=26456524"
-  },
-  {
-    "title": "Spaceship Earth",
-    "url": "https://en.wikipedia.org/wiki/Spaceship_Earth",
-    "upvotes": 119,
-    "author": "happy-go-lucky",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26457233"
   }
 ]
