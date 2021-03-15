@@ -1,172 +1,196 @@
 [
   {
+    "title": "WeLeakInfo Leaked Customer Payment Info",
+    "url": "https://krebsonsecurity.com/2021/03/weleakinfo-leaked-customer-payment-info/",
+    "upvotes": 26,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26465648"
+  },
+  {
     "title": "The OODA Loop: How Fighter Pilots Make Fast and Accurate Decisions",
     "url": "https://fs.blog/2021/03/ooda-loop/",
-    "upvotes": 42,
+    "upvotes": 77,
     "author": "feross",
-    "comments": 16,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26465766"
   },
   {
-    "title": "Performance comparison: counting words in Python, Go, C++, C, Awk, Forth, Rust",
-    "url": "https://benhoyt.com/writings/count-words/",
-    "upvotes": 242,
-    "author": "benhoyt",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=26463967"
-  },
-  {
-    "title": "Amazon S3’s 15th Birthday: 5,475 Days and 100T Objects",
-    "url": "https://aws.amazon.com/blogs/aws/amazon-s3s-15th-birthday-it-is-still-day-1-after-5475-days-100-trillion-objects/",
-    "upvotes": 12,
-    "author": "yarapavan",
+    "title": "Show HN: Create your own cellular automata",
+    "url": "http://aperocky.com/cellular-automata/",
+    "upvotes": 6,
+    "author": "Aperocky",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26466338"
+    "link": "https://news.ycombinator.com/item?id=26466275"
   },
   {
-    "title": "Low Power-High Performance: Design for Reliability",
+    "title": "Design For Reliability",
     "url": "https://semiengineering.com/design-for-reliability-2/",
-    "upvotes": 19,
+    "upvotes": 22,
     "author": "bryanrasmussen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26453177"
   },
   {
+    "title": "Show HN: Create your own codecademy-style lessons",
+    "url": "https://codeamigo.dev",
+    "upvotes": 35,
+    "author": "plondon514",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26464998"
+  },
+  {
     "title": "Facebook's GDPR consent bypass reaches Austrian Supreme Court",
     "url": "https://noyb.eu/en/facebooks-gdpr-bypass-reaches-austrian-supreme-court",
-    "upvotes": 150,
+    "upvotes": 172,
     "author": "input_sh",
-    "comments": 45,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26464547"
   },
   {
     "title": "Im2Vec: Synthesizing Vector Graphics Without Vector Supervision",
     "url": "https://arxiv.org/abs/2102.02798",
-    "upvotes": 54,
+    "upvotes": 56,
     "author": "tomduncalf",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26463746"
+  },
+  {
+    "title": "Performance comparison: counting words in Python, Go, C++, C, Awk, Forth, Rust",
+    "url": "https://benhoyt.com/writings/count-words/",
+    "upvotes": 264,
+    "author": "benhoyt",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=26463967"
+  },
+  {
+    "title": "Amazon S3’s 15th Birthday: 5,475 Days and 100T Objects",
+    "url": "https://aws.amazon.com/blogs/aws/amazon-s3s-15th-birthday-it-is-still-day-1-after-5475-days-100-trillion-objects/",
+    "upvotes": 67,
+    "author": "yarapavan",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26466338"
+  },
+  {
+    "title": "No Us Without You: elifdef and elifndef",
+    "url": "https://thephd.github.io/no-us-without-you-elifdef-elifndef-c-n2645",
+    "upvotes": 9,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26444598"
   },
   {
     "title": "Gitlab.com is experiencing elevated error rates for Git, Web, and API",
     "url": "https://status.gitlab.com/",
-    "upvotes": 94,
+    "upvotes": 98,
     "author": "kaeruct",
-    "comments": 71,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26464726"
-  },
-  {
-    "title": "Show HN: Create your own codecademy-style lessons",
-    "url": "https://codeamigo.dev",
-    "upvotes": 26,
-    "author": "plondon514",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26464998"
-  },
-  {
-    "title": "2D Graphics on Modern GPU",
-    "url": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html",
-    "upvotes": 147,
-    "author": "peter_d_sherman",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26462348"
   },
   {
     "title": "Smarking",
     "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"
   },
   {
-    "title": "Why are so many successful CEOs software engineers?",
-    "url": "https://iism.org/article/so-why-are-software-engineers-better-ceos-60",
-    "upvotes": 311,
-    "author": "replyifuagree",
-    "comments": 229,
-    "link": "https://news.ycombinator.com/item?id=26462443"
+    "title": "2D Graphics on Modern GPU",
+    "url": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html",
+    "upvotes": 148,
+    "author": "peter_d_sherman",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=26462348"
+  },
+  {
+    "title": "REST vs GraphQL vs gRPC",
+    "url": "https://www.danhacks.com/software/grpc-rest-graphql.html",
+    "upvotes": 12,
+    "author": "gibbonsd1",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26466592"
+  },
+  {
+    "title": "Scrollycoding – A new way to write code walkthroughs [video]",
+    "url": "https://www.youtube.com/watch?v=7O2b7vfk-mo",
+    "upvotes": 15,
+    "author": "pomber",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26466474"
   },
   {
     "title": "The FBI Should Stop Attacking Encryption",
     "url": "https://www.eff.org/deeplinks/2021/03/fbi-should-stop-attacking-encryption-and-tell-congress-about-all-encrypted-phones",
-    "upvotes": 233,
+    "upvotes": 252,
     "author": "KubikPixel",
-    "comments": 62,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26463446"
   },
   {
-    "title": "Wormhole-GUI v2.2.0 has been released",
-    "url": "https://github.com/Jacalz/wormhole-gui/releases/tag/v2.2.0",
-    "upvotes": 7,
-    "author": "Jacalz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26465854"
-  },
-  {
-    "title": "No Us Without You: elifdef and elifndef",
-    "url": "https://thephd.github.io/no-us-without-you-elifdef-elifndef-c-n2645",
-    "upvotes": 5,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26444598"
+    "title": "Why are so many successful founding CEOs software engineers?",
+    "url": "https://iism.org/article/so-why-are-software-engineers-better-ceos-60",
+    "upvotes": 319,
+    "author": "replyifuagree",
+    "comments": 243,
+    "link": "https://news.ycombinator.com/item?id=26462443"
   },
   {
     "title": "Al Jaffee turns 100",
     "url": "https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/",
-    "upvotes": 109,
+    "upvotes": 115,
     "author": "drfuchs",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26461739"
   },
   {
     "title": "Satellite imagery shows Northern California kelp forests have collapsed",
     "url": "https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/",
-    "upvotes": 574,
+    "upvotes": 582,
     "author": "PretzelFisch",
-    "comments": 360,
+    "comments": 365,
     "link": "https://news.ycombinator.com/item?id=26460390"
-  },
-  {
-    "title": "HN Frontpage ranked using only votes from early users",
-    "url": "https://news.ycombinator.com/classic",
-    "upvotes": 174,
-    "author": "ibraheemdev",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26465569"
-  },
-  {
-    "title": "WeLeakInfo Leaked Customer Payment Info",
-    "url": "https://krebsonsecurity.com/2021/03/weleakinfo-leaked-customer-payment-info/",
-    "upvotes": 5,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26465648"
   },
   {
     "title": "How to Read ARM64 Assembly Language",
     "url": "https://wolchok.org/posts/how-to-read-arm64-assembly-language/",
-    "upvotes": 129,
+    "upvotes": 133,
     "author": "chmaynard",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26461054"
+  },
+  {
+    "title": "Wormhole-GUI 2.2",
+    "url": "https://github.com/Jacalz/wormhole-gui/releases/tag/v2.2.0",
+    "upvotes": 14,
+    "author": "Jacalz",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26465854"
   },
   {
     "title": "Writing Pong in Rust for My OS Written in Rust",
     "url": "https://blog.stephenmarz.com/2021/02/22/writing-pong-in-rust/",
-    "upvotes": 118,
+    "upvotes": 121,
     "author": "lukastyrychtr",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26445081"
   },
   {
     "title": "IPFS Local Offline Collaboration Sig",
     "url": "https://blog.fission.codes/ipfs-local-offline-collaboration-sig/",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "allenleein",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26462597"
   },
   {
+    "title": "HN Frontpage ranked using only votes from early users",
+    "url": "https://news.ycombinator.com/classic",
+    "upvotes": 178,
+    "author": "ibraheemdev",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=26465569"
+  },
+  {
     "title": "Creating an Excel Add-In in D",
     "url": "https://blog.jonharrington.org/d_excel_addin/",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "teleforce",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26462290"
@@ -174,65 +198,41 @@
   {
     "title": "European Commission English Style Guide [pdf]",
     "url": "https://ec.europa.eu/info/sites/info/files/styleguide_english_dgt_en.pdf",
-    "upvotes": 18,
+    "upvotes": 24,
     "author": "nabla9",
-    "comments": 21,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26465586"
   },
   {
     "title": "Discovering WW1 tunnel of death hidden in France for a century",
     "url": "https://www.bbc.com/news/world-europe-56370510",
-    "upvotes": 70,
+    "upvotes": 78,
     "author": "longdefeat",
-    "comments": 23,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26461946"
-  },
-  {
-    "title": "Sky Global CEO indicted over encrypted chat drug trafficking",
-    "url": "https://www.zdnet.com/article/sky-global-ceo-indicted-over-encrypted-chat-drug-trafficking-claims-erosion-of-right-to-privacy/",
-    "upvotes": 61,
-    "author": "StuntPope",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26464373"
-  },
-  {
-    "title": "Our app was banned because the button says “Report User” and not just “Report”",
-    "url": "https://twitter.com/hermaritz/status/1371383715381805061",
-    "upvotes": 197,
-    "author": "igitur",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=26464111"
   },
   {
     "title": "Legislative Performance Futures – Incentivize Good Laws by Monetizing the Future",
     "url": "https://bpodgursky.com/2021/03/15/legislative-performance-futures-incentivize-good-laws-by-monetizing-the-verdict-of-history/",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "bpodgursky",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26462673"
   },
   {
-    "title": "The Ars Technica System Guide, Spring 2021: Gaming Edition",
-    "url": "https://arstechnica.com/?p=1746706",
-    "upvotes": 21,
-    "author": "feross",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26464816"
+    "title": "A curated list of FOSS tools to improve the Hacker News experience",
+    "url": "https://github.com/bminusl/awesome-hackernews",
+    "upvotes": 5,
+    "author": "bminusl",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26465348"
   },
   {
-    "title": "Is Philosophy an Art?",
-    "url": "https://www.nybooks.com/articles/2021/03/25/philosophy-an-art-jonathan-ree-witcraft/",
-    "upvotes": 79,
-    "author": "diodorus",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26456223"
-  },
-  {
-    "title": "Security.txt",
-    "url": "https://securitytxt.org/",
-    "upvotes": 701,
-    "author": "tosh",
-    "comments": 158,
-    "link": "https://news.ycombinator.com/item?id=26455493"
+    "title": "Our app was banned because the button says “Report User” and not just “Report”",
+    "url": "https://twitter.com/hermaritz/status/1371383715381805061",
+    "upvotes": 207,
+    "author": "igitur",
+    "comments": 144,
+    "link": "https://news.ycombinator.com/item?id=26464111"
   }
 ]
