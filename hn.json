@@ -1,223 +1,215 @@
 [
   {
-    "title": "Gitlab.com is experiencing elevated error rates for Git, Web, and API",
-    "url": "https://status.gitlab.com/",
-    "upvotes": 51,
-    "author": "kaeruct",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26464726"
-  },
-  {
     "title": "Performance comparison: counting words in Python, Go, C++, C, Awk, Forth, Rust",
     "url": "https://benhoyt.com/writings/count-words/",
-    "upvotes": 96,
+    "upvotes": 114,
     "author": "benhoyt",
-    "comments": 42,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26463967"
+  },
+  {
+    "title": "HN Frontpage ranked using only votes from accounts created before Feb 13, 2008",
+    "url": "https://news.ycombinator.com/classic",
+    "upvotes": 8,
+    "author": "ibraheemdev",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26465569"
   },
   {
     "title": "Why are so many successful CEOs software engineers?",
     "url": "https://iism.org/article/so-why-are-software-engineers-better-ceos-60",
-    "upvotes": 262,
+    "upvotes": 269,
     "author": "replyifuagree",
-    "comments": 178,
+    "comments": 191,
     "link": "https://news.ycombinator.com/item?id=26462443"
   },
   {
     "title": "Satellite imagery shows Northern California kelp forests have collapsed",
     "url": "https://www.smithsonianmag.com/smart-news/satellite-imagery-shows-northern-california-kelp-forests-have-collapsed-180977214/",
-    "upvotes": 532,
+    "upvotes": 538,
     "author": "PretzelFisch",
-    "comments": 326,
+    "comments": 332,
     "link": "https://news.ycombinator.com/item?id=26460390"
   },
   {
     "title": "Facebook's GDPR consent bypass reaches Austrian Supreme Court",
     "url": "https://noyb.eu/en/facebooks-gdpr-bypass-reaches-austrian-supreme-court",
-    "upvotes": 55,
+    "upvotes": 82,
     "author": "input_sh",
-    "comments": 9,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26464547"
+  },
+  {
+    "title": "Gitlab.com is experiencing elevated error rates for Git, Web, and API",
+    "url": "https://status.gitlab.com/",
+    "upvotes": 60,
+    "author": "kaeruct",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26464726"
   },
   {
     "title": "2D Graphics on Modern GPU",
     "url": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html",
-    "upvotes": 127,
+    "upvotes": 130,
     "author": "peter_d_sherman",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26462348"
-  },
-  {
-    "title": "Im2Vec: Synthesizing Vector Graphics Without Vector Supervision",
-    "url": "https://arxiv.org/abs/2102.02798",
-    "upvotes": 32,
-    "author": "tomduncalf",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26463746"
   },
   {
     "title": "Smarking",
     "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"
   },
   {
+    "title": "Im2Vec: Synthesizing Vector Graphics Without Vector Supervision",
+    "url": "https://arxiv.org/abs/2102.02798",
+    "upvotes": 35,
+    "author": "tomduncalf",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26463746"
+  },
+  {
     "title": "Al Jaffee turns 100",
     "url": "https://www.washingtonpost.com/arts-entertainment/2021/03/13/al-jaffee-100-mad-magazine/",
-    "upvotes": 100,
+    "upvotes": 102,
     "author": "drfuchs",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26461739"
   },
   {
     "title": "The FBI Should Stop Attacking Encryption",
     "url": "https://www.eff.org/deeplinks/2021/03/fbi-should-stop-attacking-encryption-and-tell-congress-about-all-encrypted-phones",
-    "upvotes": 149,
+    "upvotes": 163,
     "author": "KubikPixel",
-    "comments": 32,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26463446"
   },
   {
     "title": "Telegram App Is Booming, but Needs Advertisers–and $700M Soon",
     "url": "https://www.wsj.com/articles/telegram-app-is-booming-but-needs-advertisersand-700-million-soon-11615806001",
-    "upvotes": 12,
+    "upvotes": 20,
     "author": "kupatrupa",
-    "comments": 21,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26465143"
   },
   {
-    "title": "Writing Pong in Rust for My OS Written in Rust",
-    "url": "https://blog.stephenmarz.com/2021/02/22/writing-pong-in-rust/",
-    "upvotes": 105,
-    "author": "lukastyrychtr",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26445081"
+    "title": "Our app was banned because the button says “Report User” and not just “Report”",
+    "url": "https://twitter.com/hermaritz/status/1371383715381805061",
+    "upvotes": 138,
+    "author": "igitur",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=26464111"
   },
   {
     "title": "Why we’re removing comments on most of Inquirer.com",
     "url": "https://www.inquirer.com/about/philadelphia-inquirer-comments-section-changes-20210201.html",
-    "upvotes": 192,
+    "upvotes": 197,
     "author": "mellosouls",
-    "comments": 298,
+    "comments": 300,
     "link": "https://news.ycombinator.com/item?id=26460238"
+  },
+  {
+    "title": "Writing Pong in Rust for My OS Written in Rust",
+    "url": "https://blog.stephenmarz.com/2021/02/22/writing-pong-in-rust/",
+    "upvotes": 107,
+    "author": "lukastyrychtr",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26445081"
   },
   {
     "title": "IPFS Local Offline Collaboration Sig",
     "url": "https://blog.fission.codes/ipfs-local-offline-collaboration-sig/",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "allenleein",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26462597"
   },
   {
     "title": "How to Read ARM64 Assembly Language",
     "url": "https://wolchok.org/posts/how-to-read-arm64-assembly-language/",
-    "upvotes": 109,
+    "upvotes": 110,
     "author": "chmaynard",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26461054"
   },
   {
-    "title": "Mozilla plans to remove the Compact Density option from Firefox's Customize menu",
-    "url": "https://www.ghacks.net/2021/03/14/mozilla-plans-to-remove-the-compact-density-option-from-firefoxs-customize-menu/",
-    "upvotes": 41,
-    "author": "0x_rs",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26464533"
-  },
-  {
     "title": "Creating an Excel Add-In in D",
     "url": "https://blog.jonharrington.org/d_excel_addin/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "teleforce",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26462290"
   },
   {
-    "title": "Sky Global CEO indicted over encrypted chat drug trafficking",
-    "url": "https://www.zdnet.com/article/sky-global-ceo-indicted-over-encrypted-chat-drug-trafficking-claims-erosion-of-right-to-privacy/",
-    "upvotes": 32,
-    "author": "StuntPope",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26464373"
-  },
-  {
     "title": "Generate Complete Sets of Serial Numbers for OS X-KVM, Docker-OS X, OpenCore",
     "url": "https://github.com/sickcodes/osx-serial-generator",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "giuliomagnifico",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26463273"
   },
   {
-    "title": "Build your own “data lake” for reporting purposes",
-    "url": "https://tech.fretlink.com/build-your-own-data-lake-for-reporting-purposes/",
-    "upvotes": 117,
-    "author": "Signez",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26446207"
-  },
-  {
-    "title": "Our app was banned because the button says “Report User” and not just “Report”",
-    "url": "https://twitter.com/hermaritz/status/1371383715381805061",
-    "upvotes": 121,
-    "author": "igitur",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=26464111"
+    "title": "Sky Global CEO indicted over encrypted chat drug trafficking",
+    "url": "https://www.zdnet.com/article/sky-global-ceo-indicted-over-encrypted-chat-drug-trafficking-claims-erosion-of-right-to-privacy/",
+    "upvotes": 35,
+    "author": "StuntPope",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26464373"
   },
   {
     "title": "New Bare Hash Map: 2X-3X Speedup over SOTA",
     "url": "https://github.com/wangyi-fudan/wyhash",
-    "upvotes": 61,
+    "upvotes": 62,
     "author": "wangyi_fudan",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26462229"
   },
   {
-    "title": "Narco Submarine Found in Spain",
-    "url": "http://www.hisutton.com/Narco-Submarine-Found-In-Spain.html",
-    "upvotes": 159,
-    "author": "homarp",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=26459633"
-  },
-  {
     "title": "Legislative Performance Futures – Incentivize Good Laws by Monetizing the Future",
     "url": "https://bpodgursky.com/2021/03/15/legislative-performance-futures-incentivize-good-laws-by-monetizing-the-verdict-of-history/",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "bpodgursky",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26462673"
   },
   {
+    "title": "Discovering WW1 tunnel of death hidden in France for a century",
+    "url": "https://www.bbc.com/news/world-europe-56370510",
+    "upvotes": 48,
+    "author": "longdefeat",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26461946"
+  },
+  {
     "title": "Security.txt",
     "url": "https://securitytxt.org/",
-    "upvotes": 679,
+    "upvotes": 683,
     "author": "tosh",
     "comments": 157,
     "link": "https://news.ycombinator.com/item?id=26455493"
-  },
-  {
-    "title": "Discovering WW1 tunnel of death hidden in France for a century",
-    "url": "https://www.bbc.com/news/world-europe-56370510",
-    "upvotes": 43,
-    "author": "longdefeat",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26461946"
   },
   {
     "title": "Is Philosophy an Art?",
     "url": "https://www.nybooks.com/articles/2021/03/25/philosophy-an-art-jonathan-ree-witcraft/",
     "upvotes": 68,
     "author": "diodorus",
-    "comments": 112,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26456223"
   },
   {
     "title": "The Waste of Daylight",
     "url": "https://www.nms.ac.uk/explore-our-collections/stories/science-and-technology/the-waste-of-daylight/",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "Hooke",
-    "comments": 174,
+    "comments": 176,
     "link": "https://news.ycombinator.com/item?id=26455988"
+  },
+  {
+    "title": "Swap Curve Fitting",
+    "url": "https://colab.research.google.com/github/google/tf-quant-finance/blob/master/tf_quant_finance/examples/jupyter_notebooks/Swap_Curve_Fitting.ipynb",
+    "upvotes": 26,
+    "author": "thrower",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26454683"
   },
   {
     "title": "The Ars Technica System Guide, Spring 2021: Gaming Edition",
@@ -234,5 +226,13 @@
     "author": "app4soft",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26458863"
+  },
+  {
+    "title": "A developers guide to HIPAA compliance",
+    "url": "https://github.com/truevault/hipaa-compliance-developers-guide",
+    "upvotes": 173,
+    "author": "swyx",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26458852"
   }
 ]
