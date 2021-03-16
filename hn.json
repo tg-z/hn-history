@@ -1,32 +1,48 @@
 [
   {
+    "title": "System76 fully AMD Laptop now available",
+    "url": "https://system76.com/laptops/pangolin?its-the-same-url-but-the-content-has-changed-thank-you",
+    "upvotes": 40,
+    "author": "bananicorn",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26477855"
+  },
+  {
+    "title": "Docker Raises $23M to Increase Developer Velocity",
+    "url": "https://www.docker.com/press-release/Docker-Series-B",
+    "upvotes": 17,
+    "author": "nickjj",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26477999"
+  },
+  {
     "title": "A salt monopoly could spike car accidents in the Midwest",
     "url": "https://mattstoller.substack.com/p/how-a-salt-monopoly-could-spike-car",
-    "upvotes": 157,
+    "upvotes": 172,
     "author": "new_guy",
-    "comments": 169,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=26466113"
   },
   {
     "title": "Java 16",
     "url": "http://jdk.java.net/16/",
-    "upvotes": 122,
+    "upvotes": 168,
     "author": "JCWasmx86",
-    "comments": 73,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=26477144"
   },
   {
     "title": "Euler's Fizzbuzz",
     "url": "http://philcrissman.net/posts/eulers-fizzbuzz/",
-    "upvotes": 99,
+    "upvotes": 113,
     "author": "koevet",
-    "comments": 27,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26470223"
   },
   {
     "title": "Moderation in Infrastructure",
     "url": "https://stratechery.com/2021/moderation-in-infrastructure/",
-    "upvotes": 33,
+    "upvotes": 40,
     "author": "kaboro",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26476555"
@@ -34,65 +50,57 @@
   {
     "title": "TikTok wants to keep tracking iPhone users with state-backed workaround",
     "url": "https://arstechnica.com/gadgets/2021/03/chinas-tech-giants-test-way-around-apples-new-privacy-rules/",
-    "upvotes": 88,
+    "upvotes": 127,
     "author": "a-human",
-    "comments": 38,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26477064"
   },
   {
     "title": "Right to Repair Gaining Momentum",
     "url": "https://www.vice.com/en/article/z3vavw/half-the-country-is-now-considering-right-to-repair-laws",
-    "upvotes": 78,
+    "upvotes": 99,
     "author": "foobarbecue",
-    "comments": 19,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26476685"
   },
   {
-    "title": "Porting OpenBSD to RISC-V Final Report",
-    "url": "https://github.com/MengshiLi/openbsd-riscv-notes/raw/master/Porting_OpenBSD_to_RISCV_FinalReport.pdf",
-    "upvotes": 33,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26476038"
-  },
-  {
-    "title": "Launch HN: Navattic (YC W21) – Shareable demos for selling your SaaS product",
-    "url": "item?id=26478189",
-    "upvotes": 5,
-    "author": "nrmclean",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26478189"
-  },
-  {
-    "title": "One Year Alone in Forest of Sweden Building a Log Cabin",
-    "url": "https://www.youtube.com/watch?v=BBX5qh09OIE",
-    "upvotes": 253,
-    "author": "NaOH",
-    "comments": 158,
-    "link": "https://news.ycombinator.com/item?id=26473442"
+    "title": "Show HN: I built a zero-cost, ad-free alternative to LinkedIn",
+    "url": "http://sellff.com",
+    "upvotes": 35,
+    "author": "4sellff",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26475898"
   },
   {
     "title": "The Y Combinator Experience – Remote Edition",
     "url": "https://magicbell.io/blog/the-ycombinator-experience-remote-edition",
-    "upvotes": 116,
+    "upvotes": 124,
     "author": "mxstbr",
-    "comments": 79,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26474331"
   },
   {
-    "title": "Justice at Spotify",
-    "url": "https://www.unionofmusicians.org/justice-at-spotify",
-    "upvotes": 82,
-    "author": "giuliomagnifico",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=26476370"
+    "title": "One Year Alone in Forest of Sweden Building a Log Cabin",
+    "url": "https://www.youtube.com/watch?v=BBX5qh09OIE",
+    "upvotes": 263,
+    "author": "NaOH",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=26473442"
+  },
+  {
+    "title": "Launch HN: Navattic (YC W21) – Shareable demos for selling your SaaS product",
+    "url": "item?id=26478189",
+    "upvotes": 9,
+    "author": "nrmclean",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26478189"
   },
   {
     "title": "How C++ Resolves a Function Call",
     "url": "https://preshing.com/20210315/how-cpp-resolves-a-function-call/",
-    "upvotes": 262,
+    "upvotes": 267,
     "author": "pcr910303",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26471883"
   },
   {
@@ -100,139 +108,131 @@
     "url": "https://www.workatastartup.com/jobs/41333"
   },
   {
-    "title": "Show HN: I built a zero-cost, ad-free alternative to LinkedIn",
-    "url": "http://sellff.com",
-    "upvotes": 19,
-    "author": "4sellff",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26475898"
+    "title": "Justice at Spotify",
+    "url": "https://www.unionofmusicians.org/justice-at-spotify",
+    "upvotes": 96,
+    "author": "giuliomagnifico",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=26476370"
   },
   {
-    "title": "Juxting – A Fountain of Ideas",
-    "url": "https://martin-nenov.medium.com/juxting-a-fountain-of-ideas-6c92960b8c2d",
-    "upvotes": 13,
-    "author": "EZ-Cheeze",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26476204"
-  },
-  {
-    "title": "Avoiding type inference false-positives with flow-sensitive conditional analysis",
-    "url": "https://psalm.dev/articles/the-truth-matters",
-    "upvotes": 18,
-    "author": "muglug",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26470763"
+    "title": "Porting OpenBSD to RISC-V Final Report",
+    "url": "https://github.com/MengshiLi/openbsd-riscv-notes/raw/master/Porting_OpenBSD_to_RISCV_FinalReport.pdf",
+    "upvotes": 42,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26476038"
   },
   {
     "title": "Tail Call Optimization: The Musical",
     "url": "https://www.youtube.com/watch?v=-PX0BV9hGZY",
-    "upvotes": 153,
+    "upvotes": 154,
     "author": "felipemesquita",
-    "comments": 27,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26470532"
+  },
+  {
+    "title": "Juxting – A Fountain of Ideas",
+    "url": "https://martin-nenov.medium.com/juxting-a-fountain-of-ideas-6c92960b8c2d",
+    "upvotes": 14,
+    "author": "EZ-Cheeze",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26476204"
   },
   {
     "title": "Seasonal energy storage in aluminium for 100% solar heat and electricity supply",
     "url": "https://www.sciencedirect.com/science/article/pii/S2590174519300157",
     "upvotes": 83,
     "author": "NiceWayToDoIT",
-    "comments": 121,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26463249"
+  },
+  {
+    "title": "Avoiding type inference false-positives with flow-sensitive conditional analysis",
+    "url": "https://psalm.dev/articles/the-truth-matters",
+    "upvotes": 18,
+    "author": "muglug",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26470763"
   },
   {
     "title": "Electric car that charges itself",
     "url": "https://sonomotors.com/",
-    "upvotes": 109,
+    "upvotes": 110,
     "author": "mikecarlton",
-    "comments": 246,
+    "comments": 255,
     "link": "https://news.ycombinator.com/item?id=26473055"
-  },
-  {
-    "title": "A Discriminatory Algorithm Wrongly Accused Thousands of Families of Fraud",
-    "url": "https://www.vice.com/en/article/jgq35d/how-a-discriminatory-algorithm-wrongly-accused-thousands-of-families-of-fraud",
-    "upvotes": 22,
-    "author": "JeanMarcS",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26477690"
   },
   {
     "title": "Learning Without Burnout",
     "url": "https://junglecoder.com/blog/learning-without-burnout",
-    "upvotes": 169,
+    "upvotes": 172,
     "author": "tate",
-    "comments": 64,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26473032"
-  },
-  {
-    "title": "Encountering Thomas Sowell",
-    "url": "https://lawliberty.org/encountering-thomas-sowell/",
-    "upvotes": 162,
-    "author": "RickJWagner",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=26475492"
   },
   {
     "title": "Fun with Timers and Cpuid",
     "url": "https://cpufun.substack.com/p/fun-with-timers-and-cpuid",
-    "upvotes": 44,
+    "upvotes": 51,
     "author": "gbrown_",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26474353"
-  },
-  {
-    "title": "How Amazon Crushes Unions",
-    "url": "https://www.nytimes.com/2021/03/16/technology/amazon-unions-virginia.html",
-    "upvotes": 134,
-    "author": "alexrustic",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26475232"
   },
   {
     "title": "Comets Are More Dangerous Than We Thought",
     "url": "https://nautil.us/issue/98/mind/comets-are-more-dangerous-than-we-thought",
-    "upvotes": 58,
+    "upvotes": 63,
     "author": "dnetesn",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26464306"
   },
   {
+    "title": "How Amazon Crushes Unions",
+    "url": "https://www.nytimes.com/2021/03/16/technology/amazon-unions-virginia.html",
+    "upvotes": 153,
+    "author": "alexrustic",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=26475232"
+  },
+  {
     "title": "Calculating the color palette of the VIC II",
     "url": "https://www.pepto.de/projects/colorvic/",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "emptybits",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26452704"
   },
   {
     "title": "Loss of myelin is one of the major factors of age-related brain deterioration",
     "url": "https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration",
-    "upvotes": 304,
+    "upvotes": 312,
     "author": "gmays",
-    "comments": 180,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=26472127"
   },
   {
-    "title": "Kotlin Compiler Crash Course",
-    "url": "https://github.com/ahinchman1/Kotlin-Compiler-Crash-Course",
-    "upvotes": 77,
-    "author": "prof18",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=26454040"
+    "title": "A Discriminatory Algorithm Wrongly Accused Thousands of Families of Fraud",
+    "url": "https://www.vice.com/en/article/jgq35d/how-a-discriminatory-algorithm-wrongly-accused-thousands-of-families-of-fraud",
+    "upvotes": 33,
+    "author": "JeanMarcS",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26477690"
   },
   {
     "title": "Show HN: Web app that blows water out of your phone's speakers",
     "url": "https://fixmyspeakers.com",
-    "upvotes": 124,
+    "upvotes": 127,
     "author": "josephmxm",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26472366"
   },
   {
-    "title": "Buildroot – Making Embedded Linux Easy",
-    "url": "https://buildroot.org/",
-    "upvotes": 61,
-    "author": "peter_d_sherman",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26473632"
+    "title": "Cricut Wants Users to Pay for Unlimited Use of Cutting Machines They Already Own",
+    "url": "https://gizmodo.com/cricut-now-wants-users-to-pay-extra-for-unlimited-use-o-1846477745",
+    "upvotes": 20,
+    "author": "DyslexicAtheist",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26477029"
   }
 ]
