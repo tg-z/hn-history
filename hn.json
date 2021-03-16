@@ -1,119 +1,159 @@
 [
   {
+    "title": "Java 16 is now released",
+    "url": "http://jdk.java.net/16/",
+    "upvotes": 49,
+    "author": "JCWasmx86",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26477144"
+  },
+  {
     "title": "A salt monopoly could spike car accidents in the Midwest",
     "url": "https://mattstoller.substack.com/p/how-a-salt-monopoly-could-spike-car",
-    "upvotes": 115,
+    "upvotes": 131,
     "author": "new_guy",
-    "comments": 112,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=26466113"
   },
   {
     "title": "Euler's Fizzbuzz",
     "url": "http://philcrissman.net/posts/eulers-fizzbuzz/",
-    "upvotes": 66,
+    "upvotes": 83,
     "author": "koevet",
-    "comments": 14,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26470223"
-  },
-  {
-    "title": "Encountering Thomas Sowell",
-    "url": "https://lawliberty.org/encountering-thomas-sowell/",
-    "upvotes": 80,
-    "author": "RickJWagner",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26475492"
-  },
-  {
-    "title": "One Year Alone in Forest of Sweden Building a Log Cabin",
-    "url": "https://www.youtube.com/watch?v=BBX5qh09OIE",
-    "upvotes": 222,
-    "author": "NaOH",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=26473442"
   },
   {
     "title": "Moderation in Infrastructure",
     "url": "https://stratechery.com/2021/moderation-in-infrastructure/",
-    "upvotes": 8,
+    "upvotes": 20,
     "author": "kaboro",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26476555"
   },
   {
-    "title": "The Y Combinator Experience – Remote Edition",
-    "url": "https://magicbell.io/blog/the-ycombinator-experience-remote-edition",
-    "upvotes": 102,
-    "author": "mxstbr",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=26474331"
-  },
-  {
-    "title": "Porting OpenBSD to RISC-V Final Report [pdf]",
-    "url": "https://github.com/MengshiLi/openbsd-riscv-notes/raw/master/Porting_OpenBSD_to_RISCV_FinalReport.pdf",
-    "upvotes": 7,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26476038"
-  },
-  {
-    "title": "How C++ Resolves a Function Call",
-    "url": "https://preshing.com/20210315/how-cpp-resolves-a-function-call/",
-    "upvotes": 253,
-    "author": "pcr910303",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26471883"
+    "title": "Encountering Thomas Sowell",
+    "url": "https://lawliberty.org/encountering-thomas-sowell/",
+    "upvotes": 122,
+    "author": "RickJWagner",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26475492"
   },
   {
     "title": "Right to Repair Gaining Momentum",
     "url": "https://www.vice.com/en/article/z3vavw/half-the-country-is-now-considering-right-to-repair-laws",
-    "upvotes": 18,
+    "upvotes": 50,
     "author": "foobarbecue",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26476685"
   },
   {
-    "title": "Tail Call Optimization: The Musical",
-    "url": "https://www.youtube.com/watch?v=-PX0BV9hGZY",
-    "upvotes": 137,
-    "author": "felipemesquita",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26470532"
+    "title": "Porting OpenBSD to RISC-V Final Report [pdf]",
+    "url": "https://github.com/MengshiLi/openbsd-riscv-notes/raw/master/Porting_OpenBSD_to_RISCV_FinalReport.pdf",
+    "upvotes": 20,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26476038"
+  },
+  {
+    "title": "One Year Alone in Forest of Sweden Building a Log Cabin",
+    "url": "https://www.youtube.com/watch?v=BBX5qh09OIE",
+    "upvotes": 240,
+    "author": "NaOH",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=26473442"
+  },
+  {
+    "title": "The Y Combinator Experience – Remote Edition",
+    "url": "https://magicbell.io/blog/the-ycombinator-experience-remote-edition",
+    "upvotes": 112,
+    "author": "mxstbr",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26474331"
+  },
+  {
+    "title": "Ask HN: What are some “10x” software product innovations you have experienced?",
+    "url": "item?id=26477507",
+    "upvotes": 12,
+    "author": "pramodbiligiri",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26477507"
+  },
+  {
+    "title": "TikTok wants to keep tracking iPhone users with state-backed workaround",
+    "url": "https://arstechnica.com/gadgets/2021/03/chinas-tech-giants-test-way-around-apples-new-privacy-rules/",
+    "upvotes": 36,
+    "author": "a-human",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26477064"
   },
   {
     "title": "MDacne",
     "url": "https://www.workatastartup.com/jobs/41333"
   },
   {
+    "title": "How C++ Resolves a Function Call",
+    "url": "https://preshing.com/20210315/how-cpp-resolves-a-function-call/",
+    "upvotes": 257,
+    "author": "pcr910303",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26471883"
+  },
+  {
     "title": "Avoiding type inference false-positives with flow-sensitive conditional analysis",
     "url": "https://psalm.dev/articles/the-truth-matters",
-    "upvotes": 11,
+    "upvotes": 17,
     "author": "muglug",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26470763"
   },
   {
-    "title": "Electric car that charges itself",
-    "url": "https://sonomotors.com/",
-    "upvotes": 95,
-    "author": "mikecarlton",
-    "comments": 214,
-    "link": "https://news.ycombinator.com/item?id=26473055"
+    "title": "Juxting – A Fountain of Ideas",
+    "url": "https://martin-nenov.medium.com/juxting-a-fountain-of-ideas-6c92960b8c2d",
+    "upvotes": 10,
+    "author": "EZ-Cheeze",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26476204"
+  },
+  {
+    "title": "Tail Call Optimization: The Musical",
+    "url": "https://www.youtube.com/watch?v=-PX0BV9hGZY",
+    "upvotes": 146,
+    "author": "felipemesquita",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26470532"
   },
   {
     "title": "Seasonal energy storage in aluminium for 100% solar heat and electricity supply",
     "url": "https://www.sciencedirect.com/science/article/pii/S2590174519300157",
-    "upvotes": 67,
+    "upvotes": 76,
     "author": "NiceWayToDoIT",
-    "comments": 99,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26463249"
   },
   {
-    "title": "Juxting – A Fountain of Ideas",
-    "url": "https://martin-nenov.medium.com/juxting-a-fountain-of-ideas-6c92960b8c2d",
-    "upvotes": 5,
-    "author": "EZ-Cheeze",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26476204"
+    "title": "Electric car that charges itself",
+    "url": "https://sonomotors.com/",
+    "upvotes": 103,
+    "author": "mikecarlton",
+    "comments": 228,
+    "link": "https://news.ycombinator.com/item?id=26473055"
+  },
+  {
+    "title": "Calculating the color palette of the VIC II",
+    "url": "https://www.pepto.de/projects/colorvic/",
+    "upvotes": 15,
+    "author": "emptybits",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26452704"
+  },
+  {
+    "title": "Learning Without Burnout",
+    "url": "https://junglecoder.com/blog/learning-without-burnout",
+    "upvotes": 159,
+    "author": "tate",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=26473032"
   },
   {
     "title": "Fun with Timers and Cpuid",
@@ -124,115 +164,75 @@
     "link": "https://news.ycombinator.com/item?id=26474353"
   },
   {
-    "title": "Learning Without Burnout",
-    "url": "https://junglecoder.com/blog/learning-without-burnout",
-    "upvotes": 152,
-    "author": "tate",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26473032"
+    "title": "Comets Are More Dangerous Than We Thought",
+    "url": "https://nautil.us/issue/98/mind/comets-are-more-dangerous-than-we-thought",
+    "upvotes": 52,
+    "author": "dnetesn",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26464306"
+  },
+  {
+    "title": "Show HN: I built a zero-cost, ad-free alternative to LinkedIn",
+    "url": "http://sellff.com",
+    "upvotes": 8,
+    "author": "4sellff",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26475898"
   },
   {
     "title": "Gumroad raises $5M from Crowd SAFE in first 24 hours",
     "url": "https://republic.co/gumroad",
-    "upvotes": 71,
+    "upvotes": 79,
     "author": "fastball",
-    "comments": 46,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26473408"
-  },
-  {
-    "title": "Comets Are More Dangerous Than We Thought",
-    "url": "https://nautil.us/issue/98/mind/comets-are-more-dangerous-than-we-thought",
-    "upvotes": 46,
-    "author": "dnetesn",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26464306"
-  },
-  {
-    "title": "Loss of myelin is one of the major factors of age-related brain deterioration",
-    "url": "https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration",
-    "upvotes": 279,
-    "author": "gmays",
-    "comments": 162,
-    "link": "https://news.ycombinator.com/item?id=26472127"
   },
   {
     "title": "Kotlin Compiler Crash Course",
     "url": "https://github.com/ahinchman1/Kotlin-Compiler-Crash-Course",
-    "upvotes": 69,
+    "upvotes": 74,
     "author": "prof18",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26454040"
-  },
-  {
-    "title": "Show HN: Web app that blows water out of your phone's speakers",
-    "url": "https://fixmyspeakers.com",
-    "upvotes": 114,
-    "author": "josephmxm",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26472366"
-  },
-  {
-    "title": "Buildroot – Making Embedded Linux Easy",
-    "url": "https://buildroot.org/",
-    "upvotes": 52,
-    "author": "peter_d_sherman",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26473632"
-  },
-  {
-    "title": "Scientists stunned to discover plants beneath mile-deep Greenland ice",
-    "url": "https://phys.org/news/2021-03-scientists-stunned-beneath-mile-deep-greenland.html",
-    "upvotes": 28,
-    "author": "rbanffy",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26475887"
-  },
-  {
-    "title": "JavaScript from 2001 on India's largest private bank site",
-    "url": "https://netbanking.hdfcbank.com/jsdir/RS_01_eng.js",
-    "upvotes": 107,
-    "author": "plibither8",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=26462839"
   },
   {
     "title": "How Amazon Crushes Unions",
     "url": "https://www.nytimes.com/2021/03/16/technology/amazon-unions-virginia.html",
-    "upvotes": 90,
+    "upvotes": 109,
     "author": "alexrustic",
-    "comments": 36,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26475232"
   },
   {
-    "title": "TikTok wants to keep tracking iPhone users with state-backed workaround",
-    "url": "https://arstechnica.com/gadgets/2021/03/chinas-tech-giants-test-way-around-apples-new-privacy-rules/",
-    "upvotes": 6,
-    "author": "a-human",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26477064"
+    "title": "Loss of myelin is one of the major factors of age-related brain deterioration",
+    "url": "https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration",
+    "upvotes": 291,
+    "author": "gmays",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=26472127"
   },
   {
-    "title": "We Don’t Use Docker",
-    "url": "https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1",
-    "upvotes": 437,
-    "author": "mundanerality",
-    "comments": 419,
-    "link": "https://news.ycombinator.com/item?id=26472452"
+    "title": "Buildroot – Making Embedded Linux Easy",
+    "url": "https://buildroot.org/",
+    "upvotes": 58,
+    "author": "peter_d_sherman",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26473632"
   },
   {
-    "title": "Adobe Goes After 27-Year Old ‘Pirated’ Copy of Acrobat Reader 1.0 for MS-DOS",
-    "url": "https://torrentfreak.com/adobe-goes-after-27-year-old-pirated-copy-of-acrobat-reader-1-0-for-ms-dos-210315/",
-    "upvotes": 198,
-    "author": "muterad_murilax",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26474032"
+    "title": "Show HN: Web app that blows water out of your phone's speakers",
+    "url": "https://fixmyspeakers.com",
+    "upvotes": 117,
+    "author": "josephmxm",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26472366"
   },
   {
-    "title": "Launch HN: Mezli (YC W21) – Robotic restaurants that serve healthy fast food",
-    "url": "item?id=26468204",
-    "upvotes": 187,
-    "author": "kolchinski",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26468204"
+    "title": "Scientists stunned to discover plants beneath mile-deep Greenland ice",
+    "url": "https://phys.org/news/2021-03-scientists-stunned-beneath-mile-deep-greenland.html",
+    "upvotes": 33,
+    "author": "rbanffy",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26475887"
   }
 ]
