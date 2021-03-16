@@ -2,31 +2,31 @@
   {
     "title": "How C++ Resolves a Function Call",
     "url": "https://preshing.com/20210315/how-cpp-resolves-a-function-call/",
-    "upvotes": 80,
+    "upvotes": 89,
     "author": "pcr910303",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26471883"
   },
   {
-    "title": "We Don’t Use Docker",
-    "url": "https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1",
-    "upvotes": 104,
-    "author": "mundanerality",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=26472452"
-  },
-  {
     "title": "Brain’s ‘wiring insulation’ a major factors of age-related brain deterioration",
     "url": "https://www.port.ac.uk/news-events-and-blogs/news/brains-wiring-insulation-is-one-of-the-major-factors-of-age-related-brain-deterioration",
-    "upvotes": 38,
+    "upvotes": 48,
     "author": "gmays",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26472127"
+  },
+  {
+    "title": "We Don’t Use Docker",
+    "url": "https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html?m=1",
+    "upvotes": 123,
+    "author": "mundanerality",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=26472452"
   },
   {
     "title": "Psychic Numbing and Genocide",
     "url": "https://www.apa.org/science/about/psa/2007/11/slovic",
-    "upvotes": 14,
+    "upvotes": 18,
     "author": "areoform",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26472572"
@@ -34,58 +34,98 @@
   {
     "title": "Why the new USPS mail trucks look so weird",
     "url": "https://www.thedrive.com/news/39427/heres-why-the-new-usps-mail-trucks-look-so-weird",
-    "upvotes": 130,
+    "upvotes": 135,
     "author": "minding",
-    "comments": 187,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=26470546"
   },
   {
     "title": "A hacker got all my texts for $16",
     "url": "https://www.vice.com/en/article/y3g8wb/hacker-got-my-texts-16-dollars-sakari-netnumber",
-    "upvotes": 340,
+    "upvotes": 346,
     "author": "pje",
-    "comments": 178,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=26468892"
   },
   {
     "title": "Why we decided for and against Ubuntu Core",
     "url": "https://www.nitrokey.com/news/2021/nextbox-why-we-decided-and-against-ubuntu-core",
-    "upvotes": 131,
+    "upvotes": 133,
     "author": "thefilmore",
-    "comments": 92,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=26464063"
-  },
-  {
-    "title": "California Passes Regulation Banning \"Dark Patterns\" Under Landmark Privacy Law",
-    "url": "https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961",
-    "upvotes": 46,
-    "author": "ryanwhitney",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26472284"
   },
   {
     "title": "Magic Mushrooms Are Decriminalized in DC as of Today",
     "url": "https://www.washingtonian.com/2021/03/15/magic-mushrooms-are-decriminalized-in-dc-as-of-today/",
-    "upvotes": 142,
+    "upvotes": 154,
     "author": "batmaniam",
-    "comments": 66,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26469846"
+  },
+  {
+    "title": "California Passes Regulation Banning \"Dark Patterns\" Under Landmark Privacy Law",
+    "url": "https://gizmodo.com/california-passes-new-regulation-banning-dark-patterns-1846482961",
+    "upvotes": 52,
+    "author": "ryanwhitney",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26472284"
+  },
+  {
+    "title": "Rust's type system is Turing-complete",
+    "url": "https://sdleffler.github.io/RustTypeSystemTuringComplete/",
+    "upvotes": 67,
+    "author": "lukastyrychtr",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26445332"
+  },
+  {
+    "title": "When Should I Interrupt Someone?",
+    "url": "https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/",
+    "upvotes": 91,
+    "author": "zwischenzug",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26463910"
   },
   {
     "title": "Add a Dark Theme to a Ruby on Rails App",
     "url": "https://yann-defretin.medium.com/add-a-dark-theme-to-a-ruby-on-rails-app-898562d2b6cc",
     "upvotes": 37,
     "author": "hivacruz",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26454153"
   },
   {
-    "title": "When Should I Interrupt Someone?",
-    "url": "https://zwischenzugs.com/2021/03/15/when-should-i-interrupt-someone/",
-    "upvotes": 89,
-    "author": "zwischenzug",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26463910"
+    "title": "Emacs-ng: Emacs with Deno runtime and TypeScript",
+    "url": "https://github.com/emacs-ng/emacs-ng",
+    "upvotes": 131,
+    "author": "karlicoss",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=26453174"
+  },
+  {
+    "title": "Show HN: Web app that blows water out of your phone's speakers",
+    "url": "https://fixmyspeakers.com",
+    "upvotes": 9,
+    "author": "josephmxm",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26472366"
+  },
+  {
+    "title": "Launch HN: Mezli (YC W21) – Robotic restaurants that serve healthy fast food",
+    "url": "item?id=26468204",
+    "upvotes": 145,
+    "author": "kolchinski",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=26468204"
+  },
+  {
+    "title": "Immutable Linux desktop with OpenSUSE and Snaps",
+    "url": "https://ypsidanger.com/23800/running-snaps-on-opensuse-microos-desktop",
+    "upvotes": 11,
+    "author": "marcoceppi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26471986"
   },
   {
     "title": "First release of mmv for over 30 years",
@@ -96,41 +136,25 @@
     "link": "https://news.ycombinator.com/item?id=26454265"
   },
   {
-    "title": "Launch HN: Mezli (YC W21) – Robotic restaurants that serve healthy fast food",
-    "url": "item?id=26468204",
-    "upvotes": 143,
-    "author": "kolchinski",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=26468204"
-  },
-  {
-    "title": "Immutable Linux desktop with OpenSUSE and Snaps",
-    "url": "https://ypsidanger.com/23800/running-snaps-on-opensuse-microos-desktop",
-    "upvotes": 10,
-    "author": "marcoceppi",
+    "title": "Accents, Dialects, and Discrimination",
+    "url": "https://thewalrus.ca/accents-dialects-and-discrimination/",
+    "upvotes": 5,
+    "author": "Vigier",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26471986"
+    "link": "https://news.ycombinator.com/item?id=26461841"
   },
   {
-    "title": "Show HN: WebApp that blows water out of your phone's speakers",
-    "url": "https://fixmyspeakers.com",
-    "upvotes": 6,
-    "author": "josephmxm",
+    "title": "Array Databases: Concepts, Standards, Implementations [pdf]",
+    "url": "https://rd-alliance.org/system/files/Array-Databases_final-report.pdf",
+    "upvotes": 11,
+    "author": "teleforce",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26472366"
-  },
-  {
-    "title": "Rockstar thanks GTA Online player who fixed load times, official update coming",
-    "url": "https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/",
-    "upvotes": 784,
-    "author": "mmhsieh",
-    "comments": 210,
-    "link": "https://news.ycombinator.com/item?id=26469753"
+    "link": "https://news.ycombinator.com/item?id=26462602"
   },
   {
     "title": "Learn How to Tie Knots",
     "url": "https://www.animatedknots.com",
-    "upvotes": 185,
+    "upvotes": 187,
     "author": "say_it_as_it_is",
     "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26466443"
@@ -140,36 +164,20 @@
     "url": "https://bodyport.com/careers"
   },
   {
-    "title": "Array Databases: Concepts, Standards, Implementations [pdf]",
-    "url": "https://rd-alliance.org/system/files/Array-Databases_final-report.pdf",
-    "upvotes": 10,
-    "author": "teleforce",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26462602"
-  },
-  {
-    "title": "Google Photos circumvents iOS 14 photos privacy features",
-    "url": "https://twitter.com/_saagarjha/status/1371650848149835776",
-    "upvotes": 20,
-    "author": "cjv",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26472708"
+    "title": "Rockstar thanks GTA Online player who fixed load times, official update coming",
+    "url": "https://www.pcgamer.com/rockstar-thanks-gta-online-player-who-fixed-poor-load-times-official-update-coming/",
+    "upvotes": 791,
+    "author": "mmhsieh",
+    "comments": 216,
+    "link": "https://news.ycombinator.com/item?id=26469753"
   },
   {
     "title": "Learnimprov – Just the first improv game site",
     "url": "https://www.learnimprov.com/",
-    "upvotes": 138,
+    "upvotes": 140,
     "author": "herbertl",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26466711"
-  },
-  {
-    "title": "Rust's type system is Turing-complete",
-    "url": "https://sdleffler.github.io/RustTypeSystemTuringComplete/",
-    "upvotes": 64,
-    "author": "lukastyrychtr",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26445332"
   },
   {
     "title": "X0.at: upload files from cURL",
@@ -180,12 +188,12 @@
     "link": "https://news.ycombinator.com/item?id=26466971"
   },
   {
-    "title": "Emacs-ng: Emacs with Deno runtime and TypeScript",
-    "url": "https://github.com/emacs-ng/emacs-ng",
-    "upvotes": 129,
-    "author": "karlicoss",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26453174"
+    "title": "Sd: My Script Directory",
+    "url": "https://ianthehenry.com/posts/sd-my-script-directory/",
+    "upvotes": 89,
+    "author": "shadytrees",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26461051"
   },
   {
     "title": "A Programming Murder Mystery in Ruby",
@@ -196,36 +204,20 @@
     "link": "https://news.ycombinator.com/item?id=26454392"
   },
   {
-    "title": "Accents, Dialects, and Discrimination",
-    "url": "https://thewalrus.ca/accents-dialects-and-discrimination/",
-    "upvotes": 4,
-    "author": "Vigier",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26461841"
-  },
-  {
     "title": "Zoom Escaper: self-sabotage audio, making your presence unbearable to others",
     "url": "https://zoomescaper.com/",
-    "upvotes": 245,
+    "upvotes": 247,
     "author": "DyslexicAtheist",
     "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26469454"
   },
   {
-    "title": "Sd: My Script Directory",
-    "url": "https://ianthehenry.com/posts/sd-my-script-directory/",
-    "upvotes": 88,
-    "author": "shadytrees",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26461051"
-  },
-  {
-    "title": "The Dribbblisation of Design",
-    "url": "https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026",
-    "upvotes": 15,
-    "author": "giansegato",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26463738"
+    "title": "Germany pauses AstraZeneca vaccinations as a 'precaution'",
+    "url": "https://www.reuters.com/article/health-coronavirus-germany-astrazeneca/update-1-germany-to-halt-astrazeneca-vaccinations-health-ministry-idUSL8N2LD4T9",
+    "upvotes": 282,
+    "author": "sirffuzzylogik",
+    "comments": 423,
+    "link": "https://news.ycombinator.com/item?id=26467045"
   },
   {
     "title": "Scrollycoding – A new way to write code walkthroughs [video]",
@@ -234,5 +226,13 @@
     "author": "pomber",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26466474"
+  },
+  {
+    "title": "The Dribbblisation of Design",
+    "url": "https://medium.com/intercom-inside/the-dribbblisation-of-design-406422ccb026",
+    "upvotes": 15,
+    "author": "giansegato",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26463738"
   }
 ]
