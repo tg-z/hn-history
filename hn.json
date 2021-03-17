@@ -1,82 +1,90 @@
 [
   {
+    "title": "Charts.css",
+    "url": "https://chartscss.org/",
+    "upvotes": 121,
+    "author": "pspeter3",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26494819"
+  },
+  {
     "title": "Let there be more biographies of failures",
     "url": "https://commonreader.substack.com/p/let-there-be-more-biographies-of",
-    "upvotes": 137,
+    "upvotes": 161,
     "author": "commons-tragedy",
-    "comments": 47,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26493010"
   },
   {
     "title": "FreeBSD 13.0 – Full Desktop Experience",
     "url": "https://www.tubsta.com/2021/03/freebsd-13-0-full-desktop-experience/",
-    "upvotes": 228,
+    "upvotes": 241,
     "author": "tate",
-    "comments": 157,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=26491974"
   },
   {
     "title": "Milky Way, 12 years, 1250 hours of exposures and 125 x 22 degrees of sky",
     "url": "https://astroanarchy.blogspot.com/2021/03/gigapixel-mosaic-of-milky-way-1250.html",
-    "upvotes": 362,
+    "upvotes": 391,
     "author": "giuliomagnifico",
-    "comments": 68,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26490579"
+  },
+  {
+    "title": "French watchdog rejects request to suspend Apple's App Tracking Transparency",
+    "url": "https://www.thetelegram.com/business/reuters/french-watchdog-rejects-requests-to-suspend-apples-app-tracking-transparency-feature-564488/",
+    "upvotes": 17,
+    "author": "spideymans",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26495616"
+  },
+  {
+    "title": "The human brain grew as a result of the extinction of large animals: new paper",
+    "url": "https://phys.org/news/2021-03-human-brain-grew-result-extinction.html",
+    "upvotes": 45,
+    "author": "Hooke",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26471193"
   },
   {
     "title": "Shifting attention to accuracy can reduce misinformation online",
     "url": "https://www.nature.com/articles/s41586-021-03344-2",
-    "upvotes": 72,
+    "upvotes": 81,
     "author": "mpweiher",
-    "comments": 43,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26493542"
   },
   {
-    "title": "The human brain grew as a result of the extinction of large animals",
-    "url": "https://phys.org/news/2021-03-human-brain-grew-result-extinction.html",
-    "upvotes": 29,
-    "author": "Hooke",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26471193"
-  },
-  {
-    "title": "Phrack Magazine",
-    "url": "http://phrack.org/issues/69/1.html",
-    "upvotes": 115,
-    "author": "0x737368",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26475708"
-  },
-  {
-    "title": "Charts.css",
-    "url": "https://chartscss.org/",
-    "upvotes": 37,
-    "author": "pspeter3",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26494819"
-  },
-  {
-    "title": "Do not use redirection characters in your shell prompt",
-    "url": "https://tanelpoder.com/posts/how-to-stay-safe-in-shell/",
-    "upvotes": 122,
-    "author": "tanelpoder",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26491858"
+    "title": "Daves Old Computers – Robotic DVD Loader",
+    "url": "http://dunfield.classiccmp.org/dvdload/index.htm",
+    "upvotes": 9,
+    "author": "gscott",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26488576"
   },
   {
     "title": "Migrating Millions of Concurrent WebSockets to Envoy",
     "url": "https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/",
-    "upvotes": 27,
+    "upvotes": 42,
     "author": "jbredeche",
-    "comments": 9,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26476894"
+  },
+  {
+    "title": "Phrack Magazine",
+    "url": "http://phrack.org/issues/69/1.html",
+    "upvotes": 129,
+    "author": "0x737368",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26475708"
   },
   {
     "title": "Indiana Jones and the Last Crusade EGA/VGA Comparison",
     "url": "http://www.superrune.com/tutorials/indy3_ega.php",
-    "upvotes": 330,
+    "upvotes": 340,
     "author": "ingve",
-    "comments": 98,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=26489561"
   },
   {
@@ -84,155 +92,147 @@
     "url": "https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea?lever-origin=applied&lever-source%5B%5D=HACKERNEWS"
   },
   {
-    "title": "Launch HN: Chums (YC W21) – Shop online with friends",
-    "url": "item?id=26493938",
-    "upvotes": 25,
-    "author": "dickfickling",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26493938"
+    "title": "Do not use redirection characters in your shell prompt",
+    "url": "https://tanelpoder.com/posts/how-to-stay-safe-in-shell/",
+    "upvotes": 130,
+    "author": "tanelpoder",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=26491858"
   },
   {
     "title": "Writing Small CLI Programs in Common Lisp",
     "url": "https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/",
-    "upvotes": 63,
+    "upvotes": 72,
     "author": "reikonomusha",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26493588"
   },
   {
+    "title": "How to Deal with Difficult People on Software Projects",
+    "url": "https://www.howtodeal.dev/",
+    "upvotes": 149,
+    "author": "SimplyUseless",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=26491991"
+  },
+  {
+    "title": "Launch HN: Chums (YC W21) – Shop online with friends",
+    "url": "item?id=26493938",
+    "upvotes": 27,
+    "author": "dickfickling",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26493938"
+  },
+  {
     "title": "The blast that shook the ionosphere",
     "url": "https://www.global.hokudai.ac.jp/blog/the-blast-that-shook-the-ionosphere/",
-    "upvotes": 18,
+    "upvotes": 26,
     "author": "rustoo",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26494995"
   },
   {
-    "title": "How to Deal with Difficult People on Software Projects",
-    "url": "https://www.howtodeal.dev/",
-    "upvotes": 134,
-    "author": "SimplyUseless",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=26491991"
+    "title": "Why Channel 37 Doesn’t Exist",
+    "url": "https://www.vice.com/en/article/dy8by7/why-channel-37-doesnt-exist-and-what-it-has-to-do-with-aliens",
+    "upvotes": 8,
+    "author": "jonathankoren",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26487500"
   },
   {
     "title": "Show HN: Dendron – fast open-source note-taking in VSCode",
     "url": "https://wiki.dendron.so/",
-    "upvotes": 100,
+    "upvotes": 108,
     "author": "kpats",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26491764"
+  },
+  {
+    "title": "Robust Soldier Crab Ball Gate [pdf]",
+    "url": "http://wpmedia.wolfram.com/uploads/sites/13/2018/02/20-2-2.pdf",
+    "upvotes": 16,
+    "author": "todsacerdoti",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26494871"
   },
   {
     "title": "Irish webapp to recreate pub atmosphere at home",
     "url": "https://soundsofthepub.com/",
-    "upvotes": 253,
+    "upvotes": 261,
     "author": "arazy",
-    "comments": 71,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26491948"
   },
   {
     "title": "Fintech Giant Fiserv Used Unclaimed Domain",
     "url": "https://krebsonsecurity.com/2021/03/fintech-giant-fiserv-used-unclaimed-domain/",
-    "upvotes": 76,
+    "upvotes": 82,
     "author": "todsacerdoti",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26491851"
   },
   {
+    "title": "Scientists grow mice embryos in a mechanical womb",
+    "url": "https://www.nytimes.com/2021/03/17/health/mice-artificial-uterus.html",
+    "upvotes": 50,
+    "author": "uptown",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=26493129"
+  },
+  {
+    "title": "Google Play service fee reduced to 15% for the first $1M/year",
+    "url": "https://android-developers.googleblog.com/2021/03/boosting-dev-success.html",
+    "upvotes": 442,
+    "author": "h43k3r",
+    "comments": 281,
+    "link": "https://news.ycombinator.com/item?id=26486737"
+  },
+  {
     "title": "Claude Shannon: The Mathematical Theory of Cryptography",
     "url": "https://evervault.com/papers/shannon",
-    "upvotes": 156,
+    "upvotes": 161,
     "author": "declain",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26490207"
   },
   {
     "title": "Show HN: PBJ Live – Add live streaming to any app or website in ~6 LOC",
     "url": "https://pbj.live/",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "Casc",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26494752"
   },
   {
-    "title": "Google Play service fee reduced to 15% for the first $1M/year",
-    "url": "https://android-developers.googleblog.com/2021/03/boosting-dev-success.html",
-    "upvotes": 428,
-    "author": "h43k3r",
-    "comments": 279,
-    "link": "https://news.ycombinator.com/item?id=26486737"
+    "title": "Which color scale to use when visualizing data",
+    "url": "https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/",
+    "upvotes": 11,
+    "author": "ingve",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26489887"
   },
   {
-    "title": "Robust Soldier Crab Ball Gate [pdf]",
-    "url": "http://wpmedia.wolfram.com/uploads/sites/13/2018/02/20-2-2.pdf",
-    "upvotes": 10,
-    "author": "todsacerdoti",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26494871"
-  },
-  {
-    "title": "The architects who, after a devastating earthquake, rebuilt a town",
-    "url": "https://www.nytimes.com/2021/03/15/t-magazine/jojutla-mexico-earthquake-architecture.html",
+    "title": "Grice’s Maxims of Conversation",
+    "url": "https://effectiviology.com/principles-of-effective-communication/",
     "upvotes": 6,
-    "author": "pseudolus",
+    "author": "EndXA",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26475368"
-  },
-  {
-    "title": "Launch HN: Finley (YC W21) – Debt capital monitoring and reporting software",
-    "url": "item?id=26492329",
-    "upvotes": 44,
-    "author": "suhpreme",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26492329"
-  },
-  {
-    "title": "Google Cloud Networking reporting issues",
-    "url": "https://status.cloud.google.com/",
-    "upvotes": 83,
-    "author": "xur17",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26494258"
+    "link": "https://news.ycombinator.com/item?id=26489494"
   },
   {
     "title": "GitHub, fuck your name change",
     "url": "https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe",
-    "upvotes": 2714,
+    "upvotes": 2766,
     "author": "leontrolski",
-    "comments": 1518,
+    "comments": 1568,
     "link": "https://news.ycombinator.com/item?id=26487854"
   },
   {
-    "title": "French watchdog rejects request to suspend Apple's App Tracking Transparency",
-    "url": "https://www.thetelegram.com/business/reuters/french-watchdog-rejects-requests-to-suspend-apples-app-tracking-transparency-feature-564488/",
-    "upvotes": 4,
-    "author": "spideymans",
+    "title": "The architects who rebuilt Jojutla after a devastating earthquake",
+    "url": "https://www.nytimes.com/2021/03/15/t-magazine/jojutla-mexico-earthquake-architecture.html",
+    "upvotes": 8,
+    "author": "pseudolus",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26495616"
-  },
-  {
-    "title": "AI Can Now Debate with Humans and Sometimes Convince Them, Too",
-    "url": "https://www.scientificamerican.com/podcast/episode/ai-can-now-debate-with-humans-and-sometimes-convince-them-too/",
-    "upvotes": 17,
-    "author": "furcyd",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26495157"
-  },
-  {
-    "title": "SQLAlchemy 1.4",
-    "url": "https://www.sqlalchemy.org/blog/2021/03/15/sqlalchemy-1.4.0-released/",
-    "upvotes": 213,
-    "author": "mkl95",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26487959"
-  },
-  {
-    "title": "How to See S3 Bucket Storage Types and Storage Costs",
-    "url": "https://www.vantage.sh/blog/how-to-see-s3-bucket-storage-types-and-storage-costs",
-    "upvotes": 62,
-    "author": "StratusBen",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26491852"
+    "link": "https://news.ycombinator.com/item?id=26475368"
   }
 ]
