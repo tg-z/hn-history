@@ -2,23 +2,31 @@
   {
     "title": "Audacity 3.0",
     "url": "https://www.audacityteam.org/audacity-3-0-0-released/",
-    "upvotes": 285,
+    "upvotes": 337,
     "author": "app4soft",
-    "comments": 49,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26496887"
   },
   {
     "title": "Charts.css",
     "url": "https://chartscss.org/",
-    "upvotes": 415,
+    "upvotes": 439,
     "author": "pspeter3",
-    "comments": 80,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26494819"
+  },
+  {
+    "title": "Learnlatex.org: A place to learn LaTeX online",
+    "url": "https://www.learnlatex.org/en/",
+    "upvotes": 19,
+    "author": "JohnHammersley",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26497557"
   },
   {
     "title": "Daves Old Computers – Robotic DVD Loader",
     "url": "http://dunfield.classiccmp.org/dvdload/index.htm",
-    "upvotes": 87,
+    "upvotes": 91,
     "author": "gscott",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26488576"
@@ -26,42 +34,42 @@
   {
     "title": "Let there be more biographies of failures",
     "url": "https://commonreader.substack.com/p/let-there-be-more-biographies-of",
-    "upvotes": 216,
+    "upvotes": 221,
     "author": "commons-tragedy",
-    "comments": 81,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26493010"
   },
   {
     "title": "Milky Way, 12 years, 1250 hours of exposures and 125 x 22 degrees of sky",
     "url": "https://astroanarchy.blogspot.com/2021/03/gigapixel-mosaic-of-milky-way-1250.html",
-    "upvotes": 477,
+    "upvotes": 486,
     "author": "giuliomagnifico",
-    "comments": 94,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=26490579"
   },
   {
-    "title": "FreeBSD 13.0 – Full Desktop Experience",
-    "url": "https://www.tubsta.com/2021/03/freebsd-13-0-full-desktop-experience/",
-    "upvotes": 278,
-    "author": "tate",
-    "comments": 213,
-    "link": "https://news.ycombinator.com/item?id=26491974"
+    "title": "What Did Sun’s OSPO Do?",
+    "url": "https://meshedinsights.com/2021/03/16/what-did-suns-ospo-do/",
+    "upvotes": 15,
+    "author": "edward",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26482277"
   },
   {
     "title": "What’s under the hood of a quantum computer?",
     "url": "https://physicstoday.scitation.org/do/10.1063/PT.6.1.20210305a/full/",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "digital55",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26489597"
   },
   {
-    "title": "Migrating Millions of Concurrent WebSockets to Envoy",
-    "url": "https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/",
-    "upvotes": 91,
-    "author": "jbredeche",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26476894"
+    "title": "FreeBSD 13.0 – Full Desktop Experience",
+    "url": "https://www.tubsta.com/2021/03/freebsd-13-0-full-desktop-experience/",
+    "upvotes": 281,
+    "author": "tate",
+    "comments": 222,
+    "link": "https://news.ycombinator.com/item?id=26491974"
   },
   {
     "title": "Zeus Living Is Hiring a Senior Product Designer to Build the Future of Rentals",
@@ -70,169 +78,161 @@
   {
     "title": "Why Channel 37 Doesn’t Exist",
     "url": "https://www.vice.com/en/article/dy8by7/why-channel-37-doesnt-exist-and-what-it-has-to-do-with-aliens",
-    "upvotes": 52,
+    "upvotes": 60,
     "author": "jonathankoren",
-    "comments": 28,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26487500"
+  },
+  {
+    "title": "Migrating Millions of Concurrent WebSockets to Envoy",
+    "url": "https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/",
+    "upvotes": 93,
+    "author": "jbredeche",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26476894"
+  },
+  {
+    "title": "Phrack Magazine",
+    "url": "http://phrack.org/issues/69/1.html",
+    "upvotes": 176,
+    "author": "0x737368",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=26475708"
+  },
+  {
+    "title": "Which color scale to use when visualizing data",
+    "url": "https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/",
+    "upvotes": 64,
+    "author": "ingve",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26489887"
+  },
+  {
+    "title": "Indiana Jones and the Last Crusade EGA/VGA Comparison",
+    "url": "http://www.superrune.com/tutorials/indy3_ega.php",
+    "upvotes": 369,
+    "author": "ingve",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=26489561"
+  },
+  {
+    "title": "Do not use redirection characters in your shell prompt",
+    "url": "https://tanelpoder.com/posts/how-to-stay-safe-in-shell/",
+    "upvotes": 159,
+    "author": "tanelpoder",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=26491858"
+  },
+  {
+    "title": "Launch HN: Chums (YC W21) – Shop online with friends",
+    "url": "item?id=26493938",
+    "upvotes": 38,
+    "author": "dickfickling",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26493938"
   },
   {
     "title": "Shifting attention to accuracy can reduce misinformation online",
     "url": "https://www.nature.com/articles/s41586-021-03344-2",
     "upvotes": 103,
     "author": "mpweiher",
-    "comments": 85,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26493542"
-  },
-  {
-    "title": "Phrack Magazine",
-    "url": "http://phrack.org/issues/69/1.html",
-    "upvotes": 171,
-    "author": "0x737368",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26475708"
-  },
-  {
-    "title": "Learnlatex.org: A place to learn LaTeX online",
-    "url": "https://www.learnlatex.org/en/",
-    "upvotes": 6,
-    "author": "JohnHammersley",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26497557"
-  },
-  {
-    "title": "Indiana Jones and the Last Crusade EGA/VGA Comparison",
-    "url": "http://www.superrune.com/tutorials/indy3_ega.php",
-    "upvotes": 365,
-    "author": "ingve",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26489561"
-  },
-  {
-    "title": "What Did Sun’s OSPO Do?",
-    "url": "https://meshedinsights.com/2021/03/16/what-did-suns-ospo-do/",
-    "upvotes": 10,
-    "author": "edward",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26482277"
-  },
-  {
-    "title": "Which color scale to use when visualizing data",
-    "url": "https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/",
-    "upvotes": 59,
-    "author": "ingve",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26489887"
-  },
-  {
-    "title": "Launch HN: Chums (YC W21) – Shop online with friends",
-    "url": "item?id=26493938",
-    "upvotes": 37,
-    "author": "dickfickling",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26493938"
-  },
-  {
-    "title": "Do not use redirection characters in your shell prompt",
-    "url": "https://tanelpoder.com/posts/how-to-stay-safe-in-shell/",
-    "upvotes": 158,
-    "author": "tanelpoder",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=26491858"
   },
   {
     "title": "Writing Small CLI Programs in Common Lisp",
     "url": "https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/",
-    "upvotes": 108,
+    "upvotes": 109,
     "author": "reikonomusha",
-    "comments": 30,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26493588"
   },
   {
     "title": "Eclipse IDE 2021-03 is released",
     "url": "https://www.eclipse.org/eclipseide/",
-    "upvotes": 48,
+    "upvotes": 52,
     "author": "pjmlp",
-    "comments": 21,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26494952"
-  },
-  {
-    "title": "Show HN: Dendron – fast open-source note-taking in VSCode",
-    "url": "https://wiki.dendron.so/",
-    "upvotes": 149,
-    "author": "kpats",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26491764"
-  },
-  {
-    "title": "Grice’s Maxims of Conversation",
-    "url": "https://effectiviology.com/principles-of-effective-communication/",
-    "upvotes": 30,
-    "author": "EndXA",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26489494"
-  },
-  {
-    "title": "Launch HN: Finley (YC W21) – Debt capital monitoring and reporting software",
-    "url": "item?id=26492329",
-    "upvotes": 51,
-    "author": "suhpreme",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26492329"
   },
   {
     "title": "Static website analytics with no JavaScript using GoAccess",
     "url": "https://blog.bitgate.cz/static-site-analytics-with-nginx-goaccess-no-js/",
-    "upvotes": 8,
+    "upvotes": 13,
     "author": "danielkessl",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26496816"
   },
   {
-    "title": "Scientists grow mice embryos in a mechanical womb",
-    "url": "https://www.nytimes.com/2021/03/17/health/mice-artificial-uterus.html",
-    "upvotes": 74,
-    "author": "uptown",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=26493129"
+    "title": "Show HN: Dendron – fast open-source note-taking in VSCode",
+    "url": "https://wiki.dendron.so/",
+    "upvotes": 156,
+    "author": "kpats",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=26491764"
   },
   {
-    "title": "Show HN: Attract more customers by highlighting why people trust you",
-    "url": "http://shoutout.so/",
-    "upvotes": 24,
-    "author": "sharath39",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26494406"
+    "title": "Grice’s Maxims of Conversation",
+    "url": "https://effectiviology.com/principles-of-effective-communication/",
+    "upvotes": 32,
+    "author": "EndXA",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26489494"
+  },
+  {
+    "title": "Launch HN: Finley (YC W21) – Debt capital monitoring and reporting software",
+    "url": "item?id=26492329",
+    "upvotes": 52,
+    "author": "suhpreme",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26492329"
+  },
+  {
+    "title": "Scientists grow mice embryos in a mechanical womb",
+    "url": "https://www.nytimes.com/2021/03/17/health/mice-artificial-uterus.html",
+    "upvotes": 78,
+    "author": "uptown",
+    "comments": 139,
+    "link": "https://news.ycombinator.com/item?id=26493129"
   },
   {
     "title": "GitHub, fuck your name change",
     "url": "https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe",
-    "upvotes": 3018,
+    "upvotes": 3055,
     "author": "leontrolski",
-    "comments": 1723,
+    "comments": 1743,
     "link": "https://news.ycombinator.com/item?id=26487854"
+  },
+  {
+    "title": "Show HN: Attract more customers by highlighting why people trust you",
+    "url": "http://shoutout.so/",
+    "upvotes": 27,
+    "author": "sharath39",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26494406"
   },
   {
     "title": "Claude Shannon: The Mathematical Theory of Cryptography",
     "url": "https://evervault.com/papers/shannon",
-    "upvotes": 176,
+    "upvotes": 179,
     "author": "declain",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26490207"
   },
   {
+    "title": "Fintech Giant Fiserv Used Unclaimed Domain",
+    "url": "https://krebsonsecurity.com/2021/03/fintech-giant-fiserv-used-unclaimed-domain/",
+    "upvotes": 99,
+    "author": "todsacerdoti",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26491851"
+  },
+  {
     "title": "Irish webapp to recreate pub atmosphere at home",
     "url": "https://soundsofthepub.com/",
-    "upvotes": 286,
+    "upvotes": 289,
     "author": "arazy",
     "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26491948"
-  },
-  {
-    "title": "Fintech Giant Fiserv Used Unclaimed Domain",
-    "url": "https://krebsonsecurity.com/2021/03/fintech-giant-fiserv-used-unclaimed-domain/",
-    "upvotes": 96,
-    "author": "todsacerdoti",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26491851"
   }
 ]
