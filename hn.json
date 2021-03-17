@@ -1,96 +1,112 @@
 [
   {
+    "title": "Audi abandons combustion engine development",
+    "url": "https://www.electrive.com/2021/03/16/audi-abandons-combustion-engine-development/",
+    "upvotes": 51,
+    "author": "reddotX",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26486375"
+  },
+  {
     "title": "Why in the World Would You Own Bonds?",
     "url": "https://www.bridgewater.com/research-and-insights/why-in-the-world-would-you-own-bonds-when",
-    "upvotes": 69,
+    "upvotes": 104,
     "author": "nkurz",
-    "comments": 25,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26485756"
+  },
+  {
+    "title": "New SWAT drone smashes windows, opens doors, and negotiates with suspects",
+    "url": "https://dronedj.com/2021/03/10/new-swat-drone-has-whirling-blade/",
+    "upvotes": 22,
+    "author": "prostoalex",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26486114"
   },
   {
     "title": "GitHub Has a Permission Problem",
     "url": "https://games.greggman.com/game/github-permission-problem/",
-    "upvotes": 140,
+    "upvotes": 163,
     "author": "phreack",
-    "comments": 66,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26484927"
   },
   {
     "title": "The Modern Java Platform",
     "url": "https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/",
-    "upvotes": 13,
+    "upvotes": 26,
     "author": "craigkerstiens",
-    "comments": 2,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26485993"
-  },
-  {
-    "title": "The auction that set off the race for AI supremacy",
-    "url": "https://www.wired.com/story/secret-auction-race-ai-supremacy-google-microsoft-baidu/",
-    "upvotes": 139,
-    "author": "chriskanan",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=26484234"
   },
   {
     "title": "The Difficulties of SAML Single Logout",
     "url": "https://wiki.shibboleth.net/confluence/display/CONCEPT/SLOIssues",
-    "upvotes": 21,
+    "upvotes": 27,
     "author": "mooreds",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26485737"
+  },
+  {
+    "title": "The auction that set off the race for AI supremacy",
+    "url": "https://www.wired.com/story/secret-auction-race-ai-supremacy-google-microsoft-baidu/",
+    "upvotes": 145,
+    "author": "chriskanan",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26484234"
   },
   {
     "title": "Pangolin – Mobile AMD laptop with Ryzen CPU and Radeon graphics",
     "url": "https://system76.com/laptops/pangolin?its-the-same-url-but-the-content-has-changed-thank-you",
-    "upvotes": 433,
+    "upvotes": 439,
     "author": "bananicorn",
-    "comments": 400,
+    "comments": 408,
     "link": "https://news.ycombinator.com/item?id=26477855"
   },
   {
     "title": "Runj: Experimental, proof-of-concept OCI-compatible runtime for FreeBSD jails",
     "url": "https://github.com/samuelkarp/runj#runj",
-    "upvotes": 160,
+    "upvotes": 162,
     "author": "ingve",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26482304"
   },
   {
     "title": "Moore's Law for Everything",
     "url": "https://moores.samaltman.com/",
-    "upvotes": 276,
+    "upvotes": 284,
     "author": "icey",
-    "comments": 359,
+    "comments": 366,
     "link": "https://news.ycombinator.com/item?id=26480981"
-  },
-  {
-    "title": "In-kernel WireGuard is on its way to FreeBSD and the pfSense router",
-    "url": "https://arstechnica.com/gadgets/2021/03/in-kernel-wireguard-is-on-its-way-to-freebsd-and-the-pfsense-router/",
-    "upvotes": 332,
-    "author": "xoa",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=26475519"
   },
   {
     "title": "Introducing the Wikimedia Enterprise API",
     "url": "https://diff.wikimedia.org/2021/03/16/introducing-the-wikimedia-enterprise-api/",
-    "upvotes": 107,
+    "upvotes": 112,
     "author": "dfjorque",
-    "comments": 58,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26484080"
+  },
+  {
+    "title": "In-kernel WireGuard is on its way to FreeBSD and the pfSense router",
+    "url": "https://arstechnica.com/gadgets/2021/03/in-kernel-wireguard-is-on-its-way-to-freebsd-and-the-pfsense-router/",
+    "upvotes": 334,
+    "author": "xoa",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=26475519"
   },
   {
     "title": "Wooden floors rotted by fungi generate electricity when walked on",
     "url": "https://www.newscientist.com/article/2270527-wooden-floors-rotted-by-fungi-generate-electricity-when-walked-on/",
-    "upvotes": 54,
+    "upvotes": 58,
     "author": "Bluestein",
-    "comments": 35,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26464470"
   },
   {
     "title": "Improving large monorepo performance on GitHub",
     "url": "https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/",
-    "upvotes": 279,
+    "upvotes": 283,
     "author": "todsacerdoti",
     "comments": 110,
     "link": "https://news.ycombinator.com/item?id=26479127"
@@ -98,78 +114,94 @@
   {
     "title": "Swift Evolution: Actors",
     "url": "https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md",
-    "upvotes": 219,
+    "upvotes": 224,
     "author": "mpweiher",
-    "comments": 92,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=26480922"
   },
   {
-    "title": "Finding a standard dataset format for machine learning",
-    "url": "https://openml.github.io/blog/openml/data/2020/03/23/Finding-a-standard-dataset-format-for-machine-learning.html",
-    "upvotes": 17,
-    "author": "teleforce",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26462685"
+    "title": "Ask HN: What are some “10x” software product innovations you have experienced?",
+    "url": "item?id=26477507",
+    "upvotes": 318,
+    "author": "pramodbiligiri",
+    "comments": 602,
+    "link": "https://news.ycombinator.com/item?id=26477507"
+  },
+  {
+    "title": "Structure of Fruit Fly Brain",
+    "url": "https://www.nature.com/articles/d41586-018-05782-x",
+    "upvotes": 5,
+    "author": "icanhackit",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26474430"
+  },
+  {
+    "title": "GeForce RTX 3060 Ethereum Mining Restrictions Have Been Broken",
+    "url": "https://videocardz.com/newz/pc-watch-geforce-rtx-3060-ethereum-mining-restrictions-have-been-broken",
+    "upvotes": 229,
+    "author": "optimalsolver",
+    "comments": 279,
+    "link": "https://news.ycombinator.com/item?id=26475596"
   },
   {
     "title": "Atari 65XE",
     "url": "http://www.atarimuseum.com/computers/8bits/xe/65xe/65xe.html",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "indigodaddy",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26463154"
   },
   {
     "title": "Lost in Thought: Psychological Risks of Meditation",
     "url": "https://harpers.org/archive/2021/04/lost-in-thought-psychological-risks-of-meditation/",
-    "upvotes": 45,
+    "upvotes": 57,
     "author": "telotortium",
-    "comments": 53,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26485608"
   },
   {
-    "title": "Ask HN: What are some “10x” software product innovations you have experienced?",
-    "url": "item?id=26477507",
-    "upvotes": 301,
-    "author": "pramodbiligiri",
-    "comments": 585,
-    "link": "https://news.ycombinator.com/item?id=26477507"
-  },
-  {
-    "title": "GeForce RTX 3060 Ethereum Mining Restrictions Have Been Broken",
-    "url": "https://videocardz.com/newz/pc-watch-geforce-rtx-3060-ethereum-mining-restrictions-have-been-broken",
-    "upvotes": 226,
-    "author": "optimalsolver",
-    "comments": 271,
-    "link": "https://news.ycombinator.com/item?id=26475596"
-  },
-  {
-    "title": "The Case Against Lockdowns",
-    "url": "https://cspicenter.org/blog/waronscience/the-case-against-lockdowns/",
-    "upvotes": 8,
-    "author": "barry-cotter",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26485999"
+    "title": "How I make graphics for retro systems and retro-styled games",
+    "url": "http://nicole.express/2021/how-i-handle-graphics.html",
+    "upvotes": 179,
+    "author": "zdw",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26459036"
   },
   {
     "title": "Dover (YC S19) is hiring our first Growth Product Engineer",
     "url": "item?id=26482900"
   },
   {
-    "title": "How I make graphics for retro systems and retro-styled games",
-    "url": "http://nicole.express/2021/how-i-handle-graphics.html",
-    "upvotes": 178,
-    "author": "zdw",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26459036"
+    "title": "Finding a standard dataset format for machine learning",
+    "url": "https://openml.github.io/blog/openml/data/2020/03/23/Finding-a-standard-dataset-format-for-machine-learning.html",
+    "upvotes": 19,
+    "author": "teleforce",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26462685"
   },
   {
     "title": "It's time to build: a New World's Fair",
     "url": "https://www.cameronwiese.com/blog/worlds-fair",
-    "upvotes": 221,
+    "upvotes": 222,
     "author": "camwiese",
-    "comments": 173,
+    "comments": 176,
     "link": "https://news.ycombinator.com/item?id=26481373"
+  },
+  {
+    "title": "On the Impracticality of a Cheeseburger",
+    "url": "https://waldo.jaquith.org/blog/2011/12/impractical-cheeseburger/",
+    "upvotes": 18,
+    "author": "sea6ear",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26484938"
+  },
+  {
+    "title": "Show HN: O",
+    "url": "https://github.com/pyroscope-io/pyroscope/blob/main/docs/storage-design.md",
+    "upvotes": 54,
+    "author": "petethepig",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26484339"
   },
   {
     "title": "Jim McKelvey Interview, co-founder of Square",
@@ -188,51 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26480971"
   },
   {
-    "title": "Show HN: O",
-    "url": "https://github.com/pyroscope-io/pyroscope/blob/main/docs/storage-design.md",
-    "upvotes": 47,
-    "author": "petethepig",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26484339"
-  },
-  {
-    "title": "On the Impracticality of a Cheeseburger",
-    "url": "https://waldo.jaquith.org/blog/2011/12/impractical-cheeseburger/",
-    "upvotes": 9,
-    "author": "sea6ear",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26484938"
-  },
-  {
     "title": "UC secures landmark open access deal with world’s largest scientific publisher",
     "url": "https://www.universityofcalifornia.edu/press-room/uc-news-uc-secures-landmark-open-access-deal-world-s-largest-scientific-publisher",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "SubiculumCode",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26478975"
   },
   {
-    "title": "The geeks who saved Usenet",
-    "url": "https://www.salon.com/2002/01/08/saving_usenet/",
-    "upvotes": 61,
-    "author": "slyall",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26473172"
-  },
-  {
     "title": "Docker Raises $23M",
     "url": "https://www.docker.com/press-release/Docker-Series-B",
-    "upvotes": 281,
+    "upvotes": 286,
     "author": "nickjj",
-    "comments": 249,
+    "comments": 255,
     "link": "https://news.ycombinator.com/item?id=26477999"
-  },
-  {
-    "title": "So You Want to Do an Infrastructure Package [pdf]",
-    "url": "https://www.niskanencenter.org/wp-content/uploads/2021/03/levy-infastructure.pdf",
-    "upvotes": 132,
-    "author": "ruddct",
-    "comments": 168,
-    "link": "https://news.ycombinator.com/item?id=26482757"
   }
 ]
