@@ -1,238 +1,238 @@
 [
   {
+    "title": "Google Cloud Networking reporting issues",
+    "url": "https://status.cloud.google.com/",
+    "upvotes": 68,
+    "author": "xur17",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26494258"
+  },
+  {
     "title": "FreeBSD 13.0 – Full Desktop Experience",
     "url": "https://www.tubsta.com/2021/03/freebsd-13-0-full-desktop-experience/",
-    "upvotes": 177,
+    "upvotes": 189,
     "author": "tate",
-    "comments": 126,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=26491974"
   },
   {
     "title": "Irish webapp to recreate pub atmosphere at home today",
     "url": "https://soundsofthepub.com/",
-    "upvotes": 205,
+    "upvotes": 229,
     "author": "arazy",
-    "comments": 61,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26491948"
   },
   {
     "title": "Let there be more biographies of failures",
     "url": "https://commonreader.substack.com/p/let-there-be-more-biographies-of",
-    "upvotes": 77,
+    "upvotes": 100,
     "author": "commons-tragedy",
-    "comments": 23,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26493010"
   },
   {
     "title": "Milky Way, 12 years, 1250 hours of exposures and 125 x 22 degrees of sky",
     "url": "https://astroanarchy.blogspot.com/2021/03/gigapixel-mosaic-of-milky-way-1250.html",
-    "upvotes": 311,
+    "upvotes": 331,
     "author": "giuliomagnifico",
-    "comments": 58,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26490579"
-  },
-  {
-    "title": "Google Cloud Networking reporting issues",
-    "url": "https://status.cloud.google.com/",
-    "upvotes": 36,
-    "author": "xur17",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26494258"
   },
   {
     "title": "Shifting attention to accuracy can reduce misinformation online",
     "url": "https://www.nature.com/articles/s41586-021-03344-2",
-    "upvotes": 32,
+    "upvotes": 49,
     "author": "mpweiher",
-    "comments": 18,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26493542"
   },
   {
     "title": "Indiana Jones and the Last Crusade EGA/VGA Comparison",
     "url": "http://www.superrune.com/tutorials/indy3_ega.php",
-    "upvotes": 304,
+    "upvotes": 318,
     "author": "ingve",
-    "comments": 87,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26489561"
+  },
+  {
+    "title": "Do not use redirection characters in your shell prompt",
+    "url": "https://tanelpoder.com/posts/how-to-stay-safe-in-shell/",
+    "upvotes": 105,
+    "author": "tanelpoder",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26491858"
   },
   {
     "title": "Circle Medical",
     "url": "https://jobs.lever.co/circlemedical/78723d6b-49fc-4bb5-911d-61d1ca20b6ea?lever-origin=applied&lever-source%5B%5D=HACKERNEWS"
   },
   {
-    "title": "Do not use redirection characters in your shell prompt",
-    "url": "https://tanelpoder.com/posts/how-to-stay-safe-in-shell/",
+    "title": "Writing Small CLI Programs in Common Lisp",
+    "url": "https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/",
+    "upvotes": 49,
+    "author": "reikonomusha",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26493588"
+  },
+  {
+    "title": "Phrack Magazine",
+    "url": "http://phrack.org/issues/69/1.html",
     "upvotes": 85,
-    "author": "tanelpoder",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=26491858"
+    "author": "0x737368",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26475708"
   },
   {
     "title": "Launch HN: Chums (YC W21) – Shop online with friends",
     "url": "item?id=26493938",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "dickfickling",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26493938"
   },
   {
-    "title": "Phrack, e-zine written by and for hackers",
-    "url": "http://phrack.org/issues/69/1.html",
-    "upvotes": 68,
-    "author": "0x737368",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26475708"
-  },
-  {
-    "title": "Writing Small CLI Programs in Common Lisp",
-    "url": "https://stevelosh.com/blog/2021/03/small-common-lisp-cli-programs/",
-    "upvotes": 34,
-    "author": "reikonomusha",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26493588"
-  },
-  {
-    "title": "Show HN: Dendron – Super Fast Open Source Note-Taking in VSCode",
+    "title": "Show HN: Dendron – fast open-source note-taking in VSCode",
     "url": "https://wiki.dendron.so/",
-    "upvotes": 86,
+    "upvotes": 95,
     "author": "kpats",
-    "comments": 46,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26491764"
+  },
+  {
+    "title": "Migrating Millions of Concurrent WebSockets to Envoy",
+    "url": "https://slack.engineering/migrating-millions-of-concurrent-websockets-to-envoy/",
+    "upvotes": 11,
+    "author": "jbredeche",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26476894"
   },
   {
     "title": "How to Deal with Difficult People on Software Projects",
     "url": "https://www.howtodeal.dev/",
-    "upvotes": 94,
+    "upvotes": 110,
     "author": "SimplyUseless",
-    "comments": 47,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26491991"
   },
   {
     "title": "Fintech Giant Fiserv Used Unclaimed Domain",
     "url": "https://krebsonsecurity.com/2021/03/fintech-giant-fiserv-used-unclaimed-domain/",
-    "upvotes": 60,
+    "upvotes": 69,
     "author": "todsacerdoti",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26491851"
+  },
+  {
+    "title": "Launch HN: Finley (YC W21) – Debt capital monitoring and reporting software",
+    "url": "item?id=26492329",
+    "upvotes": 39,
+    "author": "suhpreme",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26492329"
+  },
+  {
+    "title": "The human brain grew as a result of the extinction of large animals",
+    "url": "https://phys.org/news/2021-03-human-brain-grew-result-extinction.html",
+    "upvotes": 11,
+    "author": "Hooke",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26471193"
+  },
+  {
+    "title": "Show HN: Cloud GPUs for Deep Learning – At 1/3 the Cost of AWS/GCP",
+    "url": "https://gpu.land/",
+    "upvotes": 78,
+    "author": "ilmoi",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26492931"
   },
   {
     "title": "Claude Shannon: The Mathematical Theory of Cryptography",
     "url": "https://evervault.com/papers/shannon",
-    "upvotes": 141,
+    "upvotes": 147,
     "author": "declain",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26490207"
   },
   {
-    "title": "Internet Archive ‘Legitimately Useful’ for Lending and Preservation",
-    "url": "http://blog.archive.org/2021/03/17/author-and-open-source-advocate-vm-brasseur-internet-archive-legitimately-useful-for-lending-and-preservation-of-her-work/",
-    "upvotes": 27,
-    "author": "vmbrasseur",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26492203"
-  },
-  {
-    "title": "Stack Overflow for Teams is now free forever for up to 50 users",
-    "url": "https://stackoverflow.blog/2021/03/17/stack-overflow-for-teams-is-now-free-forever-for-up-to-50-users/",
-    "upvotes": 56,
-    "author": "TangerineDream",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26491454"
-  },
-  {
-    "title": "Show HN: Cloud GPUs for Deep Learning – At 1/3 the Cost of AWS/GCP",
-    "url": "https://gpu.land/",
-    "upvotes": 59,
-    "author": "ilmoi",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26492931"
-  },
-  {
     "title": "Google Play service fee reduced to 15% for the first $1M/year",
     "url": "https://android-developers.googleblog.com/2021/03/boosting-dev-success.html",
-    "upvotes": 412,
+    "upvotes": 416,
     "author": "h43k3r",
-    "comments": 270,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=26486737"
-  },
-  {
-    "title": "Launch HN: Finley (YC W21) – Debt capital monitoring and reporting software",
-    "url": "item?id=26492329",
-    "upvotes": 31,
-    "author": "suhpreme",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26492329"
   },
   {
     "title": "GitHub, fuck your name change",
     "url": "https://mooseyanon.medium.com/github-f-ck-your-name-change-de599033bbbe",
-    "upvotes": 2512,
+    "upvotes": 2588,
     "author": "leontrolski",
-    "comments": 1371,
+    "comments": 1427,
     "link": "https://news.ycombinator.com/item?id=26487854"
+  },
+  {
+    "title": "Robust Soldier Crab Ball Gate [pdf]",
+    "url": "http://wpmedia.wolfram.com/uploads/sites/13/2018/02/20-2-2.pdf",
+    "upvotes": 4,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26494871"
+  },
+  {
+    "title": "Amazon Care to launch across U.S. this summer, offering access to medical care",
+    "url": "https://www.aboutamazon.com/news/workplace/amazon-care-to-launch-across-u-s-this-summer-offering-millions-of-individuals-and-families-immediate-access-to-high-quality-medical-care-and-advice-24-hours-a-day-365-days-a-year",
+    "upvotes": 11,
+    "author": "prostoalex",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26494773"
   },
   {
     "title": "How to See S3 Bucket Storage Types and Storage Costs",
     "url": "https://www.vantage.sh/blog/how-to-see-s3-bucket-storage-types-and-storage-costs",
-    "upvotes": 54,
+    "upvotes": 58,
     "author": "StratusBen",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26491852"
+  },
+  {
+    "title": "The blast that shook the ionosphere",
+    "url": "https://www.global.hokudai.ac.jp/blog/the-blast-that-shook-the-ionosphere/",
+    "upvotes": 3,
+    "author": "rustoo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26494995"
   },
   {
     "title": "SQLAlchemy 1.4",
     "url": "https://www.sqlalchemy.org/blog/2021/03/15/sqlalchemy-1.4.0-released/",
-    "upvotes": 200,
+    "upvotes": 208,
     "author": "mkl95",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26487959"
+  },
+  {
+    "title": "Top Texas regulator ousted as recording emerges of pledge to protect Wall Street",
+    "url": "https://www.houstonchronicle.com/politics/texas/article/Ouster-of-top-Texas-utility-regulator-follows-16031381.php",
+    "upvotes": 53,
+    "author": "stefan_",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26493879"
   },
   {
     "title": "ElegantRL: A Lightweight and Stable Deep Reinforcement Learning Library",
     "url": "https://github.com/AI4Finance-LLC/ElegantRL",
-    "upvotes": 10,
+    "upvotes": 17,
     "author": "yanglet",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26473078"
   },
   {
-    "title": "International Space Station Traffic",
-    "url": "https://www.supercluster.com/iss",
-    "upvotes": 58,
-    "author": "nreece",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26490096"
-  },
-  {
-    "title": "Computer tool spots deepfakes via tiny reflections in the eyes",
-    "url": "https://newatlas.com/computers/computer-tool-deepfakes-94-percent-accuracy/",
-    "upvotes": 128,
-    "author": "DamnInteresting",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=26478692"
-  },
-  {
-    "title": "Common Mistakes of New Engineering Managers",
-    "url": "https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/",
-    "upvotes": 286,
-    "author": "ochronus",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=26474947"
-  },
-  {
-    "title": "The Modern Java Platform – 2021 Edition",
-    "url": "https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/",
-    "upvotes": 233,
-    "author": "craigkerstiens",
-    "comments": 203,
-    "link": "https://news.ycombinator.com/item?id=26485993"
-  },
-  {
-    "title": "Top Texas regulator ousted as recording emerges of pledge to protect Wall Street",
-    "url": "https://www.houstonchronicle.com/politics/texas/article/Ouster-of-top-Texas-utility-regulator-follows-16031381.php",
-    "upvotes": 13,
-    "author": "stefan_",
+    "title": "Show HN: PBJ Live – Add live streaming to any app or website",
+    "url": "https://pbj.live/",
+    "upvotes": 10,
+    "author": "Casc",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26493879"
+    "link": "https://news.ycombinator.com/item?id=26494752"
   }
 ]
