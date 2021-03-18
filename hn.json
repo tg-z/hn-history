@@ -2,50 +2,58 @@
   {
     "title": "We found and fixed a rare race condition in our session handling",
     "url": "https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/",
-    "upvotes": 81,
+    "upvotes": 129,
     "author": "todsacerdoti",
-    "comments": 12,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26506920"
   },
   {
     "title": "Interview with CEO of rsync.net: “no firewalls and no routers”",
     "url": "https://console.dev/qa/rsync-john-kozubik/",
-    "upvotes": 286,
+    "upvotes": 311,
     "author": "dmytton",
-    "comments": 142,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=26504287"
   },
   {
     "title": "Show HN: Sorted CSS Colors – Sort the named CSS colors in a nice way",
     "url": "https://enes.in/sorted-colors",
-    "upvotes": 349,
+    "upvotes": 363,
     "author": "knuptfad",
-    "comments": 123,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=26503572"
+  },
+  {
+    "title": "WireGuard Removed from pfSense",
+    "url": "https://www.netgate.com/blog/wireguard-removed-from-pfsense-ce-and-pfsense-plus-software.html",
+    "upvotes": 36,
+    "author": "TheGuyWhoCodes",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26507507"
   },
   {
     "title": "Outrun: Execute local command using processing power of another Linux machine",
     "url": "https://github.com/Overv/outrun#outrun",
-    "upvotes": 269,
+    "upvotes": 281,
     "author": "ingve",
-    "comments": 95,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26504131"
   },
   {
     "title": "ShellCheck: A static analysis tool for shell scripts",
     "url": "https://github.com/koalaman/shellcheck",
-    "upvotes": 173,
+    "upvotes": 182,
     "author": "ducktective",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26504661"
   },
   {
-    "title": "WireGuard Removed from pfSense",
-    "url": "https://www.netgate.com/blog/wireguard-removed-from-pfsense-ce-and-pfsense-plus-software.html",
-    "upvotes": 21,
-    "author": "TheGuyWhoCodes",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26507507"
+    "title": "Morning Brew went from college newsletter to $75M in 5 years",
+    "url": "https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/",
+    "upvotes": 18,
+    "author": "smalera",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26507480"
   },
   {
     "title": "OneSignal",
@@ -54,58 +62,90 @@
   {
     "title": "Super Resolution",
     "url": "https://blog.adobe.com/en/publish/2021/03/10/from-the-acr-team-super-resolution.html",
-    "upvotes": 249,
+    "upvotes": 253,
     "author": "giuliomagnifico",
-    "comments": 149,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=26487425"
   },
   {
-    "title": "JamRTC – WebRTC for Live Musicians",
-    "url": "https://github.com/lminiero/jamrtc",
-    "upvotes": 54,
-    "author": "kimi",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26505059"
+    "title": "6502 SpASM",
+    "url": "https://github.com/tilleul/apple2/tree/master/tools/6502_assembler",
+    "upvotes": 8,
+    "author": "panic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26507664"
   },
   {
     "title": "Show HN: LitiHolo – a desktop 3D hologram printer that makes true holograms",
     "url": "http://www.litiholo.com/3d-hologram-printer.html#3DHologramPrinterStory",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "hologram-paul",
-    "comments": 80,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26503715"
+  },
+  {
+    "title": "JamRTC – WebRTC for Live Musicians",
+    "url": "https://github.com/lminiero/jamrtc",
+    "upvotes": 56,
+    "author": "kimi",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26505059"
   },
   {
     "title": "U.S. Government Finally Gets Serious About IoT Security",
     "url": "https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security",
-    "upvotes": 30,
+    "upvotes": 34,
     "author": "samizdis",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26506772"
-  },
-  {
-    "title": "Atari Transputer Workstation",
-    "url": "http://dunfield.classiccmp.org/atw800/index.htm",
-    "upvotes": 92,
-    "author": "gscott",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26488501"
   },
   {
     "title": "Gallery of interactive fluid simulations. They are configured with plain text",
     "url": "https://github.com/cselab/aphros/wiki/Aphros-Explorer",
-    "upvotes": 19,
+    "upvotes": 24,
     "author": "iamwil",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26499835"
+  },
+  {
+    "title": "Atari Transputer Workstation",
+    "url": "http://dunfield.classiccmp.org/atw800/index.htm",
+    "upvotes": 95,
+    "author": "gscott",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26488501"
   },
   {
     "title": "Launch HN: Chatwoot (YC W21) – Open-Source Alternative to Intercom, Zendesk",
     "url": "item?id=26501527",
-    "upvotes": 308,
+    "upvotes": 309,
     "author": "pranav_rajs",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26501527"
+  },
+  {
+    "title": "What’s up with these new not-open source licenses?",
+    "url": "https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/",
+    "upvotes": 100,
+    "author": "todsacerdoti",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=26504021"
+  },
+  {
+    "title": "Show HN: SpectaQL – auto-generate GraphQL API documentation",
+    "url": "https://github.com/anvilco/spectaql#spectaql",
+    "upvotes": 10,
+    "author": "mrbogle",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26507373"
+  },
+  {
+    "title": "Swarms of soldier crabs can implement logical gates",
+    "url": "https://arxiv.org/abs/1204.1749",
+    "upvotes": 5,
+    "author": "sohkamyung",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26487036"
   },
   {
     "title": "Launch HN: Taloflow (YC W21) – Find the top cloud or dev tools for your use case",
@@ -116,92 +156,68 @@
     "link": "https://news.ycombinator.com/item?id=26504834"
   },
   {
-    "title": "What’s up with these new not-open source licenses?",
-    "url": "https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/",
-    "upvotes": 93,
-    "author": "todsacerdoti",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26504021"
-  },
-  {
-    "title": "Morning Brew went from college newsletter to $75M in 5 years",
-    "url": "https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/",
-    "upvotes": 8,
-    "author": "smalera",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26507480"
-  },
-  {
-    "title": "6502 SpASM",
-    "url": "https://github.com/tilleul/apple2/tree/master/tools/6502_assembler",
-    "upvotes": 3,
-    "author": "panic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26507664"
-  },
-  {
     "title": "Unironically using Kubernetes for my personal blog",
     "url": "https://mbuffett.com/posts/kubernetes-setup/",
-    "upvotes": 144,
+    "upvotes": 155,
     "author": "tate",
-    "comments": 168,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=26502900"
-  },
-  {
-    "title": "Iberian Citadel of Calafell, Iron Age Village",
-    "url": "https://www.atlasobscura.com/places/iberian-citadel-of-calafell",
-    "upvotes": 95,
-    "author": "CapitalistCartr",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26502918"
-  },
-  {
-    "title": "Show HN: Online Interactive Parser",
-    "url": "https://fransfaase.github.io/ParserWorkshop/Online_inter_parser.html",
-    "upvotes": 12,
-    "author": "fjfaase",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26475580"
-  },
-  {
-    "title": "New Brunswick monitoring more than 40 cases of unknown neurological disease",
-    "url": "https://www.cbc.ca/news/canada/new-brunswick/mad-cow-disease-public-health-1.5953478",
-    "upvotes": 77,
-    "author": "curmudgeon22",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26503284"
   },
   {
     "title": "Building a shared vision for Async Rust",
     "url": "https://blog.rust-lang.org/2021/03/18/async-vision-doc.html",
-    "upvotes": 64,
+    "upvotes": 78,
     "author": "todsacerdoti",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26503809"
   },
   {
     "title": "Show HN: A Directory of Personal Blogs",
     "url": "https://blogsurf.io",
-    "upvotes": 25,
+    "upvotes": 33,
     "author": "dbrereton",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26506126"
+  },
+  {
+    "title": "Iberian Citadel of Calafell, Iron Age Village",
+    "url": "https://www.atlasobscura.com/places/iberian-citadel-of-calafell",
+    "upvotes": 96,
+    "author": "CapitalistCartr",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26502918"
+  },
+  {
+    "title": "New Brunswick monitoring more than 40 cases of unknown neurological disease",
+    "url": "https://www.cbc.ca/news/canada/new-brunswick/mad-cow-disease-public-health-1.5953478",
+    "upvotes": 83,
+    "author": "curmudgeon22",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26503284"
+  },
+  {
+    "title": "“When the entire household goes to bed, I do curl development for 2 more hours.”",
+    "url": "https://twitter.com/bagder/status/1372572657317711876",
+    "upvotes": 36,
+    "author": "danso",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26505303"
+  },
+  {
+    "title": "Show HN: Online Interactive Parser",
+    "url": "https://fransfaase.github.io/ParserWorkshop/Online_inter_parser.html",
+    "upvotes": 16,
+    "author": "fjfaase",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26475580"
   },
   {
     "title": "All Futurama Opening Quotes",
     "url": "https://theabbie.github.io/blog/All-Futurama-Opening-Quotes",
-    "upvotes": 145,
+    "upvotes": 156,
     "author": "melector",
-    "comments": 65,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26506447"
-  },
-  {
-    "title": "Show HN: Inventhub – Electronics product design collaboration platform",
-    "url": "https://inventhub.io",
-    "upvotes": 6,
-    "author": "usamaabid",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26507436"
   },
   {
     "title": "Adventures in data-oriented design – Part 3b: Internal References",
@@ -212,27 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=26502677"
   },
   {
-    "title": "Show HN: SpectaQL – auto-generate GraphQL API documentation",
-    "url": "https://github.com/anvilco/spectaql#spectaql",
-    "upvotes": 6,
-    "author": "mrbogle",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26507373"
-  },
-  {
-    "title": "YouTube can now warn creators about copyright issues before videos are posted",
-    "url": "https://www.theverge.com/2021/3/17/22335728/youtube-checks-monetization-copyright-claim-dispute-tool",
-    "upvotes": 72,
-    "author": "finphil",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26505847"
-  },
-  {
     "title": "I Want a New Duck",
     "url": "https://glyph.twistedmatrix.com/2020/07/new-duck.html",
-    "upvotes": 57,
+    "upvotes": 65,
     "author": "BerislavLopac",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26488171"
   }
 ]
