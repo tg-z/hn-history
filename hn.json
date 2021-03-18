@@ -2,99 +2,107 @@
   {
     "title": "We found and fixed a rare race condition in our session handling",
     "url": "https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/",
-    "upvotes": 196,
+    "upvotes": 219,
     "author": "todsacerdoti",
-    "comments": 42,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26506920"
-  },
-  {
-    "title": "WireGuard Removed from pfSense",
-    "url": "https://www.netgate.com/blog/wireguard-removed-from-pfsense-ce-and-pfsense-plus-software.html",
-    "upvotes": 54,
-    "author": "TheGuyWhoCodes",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26507507"
   },
   {
     "title": "Interview with CEO of rsync.net: “no firewalls and no routers”",
     "url": "https://console.dev/qa/rsync-john-kozubik/",
-    "upvotes": 331,
+    "upvotes": 339,
     "author": "dmytton",
-    "comments": 174,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=26504287"
+  },
+  {
+    "title": "Media trust hits new low",
+    "url": "https://www.axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html",
+    "upvotes": 21,
+    "author": "rbanffy",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26508039"
   },
   {
     "title": "Show HN: Sorted CSS Colors – Sort the named CSS colors in a nice way",
     "url": "https://enes.in/sorted-colors",
-    "upvotes": 376,
+    "upvotes": 381,
     "author": "knuptfad",
-    "comments": 128,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=26503572"
   },
   {
     "title": "Outrun: Execute local command using processing power of another Linux machine",
     "url": "https://github.com/Overv/outrun#outrun",
-    "upvotes": 298,
+    "upvotes": 307,
     "author": "ingve",
-    "comments": 98,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=26504131"
   },
   {
     "title": "ShellCheck: A static analysis tool for shell scripts",
     "url": "https://github.com/koalaman/shellcheck",
-    "upvotes": 201,
+    "upvotes": 210,
     "author": "ducktective",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26504661"
   },
   {
     "title": "Morning Brew went from college newsletter to $75M in 5 years",
     "url": "https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/",
-    "upvotes": 28,
+    "upvotes": 32,
     "author": "smalera",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26507480"
   },
   {
-    "title": "Super Resolution",
-    "url": "https://blog.adobe.com/en/publish/2021/03/10/from-the-acr-team-super-resolution.html",
-    "upvotes": 265,
-    "author": "giuliomagnifico",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=26487425"
+    "title": "Swarms of soldier crabs can implement logical gates",
+    "url": "https://arxiv.org/abs/1204.1749",
+    "upvotes": 21,
+    "author": "sohkamyung",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26487036"
+  },
+  {
+    "title": "6502 SpASM",
+    "url": "https://github.com/tilleul/apple2/tree/master/tools/6502_assembler",
+    "upvotes": 20,
+    "author": "panic",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26507664"
   },
   {
     "title": "OneSignal",
     "url": "https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85"
   },
   {
-    "title": "6502 SpASM",
-    "url": "https://github.com/tilleul/apple2/tree/master/tools/6502_assembler",
-    "upvotes": 15,
-    "author": "panic",
+    "title": "Super Resolution",
+    "url": "https://blog.adobe.com/en/publish/2021/03/10/from-the-acr-team-super-resolution.html",
+    "upvotes": 271,
+    "author": "giuliomagnifico",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=26487425"
+  },
+  {
+    "title": "MOnSter 6502",
+    "url": "https://monster6502.com/",
+    "upvotes": 20,
+    "author": "replyifuagree",
     "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26507664"
+    "link": "https://news.ycombinator.com/item?id=26507525"
   },
   {
     "title": "U.S. Government Finally Gets Serious About IoT Security",
     "url": "https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "samizdis",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26506772"
-  },
-  {
-    "title": "Swarms of soldier crabs can implement logical gates",
-    "url": "https://arxiv.org/abs/1204.1749",
-    "upvotes": 13,
-    "author": "sohkamyung",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26487036"
   },
   {
     "title": "JamRTC – WebRTC for Live Musicians",
     "url": "https://github.com/lminiero/jamrtc",
-    "upvotes": 66,
+    "upvotes": 71,
     "author": "kimi",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26505059"
@@ -102,119 +110,119 @@
   {
     "title": "Show HN: LitiHolo – a desktop 3D hologram printer that makes true holograms",
     "url": "http://www.litiholo.com/3d-hologram-printer.html#3DHologramPrinterStory",
-    "upvotes": 133,
+    "upvotes": 136,
     "author": "hologram-paul",
-    "comments": 88,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=26503715"
   },
   {
     "title": "What’s up with these new not-open source licenses?",
     "url": "https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "todsacerdoti",
-    "comments": 155,
+    "comments": 162,
     "link": "https://news.ycombinator.com/item?id=26504021"
-  },
-  {
-    "title": "“When the entire household goes to bed, I do curl development for 2 more hours.”",
-    "url": "https://twitter.com/bagder/status/1372572657317711876",
-    "upvotes": 64,
-    "author": "danso",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26505303"
   },
   {
     "title": "Gallery of interactive fluid simulations. They are configured with plain text",
     "url": "https://github.com/cselab/aphros/wiki/Aphros-Explorer",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "iamwil",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26499835"
   },
   {
-    "title": "Atari Transputer Workstation",
-    "url": "http://dunfield.classiccmp.org/atw800/index.htm",
-    "upvotes": 97,
-    "author": "gscott",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=26488501"
-  },
-  {
-    "title": "Media trust hits new low",
-    "url": "https://www.axios.com/media-trust-crisis-2bf0ec1c-00c0-4901-9069-e26b21c283a9.html",
-    "upvotes": 6,
-    "author": "rbanffy",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26508039"
-  },
-  {
-    "title": "Launch HN: Chatwoot (YC W21) – Open-Source Alternative to Intercom, Zendesk",
-    "url": "item?id=26501527",
-    "upvotes": 309,
-    "author": "pranav_rajs",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=26501527"
+    "title": "“When the entire household goes to bed, I do curl development for 2 more hours.”",
+    "url": "https://twitter.com/bagder/status/1372572657317711876",
+    "upvotes": 75,
+    "author": "danso",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26505303"
   },
   {
     "title": "Show HN: SpectaQL – auto-generate GraphQL API documentation",
     "url": "https://github.com/anvilco/spectaql#spectaql",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "mrbogle",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26507373"
   },
   {
+    "title": "Vuiet, Music Player for Emacs",
+    "url": "https://github.com/mihaiolteanu/vuiet/blob/master/README.md",
+    "upvotes": 5,
+    "author": "molteanu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26501729"
+  },
+  {
+    "title": "Atari Transputer Workstation",
+    "url": "http://dunfield.classiccmp.org/atw800/index.htm",
+    "upvotes": 100,
+    "author": "gscott",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26488501"
+  },
+  {
+    "title": "Launch HN: Chatwoot (YC W21) – Open-Source Alternative to Intercom, Zendesk",
+    "url": "item?id=26501527",
+    "upvotes": 311,
+    "author": "pranav_rajs",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=26501527"
+  },
+  {
     "title": "New Brunswick monitoring more than 40 cases of unknown neurological disease",
     "url": "https://www.cbc.ca/news/canada/new-brunswick/mad-cow-disease-public-health-1.5953478",
-    "upvotes": 96,
+    "upvotes": 101,
     "author": "curmudgeon22",
-    "comments": 50,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26503284"
+  },
+  {
+    "title": "Building a shared vision for Async Rust",
+    "url": "https://blog.rust-lang.org/2021/03/18/async-vision-doc.html",
+    "upvotes": 97,
+    "author": "todsacerdoti",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26503809"
   },
   {
     "title": "Launch HN: Taloflow (YC W21) – Find the top cloud or dev tools for your use case",
     "url": "item?id=26504834",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "cloudfalcon",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26504834"
   },
   {
-    "title": "MOnSter 6502",
-    "url": "https://monster6502.com/",
-    "upvotes": 10,
-    "author": "replyifuagree",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26507525"
-  },
-  {
-    "title": "Building a shared vision for Async Rust",
-    "url": "https://blog.rust-lang.org/2021/03/18/async-vision-doc.html",
-    "upvotes": 92,
-    "author": "todsacerdoti",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26503809"
-  },
-  {
     "title": "Unironically using Kubernetes for my personal blog",
     "url": "https://mbuffett.com/posts/kubernetes-setup/",
-    "upvotes": 167,
+    "upvotes": 171,
     "author": "tate",
-    "comments": 183,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=26502900"
+  },
+  {
+    "title": "FreeBSD kernel-mode WireGuard moves forward out-of-tree",
+    "url": "https://arstechnica.com/gadgets/2021/03/freebsd-kernel-mode-wireguard-moves-forward-out-of-tree/",
+    "upvotes": 59,
+    "author": "TheGuyWhoCodes",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26507507"
   },
   {
     "title": "Iberian Citadel of Calafell, Iron Age Village",
     "url": "https://www.atlasobscura.com/places/iberian-citadel-of-calafell",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "CapitalistCartr",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26502918"
   },
   {
     "title": "Show HN: A Directory of Personal Blogs",
     "url": "https://blogsurf.io",
-    "upvotes": 39,
+    "upvotes": 44,
     "author": "dbrereton",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26506126"
@@ -222,17 +230,9 @@
   {
     "title": "Adventures in data-oriented design – Part 3b: Internal References",
     "url": "https://blog.molecular-matters.com/2013/05/17/adventures-in-data-oriented-design-part-3b-internal-references/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "arberavdullahu",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26502677"
-  },
-  {
-    "title": "All Futurama Opening Quotes",
-    "url": "https://theabbie.github.io/blog/All-Futurama-Opening-Quotes",
-    "upvotes": 171,
-    "author": "melector",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=26506447"
   }
 ]
