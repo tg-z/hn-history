@@ -2,23 +2,23 @@
   {
     "title": "How to Design Programs",
     "url": "https://htdp.org/2018-01-06/Book/",
-    "upvotes": 171,
+    "upvotes": 185,
     "author": "brudgers",
-    "comments": 38,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26493990"
   },
   {
     "title": "She Came to the US to Study with Only $300 – Now She’s a NASA Director",
     "url": "https://www.goodnewsnetwork.org/diana-trujillo-nasa-role-model-mars",
-    "upvotes": 159,
+    "upvotes": 167,
     "author": "RickJWagner",
-    "comments": 70,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26509062"
   },
   {
     "title": "We found and fixed a rare race condition in our session handling",
     "url": "https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/",
-    "upvotes": 431,
+    "upvotes": 438,
     "author": "todsacerdoti",
     "comments": 132,
     "link": "https://news.ycombinator.com/item?id=26506920"
@@ -26,7 +26,7 @@
   {
     "title": "Tracing the Sprawling Roots of Flash Preservation",
     "url": "https://www.vice.com/en/article/wx8y5y/tracing-the-sprawling-roots-of-flash-preservation",
-    "upvotes": 8,
+    "upvotes": 13,
     "author": "cpeterso",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26510000"
@@ -34,15 +34,23 @@
   {
     "title": "Interview with CEO of rsync.net: “no firewalls and no routers”",
     "url": "https://console.dev/qa/rsync-john-kozubik/",
-    "upvotes": 488,
+    "upvotes": 495,
     "author": "dmytton",
-    "comments": 257,
+    "comments": 259,
     "link": "https://news.ycombinator.com/item?id=26504287"
+  },
+  {
+    "title": "The reason the local mall is failing",
+    "url": "https://www.strongtowns.org/journal/2018/4/23/bon-ton-gone",
+    "upvotes": 21,
+    "author": "maxwell",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26509761"
   },
   {
     "title": "Show HN: Sorted CSS Colors – Sort the named CSS colors in a nice way",
     "url": "https://enes.in/sorted-colors",
-    "upvotes": 462,
+    "upvotes": 467,
     "author": "knuptfad",
     "comments": 145,
     "link": "https://news.ycombinator.com/item?id=26503572"
@@ -50,23 +58,15 @@
   {
     "title": "Outrun: Execute local command using processing power of another Linux machine",
     "url": "https://github.com/Overv/outrun#outrun",
-    "upvotes": 422,
+    "upvotes": 427,
     "author": "ingve",
-    "comments": 118,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26504131"
-  },
-  {
-    "title": "The reason the local mall is failing",
-    "url": "https://www.strongtowns.org/journal/2018/4/23/bon-ton-gone",
-    "upvotes": 16,
-    "author": "maxwell",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26509761"
   },
   {
     "title": "ShellCheck: A static analysis tool for shell scripts",
     "url": "https://github.com/koalaman/shellcheck",
-    "upvotes": 317,
+    "upvotes": 322,
     "author": "ducktective",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26504661"
@@ -74,47 +74,47 @@
   {
     "title": "“When the entire household goes to bed, I do curl development for 2 more hours.”",
     "url": "https://twitter.com/bagder/status/1372572657317711876",
-    "upvotes": 241,
+    "upvotes": 251,
     "author": "danso",
-    "comments": 113,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=26505303"
+  },
+  {
+    "title": "America’s Covid Swab Supply Depends on Two Cousins Who Hate Each Other",
+    "url": "https://www.bloomberg.com/news/features/2021-03-18/covid-test-swab-company-puritan-faces-family-feud",
+    "upvotes": 28,
+    "author": "elsewhen",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26509737"
   },
   {
     "title": "Morning Brew went from college newsletter to $75M in 5 years",
     "url": "https://www.businessofbusiness.com/videos/austin-rief-how-morning-brew-went-from-college-newsletter-to-75-million/",
-    "upvotes": 91,
+    "upvotes": 92,
     "author": "smalera",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26507480"
-  },
-  {
-    "title": "Super Resolution",
-    "url": "https://blog.adobe.com/en/publish/2021/03/10/from-the-acr-team-super-resolution.html",
-    "upvotes": 317,
-    "author": "giuliomagnifico",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=26487425"
   },
   {
     "title": "Swarms of soldier crabs can implement logical gates",
     "url": "https://arxiv.org/abs/1204.1749",
-    "upvotes": 61,
+    "upvotes": 62,
     "author": "sohkamyung",
-    "comments": 48,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26487036"
   },
   {
     "title": "6502 SpASM",
     "url": "https://github.com/tilleul/apple2/tree/master/tools/6502_assembler",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "panic",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26507664"
   },
   {
     "title": "Vuiet, Music Player for Emacs",
     "url": "https://github.com/mihaiolteanu/vuiet/blob/master/README.md",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "molteanu",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26501729"
@@ -130,26 +130,62 @@
   {
     "title": "U.S. Government Finally Gets Serious About IoT Security",
     "url": "https://spectrum.ieee.org/telecom/wireless/the-us-government-finally-gets-serious-about-iot-security",
-    "upvotes": 101,
+    "upvotes": 102,
     "author": "samizdis",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26506772"
+  },
+  {
+    "title": "YouTube can now warn creators about copyright issues before videos are posted",
+    "url": "https://www.theverge.com/2021/3/17/22335728/youtube-checks-monetization-copyright-claim-dispute-tool",
+    "upvotes": 97,
+    "author": "finphil",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=26505847"
   },
   {
     "title": "MOnSter 6502",
     "url": "https://monster6502.com/",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "replyifuagree",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26507525"
   },
   {
-    "title": "Designing a RISC-V CPU, Part 2: Successfully executing",
-    "url": "https://mcla.ug/blog/risc-v-cpu-part-2.html",
-    "upvotes": 5,
-    "author": "slyall",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26487526"
+    "title": "What’s up with these new not-open source licenses?",
+    "url": "https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/",
+    "upvotes": 180,
+    "author": "todsacerdoti",
+    "comments": 256,
+    "link": "https://news.ycombinator.com/item?id=26504021"
+  },
+  {
+    "title": "JamRTC – WebRTC for Live Musicians",
+    "url": "https://github.com/lminiero/jamrtc",
+    "upvotes": 105,
+    "author": "kimi",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26505059"
+  },
+  {
+    "title": "OneSignal",
+    "url": "https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85"
+  },
+  {
+    "title": "Launch HN: Chatwoot (YC W21) – Open-Source Alternative to Intercom, Zendesk",
+    "url": "item?id=26501527",
+    "upvotes": 336,
+    "author": "pranav_rajs",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26501527"
+  },
+  {
+    "title": "New Brunswick monitoring more than 40 cases of unknown neurological disease",
+    "url": "https://www.cbc.ca/news/canada/new-brunswick/mad-cow-disease-public-health-1.5953478",
+    "upvotes": 165,
+    "author": "curmudgeon22",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=26503284"
   },
   {
     "title": "A Walking Tour of 1866 New York: In the footsteps of 150-year-old guides",
@@ -160,79 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=26494431"
   },
   {
-    "title": "OneSignal",
-    "url": "https://onesignal.com/careers/cb3e1383-d52c-43e8-8e7b-b49cbadafc85"
-  },
-  {
-    "title": "What’s up with these new not-open source licenses?",
-    "url": "https://github.blog/2021-03-18-whats-up-with-these-new-not-open-source-licenses/",
-    "upvotes": 178,
-    "author": "todsacerdoti",
-    "comments": 252,
-    "link": "https://news.ycombinator.com/item?id=26504021"
-  },
-  {
-    "title": "JamRTC – WebRTC for Live Musicians",
-    "url": "https://github.com/lminiero/jamrtc",
-    "upvotes": 103,
-    "author": "kimi",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26505059"
-  },
-  {
-    "title": "America’s Covid Swab Supply Depends on Two Cousins Who Hate Each Other",
-    "url": "https://www.bloomberg.com/news/features/2021-03-18/covid-test-swab-company-puritan-faces-family-feud",
-    "upvotes": 18,
-    "author": "elsewhen",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26509737"
-  },
-  {
-    "title": "Launch HN: Chatwoot (YC W21) – Open-Source Alternative to Intercom, Zendesk",
-    "url": "item?id=26501527",
-    "upvotes": 334,
-    "author": "pranav_rajs",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=26501527"
-  },
-  {
-    "title": "New Brunswick monitoring more than 40 cases of unknown neurological disease",
-    "url": "https://www.cbc.ca/news/canada/new-brunswick/mad-cow-disease-public-health-1.5953478",
-    "upvotes": 164,
-    "author": "curmudgeon22",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=26503284"
-  },
-  {
     "title": "Building a shared vision for Async Rust",
     "url": "https://blog.rust-lang.org/2021/03/18/async-vision-doc.html",
     "upvotes": 163,
     "author": "todsacerdoti",
-    "comments": 53,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26503809"
   },
   {
     "title": "Gallery of interactive fluid simulations. They are configured with plain text",
     "url": "https://github.com/cselab/aphros/wiki/Aphros-Explorer",
-    "upvotes": 62,
+    "upvotes": 64,
     "author": "iamwil",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26499835"
+  },
+  {
+    "title": "Designing a RISC-V CPU, Part 2: Successfully executing",
+    "url": "https://mcla.ug/blog/risc-v-cpu-part-2.html",
+    "upvotes": 5,
+    "author": "slyall",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26487526"
+  },
+  {
+    "title": "Spain: Parliament passes law legalizing assisted suicide",
+    "url": "https://www.dw.com/en/spain-parliament-passes-law-legalizing-assisted-suicide/a-56914713",
+    "upvotes": 105,
+    "author": "samizdis",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26508084"
   },
   {
     "title": "Atari Transputer Workstation",
     "url": "http://dunfield.classiccmp.org/atw800/index.htm",
     "upvotes": 122,
     "author": "gscott",
-    "comments": 62,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26488501"
-  },
-  {
-    "title": "Spain: Parliament passes law legalizing assisted suicide",
-    "url": "https://www.dw.com/en/spain-parliament-passes-law-legalizing-assisted-suicide/a-56914713",
-    "upvotes": 102,
-    "author": "samizdis",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26508084"
   }
 ]
