@@ -1,24 +1,24 @@
 [
   {
-    "title": "Click",
-    "url": "https://clickclickclick.click/",
-    "upvotes": 741,
-    "author": "st_goliath",
-    "comments": 190,
-    "link": "https://news.ycombinator.com/item?id=26518290"
-  },
-  {
     "title": "Skylab: The Myth of the Mutiny in Space",
     "url": "https://www.bbc.co.uk/news/stories-56346001",
-    "upvotes": 14,
+    "upvotes": 23,
     "author": "vijayr02",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26521492"
+  },
+  {
+    "title": "Click",
+    "url": "https://clickclickclick.click/",
+    "upvotes": 755,
+    "author": "st_goliath",
+    "comments": 192,
+    "link": "https://news.ycombinator.com/item?id=26518290"
   },
   {
     "title": "Georgian African American newspapers from 1886-1926 now available freely online",
     "url": "https://blog.dlg.galileo.usg.edu/?p=7751%0A",
-    "upvotes": 8,
+    "upvotes": 15,
     "author": "DoreenMichele",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26521446"
@@ -26,31 +26,39 @@
   {
     "title": "Differential Datalog",
     "url": "https://github.com/vmware/differential-datalog",
-    "upvotes": 112,
+    "upvotes": 123,
     "author": "maximilianroos",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26514456"
+  },
+  {
+    "title": "A Guide to Writing Mathematics [pdf]",
+    "url": "https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf",
+    "upvotes": 28,
+    "author": "zwliew",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26520971"
   },
   {
     "title": "Senior Engineers Build Consensus",
     "url": "https://hyperbo.la/w/nemawashi/",
-    "upvotes": 90,
+    "upvotes": 100,
     "author": "p4lindromica",
-    "comments": 41,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26514365"
   },
   {
     "title": "Cherokee Numerals",
     "url": "https://thereader.mitpress.mit.edu/sequoyah-and-the-almost-forgotten-history-of-cherokee-numerals/",
-    "upvotes": 53,
+    "upvotes": 56,
     "author": "horseradish",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26520458"
   },
   {
     "title": "CFTC Orders Coinbase Inc. To Pay $6.5M Penalty",
     "url": "https://www.cftc.gov/PressRoom/PressReleases/8369-21",
-    "upvotes": 99,
+    "upvotes": 105,
     "author": "TylerE",
     "comments": 90,
     "link": "https://news.ycombinator.com/item?id=26519867"
@@ -58,39 +66,55 @@
   {
     "title": "My Dad Published Lolita",
     "url": "https://lithub.com/how-would-the-publishing-world-respond-to-lolita-today/",
-    "upvotes": 33,
+    "upvotes": 41,
     "author": "deepbow",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26520448"
   },
   {
     "title": "Data Science in Julia for Hackers",
     "url": "https://datasciencejuliahackers.com/",
-    "upvotes": 208,
+    "upvotes": 216,
     "author": "dklend122",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26516824"
   },
   {
     "title": "Stompenberg FX: Demo and play over 150 pedals live via the internet",
     "url": "https://www.thomann.de/gb/stompenberg_devices.html",
-    "upvotes": 133,
+    "upvotes": 139,
     "author": "Chirono",
-    "comments": 41,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26510615"
   },
   {
     "title": "System Shock",
     "url": "https://www.filfre.net/2021/03/system-shock/",
-    "upvotes": 151,
+    "upvotes": 157,
     "author": "doppp",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26516225"
+  },
+  {
+    "title": "What can we tell from the evolution of Han Chinese names?",
+    "url": "https://kontinentalist.com/stories/a-cultural-history-of-han-chinese-names-for-girls-and-boys-in-china",
+    "upvotes": 4,
+    "author": "cossatot",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26508695"
+  },
+  {
+    "title": "Dance Tonite",
+    "url": "https://tonite.dance/",
+    "upvotes": 7,
+    "author": "rohithkp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26521602"
   },
   {
     "title": "Cranelift, Part 3: Correctness in Register Allocation",
     "url": "https://cfallin.org/blog/2021/03/15/cranelift-isel-3/",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "lukastyrychtr",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26518272"
@@ -98,10 +122,26 @@
   {
     "title": "Undocumented x86 instructions in Intel CPUs that can modify microcode",
     "url": "https://twitter.com/_markel___/status/1373059797155778562",
-    "upvotes": 278,
+    "upvotes": 292,
     "author": "BlackLotus89",
-    "comments": 63,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26519693"
+  },
+  {
+    "title": "Amazon S3 Object Lambda",
+    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/",
+    "upvotes": 40,
+    "author": "tosh",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26520021"
+  },
+  {
+    "title": "I don't care about cookies",
+    "url": "https://www.i-dont-care-about-cookies.eu/",
+    "upvotes": 186,
+    "author": "LegitGandalf",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26519457"
   },
   {
     "title": "Wells and Wellington Affair",
@@ -112,28 +152,12 @@
     "link": "https://news.ycombinator.com/item?id=26500189"
   },
   {
-    "title": "I don't care about cookies",
-    "url": "https://www.i-dont-care-about-cookies.eu/",
-    "upvotes": 175,
-    "author": "LegitGandalf",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=26519457"
-  },
-  {
     "title": "Limitations of the Electronic Shutter Function",
     "url": "https://phillipreeve.net/blog/limitations-of-the-electronic-shutter-function/",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26500761"
-  },
-  {
-    "title": "Amazon S3 Object Lambda",
-    "url": "https://aws.amazon.com/blogs/aws/introducing-amazon-s3-object-lambda-use-your-code-to-process-data-as-it-is-being-retrieved-from-s3/",
-    "upvotes": 35,
-    "author": "tosh",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26520021"
   },
   {
     "title": "DeepSource",
@@ -142,39 +166,23 @@
   {
     "title": "Duke Nukem 3D Mirror Universe",
     "url": "https://twitter.com/Foone/status/1372766463556083715",
-    "upvotes": 707,
+    "upvotes": 713,
     "author": "tosh",
     "comments": 181,
     "link": "https://news.ycombinator.com/item?id=26513877"
   },
   {
-    "title": "A Guide to Writing Mathematics [pdf]",
-    "url": "https://web.cs.ucdavis.edu/~amenta/w10/writingman.pdf",
-    "upvotes": 13,
-    "author": "zwliew",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26520971"
-  },
-  {
-    "title": "Photovoltaic retinal prosthesis restores high-resolution responses",
-    "url": "https://www.nature.com/articles/s43246-021-00133-2",
-    "upvotes": 104,
-    "author": "finphil",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26516415"
-  },
-  {
     "title": "Reinstating Net Neutrality in the US",
     "url": "https://blog.mozilla.org/blog/2021/03/19/reinstating-net-neutrality-in-the-us/",
-    "upvotes": 62,
+    "upvotes": 65,
     "author": "elorant",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26518082"
   },
   {
     "title": "Show HN: Video Game in a Font",
     "url": "https://www.coderelay.io/fontemon.html",
-    "upvotes": 540,
+    "upvotes": 543,
     "author": "ghub-mmulet",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26495059"
@@ -182,15 +190,15 @@
   {
     "title": "Launch HN: Stacksi (YC W21) – Doing Security Questionnaires, So Your Team Isn't",
     "url": "item?id=26513040",
-    "upvotes": 116,
+    "upvotes": 117,
     "author": "emremm",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26513040"
   },
   {
     "title": "Open Application Model – An open standard for defining cloud native apps",
     "url": "https://oam.dev/",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "geordee",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26511754"
@@ -198,41 +206,33 @@
   {
     "title": "Defrauded students to receive loan forgiveness",
     "url": "https://www.axios.com/defrauded-students-loan-forgiveness-for-profit-colleges-707774cd-8f7e-4c06-9a92-1902dd170b97.html",
-    "upvotes": 46,
+    "upvotes": 48,
     "author": "coloneltcb",
-    "comments": 116,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=26518548"
   },
   {
     "title": "Hacker's Guide to Numerical Analysis",
     "url": "http://bollu.github.io/a-hackers-guide-to-numerical-analysis.html",
-    "upvotes": 314,
+    "upvotes": 317,
     "author": "bollu",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26516081"
-  },
-  {
-    "title": "Safari is now probably the influential wild card browser for user privacy",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard",
-    "upvotes": 97,
-    "author": "pcr910303",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=26519849"
   },
   {
     "title": "Scientist behind Covid-19 mRNA vaccine says her team's next target is cancer",
     "url": "https://www.cbc.ca/news/health/covid-19-scientist-mrna-cancer-1.5956150",
-    "upvotes": 211,
+    "upvotes": 219,
     "author": "srameshc",
-    "comments": 79,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26517124"
   },
   {
-    "title": "Tesla's “full self driving” beta is potentially dangerous",
-    "url": "https://www.roadandtrack.com/news/a35878363/teslas-full-self-driving-beta-is-just-laughably-bad-and-potentially-dangerous/",
-    "upvotes": 335,
-    "author": "mdbug",
-    "comments": 346,
-    "link": "https://news.ycombinator.com/item?id=26519244"
+    "title": "Safari is now probably the influential wild card browser for user privacy",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard",
+    "upvotes": 100,
+    "author": "pcr910303",
+    "comments": 207,
+    "link": "https://news.ycombinator.com/item?id=26519849"
   }
 ]
