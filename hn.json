@@ -2,39 +2,47 @@
   {
     "title": "Click",
     "url": "https://clickclickclick.click/",
-    "upvotes": 465,
+    "upvotes": 476,
     "author": "st_goliath",
-    "comments": 140,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=26518290"
   },
   {
     "title": "I don't care about cookies",
     "url": "https://www.i-dont-care-about-cookies.eu/",
-    "upvotes": 56,
+    "upvotes": 66,
     "author": "LegitGandalf",
-    "comments": 32,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26519457"
   },
   {
     "title": "CFTC Orders Coinbase Inc. To Pay $6.5M Penalty",
     "url": "https://www.cftc.gov/PressRoom/PressReleases/8369-21",
-    "upvotes": 30,
+    "upvotes": 39,
     "author": "TylerE",
-    "comments": 20,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26519867"
+  },
+  {
+    "title": "Misunderstanding Malthus’ mistake",
+    "url": "https://andrewbatson.com/2021/03/16/misunderstanding-malthus-mistake/",
+    "upvotes": 6,
+    "author": "besmirch",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26520372"
   },
   {
     "title": "Hacker's Guide to Numerical Analysis",
     "url": "http://bollu.github.io/a-hackers-guide-to-numerical-analysis.html",
-    "upvotes": 269,
+    "upvotes": 271,
     "author": "bollu",
-    "comments": 46,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26516081"
   },
   {
     "title": "Duke Nukem 3D Mirror Universe",
     "url": "https://twitter.com/Foone/status/1372766463556083715",
-    "upvotes": 623,
+    "upvotes": 632,
     "author": "tosh",
     "comments": 167,
     "link": "https://news.ycombinator.com/item?id=26513877"
@@ -42,26 +50,46 @@
   {
     "title": "New Intel “backdoor” – undocumented x86 instruction to alter microcode",
     "url": "https://twitter.com/_markel___/status/1373059797155778562",
-    "upvotes": 126,
+    "upvotes": 137,
     "author": "BlackLotus89",
-    "comments": 21,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26519693"
+  },
+  {
+    "title": "Differential Datalog",
+    "url": "https://github.com/vmware/differential-datalog",
+    "upvotes": 11,
+    "author": "maximilianroos",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26514456"
   },
   {
     "title": "A Blight on Soviet Science",
     "url": "https://www.damninteresting.com/a-blight-on-soviet-science/",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "ca98am79",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26513415"
   },
   {
+    "title": "DeepSource",
+    "url": "https://deepsource.io/jobs/technical-lead-language-in/"
+  },
+  {
     "title": "CodeTour: VS Code extension to record and play guided walkthroughs of codebases",
     "url": "https://github.com/vsls-contrib/codetour",
-    "upvotes": 328,
+    "upvotes": 334,
     "author": "eddyg",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26488610"
+  },
+  {
+    "title": "Senior Engineers Build Consensus",
+    "url": "https://hyperbo.la/w/nemawashi/",
+    "upvotes": 9,
+    "author": "p4lindromica",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26514365"
   },
   {
     "title": "Data Science in Julia for Hackers",
@@ -72,13 +100,9 @@
     "link": "https://news.ycombinator.com/item?id=26516824"
   },
   {
-    "title": "DeepSource",
-    "url": "https://deepsource.io/jobs/technical-lead-language-in/"
-  },
-  {
     "title": "System Shock",
     "url": "https://www.filfre.net/2021/03/system-shock/",
-    "upvotes": 112,
+    "upvotes": 116,
     "author": "doppp",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26516225"
@@ -86,7 +110,7 @@
   {
     "title": "What I wish I knew before building a Shopify App",
     "url": "https://ma.ttias.ch/what-i-wish-i-knew-before-building-a-shopify-app.html",
-    "upvotes": 265,
+    "upvotes": 270,
     "author": "Dragony",
     "comments": 127,
     "link": "https://news.ycombinator.com/item?id=26514612"
@@ -94,7 +118,7 @@
   {
     "title": "Cranelift, Part 3: Correctness in Register Allocation",
     "url": "https://cfallin.org/blog/2021/03/15/cranelift-isel-3/",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "lukastyrychtr",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26518272"
@@ -102,34 +126,10 @@
   {
     "title": "The Art of Warez Documents the Lost ANSI Art Scene",
     "url": "https://www.juxtapoz.com/news/film/the-art-of-warez-documents-the-lost-ansi-art-scene/",
-    "upvotes": 351,
+    "upvotes": 352,
     "author": "DyslexicAtheist",
-    "comments": 149,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=26512720"
-  },
-  {
-    "title": "Senior Engineers Build Consensus",
-    "url": "https://hyperbo.la/w/nemawashi/",
-    "upvotes": 4,
-    "author": "p4lindromica",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26514365"
-  },
-  {
-    "title": "‘A Perfect World’ Around Every Miniature Bend",
-    "url": "https://www.nytimes.com/2021/03/18/business/model-trains-pandemic.html",
-    "upvotes": 5,
-    "author": "vo2maxer",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26501683"
-  },
-  {
-    "title": "Calling for public input on our approach to world leaders",
-    "url": "https://blog.twitter.com/en_us/topics/company/2021/calling-for-public-input-on-our-approach-to-world-leaders.html",
-    "upvotes": 210,
-    "author": "uptown",
-    "comments": 317,
-    "link": "https://news.ycombinator.com/item?id=26512798"
   },
   {
     "title": "Photovoltaic retinal prosthesis restores high-resolution responses",
@@ -140,20 +140,36 @@
     "link": "https://news.ycombinator.com/item?id=26516415"
   },
   {
-    "title": "Differential Datalog",
-    "url": "https://github.com/vmware/differential-datalog",
-    "upvotes": 3,
-    "author": "maximilianroos",
+    "title": "Calling for public input on our approach to world leaders",
+    "url": "https://blog.twitter.com/en_us/topics/company/2021/calling-for-public-input-on-our-approach-to-world-leaders.html",
+    "upvotes": 211,
+    "author": "uptown",
+    "comments": 320,
+    "link": "https://news.ycombinator.com/item?id=26512798"
+  },
+  {
+    "title": "‘A Perfect World’ Around Every Miniature Bend",
+    "url": "https://www.nytimes.com/2021/03/18/business/model-trains-pandemic.html",
+    "upvotes": 6,
+    "author": "vo2maxer",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26514456"
+    "link": "https://news.ycombinator.com/item?id=26501683"
   },
   {
     "title": "Open Application Model – An open standard for defining cloud native apps",
     "url": "https://oam.dev/",
-    "upvotes": 23,
+    "upvotes": 27,
     "author": "geordee",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26511754"
+  },
+  {
+    "title": "Xbar: The BitBar reboot. Put anything in your macOS menu bar",
+    "url": "https://xbarapp.com/",
+    "upvotes": 214,
+    "author": "rjmunro",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26512460"
   },
   {
     "title": "Launch HN: Stacksi (YC W21) – Doing Security Questionnaires, So Your Team Isn't",
@@ -164,17 +180,9 @@
     "link": "https://news.ycombinator.com/item?id=26513040"
   },
   {
-    "title": "Xbar: The BitBar reboot. Put anything in your macOS menu bar",
-    "url": "https://xbarapp.com/",
-    "upvotes": 213,
-    "author": "rjmunro",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26512460"
-  },
-  {
     "title": "Young female Japanese biker is 50-year-old man using FaceApp",
     "url": "https://mothership.sg/2021/03/japanese-biker-actually-man/",
-    "upvotes": 704,
+    "upvotes": 707,
     "author": "amrrs",
     "comments": 448,
     "link": "https://news.ycombinator.com/item?id=26513413"
@@ -182,7 +190,7 @@
   {
     "title": "Freewire: An Experiment with Freely Wired Neural Networks",
     "url": "https://github.com/noahtren/Freewire",
-    "upvotes": 50,
+    "upvotes": 51,
     "author": "optimalsolver",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26500885"
@@ -190,49 +198,41 @@
   {
     "title": "Scientist behind Covid-19 mRNA vaccine says her team's next target is cancer",
     "url": "https://www.cbc.ca/news/health/covid-19-scientist-mrna-cancer-1.5956150",
-    "upvotes": 148,
+    "upvotes": 153,
     "author": "srameshc",
-    "comments": 54,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26517124"
+  },
+  {
+    "title": "Archaeologists Uncover a 1,300-Year-Old Skeleton of a Maya Diplomat",
+    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-uncover-1300-year-old-skeleton-maya-diplomat-180977259/",
+    "upvotes": 33,
+    "author": "diodorus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26499827"
   },
   {
     "title": "Show HN: Video Game in a Font",
     "url": "https://www.coderelay.io/fontemon.html",
-    "upvotes": 502,
+    "upvotes": 508,
     "author": "ghub-mmulet",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26495059"
+  },
+  {
+    "title": "Sensible macOS Defaults",
+    "url": "https://github.com/mathiasbynens/dotfiles/blob/master/.macos",
+    "upvotes": 258,
+    "author": "garrtt",
+    "comments": 143,
+    "link": "https://news.ycombinator.com/item?id=26513528"
   },
   {
     "title": "Comp.programming.threads FAQ",
     "url": "https://danluu.com/threads-faq/",
     "upvotes": 28,
     "author": "luu",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26517936"
-  },
-  {
-    "title": "Archaeologists Uncover a 1,300-Year-Old Skeleton of a Maya Diplomat",
-    "url": "https://www.smithsonianmag.com/smart-news/archaeologists-uncover-1300-year-old-skeleton-maya-diplomat-180977259/",
-    "upvotes": 30,
-    "author": "diodorus",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26499827"
-  },
-  {
-    "title": "Sensible macOS Defaults",
-    "url": "https://github.com/mathiasbynens/dotfiles/blob/master/.macos",
-    "upvotes": 255,
-    "author": "garrtt",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=26513528"
-  },
-  {
-    "title": "Safari is now probably the influential wild card browser for user privacy",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/web/SafariUserPrivacyWildcard",
-    "upvotes": 52,
-    "author": "pcr910303",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26519849"
   }
 ]
