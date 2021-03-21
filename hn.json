@@ -1,76 +1,76 @@
 [
   {
-    "title": "GPT Neo: open-source GPT-3-like model, with pretrained smaller models available",
+    "title": "GPT Neo: open-source GPT-like model, with pretrained 1.3B & 2.7B weight models",
     "url": "https://github.com/EleutherAI/gpt-neo/",
-    "upvotes": 46,
+    "upvotes": 78,
     "author": "pizza",
-    "comments": 4,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26534000"
   },
   {
     "title": "Don't End the Week with Nothing",
     "url": "https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing",
-    "upvotes": 463,
+    "upvotes": 485,
     "author": "mooreds",
-    "comments": 84,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=26531297"
   },
   {
-    "title": "FreeCAD 0.19 Release Notes",
-    "url": "https://wiki.freecadweb.org/Release_notes_0.19",
-    "upvotes": 41,
-    "author": "this_was_posted",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26533384"
+    "title": "The Infinite Drum Machine",
+    "url": "https://experiments.withgoogle.com/ai/drum-machine/view",
+    "upvotes": 39,
+    "author": "based2",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26533792"
   },
   {
-    "title": "Tesla Admits Current ‘Full Self-Driving Beta’ Will Always Be a Level 2 System",
-    "url": "https://www.thedrive.com/tech/39647/tesla-admits-current-full-self-driving-beta-will-always-be-a-level-2-system-emails",
-    "upvotes": 26,
-    "author": "YeGoblynQueenne",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26533489"
+    "title": "CutiePi – A Raspberry Pi 4 tablet",
+    "url": "https://cutiepi.io/",
+    "upvotes": 307,
+    "author": "captn3m0",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=26530103"
+  },
+  {
+    "title": "SF poop-testing startup, once compared to Theranos, charged in $60M fraud scheme",
+    "url": "https://www.sfgate.com/crime/article/ubiome-richman-apte-sec-filing-charges-fraud-16042042.php",
+    "upvotes": 148,
+    "author": "ic0n0cl4st",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=26531087"
   },
   {
     "title": "OpenRA Release 20210321",
     "url": "https://www.openra.net/news/release-20210321/",
-    "upvotes": 27,
+    "upvotes": 39,
     "author": "ux",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26533422"
   },
   {
-    "title": "Google: Drum Machine",
-    "url": "https://experiments.withgoogle.com/ai/drum-machine/view",
-    "upvotes": 21,
-    "author": "based2",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26533792"
+    "title": "Running a Bakery on Emacs and PostgreSQL",
+    "url": "https://bofh.org.uk/2019/02/25/baking-with-emacs/",
+    "upvotes": 84,
+    "author": "tosh",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26531660"
   },
   {
     "title": "AtoB",
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
   },
   {
-    "title": "CutiePi – A Raspberry Pi 4 tablet",
-    "url": "https://cutiepi.io/",
-    "upvotes": 298,
-    "author": "captn3m0",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=26530103"
-  },
-  {
-    "title": "Running a Bakery on Emacs and PostgreSQL",
-    "url": "https://bofh.org.uk/2019/02/25/baking-with-emacs/",
-    "upvotes": 81,
-    "author": "tosh",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26531660"
+    "title": "CUPID – the back story",
+    "url": "https://dannorth.net/2021/03/16/cupid-the-back-story/",
+    "upvotes": 286,
+    "author": "blowski",
+    "comments": 217,
+    "link": "https://news.ycombinator.com/item?id=26531079"
   },
   {
     "title": "Reverse-Engineering NES Tetris to Add Hard Drop",
     "url": "https://www.gridbugs.org/reverse-engineering-nes-tetris-to-add-hard-drop/",
-    "upvotes": 153,
+    "upvotes": 159,
     "author": "stevebox",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26530604"
@@ -78,90 +78,114 @@
   {
     "title": "Academic “Ghost-Writing”: The Cheating Scandal No One Will Discuss",
     "url": "https://logosnews.tech/-MJYdKMeuTakOZj7iq4d",
-    "upvotes": 88,
+    "upvotes": 95,
     "author": "paulpauper",
-    "comments": 73,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26532604"
+  },
+  {
+    "title": "FreeCAD 0.19",
+    "url": "https://wiki.freecadweb.org/Release_notes_0.19",
+    "upvotes": 57,
+    "author": "this_was_posted",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26533384"
+  },
+  {
+    "title": "PyDisAss: A 6502 Disassembler in Python",
+    "url": "https://www.awsm.de/blog/pydisass/",
+    "upvotes": 6,
+    "author": "fcambus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26534045"
   },
   {
     "title": "What I learnt shopping for decent computer speakers",
     "url": "https://mybyways.com/blog/what-i-learnt-shopping-for-decent-computer-speakers",
-    "upvotes": 17,
+    "upvotes": 24,
     "author": "vitplister",
-    "comments": 19,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26532720"
   },
   {
     "title": "Whales in 19th century shared information about ship attacks",
     "url": "https://www.theguardian.com/environment/2021/mar/17/sperm-whales-in-19th-century-shared-ship-attack-information",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "rwmj",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26521942"
   },
   {
     "title": "AMD Expected to Become TSMC's Second Largest Customer",
     "url": "https://www.tomshardware.com/news/amd-tsmc-second-largest-customer",
-    "upvotes": 44,
+    "upvotes": 54,
     "author": "rbanffy",
-    "comments": 25,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26533424"
-  },
-  {
-    "title": "CUPID – the back story",
-    "url": "https://dannorth.net/2021/03/16/cupid-the-back-story/",
-    "upvotes": 282,
-    "author": "blowski",
-    "comments": 214,
-    "link": "https://news.ycombinator.com/item?id=26531079"
-  },
-  {
-    "title": "Launch HN: StartPack (YC S20) - Helping Global SMBs Access US Banking & Payments",
-    "url": "item?id=26531552",
-    "upvotes": 32,
-    "author": "arjawn",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26531552"
-  },
-  {
-    "title": "Godot Engine Web Editor",
-    "url": "https://editor.godotengine.org/releases/latest/",
-    "upvotes": 236,
-    "author": "todsacerdoti",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26528835"
   },
   {
     "title": "Dataflowr – Deep Learning DIY",
     "url": "https://dataflowr.github.io/website/",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "T-A",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26531458"
   },
   {
+    "title": "Godot Engine Web Editor",
+    "url": "https://editor.godotengine.org/releases/latest/",
+    "upvotes": 242,
+    "author": "todsacerdoti",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26528835"
+  },
+  {
+    "title": "Launch HN: StartPack (YC S20) - Helping Global SMBs Access US Banking & Payments",
+    "url": "item?id=26531552",
+    "upvotes": 34,
+    "author": "arjawn",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26531552"
+  },
+  {
+    "title": "A beginner’s guide to web accessibility",
+    "url": "https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f",
+    "upvotes": 12,
+    "author": "saranshk",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26532804"
+  },
+  {
     "title": "Insect Has Gears in Its Legs",
     "url": "https://www.nationalgeographic.com/science/article/this-insect-has-gears-in-its-legs",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "jensgk",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26521896"
   },
   {
     "title": "John Cleese Sells the Brooklyn Bridge as an NFT",
     "url": "https://twitter.com/JohnCleese/status/1372944852325789704",
-    "upvotes": 270,
+    "upvotes": 284,
     "author": "jshprentz",
-    "comments": 195,
+    "comments": 215,
     "link": "https://news.ycombinator.com/item?id=26531162"
   },
   {
-    "title": "As U.S. schools shuttered, student mental health cratered, Reuters survey finds",
-    "url": "https://www.reuters.com/investigates/special-report/health-coronavirus-students/",
-    "upvotes": 185,
-    "author": "accountinhn",
-    "comments": 259,
-    "link": "https://news.ycombinator.com/item?id=26532588"
+    "title": "Fantasy Soccer Keeps My Kids Connected and Happy",
+    "url": "https://www.wired.com/story/fantasy-soccer-kids-community-coronavirus-pandemic/",
+    "upvotes": 19,
+    "author": "tjwds",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26522637"
+  },
+  {
+    "title": "The world needs a software bill of materials",
+    "url": "https://drrispens.medium.com/why-the-world-needs-a-software-bill-of-materials-now-5a565df65dff",
+    "upvotes": 110,
+    "author": "kiyanwang",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=26529619"
   },
   {
     "title": "Relativity lands Silver Lake investment in deal that values the company at $3.6B",
@@ -172,41 +196,33 @@
     "link": "https://news.ycombinator.com/item?id=26509648"
   },
   {
-    "title": "The world needs a software bill of materials",
-    "url": "https://drrispens.medium.com/why-the-world-needs-a-software-bill-of-materials-now-5a565df65dff",
-    "upvotes": 110,
-    "author": "kiyanwang",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=26529619"
-  },
-  {
-    "title": "Fantasy Soccer Keeps My Kids Connected and Happy",
-    "url": "https://www.wired.com/story/fantasy-soccer-kids-community-coronavirus-pandemic/",
-    "upvotes": 17,
-    "author": "tjwds",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26522637"
+    "title": "Vaccines Are Effective Against Covid Variants",
+    "url": "https://jamanetwork.com/journals/jama/fullarticle/2777898",
+    "upvotes": 150,
+    "author": "11thEarlOfMar",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=26531207"
   },
   {
     "title": "Show HN: Make continuous reforestation part of your daily workflow",
     "url": "https://github.com/protontypes/continuous-reforestation",
-    "upvotes": 118,
+    "upvotes": 121,
     "author": "protontypes",
-    "comments": 86,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26529936"
   },
   {
-    "title": "Vaccines Are Effective Against Covid Variants",
-    "url": "https://jamanetwork.com/journals/jama/fullarticle/2777898",
-    "upvotes": 146,
-    "author": "11thEarlOfMar",
-    "comments": 162,
-    "link": "https://news.ycombinator.com/item?id=26531207"
+    "title": "As U.S. schools shuttered, student mental health cratered, Reuters survey finds",
+    "url": "https://www.reuters.com/investigates/special-report/health-coronavirus-students/",
+    "upvotes": 188,
+    "author": "accountinhn",
+    "comments": 280,
+    "link": "https://news.ycombinator.com/item?id=26532588"
   },
   {
     "title": "A prosthetic hand restored my sense of touch",
     "url": "https://www.bbc.co.uk/programmes/articles/10sYtpn79ZS91wy659gPZH3/a-prosthetic-hand-restored-my-sense-of-touch",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "RiderOfGiraffes",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26511393"
@@ -218,21 +234,5 @@
     "author": "jen20",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26530546"
-  },
-  {
-    "title": "A beginner’s guide to web accessibility",
-    "url": "https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f",
-    "upvotes": 9,
-    "author": "saranshk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26532804"
-  },
-  {
-    "title": "A working D compiler on OpenBSD",
-    "url": "https://briancallahan.net/blog/20210320.html",
-    "upvotes": 103,
-    "author": "todsacerdoti",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26520996"
   }
 ]
