@@ -2,135 +2,143 @@
   {
     "title": "Demoscene accepted as UNESCO cultural heritage in Germany",
     "url": "http://demoscene-the-art-of-coding.net/2021/03/20/demoscene-accepted-as-unesco-cultural-heritage-in-germany/",
-    "upvotes": 918,
+    "upvotes": 928,
     "author": "quakeguy",
-    "comments": 116,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=26522681"
   },
   {
     "title": "Emacs is the 2D Command-line Interface",
     "url": "https://hongchao.me/cli-and-emacs/",
-    "upvotes": 51,
+    "upvotes": 63,
     "author": "karlicoss",
-    "comments": 14,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26521186"
   },
   {
     "title": "Nyxt Browser",
     "url": "https://nyxt.atlas.engineer/",
-    "upvotes": 212,
+    "upvotes": 230,
     "author": "wglb",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26509612"
   },
   {
     "title": "My self-study plan for electrical engineering",
     "url": "https://i-kh.net/2021/03/20/electrical-engineering-study-plan/",
-    "upvotes": 188,
+    "upvotes": 199,
     "author": "bucket2015",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26525694"
   },
   {
-    "title": "Speeding up SQL queries by orders of magnitude using UNION",
-    "url": "https://www.foxhound.systems/blog/sql-performance-with-union/",
-    "upvotes": 225,
-    "author": "tate",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26524776"
+    "title": "A New Lens on Understanding Generalization in Deep Learning",
+    "url": "https://ai.googleblog.com/2021/03/a-new-lens-on-understanding.html",
+    "upvotes": 11,
+    "author": "jonbaer",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26527657"
   },
   {
     "title": "The Western Digital WD Black SN850 Review: A Fast PCIe 4.0 SSD",
     "url": "https://www.anandtech.com/print/16505/the-western-digital-wd-black-sn850-ssd-review",
-    "upvotes": 48,
+    "upvotes": 52,
     "author": "sadiq",
-    "comments": 45,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26511168"
+  },
+  {
+    "title": "Speeding up SQL queries by orders of magnitude using UNION",
+    "url": "https://www.foxhound.systems/blog/sql-performance-with-union/",
+    "upvotes": 235,
+    "author": "tate",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=26524776"
   },
   {
     "title": "Cryptography Behind the Top Cryptocurrencies",
     "url": "http://ethanfast.com/top-crypto.html",
-    "upvotes": 61,
+    "upvotes": 70,
     "author": "unignorant",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26526108"
-  },
-  {
-    "title": "How to Study Mathematics",
-    "url": "https://www.math.uh.edu/~dblecher/pf2.html",
-    "upvotes": 141,
-    "author": "qnsi",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26524876"
   },
   {
     "title": "Blake 32",
     "url": "http://www.pouet.net/prod.php?which=88205",
-    "upvotes": 13,
+    "upvotes": 19,
     "author": "knoke",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26511680"
   },
   {
-    "title": "Mac SE/30 logicboard recreation",
-    "url": "https://68kmla.org/forums/topic/62451-se30-logicboard-recreation/",
-    "upvotes": 166,
-    "author": "zdw",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26507454"
+    "title": "How to Study Mathematics",
+    "url": "https://www.math.uh.edu/~dblecher/pf2.html",
+    "upvotes": 148,
+    "author": "qnsi",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26524876"
   },
   {
     "title": "Learning Machine Learning for Game Development",
     "url": "http://ai.googleblog.com/2021/03/leveraging-machine-learning-for-game.html",
-    "upvotes": 219,
+    "upvotes": 224,
     "author": "atg_abhishek",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26523223"
   },
   {
     "title": "SubX: A minimalist assembly language for a subset of the x86 ISA",
     "url": "https://github.com/akkartik/mu/blob/main/subx.md",
-    "upvotes": 70,
+    "upvotes": 74,
     "author": "peter_d_sherman",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26525349"
+  },
+  {
+    "title": "Mac SE/30 logicboard recreation",
+    "url": "https://68kmla.org/forums/topic/62451-se30-logicboard-recreation/",
+    "upvotes": 171,
+    "author": "zdw",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26507454"
+  },
+  {
+    "title": "The Invention of a New Pasta Shape",
+    "url": "https://kottke.org/21/03/the-invention-of-a-new-pasta-shape",
+    "upvotes": 382,
+    "author": "dgellow",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=26521761"
+  },
+  {
+    "title": "Construct an Undo Tree from a Linear Undo History",
+    "url": "https://archive.casouri.cat/note/2021/visual-undo-tree/index.html",
+    "upvotes": 49,
+    "author": "todsacerdoti",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26512105"
   },
   {
     "title": "Glacial – microcoded RISC-V core designed for low FPGA resource utilization",
     "url": "https://github.com/brouhaha/glacial",
     "upvotes": 54,
     "author": "peter_d_sherman",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26525282"
   },
   {
-    "title": "The Invention of a New Pasta Shape",
-    "url": "https://kottke.org/21/03/the-invention-of-a-new-pasta-shape",
-    "upvotes": 370,
-    "author": "dgellow",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=26521761"
-  },
-  {
-    "title": "Construct an Undo Tree from a Linear Undo History",
-    "url": "https://archive.casouri.cat/note/2021/visual-undo-tree/index.html",
-    "upvotes": 44,
-    "author": "todsacerdoti",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26512105"
-  },
-  {
-    "title": "Why use old computers and operating systems?",
-    "url": "http://john.ankarstrom.se/desktop/2021/03/18/why-old-systems/",
-    "upvotes": 123,
-    "author": "hutrdvnj",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=26511107"
+    "title": "AARD Code, or how Bill Gates finished off the competition",
+    "url": "https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/",
+    "upvotes": 69,
+    "author": "bgstry",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=26526086"
   },
   {
     "title": "Cistercian Numerals",
     "url": "https://en.wikipedia.org/wiki/Cistercian_numerals#:~:text=The%20medieval%20Cistercian%20numerals,%20or,were%20introduced%20to%20northwestern%20Europe",
-    "upvotes": 133,
+    "upvotes": 135,
     "author": "DyslexicAtheist",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26523363"
@@ -140,84 +148,76 @@
     "url": "https://substack.com/jobs"
   },
   {
-    "title": "Design Patterns of 1972",
-    "url": "https://blog.plover.com/prog/design-patterns.html",
-    "upvotes": 20,
-    "author": "luu",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26520853"
-  },
-  {
-    "title": "AARD Code, or how Bill Gates finished off the competition",
-    "url": "https://www.zapread.com/Post/Detail/7735/aard-code-or-how-bill-gates-finished-off-the-competition/",
-    "upvotes": 63,
-    "author": "bgstry",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26526086"
-  },
-  {
-    "title": "The Complexity of a WW II P-47 Thunderbolt’s Powerplant",
-    "url": "https://lynceans.org/all-posts/the-complexity-of-a-ww-ii-p-47-thunderbolts-powerplant/",
-    "upvotes": 55,
-    "author": "philipkglass",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26524781"
+    "title": "Why use old computers and operating systems?",
+    "url": "http://john.ankarstrom.se/desktop/2021/03/18/why-old-systems/",
+    "upvotes": 124,
+    "author": "hutrdvnj",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=26511107"
   },
   {
     "title": "How does my mind talk to my body? [audio]",
     "url": "https://www.bbc.co.uk/programmes/w3cszv75",
-    "upvotes": 7,
+    "upvotes": 8,
     "author": "davesailer",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26527068"
+  },
+  {
+    "title": "Design Patterns of 1972",
+    "url": "https://blog.plover.com/prog/design-patterns.html",
+    "upvotes": 22,
+    "author": "luu",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26520853"
   },
   {
     "title": "Malfrats/xeuledoc: Fetch information about a public Google document",
     "url": "https://github.com/Malfrats/xeuledoc",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "testing_1_2_3_4",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26526395"
   },
   {
+    "title": "Continuous Typography. Notes toward a continuous framework for screen typography",
+    "url": "https://maxkoehler.com/posts/continuous-typography/",
+    "upvotes": 5,
+    "author": "petalmind",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26512370"
+  },
+  {
     "title": "AI and Drug Discovery: Attacking the Right Problems",
     "url": "https://blogs.sciencemag.org/pipeline/archives/2021/03/19/ai-and-drug-discovery-attacking-the-right-problems",
-    "upvotes": 83,
+    "upvotes": 84,
     "author": "mhb",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26523055"
+  },
+  {
+    "title": "The Transformer Network for the Traveling Salesman Problem",
+    "url": "https://arxiv.org/abs/2103.03012",
+    "upvotes": 30,
+    "author": "djoldman",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26525872"
   },
   {
     "title": "Identify a remarkable trait in anyone, then either copy or avoid it",
     "url": "https://knowledgeartist.org/article/identify-remarkable-trait-learn",
     "upvotes": 116,
     "author": "laybak",
-    "comments": 49,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26525998"
   },
   {
-    "title": "The Transformer Network for the Traveling Salesman Problem",
-    "url": "https://arxiv.org/abs/2103.03012",
-    "upvotes": 27,
-    "author": "djoldman",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26525872"
-  },
-  {
-    "title": "Was German unification inevitable?",
-    "url": "https://www.historytoday.com/archive/head-head/was-german-unification-inevitable",
-    "upvotes": 67,
-    "author": "samclemens",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26505416"
-  },
-  {
-    "title": "Mouse plague grows to biblical proportions across eastern Australia",
-    "url": "https://www.theguardian.com/australia-news/2021/mar/19/you-cant-escape-the-smell-mouse-plague-grows-to-biblical-proportions-across-eastern-australia",
-    "upvotes": 131,
-    "author": "YeGoblynQueenne",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=26522452"
+    "title": "The Complexity of a WW II P-47 Thunderbolt’s Powerplant",
+    "url": "https://lynceans.org/all-posts/the-complexity-of-a-ww-ii-p-47-thunderbolts-powerplant/",
+    "upvotes": 58,
+    "author": "philipkglass",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26524781"
   },
   {
     "title": "Launch HN: Kanda (YC W21) – Let tradespeople offer finance to their customers",
@@ -228,11 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=26523646"
   },
   {
-    "title": "Tesla orders its first 8k-ton Cybertruck casting machine",
-    "url": "https://www.teslaoracle.com/2021/03/20/tesla-orders-its-first-8000-ton-cybertruck-giga-casting-machine/",
-    "upvotes": 133,
-    "author": "CarCooler",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=26524806"
+    "title": "Was German unification inevitable?",
+    "url": "https://www.historytoday.com/archive/head-head/was-german-unification-inevitable",
+    "upvotes": 68,
+    "author": "samclemens",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=26505416"
   }
 ]
