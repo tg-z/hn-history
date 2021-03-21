@@ -2,39 +2,47 @@
   {
     "title": "GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models",
     "url": "https://github.com/EleutherAI/gpt-neo/",
-    "upvotes": 131,
+    "upvotes": 151,
     "author": "pizza",
-    "comments": 26,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26534000"
   },
   {
     "title": "Don't End the Week with Nothing",
     "url": "https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing",
-    "upvotes": 500,
+    "upvotes": 511,
     "author": "mooreds",
-    "comments": 123,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=26531297"
   },
   {
     "title": "The Infinite Drum Machine",
     "url": "https://experiments.withgoogle.com/ai/drum-machine/view",
-    "upvotes": 50,
+    "upvotes": 59,
     "author": "based2",
-    "comments": 11,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26533792"
   },
   {
     "title": "SF poop-testing startup, once compared to Theranos, charged in $60M fraud scheme",
     "url": "https://www.sfgate.com/crime/article/ubiome-richman-apte-sec-filing-charges-fraud-16042042.php",
-    "upvotes": 172,
+    "upvotes": 187,
     "author": "ic0n0cl4st",
-    "comments": 130,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=26531087"
+  },
+  {
+    "title": "Academic “Ghost-Writing”: The Cheating Scandal No One Will Discuss",
+    "url": "https://logosnews.tech/-MJYdKMeuTakOZj7iq4d",
+    "upvotes": 114,
+    "author": "paulpauper",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=26532604"
   },
   {
     "title": "CutiePi – A Raspberry Pi 4 tablet",
     "url": "https://cutiepi.io/",
-    "upvotes": 319,
+    "upvotes": 326,
     "author": "captn3m0",
     "comments": 122,
     "link": "https://news.ycombinator.com/item?id=26530103"
@@ -42,75 +50,91 @@
   {
     "title": "A few notes on message passing",
     "url": "http://blog.erlang.org/message-passing/",
-    "upvotes": 15,
+    "upvotes": 22,
     "author": "srijan4",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26514476"
   },
   {
-    "title": "Running a Bakery on Emacs and PostgreSQL",
-    "url": "https://bofh.org.uk/2019/02/25/baking-with-emacs/",
-    "upvotes": 100,
-    "author": "tosh",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26531660"
+    "title": "OpenRA Release 20210321",
+    "url": "https://www.openra.net/news/release-20210321/",
+    "upvotes": 52,
+    "author": "ux",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26533422"
   },
   {
-    "title": "Academic “Ghost-Writing”: The Cheating Scandal No One Will Discuss",
-    "url": "https://logosnews.tech/-MJYdKMeuTakOZj7iq4d",
-    "upvotes": 107,
-    "author": "paulpauper",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26532604"
+    "title": "Running a Bakery on Emacs and PostgreSQL",
+    "url": "https://bofh.org.uk/2019/02/25/baking-with-emacs/",
+    "upvotes": 105,
+    "author": "tosh",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26531660"
   },
   {
     "title": "AtoB",
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
   },
   {
-    "title": "OpenRA Release 20210321",
-    "url": "https://www.openra.net/news/release-20210321/",
-    "upvotes": 46,
-    "author": "ux",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26533422"
-  },
-  {
-    "title": "PyDisAss: A 6502 Disassembler in Python",
-    "url": "https://www.awsm.de/blog/pydisass/",
-    "upvotes": 13,
-    "author": "fcambus",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26534045"
-  },
-  {
     "title": "CUPID – the back story",
     "url": "https://dannorth.net/2021/03/16/cupid-the-back-story/",
-    "upvotes": 288,
+    "upvotes": 289,
     "author": "blowski",
-    "comments": 220,
+    "comments": 222,
     "link": "https://news.ycombinator.com/item?id=26531079"
   },
   {
     "title": "Reverse-Engineering NES Tetris to Add Hard Drop",
     "url": "https://www.gridbugs.org/reverse-engineering-nes-tetris-to-add-hard-drop/",
-    "upvotes": 164,
+    "upvotes": 168,
     "author": "stevebox",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26530604"
   },
   {
+    "title": "PyDisAss: A 6502 Disassembler in Python",
+    "url": "https://www.awsm.de/blog/pydisass/",
+    "upvotes": 16,
+    "author": "fcambus",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26534045"
+  },
+  {
     "title": "FreeCAD 0.19",
     "url": "https://wiki.freecadweb.org/Release_notes_0.19",
-    "upvotes": 70,
+    "upvotes": 77,
     "author": "this_was_posted",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26533384"
+  },
+  {
+    "title": "A beginner’s guide to web accessibility",
+    "url": "https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f",
+    "upvotes": 27,
+    "author": "saranshk",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26532804"
+  },
+  {
+    "title": "Whales in 19th century shared information about ship attacks",
+    "url": "https://www.theguardian.com/environment/2021/mar/17/sperm-whales-in-19th-century-shared-ship-attack-information",
+    "upvotes": 47,
+    "author": "rwmj",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26521942"
+  },
+  {
+    "title": "NASA completes engine test firing of moon rocket on 2nd try",
+    "url": "https://phys.org/news/2021-03-nasa-moon-rocket-2nd.html",
+    "upvotes": 4,
+    "author": "dnetesn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26511732"
   },
   {
     "title": "Solitude: A Privacy Analysis Tool",
     "url": "https://github.com/nccgroup/solitude",
-    "upvotes": 7,
+    "upvotes": 11,
     "author": "truxs",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26529677"
@@ -118,42 +142,26 @@
   {
     "title": "Dataflowr – Deep Learning DIY",
     "url": "https://dataflowr.github.io/website/",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "T-A",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26531458"
-  },
-  {
-    "title": "AMD Expected to Become TSMC's Second Largest Customer",
-    "url": "https://www.tomshardware.com/news/amd-tsmc-second-largest-customer",
-    "upvotes": 70,
-    "author": "rbanffy",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26533424"
-  },
-  {
-    "title": "A beginner’s guide to web accessibility",
-    "url": "https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f",
-    "upvotes": 19,
-    "author": "saranshk",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26532804"
   },
   {
     "title": "Godot Engine Web Editor",
     "url": "https://editor.godotengine.org/releases/latest/",
-    "upvotes": 246,
+    "upvotes": 247,
     "author": "todsacerdoti",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26528835"
   },
   {
-    "title": "Whales in 19th century shared information about ship attacks",
-    "url": "https://www.theguardian.com/environment/2021/mar/17/sperm-whales-in-19th-century-shared-ship-attack-information",
-    "upvotes": 40,
-    "author": "rwmj",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26521942"
+    "title": "AMD Expected to Become TSMC's Second Largest Customer",
+    "url": "https://www.tomshardware.com/news/amd-tsmc-second-largest-customer",
+    "upvotes": 77,
+    "author": "rbanffy",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26533424"
   },
   {
     "title": "Launch HN: StartPack (YC S20) - Helping Global SMBs Access US Banking & Payments",
@@ -164,17 +172,9 @@
     "link": "https://news.ycombinator.com/item?id=26531552"
   },
   {
-    "title": "NASA completes engine test firing of moon rocket on 2nd try",
-    "url": "https://phys.org/news/2021-03-nasa-moon-rocket-2nd.html",
-    "upvotes": 3,
-    "author": "dnetesn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26511732"
-  },
-  {
     "title": "Insect Has Gears in Its Legs",
     "url": "https://www.nationalgeographic.com/science/article/this-insect-has-gears-in-its-legs",
-    "upvotes": 68,
+    "upvotes": 70,
     "author": "jensgk",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26521896"
@@ -182,57 +182,57 @@
   {
     "title": "John Cleese Sells the Brooklyn Bridge as an NFT",
     "url": "https://twitter.com/JohnCleese/status/1372944852325789704",
-    "upvotes": 308,
+    "upvotes": 323,
     "author": "jshprentz",
-    "comments": 230,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=26531162"
-  },
-  {
-    "title": "Show HN: Make continuous reforestation part of your daily workflow",
-    "url": "https://github.com/protontypes/continuous-reforestation",
-    "upvotes": 130,
-    "author": "protontypes",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26529936"
   },
   {
     "title": "Vaccines Are Effective Against Covid Variants",
     "url": "https://jamanetwork.com/journals/jama/fullarticle/2777898",
-    "upvotes": 160,
+    "upvotes": 163,
     "author": "11thEarlOfMar",
-    "comments": 180,
+    "comments": 182,
     "link": "https://news.ycombinator.com/item?id=26531207"
-  },
-  {
-    "title": "Fantasy Soccer Keeps My Kids Connected and Happy",
-    "url": "https://www.wired.com/story/fantasy-soccer-kids-community-coronavirus-pandemic/",
-    "upvotes": 21,
-    "author": "tjwds",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26522637"
   },
   {
     "title": "A prosthetic hand restored my sense of touch",
     "url": "https://www.bbc.co.uk/programmes/articles/10sYtpn79ZS91wy659gPZH3/a-prosthetic-hand-restored-my-sense-of-touch",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "RiderOfGiraffes",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26511393"
-  },
-  {
-    "title": "The world needs a software bill of materials",
-    "url": "https://drrispens.medium.com/why-the-world-needs-a-software-bill-of-materials-now-5a565df65dff",
-    "upvotes": 113,
-    "author": "kiyanwang",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=26529619"
   },
   {
     "title": "Indiana Bell Building Move",
     "url": "http://www.paul-f.com/ibmove.html",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "jen20",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26530546"
+  },
+  {
+    "title": "The world needs a software bill of materials",
+    "url": "https://drrispens.medium.com/why-the-world-needs-a-software-bill-of-materials-now-5a565df65dff",
+    "upvotes": 114,
+    "author": "kiyanwang",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=26529619"
+  },
+  {
+    "title": "Fantasy Soccer Keeps My Kids Connected and Happy",
+    "url": "https://www.wired.com/story/fantasy-soccer-kids-community-coronavirus-pandemic/",
+    "upvotes": 23,
+    "author": "tjwds",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26522637"
+  },
+  {
+    "title": "A working D compiler on OpenBSD",
+    "url": "https://briancallahan.net/blog/20210320.html",
+    "upvotes": 111,
+    "author": "todsacerdoti",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26520996"
   }
 ]
