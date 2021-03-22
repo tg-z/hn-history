@@ -1,158 +1,182 @@
 [
   {
-    "title": "OpenSSL will release a high-severity issue fix on 25th",
-    "url": "https://mta.openssl.org/pipermail/openssl-announce/2021-March/000196.html",
-    "upvotes": 202,
-    "author": "yread",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26546376"
-  },
-  {
     "title": "Crystal 1.0 – What to expect",
     "url": "https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html",
-    "upvotes": 285,
+    "upvotes": 314,
     "author": "mfkp",
-    "comments": 102,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26545082"
   },
   {
     "title": "Please don't upgrade Docker without asking first",
     "url": "https://github.com/docker/roadmap/issues/183",
-    "upvotes": 45,
+    "upvotes": 93,
     "author": "timmytokyo",
-    "comments": 11,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26547268"
   },
   {
     "title": "U.S. Supreme Court rebuffs Facebook appeal in user tracking lawsuit",
     "url": "https://www.reuters.com/article/us-usa-court-facebook/u-s-supreme-court-rebuffs-facebook-appeal-in-user-tracking-lawsuit-idUSKBN2BE1TX",
-    "upvotes": 177,
+    "upvotes": 191,
     "author": "LinuxBender",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26544492"
   },
   {
     "title": "Nominet",
     "url": "https://www.nominet.uk/nominet-egm-result/",
-    "upvotes": 22,
+    "upvotes": 36,
     "author": "blibble",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26547481"
+  },
+  {
+    "title": "The S in IoT is for Security",
+    "url": "https://puri.sm/posts/the-s-in-iot-is-for-security/",
+    "upvotes": 460,
+    "author": "rauhl",
+    "comments": 244,
+    "link": "https://news.ycombinator.com/item?id=26540007"
+  },
+  {
+    "title": "Thunderbird 2020 Financial Report",
+    "url": "https://groups.google.com/g/tb-planning/c/-jbmYvYdX1g",
+    "upvotes": 99,
+    "author": "joeyespo",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26543495"
   },
   {
     "title": "Build the API That Ships Billions – Join",
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "The S in IoT is for Security",
-    "url": "https://puri.sm/posts/the-s-in-iot-is-for-security/",
-    "upvotes": 448,
-    "author": "rauhl",
-    "comments": 241,
-    "link": "https://news.ycombinator.com/item?id=26540007"
-  },
-  {
-    "title": "The price students pay for a prized IIT seat",
-    "url": "https://theprint.in/india/education/no-life-no-hobbies-burnout-lost-childhood-the-price-students-pay-for-a-prized-iit-seat/625040/",
-    "upvotes": 96,
-    "author": "rustoo",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26547172"
-  },
-  {
     "title": "Firefox 87 trims HTTP Referrers by default to protect user privacy",
     "url": "https://blog.mozilla.org/security/2021/03/22/firefox-87-trims-http-referrers-by-default-to-protect-user-privacy/",
-    "upvotes": 832,
+    "upvotes": 843,
     "author": "twapi",
-    "comments": 201,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=26539673"
   },
   {
     "title": "Live feed from Iceland erupting volcano [video]",
     "url": "https://www.ruv.is/frett/2021/03/20/live-feed-from-iceland-volcano",
-    "upvotes": 559,
+    "upvotes": 568,
     "author": "lknik",
-    "comments": 139,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=26538005"
-  },
-  {
-    "title": "Why Do We Call These “DuPont” Connectors?",
-    "url": "http://www.mattmillman.com/why-do-we-call-these-dupont-connectors/",
-    "upvotes": 38,
-    "author": "zdw",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26544783"
   },
   {
     "title": "EU vaccine rollout severely lags behind",
     "url": "https://www.statista.com/chart/24471/covid-19-vaccine-doses-per-100-people/",
-    "upvotes": 118,
+    "upvotes": 138,
     "author": "undefined1",
-    "comments": 261,
+    "comments": 305,
     "link": "https://news.ycombinator.com/item?id=26543259"
+  },
+  {
+    "title": "Why Do We Call These “DuPont” Connectors?",
+    "url": "http://www.mattmillman.com/why-do-we-call-these-dupont-connectors/",
+    "upvotes": 48,
+    "author": "zdw",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26544783"
   },
   {
     "title": "Making Your Own Container Compatible with C++20 Ranges",
     "url": "https://www.reedbeta.com/blog/ranges-compatible-containers/",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26528730"
+  },
+  {
+    "title": "The price students pay for a prized IIT seat",
+    "url": "https://theprint.in/india/education/no-life-no-hobbies-burnout-lost-childhood-the-price-students-pay-for-a-prized-iit-seat/625040/",
+    "upvotes": 107,
+    "author": "rustoo",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26547172"
   },
   {
     "title": "Launch HN: Kitemaker (YC W21) – Fast alternative to Jira, built for remote teams",
     "url": "item?id=26540692",
     "upvotes": 187,
     "author": "kevsim",
-    "comments": 112,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26540692"
-  },
-  {
-    "title": "Thunderbird 2020 Financial Report",
-    "url": "https://groups.google.com/g/tb-planning/c/-jbmYvYdX1g",
-    "upvotes": 85,
-    "author": "joeyespo",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26543495"
   },
   {
     "title": "FastDoubleParser: Java port of Daniel Lemires fast_double_parser",
     "url": "https://github.com/wrandelshofer/FastDoubleParser",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "mfiguiere",
-    "comments": 25,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26541735"
   },
   {
-    "title": "Why the Wuhan lab leak theory shouldn't be dismissed",
-    "url": "https://eu.usatoday.com/in-depth/opinion/2021/03/22/why-covid-lab-leak-theory-wuhan-shouldnt-dismissed-column/4765985001/",
-    "upvotes": 402,
-    "author": "ruaraidh",
-    "comments": 378,
-    "link": "https://news.ycombinator.com/item?id=26540458"
+    "title": "Sovereign writers and Substack",
+    "url": "https://stratechery.com/2021/sovereign-writers-and-substack/",
+    "upvotes": 76,
+    "author": "feross",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=26541582"
+  },
+  {
+    "title": "When you have too much memory for SheepShaver",
+    "url": "https://oldvcr.blogspot.com/2021/03/when-you-have-too-much-memory-for.html",
+    "upvotes": 7,
+    "author": "classichasclass",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26528205"
   },
   {
     "title": "Two dies in one package: Teardown of a vintage ROM with double the storage",
     "url": "https://www.righto.com/2021/03/two-dies-in-one-package-teardown-of.html",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "parsecs",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26543899"
   },
   {
-    "title": "Sovereign writers and Substack",
-    "url": "https://stratechery.com/2021/sovereign-writers-and-substack/",
-    "upvotes": 65,
-    "author": "feross",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=26541582"
+    "title": "What's New in SQLite 3.35",
+    "url": "https://antonz.org/sqlite-3-35/",
+    "upvotes": 35,
+    "author": "timf",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26545832"
+  },
+  {
+    "title": "Why the Wuhan lab leak theory shouldn't be dismissed",
+    "url": "https://eu.usatoday.com/in-depth/opinion/2021/03/22/why-covid-lab-leak-theory-wuhan-shouldnt-dismissed-column/4765985001/",
+    "upvotes": 447,
+    "author": "ruaraidh",
+    "comments": 424,
+    "link": "https://news.ycombinator.com/item?id=26540458"
+  },
+  {
+    "title": "Concern in Europe that the Ariane 6 and Vega-C rockets will not be competitive",
+    "url": "https://arstechnica.com/science/2021/03/european-leaders-say-an-immediate-response-needed-to-the-rise-of-spacex/",
+    "upvotes": 77,
+    "author": "tosh",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=26543853"
+  },
+  {
+    "title": "Pulling Bits from ROM Silicon Die Images: Unknown Architecture",
+    "url": "https://ryancor.medium.com/pulling-bits-from-rom-silicon-die-images-unknown-architecture-b73b6b0d4e5d",
+    "upvotes": 71,
+    "author": "mariuz",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26542129"
   },
   {
     "title": "In 2020, two thirds of Google searches ended without a click",
     "url": "https://sparktoro.com/blog/in-2020-two-thirds-of-google-searches-ended-without-a-click/",
-    "upvotes": 240,
+    "upvotes": 249,
     "author": "randfish",
-    "comments": 272,
+    "comments": 291,
     "link": "https://news.ycombinator.com/item?id=26543731"
   },
   {
@@ -164,75 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=26544762"
   },
   {
-    "title": "Pulling Bits from ROM Silicon Die Images: Unknown Architecture",
-    "url": "https://ryancor.medium.com/pulling-bits-from-rom-silicon-die-images-unknown-architecture-b73b6b0d4e5d",
-    "upvotes": 69,
-    "author": "mariuz",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26542129"
-  },
-  {
-    "title": "What's New in SQLite 3.35",
-    "url": "https://antonz.org/sqlite-3-35/",
-    "upvotes": 25,
-    "author": "timf",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26545832"
-  },
-  {
-    "title": "Concern in Europe that the Ariane 6 and Vega-C rockets will not be competitive",
-    "url": "https://arstechnica.com/science/2021/03/european-leaders-say-an-immediate-response-needed-to-the-rise-of-spacex/",
-    "upvotes": 67,
-    "author": "tosh",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=26543853"
+    "title": "In January, there were more real-estate agents than homes for sale in the U.S.",
+    "url": "https://www.wsj.com/articles/new-realtors-pile-into-hot-housing-market-most-find-it-tough-going-11616328002",
+    "upvotes": 198,
+    "author": "undefined1",
+    "comments": 201,
+    "link": "https://news.ycombinator.com/item?id=26543347"
   },
   {
     "title": "Red seaweed supplementation reduces enteric methane by over 80% in beef steers",
     "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247820",
-    "upvotes": 228,
+    "upvotes": 231,
     "author": "giuliomagnifico",
-    "comments": 261,
+    "comments": 264,
     "link": "https://news.ycombinator.com/item?id=26540737"
-  },
-  {
-    "title": "Early-Retirement Update",
-    "url": "https://livingafi.com/2021/03/17/the-2021-early-retirement-update/",
-    "upvotes": 281,
-    "author": "dkarp",
-    "comments": 284,
-    "link": "https://news.ycombinator.com/item?id=26543527"
   },
   {
     "title": "FediDB – Developer Tools for ActivityPub",
     "url": "https://fedidb.org/",
-    "upvotes": 97,
+    "upvotes": 98,
     "author": "LaSombra",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26539292"
   },
   {
-    "title": "How Safe Is Zig?",
-    "url": "https://scattered-thoughts.net/writing/how-safe-is-zig/",
-    "upvotes": 170,
-    "author": "bshanks",
-    "comments": 214,
-    "link": "https://news.ycombinator.com/item?id=26537693"
+    "title": "Early-Retirement Update",
+    "url": "https://livingafi.com/2021/03/17/the-2021-early-retirement-update/",
+    "upvotes": 296,
+    "author": "dkarp",
+    "comments": 297,
+    "link": "https://news.ycombinator.com/item?id=26543527"
   },
   {
-    "title": "Finding Virtue in the Virtual",
-    "url": "https://systems-souls-society.com/finding-virtue-in-the-virtual/",
-    "upvotes": 14,
-    "author": "freddyym",
+    "title": "Cold Fusion or Low-Energy Nuclear Reactions, U.S. Navy Researchers Reopen Case",
+    "url": "https://spectrum.ieee.org/tech-talk/energy/nuclear/cold-fusion-or-low-energy-nuclear-reactions-us-navy-researchers-reopen-case",
+    "upvotes": 7,
+    "author": "tmfi",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26534538"
+    "link": "https://news.ycombinator.com/item?id=26547156"
   },
   {
-    "title": "In January, there were more real-estate agents than homes for sale in the U.S.",
-    "url": "https://www.wsj.com/articles/new-realtors-pile-into-hot-housing-market-most-find-it-tough-going-11616328002",
-    "upvotes": 182,
-    "author": "undefined1",
-    "comments": 192,
-    "link": "https://news.ycombinator.com/item?id=26543347"
+    "title": "Opticsim.jl: Optical Simulation Software",
+    "url": "https://github.com/microsoft/OpticSim.jl",
+    "upvotes": 146,
+    "author": "newswasboring",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26538150"
   }
 ]
