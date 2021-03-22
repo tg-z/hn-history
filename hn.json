@@ -2,23 +2,15 @@
   {
     "title": "Live feed from Iceland erupting volcano",
     "url": "https://www.ruv.is/frett/2021/03/20/live-feed-from-iceland-volcano",
-    "upvotes": 143,
+    "upvotes": 183,
     "author": "lknik",
-    "comments": 45,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26538005"
-  },
-  {
-    "title": "How Safe Is Zig?",
-    "url": "https://scattered-thoughts.net/writing/how-safe-is-zig/",
-    "upvotes": 42,
-    "author": "bshanks",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26537693"
   },
   {
     "title": "GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models",
     "url": "https://github.com/EleutherAI/gpt-neo/",
-    "upvotes": 454,
+    "upvotes": 459,
     "author": "pizza",
     "comments": 104,
     "link": "https://news.ycombinator.com/item?id=26534000"
@@ -26,103 +18,111 @@
   {
     "title": "Opticsim.jl: Optical Simulation Software",
     "url": "https://github.com/microsoft/OpticSim.jl",
-    "upvotes": 11,
+    "upvotes": 21,
     "author": "newswasboring",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26538150"
   },
   {
     "title": "Backblaze submitting names and sizes of files in B2 buckets to Facebook",
     "url": "https://twitter.com/Benjojo12/status/1373707799054712836",
-    "upvotes": 683,
+    "upvotes": 717,
     "author": "celsoazevedo",
-    "comments": 318,
+    "comments": 334,
     "link": "https://news.ycombinator.com/item?id=26536019"
-  },
-  {
-    "title": "AstraZeneca vaccine safe and effective in U.S., Chile, Peru trials",
-    "url": "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-usa/astrazeneca-vaccine-79-effective-in-u-s-trial-panel-finds-no-higher-risk-of-clots-idUSKBN2BE0NJ",
-    "upvotes": 115,
-    "author": "pasttense01",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=26537812"
   },
   {
     "title": "Multithreading for Game Engines",
     "url": "https://vkguide.dev/docs/extra-chapter/multithreading/",
-    "upvotes": 160,
+    "upvotes": 165,
     "author": "vblanco",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26529200"
   },
   {
-    "title": "Chip-starved automakers shudder at Renesas plant's 1-month halt",
-    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Chip-starved-automakers-shudder-at-Renesas-plant-s-1-month-halt",
-    "upvotes": 43,
-    "author": "fomine3",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26536240"
-  },
-  {
-    "title": "The Infinite Drum Machine",
-    "url": "https://experiments.withgoogle.com/ai/drum-machine/view",
-    "upvotes": 184,
-    "author": "based2",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26533792"
+    "title": "UK 'heading towards digital skills shortage disaster'",
+    "url": "https://www.bbc.co.uk/news/business-56479304",
+    "upvotes": 18,
+    "author": "tonyedgecombe",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26537937"
   },
   {
     "title": "The Magic Kernel",
     "url": "http://www.johncostella.com/magic/",
-    "upvotes": 120,
+    "upvotes": 128,
     "author": "aleyan",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26513518"
   },
   {
-    "title": "Loopy Pipe Network Converts back-and-forth flow into one-way flow",
-    "url": "https://physics.aps.org/articles/v14/42",
-    "upvotes": 60,
-    "author": "sohkamyung",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26535918"
+    "title": "The Infinite Drum Machine",
+    "url": "https://experiments.withgoogle.com/ai/drum-machine/view",
+    "upvotes": 192,
+    "author": "based2",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26533792"
   },
   {
     "title": "Counterfeit Mitutoyo digital calipers",
     "url": "https://canadianhobbymetalworkers.com/threads/counterfeit-mitutoyo-digital-calipers.1182/",
-    "upvotes": 37,
+    "upvotes": 44,
     "author": "fortran77",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26536829"
+  },
+  {
+    "title": "Loopy Pipe Network Converts back-and-forth flow into one-way flow",
+    "url": "https://physics.aps.org/articles/v14/42",
+    "upvotes": 65,
+    "author": "sohkamyung",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26535918"
   },
   {
     "title": "Attributes and Predictors of Long Covid",
     "url": "https://www.nature.com/articles/s41591-021-01292-y",
-    "upvotes": 23,
+    "upvotes": 29,
     "author": "luu",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26537775"
   },
   {
+    "title": "Updating a 50 terabyte PostgreSQL database",
+    "url": "https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7",
+    "upvotes": 88,
+    "author": "whitepoplar",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26535357"
+  },
+  {
+    "title": "AstraZeneca vaccine safe and effective in U.S., Chile, Peru trials",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-usa/astrazeneca-vaccine-79-effective-in-u-s-trial-panel-finds-no-higher-risk-of-clots-idUSKBN2BE0NJ",
+    "upvotes": 135,
+    "author": "pasttense01",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=26537812"
+  },
+  {
     "title": "A few notes on message passing",
     "url": "http://blog.erlang.org/message-passing/",
-    "upvotes": 122,
+    "upvotes": 124,
     "author": "srijan4",
-    "comments": 61,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26514476"
   },
   {
-    "title": "Updating a 50 terabyte PostgreSQL database",
-    "url": "https://medium.com/adyen/updating-a-50-terabyte-postgresql-database-f64384b799e7",
-    "upvotes": 78,
-    "author": "whitepoplar",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26535357"
+    "title": "Distributed Systems: A free online class",
+    "url": "http://www.distributedsystemscourse.com/",
+    "upvotes": 65,
+    "author": "roperzh",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26534819"
   },
   {
     "title": "Regexploit: DoS-Able Regular Expressions",
     "url": "https://blog.doyensec.com/2021/03/11/regexploit.html",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "dedalus",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26519107"
@@ -130,109 +130,109 @@
   {
     "title": "Don't End the Week with Nothing",
     "url": "https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing",
-    "upvotes": 726,
+    "upvotes": 728,
     "author": "mooreds",
-    "comments": 216,
+    "comments": 217,
     "link": "https://news.ycombinator.com/item?id=26531297"
-  },
-  {
-    "title": "Dear Young Artist [pdf]",
-    "url": "http://www.stephenshore.net/writing/lettertoayoungartist.pdf",
-    "upvotes": 18,
-    "author": "dmurthy",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26521766"
   },
   {
     "title": "Work at YC and help YC startups hire great people",
     "url": "https://www.ycombinator.com/companies/64/jobs/fK75gxxbq-product-engineer-work-at-a-startup"
   },
   {
+    "title": "Dear Young Artist [pdf]",
+    "url": "http://www.stephenshore.net/writing/lettertoayoungartist.pdf",
+    "upvotes": 21,
+    "author": "dmurthy",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26521766"
+  },
+  {
+    "title": "How Safe Is Zig?",
+    "url": "https://scattered-thoughts.net/writing/how-safe-is-zig/",
+    "upvotes": 53,
+    "author": "bshanks",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26537693"
+  },
+  {
+    "title": "Show HN: SimpleR State – simplest state management for React",
+    "url": "https://github.com/arnelenero/simpler-state",
+    "upvotes": 8,
+    "author": "aenero",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26525526"
+  },
+  {
     "title": "Richard Stallman is coming back to the board of the FSF",
     "url": "http://techrights.org/2021/03/21/richard-stallman-is-coming-back-to-the-board-of-the-free-software-foundation-founded-by-himself-35-years-ago/",
-    "upvotes": 480,
+    "upvotes": 510,
     "author": "wrycoder",
-    "comments": 404,
+    "comments": 425,
     "link": "https://news.ycombinator.com/item?id=26535224"
   },
   {
-    "title": "NASA completes engine test firing of moon rocket on 2nd try",
-    "url": "https://phys.org/news/2021-03-nasa-moon-rocket-2nd.html",
-    "upvotes": 73,
-    "author": "dnetesn",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26511732"
+    "title": "Chip-starved automakers shudder at Renesas plant's 1-month halt",
+    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Chip-starved-automakers-shudder-at-Renesas-plant-s-1-month-halt",
+    "upvotes": 45,
+    "author": "fomine3",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26536240"
+  },
+  {
+    "title": "A beginner’s guide to web accessibility",
+    "url": "https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f",
+    "upvotes": 93,
+    "author": "saranshk",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26532804"
   },
   {
     "title": "How NetNewsWire Handles Threading",
     "url": "https://inessential.com/2021/03/20/how_netnewswire_handles_threading",
     "upvotes": 20,
     "author": "zdw",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26536423"
-  },
-  {
-    "title": "Distributed Systems: A free online class",
-    "url": "http://www.distributedsystemscourse.com/",
-    "upvotes": 55,
-    "author": "roperzh",
     "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26534819"
-  },
-  {
-    "title": "A beginner’s guide to web accessibility",
-    "url": "https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f",
-    "upvotes": 92,
-    "author": "saranshk",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26532804"
+    "link": "https://news.ycombinator.com/item?id=26536423"
   },
   {
     "title": "SF poop-testing startup, once compared to Theranos, charged in $60M fraud scheme",
     "url": "https://www.sfgate.com/crime/article/ubiome-richman-apte-sec-filing-charges-fraud-16042042.php",
-    "upvotes": 368,
+    "upvotes": 374,
     "author": "ic0n0cl4st",
-    "comments": 317,
+    "comments": 320,
     "link": "https://news.ycombinator.com/item?id=26531087"
   },
   {
     "title": "As U.S. schools shuttered, student mental health cratered, survey finds",
     "url": "https://www.reuters.com/investigates/special-report/health-coronavirus-students/",
-    "upvotes": 305,
+    "upvotes": 308,
     "author": "accountinhn",
-    "comments": 450,
+    "comments": 455,
     "link": "https://news.ycombinator.com/item?id=26532588"
-  },
-  {
-    "title": "Harmonic Transformer for the Classroom",
-    "url": "http://swampcastle.blogspot.com/2013/11/harmonic-transformer-for-classroom.html",
-    "upvotes": 3,
-    "author": "puddingnomeat",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26520859"
-  },
-  {
-    "title": "The Swift Array Design",
-    "url": "https://github.com/apple/swift/blob/main/docs/Arrays.rst",
-    "upvotes": 42,
-    "author": "mpweiher",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26521487"
-  },
-  {
-    "title": "CutiePi – A Raspberry Pi 4 tablet",
-    "url": "https://cutiepi.io/",
-    "upvotes": 410,
-    "author": "captn3m0",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=26530103"
   },
   {
     "title": "Ask HN: How do I improve boring README page?",
     "url": "item?id=26537805",
-    "upvotes": 16,
+    "upvotes": 22,
     "author": "flymetothemoon",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26537805"
+  },
+  {
+    "title": "NASA completes engine test firing of moon rocket on 2nd try",
+    "url": "https://phys.org/news/2021-03-nasa-moon-rocket-2nd.html",
+    "upvotes": 74,
+    "author": "dnetesn",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26511732"
+  },
+  {
+    "title": "The Swift Array Design",
+    "url": "https://github.com/apple/swift/blob/main/docs/Arrays.rst",
+    "upvotes": 44,
+    "author": "mpweiher",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26521487"
   }
 ]
