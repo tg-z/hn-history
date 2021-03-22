@@ -1,56 +1,56 @@
 [
   {
-    "title": "Nadine Strossen, former ACLU president, on canceling RMS",
-    "url": "https://www.wetheweb.org/post/cancel-we-the-web",
-    "upvotes": 223,
-    "author": "r3856283",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26535974"
-  },
-  {
     "title": "GPT Neo: open-source GPT model, with pretrained 1.3B & 2.7B weight models",
     "url": "https://github.com/EleutherAI/gpt-neo/",
-    "upvotes": 349,
+    "upvotes": 358,
     "author": "pizza",
-    "comments": 94,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26534000"
   },
   {
     "title": "Don't End the Week with Nothing",
     "url": "https://training.kalzumeus.com/newsletters/archive/do-not-end-the-week-with-nothing",
-    "upvotes": 638,
+    "upvotes": 653,
     "author": "mooreds",
-    "comments": 185,
+    "comments": 186,
     "link": "https://news.ycombinator.com/item?id=26531297"
   },
   {
     "title": "Backblaze submitting names and sizes of files in B2 buckets to Facebook",
     "url": "https://twitter.com/Benjojo12/status/1373707799054712836",
-    "upvotes": 306,
+    "upvotes": 355,
     "author": "celsoazevedo",
-    "comments": 97,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=26536019"
   },
   {
     "title": "Multithreading for Game Engines",
     "url": "https://vkguide.dev/docs/extra-chapter/multithreading/",
-    "upvotes": 92,
+    "upvotes": 100,
     "author": "vblanco",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26529200"
   },
   {
     "title": "SF poop-testing startup, once compared to Theranos, charged in $60M fraud scheme",
     "url": "https://www.sfgate.com/crime/article/ubiome-richman-apte-sec-filing-charges-fraud-16042042.php",
-    "upvotes": 314,
+    "upvotes": 329,
     "author": "ic0n0cl4st",
-    "comments": 269,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=26531087"
+  },
+  {
+    "title": "Loopy Pipe Network Converts back-and-forth flow into one-way flow",
+    "url": "https://physics.aps.org/articles/v14/42",
+    "upvotes": 29,
+    "author": "sohkamyung",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26535918"
   },
   {
     "title": "The Infinite Drum Machine",
     "url": "https://experiments.withgoogle.com/ai/drum-machine/view",
-    "upvotes": 147,
+    "upvotes": 151,
     "author": "based2",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26533792"
@@ -58,115 +58,123 @@
   {
     "title": "The Magic Kernel",
     "url": "http://www.johncostella.com/magic/",
-    "upvotes": 54,
+    "upvotes": 65,
     "author": "aleyan",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26513518"
   },
   {
-    "title": "Loopy Pipe Network Converts back-and-forth flow into one-way flow",
-    "url": "https://physics.aps.org/articles/v14/42",
-    "upvotes": 24,
-    "author": "sohkamyung",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26535918"
+    "title": "A few notes on message passing",
+    "url": "http://blog.erlang.org/message-passing/",
+    "upvotes": 86,
+    "author": "srijan4",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26514476"
+  },
+  {
+    "title": "Cancel We The Web?",
+    "url": "https://www.wetheweb.org/post/cancel-we-the-web",
+    "upvotes": 274,
+    "author": "r3856283",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26535974"
   },
   {
     "title": "Work at YC and help YC startups hire great people",
     "url": "https://www.ycombinator.com/companies/64/jobs/fK75gxxbq-product-engineer-work-at-a-startup"
   },
   {
-    "title": "A few notes on message passing",
-    "url": "http://blog.erlang.org/message-passing/",
-    "upvotes": 82,
-    "author": "srijan4",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26514476"
-  },
-  {
     "title": "Running a Bakery on Emacs and PostgreSQL",
     "url": "https://bofh.org.uk/2019/02/25/baking-with-emacs/",
-    "upvotes": 153,
+    "upvotes": 156,
     "author": "tosh",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26531660"
-  },
-  {
-    "title": "Reverse-Engineering NES Tetris to Add Hard Drop",
-    "url": "https://www.gridbugs.org/reverse-engineering-nes-tetris-to-add-hard-drop/",
-    "upvotes": 196,
-    "author": "stevebox",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=26530604"
-  },
-  {
-    "title": "NASA completes engine test firing of moon rocket on 2nd try",
-    "url": "https://phys.org/news/2021-03-nasa-moon-rocket-2nd.html",
-    "upvotes": 57,
-    "author": "dnetesn",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26511732"
-  },
-  {
-    "title": "The Swift Array Design",
-    "url": "https://github.com/apple/swift/blob/main/docs/Arrays.rst",
-    "upvotes": 25,
-    "author": "mpweiher",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26521487"
   },
   {
     "title": "Regexploit: DoS-Able Regular Expressions",
     "url": "https://blog.doyensec.com/2021/03/11/regexploit.html",
-    "upvotes": 5,
+    "upvotes": 10,
     "author": "dedalus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26519107"
   },
   {
-    "title": "Whales in 19th century shared information about ship attacks",
-    "url": "https://www.theguardian.com/environment/2021/mar/17/sperm-whales-in-19th-century-shared-ship-attack-information",
-    "upvotes": 89,
-    "author": "rwmj",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26521942"
+    "title": "The Swift Array Design",
+    "url": "https://github.com/apple/swift/blob/main/docs/Arrays.rst",
+    "upvotes": 29,
+    "author": "mpweiher",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26521487"
   },
   {
-    "title": "CUPID – the back story",
-    "url": "https://dannorth.net/2021/03/16/cupid-the-back-story/",
-    "upvotes": 302,
-    "author": "blowski",
-    "comments": 242,
-    "link": "https://news.ycombinator.com/item?id=26531079"
+    "title": "Richard Stallman is coming back to the board of the FSF",
+    "url": "http://techrights.org/2021/03/21/richard-stallman-is-coming-back-to-the-board-of-the-free-software-foundation-founded-by-himself-35-years-ago/",
+    "upvotes": 280,
+    "author": "wrycoder",
+    "comments": 255,
+    "link": "https://news.ycombinator.com/item?id=26535224"
+  },
+  {
+    "title": "Whales in 19th century shared information about ship attacks",
+    "url": "https://www.theguardian.com/environment/2021/mar/17/sperm-whales-in-19th-century-shared-ship-attack-information",
+    "upvotes": 92,
+    "author": "rwmj",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26521942"
   },
   {
     "title": "A beginner’s guide to web accessibility",
     "url": "https://bootcamp.uxdesign.cc/beginners-guide-to-web-accessibility-514644750b0f",
-    "upvotes": 65,
+    "upvotes": 72,
     "author": "saranshk",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26532804"
   },
   {
-    "title": "Academic “Ghost-Writing”: The Cheating Scandal No One Will Discuss",
-    "url": "https://logosnews.tech/-MJYdKMeuTakOZj7iq4d",
-    "upvotes": 176,
-    "author": "paulpauper",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=26532604"
+    "title": "CUPID – the back story",
+    "url": "https://dannorth.net/2021/03/16/cupid-the-back-story/",
+    "upvotes": 304,
+    "author": "blowski",
+    "comments": 244,
+    "link": "https://news.ycombinator.com/item?id=26531079"
+  },
+  {
+    "title": "World’s “bluest” sky is in Brazil",
+    "url": "https://physicsworld.com/a/worlds-bluest-sky-revealed/",
+    "upvotes": 3,
+    "author": "zeristor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26529540"
   },
   {
     "title": "As U.S. schools shuttered, student mental health cratered, survey finds",
     "url": "https://www.reuters.com/investigates/special-report/health-coronavirus-students/",
-    "upvotes": 272,
+    "upvotes": 280,
     "author": "accountinhn",
-    "comments": 399,
+    "comments": 406,
     "link": "https://news.ycombinator.com/item?id=26532588"
+  },
+  {
+    "title": "NASA completes engine test firing of moon rocket on 2nd try",
+    "url": "https://phys.org/news/2021-03-nasa-moon-rocket-2nd.html",
+    "upvotes": 58,
+    "author": "dnetesn",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26511732"
+  },
+  {
+    "title": "Academic “Ghost-Writing”: The Cheating Scandal No One Will Discuss",
+    "url": "https://logosnews.tech/-MJYdKMeuTakOZj7iq4d",
+    "upvotes": 179,
+    "author": "paulpauper",
+    "comments": 150,
+    "link": "https://news.ycombinator.com/item?id=26532604"
   },
   {
     "title": "Solitude: A Privacy Analysis Tool",
     "url": "https://github.com/nccgroup/solitude",
-    "upvotes": 45,
+    "upvotes": 48,
     "author": "truxs",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26529677"
@@ -174,65 +182,57 @@
   {
     "title": "NYC Spent Half a Million Dollars per Inmate in 2020, Report Says",
     "url": "https://www.bloomberg.com/news/articles/2021-03-10/nyc-spent-half-a-million-dollars-per-inmate-in-2020-report-says",
-    "upvotes": 89,
+    "upvotes": 99,
     "author": "undefined1",
-    "comments": 63,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26535089"
   },
   {
     "title": "CutiePi – A Raspberry Pi 4 tablet",
     "url": "https://cutiepi.io/",
-    "upvotes": 383,
+    "upvotes": 386,
     "author": "captn3m0",
-    "comments": 141,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=26530103"
   },
   {
     "title": "Dataflowr – Deep Learning DIY",
     "url": "https://dataflowr.github.io/website/",
-    "upvotes": 106,
+    "upvotes": 109,
     "author": "T-A",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26531458"
   },
   {
-    "title": "‘Fierce Poise’ Review: A Splash of Helen Frankenthaler",
-    "url": "https://www.wsj.com/articles/fierce-poise-review-a-splash-of-helen-frankenthaler-11616164764",
-    "upvotes": 3,
-    "author": "prismatic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26524492"
-  },
-  {
     "title": "Launch HN: StartPack (YC S20) - Helping Global SMBs Access US Banking & Payments",
     "url": "item?id=26531552",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "arjawn",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26531552"
   },
   {
-    "title": "The Internet has been cut in Myanmar for the 36th consecutive night",
-    "url": "https://twitter.com/netblocks/status/1373707854876663808",
-    "upvotes": 91,
-    "author": "lawrenceyan",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26536135"
+    "title": "‘Fierce Poise’ Review: A Splash of Helen Frankenthaler",
+    "url": "https://www.wsj.com/articles/fierce-poise-review-a-splash-of-helen-frankenthaler-11616164764",
+    "upvotes": 4,
+    "author": "prismatic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26524492"
   },
   {
     "title": "AMD Expected to Become TSMC's Second Largest Customer",
     "url": "https://www.tomshardware.com/news/amd-tsmc-second-largest-customer",
-    "upvotes": 136,
+    "upvotes": 142,
     "author": "rbanffy",
-    "comments": 84,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26533424"
   },
   {
     "title": "FreeCAD 0.19",
     "url": "https://wiki.freecadweb.org/Release_notes_0.19",
-    "upvotes": 126,
+    "upvotes": 133,
     "author": "this_was_posted",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26533384"
   }
 ]
