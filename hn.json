@@ -1,58 +1,66 @@
 [
   {
-    "title": "This Music Video Does Not Exist [video]",
-    "url": "https://www.thismusicvideodoesnotexist.com/",
-    "upvotes": 53,
-    "author": "smthngwitty",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=26551366"
-  },
-  {
     "title": "Crystal 1.0 – What to expect",
     "url": "https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html",
-    "upvotes": 591,
+    "upvotes": 606,
     "author": "mfkp",
-    "comments": 220,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=26545082"
+  },
+  {
+    "title": "This Music Video Does Not Exist [video]",
+    "url": "https://www.thismusicvideodoesnotexist.com/",
+    "upvotes": 71,
+    "author": "smthngwitty",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26551366"
   },
   {
     "title": "Darker Corners of Go",
     "url": "https://rytisbiel.com/2021/03/06/darker-corners-of-go/",
-    "upvotes": 56,
+    "upvotes": 71,
     "author": "signa11",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26550685"
   },
   {
     "title": "U.S. Supreme Court rebuffs Facebook appeal in user tracking lawsuit",
     "url": "https://www.reuters.com/article/us-usa-court-facebook/u-s-supreme-court-rebuffs-facebook-appeal-in-user-tracking-lawsuit-idUSKBN2BE1TX",
-    "upvotes": 315,
+    "upvotes": 321,
     "author": "LinuxBender",
-    "comments": 102,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26544492"
-  },
-  {
-    "title": "Show HN: Regular expression compilation visualized",
-    "url": "https://compiler.org/reason-re-nfa/src/index.html",
-    "upvotes": 42,
-    "author": "JoelJacobson",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26537734"
   },
   {
     "title": "FCC Reaches Out to Collect Consumer Broadband Availability Experiences",
     "url": "https://www.fcc.gov/document/fcc-reaches-out-collect-consumer-broadband-availability-experiences",
-    "upvotes": 9,
+    "upvotes": 14,
     "author": "dredmorbius",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26551472"
   },
   {
+    "title": "Show HN: Regular expression compilation visualized",
+    "url": "https://compiler.org/reason-re-nfa/src/index.html",
+    "upvotes": 51,
+    "author": "JoelJacobson",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26537734"
+  },
+  {
+    "title": "Unlocking history through automated virtual unfolding of sealed documents",
+    "url": "https://www.nature.com/articles/s41467-021-21326-w",
+    "upvotes": 11,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26532134"
+  },
+  {
     "title": "Cold Fusion or Low-Energy Nuclear Reactions, U.S. Navy Researchers Reopen Case",
     "url": "https://spectrum.ieee.org/tech-talk/energy/nuclear/cold-fusion-or-low-energy-nuclear-reactions-us-navy-researchers-reopen-case",
-    "upvotes": 121,
+    "upvotes": 129,
     "author": "tmfi",
-    "comments": 90,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26547156"
   },
   {
@@ -60,20 +68,28 @@
     "url": "https://www.ycombinator.com/companies/21794/jobs/4OIfqBW-rust-software-engineer"
   },
   {
+    "title": "Substack's UI and 1Password temporarily cost me $2k",
+    "url": "https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023",
+    "upvotes": 304,
+    "author": "tomahony",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=26549307"
+  },
+  {
     "title": "Z3 – ZFS to S3 Backup/Restore Tool",
     "url": "https://github.com/presslabs/z3",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "todsacerdoti",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26550125"
   },
   {
-    "title": "Substack's UI and 1Password temporarily cost me $2k",
-    "url": "https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023",
-    "upvotes": 291,
-    "author": "tomahony",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=26549307"
+    "title": "A Brief History of the Hedge Fund",
+    "url": "https://www.newyorker.com/culture/culture-desk/a-brief-history-of-the-hedge-fund",
+    "upvotes": 66,
+    "author": "fortran77",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=26536884"
   },
   {
     "title": "When you have too much memory for SheepShaver",
@@ -86,87 +102,71 @@
   {
     "title": "Show HN: Reclist.me – Share your favorite books, podcasts, newsletters",
     "url": "http://reclist.me",
-    "upvotes": 22,
+    "upvotes": 27,
     "author": "armando_ok",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26543525"
-  },
-  {
-    "title": "A Brief History of the Hedge Fund",
-    "url": "https://www.newyorker.com/culture/culture-desk/a-brief-history-of-the-hedge-fund",
-    "upvotes": 60,
-    "author": "fortran77",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=26536884"
   },
   {
     "title": "DARPA now has AI-controlled F-16s working as a team in virtual dogfights",
     "url": "https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights",
-    "upvotes": 146,
+    "upvotes": 157,
     "author": "SEJeff",
-    "comments": 116,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26550054"
-  },
-  {
-    "title": "Unlocking history through automated virtual unfolding of sealed documents",
-    "url": "https://www.nature.com/articles/s41467-021-21326-w",
-    "upvotes": 4,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26532134"
-  },
-  {
-    "title": "Thunderbird 2020 Financial Report",
-    "url": "https://groups.google.com/g/tb-planning/c/-jbmYvYdX1g",
-    "upvotes": 180,
-    "author": "joeyespo",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=26543495"
-  },
-  {
-    "title": "All my career rejections",
-    "url": "https://web.eecs.utk.edu/~azh/blog/allmyrejections.html",
-    "upvotes": 169,
-    "author": "azhenley",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=26544739"
   },
   {
     "title": "NSA Issues Guidance on Zero Trust Security Model",
     "url": "https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2515176/nsa-issues-guidance-on-zero-trust-security-model/",
-    "upvotes": 39,
+    "upvotes": 48,
     "author": "graderjs",
-    "comments": 16,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26549363"
+  },
+  {
+    "title": "All my career rejections",
+    "url": "https://web.eecs.utk.edu/~azh/blog/allmyrejections.html",
+    "upvotes": 179,
+    "author": "azhenley",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=26544739"
   },
   {
     "title": "Launch HN: Kitemaker (YC W21) – Fast alternative to Jira, built for remote teams",
     "url": "item?id=26540692",
-    "upvotes": 233,
+    "upvotes": 234,
     "author": "kevsim",
-    "comments": 140,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=26540692"
   },
   {
     "title": "Making Your Own Container Compatible with C++20 Ranges",
     "url": "https://www.reedbeta.com/blog/ranges-compatible-containers/",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "ingve",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26528730"
+  },
+  {
+    "title": "Erlang Garbage Collection Details and Why It Matters",
+    "url": "https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html",
+    "upvotes": 3,
+    "author": "jlturner",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26551733"
   },
   {
     "title": "Microsoft in talks to buy Discord for more than $10B",
     "url": "https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b",
-    "upvotes": 205,
+    "upvotes": 229,
     "author": "meibo",
-    "comments": 191,
+    "comments": 217,
     "link": "https://news.ycombinator.com/item?id=26550429"
   },
   {
     "title": "Archaeologists Solve Mystery of 5,600-Year-Old Skull Found in Italian Cave",
     "url": "https://www.smithsonianmag.com/smart-news/archaeologists-solve-mystery-stone-age-head-cave-180977149/",
-    "upvotes": 23,
+    "upvotes": 24,
     "author": "Hooke",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26533810"
@@ -174,65 +174,65 @@
   {
     "title": "In 2020, two thirds of Google searches ended without a click",
     "url": "https://sparktoro.com/blog/in-2020-two-thirds-of-google-searches-ended-without-a-click/",
-    "upvotes": 364,
+    "upvotes": 371,
     "author": "randfish",
-    "comments": 364,
+    "comments": 370,
     "link": "https://news.ycombinator.com/item?id=26543731"
+  },
+  {
+    "title": "Backblaze Privacy Update: Third-Party Tracking",
+    "url": "https://www.backblaze.com/blog/privacy-update-third-party-tracking/",
+    "upvotes": 34,
+    "author": "dexterdog",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26550506"
+  },
+  {
+    "title": "Major employers scrap plans to cut back on offices – KPMG",
+    "url": "https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005",
+    "upvotes": 71,
+    "author": "pseudolus",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=26549492"
   },
   {
     "title": "Why Do We Call These “DuPont” Connectors?",
     "url": "http://www.mattmillman.com/why-do-we-call-these-dupont-connectors/",
     "upvotes": 83,
     "author": "zdw",
-    "comments": 73,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26544783"
-  },
-  {
-    "title": "Google for the Physical World",
-    "url": "https://www.planitstar.com",
-    "upvotes": 5,
-    "author": "Veloc1te",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26529032"
-  },
-  {
-    "title": "Major employers scrap plans to cut back on offices – KPMG",
-    "url": "https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005",
-    "upvotes": 65,
-    "author": "pseudolus",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26549492"
-  },
-  {
-    "title": "MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification",
-    "url": "https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/",
-    "upvotes": 155,
-    "author": "ek750",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26548291"
   },
   {
     "title": "Why the Wuhan lab leak theory shouldn't be dismissed",
     "url": "https://eu.usatoday.com/in-depth/opinion/2021/03/22/why-covid-lab-leak-theory-wuhan-shouldnt-dismissed-column/4765985001/",
-    "upvotes": 850,
+    "upvotes": 869,
     "author": "ruaraidh",
-    "comments": 753,
+    "comments": 764,
     "link": "https://news.ycombinator.com/item?id=26540458"
+  },
+  {
+    "title": "MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification",
+    "url": "https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/",
+    "upvotes": 161,
+    "author": "ek750",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=26548291"
   },
   {
     "title": "Before and after satellite imagery show early impact of NSW",
     "url": "https://www.smh.com.au/national/nsw/before-and-after-satellite-imagery-show-early-impact-of-nsw-floods-20210323-p57d9b.html",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "matthewsinclair",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26551556"
   },
   {
-    "title": "Backblaze Privacy Update: Third-Party Tracking",
-    "url": "https://www.backblaze.com/blog/privacy-update-third-party-tracking/",
-    "upvotes": 25,
-    "author": "dexterdog",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26550506"
+    "title": "Killing it: From handaxes to spears, no difference in hunting",
+    "url": "http://johnhawks.net/weblog/reviews/archaeology/middle/africa/faunal-exploitation-smith-2020.html",
+    "upvotes": 24,
+    "author": "Petiver",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26536309"
   }
 ]
