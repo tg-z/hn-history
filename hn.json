@@ -1,83 +1,83 @@
 [
   {
-    "title": "LHC machine finds tantalising hints of new physics",
+    "title": "Violation of lepton universality would imply physics beyond the Standard Model",
     "url": "https://www.bbc.co.uk/news/science-environment-56491033",
-    "upvotes": 33,
+    "upvotes": 44,
     "author": "Kaibeezy",
-    "comments": 13,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26552375"
-  },
-  {
-    "title": "This Music Video Does Not Exist [video]",
-    "url": "https://www.thismusicvideodoesnotexist.com/",
-    "upvotes": 101,
-    "author": "smthngwitty",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26551366"
   },
   {
     "title": "Crystal 1.0 – What to expect",
     "url": "https://crystal-lang.org/2021/03/22/crystal-1.0-what-to-expect.html",
-    "upvotes": 621,
+    "upvotes": 627,
     "author": "mfkp",
-    "comments": 255,
+    "comments": 262,
     "link": "https://news.ycombinator.com/item?id=26545082"
+  },
+  {
+    "title": "This Music Video Does Not Exist [video]",
+    "url": "https://www.thismusicvideodoesnotexist.com/",
+    "upvotes": 105,
+    "author": "smthngwitty",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=26551366"
   },
   {
     "title": "FCC Reaches Out to Collect Consumer Broadband Availability Experiences",
     "url": "https://www.fcc.gov/document/fcc-reaches-out-collect-consumer-broadband-availability-experiences",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "dredmorbius",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26551472"
   },
   {
     "title": "Show HN: Regular expression compilation visualized",
     "url": "https://compiler.org/reason-re-nfa/src/index.html",
-    "upvotes": 75,
+    "upvotes": 79,
     "author": "JoelJacobson",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26537734"
   },
   {
     "title": "Erlang Garbage Collection Details and Why It Matters",
     "url": "https://hamidreza-s.github.io/erlang%20garbage%20collection%20memory%20layout%20soft%20realtime/2015/08/24/erlang-garbage-collection-details-and-why-it-matters.html",
-    "upvotes": 19,
+    "upvotes": 25,
     "author": "jlturner",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26551733"
   },
   {
     "title": "Substack's UI and 1Password temporarily cost me $2k",
     "url": "https://timmyomahony.com/blog/substacks-ui-just-cost-me-2-023",
-    "upvotes": 331,
+    "upvotes": 344,
     "author": "tomahony",
-    "comments": 162,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=26549307"
-  },
-  {
-    "title": "Unlocking history through automated virtual unfolding of sealed documents",
-    "url": "https://www.nature.com/articles/s41467-021-21326-w",
-    "upvotes": 17,
-    "author": "benbreen",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26532134"
   },
   {
     "title": "Cold Fusion or Low-Energy Nuclear Reactions, U.S. Navy Researchers Reopen Case",
     "url": "https://spectrum.ieee.org/tech-talk/energy/nuclear/cold-fusion-or-low-energy-nuclear-reactions-us-navy-researchers-reopen-case",
-    "upvotes": 138,
+    "upvotes": 143,
     "author": "tmfi",
-    "comments": 99,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=26547156"
   },
   {
     "title": "A Brief History of the Hedge Fund",
     "url": "https://www.newyorker.com/culture/culture-desk/a-brief-history-of-the-hedge-fund",
-    "upvotes": 73,
+    "upvotes": 75,
     "author": "fortran77",
-    "comments": 50,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26536884"
+  },
+  {
+    "title": "Unlocking history through automated virtual unfolding of sealed documents",
+    "url": "https://www.nature.com/articles/s41467-021-21326-w",
+    "upvotes": 20,
+    "author": "benbreen",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26532134"
   },
   {
     "title": "Synth",
@@ -88,24 +88,32 @@
     "url": "http://reclist.me",
     "upvotes": 37,
     "author": "armando_ok",
-    "comments": 11,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26543525"
-  },
-  {
-    "title": "Z3 – ZFS to S3 Backup/Restore Tool",
-    "url": "https://github.com/presslabs/z3",
-    "upvotes": 62,
-    "author": "todsacerdoti",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26550125"
   },
   {
     "title": "DARPA now has AI-controlled F-16s working as a team in virtual dogfights",
     "url": "https://www.thedrive.com/the-war-zone/39899/darpa-now-has-ai-controlled-f-16s-working-as-a-team-in-virtual-dogfights",
-    "upvotes": 169,
+    "upvotes": 177,
     "author": "SEJeff",
-    "comments": 134,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=26550054"
+  },
+  {
+    "title": "Z3 – ZFS to S3 Backup/Restore Tool",
+    "url": "https://github.com/presslabs/z3",
+    "upvotes": 65,
+    "author": "todsacerdoti",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26550125"
+  },
+  {
+    "title": "NSA Issues Guidance on Zero Trust Security Model",
+    "url": "https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2515176/nsa-issues-guidance-on-zero-trust-security-model/",
+    "upvotes": 63,
+    "author": "graderjs",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26549363"
   },
   {
     "title": "When you have too much memory for SheepShaver",
@@ -118,47 +126,31 @@
   {
     "title": "Darker Corners of Go",
     "url": "https://rytisbiel.com/2021/03/06/darker-corners-of-go/",
-    "upvotes": 81,
+    "upvotes": 87,
     "author": "signa11",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26550685"
-  },
-  {
-    "title": "NSA Issues Guidance on Zero Trust Security Model",
-    "url": "https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2515176/nsa-issues-guidance-on-zero-trust-security-model/",
-    "upvotes": 59,
-    "author": "graderjs",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26549363"
   },
   {
     "title": "Douglas Adams' note to self reveals author found writing torture",
     "url": "https://www.theguardian.com/books/2021/mar/22/douglas-adams-note-to-self-reveals-author-found-writing-torture",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "sohkamyung",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26537967"
-  },
-  {
-    "title": "All my career rejections",
-    "url": "https://web.eecs.utk.edu/~azh/blog/allmyrejections.html",
-    "upvotes": 192,
-    "author": "azhenley",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=26544739"
   },
   {
     "title": "U.S. Supreme Court rebuffs Facebook appeal in user tracking lawsuit",
     "url": "https://www.reuters.com/article/us-usa-court-facebook/u-s-supreme-court-rebuffs-facebook-appeal-in-user-tracking-lawsuit-idUSKBN2BE1TX",
-    "upvotes": 322,
+    "upvotes": 325,
     "author": "LinuxBender",
-    "comments": 107,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26544492"
   },
   {
     "title": "Launch HN: Kitemaker (YC W21) – Fast alternative to Jira, built for remote teams",
     "url": "item?id=26540692",
-    "upvotes": 236,
+    "upvotes": 240,
     "author": "kevsim",
     "comments": 145,
     "link": "https://news.ycombinator.com/item?id=26540692"
@@ -166,42 +158,42 @@
   {
     "title": "Making Your Own Container Compatible with C++20 Ranges",
     "url": "https://www.reedbeta.com/blog/ranges-compatible-containers/",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "ingve",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26528730"
   },
   {
-    "title": "Sidney Powell Says 'No Reasonable Person' Believed Election Fraud Claims",
-    "url": "https://www.law.com/nationallawjournal/2021/03/22/facing-defamation-sidney-powell-says-no-reasonable-person-thought-her-election-fraud-claims-were-fact/",
-    "upvotes": 24,
-    "author": "croon",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26552601"
+    "title": "Backblaze Privacy Update: Third-Party Tracking",
+    "url": "https://www.backblaze.com/blog/privacy-update-third-party-tracking/",
+    "upvotes": 48,
+    "author": "dexterdog",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26550506"
+  },
+  {
+    "title": "Microsoft in talks to buy Discord for more than $10B",
+    "url": "https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b",
+    "upvotes": 270,
+    "author": "meibo",
+    "comments": 280,
+    "link": "https://news.ycombinator.com/item?id=26550429"
   },
   {
     "title": "Archaeologists Solve Mystery of 5,600-Year-Old Skull Found in Italian Cave",
     "url": "https://www.smithsonianmag.com/smart-news/archaeologists-solve-mystery-stone-age-head-cave-180977149/",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "Hooke",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26533810"
   },
   {
-    "title": "Microsoft in talks to buy Discord for more than $10B",
-    "url": "https://www.bloomberg.com/news/articles/2021-03-23/microsoft-said-to-be-in-talks-to-buy-discord-for-more-than-10b",
-    "upvotes": 256,
-    "author": "meibo",
-    "comments": 264,
-    "link": "https://news.ycombinator.com/item?id=26550429"
-  },
-  {
-    "title": "Major employers scrap plans to cut back on offices – KPMG",
-    "url": "https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005",
-    "upvotes": 79,
-    "author": "pseudolus",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=26549492"
+    "title": "Why the Wuhan lab leak theory shouldn't be dismissed",
+    "url": "https://eu.usatoday.com/in-depth/opinion/2021/03/22/why-covid-lab-leak-theory-wuhan-shouldnt-dismissed-column/4765985001/",
+    "upvotes": 903,
+    "author": "ruaraidh",
+    "comments": 784,
+    "link": "https://news.ycombinator.com/item?id=26540458"
   },
   {
     "title": "Why Do We Call These “DuPont” Connectors?",
@@ -212,27 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26544783"
   },
   {
-    "title": "Why the Wuhan lab leak theory shouldn't be dismissed",
-    "url": "https://eu.usatoday.com/in-depth/opinion/2021/03/22/why-covid-lab-leak-theory-wuhan-shouldnt-dismissed-column/4765985001/",
-    "upvotes": 895,
-    "author": "ruaraidh",
-    "comments": 779,
-    "link": "https://news.ycombinator.com/item?id=26540458"
+    "title": "Major employers scrap plans to cut back on offices – KPMG",
+    "url": "https://www.reuters.com/article/us-economy-ceos/major-employers-scrap-plans-to-cut-back-on-offices-kpmg-idUSKBN2BF005",
+    "upvotes": 81,
+    "author": "pseudolus",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=26549492"
   },
   {
     "title": "MacBook Owners' Butterfly Keyboard Lawsuit Gets Class Action Certification",
     "url": "https://www.macrumors.com/2021/03/22/apple-butterfly-keyboard-lawsuit-class-action/",
-    "upvotes": 170,
+    "upvotes": 173,
     "author": "ek750",
-    "comments": 124,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=26548291"
   },
   {
-    "title": "Backblaze Privacy Update: Third-Party Tracking",
-    "url": "https://www.backblaze.com/blog/privacy-update-third-party-tracking/",
-    "upvotes": 42,
-    "author": "dexterdog",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26550506"
+    "title": "“When it comes to broadband, America is the original shithole country”",
+    "url": "https://twitter.com/doctorow/status/1374199359944880128",
+    "upvotes": 4,
+    "author": "DyslexicAtheist",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26552708"
+  },
+  {
+    "title": "Live feed from Iceland erupting volcano [video]",
+    "url": "https://www.ruv.is/frett/2021/03/20/live-feed-from-iceland-volcano",
+    "upvotes": 612,
+    "author": "lknik",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=26538005"
   }
 ]
