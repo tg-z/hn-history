@@ -1,238 +1,238 @@
 [
   {
-    "title": "The Raspberry Pi can boot off NVMe SSDs now",
-    "url": "https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now",
-    "upvotes": 55,
-    "author": "geerlingguy",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26558939"
-  },
-  {
     "title": "Plan 9 from Bell Labs in Cyberspace",
     "url": "https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/",
-    "upvotes": 593,
+    "upvotes": 627,
     "author": "__d",
-    "comments": 138,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=26554539"
   },
   {
     "title": "Chrome’s address bar will use https:// by default",
     "url": "https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html",
-    "upvotes": 370,
+    "upvotes": 391,
     "author": "feross",
-    "comments": 248,
+    "comments": 266,
     "link": "https://news.ycombinator.com/item?id=26555873"
+  },
+  {
+    "title": "TLS 1.0, 1.1 officially deprecated",
+    "url": "https://datatracker.ietf.org/doc/rfc8996/",
+    "upvotes": 18,
+    "author": "cmckn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26559869"
+  },
+  {
+    "title": "The Raspberry Pi can boot off NVMe SSDs now",
+    "url": "https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now",
+    "upvotes": 101,
+    "author": "geerlingguy",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26558939"
+  },
+  {
+    "title": "0 A.D A free, open-source game of ancient warfare",
+    "url": "https://play0ad.com/game-info/project-overview/",
+    "upvotes": 56,
+    "author": "krisgenre",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26558180"
   },
   {
     "title": "Scaling YC",
     "url": "https://blog.ycombinator.com/scaling-yc/",
-    "upvotes": 184,
+    "upvotes": 192,
     "author": "todsacerdoti",
-    "comments": 94,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26555117"
   },
   {
     "title": "Matrix Multiplication Inches Closer to Mythic Goal",
     "url": "http://quantamagazine.org/mathematicians-inch-closer-to-matrix-multiplication-goal-20210323/",
-    "upvotes": 170,
+    "upvotes": 183,
     "author": "yboris",
-    "comments": 116,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=26555585"
-  },
-  {
-    "title": "Small, cheap spy satellites mean there’s no hiding place",
-    "url": "https://www.economist.com/science-and-technology/2021/03/18/small-cheap-spy-satellites-mean-theres-no-hiding-place",
-    "upvotes": 289,
-    "author": "known",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=26553235"
   },
   {
     "title": "Yale’s 367-year-old water bond still pays interest [2015]",
     "url": "https://news.yale.edu/2015/09/22/living-artifact-dutch-golden-age-yale-s-367-year-old-water-bond-still-pays-interest",
-    "upvotes": 52,
+    "upvotes": 67,
     "author": "marc__1",
-    "comments": 23,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26556938"
+  },
+  {
+    "title": "French data protection watchdog casts doubt on Apple’s privacy compliance",
+    "url": "https://www.politico.eu/article/apple-france-french-data-protection-privacy-compliance-watchdog-cnil-doubt/",
+    "upvotes": 19,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26558873"
+  },
+  {
+    "title": "Small, cheap spy satellites mean there’s no hiding place",
+    "url": "https://www.economist.com/science-and-technology/2021/03/18/small-cheap-spy-satellites-mean-theres-no-hiding-place",
+    "upvotes": 292,
+    "author": "known",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=26553235"
+  },
+  {
+    "title": "XQuartz 2.8.0",
+    "url": "https://www.xquartz.org/releases/XQuartz-2.8.0.html",
+    "upvotes": 9,
+    "author": "jboekesteijn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26559458"
   },
   {
     "title": "Letterlocking",
     "url": "https://en.wikipedia.org/wiki/Letterlocking",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "krisbolton",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26555153"
-  },
-  {
-    "title": "0 A.D A free, open-source game of ancient warfare",
-    "url": "https://play0ad.com/game-info/project-overview/",
-    "upvotes": 22,
-    "author": "krisgenre",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26558180"
-  },
-  {
-    "title": "Factoring 2048 RSA integers in 177 days with 13436 qubits and a multimode memory",
-    "url": "https://arxiv.org/abs/2103.06159",
-    "upvotes": 201,
-    "author": "athul7744",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=26554065"
-  },
-  {
-    "title": "Piscina – The Node.js Worker Pool",
-    "url": "https://github.com/piscinajs/piscina",
-    "upvotes": 33,
-    "author": "AquiGorka",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26539102"
   },
   {
     "title": "Heroic Labs",
     "url": "https://www.ycombinator.com/companies/884/jobs/1rMD7U0-head-of-developer-relations"
   },
   {
-    "title": "ZGC – What's new in JDK 16",
-    "url": "https://malloc.se/blog/zgc-jdk16",
-    "upvotes": 110,
-    "author": "harporoeder",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26555514"
-  },
-  {
-    "title": "Akira Kurosawa’s List of His 100 Favorite Movies",
-    "url": "https://www.openculture.com/2015/01/akira-kurosawas-list-of-his-100-favorite-movies.html",
-    "upvotes": 174,
-    "author": "lermontov",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=26551604"
-  },
-  {
     "title": "The likelihood is dead, long live the likelihood",
     "url": "https://ep-news.web.cern.ch/likelihood-dead-long-live-likelihood",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "nabla9",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26552973"
   },
   {
-    "title": "Onlyfans, but for Sharing Knowledge",
-    "url": "http://ownnit.com",
-    "upvotes": 6,
-    "author": "Ownnit",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26559299"
+    "title": "ZGC – What's new in JDK 16",
+    "url": "https://malloc.se/blog/zgc-jdk16",
+    "upvotes": 121,
+    "author": "harporoeder",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26555514"
+  },
+  {
+    "title": "Factoring 2048 RSA integers in 177 days with 13436 qubits and a multimode memory",
+    "url": "https://arxiv.org/abs/2103.06159",
+    "upvotes": 204,
+    "author": "athul7744",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=26554065"
+  },
+  {
+    "title": "Piscina – The Node.js Worker Pool",
+    "url": "https://github.com/piscinajs/piscina",
+    "upvotes": 38,
+    "author": "AquiGorka",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26539102"
+  },
+  {
+    "title": "Akira Kurosawa’s List of His 100 Favorite Movies",
+    "url": "https://www.openculture.com/2015/01/akira-kurosawas-list-of-his-100-favorite-movies.html",
+    "upvotes": 190,
+    "author": "lermontov",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=26551604"
+  },
+  {
+    "title": "Top Saudi official issued death threat against UN's Khashoggi investigator",
+    "url": "https://www.theguardian.com/world/2021/mar/23/top-saudi-official-issued-death-threat-against-uns-khashoggi-investigator",
+    "upvotes": 202,
+    "author": "sofixa",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26557236"
+  },
+  {
+    "title": "Making honey without bees and milk without cows",
+    "url": "https://www.bbc.com/news/business-56154143",
+    "upvotes": 42,
+    "author": "elorant",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26557118"
   },
   {
     "title": "Show HN: PyWebIO – Write interactive web app in script way",
     "url": "https://github.com/wang0618/PyWebIO",
-    "upvotes": 129,
+    "upvotes": 133,
     "author": "Wang0618",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26554451"
   },
   {
-    "title": "Top Saudi official issued death threat against UN's Khashoggi investigator",
-    "url": "https://www.theguardian.com/world/2021/mar/23/top-saudi-official-issued-death-threat-against-uns-khashoggi-investigator",
-    "upvotes": 170,
-    "author": "sofixa",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26557236"
+    "title": "Practical Cryptography for Developers",
+    "url": "https://cryptobook.nakov.com/",
+    "upvotes": 17,
+    "author": "r_singh",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26558074"
   },
   {
     "title": "SvelteKit Is in Public Beta",
     "url": "https://svelte.dev/blog/sveltekit-beta",
-    "upvotes": 157,
+    "upvotes": 172,
     "author": "benmccann",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26557886"
-  },
-  {
-    "title": "Live previews with Rails and Stimulus 2",
-    "url": "https://nts.strzibny.name/rails-stimulus-live-preview/",
-    "upvotes": 93,
-    "author": "nilsandrey",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26554476"
-  },
-  {
-    "title": "Uniswap v3",
-    "url": "https://uniswap.org/blog/uniswap-v3/",
-    "upvotes": 124,
-    "author": "dylkil",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26558039"
   },
   {
     "title": "Result from LHCb experiment challenges the Standard Model",
     "url": "https://www.bbc.co.uk/news/science-environment-56491033",
     "upvotes": 193,
     "author": "Kaibeezy",
-    "comments": 147,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26552375"
   },
   {
-    "title": "French data protection watchdog casts doubt on Apple’s privacy compliance",
-    "url": "https://www.politico.eu/article/apple-france-french-data-protection-privacy-compliance-watchdog-cnil-doubt/",
-    "upvotes": 5,
-    "author": "giuliomagnifico",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26558873"
+    "title": "Live previews with Rails and Stimulus 2",
+    "url": "https://nts.strzibny.name/rails-stimulus-live-preview/",
+    "upvotes": 98,
+    "author": "nilsandrey",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26554476"
   },
   {
-    "title": "Practical Cryptography for Developers",
-    "url": "https://cryptobook.nakov.com/",
-    "upvotes": 11,
-    "author": "r_singh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26558074"
-  },
-  {
-    "title": "Living Like It's 99, No Social Media, No Smartphone",
-    "url": "https://www.alvarez.io/posts/living-like-its99/",
-    "upvotes": 107,
-    "author": "betaman0",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26557048"
+    "title": "Show HN: Programmer’s Poop NFT",
+    "url": "https://www.programmerspoop.com/",
+    "upvotes": 26,
+    "author": "MarkSweep",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26556719"
   },
   {
     "title": "Tz: A Time Zone Helper",
     "url": "https://github.com/oz/tz",
-    "upvotes": 92,
+    "upvotes": 94,
     "author": "polm23",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26537559"
-  },
-  {
-    "title": "Making honey without bees and milk without cows",
-    "url": "https://www.bbc.com/news/business-56154143",
-    "upvotes": 26,
-    "author": "elorant",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26557118"
   },
   {
     "title": "The virus that causes the common cold can effectively boot the Covid virus out",
     "url": "http://bbc.com/news/health-56483445",
-    "upvotes": 162,
+    "upvotes": 171,
     "author": "discocrisco",
-    "comments": 196,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=26554410"
   },
   {
     "title": "Non–line-of-sight imaging over 1.43km [pdf]",
     "url": "https://www.pnas.org/content/pnas/118/10/e2024468118.full.pdf",
-    "upvotes": 61,
+    "upvotes": 68,
     "author": "walterbell",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26537954"
   },
   {
-    "title": "Automatic Video Editing",
-    "url": "https://tratt.net/laurie/blog/entries/automatic_video_editing.html",
-    "upvotes": 71,
-    "author": "todsacerdoti",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26554316"
+    "title": "Robinhood Files Confidentially for U.S. IPO",
+    "url": "https://www.bloomberg.com/news/articles/2021-03-23/robinhood-files-confidentially-for-u-s-ipo",
+    "upvotes": 10,
+    "author": "kregasaurusrex",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26559867"
   }
 ]
