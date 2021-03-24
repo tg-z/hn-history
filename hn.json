@@ -1,16 +1,32 @@
 [
   {
+    "title": "Google Removed ClearURLs Extension from Chrome Web Store",
+    "url": "https://github.com/ClearURLs/Addon/issues/102",
+    "upvotes": 75,
+    "author": "URfejk",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26564638"
+  },
+  {
     "title": "Crazy fast build times, or when 10 seconds starts to make you nervous",
     "url": "http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/",
-    "upvotes": 39,
+    "upvotes": 49,
     "author": "kiyanwang",
-    "comments": 14,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26563993"
+  },
+  {
+    "title": "How to create a 1M record table with a single query",
+    "url": "https://antonz.org/random-table/",
+    "upvotes": 22,
+    "author": "lipanski",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26564168"
   },
   {
     "title": "Groove Pizza",
     "url": "https://apps.musedlab.org/groovepizza/",
-    "upvotes": 310,
+    "upvotes": 319,
     "author": "adriancooney",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26539088"
@@ -18,103 +34,95 @@
   {
     "title": "Suez canal blocked by a massive ship",
     "url": "https://twitter.com/jsrailton/status/1374438210315513864",
-    "upvotes": 460,
+    "upvotes": 504,
     "author": "tilolebo",
-    "comments": 154,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=26560319"
-  },
-  {
-    "title": "Donald Knuth’s Algorithm D, its implementation in Hacker’s Delight and elsewhere",
-    "url": "https://skanthak.homepage.t-online.de/division.html",
-    "upvotes": 86,
-    "author": "graderjs",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26562819"
-  },
-  {
-    "title": "The fight against fake-paper factories that churn out sham science",
-    "url": "https://www.nature.com/articles/d41586-021-00733-5",
-    "upvotes": 167,
-    "author": "pseudolus",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26560694"
-  },
-  {
-    "title": "How to create a 1M record table with a single query",
-    "url": "https://antonz.org/random-table/",
-    "upvotes": 8,
-    "author": "lipanski",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26564168"
-  },
-  {
-    "title": "How do plants extract nutrients from the ground?",
-    "url": "https://www.permaculture.co.uk/articles/how-plants-extract-nutrients",
-    "upvotes": 37,
-    "author": "terse_malvolio",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26552367"
-  },
-  {
-    "title": "Closing web browser windows doesn't close connections",
-    "url": "https://lapcatsoftware.com/articles/closing.html",
-    "upvotes": 158,
-    "author": "alsetmusic",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=26562543"
-  },
-  {
-    "title": "Venus could have been habitable for billions of years",
-    "url": "https://www.smithsonianmag.com/smart-news/venus-could-have-been-habitable-billions-years-180973203/",
-    "upvotes": 152,
-    "author": "YeGoblynQueenne",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=26561933"
-  },
-  {
-    "title": "Cargo Cult Science",
-    "url": "https://calteches.library.caltech.edu/51/2/CargoCult.htm",
-    "upvotes": 66,
-    "author": "tacitusarc",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26563567"
-  },
-  {
-    "title": "Study finds walking improves creativity",
-    "url": "https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/",
-    "upvotes": 178,
-    "author": "CynicusRex",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=26559131"
-  },
-  {
-    "title": "Hutter Prize",
-    "url": "https://en.wikipedia.org/wiki/Hutter_Prize",
-    "upvotes": 59,
-    "author": "jonbaer",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26562212"
   },
   {
     "title": "Ten thousand reasons to use Textpattern",
     "url": "https://textpattern.com/weblog/ten-thousand-reasons-to-use-textpattern",
-    "upvotes": 4,
+    "upvotes": 13,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26539401"
   },
   {
+    "title": "The fight against fake-paper factories that churn out sham science",
+    "url": "https://www.nature.com/articles/d41586-021-00733-5",
+    "upvotes": 174,
+    "author": "pseudolus",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26560694"
+  },
+  {
+    "title": "Donald Knuth’s Algorithm D, its implementation in Hacker’s Delight and elsewhere",
+    "url": "https://skanthak.homepage.t-online.de/division.html",
+    "upvotes": 90,
+    "author": "graderjs",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26562819"
+  },
+  {
+    "title": "Cargo Cult Science",
+    "url": "https://calteches.library.caltech.edu/51/2/CargoCult.htm",
+    "upvotes": 77,
+    "author": "tacitusarc",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26563567"
+  },
+  {
+    "title": "Venus could have been habitable for billions of years",
+    "url": "https://www.smithsonianmag.com/smart-news/venus-could-have-been-habitable-billions-years-180973203/",
+    "upvotes": 156,
+    "author": "YeGoblynQueenne",
+    "comments": 143,
+    "link": "https://news.ycombinator.com/item?id=26561933"
+  },
+  {
+    "title": "Study finds walking improves creativity",
+    "url": "https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/",
+    "upvotes": 189,
+    "author": "CynicusRex",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26559131"
+  },
+  {
     "title": "How to price your SaaS product",
     "url": "https://www.lennysnewsletter.com/p/saas-pricing-strategy",
-    "upvotes": 70,
+    "upvotes": 83,
     "author": "samulipehkonen",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26553639"
+  },
+  {
+    "title": "Closing web browser windows doesn't close connections",
+    "url": "https://lapcatsoftware.com/articles/closing.html",
+    "upvotes": 168,
+    "author": "alsetmusic",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=26562543"
+  },
+  {
+    "title": "Hutter Prize",
+    "url": "https://en.wikipedia.org/wiki/Hutter_Prize",
+    "upvotes": 60,
+    "author": "jonbaer",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26562212"
+  },
+  {
+    "title": "How do plants extract nutrients from the ground?",
+    "url": "https://www.permaculture.co.uk/articles/how-plants-extract-nutrients",
+    "upvotes": 46,
+    "author": "terse_malvolio",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26552367"
   },
   {
     "title": "Show HN: Bangle.dev – Collection of tools for building rich text editors",
     "url": "https://github.com/bangle-io/bangle.dev",
-    "upvotes": 49,
+    "upvotes": 53,
     "author": "kushan2020",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26562256"
@@ -122,26 +130,70 @@
   {
     "title": "TLS 1.0, 1.1 officially deprecated",
     "url": "https://datatracker.ietf.org/doc/rfc8996/",
-    "upvotes": 338,
+    "upvotes": 342,
     "author": "cmckn",
-    "comments": 91,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=26559869"
   },
   {
     "title": "GPT-3 tries pickup lines",
     "url": "https://aiweirdness.com/post/646367635078103040/gpt-3-tries-pickup-lines",
-    "upvotes": 122,
+    "upvotes": 130,
     "author": "gigama",
-    "comments": 42,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26562845"
+  },
+  {
+    "title": "The Price History of Campbell's Tomato Soup",
+    "url": "https://politicalcalculations.blogspot.com/2020/01/the-price-history-of-campbells-tomato.html",
+    "upvotes": 38,
+    "author": "monort",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26539486"
+  },
+  {
+    "title": "French data protection watchdog casts doubt on Apple’s privacy compliance",
+    "url": "https://www.politico.eu/article/apple-france-french-data-protection-privacy-compliance-watchdog-cnil-doubt/",
+    "upvotes": 104,
+    "author": "giuliomagnifico",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26558873"
+  },
+  {
+    "title": "Etleap (YC W13) Is Hiring VP of Product Marketing",
+    "url": "item?id=26562296"
+  },
+  {
+    "title": "Plan 9 from Bell Labs in Cyberspace",
+    "url": "https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/",
+    "upvotes": 803,
+    "author": "__d",
+    "comments": 215,
+    "link": "https://news.ycombinator.com/item?id=26554539"
   },
   {
     "title": "Compare AWS and Azure Services to Google Cloud",
     "url": "https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "Clewza313",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26562230"
+  },
+  {
+    "title": "64-Bit Linux Return-Oriented Programming",
+    "url": "https://crypto.stanford.edu/~blynn/rop/",
+    "upvotes": 97,
+    "author": "EntICOnc",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26552467"
+  },
+  {
+    "title": "The Irish Woman Who Shot Mussolini",
+    "url": "https://www.smithsonianmag.com/smart-news/1926-irish-woman-shot-benito-mussolini-and-almost-altered-history-forever-180977286/",
+    "upvotes": 74,
+    "author": "new_guy",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26553334"
   },
   {
     "title": "My love affair with newspapers",
@@ -152,61 +204,17 @@
     "link": "https://news.ycombinator.com/item?id=26560467"
   },
   {
-    "title": "Etleap (YC W13) Is Hiring VP of Product Marketing",
-    "url": "item?id=26562296"
-  },
-  {
-    "title": "The Price History of Campbell's Tomato Soup",
-    "url": "https://politicalcalculations.blogspot.com/2020/01/the-price-history-of-campbells-tomato.html",
-    "upvotes": 37,
-    "author": "monort",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26539486"
-  },
-  {
-    "title": "The Irish Woman Who Shot Mussolini",
-    "url": "https://www.smithsonianmag.com/smart-news/1926-irish-woman-shot-benito-mussolini-and-almost-altered-history-forever-180977286/",
-    "upvotes": 72,
-    "author": "new_guy",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26553334"
-  },
-  {
-    "title": "Plan 9 from Bell Labs in Cyberspace",
-    "url": "https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/",
-    "upvotes": 799,
-    "author": "__d",
-    "comments": 211,
-    "link": "https://news.ycombinator.com/item?id=26554539"
-  },
-  {
-    "title": "French data protection watchdog casts doubt on Apple’s privacy compliance",
-    "url": "https://www.politico.eu/article/apple-france-french-data-protection-privacy-compliance-watchdog-cnil-doubt/",
-    "upvotes": 100,
-    "author": "giuliomagnifico",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26558873"
-  },
-  {
-    "title": "64-Bit Linux Return-Oriented Programming",
-    "url": "https://crypto.stanford.edu/~blynn/rop/",
-    "upvotes": 94,
-    "author": "EntICOnc",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26552467"
-  },
-  {
     "title": "The Raspberry Pi can boot off NVMe SSDs now",
     "url": "https://www.jeffgeerling.com/blog/2021/raspberry-pi-can-boot-nvme-ssds-now",
-    "upvotes": 301,
+    "upvotes": 307,
     "author": "geerlingguy",
-    "comments": 136,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=26558939"
   },
   {
     "title": "Practical Cryptography for Developers",
     "url": "https://cryptobook.nakov.com/",
-    "upvotes": 118,
+    "upvotes": 122,
     "author": "r_singh",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26558074"
@@ -214,25 +222,17 @@
   {
     "title": "Chrome’s address bar will use https:// by default",
     "url": "https://blog.chromium.org/2021/03/a-safer-default-for-navigation-https.html",
-    "upvotes": 601,
+    "upvotes": 602,
     "author": "feross",
-    "comments": 405,
+    "comments": 407,
     "link": "https://news.ycombinator.com/item?id=26555873"
-  },
-  {
-    "title": "What Philip Glass and J. S. Bach have in common",
-    "url": "https://www.wfmt.com/2018/06/04/what-do-philip-glass-and-j-s-bach-have-in-common-more-than-you-might-think-according-to-pianist-simone-dinnerstein/",
-    "upvotes": 14,
-    "author": "tintinnabula",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26550968"
   },
   {
     "title": "Vim-gh-line: Vim plugin to open the current line on GitHub",
     "url": "https://github.com/ruanyl/vim-gh-line",
-    "upvotes": 55,
+    "upvotes": 57,
     "author": "polm23",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26550490"
   }
 ]
