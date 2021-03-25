@@ -1,59 +1,67 @@
 [
   {
-    "title": "Is the Ship Still Stuck?",
-    "url": "https://istheshipstillstuck.com/",
-    "upvotes": 157,
-    "author": "ColinWright",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=26585282"
-  },
-  {
     "title": "All my servers have an 8 GB empty file on disk",
     "url": "https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/",
-    "upvotes": 389,
+    "upvotes": 464,
     "author": "sonicrocketman",
-    "comments": 268,
+    "comments": 309,
     "link": "https://news.ycombinator.com/item?id=26583791"
   },
   {
     "title": "Phones and apps reduce your ability to focus even when they don’t distract you",
     "url": "https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you",
-    "upvotes": 318,
+    "upvotes": 337,
     "author": "wgoto",
-    "comments": 137,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=26582729"
+  },
+  {
+    "title": "Suez Canal: How are they trying to free the Ever Given?",
+    "url": "https://www.bbc.com/news/56523659",
+    "upvotes": 16,
+    "author": "ibraheemdev",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26586278"
   },
   {
     "title": "Julia 1.6 Highlights",
     "url": "https://julialang.org/blog/2021/03/julia-1.6-highlights/",
-    "upvotes": 293,
+    "upvotes": 302,
     "author": "3JPLW",
-    "comments": 122,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=26580926"
+  },
+  {
+    "title": "Speculating the Entire x86-64 Instruction Set in Seconds with One Weird Trick",
+    "url": "https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/",
+    "upvotes": 64,
+    "author": "muricula",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26584118"
   },
   {
     "title": "Building a full-text search engine in 150 lines of Python code",
     "url": "https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/",
-    "upvotes": 173,
+    "upvotes": 187,
     "author": "bartdegoede",
-    "comments": 42,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26582109"
   },
   {
     "title": "OpenSSL Security Advisory",
     "url": "https://www.openssl.org/news/secadv/20210325.txt",
-    "upvotes": 260,
+    "upvotes": 266,
     "author": "arkadiyt",
-    "comments": 113,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=26580477"
   },
   {
-    "title": "Speculating the Entire x86-64 Instruction Set in Seconds with One Weird Trick",
-    "url": "https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/",
-    "upvotes": 44,
-    "author": "muricula",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26584118"
+    "title": "Is that ship still stuck?",
+    "url": "https://istheshipstillstuck.com/",
+    "upvotes": 268,
+    "author": "ColinWright",
+    "comments": 279,
+    "link": "https://news.ycombinator.com/item?id=26585282"
   },
   {
     "title": "Substack",
@@ -62,177 +70,169 @@
   {
     "title": "RIP Google Reader",
     "url": "https://www.ripgooglereader.com/",
-    "upvotes": 534,
+    "upvotes": 551,
     "author": "mrbbk",
-    "comments": 300,
+    "comments": 303,
     "link": "https://news.ycombinator.com/item?id=26581434"
   },
   {
     "title": "Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser",
     "url": "https://themes.vscode.one",
-    "upvotes": 273,
+    "upvotes": 275,
     "author": "miketromba",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26579936"
   },
   {
     "title": "Rich Hickey and Brian Beckman – Inside Clojure",
     "url": "https://channel9.msdn.com/Shows/Going+Deep/Expert-to-Expert-Rich-Hickey-and-Brian-Beckman-Inside-Clojure",
-    "upvotes": 59,
+    "upvotes": 68,
     "author": "tosh",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26578417"
-  },
-  {
-    "title": "1993: CGI Scripts and Early Server-Side Web Programming",
-    "url": "https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/",
-    "upvotes": 107,
-    "author": "tmfi",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26582119"
   },
   {
     "title": "SQLite is not a toy database",
     "url": "https://antonz.org/sqlite-is-not-a-toy-database/",
-    "upvotes": 706,
+    "upvotes": 715,
     "author": "nalgeon",
-    "comments": 254,
+    "comments": 263,
     "link": "https://news.ycombinator.com/item?id=26580614"
-  },
-  {
-    "title": "CoScreen: Screen Sharing for Engineers",
-    "url": "https://www.coscreen.co/",
-    "upvotes": 123,
-    "author": "mmettler",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26582515"
   },
   {
     "title": "The Dao of DAOs",
     "url": "https://www.notboring.co/p/the-dao-of-daos",
-    "upvotes": 20,
+    "upvotes": 27,
     "author": "jdhzzz",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26549088"
   },
   {
-    "title": "Funds for Open Source",
-    "url": "https://blog.opencollective.com/funds-for-open-source/",
-    "upvotes": 240,
-    "author": "BerislavLopac",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=26578898"
-  },
-  {
-    "title": "Yocto/GL: C++ Libraries for Data-Driven Physically-Based Graphics",
-    "url": "https://github.com/xelatihy/yocto-gl",
-    "upvotes": 56,
-    "author": "xelatihy",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26582114"
+    "title": "1993: CGI Scripts and Early Server-Side Web Programming",
+    "url": "https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/",
+    "upvotes": 110,
+    "author": "tmfi",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=26582119"
   },
   {
     "title": "Vercel Serverless Functions vs. Cloudflare Workers",
     "url": "https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "alexey2020",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26580102"
+  },
+  {
+    "title": "CoScreen: Screen Sharing for Engineers",
+    "url": "https://www.coscreen.co/",
+    "upvotes": 125,
+    "author": "mmettler",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=26582515"
+  },
+  {
+    "title": "Funds for Open Source",
+    "url": "https://blog.opencollective.com/funds-for-open-source/",
+    "upvotes": 243,
+    "author": "BerislavLopac",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=26578898"
   },
   {
     "title": "Fossil Chat",
     "url": "https://www.fossil-scm.org/home/doc/trunk/www/chat.md",
-    "upvotes": 231,
+    "upvotes": 232,
     "author": "brobdingnagians",
-    "comments": 113,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=26578581"
+  },
+  {
+    "title": "Yocto/GL: C++ Libraries for Data-Driven Physically-Based Graphics",
+    "url": "https://github.com/xelatihy/yocto-gl",
+    "upvotes": 58,
+    "author": "xelatihy",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26582114"
   },
   {
     "title": "Calc.exe is now open source; there’s surprising depth in its ancient code",
     "url": "https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/",
-    "upvotes": 164,
+    "upvotes": 170,
     "author": "Tomte",
-    "comments": 145,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=26579481"
+  },
+  {
+    "title": "Steve Jobs Interview in 1981 [video]",
+    "url": "https://www.youtube.com/watch?v=DbfejwP1d3c",
+    "upvotes": 205,
+    "author": "uniqueid",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26579440"
   },
   {
     "title": "'Remember the Internet': An Encyclopedia of Online Life",
     "url": "https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "hunter-2",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26578769"
   },
   {
-    "title": "Steve Jobs Interview in 1981 [video]",
-    "url": "https://www.youtube.com/watch?v=DbfejwP1d3c",
-    "upvotes": 198,
-    "author": "uniqueid",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26579440"
-  },
-  {
     "title": "20-Minute Neighborhoods",
     "url": "https://theconversation.com/people-love-the-idea-of-20-minute-neighbourhoods-so-why-isnt-it-top-of-the-agenda-131193",
-    "upvotes": 133,
+    "upvotes": 140,
     "author": "simonebrunozzi",
-    "comments": 163,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=26580238"
+  },
+  {
+    "title": "Behavior Trees in Robotics and AI",
+    "url": "https://arxiv.org/abs/1709.00084",
+    "upvotes": 5,
+    "author": "Datenstrom",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26580732"
   },
   {
     "title": "Real World Examples of GPT-3 Plain Language Root Cause Summaries",
     "url": "https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "Loke123",
-    "comments": 13,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26583338"
   },
   {
     "title": "Self-compassion is not self-indulgence",
     "url": "https://psyche.co/ideas/self-compassion-is-not-self-indulgence-heres-how-to-try-it",
-    "upvotes": 84,
+    "upvotes": 87,
     "author": "nreece",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26576472"
   },
   {
-    "title": "Fundamentals of Optimal Code Style",
-    "url": "https://optimal-codestyle.github.io/",
-    "upvotes": 35,
-    "author": "todsacerdoti",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26574646"
-  },
-  {
     "title": "CXX - Safe interop between Rust and C++",
     "url": "https://github.com/dtolnay/cxx",
-    "upvotes": 116,
+    "upvotes": 121,
     "author": "dgellow",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26565444"
+  },
+  {
+    "title": "Fundamentals of Optimal Code Style",
+    "url": "https://optimal-codestyle.github.io/",
+    "upvotes": 39,
+    "author": "todsacerdoti",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26574646"
   },
   {
     "title": "Atomic clocks compared with astounding accuracy",
     "url": "https://www.nature.com/articles/d41586-021-00738-0",
-    "upvotes": 55,
+    "upvotes": 57,
     "author": "zeristor",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26582161"
-  },
-  {
-    "title": "Show HN: Trove – Curate and publish a knowledge base on any topic",
-    "url": "https://trove.to/",
-    "upvotes": 49,
-    "author": "wdencker",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26582658"
-  },
-  {
-    "title": "TinaCMS: A toolkit for building visual editing into your site",
-    "url": "https://github.com/tinacms/tinacms",
-    "upvotes": 127,
-    "author": "tosh",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26580485"
   }
 ]
