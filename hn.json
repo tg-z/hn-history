@@ -1,98 +1,106 @@
 [
   {
+    "title": "RIP Google Reader",
+    "url": "https://www.ripgooglereader.com/",
+    "upvotes": 113,
+    "author": "mrbbk",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=26581434"
+  },
+  {
     "title": "OpenSSL Security Advisory",
     "url": "https://www.openssl.org/news/secadv/20210325.txt",
-    "upvotes": 111,
+    "upvotes": 144,
     "author": "arkadiyt",
-    "comments": 37,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26580477"
   },
   {
     "title": "Julia 1.6 Highlights",
     "url": "https://julialang.org/blog/2021/03/julia-1.6-highlights/",
-    "upvotes": 59,
+    "upvotes": 84,
     "author": "3JPLW",
-    "comments": 8,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26580926"
-  },
-  {
-    "title": "Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser",
-    "url": "https://themes.vscode.one",
-    "upvotes": 131,
-    "author": "miketromba",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26579936"
   },
   {
     "title": "SQLite is not a toy database",
     "url": "https://antonz.org/sqlite-is-not-a-toy-database/",
-    "upvotes": 179,
+    "upvotes": 239,
     "author": "nalgeon",
-    "comments": 54,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26580614"
+  },
+  {
+    "title": "Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser",
+    "url": "https://themes.vscode.one",
+    "upvotes": 147,
+    "author": "miketromba",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=26579936"
   },
   {
     "title": "Emacs 27.2",
     "url": "https://lists.gnu.org/archive/html/info-gnu/2021-03/msg00008.html",
-    "upvotes": 122,
+    "upvotes": 138,
     "author": "lelf",
-    "comments": 18,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26579653"
-  },
-  {
-    "title": "RIP Google Reader",
-    "url": "https://www.ripgooglereader.com/",
-    "upvotes": 20,
-    "author": "mrbbk",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26581434"
   },
   {
     "title": "Fossil Chat",
     "url": "https://www.fossil-scm.org/home/doc/trunk/www/chat.md",
-    "upvotes": 172,
+    "upvotes": 183,
     "author": "brobdingnagians",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26578581"
   },
   {
     "title": "Introducing: Funds for Open Source",
     "url": "https://blog.opencollective.com/funds-for-open-source/",
-    "upvotes": 124,
+    "upvotes": 137,
     "author": "BerislavLopac",
-    "comments": 83,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26578898"
-  },
-  {
-    "title": "TinaCMS: Tina is a toolkit for building visual editing into your site",
-    "url": "https://github.com/tinacms/tinacms",
-    "upvotes": 37,
-    "author": "tosh",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26580485"
   },
   {
     "title": "20-Minute Neighborhoods",
     "url": "https://theconversation.com/people-love-the-idea-of-20-minute-neighbourhoods-so-why-isnt-it-top-of-the-agenda-131193",
-    "upvotes": 42,
+    "upvotes": 55,
     "author": "simonebrunozzi",
-    "comments": 7,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26580238"
   },
   {
-    "title": "Julia and the satellite Amazonia-1",
-    "url": "https://discourse.julialang.org/t/julia-and-the-satellite-amazonia-1/57541",
-    "upvotes": 124,
-    "author": "montalbano",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26578848"
+    "title": "Netlify is having CDN issues",
+    "url": "https://www.netlifystatus.com/incidents/r2nqshvznvyj",
+    "upvotes": 27,
+    "author": "yabones",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26581027"
+  },
+  {
+    "title": "Programming quotes",
+    "url": "https://www.ronaldsvilcins.com/2020/12/10/programming-quotes/",
+    "upvotes": 30,
+    "author": "tosh",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26580746"
+  },
+  {
+    "title": "TinaCMS: Tina is a toolkit for building visual editing into your site",
+    "url": "https://github.com/tinacms/tinacms",
+    "upvotes": 42,
+    "author": "tosh",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26580485"
   },
   {
     "title": "Rust 1.51",
     "url": "https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html",
-    "upvotes": 130,
+    "upvotes": 167,
     "author": "ibraheemdev",
-    "comments": 17,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26580611"
   },
   {
@@ -102,79 +110,71 @@
   {
     "title": "Show HN: WebAssembly and ffmpeg = Quick clip, overlay, resize and GIF-ize videos",
     "url": "https://vidds.co/free-video-converter/",
-    "upvotes": 34,
+    "upvotes": 38,
     "author": "Andrew_W",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26580333"
   },
   {
-    "title": "Netlify is having CDN issues",
-    "url": "https://www.netlifystatus.com/incidents/r2nqshvznvyj",
-    "upvotes": 14,
-    "author": "yabones",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26581027"
-  },
-  {
-    "title": "Programming quotes",
-    "url": "https://www.ronaldsvilcins.com/2020/12/10/programming-quotes/",
-    "upvotes": 20,
-    "author": "tosh",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26580746"
+    "title": "Julia and the satellite Amazonia-1",
+    "url": "https://discourse.julialang.org/t/julia-and-the-satellite-amazonia-1/57541",
+    "upvotes": 130,
+    "author": "montalbano",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26578848"
   },
   {
     "title": "CXX - Safe interop between Rust and C++",
     "url": "https://github.com/dtolnay/cxx",
-    "upvotes": 45,
+    "upvotes": 49,
     "author": "dgellow",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26565444"
-  },
-  {
-    "title": "KDE vs. Gnome Design Philosophies",
-    "url": "http://www.ocsmag.com/2017/04/29/kde-vs-gnome-design-philosophies/",
-    "upvotes": 23,
-    "author": "jhvkjhk",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26580108"
-  },
-  {
-    "title": "FSL: A programming language to make complex finite state machines easy to create",
-    "url": "https://fsl.tools/",
-    "upvotes": 72,
-    "author": "nlte",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26578540"
-  },
-  {
-    "title": "Part of Wright brothers' first airplane on NASA's Mars chopper",
-    "url": "https://phys.org/news/2021-03-wright-brothers-1st-airplane-nasa.html",
-    "upvotes": 72,
-    "author": "pseudolus",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26565550"
   },
   {
     "title": "Steve Jobs Interview in 1981 [video]",
     "url": "https://www.youtube.com/watch?v=DbfejwP1d3c",
-    "upvotes": 36,
+    "upvotes": 48,
     "author": "uniqueid",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26579440"
+  },
+  {
+    "title": "Part of Wright brothers' first airplane on NASA's Mars chopper",
+    "url": "https://phys.org/news/2021-03-wright-brothers-1st-airplane-nasa.html",
+    "upvotes": 75,
+    "author": "pseudolus",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26565550"
+  },
+  {
+    "title": "FSL: A programming language to make complex finite state machines easy to create",
+    "url": "https://fsl.tools/",
+    "upvotes": 75,
+    "author": "nlte",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26578540"
+  },
+  {
+    "title": "AWS Aurora Serverless v2: architecture, features, pricing, comparison with Fauna",
+    "url": "https://fauna.com/blog/compare-aws-aurora-serverless-v2-architecture-features-pricing-vs-fauna",
+    "upvotes": 15,
+    "author": "evanweaver",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26570787"
   },
   {
     "title": "Learn about problems, not solutions",
     "url": "https://dwyer.co.za/problems-not-solutions.html",
-    "upvotes": 58,
+    "upvotes": 66,
     "author": "sixhobbits",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26565665"
   },
   {
     "title": "OpenSSL 1.1.1k",
     "url": "https://www.openssl.org/news/changelog.html#openssl-111",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "petecooper",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26580408"
@@ -182,15 +182,15 @@
   {
     "title": "Self-compassion is not self-indulgence",
     "url": "https://psyche.co/ideas/self-compassion-is-not-self-indulgence-heres-how-to-try-it",
-    "upvotes": 9,
+    "upvotes": 19,
     "author": "nreece",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26576472"
   },
   {
     "title": "Lawyers used sheepskin as anti-fraud device for hundreds of years",
     "url": "https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html",
-    "upvotes": 269,
+    "upvotes": 272,
     "author": "jnord",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26575327"
@@ -198,41 +198,41 @@
   {
     "title": "DeaDBeeF – A modular audio player for Unix-like systems",
     "url": "https://deadbeef.sourceforge.io/",
-    "upvotes": 143,
+    "upvotes": 145,
     "author": "marcodiego",
-    "comments": 58,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26576740"
-  },
-  {
-    "title": "AWS Aurora Serverless v2: architecture, features, pricing, comparison with Fauna",
-    "url": "https://fauna.com/blog/compare-aws-aurora-serverless-v2-architecture-features-pricing-vs-fauna",
-    "upvotes": 5,
-    "author": "evanweaver",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26570787"
   },
   {
     "title": "Science relies on constructive criticism. How to keep it useful and respectful",
     "url": "https://www.sciencemag.org/careers/2021/03/science-relies-constructive-criticism-here-s-how-keep-it-useful-and-respectful",
-    "upvotes": 54,
+    "upvotes": 61,
     "author": "nabla9",
-    "comments": 32,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26577606"
   },
   {
     "title": "Free Software: An idea whose time has passed?",
     "url": "https://medium.com/@r0ml/free-software-an-idea-whose-time-has-passed-6570c1d8218a",
-    "upvotes": 187,
+    "upvotes": 192,
     "author": "altsalt",
-    "comments": 334,
+    "comments": 342,
     "link": "https://news.ycombinator.com/item?id=26573425"
   },
   {
     "title": "Ethernet and IP Networking 101",
     "url": "https://iximiuz.com/en/posts/computer-networking-101/",
-    "upvotes": 73,
+    "upvotes": 79,
     "author": "kiyanwang",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26577216"
+  },
+  {
+    "title": "Samsung Announces 512GB DDR5 Memory That Is Twice as Fast as DDR4",
+    "url": "https://hothardware.com/news/samsung-512gb-ddr5-memory-2x-faster-ddr4",
+    "upvotes": 22,
+    "author": "kjhughes",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26580978"
   }
 ]
