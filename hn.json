@@ -1,90 +1,98 @@
 [
   {
+    "title": "Do you want Linux phones?",
+    "url": "https://blog.brixit.nl/do-you-really-want-linux-phones/",
+    "upvotes": 51,
+    "author": "JetSpiegel",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26574731"
+  },
+  {
+    "title": "Where are all the containers? The global shortage explained",
+    "url": "https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained",
+    "upvotes": 52,
+    "author": "luthfur",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26574077"
+  },
+  {
     "title": "Counting cycles and instructions on the Apple M1 processor",
     "url": "https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/",
-    "upvotes": 82,
+    "upvotes": 97,
     "author": "chmaynard",
-    "comments": 24,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26573143"
   },
   {
     "title": "The solution of the Zodiac killer’s 340-character cipher",
     "url": "https://blog.wolfram.com/2021/03/24/the-solution-of-the-zodiac-killers-340-character-cipher/",
-    "upvotes": 312,
+    "upvotes": 330,
     "author": "0-_-0",
-    "comments": 65,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26570795"
   },
   {
     "title": "America’s bald eagle population continues to soar",
     "url": "https://www.fws.gov/birds/news/210324eagle-population.php",
-    "upvotes": 288,
+    "upvotes": 294,
     "author": "infodocket",
-    "comments": 167,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=26568962"
   },
   {
     "title": "WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate",
     "url": "https://timur.mobi/talk/timur",
-    "upvotes": 64,
+    "upvotes": 76,
     "author": "pfalafel",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26572925"
-  },
-  {
-    "title": "Where are all the containers? The global shortage explained",
-    "url": "https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained",
-    "upvotes": 23,
-    "author": "luthfur",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26574077"
   },
   {
     "title": "Pollution from fossil fuel combustion deadlier than previously thought",
     "url": "https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/",
-    "upvotes": 129,
+    "upvotes": 144,
     "author": "seesawtron",
-    "comments": 78,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26573406"
-  },
-  {
-    "title": "Show HN: I wrote a book about Go",
-    "url": "https://www.practical-go-lessons.com/",
-    "upvotes": 475,
-    "author": "maximilienandi",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=26568014"
   },
   {
     "title": "The Decline and Fall of the Latin Neuter",
     "url": "https://dannybate.com/2021/03/15/the-decline-and-fall-of-the-latin-neuter/",
-    "upvotes": 26,
+    "upvotes": 38,
     "author": "who-knows",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26560544"
+  },
+  {
+    "title": "Show HN: I wrote a book about Go",
+    "url": "https://www.practical-go-lessons.com/",
+    "upvotes": 489,
+    "author": "maximilienandi",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26568014"
   },
   {
     "title": "Show HN: Arc, an open-source Databricks alternative",
     "url": "https://arc.tripl.ai/",
-    "upvotes": 26,
+    "upvotes": 38,
     "author": "seddonm1",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26573930"
   },
   {
     "title": "Comparing Svelte and React",
     "url": "https://www.jackfranklin.co.uk/blog/comparing-svelte-and-react-javascript/",
-    "upvotes": 112,
+    "upvotes": 119,
     "author": "feross",
-    "comments": 105,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26571391"
   },
   {
     "title": "Intel chief Pat Gelsinger: Too many chips made in Asia",
     "url": "https://www.bbc.com/news/technology-56512430",
-    "upvotes": 206,
+    "upvotes": 215,
     "author": "tartoran",
-    "comments": 128,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=26573236"
   },
   {
@@ -94,15 +102,15 @@
   {
     "title": "The Python Package Index is now a GitHub secret scanning integrator",
     "url": "https://github.blog/changelog/2021-03-22-the-python-package-index-is-now-a-github-secret-scanning-integrator/",
-    "upvotes": 332,
+    "upvotes": 334,
     "author": "rbanffy",
-    "comments": 99,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26565970"
   },
   {
     "title": "Intel Unleashed, Gelsinger on Intel, IDM 2.0",
     "url": "https://stratechery.com/2021/intel-unleashed-gelsinger-on-intel-idm-2-0/",
-    "upvotes": 216,
+    "upvotes": 220,
     "author": "kaboro",
     "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26568598"
@@ -110,106 +118,98 @@
   {
     "title": "Van Eck Phreaking",
     "url": "https://en.wikipedia.org/wiki/Van_Eck_phreaking",
-    "upvotes": 62,
+    "upvotes": 67,
     "author": "Grieving",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26561374"
-  },
-  {
-    "title": "Parkinson's gene may impair how new neurons are made throughout our lifetime",
-    "url": "https://www.sheffield.ac.uk/neuroscience-institute/news/parkinsons-gene-may-impair-how-new-neurons-are-made-throughout-our-lifetime",
-    "upvotes": 75,
-    "author": "gmays",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26570054"
-  },
-  {
-    "title": "Mastering Real-Time Strategy Games with Deep RL: Mere Mortal Edition",
-    "url": "https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/",
-    "upvotes": 91,
-    "author": "cwinter",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26568142"
-  },
-  {
-    "title": "Berkson's Paradox",
-    "url": "https://twitter.com/page_eco/status/1373266475230789633",
-    "upvotes": 62,
-    "author": "alfongj",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26566810"
-  },
-  {
-    "title": "Fire Destroys 300mm Line of Renesas’ Naka Factory",
-    "url": "https://www.eetasia.com/fire-destroys-300mm-line-of-renesas-naka-factory/",
-    "upvotes": 72,
-    "author": "zdw",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26558359"
-  },
-  {
-    "title": "Men Becoming Wolves",
-    "url": "https://www.laphamsquarterly.org/roundtable/men-becoming-wolves",
-    "upvotes": 25,
-    "author": "diodorus",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26557427"
   },
   {
     "title": "Liberty’s Discontents: The contested history of freedom",
     "url": "https://www.thenation.com/article/society/annelien-de-dijn-freedom-history/",
-    "upvotes": 5,
+    "upvotes": 8,
     "author": "samclemens",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26562553"
   },
   {
-    "title": "The world is facing a coffee deficit",
-    "url": "https://www.bloombergquint.com/business/coffee-trade-reeling-from-virus-faces-nightmare-freight-snags",
-    "upvotes": 106,
-    "author": "benryon",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=26571129"
+    "title": "Parkinson's gene may impair how new neurons are made throughout our lifetime",
+    "url": "https://www.sheffield.ac.uk/neuroscience-institute/news/parkinsons-gene-may-impair-how-new-neurons-are-made-throughout-our-lifetime",
+    "upvotes": 78,
+    "author": "gmays",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26570054"
+  },
+  {
+    "title": "Berkson's Paradox",
+    "url": "https://twitter.com/page_eco/status/1373266475230789633",
+    "upvotes": 64,
+    "author": "alfongj",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26566810"
+  },
+  {
+    "title": "Fire Destroys 300mm Line of Renesas’ Naka Factory",
+    "url": "https://www.eetasia.com/fire-destroys-300mm-line-of-renesas-naka-factory/",
+    "upvotes": 76,
+    "author": "zdw",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=26558359"
+  },
+  {
+    "title": "Mastering Real-Time Strategy Games with Deep RL: Mere Mortal Edition",
+    "url": "https://clemenswinter.com/2021/03/24/mastering-real-time-strategy-games-with-deep-reinforcement-learning-mere-mortal-edition/",
+    "upvotes": 92,
+    "author": "cwinter",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26568142"
+  },
+  {
+    "title": "Men Becoming Wolves",
+    "url": "https://www.laphamsquarterly.org/roundtable/men-becoming-wolves",
+    "upvotes": 26,
+    "author": "diodorus",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26557427"
   },
   {
     "title": "The dispassionate developer",
     "url": "https://blog.ploeh.dk/2021/03/22/the-dispassionate-developer/",
-    "upvotes": 217,
+    "upvotes": 221,
     "author": "algui91",
-    "comments": 205,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=26551529"
   },
   {
-    "title": "My Python testing style guide",
-    "url": "https://blog.thea.codes/my-python-testing-style-guide/",
-    "upvotes": 180,
-    "author": "rbanffy",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=26565785"
-  },
-  {
-    "title": "Syntax Highlighting in a Webpage Without JavaScript",
-    "url": "https://fctorial.github.io/posts/syntax_highlighting_nojs.html",
-    "upvotes": 26,
-    "author": "tathisit",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26572620"
-  },
-  {
-    "title": "Silicon Valley firms in no hurry to open up offices despite easing of virus ban",
-    "url": "https://www.reuters.com/article/us-health-coronavirus-tech-siliconvalley/silicon-valley-firms-in-no-hurry-to-open-up-offices-despite-easing-of-virus-ban-idUSKBN2BG09U",
-    "upvotes": 162,
-    "author": "mikesabbagh",
-    "comments": 266,
-    "link": "https://news.ycombinator.com/item?id=26566048"
+    "title": "The world is facing a coffee deficit",
+    "url": "https://www.bloombergquint.com/business/coffee-trade-reeling-from-virus-faces-nightmare-freight-snags",
+    "upvotes": 109,
+    "author": "benryon",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=26571129"
   },
   {
     "title": "Manganese-rich cathode chemistries: The once and future king?",
     "url": "https://cellsiders.substack.com/p/manganese-rich-cathode-chemistries",
-    "upvotes": 15,
+    "upvotes": 19,
     "author": "clouddrover",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26565999"
+  },
+  {
+    "title": "My Python testing style guide",
+    "url": "https://blog.thea.codes/my-python-testing-style-guide/",
+    "upvotes": 183,
+    "author": "rbanffy",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=26565785"
+  },
+  {
+    "title": "Silicon Valley firms in no hurry to open up offices despite easing of virus ban",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-tech-siliconvalley/silicon-valley-firms-in-no-hurry-to-open-up-offices-despite-easing-of-virus-ban-idUSKBN2BG09U",
+    "upvotes": 164,
+    "author": "mikesabbagh",
+    "comments": 271,
+    "link": "https://news.ycombinator.com/item?id=26566048"
   },
   {
     "title": "Hermes, a JavaScript engine optimized for React Native",
@@ -220,19 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26553675"
   },
   {
+    "title": "Syntax Highlighting in a Webpage Without JavaScript",
+    "url": "https://fctorial.github.io/posts/syntax_highlighting_nojs.html",
+    "upvotes": 27,
+    "author": "tathisit",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26572620"
+  },
+  {
     "title": "Printing Algebraic Numbers",
     "url": "https://fredrikj.net/blog/2021/03/printing-algebraic-numbers/",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "gbrown_",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26566090"
-  },
-  {
-    "title": "Jacques Barzun and Friend",
-    "url": "https://theamericanscholar.org/jacques-barzun-and-friend/",
-    "upvotes": 16,
-    "author": "pepys",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26564000"
   }
 ]
