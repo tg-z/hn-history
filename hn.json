@@ -1,80 +1,60 @@
 [
   {
-    "title": "Big investors shun Deliveroo over workers' rights",
-    "url": "https://www.bbc.co.uk/news/business-56515498",
-    "upvotes": 81,
-    "author": "AndrewDucker",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26577414"
-  },
-  {
-    "title": "DeaDBeeF Player: Multi-platform foobar200-like player",
-    "url": "https://deadbeef.sourceforge.io/",
-    "upvotes": 100,
-    "author": "marcodiego",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26576740"
-  },
-  {
-    "title": "Lawyers used sheepskin as anti-fraud device for hundreds of years",
-    "url": "https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html",
-    "upvotes": 221,
-    "author": "jnord",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26575327"
-  },
-  {
-    "title": "What happens when ICE asks Google for your user information",
-    "url": "https://www.latimes.com/business/technology/story/2021-03-24/federal-agencies-subpoena-google-personal-information",
-    "upvotes": 44,
-    "author": "akshaybhalotia",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26577182"
-  },
-  {
-    "title": "Polycloud: S3-compatible object storage, 20% cheaper than b2",
-    "url": "https://crowdstorage.com/products/polycloud/",
-    "upvotes": 43,
-    "author": "onionjake",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26577176"
+    "title": "Fossil Chat",
+    "url": "https://www.fossil-scm.org/home/doc/trunk/www/chat.md",
+    "upvotes": 27,
+    "author": "brobdingnagians",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26578581"
   },
   {
     "title": "Concussion in sport: Saliva test is 94% accurate in rugby union trial",
     "url": "https://www.bbc.co.uk/sport/rugby-union/56494264",
-    "upvotes": 14,
+    "upvotes": 32,
     "author": "mrtedbear",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26565716"
+  },
+  {
+    "title": "Lawyers used sheepskin as anti-fraud device for hundreds of years",
+    "url": "https://phys.org/news/2021-03-lawyers-sheepskin-anti-fraud-device-hundreds.html",
+    "upvotes": 229,
+    "author": "jnord",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26575327"
+  },
+  {
+    "title": "DeaDBeeF – A modular audio player for Unix-like systems",
+    "url": "https://deadbeef.sourceforge.io/",
+    "upvotes": 105,
+    "author": "marcodiego",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26576740"
   },
   {
     "title": "RoadPony is a new way to support musicians by crowdsourcing concerts",
     "url": "http://www.roadpony.com",
-    "upvotes": 97,
+    "upvotes": 99,
     "author": "corkinn",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26576151"
+  },
+  {
+    "title": "OneSignal Is Hiring Engineers in California, New York, Texas, and the UK",
+    "url": "https://onesignal.com/careers"
   },
   {
     "title": "Free Software: An idea whose time has passed?",
     "url": "https://medium.com/@r0ml/free-software-an-idea-whose-time-has-passed-6570c1d8218a",
-    "upvotes": 116,
+    "upvotes": 125,
     "author": "altsalt",
-    "comments": 208,
+    "comments": 217,
     "link": "https://news.ycombinator.com/item?id=26573425"
-  },
-  {
-    "title": "Japanese typography: Kilograms of sinograms",
-    "url": "https://aisforfonts.com/sinograms",
-    "upvotes": 49,
-    "author": "motform",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26564240"
   },
   {
     "title": "OAuth Attack Vectors",
     "url": "https://portswigger.net/research/hidden-oauth-attack-vectors",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "arkadiyt",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26576727"
@@ -82,7 +62,7 @@
   {
     "title": "Counting cycles and instructions on the Apple M1 processor",
     "url": "https://lemire.me/blog/2021/03/24/counting-cycles-and-instructions-on-the-apple-m1-processor/",
-    "upvotes": 176,
+    "upvotes": 178,
     "author": "chmaynard",
     "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26573143"
@@ -90,58 +70,82 @@
   {
     "title": "GeoGuessing with Deep Learning",
     "url": "https://healeycodes.com/geoguessing-with-deep-learning/",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "healeycodes",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26564782"
-  },
-  {
-    "title": "Where are all the containers? The global shortage explained",
-    "url": "https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained",
-    "upvotes": 263,
-    "author": "luthfur",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=26574077"
   },
   {
     "title": "Gödel's Loophole",
     "url": "https://en.wikipedia.org/wiki/Gödel%27s_Loophole",
-    "upvotes": 90,
+    "upvotes": 94,
     "author": "pepys",
-    "comments": 60,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26577062"
   },
   {
     "title": "Do you really want Linux phones",
     "url": "https://blog.brixit.nl/do-you-really-want-linux-phones/",
-    "upvotes": 416,
+    "upvotes": 421,
     "author": "JetSpiegel",
-    "comments": 400,
+    "comments": 406,
     "link": "https://news.ycombinator.com/item?id=26574731"
+  },
+  {
+    "title": "Where are all the containers? The global shortage explained",
+    "url": "https://www.hillebrand.com/media/publication/where-are-all-the-containers-the-global-shortage-explained",
+    "upvotes": 264,
+    "author": "luthfur",
+    "comments": 188,
+    "link": "https://news.ycombinator.com/item?id=26574077"
+  },
+  {
+    "title": "Polycloud: S3-compatible object storage, 20% cheaper than b2",
+    "url": "https://crowdstorage.com/products/polycloud/",
+    "upvotes": 51,
+    "author": "onionjake",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26577176"
   },
   {
     "title": "The Decline and Fall of the Latin Neuter",
     "url": "https://dannybate.com/2021/03/15/the-decline-and-fall-of-the-latin-neuter/",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "who-knows",
-    "comments": 109,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26560544"
   },
   {
-    "title": "New Alan Turing £50 note design is revealed",
-    "url": "https://www.bbc.co.uk/news/business-56503741",
-    "upvotes": 105,
-    "author": "aries1980",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26577349"
+    "title": "Japanese typography: Kilograms of sinograms",
+    "url": "https://aisforfonts.com/sinograms",
+    "upvotes": 53,
+    "author": "motform",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26564240"
   },
   {
     "title": "Show HN: Arc, an open-source Databricks alternative",
     "url": "https://arc.tripl.ai/",
-    "upvotes": 133,
+    "upvotes": 138,
     "author": "seddonm1",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26573930"
+  },
+  {
+    "title": "Big investors shun Deliveroo over workers' rights",
+    "url": "https://www.bbc.co.uk/news/business-56515498",
+    "upvotes": 95,
+    "author": "AndrewDucker",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=26577414"
+  },
+  {
+    "title": "WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate",
+    "url": "https://timur.mobi/talk/timur",
+    "upvotes": 134,
+    "author": "pfalafel",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26572925"
   },
   {
     "title": "Jacques Barzun and Friend",
@@ -152,12 +156,12 @@
     "link": "https://news.ycombinator.com/item?id=26564000"
   },
   {
-    "title": "WebRTC 1.0 telephony app using “hifi” Opus codec with up to 500kbs bitrate",
-    "url": "https://timur.mobi/talk/timur",
-    "upvotes": 133,
-    "author": "pfalafel",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26572925"
+    "title": "New Alan Turing £50 note design is revealed",
+    "url": "https://www.bbc.co.uk/news/business-56503741",
+    "upvotes": 115,
+    "author": "aries1980",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26577349"
   },
   {
     "title": "English++ Project",
@@ -170,69 +174,65 @@
   {
     "title": "The solution of the Zodiac killer’s 340-character cipher",
     "url": "https://blog.wolfram.com/2021/03/24/the-solution-of-the-zodiac-killers-340-character-cipher/",
-    "upvotes": 587,
+    "upvotes": 591,
     "author": "0-_-0",
-    "comments": 127,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=26570795"
   },
   {
-    "title": "Apple’s Privacy Problem",
-    "url": "https://www.politico.eu/article/apple-privacy-problem/",
-    "upvotes": 7,
-    "author": "dariosalvi78",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26577678"
+    "title": "Science relies on constructive criticism. How to keep it useful and respectful",
+    "url": "https://www.sciencemag.org/careers/2021/03/science-relies-constructive-criticism-here-s-how-keep-it-useful-and-respectful",
+    "upvotes": 8,
+    "author": "nabla9",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26577606"
   },
   {
     "title": "Reading Minds with Ultrasound: A Less-Invasive Technique to Decode the Brain",
     "url": "https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "giuliomagnifico",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26553614"
   },
   {
-    "title": "US Mortality Monitoring – Deaths, Excess, Z-Scores, State Map",
-    "url": "https://www.usmortality.com/",
-    "upvotes": 29,
-    "author": "benmarten",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26576764"
-  },
-  {
     "title": "Pollution from fossil fuel combustion deadlier than previously thought",
     "url": "https://www.hsph.harvard.edu/news/hsph-in-the-news/pollution-from-fossil-fuel-combustion-deadlier-than-previously-thought/",
-    "upvotes": 268,
+    "upvotes": 276,
     "author": "seesawtron",
-    "comments": 211,
+    "comments": 213,
     "link": "https://news.ycombinator.com/item?id=26573406"
   },
   {
-    "title": "Show HN: Ape Playground",
-    "url": "https://kgabis.github.io/apeplay/",
-    "upvotes": 24,
-    "author": "kgabis",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26566171"
+    "title": "Apple’s Privacy Problem",
+    "url": "https://www.politico.eu/article/apple-privacy-problem/",
+    "upvotes": 9,
+    "author": "dariosalvi78",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26577678"
+  },
+  {
+    "title": "US Mortality Monitoring – Deaths, Excess, Z-Scores, State Map",
+    "url": "https://www.usmortality.com/",
+    "upvotes": 31,
+    "author": "benmarten",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26576764"
+  },
+  {
+    "title": "RMS regrets missing an email for the 2005 LLVM/GCC Integration Proposal",
+    "url": "https://lists.gnu.org/archive/html/emacs-devel/2015-02/msg00594.html",
+    "upvotes": 7,
+    "author": "lifthrasiir",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26578851"
   },
   {
     "title": "Show HN: I wrote a book about Go",
     "url": "https://www.practical-go-lessons.com/",
-    "upvotes": 774,
+    "upvotes": 779,
     "author": "maximilienandi",
     "comments": 145,
     "link": "https://news.ycombinator.com/item?id=26568014"
-  },
-  {
-    "title": "Gather",
-    "url": "https://www.notion.so/Gather-Job-Board-f78baa3a0b544670a09d9291f24f6eec"
-  },
-  {
-    "title": "America’s bald eagle population continues to soar",
-    "url": "https://www.fws.gov/birds/news/210324eagle-population.php",
-    "upvotes": 339,
-    "author": "infodocket",
-    "comments": 215,
-    "link": "https://news.ycombinator.com/item?id=26568962"
   }
 ]
