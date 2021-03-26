@@ -2,55 +2,55 @@
   {
     "title": "All my servers have an 8 GB empty file on disk",
     "url": "https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/",
-    "upvotes": 736,
+    "upvotes": 759,
     "author": "sonicrocketman",
-    "comments": 435,
+    "comments": 445,
     "link": "https://news.ycombinator.com/item?id=26583791"
   },
   {
     "title": "Is that ship still stuck?",
     "url": "https://istheshipstillstuck.com/",
-    "upvotes": 622,
+    "upvotes": 662,
     "author": "ColinWright",
-    "comments": 617,
+    "comments": 645,
     "link": "https://news.ycombinator.com/item?id=26585282"
+  },
+  {
+    "title": "Phones and apps reduce your ability to focus even when they don’t distract you",
+    "url": "https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you",
+    "upvotes": 418,
+    "author": "wgoto",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=26582729"
   },
   {
     "title": "Egg: E-Graphs Good",
     "url": "https://egraphs-good.github.io/",
-    "upvotes": 29,
+    "upvotes": 43,
     "author": "alex_hirner",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26587209"
   },
   {
-    "title": "Phones and apps reduce your ability to focus even when they don’t distract you",
-    "url": "https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you",
-    "upvotes": 413,
-    "author": "wgoto",
-    "comments": 158,
-    "link": "https://news.ycombinator.com/item?id=26582729"
-  },
-  {
     "title": "Amdahl's Law",
     "url": "https://en.wikipedia.org/wiki/Amdahl%27s_law",
-    "upvotes": 13,
+    "upvotes": 24,
     "author": "Bluestein",
-    "comments": 2,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26587026"
   },
   {
     "title": "Bad Apple on an Apple //e: playing video on a stock 1 MHz Apple II [video]",
     "url": "https://www.youtube.com/watch?v=X4faogRMOL4",
-    "upvotes": 32,
+    "upvotes": 42,
     "author": "apricot",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26586820"
   },
   {
     "title": "Julia 1.6 Highlights",
     "url": "https://julialang.org/blog/2021/03/julia-1.6-highlights/",
-    "upvotes": 347,
+    "upvotes": 348,
     "author": "3JPLW",
     "comments": 148,
     "link": "https://news.ycombinator.com/item?id=26580926"
@@ -58,7 +58,7 @@
   {
     "title": "Speculating the entire x86-64 instruction set in seconds with one weird trick",
     "url": "https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/",
-    "upvotes": 124,
+    "upvotes": 127,
     "author": "muricula",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26584118"
@@ -66,9 +66,9 @@
   {
     "title": "Building a full-text search engine in 150 lines of Python code",
     "url": "https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/",
-    "upvotes": 252,
+    "upvotes": 257,
     "author": "bartdegoede",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26582109"
   },
   {
@@ -76,13 +76,13 @@
     "url": "https://www.openssl.org/news/secadv/20210325.txt",
     "upvotes": 289,
     "author": "arkadiyt",
-    "comments": 123,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=26580477"
   },
   {
     "title": "Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser",
     "url": "https://themes.vscode.one",
-    "upvotes": 308,
+    "upvotes": 312,
     "author": "miketromba",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26579936"
@@ -90,107 +90,99 @@
   {
     "title": "RIP Google Reader",
     "url": "https://www.ripgooglereader.com/",
-    "upvotes": 609,
+    "upvotes": 615,
     "author": "mrbbk",
-    "comments": 330,
+    "comments": 337,
     "link": "https://news.ycombinator.com/item?id=26581434"
   },
   {
     "title": "How GitHub Actions renders large-scale logs",
     "url": "https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "todsacerdoti",
-    "comments": 3,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26582263"
   },
   {
     "title": "Rich Hickey and Brian Beckman – Inside Clojure",
     "url": "https://channel9.msdn.com/Shows/Going+Deep/Expert-to-Expert-Rich-Hickey-and-Brian-Beckman-Inside-Clojure",
-    "upvotes": 100,
+    "upvotes": 103,
     "author": "tosh",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26578417"
+  },
+  {
+    "title": "SQLite is not a toy database",
+    "url": "https://antonz.org/sqlite-is-not-a-toy-database/",
+    "upvotes": 796,
+    "author": "nalgeon",
+    "comments": 299,
+    "link": "https://news.ycombinator.com/item?id=26580614"
   },
   {
     "title": "Substack",
     "url": "https://substack.com/jobs"
   },
   {
-    "title": "SQLite is not a toy database",
-    "url": "https://antonz.org/sqlite-is-not-a-toy-database/",
-    "upvotes": 793,
-    "author": "nalgeon",
-    "comments": 296,
-    "link": "https://news.ycombinator.com/item?id=26580614"
-  },
-  {
     "title": "AI names colors much as humans do",
     "url": "https://ai.facebook.com/blog/ai-names-colors-much-as-humans-do/",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "Anon84",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26587563"
   },
   {
     "title": "Calc.exe is now open source; there’s surprising depth in its ancient code",
     "url": "https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/",
-    "upvotes": 214,
+    "upvotes": 216,
     "author": "Tomte",
-    "comments": 176,
+    "comments": 182,
     "link": "https://news.ycombinator.com/item?id=26579481"
   },
   {
     "title": "Funds for Open Source",
     "url": "https://blog.opencollective.com/funds-for-open-source/",
-    "upvotes": 257,
+    "upvotes": 261,
     "author": "BerislavLopac",
-    "comments": 163,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=26578898"
-  },
-  {
-    "title": "Why OO Sucks by Joe Armstrong",
-    "url": "http://harmful.cat-v.org/software/OO_programming/why_oo_sucks",
-    "upvotes": 79,
-    "author": "crazypython",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26586829"
   },
   {
     "title": "CoScreen: Screen Sharing for Engineers",
     "url": "https://www.coscreen.co/",
-    "upvotes": 154,
+    "upvotes": 159,
     "author": "mmettler",
-    "comments": 76,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26582515"
   },
   {
     "title": "Fossil Chat",
     "url": "https://www.fossil-scm.org/home/doc/trunk/www/chat.md",
-    "upvotes": 241,
+    "upvotes": 244,
     "author": "brobdingnagians",
-    "comments": 131,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=26578581"
   },
   {
     "title": "Steve Jobs Interview in 1981 [video]",
     "url": "https://www.youtube.com/watch?v=DbfejwP1d3c",
-    "upvotes": 242,
+    "upvotes": 245,
     "author": "uniqueid",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26579440"
   },
   {
     "title": "20-Minute Neighborhoods",
     "url": "https://theconversation.com/people-love-the-idea-of-20-minute-neighbourhoods-so-why-isnt-it-top-of-the-agenda-131193",
-    "upvotes": 161,
+    "upvotes": 164,
     "author": "simonebrunozzi",
-    "comments": 191,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=26580238"
   },
   {
     "title": "Yocto/GL: C++ Libraries for Data-Driven Physically-Based Graphics",
     "url": "https://github.com/xelatihy/yocto-gl",
-    "upvotes": 69,
+    "upvotes": 71,
     "author": "xelatihy",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26582114"
@@ -198,23 +190,23 @@
   {
     "title": "CXX - Safe interop between Rust and C++",
     "url": "https://github.com/dtolnay/cxx",
-    "upvotes": 142,
+    "upvotes": 143,
     "author": "dgellow",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26565444"
   },
   {
-    "title": "1993: CGI Scripts and Early Server-Side Web Programming",
-    "url": "https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/",
-    "upvotes": 123,
-    "author": "tmfi",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26582119"
+    "title": "Ultrasound Networking",
+    "url": "https://www.anfractuosity.com/projects/ultrasound-networking/",
+    "upvotes": 3,
+    "author": "funspectre",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26583457"
   },
   {
     "title": "'Remember the Internet': An Encyclopedia of Online Life",
     "url": "https://www.theatlantic.com/technology/archive/2021/03/remember-the-internet/618350/",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "hunter-2",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26578769"
@@ -222,15 +214,23 @@
   {
     "title": "Self-compassion is not self-indulgence",
     "url": "https://psyche.co/ideas/self-compassion-is-not-self-indulgence-heres-how-to-try-it",
-    "upvotes": 108,
+    "upvotes": 110,
     "author": "nreece",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26576472"
+  },
+  {
+    "title": "1993: CGI Scripts and Early Server-Side Web Programming",
+    "url": "https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/",
+    "upvotes": 125,
+    "author": "tmfi",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=26582119"
   },
   {
     "title": "Real World Examples of GPT-3 Plain Language Root Cause Summaries",
     "url": "https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium",
-    "upvotes": 60,
+    "upvotes": 61,
     "author": "Loke123",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26583338"
