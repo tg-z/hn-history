@@ -2,63 +2,63 @@
   {
     "title": "All my servers have an 8 GB empty file on disk",
     "url": "https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/",
-    "upvotes": 789,
+    "upvotes": 810,
     "author": "sonicrocketman",
-    "comments": 452,
+    "comments": 458,
     "link": "https://news.ycombinator.com/item?id=26583791"
   },
   {
     "title": "Is that ship still stuck?",
     "url": "https://istheshipstillstuck.com/",
-    "upvotes": 707,
+    "upvotes": 727,
     "author": "ColinWright",
-    "comments": 679,
+    "comments": 704,
     "link": "https://news.ycombinator.com/item?id=26585282"
-  },
-  {
-    "title": "Egg: E-Graphs Good",
-    "url": "https://egraphs-good.github.io/",
-    "upvotes": 54,
-    "author": "alex_hirner",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26587209"
   },
   {
     "title": "Phones and apps reduce your ability to focus even when they don’t distract you",
     "url": "https://blog.rize.io/blog/phones-and-apps-reduce-your-ability-to-focus-even-when-they-dont-distract-you",
-    "upvotes": 429,
+    "upvotes": 432,
     "author": "wgoto",
-    "comments": 164,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=26582729"
+  },
+  {
+    "title": "Egg: E-Graphs Good",
+    "url": "https://egraphs-good.github.io/",
+    "upvotes": 61,
+    "author": "alex_hirner",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26587209"
   },
   {
     "title": "Amdahl's Law",
     "url": "https://en.wikipedia.org/wiki/Amdahl%27s_law",
-    "upvotes": 34,
+    "upvotes": 39,
     "author": "Bluestein",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26587026"
   },
   {
     "title": "Bad Apple on an Apple //e: playing video on a stock 1 MHz Apple II [video]",
     "url": "https://www.youtube.com/watch?v=X4faogRMOL4",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "apricot",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26586820"
   },
   {
     "title": "Julia 1.6 Highlights",
     "url": "https://julialang.org/blog/2021/03/julia-1.6-highlights/",
-    "upvotes": 350,
+    "upvotes": 353,
     "author": "3JPLW",
-    "comments": 155,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=26580926"
   },
   {
     "title": "Speculating the entire x86-64 instruction set in seconds with one weird trick",
     "url": "https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/",
-    "upvotes": 132,
+    "upvotes": 137,
     "author": "muricula",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26584118"
@@ -66,23 +66,23 @@
   {
     "title": "How GitHub Actions renders large-scale logs",
     "url": "https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/",
-    "upvotes": 20,
+    "upvotes": 27,
     "author": "todsacerdoti",
-    "comments": 12,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26582263"
   },
   {
     "title": "Building a full-text search engine in 150 lines of Python code",
     "url": "https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/",
-    "upvotes": 263,
+    "upvotes": 267,
     "author": "bartdegoede",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26582109"
   },
   {
     "title": "OpenSSL Security Advisory",
     "url": "https://www.openssl.org/news/secadv/20210325.txt",
-    "upvotes": 291,
+    "upvotes": 293,
     "author": "arkadiyt",
     "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26580477"
@@ -90,7 +90,7 @@
   {
     "title": "Show HN: I built a VS Code Theme Creator – easily make VS Code themes in browser",
     "url": "https://themes.vscode.one",
-    "upvotes": 317,
+    "upvotes": 320,
     "author": "miketromba",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26579936"
@@ -98,33 +98,41 @@
   {
     "title": "RIP Google Reader",
     "url": "https://www.ripgooglereader.com/",
-    "upvotes": 620,
+    "upvotes": 621,
     "author": "mrbbk",
-    "comments": 342,
+    "comments": 343,
     "link": "https://news.ycombinator.com/item?id=26581434"
-  },
-  {
-    "title": "AI names colors much as humans do",
-    "url": "https://ai.facebook.com/blog/ai-names-colors-much-as-humans-do/",
-    "upvotes": 12,
-    "author": "Anon84",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26587563"
   },
   {
     "title": "Rich Hickey and Brian Beckman – Inside Clojure",
     "url": "https://channel9.msdn.com/Shows/Going+Deep/Expert-to-Expert-Rich-Hickey-and-Brian-Beckman-Inside-Clojure",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "tosh",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26578417"
+  },
+  {
+    "title": "AI names colors much as humans do",
+    "url": "https://ai.facebook.com/blog/ai-names-colors-much-as-humans-do/",
+    "upvotes": 14,
+    "author": "Anon84",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26587563"
+  },
+  {
+    "title": "Ultrasound Networking",
+    "url": "https://www.anfractuosity.com/projects/ultrasound-networking/",
+    "upvotes": 10,
+    "author": "funspectre",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26583457"
   },
   {
     "title": "SQLite is not a toy database",
     "url": "https://antonz.org/sqlite-is-not-a-toy-database/",
-    "upvotes": 804,
+    "upvotes": 815,
     "author": "nalgeon",
-    "comments": 301,
+    "comments": 303,
     "link": "https://news.ycombinator.com/item?id=26580614"
   },
   {
@@ -132,83 +140,83 @@
     "url": "https://substack.com/jobs"
   },
   {
-    "title": "Calc.exe is now open source; there’s surprising depth in its ancient code",
-    "url": "https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/",
-    "upvotes": 222,
-    "author": "Tomte",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=26579481"
+    "title": "Open source Heroku Like Platform on premises",
+    "url": "https://github.com/porter-dev/porter",
+    "upvotes": 10,
+    "author": "markomunich",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26587637"
   },
   {
-    "title": "Funds for Open Source",
-    "url": "https://blog.opencollective.com/funds-for-open-source/",
-    "upvotes": 265,
-    "author": "BerislavLopac",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=26578898"
+    "title": "Calc.exe is now open source; there’s surprising depth in its ancient code",
+    "url": "https://arstechnica.com/gadgets/2019/03/calc-exe-is-now-open-source-theres-surprising-depth-in-its-ancient-code/",
+    "upvotes": 224,
+    "author": "Tomte",
+    "comments": 189,
+    "link": "https://news.ycombinator.com/item?id=26579481"
   },
   {
     "title": "CoScreen: Screen Sharing for Engineers",
     "url": "https://www.coscreen.co/",
-    "upvotes": 163,
+    "upvotes": 167,
     "author": "mmettler",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26582515"
+  },
+  {
+    "title": "Earth, Wind, and Solar Fire",
+    "url": "https://increment.com/reliability/solar-storm-impact/",
+    "upvotes": 3,
+    "author": "goodway",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26585526"
   },
   {
     "title": "20-Minute Neighborhoods",
     "url": "https://theconversation.com/people-love-the-idea-of-20-minute-neighbourhoods-so-why-isnt-it-top-of-the-agenda-131193",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "simonebrunozzi",
-    "comments": 199,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=26580238"
-  },
-  {
-    "title": "Ultrasound Networking",
-    "url": "https://www.anfractuosity.com/projects/ultrasound-networking/",
-    "upvotes": 7,
-    "author": "funspectre",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26583457"
   },
   {
     "title": "Steve Jobs Interview in 1981 [video]",
     "url": "https://www.youtube.com/watch?v=DbfejwP1d3c",
-    "upvotes": 248,
+    "upvotes": 252,
     "author": "uniqueid",
-    "comments": 88,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=26579440"
   },
   {
     "title": "CXX - Safe interop between Rust and C++",
     "url": "https://github.com/dtolnay/cxx",
-    "upvotes": 149,
+    "upvotes": 152,
     "author": "dgellow",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26565444"
   },
   {
+    "title": "Self-compassion is not self-indulgence",
+    "url": "https://psyche.co/ideas/self-compassion-is-not-self-indulgence-heres-how-to-try-it",
+    "upvotes": 119,
+    "author": "nreece",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26576472"
+  },
+  {
     "title": "Yocto/GL: C++ Libraries for Data-Driven Physically-Based Graphics",
     "url": "https://github.com/xelatihy/yocto-gl",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "xelatihy",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26582114"
   },
   {
-    "title": "Self-compassion is not self-indulgence",
-    "url": "https://psyche.co/ideas/self-compassion-is-not-self-indulgence-heres-how-to-try-it",
-    "upvotes": 115,
-    "author": "nreece",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26576472"
-  },
-  {
     "title": "Real World Examples of GPT-3 Plain Language Root Cause Summaries",
     "url": "https://www.zebrium.com/blog/real-world-examples-of-gpt-3-plain-language-root-cause-summaries-zebrium",
-    "upvotes": 64,
+    "upvotes": 69,
     "author": "Loke123",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26583338"
   },
   {
@@ -222,17 +230,9 @@
   {
     "title": "Fundamentals of Optimal Code Style",
     "url": "https://optimal-codestyle.github.io/",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "todsacerdoti",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26574646"
-  },
-  {
-    "title": "Vercel Serverless Functions vs. Cloudflare Workers",
-    "url": "https://moiva.io/blog/vercel-serverless-functions-vs-cloudflare-workers",
-    "upvotes": 46,
-    "author": "alexey2020",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26580102"
   }
 ]
