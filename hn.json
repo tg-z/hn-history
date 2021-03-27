@@ -1,48 +1,64 @@
 [
   {
-    "title": "Louvre makes its entire collection available online",
-    "url": "https://collections.louvre.fr/en/",
-    "upvotes": 416,
-    "author": "colinprince",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26599830"
+    "title": "Suez Canal Company represented 75% of the market cap of all Egyptian stocks",
+    "url": "https://globalfinancialdata.com/the-suez-canal-and-the-egyptian-stock-market",
+    "upvotes": 21,
+    "author": "cwwc",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26602139"
   },
   {
-    "title": "2020 World Press Freedom Index: A decisive decade for the future of journalism",
-    "url": "https://www.data-show.com/blog/2020-world-press-freedom-index-a-decisive-decade-for-the-future-of-journalism/",
-    "upvotes": 38,
-    "author": "emmanuelgautier",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=26601290"
+    "title": "Louvre makes its entire collection available online",
+    "url": "https://collections.louvre.fr/en/",
+    "upvotes": 442,
+    "author": "colinprince",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26599830"
   },
   {
     "title": "Socat – A utility for data transfer between two addresses",
     "url": "https://copyconstruct.medium.com/socat-29453e9fc8a6",
-    "upvotes": 89,
+    "upvotes": 105,
     "author": "brigandish",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26577313"
+  },
+  {
+    "title": "BPF for storage: an exokernel-inspired approach [pdf]",
+    "url": "https://arxiv.org/abs/2102.12922",
+    "upvotes": 13,
+    "author": "gbrown_",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26601841"
   },
   {
     "title": "FileZilla now contains adware if you download from the official homepage",
     "url": "https://www.twitter.com/nixcraft/status/1375389973742948355",
-    "upvotes": 82,
+    "upvotes": 108,
     "author": "URfejk",
-    "comments": 17,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26601533"
   },
   {
     "title": "First known gene transfer from plant to insect identified",
     "url": "https://www.nature.com/articles/d41586-021-00782-w",
-    "upvotes": 83,
+    "upvotes": 91,
     "author": "hheikinh",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26600298"
+  },
+  {
+    "title": "2020 World Press Freedom Index: A decisive decade for the future of journalism",
+    "url": "https://www.data-show.com/blog/2020-world-press-freedom-index-a-decisive-decade-for-the-future-of-journalism/",
+    "upvotes": 48,
+    "author": "emmanuelgautier",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26601290"
   },
   {
     "title": "PanVk: An Open Source Vulkan driver for Arm Mali Midgard and Bifrost GPUs",
     "url": "https://www.collabora.com/news-and-blog/news-and-events/panvk-an-open-source-vulkan-driver-for-arm-mali-midgard-and-bifrost-gpus.html",
-    "upvotes": 49,
+    "upvotes": 53,
     "author": "alex_hirner",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26600763"
@@ -50,189 +66,173 @@
   {
     "title": "A “Better C” Benchmark",
     "url": "https://zserge.com/posts/better-c-benchmark/",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "bshanks",
-    "comments": 85,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26586693"
-  },
-  {
-    "title": "The Revolution in Classic Tetris",
-    "url": "https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris",
-    "upvotes": 148,
-    "author": "irtefa",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26599043"
   },
   {
     "title": "Stacker",
     "url": "https://www.stackerhq.com/jobs"
   },
   {
-    "title": "BPF for storage: an exokernel-inspired approach [pdf]",
-    "url": "https://arxiv.org/abs/2102.12922",
-    "upvotes": 5,
-    "author": "gbrown_",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26601841"
-  },
-  {
     "title": "Recreating an Old “Dirty Gamedev Trick”",
     "url": "http://kylehalladay.com/blog/2019/12/04/Recreating-A-Dirty-Gamedev-Hack.html",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "mlejva",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26600698"
   },
   {
-    "title": "1982: The Hobbit",
-    "url": "https://if50.substack.com/p/1982-the-hobbit",
-    "upvotes": 139,
-    "author": "makaimc",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26579099"
+    "title": "The Revolution in Classic Tetris",
+    "url": "https://www.newyorker.com/culture/cultural-comment/the-revolution-in-classic-tetris",
+    "upvotes": 151,
+    "author": "irtefa",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26599043"
   },
   {
     "title": "Designing a Programming Language",
     "url": "http://ducklang.org/designing-a-programming-language-i",
-    "upvotes": 7,
+    "upvotes": 10,
     "author": "tmfi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26601428"
   },
   {
+    "title": "1982: The Hobbit",
+    "url": "https://if50.substack.com/p/1982-the-hobbit",
+    "upvotes": 141,
+    "author": "makaimc",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26579099"
+  },
+  {
     "title": "'Ice-cream toothache': Cold food and drinks pain explained",
     "url": "https://www.bbc.co.uk/news/health-56536300",
-    "upvotes": 53,
+    "upvotes": 56,
     "author": "vinni2",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26600806"
   },
   {
-    "title": "Sam Fussell: An interview with the author of Muscle",
-    "url": "http://www.drmichaeljoyner.com/sam-fussell-an-interview-with-the-author-of-muscle/",
-    "upvotes": 86,
-    "author": "barry-cotter",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26598522"
+    "title": "/r/privacy/ AMA – I'm Gaël Duval, founder of the de-googled Android OS /e/",
+    "url": "https://www.reddit.com/r/privacy/comments/mdk6xn/im_ga%C3%ABl_duval_founder_of_the_degoogled_android_os/",
+    "upvotes": 8,
+    "author": "indidea",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26602245"
   },
   {
-    "title": "Printing in Virtual Reality",
-    "url": "https://blog.glitch.land/en/posts/tb-point-mapper-pt1/",
-    "upvotes": 18,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26589374"
+    "title": "Elite philanthropy mainly self-serving",
+    "url": "https://academictimes.com/elite-philanthropy-mainly-self-serving-2/",
+    "upvotes": 59,
+    "author": "rytis",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26601275"
   },
   {
     "title": "The Mercury functional programming language",
     "url": "https://www.mercurylang.org/",
-    "upvotes": 75,
+    "upvotes": 78,
     "author": "pabs3",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26598959"
   },
   {
-    "title": "Physicist designed and 3D-printed a Lamborghini Aventador",
-    "url": "https://www.autoblog.com/2019/10/07/diy-3d-printed-lamborghini-aventador/",
-    "upvotes": 8,
-    "author": "lelf",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26591858"
+    "title": "Printing in Virtual Reality",
+    "url": "https://blog.glitch.land/en/posts/tb-point-mapper-pt1/",
+    "upvotes": 20,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26589374"
   },
   {
-    "title": "Elite philanthropy mainly self-serving",
-    "url": "https://academictimes.com/elite-philanthropy-mainly-self-serving-2/",
-    "upvotes": 46,
-    "author": "rytis",
+    "title": "An author's obsession with freeing a man from prison",
+    "url": "https://www.themarshallproject.org/2021/03/24/a-bestselling-author-became-obsessed-with-freeing-a-man-from-prison-it-nearly-ruined-her-life",
+    "upvotes": 28,
+    "author": "signor_bosco",
     "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26601275"
+    "link": "https://news.ycombinator.com/item?id=26597622"
+  },
+  {
+    "title": "Sam Fussell: An interview with the author of Muscle",
+    "url": "http://www.drmichaeljoyner.com/sam-fussell-an-interview-with-the-author-of-muscle/",
+    "upvotes": 88,
+    "author": "barry-cotter",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26598522"
+  },
+  {
+    "title": "Physicist designed and 3D-printed a Lamborghini Aventador",
+    "url": "https://www.autoblog.com/2019/10/07/diy-3d-printed-lamborghini-aventador/",
+    "upvotes": 13,
+    "author": "lelf",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26591858"
   },
   {
     "title": "After a remote year, tech’s shadow workforce barely hangs on",
     "url": "https://www.wired.com/story/after-remote-year-tech-shadow-workforce-barely-hangs-on/",
-    "upvotes": 95,
+    "upvotes": 99,
     "author": "elsewhen",
-    "comments": 94,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26578835"
   },
   {
     "title": "Tesla broke US labor law with anti-union efforts – watchdog",
     "url": "https://www.theregister.com/2021/03/26/tesla_labor_law/",
-    "upvotes": 325,
+    "upvotes": 331,
     "author": "samizdis",
-    "comments": 242,
+    "comments": 247,
     "link": "https://news.ycombinator.com/item?id=26598155"
   },
   {
     "title": "The case for, and against, the still-unseen Planet 9",
     "url": "https://astronomynow.com/2021/02/16/the-case-for-and-against-the-still-unseen-planet-nine/",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "emptybits",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26596693"
-  },
-  {
-    "title": "Charles L. Webster and Company",
-    "url": "http://rediscoveringourpast.blogspot.com/2017/04/charles-l-webster-publisher-of-grants.html?m=1",
-    "upvotes": 3,
-    "author": "brudgers",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26586631"
   },
   {
     "title": "Lice",
     "url": "https://granta.com/lice/",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "library",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26597606"
   },
   {
     "title": "Did the black death rampage across the world a century earlier than we thought?",
     "url": "https://www.smithsonianmag.com/history/did-black-death-rampage-across-world-more-century-previously-thought-180977331/",
-    "upvotes": 77,
+    "upvotes": 79,
     "author": "benbreen",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26598448"
   },
   {
+    "title": "Charles L. Webster and Company",
+    "url": "http://rediscoveringourpast.blogspot.com/2017/04/charles-l-webster-publisher-of-grants.html?m=1",
+    "upvotes": 4,
+    "author": "brudgers",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26586631"
+  },
+  {
     "title": "Apt Encounters of the Third Kind",
     "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
-    "upvotes": 632,
+    "upvotes": 633,
     "author": "lormayna",
-    "comments": 134,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=26591669"
   },
   {
     "title": "Paul Erdős",
     "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Erdos/",
-    "upvotes": 123,
+    "upvotes": 125,
     "author": "vo2maxer",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26598267"
-  },
-  {
-    "title": "Fairphone suggests Qualcomm is the biggest barrier to long-term Android support",
-    "url": "https://arstechnica.com/gadgets/2021/03/the-fairphone-2-hits-five-years-of-updates-with-some-help-from-lineageos/",
-    "upvotes": 362,
-    "author": "thg",
-    "comments": 186,
-    "link": "https://news.ycombinator.com/item?id=26593274"
-  },
-  {
-    "title": "The Drivers Cooperative",
-    "url": "https://www.drivers.coop/",
-    "upvotes": 806,
-    "author": "pasquinelli",
-    "comments": 307,
-    "link": "https://news.ycombinator.com/item?id=26588607"
-  },
-  {
-    "title": "Molar City",
-    "url": "https://hazlitt.net/longreads/molar-city",
-    "upvotes": 38,
-    "author": "how-about-this",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26597323"
   }
 ]
