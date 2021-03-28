@@ -1,91 +1,91 @@
 [
   {
-    "title": "You’ve Been Lied to About Lying",
+    "title": "How can you tell if someone is lying?",
     "url": "https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/",
-    "upvotes": 170,
+    "upvotes": 192,
     "author": "samizdis",
-    "comments": 67,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26607386"
   },
   {
     "title": "Does Amazon make more from ads than AWS?",
     "url": "https://www.ben-evans.com/benedictevans/2021/3/14/do-amazon-ads-bring-in-more-cash-than-aws",
-    "upvotes": 198,
+    "upvotes": 208,
     "author": "prostoalex",
-    "comments": 53,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26593223"
   },
   {
-    "title": "High Schooler Invented Color-Changing Sutures to Detect Infection",
+    "title": "High schooler invented color-changing sutures to detect infection",
     "url": "https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/",
-    "upvotes": 67,
+    "upvotes": 77,
     "author": "webmaven",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26607006"
   },
   {
     "title": "I tracked down my impostor",
     "url": "https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor",
-    "upvotes": 314,
+    "upvotes": 321,
     "author": "vanilla-almond",
-    "comments": 171,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=26604093"
+  },
+  {
+    "title": "Larry McMurtry has died",
+    "url": "https://www.washingtonpost.com/local/obituaries/larry-mcmurtry-dead/2021/03/26/953c4660-ae09-11e7-a908-a3470754bbb9_story.html",
+    "upvotes": 15,
+    "author": "samclemens",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26607875"
   },
   {
     "title": "Ohm – A library and language for building parsers, interpreters, compilers, etc.",
     "url": "https://github.com/harc/ohm",
-    "upvotes": 286,
+    "upvotes": 294,
     "author": "testing_1_2_3_4",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26603393"
   },
   {
-    "title": "„We were chased out of SF after trying to give free Internet to the poorest“",
-    "url": "https://twitter.com/sacca/status/1375962440303661057",
-    "upvotes": 163,
-    "author": "_Microft",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=26607556"
-  },
-  {
     "title": "Bronze Age mining sites received deliveries of pre-processed foods",
     "url": "https://phys.org/news/2021-03-bronze-age-sites-deliveries-pre-processed.html",
-    "upvotes": 12,
+    "upvotes": 18,
     "author": "Hooke",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26600405"
   },
   {
-    "title": "Larry McMurtry, novelist who pierced myths of his native Texas, dies at 84",
-    "url": "https://www.washingtonpost.com/local/obituaries/larry-mcmurtry-dead/2021/03/26/953c4660-ae09-11e7-a908-a3470754bbb9_story.html",
-    "upvotes": 10,
-    "author": "samclemens",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26607875"
-  },
-  {
     "title": "Figma to React",
     "url": "https://figma-to-react.vercel.app/",
-    "upvotes": 276,
+    "upvotes": 284,
     "author": "tomsoderlund",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26603097"
   },
   {
+    "title": "One Commander – a new Windows 10 file browser",
+    "url": "http://www.onecommander.com/",
+    "upvotes": 32,
+    "author": "bane",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26607411"
+  },
+  {
     "title": "400-year-old Greenland shark ‘longest-living vertebrate’",
     "url": "https://www.bbc.com/news/science-environment-37047168",
-    "upvotes": 189,
+    "upvotes": 191,
     "author": "milanandreew",
-    "comments": 84,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26603197"
   },
   {
-    "title": "One Commander – a new Windows 10 file browser",
-    "url": "http://www.onecommander.com/",
-    "upvotes": 22,
-    "author": "bane",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26607411"
+    "title": "OAuth 2.0 Authentication Vulnerabilities",
+    "url": "https://portswigger.net/web-security/oauth",
+    "upvotes": 139,
+    "author": "lobo_tuerto",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26603259"
   },
   {
     "title": "Crispr and the Splice to Survive",
@@ -96,17 +96,9 @@
     "link": "https://news.ycombinator.com/item?id=26593294"
   },
   {
-    "title": "OAuth 2.0 Authentication Vulnerabilities",
-    "url": "https://portswigger.net/web-security/oauth",
-    "upvotes": 138,
-    "author": "lobo_tuerto",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26603259"
-  },
-  {
     "title": "Shared Libraries for C64 OS",
     "url": "http://www.c64os.com/post/sharedlibs",
-    "upvotes": 15,
+    "upvotes": 19,
     "author": "rbanffy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26590376"
@@ -114,9 +106,9 @@
   {
     "title": "Senators Offer to Let NSA Hunt Cyber Actors Inside the US",
     "url": "https://www.defenseone.com/technology/2021/03/senators-offer-let-nsa-hunt-cyber-actors-inside-us/172938/",
-    "upvotes": 10,
+    "upvotes": 18,
     "author": "lettergram",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26608027"
   },
   {
@@ -128,9 +120,17 @@
     "link": "https://news.ycombinator.com/item?id=26590524"
   },
   {
+    "title": "Louvre makes its entire collection available online",
+    "url": "https://collections.louvre.fr/en/",
+    "upvotes": 803,
+    "author": "colinprince",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=26599830"
+  },
+  {
     "title": "Galerkin Approximation",
     "url": "https://www.ethanepperly.com/index.php/2020/08/09/big-ideas-in-applied-math-galerkin-approximation/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "mscharrer",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26591125"
@@ -138,58 +138,66 @@
   {
     "title": "Open source is not a business model",
     "url": "https://anonymoushash.vmbrasseur.com/2018/08/24/open-source-is-not-a-business-model-and-your-business-will-fail-if-you-think-that-it-is/",
-    "upvotes": 163,
+    "upvotes": 164,
     "author": "JNRowe",
-    "comments": 118,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26602316"
-  },
-  {
-    "title": "Louvre makes its entire collection available online",
-    "url": "https://collections.louvre.fr/en/",
-    "upvotes": 800,
-    "author": "colinprince",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=26599830"
   },
   {
     "title": "‘Such a funny little thing’: ‘snail-man’ relic may depict ancient joke",
     "url": "https://www.theguardian.com/science/2021/mar/22/snail-man-relic-ancient-joke-british-museum",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "pepys",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26597255"
   },
   {
-    "title": "Intel's Ponte Vecchio Xe-HPC GPU Boasts 100B Transistors",
-    "url": "https://www.tomshardware.com/news/intel-xe-hpc-ponte-vecchio-examined",
-    "upvotes": 78,
-    "author": "rbanffy",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=26590098"
+    "title": "Conway's Game of Life TUI GUI",
+    "url": "https://justine.lol/apelife/index.html",
+    "upvotes": 3,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26598657"
+  },
+  {
+    "title": "The Pastry A.I. That Learned to Fight Cancer",
+    "url": "https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer",
+    "upvotes": 77,
+    "author": "jsomers",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26586922"
   },
   {
     "title": "Better Architecture Diagrams for Agile Teams: actionable tips and lessons",
     "url": "https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "sebportebois",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26602156"
   },
   {
+    "title": "Intel's Ponte Vecchio Xe-HPC GPU Boasts 100B Transistors",
+    "url": "https://www.tomshardware.com/news/intel-xe-hpc-ponte-vecchio-examined",
+    "upvotes": 79,
+    "author": "rbanffy",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=26590098"
+  },
+  {
     "title": "Images from a ‘Day of Shame’ in Myanmar, with Scores Shot Dead Image",
     "url": "https://www.nytimes.com/2021/03/27/world/asia/myanmar-protests-military-pictures.html",
-    "upvotes": 30,
+    "upvotes": 42,
     "author": "cwwc",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26607182"
   },
   {
-    "title": "The Pastry A.I. That Learned to Fight Cancer",
-    "url": "https://www.newyorker.com/tech/annals-of-technology/the-pastry-ai-that-learned-to-fight-cancer",
-    "upvotes": 71,
-    "author": "jsomers",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26586922"
+    "title": "EU experts to say nuclear power qualifies for green investment label: document",
+    "url": "https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0",
+    "upvotes": 427,
+    "author": "accountinhn",
+    "comments": 466,
+    "link": "https://news.ycombinator.com/item?id=26603464"
   },
   {
     "title": "Using 8-inch diskette drives with a PC",
@@ -200,25 +208,9 @@
     "link": "https://news.ycombinator.com/item?id=26590531"
   },
   {
-    "title": "EU experts to say nuclear power qualifies for green investment label: document",
-    "url": "https://www.reuters.com/article/us-europe-regulations-finance/eu-experts-to-say-nuclear-power-qualifies-for-green-investment-label-document-idUSKBN2BJ0F0",
-    "upvotes": 422,
-    "author": "accountinhn",
-    "comments": 464,
-    "link": "https://news.ycombinator.com/item?id=26603464"
-  },
-  {
-    "title": "Combinators: A Centennial View",
-    "url": "https://arxiv.org/abs/2103.12811",
-    "upvotes": 37,
-    "author": "graememcc",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26603872"
-  },
-  {
     "title": "Open Source Security Foundation",
     "url": "https://openssf.org/",
-    "upvotes": 217,
+    "upvotes": 218,
     "author": "Garbage",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26602033"
@@ -228,9 +220,17 @@
     "url": "HTTPS://flexport.com"
   },
   {
+    "title": "Combinators: A Centennial View",
+    "url": "https://arxiv.org/abs/2103.12811",
+    "upvotes": 38,
+    "author": "graememcc",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26603872"
+  },
+  {
     "title": "BPF for storage: an exokernel-inspired approach [pdf]",
     "url": "https://arxiv.org/abs/2102.12922",
-    "upvotes": 110,
+    "upvotes": 111,
     "author": "gbrown_",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26601841"
