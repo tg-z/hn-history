@@ -2,62 +2,70 @@
   {
     "title": "Formal Methods of Software Design an Online Course by Eric Hehner",
     "url": "http://www.cs.utoronto.ca/~hehner/FMSD/",
-    "upvotes": 54,
+    "upvotes": 77,
     "author": "blewboarwastake",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26610221"
   },
   {
     "title": "Box86 vs native: OpenGL is almost native, CPU bound 50%, SSE3 is slower",
     "url": "https://stands.fosdem.org/stands/box86/performances/",
-    "upvotes": 39,
+    "upvotes": 49,
     "author": "marcodiego",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26610234"
+  },
+  {
+    "title": "New 5G protocol vulnerabilities allow location tracking",
+    "url": "https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/",
+    "upvotes": 9,
+    "author": "DyslexicAtheist",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26610705"
   },
   {
     "title": "Lots of progress on the piano practice software",
     "url": "https://jacquesmattheij.com/piano-practice-software-progress/",
-    "upvotes": 64,
+    "upvotes": 78,
     "author": "jacquesm",
-    "comments": 17,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26609482"
   },
   {
     "title": "Ada for the C++ and Java Developer [pdf]",
     "url": "https://learn.adacore.com/pdf_books/courses/Ada_For_The_CPP_Java_Developer.pdf",
-    "upvotes": 75,
+    "upvotes": 80,
     "author": "pjmlp",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26609060"
   },
   {
-    "title": "How can you tell if someone is lying?",
-    "url": "https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/",
-    "upvotes": 341,
-    "author": "samizdis",
-    "comments": 220,
-    "link": "https://news.ycombinator.com/item?id=26607386"
+    "title": "The Fortran I Compiler",
+    "url": "https://web.stanford.edu/class/archive/cs/cs339/cs339.2002/fortran.pdf",
+    "upvotes": 29,
+    "author": "Bostonian",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26609473"
   },
   {
     "title": "AtoB",
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
   },
   {
-    "title": "BitClout, the Dystopian Social Network with Big Backers and Vocal Critics",
-    "url": "https://decrypt.co/62770/inside-bitclout-dystopian-social-network-big-investors-vocal-critics",
-    "upvotes": 48,
-    "author": "elsewhen",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26609404"
+    "title": "How can you tell if someone is lying?",
+    "url": "https://www.theatlantic.com/science/archive/2021/03/how-to-spot-a-liar/618425/",
+    "upvotes": 351,
+    "author": "samizdis",
+    "comments": 227,
+    "link": "https://news.ycombinator.com/item?id=26607386"
   },
   {
-    "title": "The Fortran I Compiler",
-    "url": "https://web.stanford.edu/class/archive/cs/cs339/cs339.2002/fortran.pdf",
-    "upvotes": 25,
-    "author": "Bostonian",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26609473"
+    "title": "BitClout, the Dystopian Social Network with Big Backers and Vocal Critics",
+    "url": "https://decrypt.co/62770/inside-bitclout-dystopian-social-network-big-investors-vocal-critics",
+    "upvotes": 53,
+    "author": "elsewhen",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26609404"
   },
   {
     "title": "The Island Affair",
@@ -68,76 +76,92 @@
     "link": "https://news.ycombinator.com/item?id=26600270"
   },
   {
-    "title": "NASA Mission to Venus in 1978 May Have Detected Phosphine, a Gas Related to Life",
-    "url": "https://www.planetary.org/articles/pioneer-venus-multiprobe-phosphine-detection",
-    "upvotes": 23,
-    "author": "nathandaly",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26610238"
-  },
-  {
     "title": "Religious fervour is migrating into politics",
     "url": "https://www.economist.com/united-states/2021/03/27/religious-fervour-is-migrating-into-politics",
-    "upvotes": 62,
+    "upvotes": 74,
     "author": "shanedias",
-    "comments": 21,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26608770"
+  },
+  {
+    "title": "NASA Mission to Venus in 1978 May Have Detected Phosphine, a Gas Related to Life",
+    "url": "https://www.planetary.org/articles/pioneer-venus-multiprobe-phosphine-detection",
+    "upvotes": 27,
+    "author": "nathandaly",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26610238"
   },
   {
     "title": "Bitcoin as a Battery",
     "url": "https://www.nickgrossman.xyz/2021/bitcoin-as-battery/",
-    "upvotes": 51,
+    "upvotes": 61,
     "author": "tomsyouruncle",
-    "comments": 103,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=26609247"
   },
   {
     "title": "High schooler invented color-changing sutures to detect infection",
     "url": "https://www.smithsonianmag.com/innovation/high-schooler-invented-color-changing-sutures-detect-infection-180977345/",
-    "upvotes": 176,
+    "upvotes": 179,
     "author": "webmaven",
-    "comments": 20,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26607006"
+  },
+  {
+    "title": "Bassoonfluencers: The World of Instagram Practice Accounts",
+    "url": "https://www.newyorker.com/culture/culture-desk/bassoonfluencers-the-world-of-instagram-practice-accounts",
+    "upvotes": 8,
+    "author": "fortran77",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26600055"
   },
   {
     "title": "Vintage HP computer systems",
     "url": "https://groups.io/g/VintHPcom",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "optimalsolver",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26608743"
-  },
-  {
-    "title": "Gender, race, and entrepreneurship: A randomized field experiment on investors",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301982",
-    "upvotes": 88,
-    "author": "sdan",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26609064"
   },
   {
     "title": "Amazon driver quits over AI-powered safety cameras in delivery vehicles",
     "url": "https://www.businessinsider.com/amazon-ai-camera-delivery-tracking-tech-bezos-2021-3",
-    "upvotes": 109,
+    "upvotes": 114,
     "author": "Black101",
-    "comments": 91,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26609029"
+  },
+  {
+    "title": "Gender, race, and entrepreneurship: A randomized field experiment on investors",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3301982",
+    "upvotes": 92,
+    "author": "sdan",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=26609064"
   },
   {
     "title": "English is relatively easy to learn, but not to master",
     "url": "http://christopherwink.com/2018/11/05/english-easy-learn-john-mcwhorter-history-magnificent-bastard-tongue/",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "silasdb",
-    "comments": 221,
+    "comments": 234,
     "link": "https://news.ycombinator.com/item?id=26597578"
   },
   {
     "title": "Bronze Age mining sites received deliveries of pre-processed foods",
     "url": "https://phys.org/news/2021-03-bronze-age-sites-deliveries-pre-processed.html",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "Hooke",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26600405"
+  },
+  {
+    "title": "Free as in Climbing: Open Data Project Threatened by Bogus Copyright Claims",
+    "url": "https://www.eff.org/deeplinks/2021/03/free-climbing-rock-climbers-open-data-project-threatened-bogus-copyright-claims",
+    "upvotes": 25,
+    "author": "pabs3",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26609945"
   },
   {
     "title": "Straussian Reading",
@@ -148,33 +172,25 @@
     "link": "https://news.ycombinator.com/item?id=26590637"
   },
   {
-    "title": "Bassoonfluencers: The World of Instagram Practice Accounts",
-    "url": "https://www.newyorker.com/culture/culture-desk/bassoonfluencers-the-world-of-instagram-practice-accounts",
-    "upvotes": 3,
-    "author": "fortran77",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26600055"
-  },
-  {
     "title": "Asymmetric Opportunities and the Cult of Optionality",
     "url": "https://applieddivinitystudies.com/asymmetric/",
     "upvotes": 29,
     "author": "feross",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26598768"
   },
   {
     "title": "Preview: IBM z/OS v2.5 [pdf]",
     "url": "https://www.ibm.com/downloads/cas/US-ENUS221-057-CA/name/US-ENUS221-057-CA.PDF",
-    "upvotes": 28,
+    "upvotes": 30,
     "author": "throwawaybutwhy",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26601756"
   },
   {
     "title": "Larry McMurtry has died",
     "url": "https://www.washingtonpost.com/local/obituaries/larry-mcmurtry-dead/2021/03/26/953c4660-ae09-11e7-a908-a3470754bbb9_story.html",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "samclemens",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26607875"
@@ -182,23 +198,15 @@
   {
     "title": "Conway's Game of Life TUI GUI",
     "url": "https://justine.lol/apelife/index.html",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "luu",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26598657"
   },
   {
-    "title": "Free as in Climbing: Open Data Project Threatened by Bogus Copyright Claims",
-    "url": "https://www.eff.org/deeplinks/2021/03/free-climbing-rock-climbers-open-data-project-threatened-bogus-copyright-claims",
-    "upvotes": 17,
-    "author": "pabs3",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26609945"
-  },
-  {
     "title": "Shared Libraries for C64 OS",
     "url": "http://www.c64os.com/post/sharedlibs",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "rbanffy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26590376"
@@ -206,33 +214,25 @@
   {
     "title": "The fingerprint inside photos",
     "url": "https://www.bbc.com/future/article/20210324-the-hidden-fingerprint-inside-your-photos",
-    "upvotes": 148,
+    "upvotes": 155,
     "author": "LordAtlas",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26608592"
   },
   {
     "title": "I tracked down my impostor",
     "url": "https://www.theguardian.com/lifeandstyle/2021/mar/26/experience-i-tracked-down-my-impostor",
-    "upvotes": 402,
+    "upvotes": 407,
     "author": "vanilla-almond",
-    "comments": 205,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=26604093"
   },
   {
-    "title": "Does Amazon make more from ads than AWS?",
-    "url": "https://www.ben-evans.com/benedictevans/2021/3/14/do-amazon-ads-bring-in-more-cash-than-aws",
-    "upvotes": 301,
-    "author": "prostoalex",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=26593223"
-  },
-  {
-    "title": "Extracting the abstract syntax tree from GCC",
-    "url": "https://lwn.net/Articles/629259/",
-    "upvotes": 76,
-    "author": "edward",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26590524"
+    "title": "Ancient genomes trace the origin and decline of the Scythians",
+    "url": "https://phys.org/news/2021-03-ancient-genomes-decline-scythians.html",
+    "upvotes": 4,
+    "author": "dnetesn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26609202"
   }
 ]
