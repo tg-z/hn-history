@@ -1,50 +1,58 @@
 [
   {
-    "title": "Suez canal is free again",
+    "title": "Suez Canal says traffic in channel resumes after stranded ship refloated",
     "url": "https://www.reuters.com/article/us-egypt-suezcanal-ship-floated/suez-canal-says-traffic-in-channel-resumes-after-stranded-ship-refloated-idUSKBN2BL1S9",
-    "upvotes": 666,
+    "upvotes": 702,
     "author": "WJW",
-    "comments": 353,
+    "comments": 373,
     "link": "https://news.ycombinator.com/item?id=26621308"
   },
   {
     "title": "68k.news: A Netscape 1.1 makeover of Google News",
     "url": "http://68k.news/",
-    "upvotes": 111,
+    "upvotes": 121,
     "author": "gripfx",
-    "comments": 39,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26623362"
   },
   {
     "title": "The Deno Company",
     "url": "https://deno.com/blog/the-deno-company",
-    "upvotes": 536,
+    "upvotes": 552,
     "author": "elisee",
-    "comments": 271,
+    "comments": 291,
     "link": "https://news.ycombinator.com/item?id=26620116"
   },
   {
     "title": "Retrospective review of Gödel, Escher, Bach",
     "url": "https://cs.nyu.edu/davise/papers/hofstadter.pdf",
-    "upvotes": 51,
+    "upvotes": 63,
     "author": "lawrenceyan",
-    "comments": 10,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26624220"
   },
   {
     "title": "Show HN: An open-source, self-hostable Heroku and Netlify alternative",
     "url": "https://coollabs.io/coolify",
-    "upvotes": 26,
+    "upvotes": 50,
     "author": "andrasbacsai",
-    "comments": 8,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26624341"
+  },
+  {
+    "title": "USB 3.0* Radio Frequency Interference on 2.4 GHz Devices",
+    "url": "https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html",
+    "upvotes": 20,
+    "author": "cyberlab",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26625356"
   },
   {
     "title": "Sleeping octopuses may have dreams, but they're probably brief",
     "url": "https://www.npr.org/2021/03/25/980944495/sleeping-octopuses-may-have-dreams-but-theyre-probably-brief",
-    "upvotes": 62,
+    "upvotes": 66,
     "author": "gmays",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26622675"
   },
   {
@@ -54,185 +62,177 @@
   {
     "title": "Amazon Security Staff Reported Its Own Tweets as “Suspicious,” Fearing Hack",
     "url": "https://theintercept.com/2021/03/29/amazon-twitter-hack-union-jeff-bezos/",
-    "upvotes": 93,
+    "upvotes": 121,
     "author": "danso",
-    "comments": 83,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26624393"
-  },
-  {
-    "title": "VPN over SSH? The Socks Proxy",
-    "url": "https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028",
-    "upvotes": 53,
-    "author": "corychu",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26623117"
   },
   {
     "title": "Show HN: I wrote a program to convert lines of text into trees",
     "url": "https://github.com/birchb1024/frangipanni",
-    "upvotes": 85,
+    "upvotes": 99,
     "author": "birchb",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26622548"
-  },
-  {
-    "title": "AI Can Generate Convincing Text–and Anyone Can Use It",
-    "url": "https://www.wired.com/story/ai-generate-convincing-text-anyone-use-it/",
-    "upvotes": 55,
-    "author": "webmaven",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26621351"
   },
   {
     "title": "Numi. Beautiful calculator app for Mac",
     "url": "https://numi.app/",
-    "upvotes": 25,
+    "upvotes": 41,
     "author": "caminocorner",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26624386"
+  },
+  {
+    "title": "VPN over SSH? The Socks Proxy",
+    "url": "https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028",
+    "upvotes": 65,
+    "author": "corychu",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26623117"
+  },
+  {
+    "title": "Launch HN: Greywing (YC W21) – Automated ship operations focused on crew",
+    "url": "item?id=26621266",
+    "upvotes": 52,
+    "author": "hrishi",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26621266"
+  },
+  {
+    "title": "The makers of Eleuther hope it will be an open source alternative to GPT-3",
+    "url": "https://www.wired.com/story/ai-generate-convincing-text-anyone-use-it/",
+    "upvotes": 61,
+    "author": "webmaven",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26621351"
   },
   {
     "title": "&& operator chains",
     "url": "https://github.com/rust-lang/rust/issues/83623",
-    "upvotes": 110,
+    "upvotes": 119,
     "author": "est31",
-    "comments": 27,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26620048"
-  },
-  {
-    "title": "A statx",
-    "url": "https://github.com/ckarageorgkaneen/pystatx",
-    "upvotes": 8,
-    "author": "chriskaneen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26624564"
   },
   {
     "title": "Gallup: U.S. church membership dips below 50% for first time",
     "url": "https://www.axios.com/church-membership-gallup-26cc020b-5405-417a-a786-e10c286a30db.html",
-    "upvotes": 392,
+    "upvotes": 413,
     "author": "cwwc",
-    "comments": 738,
+    "comments": 786,
     "link": "https://news.ycombinator.com/item?id=26620892"
+  },
+  {
+    "title": "A statx",
+    "url": "https://github.com/ckarageorgkaneen/pystatx",
+    "upvotes": 15,
+    "author": "chriskaneen",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26624564"
   },
   {
     "title": "Show HN: Nettu Scheduler – A self-hosted calendar and scheduler server",
     "url": "https://github.com/fmeringdal/nettu-scheduler",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "fmeringdal",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26620738"
   },
   {
-    "title": "Launch HN: Greywing (YC W21) – Automated ship operations focused on crew",
-    "url": "item?id=26621266",
-    "upvotes": 50,
-    "author": "hrishi",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26621266"
-  },
-  {
     "title": "FreeBSD Core Team Statement on FreeBSD Development Processes",
     "url": "https://lists.freebsd.org/pipermail/freebsd-hackers/2021-March/057127.html",
-    "upvotes": 85,
+    "upvotes": 93,
     "author": "vermaden",
-    "comments": 36,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26622560"
   },
   {
     "title": "Show HN: A Latin self study course, Khan Academy-style",
     "url": "https://selfstudyclassics.com/",
-    "upvotes": 186,
+    "upvotes": 192,
     "author": "jthnews",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26609397"
   },
   {
-    "title": "Stop using ridiculously low DNS TTLs",
-    "url": "https://00f.net/2019/11/03/stop-using-low-dns-ttls/",
-    "upvotes": 103,
-    "author": "JimWestergren",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26620730"
+    "title": "Tesla's EPA Driving Ranges Didn't Hold Up to Testing. Twice",
+    "url": "https://www.thedrive.com/news/39959/teslas-epa-driving-ranges-didnt-hold-up-to-testing-it-tried-again-and-still-fell-short",
+    "upvotes": 31,
+    "author": "samizdis",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26625097"
   },
   {
     "title": "How to Criticize Computer Scientists",
     "url": "https://www.cs.purdue.edu/homes/dec/essay.criticize.html",
-    "upvotes": 175,
+    "upvotes": 177,
     "author": "agomez314",
-    "comments": 70,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26609492"
   },
   {
     "title": "Gen X emerging from pandemic with firmer grip on America's wallet",
     "url": "https://www.reuters.com/article/us-usa-economy-wealth/gen-x-emerging-from-pandemic-with-firmer-grip-on-americas-wallet-idUSKBN2BL1BL",
-    "upvotes": 26,
+    "upvotes": 33,
     "author": "pseudolus",
-    "comments": 16,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26624070"
   },
   {
     "title": "The final official release of Classilla",
     "url": "https://oldvcr.blogspot.com/2021/03/the-final-official-release-of-classilla.html",
-    "upvotes": 4,
+    "upvotes": 7,
     "author": "zdw",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26624913"
+  },
+  {
+    "title": "Stop using ridiculously low DNS TTLs",
+    "url": "https://00f.net/2019/11/03/stop-using-low-dns-ttls/",
+    "upvotes": 109,
+    "author": "JimWestergren",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=26620730"
+  },
+  {
+    "title": "Thoughts on Rust bloat",
+    "url": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html",
+    "upvotes": 69,
+    "author": "fctorial",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26620372"
   },
   {
     "title": "On the spectrum of openness",
     "url": "https://openeveryone.substack.com/p/on-the-spectrum-of-openness",
-    "upvotes": 10,
+    "upvotes": 11,
     "author": "erlend_sh",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26624259"
   },
   {
-    "title": "Thoughts on Rust bloat",
-    "url": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html",
-    "upvotes": 67,
-    "author": "fctorial",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26620372"
-  },
-  {
     "title": "Personal Data: Instagram Is a Real Tattletale",
     "url": "https://www.statista.com/chart/24495/apps-sharing-personal-information-with-third-parties/",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "URfejk",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26623464"
-  },
-  {
-    "title": "Stallman's return denounced by the EFF, Tor, Mozilla, and the creator of Rust",
-    "url": "https://news.slashdot.org/story/21/03/29/0439234/richard-stallmans-return-denounced-by-the-eff-tor-project-mozilla-and-the-creator-of-rust",
-    "upvotes": 16,
-    "author": "MilnerRoute",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26624951"
-  },
-  {
-    "title": "Explore Seasonal Fruit and Vegetables in Europe",
-    "url": "https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe",
-    "upvotes": 67,
-    "author": "mountainplus",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26608868"
   },
   {
     "title": "Why do interviewers ask linked list questions?",
     "url": "https://www.hillelwayne.com/post/linked-lists/",
-    "upvotes": 57,
+    "upvotes": 70,
     "author": "pyb",
-    "comments": 45,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26620598"
   },
   {
-    "title": "I made an eInk newspaper",
-    "url": "https://gregraiz.com/i-made-an-eink-newspaper/",
-    "upvotes": 481,
-    "author": "graiz",
-    "comments": 194,
-    "link": "https://news.ycombinator.com/item?id=26611371"
+    "title": "Explore Seasonal Fruit and Vegetables in Europe",
+    "url": "https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe",
+    "upvotes": 69,
+    "author": "mountainplus",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26608868"
   }
 ]
