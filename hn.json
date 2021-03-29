@@ -2,47 +2,79 @@
   {
     "title": "Suez canal is free again",
     "url": "https://www.reuters.com/article/us-egypt-suezcanal-ship-floated/suez-canal-says-traffic-in-channel-resumes-after-stranded-ship-refloated-idUSKBN2BL1S9",
-    "upvotes": 478,
+    "upvotes": 559,
     "author": "WJW",
-    "comments": 239,
+    "comments": 291,
     "link": "https://news.ycombinator.com/item?id=26621308"
+  },
+  {
+    "title": "68k.news: A Netscape 1.1 makeover of Google News",
+    "url": "http://68k.news/",
+    "upvotes": 43,
+    "author": "gripfx",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26623362"
   },
   {
     "title": "The Deno Company",
     "url": "https://deno.com/blog/the-deno-company",
-    "upvotes": 422,
+    "upvotes": 471,
     "author": "elisee",
-    "comments": 217,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=26620116"
   },
   {
-    "title": "FreeBSD Core Team Statement on FreeBSD Development Processes",
-    "url": "https://lists.freebsd.org/pipermail/freebsd-hackers/2021-March/057127.html",
-    "upvotes": 40,
-    "author": "vermaden",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26622560"
+    "title": "Sleeping octopuses may have dreams, but they're probably brief",
+    "url": "https://www.npr.org/2021/03/25/980944495/sleeping-octopuses-may-have-dreams-but-theyre-probably-brief",
+    "upvotes": 41,
+    "author": "gmays",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26622675"
   },
   {
-    "title": "Octopuses, Like People, Seem to Have Active Stages of Sleep, May Dream",
-    "url": "https://www.npr.org/2021/03/25/980944495/sleeping-octopuses-may-have-dreams-but-theyre-probably-brief",
-    "upvotes": 19,
-    "author": "gmays",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26622675"
+    "title": "VPN over SSH? The Socks Proxy",
+    "url": "https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028",
+    "upvotes": 29,
+    "author": "corychu",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26623117"
   },
   {
     "title": "AI Can Generate Convincing Text–and Anyone Can Use It",
     "url": "https://www.wired.com/story/ai-generate-convincing-text-anyone-use-it/",
-    "upvotes": 28,
+    "upvotes": 40,
     "author": "webmaven",
-    "comments": 26,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26621351"
+  },
+  {
+    "title": "Show HN: I wrote a program to convert lines of text into trees",
+    "url": "https://github.com/birchb1024/frangipanni",
+    "upvotes": 48,
+    "author": "birchb",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26622548"
+  },
+  {
+    "title": "&& operator chains",
+    "url": "https://github.com/rust-lang/rust/issues/83623",
+    "upvotes": 89,
+    "author": "est31",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26620048"
+  },
+  {
+    "title": "Launch HN: Greywing (YC W21) – Automated ship operations focused on crew",
+    "url": "item?id=26621266",
+    "upvotes": 43,
+    "author": "hrishi",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26621266"
   },
   {
     "title": "Show HN: Nettu Scheduler – A self-hosted calendar and scheduler server",
     "url": "https://github.com/fmeringdal/nettu-scheduler",
-    "upvotes": 60,
+    "upvotes": 68,
     "author": "fmeringdal",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26620738"
@@ -50,193 +82,161 @@
   {
     "title": "Gallup: U.S. church membership dips below 50% for first time",
     "url": "https://www.axios.com/church-membership-gallup-26cc020b-5405-417a-a786-e10c286a30db.html",
-    "upvotes": 282,
+    "upvotes": 352,
     "author": "cwwc",
-    "comments": 476,
+    "comments": 604,
     "link": "https://news.ycombinator.com/item?id=26620892"
   },
   {
-    "title": "&& operator chains",
-    "url": "https://github.com/rust-lang/rust/issues/83623",
-    "upvotes": 74,
-    "author": "est31",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26620048"
-  },
-  {
-    "title": "VPN over SSH? The Socks Proxy",
-    "url": "https://blog.gwlab.page/vpn-over-ssh-the-socks-proxy-8a8d7bdc7028",
-    "upvotes": 14,
-    "author": "corychu",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26623117"
-  },
-  {
-    "title": "Show HN: I wrote a program to convert lines of text into trees",
-    "url": "https://github.com/birchb1024/frangipanni",
-    "upvotes": 22,
-    "author": "birchb",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26622548"
-  },
-  {
-    "title": "Show HN: A Latin self study course, Khan Academy-style",
-    "url": "https://selfstudyclassics.com/",
-    "upvotes": 162,
-    "author": "jthnews",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=26609397"
-  },
-  {
-    "title": "68k.news: A Netscape 1.1 makeover of Google News",
-    "url": "http://68k.news/",
-    "upvotes": 7,
-    "author": "gripfx",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26623362"
-  },
-  {
-    "title": "How to Criticize Computer Scientists",
-    "url": "https://www.cs.purdue.edu/homes/dec/essay.criticize.html",
-    "upvotes": 164,
-    "author": "agomez314",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26609492"
-  },
-  {
-    "title": "Thoughts on Rust bloat",
-    "url": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html",
-    "upvotes": 40,
-    "author": "fctorial",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26620372"
-  },
-  {
-    "title": "Launch HN: Greywing (YC W21) – Automated ship operations focused on crew",
-    "url": "item?id=26621266",
-    "upvotes": 35,
-    "author": "hrishi",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26621266"
-  },
-  {
-    "title": "Top Paid LA Lifeguards Earned Up to $392,000 in 2019",
-    "url": "https://www.forbes.com/sites/adamandrzejewski/2021/03/27/top-paid-la-lifeguards-earned-up-to-392000-in-2019/",
-    "upvotes": 29,
-    "author": "onetimemanytime",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26623049"
+    "title": "FreeBSD Core Team Statement on FreeBSD Development Processes",
+    "url": "https://lists.freebsd.org/pipermail/freebsd-hackers/2021-March/057127.html",
+    "upvotes": 68,
+    "author": "vermaden",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26622560"
   },
   {
     "title": "Stop using ridiculously low DNS TTLs",
     "url": "https://00f.net/2019/11/03/stop-using-low-dns-ttls/",
-    "upvotes": 55,
+    "upvotes": 76,
     "author": "JimWestergren",
-    "comments": 51,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26620730"
   },
   {
-    "title": "PHP's Git server compromised, moving to GitHub",
-    "url": "https://news-web.php.net/php.internals/113838",
-    "upvotes": 314,
-    "author": "jsmith45",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=26616707"
+    "title": "Show HN: A Latin self study course, Khan Academy-style",
+    "url": "https://selfstudyclassics.com/",
+    "upvotes": 173,
+    "author": "jthnews",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=26609397"
   },
   {
-    "title": "Ronald Reagan fires 11,359 air-traffic controllers",
-    "url": "https://www.history.com/this-day-in-history/reagan-fires-11359-air-traffic-controllers",
-    "upvotes": 132,
-    "author": "a_imho",
-    "comments": 132,
-    "link": "https://news.ycombinator.com/item?id=26620092"
+    "title": "How to Criticize Computer Scientists",
+    "url": "https://www.cs.purdue.edu/homes/dec/essay.criticize.html",
+    "upvotes": 170,
+    "author": "agomez314",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26609492"
+  },
+  {
+    "title": "Personal Data: Instagram Is a Real Tattletale",
+    "url": "https://www.statista.com/chart/24495/apps-sharing-personal-information-with-third-parties/",
+    "upvotes": 45,
+    "author": "URfejk",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26623464"
+  },
+  {
+    "title": "On the spectrum of openness",
+    "url": "https://openeveryone.substack.com/p/on-the-spectrum-of-openness",
+    "upvotes": 3,
+    "author": "erlend_sh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26624259"
+  },
+  {
+    "title": "Retrospective review of Gödel, Escher, Bach by Douglas Hofstadter",
+    "url": "https://cs.nyu.edu/davise/papers/hofstadter.pdf",
+    "upvotes": 3,
+    "author": "lawrenceyan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26624220"
+  },
+  {
+    "title": "Remote Work Is Here to Stay. Manhattan May Never Be the Same",
+    "url": "https://www.nytimes.com/2021/03/29/nyregion/remote-work-coronavirus-pandemic.html#click=https://t.co/xgLUhdxRGj",
+    "upvotes": 38,
+    "author": "jbegley",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26623320"
+  },
+  {
+    "title": "Thoughts on Rust bloat",
+    "url": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html",
+    "upvotes": 49,
+    "author": "fctorial",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26620372"
+  },
+  {
+    "title": "Top Paid LA Lifeguards Earned Up to $392k in 2019",
+    "url": "https://www.forbes.com/sites/adamandrzejewski/2021/03/27/top-paid-la-lifeguards-earned-up-to-392000-in-2019/",
+    "upvotes": 66,
+    "author": "onetimemanytime",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26623049"
+  },
+  {
+    "title": "Gen X emerging from pandemic with firmer grip on America's wallet",
+    "url": "https://www.reuters.com/article/us-usa-economy-wealth/gen-x-emerging-from-pandemic-with-firmer-grip-on-americas-wallet-idUSKBN2BL1BL",
+    "upvotes": 7,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26624070"
   },
   {
     "title": "Explore Seasonal Fruit and Vegetables in Europe",
     "url": "https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe",
-    "upvotes": 57,
+    "upvotes": 62,
     "author": "mountainplus",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26608868"
   },
   {
     "title": "US 1963 plan to create a canal through Israel using 520 nuclear bombs",
     "url": "https://news.yahoo.com/us-had-plan-1960s-blast-115941048.html",
-    "upvotes": 23,
+    "upvotes": 36,
     "author": "aww_dang",
-    "comments": 10,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26622510"
   },
   {
-    "title": "Steady Hamster – Mouse Movement Smoothing Under X",
-    "url": "https://blog.mikeasoft.com/2006/03/21/steadyhamster-mouse-movement-smoothing-under-x/",
-    "upvotes": 22,
-    "author": "pabs3",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26609230"
+    "title": "Ronald Reagan fires 11,359 air-traffic controllers",
+    "url": "https://www.history.com/this-day-in-history/reagan-fires-11359-air-traffic-controllers",
+    "upvotes": 152,
+    "author": "a_imho",
+    "comments": 166,
+    "link": "https://news.ycombinator.com/item?id=26620092"
   },
   {
     "title": "I made an eInk newspaper",
     "url": "https://gregraiz.com/i-made-an-eink-newspaper/",
-    "upvotes": 471,
+    "upvotes": 473,
     "author": "graiz",
-    "comments": 190,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=26611371"
   },
   {
-    "title": "Netmask NPM package, used by 270k+ projects, vulnerable to octal input data",
-    "url": "https://sick.codes/universal-netmask-npm-package-used-by-270000-projects-vulnerable-to-octal-input-data-server-side-request-forgery-remote-file-inclusion-local-file-inclusion-and-more-cve-2021-28918/",
-    "upvotes": 99,
-    "author": "chha",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26620538"
+    "title": "Why do interviewers ask linked list questions?",
+    "url": "https://www.hillelwayne.com/post/linked-lists/",
+    "upvotes": 19,
+    "author": "pyb",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26620598"
   },
   {
-    "title": "The Actual OSI Model",
-    "url": "https://computer.rip/2021-03-27-the-actual-osi-model.html",
-    "upvotes": 203,
-    "author": "zdw",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26607983"
-  },
-  {
-    "title": "Remote Work Is Here to Stay. Manhattan May Never Be the Same",
-    "url": "https://www.nytimes.com/2021/03/29/nyregion/remote-work-coronavirus-pandemic.html#click=https://t.co/xgLUhdxRGj",
-    "upvotes": 8,
-    "author": "jbegley",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26623320"
+    "title": "Steady Hamster – Mouse Movement Smoothing Under X",
+    "url": "https://blog.mikeasoft.com/2006/03/21/steadyhamster-mouse-movement-smoothing-under-x/",
+    "upvotes": 23,
+    "author": "pabs3",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26609230"
   },
   {
     "title": "Boston Dynamics unveils Stretch: a new robot designed to move boxes in warehouse",
     "url": "https://www.theverge.com/2021/3/29/22349978/boston-dynamics-stretch-robot-warehouse-logistics",
-    "upvotes": 80,
+    "upvotes": 98,
     "author": "kyleShropshire",
-    "comments": 50,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26620059"
   },
   {
-    "title": "Show HN: Mosh Mallet: Single packet UDP port knocking for Mosh without SSH",
-    "url": "https://gitlab.com/Zinnia_Zirconium/mosh-mallet",
-    "upvotes": 17,
-    "author": "ZnZirconium",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26620481"
-  },
-  {
-    "title": "A new Cloudflare Web Application Firewall",
-    "url": "https://blog.cloudflare.com/new-cloudflare-waf/",
-    "upvotes": 69,
-    "author": "migueldemoura",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26620943"
-  },
-  {
-    "title": "Dropping Hashes",
-    "url": "https://www.kalzumeus.com/essays/dropping-hashes/",
-    "upvotes": 25,
-    "author": "tosh",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26609183"
+    "title": "Netmask NPM package, used by 270k+ projects, vulnerable to octal input data",
+    "url": "https://sick.codes/universal-netmask-npm-package-used-by-270000-projects-vulnerable-to-octal-input-data-server-side-request-forgery-remote-file-inclusion-local-file-inclusion-and-more-cve-2021-28918/",
+    "upvotes": 100,
+    "author": "chha",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=26620538"
   }
 ]
