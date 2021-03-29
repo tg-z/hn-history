@@ -1,26 +1,26 @@
 [
   {
-    "title": "John Sullivan resign as executive director of the Free Software Foundation",
-    "url": "https://social.librem.one/@johns/105971045184138347",
-    "upvotes": 70,
-    "author": "mthld",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=26619008"
+    "title": "How to Criticize Computer Scientists",
+    "url": "https://www.cs.purdue.edu/homes/dec/essay.criticize.html",
+    "upvotes": 26,
+    "author": "agomez314",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26609492"
   },
   {
     "title": "Text to Image Generation",
     "url": "https://github.com/lucidrains/deep-daze",
-    "upvotes": 328,
+    "upvotes": 331,
     "author": "indigodaddy",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26615791"
   },
   {
     "title": "Everyone wants to do the model work, not the data work [pdf]",
     "url": "https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0d556e45afc54afeb2eb6b51a9bc1827b9961ff4.pdf",
-    "upvotes": 221,
+    "upvotes": 226,
     "author": "Anon84",
-    "comments": 61,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26616454"
   },
   {
@@ -28,95 +28,127 @@
     "url": "https://www.core77.com/posts/107394/Smart-Design-When-the-Package-is-a-Functional-Part-of-the-Tool-Its-Carrying",
     "upvotes": 45,
     "author": "fortran77",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26617801"
   },
   {
     "title": "Terminal escape sequences in Git commit email field",
     "url": "https://twitter.com/ryancdotorg/status/1375484757916672000",
-    "upvotes": 237,
+    "upvotes": 239,
     "author": "whack",
     "comments": 114,
     "link": "https://news.ycombinator.com/item?id=26615938"
   },
   {
-    "title": "Developer tools can be magic but instead collect dust",
-    "url": "http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html",
-    "upvotes": 425,
-    "author": "todsacerdoti",
-    "comments": 258,
-    "link": "https://news.ycombinator.com/item?id=26612894"
-  },
-  {
     "title": "I made an eInk newspaper",
     "url": "https://gregraiz.com/i-made-an-eink-newspaper/",
-    "upvotes": 419,
+    "upvotes": 420,
     "author": "graiz",
-    "comments": 172,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=26611371"
   },
   {
     "title": "The Actual OSI Model",
     "url": "https://computer.rip/2021-03-27-the-actual-osi-model.html",
-    "upvotes": 128,
+    "upvotes": 131,
     "author": "zdw",
-    "comments": 53,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26607983"
+  },
+  {
+    "title": "Show HN: A Latin self study course, Khan Academy-style",
+    "url": "https://selfstudyclassics.com/",
+    "upvotes": 11,
+    "author": "jthnews",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26609397"
+  },
+  {
+    "title": "John Sullivan resign as executive director of the Free Software Foundation",
+    "url": "https://social.librem.one/@johns/105971045184138347",
+    "upvotes": 97,
+    "author": "mthld",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=26619008"
   },
   {
     "title": "Kanji Club: Search Kanji by Parts with Instant Feedback",
     "url": "https://www.dampfkraft.com/projects/kanji-club.html",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "polm23",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26608588"
+  },
+  {
+    "title": "Suez canal: Ever Given container ship freed from shoreline",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-56559904",
+    "upvotes": 5,
+    "author": "zeristor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26618659"
   },
   {
     "title": "Collabora Office: The enterprise-ready edition of LibreOffice",
     "url": "https://www.collaboraoffice.com/solutions/collabora-office/",
-    "upvotes": 139,
+    "upvotes": 145,
     "author": "crazypython",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26614654"
   },
   {
+    "title": "PHP's Git server compromised, moving to GitHub",
+    "url": "https://news-web.php.net/php.internals/113838",
+    "upvotes": 71,
+    "author": "jsmith45",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26616707"
+  },
+  {
     "title": "Ever Given Everywhere",
     "url": "https://evergiven-everywhere.glitch.me/",
-    "upvotes": 269,
+    "upvotes": 278,
     "author": "jbegley",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26617081"
   },
   {
-    "title": "FicusJS",
-    "url": "https://docs.ficusjs.org/index.html",
-    "upvotes": 124,
-    "author": "Sn0wCoder",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26614796"
+    "title": "Developer tools can be magic but instead collect dust",
+    "url": "http://www.pathsensitive.com/2021/03/developer-tools-can-be-magic-instead.html",
+    "upvotes": 431,
+    "author": "todsacerdoti",
+    "comments": 262,
+    "link": "https://news.ycombinator.com/item?id=26612894"
   },
   {
     "title": "A digital logic designer and circuit simulator",
     "url": "https://github.com/hneemann/Digital",
-    "upvotes": 115,
+    "upvotes": 116,
     "author": "Donckele",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26613641"
   },
   {
+    "title": "FicusJS",
+    "url": "https://docs.ficusjs.org/index.html",
+    "upvotes": 126,
+    "author": "Sn0wCoder",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=26614796"
+  },
+  {
     "title": "It Doesn't Work",
     "url": "https://00f.net/2021/03/26/it-doesnt-work/",
-    "upvotes": 92,
+    "upvotes": 95,
     "author": "jedisct1",
-    "comments": 97,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26590961"
   },
   {
     "title": "Robots.txt for the NYT has a specific exclusion for an 1996 news article",
     "url": "https://twitter.com/oliviasolon/status/1171200746240372737",
-    "upvotes": 180,
+    "upvotes": 182,
     "author": "mikeortman",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26616973"
   },
   {
@@ -128,14 +160,6 @@
     "link": "https://news.ycombinator.com/item?id=26614997"
   },
   {
-    "title": "PHP's Git server compromised, moving to GitHub",
-    "url": "https://news-web.php.net/php.internals/113838",
-    "upvotes": 46,
-    "author": "jsmith45",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26616707"
-  },
-  {
     "title": "Intriguing new result from the LHCb experiment at CERN",
     "url": "https://home.cern/news/news/physics/intriguing-new-result-lhcb-experiment-cern",
     "upvotes": 65,
@@ -144,28 +168,36 @@
     "link": "https://news.ycombinator.com/item?id=26614733"
   },
   {
+    "title": "Explore Seasonal Fruit and Vegetables in Europe",
+    "url": "https://www.eufic.org/en/explore-seasonal-fruit-and-vegetables-in-europe",
+    "upvotes": 4,
+    "author": "mountainplus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26608868"
+  },
+  {
     "title": "Female Founder Secrets: Men Clamming Up",
     "url": "https://femfosec.com/men-clamming-up/",
-    "upvotes": 875,
+    "upvotes": 886,
     "author": "femfosec",
-    "comments": 1149,
+    "comments": 1159,
     "link": "https://news.ycombinator.com/item?id=26612918"
+  },
+  {
+    "title": "First step toward reopening Suez Canal as ship refloated",
+    "url": "https://www.bloomberg.com/news/articles/2021-03-28/progress-made-in-moving-ship-more-vessels-diverted-suez-update",
+    "upvotes": 110,
+    "author": "testfoobar",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=26617430"
   },
   {
     "title": "Live video stream from Iceland volcano",
     "url": "https://k100streymi.mbl.is/p2p/mbllive?v=1",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "plsn",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26615571"
-  },
-  {
-    "title": "Ruby off the Rails: Code library yanked over license blunder",
-    "url": "https://www.theregister.com/2021/03/25/ruby_rails_code/",
-    "upvotes": 29,
-    "author": "pjmlp",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26618416"
   },
   {
     "title": "The Fortran I Compiler",
@@ -176,67 +208,35 @@
     "link": "https://news.ycombinator.com/item?id=26609473"
   },
   {
-    "title": "Software freedom isn’t about licenses – it’s about power",
-    "url": "https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html",
-    "upvotes": 76,
-    "author": "pabs3",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26617642"
-  },
-  {
     "title": "How U.S. media lost the trust of the public",
     "url": "https://www.cbc.ca/news/world/media-distrust-big-news-1.5965622",
-    "upvotes": 237,
+    "upvotes": 243,
     "author": "empressplay",
-    "comments": 358,
+    "comments": 363,
     "link": "https://news.ycombinator.com/item?id=26612987"
   },
   {
     "title": "The MIPS R4000, part 9: Stupid branch delay slot tricks",
     "url": "https://devblogs.microsoft.com/oldnewthing/20180412-00/?p=98495",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "luu",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26606772"
   },
   {
-    "title": "New 5G protocol vulnerabilities allow location tracking",
-    "url": "https://therecord.media/new-5g-protocol-vulnerabilities-allow-location-tracking/",
-    "upvotes": 276,
-    "author": "DyslexicAtheist",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=26610705"
+    "title": "Software freedom isn’t about licenses – it’s about power",
+    "url": "https://rosenzweig.io/blog/software-freedom-isnt-about-licenses-its-about-power.html",
+    "upvotes": 77,
+    "author": "pabs3",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26617642"
   },
   {
-    "title": "Sole – Artificial Sun by Quiet Ensemble",
-    "url": "https://www.creativeapplications.net/environment/sole-artificial-sun-by-quiet-ensemble/",
-    "upvotes": 15,
-    "author": "polm23",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26609532"
-  },
-  {
-    "title": "A forgotten medieval fruit with a vulgar name",
-    "url": "https://www.bbc.com/future/article/20210325-the-strange-medieval-fruit-the-world-forgot",
-    "upvotes": 233,
-    "author": "ranit",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=26611413"
-  },
-  {
-    "title": "Giant Vessel Is Now Afloat, Inchcape Says: Suez Update",
-    "url": "https://www.bloomberg.com/news/articles/2021-03-28/progress-made-in-moving-ship-more-vessels-diverted-suez-update",
-    "upvotes": 108,
-    "author": "testfoobar",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26617430"
-  },
-  {
-    "title": "Piano Practice Software Progress",
-    "url": "https://jacquesmattheij.com/piano-practice-software-progress/",
-    "upvotes": 283,
-    "author": "jacquesm",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=26609482"
+    "title": "Ruby off the Rails: Code library yanked over license blunder",
+    "url": "https://www.theregister.com/2021/03/25/ruby_rails_code/",
+    "upvotes": 30,
+    "author": "pjmlp",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26618416"
   }
 ]
