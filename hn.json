@@ -1,80 +1,96 @@
 [
   {
+    "title": "U.S. Strategic Command response to FOIA re: March 28 “;l;;gmlxzssaw” tweet",
+    "url": "https://twitter.com/MikaelThalen/status/1376653334396903428",
+    "upvotes": 41,
+    "author": "danso",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26632837"
+  },
+  {
     "title": "Moderna mRNA sequence released to GitHub [pdf]",
     "url": "https://github.com/NAalytics/Assemblies-of-putative-SARS-CoV2-spike-encoding-mRNA-sequences-for-vaccines-BNT-162b2-and-mRNA-1273/blob/main/Assemblies%20of%20putative%20SARS-CoV2-spike-encoding%20mRNA%20sequences%20for%20vaccines%20BNT-162b2%20and%20mRNA-1273.docx.pdf",
-    "upvotes": 993,
+    "upvotes": 1028,
     "author": "aty268",
-    "comments": 294,
+    "comments": 297,
     "link": "https://news.ycombinator.com/item?id=26628233"
   },
   {
     "title": "Icecream: Never use print",
     "url": "https://github.com/gruns/icecream",
-    "upvotes": 172,
+    "upvotes": 192,
     "author": "polm23",
-    "comments": 106,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=26631467"
-  },
-  {
-    "title": "Down the Golang Nil Rabbit Hole",
-    "url": "https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/",
-    "upvotes": 131,
-    "author": "zdw",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26630932"
   },
   {
     "title": "Bebop: An Efficient, Schema-Based Binary Serialization Format",
     "url": "https://rainway.com/blog/2020/12/09/bebop-an-efficient-schema-based-binary-serialization-format/",
-    "upvotes": 26,
+    "upvotes": 33,
     "author": "kompas_msv",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26631044"
   },
   {
     "title": "On Norbert Wiener's Relationship with Bertrand Russell",
     "url": "https://cantorsparadise.substack.com/p/on-norbert-wieners-relationship-with",
-    "upvotes": 26,
+    "upvotes": 36,
     "author": "jorgenveisdal",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26619347"
+  },
+  {
+    "title": "Down the Golang Nil Rabbit Hole",
+    "url": "https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/",
+    "upvotes": 132,
+    "author": "zdw",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26630932"
   },
   {
     "title": "Compiling a Lisp to x86_64",
     "url": "https://bernsteinbear.com/blog/lisp/",
-    "upvotes": 13,
+    "upvotes": 19,
     "author": "sillysaurusx",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26631308"
   },
   {
     "title": "React and D3.js",
     "url": "https://wattenberger.com/blog/react-and-d3",
-    "upvotes": 266,
+    "upvotes": 268,
     "author": "mxschumacher",
-    "comments": 70,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26628679"
+  },
+  {
+    "title": "Show HN: Poulette – A Color Palette GUI",
+    "url": "https://github.com/grgrdvrt/poulette",
+    "upvotes": 9,
+    "author": "grgrdvrt",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26632653"
   },
   {
     "title": "Git email flow vs. GitHub flow",
     "url": "https://blog.brixit.nl/git-email-flow-versus-github-flow/",
-    "upvotes": 154,
+    "upvotes": 161,
     "author": "pabs3",
-    "comments": 59,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26629765"
   },
   {
     "title": "Underproduction: An Approach for Measuring Risk in Open Source Software",
     "url": "https://arxiv.org/abs/2103.00352",
-    "upvotes": 67,
+    "upvotes": 69,
     "author": "pabs3",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26630385"
   },
   {
     "title": "Suez Canal says traffic in channel resumes after stranded ship refloated",
     "url": "https://www.reuters.com/article/us-egypt-suezcanal-ship-floated/suez-canal-says-traffic-in-channel-resumes-after-stranded-ship-refloated-idUSKBN2BL1S9",
-    "upvotes": 1029,
+    "upvotes": 1033,
     "author": "WJW",
     "comments": 545,
     "link": "https://news.ycombinator.com/item?id=26621308"
@@ -82,74 +98,66 @@
   {
     "title": "Innernet: open source Rust based Tailscale alternative",
     "url": "https://blog.tonari.no/introducing-innernet",
-    "upvotes": 206,
+    "upvotes": 218,
     "author": "ricklamers",
-    "comments": 45,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26628285"
-  },
-  {
-    "title": "Muboard: Mathematics Chalkboard with LaTeX and Markdown Support",
-    "url": "https://muboard.net/",
-    "upvotes": 16,
-    "author": "susam",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26620267"
   },
   {
     "title": "How to Backdoor Curl",
     "url": "https://daniel.haxx.se/blog/2021/03/30/howto-backdoor-curl/",
-    "upvotes": 19,
+    "upvotes": 30,
     "author": "caution",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26632690"
   },
   {
-    "title": "Quickdraw with Google AI",
-    "url": "https://quickdraw.withgoogle.com/",
-    "upvotes": 120,
-    "author": "aloknnikhil",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26627556"
+    "title": "Muboard: Mathematics Chalkboard with LaTeX and Markdown Support",
+    "url": "https://muboard.net/",
+    "upvotes": 17,
+    "author": "susam",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26620267"
   },
   {
     "title": "FTC to close down mobile banking app Beam",
     "url": "https://finledger.com/2021/03/29/ftc-to-close-down-mobile-banking-app-beam-pending-district-court-judge-approval/",
-    "upvotes": 121,
+    "upvotes": 123,
     "author": "exotree",
-    "comments": 33,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26628149"
+  },
+  {
+    "title": "Tar is an ill-specified format",
+    "url": "https://invisible-island.net/autoconf/portability-tar.html",
+    "upvotes": 99,
+    "author": "moomin",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=26628154"
   },
   {
     "title": "Frederick W. Taylor offers some productivity hacks",
     "url": "https://www.laphamsquarterly.org/technology/work-force",
-    "upvotes": 52,
+    "upvotes": 53,
     "author": "drdee",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26628965"
   },
   {
     "title": "The Deno Company",
     "url": "https://deno.com/blog/the-deno-company",
-    "upvotes": 841,
+    "upvotes": 843,
     "author": "elisee",
-    "comments": 398,
+    "comments": 402,
     "link": "https://news.ycombinator.com/item?id=26620116"
   },
   {
     "title": "Intel to spend $20B on two new chip factories in Arizona",
     "url": "https://www.nytimes.com/2021/03/23/technology/intel-arizona-chip-factories.html",
-    "upvotes": 97,
+    "upvotes": 104,
     "author": "fortran77",
-    "comments": 50,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26631041"
-  },
-  {
-    "title": "Tar is an ill-specified format",
-    "url": "https://invisible-island.net/autoconf/portability-tar.html",
-    "upvotes": 96,
-    "author": "moomin",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26628154"
   },
   {
     "title": "Find eng jobs at over 800 fast-growing YC startups on ycombinator.com/jobs",
@@ -158,10 +166,34 @@
   {
     "title": "Ubiquiti starts serving ads in their management interface",
     "url": "https://twitter.com/superdealloc/status/1376626243865604100",
-    "upvotes": 504,
+    "upvotes": 521,
     "author": "andremedeiros",
-    "comments": 225,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=26628198"
+  },
+  {
+    "title": "Launch HN: Greywing (YC W21) – Automated ship operations focused on crew",
+    "url": "item?id=26621266",
+    "upvotes": 117,
+    "author": "hrishi",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=26621266"
+  },
+  {
+    "title": "USB 3.0* Radio Frequency Interference on 2.4 GHz Devices",
+    "url": "https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html",
+    "upvotes": 330,
+    "author": "cyberlab",
+    "comments": 199,
+    "link": "https://news.ycombinator.com/item?id=26625356"
+  },
+  {
+    "title": "68k.news: A Netscape 1.1 makeover of Google News",
+    "url": "http://68k.news/",
+    "upvotes": 373,
+    "author": "gripfx",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=26623362"
   },
   {
     "title": "Ancient Rocks Reveal When Earth’s Plate Tectonics Began",
@@ -172,67 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26620486"
   },
   {
-    "title": "Launch HN: Greywing (YC W21) – Automated ship operations focused on crew",
-    "url": "item?id=26621266",
-    "upvotes": 115,
-    "author": "hrishi",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26621266"
-  },
-  {
-    "title": "USB 3.0* Radio Frequency Interference on 2.4 GHz Devices",
-    "url": "https://www.intel.com/content/www/us/en/products/docs/io/universal-serial-bus/usb3-frequency-interference-paper.html",
-    "upvotes": 325,
-    "author": "cyberlab",
-    "comments": 199,
-    "link": "https://news.ycombinator.com/item?id=26625356"
-  },
-  {
-    "title": "68k.news: A Netscape 1.1 makeover of Google News",
-    "url": "http://68k.news/",
-    "upvotes": 372,
-    "author": "gripfx",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=26623362"
-  },
-  {
-    "title": "Kroki – Generate Diagrams from GraphViz, Mermaid, PlantUML, Vega, Vega-Lite",
-    "url": "https://kroki.io/",
-    "upvotes": 75,
-    "author": "timhigins",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26627555"
-  },
-  {
-    "title": "AT&T lobbies against nationwide fiber, says 10Mbps uploads are good enough",
-    "url": "https://arstechnica.com/tech-policy/2021/03/att-lobbies-against-nationwide-fiber-says-10mbps-uploads-are-good-enough",
-    "upvotes": 274,
-    "author": "danaris",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=26627637"
-  },
-  {
-    "title": "Show HN: An open-source, self-hostable Heroku and Netlify alternative",
-    "url": "https://coollabs.io/coolify",
-    "upvotes": 310,
-    "author": "andrasbacsai",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26624341"
-  },
-  {
     "title": "I made an eInk newspaper",
     "url": "https://gregraiz.com/i-made-an-eink-newspaper/",
-    "upvotes": 513,
+    "upvotes": 515,
     "author": "graiz",
     "comments": 207,
     "link": "https://news.ycombinator.com/item?id=26611371"
   },
   {
+    "title": "Show HN: An open-source, self-hostable Heroku and Netlify alternative",
+    "url": "https://coollabs.io/coolify",
+    "upvotes": 311,
+    "author": "andrasbacsai",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=26624341"
+  },
+  {
     "title": "Numi – Calculator app for Mac",
     "url": "https://numi.app/",
-    "upvotes": 364,
+    "upvotes": 366,
     "author": "caminocorner",
     "comments": 164,
     "link": "https://news.ycombinator.com/item?id=26624386"
+  },
+  {
+    "title": "Hello, HPy",
+    "url": "https://hpyproject.org/blog/posts/2021/03/hello-hpy/",
+    "upvotes": 297,
+    "author": "milliams",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26625398"
   }
 ]
