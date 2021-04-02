@@ -2,42 +2,50 @@
   {
     "title": "Uppestcase and Lowestcase Letters",
     "url": "http://tom7.org/lowercase/",
-    "upvotes": 366,
+    "upvotes": 388,
     "author": "zdw",
-    "comments": 70,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26667852"
   },
   {
     "title": "Move Slow and Make Things",
     "url": "https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/",
-    "upvotes": 58,
+    "upvotes": 76,
     "author": "mkrazzledazzle",
-    "comments": 10,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26668806"
+  },
+  {
+    "title": "Tmux lets you select and copy text with your keyboard",
+    "url": "https://ianthehenry.com/posts/tmux-psa/",
+    "upvotes": 141,
+    "author": "ianthehenry",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26668408"
   },
   {
     "title": "Every Noise at Once",
     "url": "https://everynoise.com/",
-    "upvotes": 121,
+    "upvotes": 133,
     "author": "hwayne",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26668426"
   },
   {
-    "title": "Tmux lets you select and copy text with your keyboard",
-    "url": "https://ianthehenry.com/posts/tmux-psa/",
-    "upvotes": 125,
-    "author": "ianthehenry",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=26668408"
-  },
-  {
     "title": "Signed Char Lotte",
     "url": "https://nickdrozd.github.io/2021/03/30/signed-char-lotte.html",
-    "upvotes": 589,
+    "upvotes": 593,
     "author": "signa11",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26644838"
+  },
+  {
+    "title": "The curious history of NovaMin toothpaste",
+    "url": "https://medium.com/@ravenstine/the-curious-history-of-novamin-toothpaste-620c6bef8881",
+    "upvotes": 33,
+    "author": "miles",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26644350"
   },
   {
     "title": "Algolia",
@@ -46,79 +54,71 @@
   {
     "title": "Zero click vulnerability in Apple’s macOS Mail",
     "url": "https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c",
-    "upvotes": 318,
+    "upvotes": 326,
     "author": "jviide",
-    "comments": 204,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=26664714"
-  },
-  {
-    "title": "The curious history of NovaMin toothpaste",
-    "url": "https://medium.com/@ravenstine/the-curious-history-of-novamin-toothpaste-620c6bef8881",
-    "upvotes": 14,
-    "author": "miles",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26644350"
   },
   {
     "title": "Backpropagation 101",
     "url": "https://thinc.ai/docs/backprop101",
-    "upvotes": 20,
+    "upvotes": 27,
     "author": "polm23",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26645246"
   },
   {
     "title": "Spreadsheet is a software development paradigm",
     "url": "https://medium.com/@vlapiner/spreadsheet-is-a-software-development-paradigm-70c871ff5f49",
-    "upvotes": 104,
+    "upvotes": 109,
     "author": "egeria_planning",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26645253"
+  },
+  {
+    "title": "Wet Country Wireless; How British Weather Killed a Billion Pound Tech Company",
+    "url": "https://hackaday.com/2021/03/29/wet-country-wireless-how-the-british-weather-killed-a-billion-pound-tech-company/",
+    "upvotes": 43,
+    "author": "tweetle_beetle",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26645389"
   },
   {
     "title": "Children of the Coal Shadow: A 1903 News Report",
     "url": "https://wynninghistory.com/2021/03/27/children-of-the-coal-shadow/",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "alektorophobiae",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26643754"
   },
   {
-    "title": "Wet Country Wireless; How British Weather Killed a Billion Pound Tech Company",
-    "url": "https://hackaday.com/2021/03/29/wet-country-wireless-how-the-british-weather-killed-a-billion-pound-tech-company/",
-    "upvotes": 38,
-    "author": "tweetle_beetle",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26645389"
-  },
-  {
     "title": "Bash-LSP: A language server for Bash",
     "url": "https://github.com/bash-lsp/bash-language-server",
-    "upvotes": 196,
+    "upvotes": 200,
     "author": "ducktective",
     "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26663135"
   },
   {
+    "title": "OpenBSD adds support for Coordinated Mars Time",
+    "url": "https://marc.info/?l=openbsd-cvs&m=161730046519995&w=2",
+    "upvotes": 103,
+    "author": "gautamcgoel",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26665523"
+  },
+  {
     "title": "Frink",
     "url": "https://futureboy.us/frinkdocs/",
-    "upvotes": 70,
+    "upvotes": 74,
     "author": "Tomte",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26645172"
   },
   {
-    "title": "OpenBSD adds support for Coordinated Mars Time",
-    "url": "https://marc.info/?l=openbsd-cvs&m=161730046519995&w=2",
-    "upvotes": 92,
-    "author": "gautamcgoel",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26665523"
-  },
-  {
     "title": "Code Reading Club",
     "url": "https://www.felienne.com/archives/6472",
-    "upvotes": 39,
+    "upvotes": 43,
     "author": "ingve",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26646153"
@@ -126,39 +126,39 @@
   {
     "title": "Goblins: A transactional, distributed actor model environment",
     "url": "https://docs.racket-lang.org/goblins/",
-    "upvotes": 104,
+    "upvotes": 107,
     "author": "snicker7",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26665387"
-  },
-  {
-    "title": "Show HN: Engauge – Self-hosted, Single-binary Analytics",
-    "url": "https://github.com/EngaugeAI/engauge",
-    "upvotes": 6,
-    "author": "engaugeai",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26669229"
   },
   {
     "title": "100M Posts Analyzed: What You Need to Write the Best Headlines",
     "url": "https://buzzsumo.com/resources/hundred-million-best-headlines-study/",
-    "upvotes": 174,
+    "upvotes": 178,
     "author": "vitabenes",
-    "comments": 96,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26662985"
+  },
+  {
+    "title": "A Semitechnical Introductory Dialogue on Solomonoff Induction",
+    "url": "https://www.lesswrong.com/posts/EL4HNa92Z95FKL9R2/a-semitechnical-introductory-dialogue-on-solomonoff-1",
+    "upvotes": 3,
+    "author": "apsec112",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26655464"
   },
   {
     "title": "Mathematicians find a new class of digitally delicate primes",
     "url": "https://www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/",
-    "upvotes": 115,
+    "upvotes": 117,
     "author": "susam",
-    "comments": 61,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26643812"
   },
   {
     "title": "The Enigmatic Tablets from Late Bronze Age Deir ‘Alla",
     "url": "https://www.asor.org/anetoday/2021/01/enigmatic-tablets",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "diodorus",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26652294"
@@ -166,15 +166,23 @@
   {
     "title": "Tools for Auditing CSS",
     "url": "https://css-tricks.com/tools-for-auditing-css/",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "starbist",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26644833"
+  },
+  {
+    "title": "Show HN: Engauge – Self-hosted, Single-binary Analytics",
+    "url": "https://github.com/EngaugeAI/engauge",
+    "upvotes": 8,
+    "author": "engaugeai",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26669229"
   },
   {
     "title": "RFC8962: Establishing the Protocol Police",
     "url": "https://www.rfc-editor.org/rfc/rfc8962.txt",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "virgulino",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26666461"
@@ -182,18 +190,10 @@
   {
     "title": "List of Proposed Etymologies of OK",
     "url": "https://en.wikipedia.org/wiki/List_of_proposed_etymologies_of_OK",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "benbreen",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26649506"
-  },
-  {
-    "title": "Show HN: I built Creodocs, a document creation platform based on LaTeX",
-    "url": "https://www.creodocs.com",
-    "upvotes": 48,
-    "author": "VelNZ",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26667280"
   },
   {
     "title": "Evaluating Search Algorithms",
@@ -206,9 +206,9 @@
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=26661443",
-    "upvotes": 354,
+    "upvotes": 356,
     "author": "whoishiring",
-    "comments": 742,
+    "comments": 745,
     "link": "https://news.ycombinator.com/item?id=26661443"
   },
   {
@@ -216,7 +216,7 @@
     "url": "https://nautil.us/issue/98/mind/the-trouble-with-brain-scans",
     "upvotes": 44,
     "author": "dnetesn",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26658834"
   },
   {
@@ -230,9 +230,9 @@
   {
     "title": "OpenMW – open-source TES3 Morrowind reimplementation",
     "url": "https://openmw.org/en/",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "agluszak",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26665697"
   }
 ]
