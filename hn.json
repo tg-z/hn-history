@@ -2,74 +2,90 @@
   {
     "title": "Uppestcase and Lowestcase Letters",
     "url": "http://tom7.org/lowercase/",
-    "upvotes": 171,
+    "upvotes": 186,
     "author": "zdw",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26667852"
   },
   {
     "title": "Signed Char Lotte",
     "url": "https://nickdrozd.github.io/2021/03/30/signed-char-lotte.html",
-    "upvotes": 528,
+    "upvotes": 536,
     "author": "signa11",
-    "comments": 65,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26644838"
   },
   {
     "title": "Tmux lets you select and copy text with your keyboard",
     "url": "https://ianthehenry.com/posts/tmux-psa/",
-    "upvotes": 30,
+    "upvotes": 41,
     "author": "ianthehenry",
-    "comments": 17,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26668408"
   },
   {
     "title": "Zero click vulnerability in Apple’s macOS Mail",
     "url": "https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c",
-    "upvotes": 267,
+    "upvotes": 271,
     "author": "jviide",
-    "comments": 170,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=26664714"
-  },
-  {
-    "title": "Spreadsheet is a software development paradigm",
-    "url": "https://medium.com/@vlapiner/spreadsheet-is-a-software-development-paradigm-70c871ff5f49",
-    "upvotes": 66,
-    "author": "egeria_planning",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26645253"
   },
   {
     "title": "Every Noise at Once",
     "url": "https://everynoise.com/",
-    "upvotes": 20,
+    "upvotes": 29,
     "author": "hwayne",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26668426"
+  },
+  {
+    "title": "Spreadsheet is a software development paradigm",
+    "url": "https://medium.com/@vlapiner/spreadsheet-is-a-software-development-paradigm-70c871ff5f49",
+    "upvotes": 70,
+    "author": "egeria_planning",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26645253"
+  },
+  {
+    "title": "Wet Country Wireless; How British Weather Killed a Billion Pound Tech Company",
+    "url": "https://hackaday.com/2021/03/29/wet-country-wireless-how-the-british-weather-killed-a-billion-pound-tech-company/",
+    "upvotes": 15,
+    "author": "tweetle_beetle",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26645389"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=26661443",
-    "upvotes": 330,
+    "upvotes": 334,
     "author": "whoishiring",
-    "comments": 724,
+    "comments": 726,
     "link": "https://news.ycombinator.com/item?id=26661443"
   },
   {
     "title": "Frink",
     "url": "https://futureboy.us/frinkdocs/",
-    "upvotes": 37,
+    "upvotes": 45,
     "author": "Tomte",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26645172"
   },
   {
     "title": "Bash-LSP: A language server for Bash",
     "url": "https://github.com/bash-lsp/bash-language-server",
-    "upvotes": 173,
+    "upvotes": 177,
     "author": "ducktective",
-    "comments": 66,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26663135"
+  },
+  {
+    "title": "Goblins: A transactional, distributed actor model environment",
+    "url": "https://docs.racket-lang.org/goblins/",
+    "upvotes": 89,
+    "author": "snicker7",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26665387"
   },
   {
     "title": "The Enigmatic Tablets from Late Bronze Age Deir ‘Alla",
@@ -80,104 +96,88 @@
     "link": "https://news.ycombinator.com/item?id=26652294"
   },
   {
-    "title": "Show HN: Mail Studio – IDE for designing responsive emails",
-    "url": "https://mailstudio.app/",
-    "upvotes": 346,
-    "author": "martinaglv",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=26659553"
-  },
-  {
-    "title": "Goblins: A transactional, distributed actor model environment",
-    "url": "https://docs.racket-lang.org/goblins/",
-    "upvotes": 88,
-    "author": "snicker7",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26665387"
-  },
-  {
-    "title": "Code Reading Club",
-    "url": "https://www.felienne.com/archives/6472",
-    "upvotes": 17,
-    "author": "ingve",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26646153"
-  },
-  {
     "title": "Mathematicians find a new class of digitally delicate primes",
     "url": "https://www.quantamagazine.org/mathematicians-find-a-new-class-of-digitally-delicate-primes-20210330/",
     "upvotes": 108,
     "author": "susam",
-    "comments": 52,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26643812"
+  },
+  {
+    "title": "OpenBSD adds support for Coordinated Mars Time",
+    "url": "https://marc.info/?l=openbsd-cvs&m=161730046519995&w=2",
+    "upvotes": 64,
+    "author": "gautamcgoel",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26665523"
+  },
+  {
+    "title": "OpenTTD 1.11",
+    "url": "https://www.openttd.org/news/2021/04/01/openttd-1-11-0.html",
+    "upvotes": 233,
+    "author": "app4soft",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26660154"
   },
   {
     "title": "List of Proposed Etymologies of OK",
     "url": "https://en.wikipedia.org/wiki/List_of_proposed_etymologies_of_OK",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "benbreen",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26649506"
   },
   {
-    "title": "OpenTTD 1.11",
-    "url": "https://www.openttd.org/news/2021/04/01/openttd-1-11-0.html",
-    "upvotes": 230,
-    "author": "app4soft",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26660154"
-  },
-  {
-    "title": "OpenBSD adds support for Coordinated Mars Time",
-    "url": "https://marc.info/?l=openbsd-cvs&m=161730046519995&w=2",
-    "upvotes": 59,
-    "author": "gautamcgoel",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26665523"
+    "title": "Code Reading Club",
+    "url": "https://www.felienne.com/archives/6472",
+    "upvotes": 19,
+    "author": "ingve",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26646153"
   },
   {
     "title": "100M Posts Analyzed: What You Need to Write the Best Headlines",
     "url": "https://buzzsumo.com/resources/hundred-million-best-headlines-study/",
-    "upvotes": 145,
+    "upvotes": 146,
     "author": "vitabenes",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26662985"
+  },
+  {
+    "title": "Show HN: Simplenetes – I replaced Kubernetes with 17k lines of shell script",
+    "url": "https://github.com/simplenetes-io/simplenetes",
+    "upvotes": 198,
+    "author": "thomasbacklund",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=26661223"
   },
   {
     "title": "Navattic",
     "url": "https://www.navattic.com/join-us"
   },
   {
-    "title": "Urbit: What Is This?",
-    "url": "https://groups.google.com/a/urbit.org/g/dev/c/bdlPPnaccMc",
-    "upvotes": 15,
-    "author": "makeworld",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26668098"
-  },
-  {
-    "title": "Show HN: Simplenetes – I replaced Kubernetes with 17k lines of shell script",
-    "url": "https://github.com/simplenetes-io/simplenetes",
-    "upvotes": 196,
-    "author": "thomasbacklund",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=26661223"
-  },
-  {
     "title": "Tools for Auditing CSS",
     "url": "https://css-tricks.com/tools-for-auditing-css/",
-    "upvotes": 38,
+    "upvotes": 39,
     "author": "starbist",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26644833"
   },
   {
-    "title": "Wet Country Wireless; How British Weather Killed a Billion Pound Tech Company",
-    "url": "https://hackaday.com/2021/03/29/wet-country-wireless-how-the-british-weather-killed-a-billion-pound-tech-company/",
-    "upvotes": 5,
-    "author": "tweetle_beetle",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26645389"
+    "title": "Blessed: Curses-like library with high level terminal interface API for Node.js",
+    "url": "https://github.com/chjj/blessed",
+    "upvotes": 21,
+    "author": "bryanrasmussen",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26645333"
+  },
+  {
+    "title": "Ask HN: Where do you find potential customers to validate your idea / MVP?",
+    "url": "item?id=26644616",
+    "upvotes": 239,
+    "author": "showsover",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=26644616"
   },
   {
     "title": "The Mortifications of Beverly Cleary",
@@ -188,28 +188,28 @@
     "link": "https://news.ycombinator.com/item?id=26643438"
   },
   {
-    "title": "Ask HN: Where do you find potential customers to validate your idea / MVP?",
-    "url": "item?id=26644616",
-    "upvotes": 236,
-    "author": "showsover",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26644616"
+    "title": "RFC8962: Establishing the Protocol Police",
+    "url": "https://www.rfc-editor.org/rfc/rfc8962.txt",
+    "upvotes": 48,
+    "author": "virgulino",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26666461"
   },
   {
     "title": "Ask HN: Who wants to be hired?",
     "url": "item?id=26661279",
-    "upvotes": 135,
+    "upvotes": 136,
     "author": "whoishiring",
-    "comments": 148,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26661279"
   },
   {
-    "title": "RFC8962: Establishing the Protocol Police",
-    "url": "https://www.rfc-editor.org/rfc/rfc8962.txt",
-    "upvotes": 46,
-    "author": "virgulino",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26666461"
+    "title": "Evaluating Search Algorithms",
+    "url": "https://shopify.engineering/evaluating-search-algorithms",
+    "upvotes": 67,
+    "author": "clandry94",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26664976"
   },
   {
     "title": "Show HN: I built Creodocs, a document creation platform based on LaTeX",
@@ -220,19 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26667280"
   },
   {
-    "title": "Blessed: Curses-like library with high level terminal interface API for Node.js",
-    "url": "https://github.com/chjj/blessed",
-    "upvotes": 18,
-    "author": "bryanrasmussen",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26645333"
+    "title": "The Trouble with Brain Scans",
+    "url": "https://nautil.us/issue/98/mind/the-trouble-with-brain-scans",
+    "upvotes": 34,
+    "author": "dnetesn",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26658834"
   },
   {
-    "title": "Evaluating Search Algorithms",
-    "url": "https://shopify.engineering/evaluating-search-algorithms",
-    "upvotes": 67,
-    "author": "clandry94",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26664976"
+    "title": "MS Azure down: An emerging issue is being investigated",
+    "url": "https://status2.azure.com/",
+    "upvotes": 201,
+    "author": "williamscales",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=26666585"
   }
 ]
