@@ -1,238 +1,238 @@
 [
   {
+    "title": "Microsoft Coffee",
+    "url": "https://www.microsoftcoffee.org/",
+    "upvotes": 116,
+    "author": "todsacerdoti",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26671914"
+  },
+  {
+    "title": "Penny Stocks Are Booming, Which Is Good News for Swindlers",
+    "url": "https://www.nytimes.com/2021/03/18/business/penny-stocks-trading.html",
+    "upvotes": 56,
+    "author": "prostoalex",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26671928"
+  },
+  {
     "title": "This Blog is now hosted on a GPS/LTE modem",
     "url": "https://nns.ee/blog/2021/04/01/modem-blog.html",
-    "upvotes": 425,
+    "upvotes": 456,
     "author": "dtx1",
-    "comments": 121,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=26669749"
   },
   {
-    "title": "Atomic structure of a glass imaged at last",
-    "url": "https://www.nature.com/articles/d41586-021-00794-6",
-    "upvotes": 56,
-    "author": "pseudolus",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26670492"
-  },
-  {
-    "title": "Move Slow and Make Things",
-    "url": "https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/",
-    "upvotes": 262,
-    "author": "mkrazzledazzle",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=26668806"
-  },
-  {
-    "title": "Uppestcase and Lowestcase Letters",
-    "url": "http://tom7.org/lowercase/",
-    "upvotes": 621,
-    "author": "zdw",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=26667852"
+    "title": "Rapid global heating is hurting farm productivity, study finds",
+    "url": "https://www.theguardian.com/environment/2021/apr/01/climate-crisis-global-heating-food-farming-agriculture",
+    "upvotes": 19,
+    "author": "guerrilla",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26672024"
   },
   {
     "title": "Why machine learning struggles with causality",
     "url": "https://bdtechtalks.com/2021/03/15/machine-learning-causality/",
-    "upvotes": 11,
+    "upvotes": 32,
     "author": "bschne",
-    "comments": null,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26670312"
+  },
+  {
+    "title": "An HTTP server in a single .c file",
+    "url": "https://unix4lyfe.org/darkhttpd/",
+    "upvotes": 11,
+    "author": "egorfine",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26671851"
+  },
+  {
+    "title": "Atomic structure of a glass imaged at last",
+    "url": "https://www.nature.com/articles/d41586-021-00794-6",
+    "upvotes": 65,
+    "author": "pseudolus",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26670492"
+  },
+  {
+    "title": "How many lines of code is Candy Japan?",
+    "url": "https://www.candyjapan.com/behind-the-scenes/how-many-lines-of-code-is-candy-japan",
+    "upvotes": 8,
+    "author": "EndXA",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26672052"
+  },
+  {
+    "title": "Move Slow and Make Things",
+    "url": "https://multithreaded.stitchfix.com/blog/2021/04/01/move-slow-make-things/",
+    "upvotes": 275,
+    "author": "mkrazzledazzle",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=26668806"
   },
   {
     "title": "Coinbase to go public on 4/14",
     "url": "https://decrypt.co/63671/coinbase-going-public-in-april-14-announce-q1-earnings-beforehand",
-    "upvotes": 20,
+    "upvotes": 39,
     "author": "mathattack",
-    "comments": null,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26671754"
+  },
+  {
+    "title": "Almost third of UK Covid hospital patients readmitted within four months",
+    "url": "https://www.theguardian.com/world/2021/apr/01/almost-third-of-uk-covid-hospital-patients-readmitted-within-four-months",
+    "upvotes": 16,
+    "author": "curmudgeon22",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26671748"
   },
   {
     "title": "HPy: A better C API for Python?",
     "url": "https://lwn.net/SubscriberLink/851202/8981fa354a584aeb/",
-    "upvotes": 90,
+    "upvotes": 97,
     "author": "mkesper",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26669778"
-  },
-  {
-    "title": "State in Haskell",
-    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fstate-lasc.pdf",
-    "upvotes": 14,
-    "author": "azhenley",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26670819"
-  },
-  {
-    "title": "Tmux lets you select and copy text with your keyboard",
-    "url": "https://ianthehenry.com/posts/tmux-psa/",
-    "upvotes": 270,
-    "author": "ianthehenry",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=26668408"
-  },
-  {
-    "title": "Every Noise at Once",
-    "url": "https://everynoise.com/",
-    "upvotes": 265,
-    "author": "hwayne",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=26668426"
-  },
-  {
-    "title": "Summary of C/C++ integer rules",
-    "url": "https://www.nayuki.io/page/summary-of-c-cpp-integer-rules",
-    "upvotes": 73,
-    "author": "dmulholl",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26669735"
   },
   {
     "title": "MindsDB",
     "url": "https://career.mindsdb.com/o/business-development-manager"
   },
   {
+    "title": "State in Haskell",
+    "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/state-lasc.pdf?from=https%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fstate-lasc.pdf",
+    "upvotes": 18,
+    "author": "azhenley",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26670819"
+  },
+  {
+    "title": "Tmux lets you select and copy text with your keyboard",
+    "url": "https://ianthehenry.com/posts/tmux-psa/",
+    "upvotes": 277,
+    "author": "ianthehenry",
+    "comments": 142,
+    "link": "https://news.ycombinator.com/item?id=26668408"
+  },
+  {
+    "title": "Every Noise at Once",
+    "url": "https://everynoise.com/",
+    "upvotes": 280,
+    "author": "hwayne",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=26668426"
+  },
+  {
+    "title": "Summary of C/C++ integer rules",
+    "url": "https://www.nayuki.io/page/summary-of-c-cpp-integer-rules",
+    "upvotes": 78,
+    "author": "dmulholl",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26669735"
+  },
+  {
     "title": "Does LEED Certification Save Energy? Evidence from Federal Buildings",
     "url": "https://www.nber.org/papers/w28612",
-    "upvotes": 36,
+    "upvotes": 41,
     "author": "throw0101a",
-    "comments": 41,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26670813"
   },
   {
-    "title": "A lot of free software is free as in piano",
-    "url": "https://twitter.com/leahvelleman/status/1377829865504833536",
-    "upvotes": 65,
-    "author": "PretzelFisch",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26671089"
+    "title": "Supreme Court sides with Facebook in narrowing the federal robocall ban",
+    "url": "https://www.scotusblog.com/2021/04/supreme-court-sides-with-facebook-in-narrowing-the-federal-robocall-ban/",
+    "upvotes": 27,
+    "author": "protomyth",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26671603"
+  },
+  {
+    "title": "Gridcoin: a simple investment thesis",
+    "url": "https://suiteki.medium.com/gridcoin-a-simple-investment-thesis-a4fb3f83daed",
+    "upvotes": 54,
+    "author": "didier4",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26670420"
   },
   {
     "title": "The curious history of NovaMin toothpaste",
     "url": "https://medium.com/@ravenstine/the-curious-history-of-novamin-toothpaste-620c6bef8881",
-    "upvotes": 100,
+    "upvotes": 107,
     "author": "miles",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26644350"
   },
   {
-    "title": "Gridcoin: a simple investment thesis",
-    "url": "https://suiteki.medium.com/gridcoin-a-simple-investment-thesis-a4fb3f83daed",
-    "upvotes": 50,
-    "author": "didier4",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26670420"
-  },
-  {
-    "title": "We Killed Expertise",
-    "url": "http://www.politico.com/magazine/story/2017/09/05/how-we-killed-expertise-215531",
-    "upvotes": 19,
-    "author": "Tomte",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26671231"
-  },
-  {
     "title": "The Asteroid That Killed the Dinosaurs Created the Amazon Rain Forest",
     "url": "https://www.scientificamerican.com/article/the-asteroid-that-killed-the-dinosaurs-created-the-amazon-rain-forest/",
-    "upvotes": 53,
+    "upvotes": 61,
     "author": "hheikinh",
-    "comments": 23,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26669201"
+  },
+  {
+    "title": "Uppestcase and Lowestcase Letters",
+    "url": "http://tom7.org/lowercase/",
+    "upvotes": 636,
+    "author": "zdw",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=26667852"
   },
   {
     "title": "Microsoft Teams and Xbox Live were down for over two hours but have recovered",
     "url": "https://www.theverge.com/2021/4/1/22362975/microsoft-teams-xbox-live-down-outage-issue",
-    "upvotes": 16,
+    "upvotes": 26,
     "author": "visitednews",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26671393"
+  },
+  {
+    "title": "Analyst pleads guilty to leaking secrets about drone program",
+    "url": "https://apnews.com/article/trials-nashville-virginia-espionage-tennessee-727a67a4b0d93651c93394d1f49f6dfb",
+    "upvotes": 8,
+    "author": "curmudgeon22",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26671827"
+  },
+  {
+    "title": "A lot of free software is free as in piano",
+    "url": "https://twitter.com/leahvelleman/status/1377829865504833536",
+    "upvotes": 90,
+    "author": "PretzelFisch",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26671089"
   },
   {
     "title": "Wet Country Wireless; How British Weather Killed a Billion Pound Tech Company",
     "url": "https://hackaday.com/2021/03/29/wet-country-wireless-how-the-british-weather-killed-a-billion-pound-tech-company/",
-    "upvotes": 88,
+    "upvotes": 91,
     "author": "tweetle_beetle",
-    "comments": 40,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26645389"
   },
   {
     "title": "The Quarantine Quarters of Dubrovnik",
     "url": "https://www.amusingplanet.com/2020/03/the-quarantine-quarters-of-dubrovnik.html",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "Bluestein",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26658353"
   },
   {
-    "title": "Supreme Court sides with Facebook in narrowing the federal robocall ban",
-    "url": "https://www.scotusblog.com/2021/04/supreme-court-sides-with-facebook-in-narrowing-the-federal-robocall-ban/",
-    "upvotes": 11,
-    "author": "protomyth",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26671603"
-  },
-  {
     "title": "Signed Char Lotte",
     "url": "https://nickdrozd.github.io/2021/03/30/signed-char-lotte.html",
-    "upvotes": 651,
+    "upvotes": 656,
     "author": "signa11",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26644838"
   },
   {
-    "title": "Code Reading Club",
-    "url": "https://www.felienne.com/archives/6472",
-    "upvotes": 81,
-    "author": "ingve",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26646153"
-  },
-  {
-    "title": "Children of the Coal Shadow: A 1903 News Report",
-    "url": "https://wynninghistory.com/2021/03/27/children-of-the-coal-shadow/",
-    "upvotes": 44,
-    "author": "alektorophobiae",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26643754"
-  },
-  {
-    "title": "Svalbard's Alcohol Quotas",
-    "url": "https://www.sysselmannen.no/en/alcohol/",
-    "upvotes": 65,
-    "author": "simonebrunozzi",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=26670465"
-  },
-  {
     "title": "Zero click vulnerability in Apple’s macOS Mail",
     "url": "https://mikko-kenttala.medium.com/zero-click-vulnerability-in-apples-macos-mail-59e0c14b106c",
-    "upvotes": 401,
+    "upvotes": 410,
     "author": "jviide",
-    "comments": 238,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=26664714"
-  },
-  {
-    "title": "The Enigmatic Tablets from Late Bronze Age Deir ‘Alla",
-    "url": "https://www.asor.org/anetoday/2021/01/enigmatic-tablets",
-    "upvotes": 53,
-    "author": "diodorus",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26652294"
-  },
-  {
-    "title": "YETI: a graduallY Extensible Trace Interpreter",
-    "url": "http://www.cs.toronto.edu/~matz/dissertation/matzDissertation-latex2html/",
-    "upvotes": 16,
-    "author": "luu",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26651028"
-  },
-  {
-    "title": "Show HN: Engauge – Self-hosted, Single-binary Analytics",
-    "url": "https://github.com/EngaugeAI/engauge",
-    "upvotes": 34,
-    "author": "engaugeai",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26669229"
   }
 ]
