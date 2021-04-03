@@ -1,8 +1,16 @@
 [
   {
+    "title": "How Doctors Die",
+    "url": "https://www.saturdayeveningpost.com/2013/03/how-doctors-die/",
+    "upvotes": 31,
+    "author": "DecayingOrganic",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26685244"
+  },
+  {
     "title": "SpatiaLite: A Spatial Extension to SQLite",
     "url": "https://www.gaia-gis.it/fossil/libspatialite/index",
-    "upvotes": 31,
+    "upvotes": 57,
     "author": "chippy",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26685156"
@@ -10,147 +18,163 @@
   {
     "title": "Lithium battery costs have fallen by 98% in three decades",
     "url": "https://www.economist.com/graphic-detail/2021/03/31/lithium-battery-costs-have-fallen-by-98-in-three-decades",
-    "upvotes": 361,
+    "upvotes": 378,
     "author": "hhs",
-    "comments": 249,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=26682097"
   },
   {
     "title": "SQLite Plus: Missing SQLite functions",
     "url": "https://github.com/nalgeon/sqlite-plus/",
-    "upvotes": 138,
+    "upvotes": 154,
     "author": "tosh",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26683832"
   },
   {
     "title": "My NAS exposes itself over the internet without permission",
     "url": "https://kn100.me/terramaster-nas-exposing-itself-over-upnp/",
-    "upvotes": 267,
+    "upvotes": 276,
     "author": "kn100",
-    "comments": 182,
+    "comments": 183,
     "link": "https://news.ycombinator.com/item?id=26681984"
+  },
+  {
+    "title": "How Much Polish Is There in Yiddish",
+    "url": "https://culture.pl/en/article/how-much-polish-is-there-in-yiddish-and-how-much-yiddish-is-there-in-polish",
+    "upvotes": 46,
+    "author": "Anon84",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26684601"
   },
   {
     "title": "Show HN: Blogosphere – Discover independent technical blogs",
     "url": "https://bilbof.com/blogosphere",
-    "upvotes": 42,
+    "upvotes": 50,
     "author": "BillFranklin",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26684792"
   },
   {
-    "title": "Version 4.9 of the open-source based AmiSSL library for Amiga",
-    "url": "http://aminet.net/package/util/libs/AmiSSL-4.9",
-    "upvotes": 23,
-    "author": "doener",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26684655"
-  },
-  {
-    "title": "The cesspool of the internet is to be found in a village in North Holland",
-    "url": "https://www.nrc.nl/nieuws/2021/04/02/the-cesspool-of-the-internet-is-to-be-found-in-a-village-in-north-holland-a4038369",
-    "upvotes": 169,
-    "author": "ahubert",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=26681936"
-  },
-  {
-    "title": "How Much Polish Is There in Yiddish",
-    "url": "https://culture.pl/en/article/how-much-polish-is-there-in-yiddish-and-how-much-yiddish-is-there-in-polish",
-    "upvotes": 23,
-    "author": "Anon84",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26684601"
-  },
-  {
     "title": "533M Facebook users' phone numbers and personal data have been leaked online",
     "url": "https://www.businessinsider.com/stolen-data-of-533-million-facebook-users-leaked-online-2021-4",
-    "upvotes": 886,
+    "upvotes": 914,
     "author": "cjbprime",
-    "comments": 332,
+    "comments": 352,
     "link": "https://news.ycombinator.com/item?id=26681969"
+  },
+  {
+    "title": "A Simplified E-graph Implementation",
+    "url": "https://www.philipzucker.com/a-simplified-egraph/",
+    "upvotes": 8,
+    "author": "philzook",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26684894"
+  },
+  {
+    "title": "Lunatic Python: Lua Inside Python, and Python Inside Lua",
+    "url": "https://labix.org/lunatic-python",
+    "upvotes": 23,
+    "author": "scrollaway",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26684838"
   },
   {
     "title": "Zendar",
     "url": "https://jobs.ashbyhq.com/zendar/e72f4909-557e-4402-abd5-e16791883040"
   },
   {
+    "title": "USS Johnston: Sub dives to deepest-known shipwreck",
+    "url": "https://www.bbc.co.uk/news/science-environment-56608713",
+    "upvotes": 12,
+    "author": "samizdis",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26670304"
+  },
+  {
     "title": "“Why We Sleep” Is Riddled with Scientific and Factual Errors",
     "url": "https://guzey.com/books/why-we-sleep/",
-    "upvotes": 125,
+    "upvotes": 151,
     "author": "giansegato",
-    "comments": 46,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26684519"
   },
   {
     "title": "MapLibre GL is a free and open-source fork of mapbox-gl-JS",
     "url": "https://github.com/maplibre/maplibre-gl-js",
-    "upvotes": 209,
+    "upvotes": 215,
     "author": "atriix",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26670495"
   },
   {
-    "title": "Lunatic Python: Lua Inside Python, and Python Inside Lua",
-    "url": "https://labix.org/lunatic-python",
-    "upvotes": 11,
-    "author": "scrollaway",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26684838"
+    "title": "The cesspool of the internet is to be found in a village in North Holland",
+    "url": "https://www.nrc.nl/nieuws/2021/04/02/the-cesspool-of-the-internet-is-to-be-found-in-a-village-in-north-holland-a4038369",
+    "upvotes": 180,
+    "author": "ahubert",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=26681936"
+  },
+  {
+    "title": "Version 4.9 of the open-source based AmiSSL library for Amiga",
+    "url": "http://aminet.net/package/util/libs/AmiSSL-4.9",
+    "upvotes": 28,
+    "author": "doener",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26684655"
   },
   {
     "title": "Compensation as a Reflection of Values",
     "url": "http://dtrace.org/blogs/bmc/2021/03/04/compensation-as-a-reflection-of-values/",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "lwhsiao",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26683510"
-  },
-  {
-    "title": "Barrier Reef doomed as up to 99% of coral at risk, report finds",
-    "url": "https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html",
-    "upvotes": 40,
-    "author": "elorant",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26685045"
   },
   {
     "title": "How to do things safely in Bash",
     "url": "https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md",
-    "upvotes": 103,
+    "upvotes": 106,
     "author": "soheilpro",
-    "comments": 44,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26681672"
+  },
+  {
+    "title": "Barrier Reef doomed as up to 99% of coral at risk, report finds",
+    "url": "https://www.smh.com.au/environment/climate-change/barrier-reef-doomed-as-up-to-99-percent-of-coral-at-risk-report-finds-20210331-p57fng.html",
+    "upvotes": 52,
+    "author": "elorant",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26685045"
   },
   {
     "title": "Not Growing a Language",
     "url": "https://kevingal.com/blog/java-overloading.html",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "todsacerdoti",
-    "comments": 65,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26682582"
   },
   {
     "title": "Lawsuit against TSA and DEA over airport seizures achieves first victory",
     "url": "https://ij.org/press-release/major-class-action-lawsuit-against-tsa-and-dea-over-airport-seizures-achieves-first-round-victory/",
-    "upvotes": 143,
+    "upvotes": 161,
     "author": "tomohawk",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26683755"
   },
   {
     "title": "Ergodicity, What's It Mean",
     "url": "https://avoidboringpeople.substack.com/p/ergodicity-whats-it-mean",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "simonebrunozzi",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26682488"
   },
   {
     "title": "Checkbox",
     "url": "https://chromakode.com/post/checkbox",
-    "upvotes": 9,
+    "upvotes": 13,
     "author": "tsar_nikolai",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26670147"
@@ -158,63 +182,47 @@
   {
     "title": "From Human Beings to Human Civilization, a Complexity Profile",
     "url": "https://necsi.edu/complexity-rising-from-human-beings-to-human-civilization-a-complexity-profile",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "dayve",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26681857"
   },
   {
-    "title": "USS Johnston: Sub dives to deepest-known shipwreck",
-    "url": "https://www.bbc.co.uk/news/science-environment-56608713",
-    "upvotes": 3,
-    "author": "samizdis",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26670304"
+    "title": "What Is the Switch-Case Equivalent in Python?",
+    "url": "https://pakstech.com/blog/python-switch-case/",
+    "upvotes": 34,
+    "author": "Sami_Lehtinen",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26683337"
   },
   {
     "title": "Grids in Rust, Part 2: const generics",
     "url": "https://blog.adamchalmers.com/grids-2/",
-    "upvotes": 68,
+    "upvotes": 70,
     "author": "lukastyrychtr",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26670106"
   },
   {
-    "title": "Why Software Jewels Are Rare",
-    "url": "http://www.cse.msu.edu/~cse870/Input/SS2002/MiniProject/Sources/r2057.pdf",
-    "upvotes": 44,
-    "author": "tjalfi",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26682921"
-  },
-  {
-    "title": "What Is the Switch-Case Equivalent in Python?",
-    "url": "https://pakstech.com/blog/python-switch-case/",
-    "upvotes": 27,
-    "author": "Sami_Lehtinen",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26683337"
-  },
-  {
-    "title": "Miss a payment? Good luck moving that car",
-    "url": "https://dealbook.nytimes.com/2014/09/24/miss-a-payment-good-luck-moving-that-car/",
-    "upvotes": 48,
-    "author": "ColinWright",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=26682605"
-  },
-  {
     "title": "50 Years of Pascal and Delphi Is in Power",
     "url": "https://blog.marcocantu.com/blog/2021-march-50years-pascal.html",
-    "upvotes": 114,
+    "upvotes": 119,
     "author": "pjmlp",
     "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26680790"
   },
   {
+    "title": "Miss a payment? Good luck moving that car",
+    "url": "https://dealbook.nytimes.com/2014/09/24/miss-a-payment-good-luck-moving-that-car/",
+    "upvotes": 49,
+    "author": "ColinWright",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26682605"
+  },
+  {
     "title": "Prefix Trees in Action",
     "url": "https://medium.com/amboss/prefix-trees-in-action-404a6105b6d5",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "YuukiRey",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26659528"
@@ -222,17 +230,9 @@
   {
     "title": "The Browser – WorldWideWeb Next Application",
     "url": "https://worldwideweb.cern.ch/worldwideweb/?",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "karlzt",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26680839"
-  },
-  {
-    "title": "Revision demoparty banned on Twitch mid-stream",
-    "url": "https://twitter.com/revision_party/status/1378427185518764034",
-    "upvotes": 81,
-    "author": "glistenemployed",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26684247"
   }
 ]
