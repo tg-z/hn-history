@@ -1,75 +1,83 @@
 [
   {
-    "title": "Windows 95 – How Does It Look Today?",
-    "url": "https://dmitryelj.medium.com/windows-95-how-does-it-look-today-feda837922d9",
-    "upvotes": 84,
-    "author": "hu3",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=26676957"
+    "title": "A man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761",
+    "url": "https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html",
+    "upvotes": 78,
+    "author": "hyperpape",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26677112"
   },
   {
     "title": "Isamu Akasaki, inventor of first efficient blue LED, has died",
     "url": "https://www.japantimes.co.jp/news/2021/04/02/national/isamu-akasaki-dies/",
-    "upvotes": 263,
+    "upvotes": 275,
     "author": "_Microft",
-    "comments": 83,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26674244"
   },
   {
-    "title": "A man thought opening a TXT file is fine, he thought wrong. macOS CVE-2019-8761",
-    "url": "https://www.paulosyibelo.com/2021/04/this-man-thought-opening-txt-file-is.html",
-    "upvotes": 18,
-    "author": "hyperpape",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26677112"
+    "title": "Fed up with the Mac, I spent six months with a Linux laptop",
+    "url": "https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html",
+    "upvotes": 45,
+    "author": "ecliptik",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26677035"
   },
   {
-    "title": "An insider-trading indictment shows ties to Bloomberg News scoops",
-    "url": "https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php",
-    "upvotes": 118,
-    "author": "onetimemanytime",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26674863"
-  },
-  {
-    "title": "Securing a Postgres Database",
-    "url": "https://goteleport.com/blog/securing-postgres-postgresql/",
-    "upvotes": 161,
-    "author": "bryanmikaelian",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=26674756"
-  },
-  {
-    "title": "The Matrix Calculus You Need for Deep Learning",
-    "url": "https://arxiv.org/abs/1802.01528",
-    "upvotes": 28,
-    "author": "Anon84",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26676729"
+    "title": "Windows 95 – How Does It Look Today?",
+    "url": "https://dmitryelj.medium.com/windows-95-how-does-it-look-today-feda837922d9",
+    "upvotes": 109,
+    "author": "hu3",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=26676957"
   },
   {
     "title": "Handles are the better pointers",
     "url": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html",
-    "upvotes": 37,
+    "upvotes": 45,
     "author": "zdw",
-    "comments": 19,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26676625"
   },
   {
-    "title": "1983: Suspended",
-    "url": "https://if50.substack.com/p/1983-suspended",
-    "upvotes": 78,
-    "author": "TheLocehiliosan",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26659415"
+    "title": "An insider-trading indictment shows ties to Bloomberg News scoops",
+    "url": "https://www.cjr.org/business_of_news/an-insider-trading-indictment-shows-ties-to-bloomberg-news-scoops.php",
+    "upvotes": 122,
+    "author": "onetimemanytime",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26674863"
+  },
+  {
+    "title": "The Matrix Calculus You Need for Deep Learning",
+    "url": "https://arxiv.org/abs/1802.01528",
+    "upvotes": 41,
+    "author": "Anon84",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26676729"
+  },
+  {
+    "title": "Securing a Postgres Database",
+    "url": "https://goteleport.com/blog/securing-postgres-postgresql/",
+    "upvotes": 169,
+    "author": "bryanmikaelian",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26674756"
   },
   {
     "title": "Microsoft Coffee",
     "url": "https://www.microsoftcoffee.org/",
-    "upvotes": 1260,
+    "upvotes": 1273,
     "author": "todsacerdoti",
-    "comments": 323,
+    "comments": 325,
     "link": "https://news.ycombinator.com/item?id=26671914"
+  },
+  {
+    "title": "1983: Suspended",
+    "url": "https://if50.substack.com/p/1983-suspended",
+    "upvotes": 81,
+    "author": "TheLocehiliosan",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26659415"
   },
   {
     "title": "SketchDeck",
@@ -78,39 +86,31 @@
   {
     "title": "Exploring Tweets with SQLite and WASM",
     "url": "https://divu.in/experiments/wasm/twitter-sqlite",
-    "upvotes": 47,
+    "upvotes": 51,
     "author": "divyenduz",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26675984"
   },
   {
     "title": "Cells Form into ‘Xenobots’ on Their Own",
     "url": "https://www.quantamagazine.org/cells-form-into-xenobots-on-their-own-20210331/",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "jbrot",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26676551"
   },
   {
-    "title": "Fed up with the Mac, I spent six months with a Linux laptop",
-    "url": "https://cfenollosa.com/blog/fed-up-with-the-mac-i-spent-six-months-with-a-linux-laptop-the-grass-is-not-greener-on-the-other-side.html",
-    "upvotes": 8,
-    "author": "ecliptik",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26677035"
-  },
-  {
     "title": "An HTTP server in a single .c file",
     "url": "https://unix4lyfe.org/darkhttpd/",
-    "upvotes": 214,
+    "upvotes": 217,
     "author": "egorfine",
-    "comments": 78,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26671851"
   },
   {
     "title": "Show HN: Grit – a multitree-based personal task manager",
     "url": "https://github.com/climech/grit",
-    "upvotes": 136,
+    "upvotes": 140,
     "author": "climech",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26673221"
@@ -118,15 +118,15 @@
   {
     "title": "I bought ISO 8601-1:2019 and 8601-2:2019",
     "url": "https://www.reddit.com/r/ISO8601/comments/mikuj1/i_bought_iso_860112019_and_860122019_ask_me/",
-    "upvotes": 134,
+    "upvotes": 136,
     "author": "DyslexicAtheist",
-    "comments": 82,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26672263"
   },
   {
     "title": "Big Book of Amiga Hardware",
     "url": "https://bigbookofamigahardware.com/",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "doener",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26673134"
@@ -134,26 +134,10 @@
   {
     "title": "IRS guidance for thieves, drug dealers, and corrupt officials",
     "url": "https://taxfoundation.org/irs-guidance-thieves-drug-dealers-and-corrupt-officials/",
-    "upvotes": 226,
+    "upvotes": 238,
     "author": "reese_john",
-    "comments": 143,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=26674279"
-  },
-  {
-    "title": "Mold of the Earth",
-    "url": "https://en.m.wikisource.org/wiki/Mold_of_the_Earth",
-    "upvotes": 13,
-    "author": "lermontov",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26661567"
-  },
-  {
-    "title": "Production Debugging with Uprobes and Bpftrace",
-    "url": "https://tenzir.com/blog/production-debugging-bpftrace-uprobes/",
-    "upvotes": 9,
-    "author": "HotHotLava",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26657540"
   },
   {
     "title": "Someone in the Kalahari Collected Crystals 105,000 Years Ago",
@@ -166,9 +150,9 @@
   {
     "title": "Why machine learning struggles with causality",
     "url": "https://bdtechtalks.com/2021/03/15/machine-learning-causality/",
-    "upvotes": 141,
+    "upvotes": 143,
     "author": "bschne",
-    "comments": 99,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=26670312"
   },
   {
@@ -176,63 +160,79 @@
     "url": "https://www.attejuvonen.fi/mouse/",
     "upvotes": 158,
     "author": "baobabKoodaa",
-    "comments": 101,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=26659860"
+  },
+  {
+    "title": "A Ghost in the War Machine",
+    "url": "https://www.nybooks.com/articles/2021/04/08/alexander-wolff-ghost-war-machine/",
+    "upvotes": 4,
+    "author": "pepys",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26668824"
+  },
+  {
+    "title": "Mold of the Earth",
+    "url": "https://en.m.wikisource.org/wiki/Mold_of_the_Earth",
+    "upvotes": 15,
+    "author": "lermontov",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26661567"
   },
   {
     "title": "Svalbard's Alcohol Quotas",
     "url": "https://www.sysselmannen.no/en/alcohol/",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "simonebrunozzi",
-    "comments": 127,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=26670465"
+  },
+  {
+    "title": "Who Owns the Nile?",
+    "url": "https://blog.datawrapper.de/who-owns-the-nile-map/",
+    "upvotes": 41,
+    "author": "danso",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26662121"
+  },
+  {
+    "title": "Supreme Court sides with Facebook in narrowing the federal robocall ban",
+    "url": "https://www.scotusblog.com/2021/04/supreme-court-sides-with-facebook-in-narrowing-the-federal-robocall-ban/",
+    "upvotes": 80,
+    "author": "protomyth",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26671603"
+  },
+  {
+    "title": "Production Debugging with Uprobes and Bpftrace",
+    "url": "https://tenzir.com/blog/production-debugging-bpftrace-uprobes/",
+    "upvotes": 9,
+    "author": "HotHotLava",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26657540"
   },
   {
     "title": "Show HN: Box2D fluid simulation in WebGL and WASM",
     "url": "https://birchlabs.co.uk/box2d-wasm-liquidfun/",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "Birch-san",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26674352"
   },
   {
-    "title": "Supreme Court sides with Facebook in narrowing the federal robocall ban",
-    "url": "https://www.scotusblog.com/2021/04/supreme-court-sides-with-facebook-in-narrowing-the-federal-robocall-ban/",
-    "upvotes": 79,
-    "author": "protomyth",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26671603"
-  },
-  {
-    "title": "Who Owns the Nile?",
-    "url": "https://blog.datawrapper.de/who-owns-the-nile-map/",
-    "upvotes": 38,
-    "author": "danso",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=26662121"
+    "title": "Does LEED Certification Save Energy? Evidence from Federal Buildings",
+    "url": "https://www.nber.org/papers/w28612",
+    "upvotes": 67,
+    "author": "throw0101a",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=26670813"
   },
   {
     "title": "The Multi-Generational LRU",
     "url": "https://lwn.net/SubscriberLink/851184/01351eb745a6405d/",
-    "upvotes": 70,
+    "upvotes": 72,
     "author": "chmaynard",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26671848"
-  },
-  {
-    "title": "Commoditize your complements",
-    "url": "https://www.joelonsoftware.com/2002/06/12/strategy-letter-v/",
-    "upvotes": 43,
-    "author": "clomond",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26657166"
-  },
-  {
-    "title": "Does LEED Certification Save Energy? Evidence from Federal Buildings",
-    "url": "https://www.nber.org/papers/w28612",
-    "upvotes": 66,
-    "author": "throw0101a",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26670813"
   }
 ]
