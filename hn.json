@@ -1,100 +1,124 @@
 [
   {
-    "title": "IPython as a System Shell",
-    "url": "https://ipython.readthedocs.io/en/stable/interactive/shell.html",
-    "upvotes": 39,
-    "author": "laktak",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26711434"
+    "title": "Please don't make me go back: some reasons I hope to never return to the office",
+    "url": "https://www.ryanmercer.com/ryansthoughts/2021/4/6/some-of-the-reasons-i-hope-work-from-home-continues-and-i-never-have-to-return-to-an-office",
+    "upvotes": 186,
+    "author": "ryanmercer",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=26712524"
   },
   {
-    "title": "Programming is hard",
-    "url": "https://dorinlazar.ro/2021-02-programming-is-hard/",
-    "upvotes": 110,
-    "author": "zuzuleinen",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26711862"
+    "title": "IPython as a System Shell",
+    "url": "https://ipython.readthedocs.io/en/stable/interactive/shell.html",
+    "upvotes": 59,
+    "author": "laktak",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26711434"
   },
   {
     "title": "Breaking GitHub Private Pages for $35k",
     "url": "https://robertchen.cc/blog/2021/04/03/github-pages-xss",
-    "upvotes": 494,
+    "upvotes": 530,
     "author": "SuperSandro2000",
-    "comments": 61,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26709159"
   },
   {
     "title": "Fselect: Find files with SQL-like queries",
     "url": "https://github.com/jhspetersson/fselect",
-    "upvotes": 13,
+    "upvotes": 46,
     "author": "ingve",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26697932"
+  },
+  {
+    "title": "Programming is hard",
+    "url": "https://dorinlazar.ro/2021-02-programming-is-hard/",
+    "upvotes": 151,
+    "author": "zuzuleinen",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=26711862"
   },
   {
     "title": "Things I Hate About PostgreSQL",
     "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
-    "upvotes": 217,
+    "upvotes": 244,
     "author": "latch",
-    "comments": 129,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=26709019"
   },
   {
-    "title": "The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned",
+    "title": "The Facebook phone numbers are now searchable in Have I Been Pwned",
     "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
-    "upvotes": 311,
+    "upvotes": 339,
     "author": "helb",
-    "comments": 144,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=26709848"
+  },
+  {
+    "title": "Parser Combinators in Elixir",
+    "url": "https://serokell.io/blog/parser-combinators-in-elixir",
+    "upvotes": 16,
+    "author": "ltrapr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26711997"
   },
   {
     "title": "Kallithea – Self-hosted alternative to GitHub",
     "url": "https://kallithea-scm.org/",
-    "upvotes": 123,
+    "upvotes": 130,
     "author": "dragonsh",
-    "comments": 69,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26709357"
   },
   {
     "title": "Django 3.2",
     "url": "https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/",
-    "upvotes": 250,
+    "upvotes": 274,
     "author": "samirelanduk",
-    "comments": 101,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26710013"
   },
   {
     "title": "Neuroscientists discover molecular mechanism that allows memories to form",
     "url": "https://news.mit.edu/2020/engram-memories-form-1005",
-    "upvotes": 95,
+    "upvotes": 106,
     "author": "andyxor",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26709053"
   },
   {
     "title": "Google’s copying of the Java SE API was fair use [pdf]",
     "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
-    "upvotes": 3802,
+    "upvotes": 3817,
     "author": "pdoconnell",
-    "comments": 874,
+    "comments": 876,
     "link": "https://news.ycombinator.com/item?id=26699106"
-  },
-  {
-    "title": "Facebook Analytics will no longer be available",
-    "url": "https://www.facebook.com/business/help/966883707418907",
-    "upvotes": 156,
-    "author": "oblib",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26708061"
   },
   {
     "title": "Truebill is hiring an IT Engineer",
     "url": "item?id=26710782"
   },
   {
-    "title": "Show HN: Xplr – A hackable, minimal, fast TUI file explorer, written in Rust",
+    "title": "Facebook Analytics will no longer be available",
+    "url": "https://www.facebook.com/business/help/966883707418907",
+    "upvotes": 163,
+    "author": "oblib",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=26708061"
+  },
+  {
+    "title": "Sublime Text 4 – Build 4000 has native Apple Silicon Support",
+    "url": "https://twitter.com/wbond/status/1379430132138541056",
+    "upvotes": 57,
+    "author": "outcoldman",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26711718"
+  },
+  {
+    "title": "Show HN: Xplr – A hackable, minimal, fast TUI file explorer",
     "url": "https://github.com/sayanarijit/xplr",
-    "upvotes": 161,
+    "upvotes": 165,
     "author": "sayanarijit",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26708089"
@@ -102,137 +126,113 @@
   {
     "title": "How Browsers Lay Out Web Pages",
     "url": "https://browser.engineering/layout.html",
-    "upvotes": 224,
+    "upvotes": 232,
     "author": "pavpanchekha",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26707368"
   },
   {
-    "title": "Parser Combinators in Elixir",
-    "url": "https://serokell.io/blog/parser-combinators-in-elixir",
-    "upvotes": 6,
-    "author": "ltrapr",
+    "title": "Clear link between AstraZeneca vaccine and rare blood clots, EMA official",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-astrazeneca-vaccin/clear-link-between-astrazeneca-vaccine-and-rare-blood-clots-in-brain-ema-official-tells-paper-idUSKBN2BT1ER",
+    "upvotes": 4,
+    "author": "pseudolus",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26711997"
+    "link": "https://news.ycombinator.com/item?id=26713105"
   },
   {
     "title": "A detailed guide to SSO on Kubernetes",
     "url": "http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "talkingquickly",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26709628"
-  },
-  {
-    "title": "Jakub Konka Hired Full Time",
-    "url": "https://ziglang.org/news/jakub-konka-hired-full-time/",
-    "upvotes": 146,
-    "author": "komuW",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26709617"
-  },
-  {
-    "title": "To upgrade the SSD in a Mac Pro, you need a second Mac computer",
-    "url": "https://support.apple.com/en-us/HT210626",
-    "upvotes": 157,
-    "author": "fortran77",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26707737"
-  },
-  {
-    "title": "Microsoft Edge market share grew 13x in the past 12 months, overtaking Firefox",
-    "url": "https://www.bleepingcomputer.com/news/microsoft/new-microsoft-edge-grew-1-300-percent-this-year-overtaking-firefox/",
-    "upvotes": 25,
-    "author": "marshmallow_12",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=26712084"
-  },
-  {
-    "title": "“I’ll Finish It This Week” and Other Lies",
-    "url": "https://arxiv.org/abs/2103.16574",
-    "upvotes": 252,
-    "author": "lnwlebjel",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=26706424"
   },
   {
     "title": "Do games like Factorio or Eve Online sap the intellectual potential of humanity?",
     "url": "https://www.reddit.com/r/slatestarcodex/comments/ml00ac/how_much_are_games_like_factorio_and_eve_online/",
-    "upvotes": 42,
+    "upvotes": 54,
     "author": "optimalsolver",
-    "comments": 74,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26711308"
   },
   {
-    "title": "Sublime Text 4 – Build 4000 has native Apple Silicon Support",
-    "url": "https://twitter.com/wbond/status/1379430132138541056",
-    "upvotes": 25,
-    "author": "outcoldman",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26711718"
+    "title": "The Daily Standup Is a Waste of Time",
+    "url": "https://buildthestage.com/the-daily-standup-is-a-waste-of-time/",
+    "upvotes": 24,
+    "author": "strife25",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26709951"
   },
   {
-    "title": "Fortran is getting more popular",
-    "url": "https://www.zdnet.com/article/this-old-programming-language-is-suddenly-getting-more-popular-again/",
-    "upvotes": 20,
-    "author": "milancurcic",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26711698"
+    "title": "Preview of Microsoft Build of OpenJDK",
+    "url": "https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/",
+    "upvotes": 6,
+    "author": "velmu",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26713028"
+  },
+  {
+    "title": "Apple Can Own I/O to Own the Universe",
+    "url": "https://diff.substack.com/p/how-apple-can-own-io-to-own-the-universe",
+    "upvotes": 99,
+    "author": "ejz",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26706750"
+  },
+  {
+    "title": "Credit Suisse Loses 4.7B",
+    "url": "https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483",
+    "upvotes": 75,
+    "author": "cwwc",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26710344"
   },
   {
     "title": "Early Lisp Part II",
     "url": "http://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html?m=1",
-    "upvotes": 67,
+    "upvotes": 69,
     "author": "wglb",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26694972"
   },
   {
-    "title": "Credit Suisse Loses 4.7B",
-    "url": "https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483",
-    "upvotes": 63,
-    "author": "cwwc",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26710344"
-  },
-  {
-    "title": "Apple Can Own I/O to Own the Universe",
-    "url": "https://diff.substack.com/p/how-apple-can-own-io-to-own-the-universe",
-    "upvotes": 95,
-    "author": "ejz",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26706750"
-  },
-  {
     "title": "Booking.com fined €475k for reporting data breach too late",
     "url": "https://therecord.media/booking-com-fined-e475000-for-reporting-data-breach-too-late/",
-    "upvotes": 204,
+    "upvotes": 218,
     "author": "DyslexicAtheist",
-    "comments": 72,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26708959"
-  },
-  {
-    "title": "NASA Startup Studio",
-    "url": "https://www.fedtech.io/nasastartupstudio",
-    "upvotes": 115,
-    "author": "Erikun",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26688091"
   },
   {
     "title": "Yahoo Answers to shut down May 4, 2021",
     "url": "https://uk.help.yahoo.com/kb/SLN35642.html",
-    "upvotes": 524,
+    "upvotes": 531,
     "author": "Gaessaki",
-    "comments": 332,
+    "comments": 334,
     "link": "https://news.ycombinator.com/item?id=26701045"
   },
   {
-    "title": "Mathematicians Settle Erdős Coloring Conjecture",
-    "url": "https://www.quantamagazine.org/mathematicians-settle-erdos-coloring-conjecture-20210405/",
-    "upvotes": 81,
-    "author": "pseudolus",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26706570"
+    "title": "NASA Startup Studio",
+    "url": "https://www.fedtech.io/nasastartupstudio",
+    "upvotes": 116,
+    "author": "Erikun",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26688091"
+  },
+  {
+    "title": "“I’ll Finish It This Week” and Other Lies",
+    "url": "https://arxiv.org/abs/2103.16574",
+    "upvotes": 262,
+    "author": "lnwlebjel",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=26706424"
+  },
+  {
+    "title": "Leaked phone number of Mark Zuckerberg reveals he is on Signal",
+    "url": "https://www.indiatoday.in/technology/news/story/leaked-phone-number-of-mark-zuckerberg-reveals-he-is-on-signal-1787396-2021-04-05",
+    "upvotes": 301,
+    "author": "gaius_baltar",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=26704472"
   }
 ]
