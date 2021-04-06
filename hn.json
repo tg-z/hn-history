@@ -2,91 +2,83 @@
   {
     "title": "Breaking GitHub Private Pages for $35k",
     "url": "https://robertchen.cc/blog/2021/04/03/github-pages-xss",
-    "upvotes": 333,
+    "upvotes": 374,
     "author": "SuperSandro2000",
-    "comments": 45,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26709159"
   },
   {
     "title": "The Facebook Phone Numbers Are Now Searchable in Have I Been Pwned",
     "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
-    "upvotes": 208,
+    "upvotes": 234,
     "author": "helb",
-    "comments": 89,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=26709848"
-  },
-  {
-    "title": "Zig first full-time dev hired",
-    "url": "https://ziglang.org/news/jakub-konka-hired-full-time/",
-    "upvotes": 77,
-    "author": "komuW",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26709617"
-  },
-  {
-    "title": "Kallithea – Self-hosted alternative to GitHub",
-    "url": "https://kallithea-scm.org/",
-    "upvotes": 90,
-    "author": "dragonsh",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26709357"
   },
   {
     "title": "Django 3.2",
     "url": "https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/",
-    "upvotes": 163,
+    "upvotes": 185,
     "author": "samirelanduk",
-    "comments": 67,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26710013"
+  },
+  {
+    "title": "Kallithea – Self-hosted alternative to GitHub",
+    "url": "https://kallithea-scm.org/",
+    "upvotes": 96,
+    "author": "dragonsh",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26709357"
   },
   {
     "title": "Neuroscientists discover molecular mechanism that allows memories to form",
     "url": "https://news.mit.edu/2020/engram-memories-form-1005",
-    "upvotes": 66,
+    "upvotes": 72,
     "author": "andyxor",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26709053"
   },
   {
+    "title": "Things I Hate About PostgreSQL",
+    "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
+    "upvotes": 165,
+    "author": "latch",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26709019"
+  },
+  {
     "title": "Google’s copying of the Java SE API was fair use [pdf]",
     "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
-    "upvotes": 3750,
+    "upvotes": 3763,
     "author": "pdoconnell",
     "comments": 868,
     "link": "https://news.ycombinator.com/item?id=26699106"
+  },
+  {
+    "title": "Facebook Analytics will no longer be available",
+    "url": "https://www.facebook.com/business/help/966883707418907",
+    "upvotes": 138,
+    "author": "oblib",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26708061"
   },
   {
     "title": "Truebill is hiring an IT Engineer",
     "url": "item?id=26710782"
   },
   {
-    "title": "Things I Hate About PostgreSQL",
-    "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
-    "upvotes": 152,
-    "author": "latch",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=26709019"
-  },
-  {
-    "title": "Facebook Analytics will no longer be available",
-    "url": "https://www.facebook.com/business/help/966883707418907",
-    "upvotes": 131,
-    "author": "oblib",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=26708061"
-  },
-  {
     "title": "Show HN: Xplr – A hackable, minimal, fast TUI file explorer, written in Rust",
     "url": "https://github.com/sayanarijit/xplr",
-    "upvotes": 143,
+    "upvotes": 149,
     "author": "sayanarijit",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26708089"
   },
   {
     "title": "How Browsers Lay Out Web Pages",
     "url": "https://browser.engineering/layout.html",
-    "upvotes": 203,
+    "upvotes": 208,
     "author": "pavpanchekha",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26707368"
@@ -94,145 +86,153 @@
   {
     "title": "A detailed guide to SSO on Kubernetes",
     "url": "http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide",
-    "upvotes": 22,
+    "upvotes": 32,
     "author": "talkingquickly",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26709628"
+  },
+  {
+    "title": "Jakub Konka Hired Full Time",
+    "url": "https://ziglang.org/news/jakub-konka-hired-full-time/",
+    "upvotes": 119,
+    "author": "komuW",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26709617"
   },
   {
     "title": "“I’ll Finish It This Week” and Other Lies",
     "url": "https://arxiv.org/abs/2103.16574",
-    "upvotes": 215,
+    "upvotes": 223,
     "author": "lnwlebjel",
-    "comments": 80,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26706424"
+  },
+  {
+    "title": "To upgrade the SSD in a Mac Pro, you need a second Mac computer",
+    "url": "https://support.apple.com/en-us/HT210626",
+    "upvotes": 119,
+    "author": "fortran77",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=26707737"
+  },
+  {
+    "title": "Researchers estimate the richest 1% dodge taxes on over a fifth of their income",
+    "url": "https://www.washingtonpost.com/business/2021/03/26/wealthy-tax-evasion/",
+    "upvotes": 13,
+    "author": "paulpauper",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26711182"
   },
   {
     "title": "Booking.com fined €475k for reporting data breach too late",
     "url": "https://therecord.media/booking-com-fined-e475000-for-reporting-data-breach-too-late/",
-    "upvotes": 171,
+    "upvotes": 176,
     "author": "DyslexicAtheist",
-    "comments": 65,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26708959"
   },
   {
     "title": "Early Lisp Part II",
     "url": "http://funcall.blogspot.com/2021/04/early-lisp-part-ii-apply-redux.html?m=1",
-    "upvotes": 57,
+    "upvotes": 59,
     "author": "wglb",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26694972"
   },
   {
-    "title": "To upgrade the SSD in a Mac Pro, you need a second Mac computer",
-    "url": "https://support.apple.com/en-us/HT210626",
-    "upvotes": 104,
-    "author": "fortran77",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26707737"
+    "title": "Apple Can Own I/O to Own the Universe",
+    "url": "https://diff.substack.com/p/how-apple-can-own-io-to-own-the-universe",
+    "upvotes": 81,
+    "author": "ejz",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26706750"
   },
   {
     "title": "NASA Startup Studio",
     "url": "https://www.fedtech.io/nasastartupstudio",
-    "upvotes": 101,
+    "upvotes": 107,
     "author": "Erikun",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26688091"
-  },
-  {
-    "title": "Apple Can Own I/O to Own the Universe",
-    "url": "https://diff.substack.com/p/how-apple-can-own-io-to-own-the-universe",
-    "upvotes": 76,
-    "author": "ejz",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26706750"
   },
   {
     "title": "Yahoo Answers to shut down May 4, 2021",
     "url": "https://uk.help.yahoo.com/kb/SLN35642.html",
-    "upvotes": 499,
+    "upvotes": 503,
     "author": "Gaessaki",
-    "comments": 320,
+    "comments": 322,
     "link": "https://news.ycombinator.com/item?id=26701045"
+  },
+  {
+    "title": "Do Games Like Factorio or Eve Online Sap the Intellectual Potential of Humanity?",
+    "url": "https://www.reddit.com/r/slatestarcodex/comments/ml00ac/how_much_are_games_like_factorio_and_eve_online/",
+    "upvotes": 10,
+    "author": "optimalsolver",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26711308"
   },
   {
     "title": "Mathematicians Settle Erdős Coloring Conjecture",
     "url": "https://www.quantamagazine.org/mathematicians-settle-erdos-coloring-conjecture-20210405/",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "pseudolus",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26706570"
   },
   {
-    "title": "Chinese engineers cracked Apple's M1 chip and successfully upgrade RAM and SSD",
-    "url": "https://inf.news/en/digital/b5599514f985bf2acd947d74d74a203d.html",
-    "upvotes": 51,
-    "author": "quyleanh",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26710028"
+    "title": "Credit Suisse Loses 4.7B",
+    "url": "https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483",
+    "upvotes": 28,
+    "author": "cwwc",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26710344"
   },
   {
     "title": "Schoonschip – Unique residential area: floating, sustainable, circular",
     "url": "http://www.spaceandmatter.nl/schoonschip",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "pseudolus",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26680269"
   },
   {
     "title": "Leaked phone number of Mark Zuckerberg reveals he is on Signal",
     "url": "https://www.indiatoday.in/technology/news/story/leaked-phone-number-of-mark-zuckerberg-reveals-he-is-on-signal-1787396-2021-04-05",
-    "upvotes": 239,
+    "upvotes": 255,
     "author": "gaius_baltar",
-    "comments": 108,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26704472"
   },
   {
     "title": "Writing tools I learned from The Economist",
     "url": "https://builtbywords.substack.com/p/writing-tools-i-learned-from-the",
-    "upvotes": 561,
+    "upvotes": 564,
     "author": "ahsoli",
     "comments": 221,
     "link": "https://news.ycombinator.com/item?id=26700319"
   },
   {
-    "title": "Credit Suisse Loses 4.7B",
-    "url": "https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483",
-    "upvotes": 20,
-    "author": "cwwc",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26710344"
-  },
-  {
     "title": "Have I Been Facebooked?",
     "url": "https://haveibeenfacebooked.com/",
-    "upvotes": 324,
+    "upvotes": 332,
     "author": "mendelmaleh",
-    "comments": 186,
+    "comments": 189,
     "link": "https://news.ycombinator.com/item?id=26703491"
+  },
+  {
+    "title": "Chinese engineers cracked Apple's M1 chip and successfully upgrade RAM and SSD",
+    "url": "https://inf.news/en/digital/b5599514f985bf2acd947d74d74a203d.html",
+    "upvotes": 67,
+    "author": "quyleanh",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26710028"
   },
   {
     "title": "FDA approves new ADHD drug for children",
     "url": "https://www.axios.com/fda-approves-new-adhd-drug-for-children-d7bb24d4-7bf2-4a5e-a505-833ed57dee7a.html",
-    "upvotes": 81,
+    "upvotes": 87,
     "author": "cwwc",
-    "comments": 237,
+    "comments": 247,
     "link": "https://news.ycombinator.com/item?id=26706187"
-  },
-  {
-    "title": "Legalizing gay marriage in Crusader Kings III with Ghidra",
-    "url": "https://waffleironer.medium.com/legalizing-gay-marriage-in-crusader-kings-iii-with-ghidra-2602e6aa8689",
-    "upvotes": 379,
-    "author": "ice3",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=26703404"
-  },
-  {
-    "title": "Optimal Stopping",
-    "url": "https://en.wikipedia.org/wiki/Optimal_stopping",
-    "upvotes": 73,
-    "author": "elsewhen",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26705742"
   }
 ]
