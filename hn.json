@@ -2,7 +2,7 @@
   {
     "title": "Wuffs’ PNG image decoder",
     "url": "https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html",
-    "upvotes": 270,
+    "upvotes": 275,
     "author": "est31",
     "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26714831"
@@ -10,58 +10,66 @@
   {
     "title": "Intel 3rd gen Xeon Scalable",
     "url": "https://www.anandtech.com/show/16594/intel-3rd-gen-xeon-scalable-review",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "totalZero",
-    "comments": 152,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=26713945"
   },
   {
     "title": "Eliminating Data Races in Firefox",
     "url": "https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/",
-    "upvotes": 316,
+    "upvotes": 319,
     "author": "caution",
-    "comments": 79,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26713037"
   },
   {
     "title": "Soil bacteria could improve crop yields, via fungi",
     "url": "https://news.cornell.edu/stories/2021/04/soil-bacteria-could-improve-crop-yields-fungi",
-    "upvotes": 31,
+    "upvotes": 39,
     "author": "PaulHoule",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26716800"
-  },
-  {
-    "title": "How we bootstrapped a $1M ARR email client",
-    "url": "https://missiveapp.com/blog/how-we-built-1m-arr-email-client",
-    "upvotes": 158,
-    "author": "plehoux",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=26713949"
   },
   {
     "title": "Signal adds a payments feature with a privacy-focused cryptocurrency",
     "url": "https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/",
-    "upvotes": 151,
+    "upvotes": 167,
     "author": "josh2600",
-    "comments": 257,
+    "comments": 276,
     "link": "https://news.ycombinator.com/item?id=26713827"
   },
   {
-    "title": "Breaking GitHub Private Pages for $35k",
-    "url": "https://robertchen.cc/blog/2021/04/03/github-pages-xss",
-    "upvotes": 733,
-    "author": "SuperSandro2000",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26709159"
+    "title": "How we bootstrapped a $1M ARR email client",
+    "url": "https://missiveapp.com/blog/how-we-built-1m-arr-email-client",
+    "upvotes": 166,
+    "author": "plehoux",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26713949"
   },
   {
     "title": "Programming is hard",
     "url": "https://dorinlazar.ro/2021-02-programming-is-hard/",
-    "upvotes": 320,
+    "upvotes": 337,
     "author": "zuzuleinen",
-    "comments": 300,
+    "comments": 315,
     "link": "https://news.ycombinator.com/item?id=26711862"
+  },
+  {
+    "title": "Apache Mesos to be moved to Attic",
+    "url": "https://lists.apache.org/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E",
+    "upvotes": 189,
+    "author": "coolandsmartrr",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=26713082"
+  },
+  {
+    "title": "Bronze Age slab found in France is oldest 3D map in Europe",
+    "url": "https://www.bbc.com/news/world-europe-56648055",
+    "upvotes": 9,
+    "author": "HenryBemis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26717729"
   },
   {
     "title": "The Muse",
@@ -70,23 +78,23 @@
   {
     "title": "Google AI scientist Bengio resigns after colleagues' firings – email",
     "url": "https://www.reuters.com/article/us-alphabet-google-research-bengio/google-ai-scientist-bengio-resigns-after-colleagues-firings-email-idUSKBN2BT2JT",
-    "upvotes": 36,
+    "upvotes": 51,
     "author": "Anon84",
-    "comments": 15,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26717795"
   },
   {
-    "title": "Apache Mesos to be moved to Attic",
-    "url": "https://lists.apache.org/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E",
-    "upvotes": 183,
-    "author": "coolandsmartrr",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=26713082"
+    "title": "Ordering Requests to Accelerate Disk I/O",
+    "url": "https://pkolaczk.github.io/disk-access-ordering/",
+    "upvotes": 11,
+    "author": "pkolaczk",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26695838"
   },
   {
     "title": "Parser Combinators in Elixir",
     "url": "https://serokell.io/blog/parser-combinators-in-elixir",
-    "upvotes": 129,
+    "upvotes": 130,
     "author": "ltrapr",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26711997"
@@ -94,55 +102,39 @@
   {
     "title": "Playwright-test – cross-browser end-to-end test suite with Playwright",
     "url": "https://github.com/microsoft/playwright-test",
-    "upvotes": 49,
+    "upvotes": 53,
     "author": "roschdal",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26696363"
   },
   {
-    "title": "Ordering Requests to Accelerate Disk I/O",
-    "url": "https://pkolaczk.github.io/disk-access-ordering/",
-    "upvotes": 6,
-    "author": "pkolaczk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26695838"
+    "title": "Fselect: Find files with SQL-like queries",
+    "url": "https://github.com/jhspetersson/fselect",
+    "upvotes": 175,
+    "author": "ingve",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26697932"
+  },
+  {
+    "title": "Ludus Latrunculorum",
+    "url": "https://en.wikipedia.org/wiki/Ludus_latrunculorum",
+    "upvotes": 39,
+    "author": "diodorus",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26699986"
   },
   {
     "title": "Rapidly Build SaaS apps on ASP.NET/ServiceStack based on zero-trust security",
     "url": "https://aspsecuritykit.net/?src=hnzt",
     "upvotes": 25,
     "author": "kumaranv",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26715035"
-  },
-  {
-    "title": "Ludus Latrunculorum",
-    "url": "https://en.wikipedia.org/wiki/Ludus_latrunculorum",
-    "upvotes": 37,
-    "author": "diodorus",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26699986"
-  },
-  {
-    "title": "Fselect: Find files with SQL-like queries",
-    "url": "https://github.com/jhspetersson/fselect",
-    "upvotes": 171,
-    "author": "ingve",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26697932"
-  },
-  {
-    "title": "Things I hate about PostgreSQL",
-    "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
-    "upvotes": 370,
-    "author": "latch",
-    "comments": 219,
-    "link": "https://news.ycombinator.com/item?id=26709019"
   },
   {
     "title": "IPython as a System Shell",
     "url": "https://ipython.readthedocs.io/en/stable/interactive/shell.html",
-    "upvotes": 115,
+    "upvotes": 116,
     "author": "laktak",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26711434"
@@ -150,15 +142,15 @@
   {
     "title": "Google open-sources the Lyra audio codec",
     "url": "https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html",
-    "upvotes": 128,
+    "upvotes": 139,
     "author": "chmaynard",
-    "comments": 91,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26713790"
   },
   {
     "title": "Why printk",
     "url": "https://lwn.net/SubscriberLink/800946/a9ad9aba46f14e78/",
-    "upvotes": 26,
+    "upvotes": 30,
     "author": "Tomte",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26696063"
@@ -166,58 +158,74 @@
   {
     "title": "Google’s copying of the Java SE API was fair use [pdf]",
     "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
-    "upvotes": 3906,
+    "upvotes": 3909,
     "author": "pdoconnell",
-    "comments": 897,
+    "comments": 898,
     "link": "https://news.ycombinator.com/item?id=26699106"
   },
   {
     "title": "Maslow's Pyramid of Code Review",
     "url": "http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html",
-    "upvotes": 84,
+    "upvotes": 88,
     "author": "nkjoep",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26711551"
-  },
-  {
-    "title": "I refused to become an FBI informant, the government put me on the no fly list",
-    "url": "https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/",
-    "upvotes": 846,
-    "author": "jbegley",
-    "comments": 299,
-    "link": "https://news.ycombinator.com/item?id=26715644"
   },
   {
     "title": "The Facebook phone numbers are now searchable in Have I Been Pwned",
     "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
-    "upvotes": 490,
+    "upvotes": 493,
     "author": "helb",
-    "comments": 212,
+    "comments": 217,
     "link": "https://news.ycombinator.com/item?id=26709848"
   },
   {
     "title": "Kallithea – Self-hosted alternative to GitHub",
     "url": "https://kallithea-scm.org/",
-    "upvotes": 177,
+    "upvotes": 180,
     "author": "dragonsh",
     "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26709357"
   },
   {
-    "title": "Neuroscientists discover molecular mechanism that allows memories to form",
-    "url": "https://news.mit.edu/2020/engram-memories-form-1005",
-    "upvotes": 153,
-    "author": "andyxor",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26709053"
+    "title": "Breaking GitHub Private Pages for $35k",
+    "url": "https://robertchen.cc/blog/2021/04/03/github-pages-xss",
+    "upvotes": 742,
+    "author": "SuperSandro2000",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=26709159"
+  },
+  {
+    "title": "I refused to become an FBI informant, the government put me on the no fly list",
+    "url": "https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/",
+    "upvotes": 875,
+    "author": "jbegley",
+    "comments": 314,
+    "link": "https://news.ycombinator.com/item?id=26715644"
   },
   {
     "title": "ClojureScript 1.10.844",
     "url": "https://clojurescript.org/news/2021-04-06-release",
-    "upvotes": 132,
+    "upvotes": 136,
     "author": "tosh",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26713329"
+  },
+  {
+    "title": "Rust in the Android Platform",
+    "url": "https://security.googleblog.com/2021/04/rust-in-android-platform.html",
+    "upvotes": 161,
+    "author": "theafh",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26714478"
+  },
+  {
+    "title": "Django 3.2",
+    "url": "https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/",
+    "upvotes": 366,
+    "author": "samirelanduk",
+    "comments": 153,
+    "link": "https://news.ycombinator.com/item?id=26710013"
   },
   {
     "title": "The Computational Expressiveness of a Model Train Set: A Paperlet",
@@ -226,13 +234,5 @@
     "author": "feross",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26695456"
-  },
-  {
-    "title": "Rust in the Android Platform",
-    "url": "https://security.googleblog.com/2021/04/rust-in-android-platform.html",
-    "upvotes": 153,
-    "author": "theafh",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26714478"
   }
 ]
