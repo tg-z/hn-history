@@ -2,55 +2,99 @@
   {
     "title": "Eliminating Data Races in Firefox",
     "url": "https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/",
-    "upvotes": 65,
+    "upvotes": 123,
     "author": "caution",
-    "comments": 5,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26713037"
   },
   {
-    "title": "Apache Mesos to be moved to Attic",
-    "url": "https://lists.apache.org/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E",
-    "upvotes": 45,
-    "author": "coolandsmartrr",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26713082"
-  },
-  {
-    "title": "Lyra – enabling voice calls for the next billion users",
-    "url": "https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html",
-    "upvotes": 20,
-    "author": "chmaynard",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26713790"
+    "title": "Intel Launches 10nm 'Ice Lake' Datacenter CPU with Up to 40 Cores",
+    "url": "https://www.hpcwire.com/2021/04/06/intel-launches-10nm-ice-lake-datacenter-cpu-with-up-to-40-cores/",
+    "upvotes": 36,
+    "author": "rbanffy",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26713976"
   },
   {
     "title": "Django 3.2 – News on compressed fixtures and fixtures compression",
     "url": "https://www.paulox.net/2021/04/06/django-32-news-on-compressed-fixtures-and-fixtures-compression/",
-    "upvotes": 16,
+    "upvotes": 27,
     "author": "pauloxnet",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26713534"
   },
   {
     "title": "Breaking GitHub Private Pages for $35k",
     "url": "https://robertchen.cc/blog/2021/04/03/github-pages-xss",
-    "upvotes": 586,
+    "upvotes": 608,
     "author": "SuperSandro2000",
-    "comments": 72,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26709159"
+  },
+  {
+    "title": "Help Us Test Payments in Signal",
+    "url": "https://signal.org/blog/help-us-test-payments-in-signal/",
+    "upvotes": 22,
+    "author": "josh2600",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26713953"
+  },
+  {
+    "title": "A Decade of Delusion at WeWork",
+    "url": "https://www.newyorker.com/culture/culture-desk/the-wework-documentary-explores-a-decade-of-delusion",
+    "upvotes": 11,
+    "author": "irtefa",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26714032"
+  },
+  {
+    "title": "How We Bootstrapped a $1M ARR Email Client",
+    "url": "https://missiveapp.com/blog/how-we-built-1m-arr-email-client",
+    "upvotes": 12,
+    "author": "plehoux",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26713949"
+  },
+  {
+    "title": "A majority of uninfected adults show pre-existing antibodies against SARS-CoV-2",
+    "url": "https://insight.jci.org/articles/view/146316",
+    "upvotes": 66,
+    "author": "nradov",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26713188"
+  },
+  {
+    "title": "Lyra – enabling voice calls for the next billion users",
+    "url": "https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html",
+    "upvotes": 47,
+    "author": "chmaynard",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26713790"
+  },
+  {
+    "title": "Apache Mesos to be moved to Attic",
+    "url": "https://lists.apache.org/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E",
+    "upvotes": 72,
+    "author": "coolandsmartrr",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26713082"
+  },
+  {
+    "title": "ContentFly",
+    "url": "https://www.ycombinator.com/companies/contentfly"
   },
   {
     "title": "IPython as a System Shell",
     "url": "https://ipython.readthedocs.io/en/stable/interactive/shell.html",
-    "upvotes": 75,
+    "upvotes": 82,
     "author": "laktak",
-    "comments": 30,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26711434"
   },
   {
     "title": "Parser Combinators in Elixir",
     "url": "https://serokell.io/blog/parser-combinators-in-elixir",
-    "upvotes": 51,
+    "upvotes": 60,
     "author": "ltrapr",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26711997"
@@ -58,105 +102,73 @@
   {
     "title": "Fselect: Find files with SQL-like queries",
     "url": "https://github.com/jhspetersson/fselect",
-    "upvotes": 87,
+    "upvotes": 101,
     "author": "ingve",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26697932"
-  },
-  {
-    "title": "A majority of uninfected adults show pre-existing antibodies against SARS-CoV-2",
-    "url": "https://insight.jci.org/articles/view/146316",
-    "upvotes": 44,
-    "author": "nradov",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26713188"
   },
   {
     "title": "Branch Specialization",
     "url": "https://distill.pub/2020/circuits/branch-specialization/",
-    "upvotes": 11,
+    "upvotes": 17,
     "author": "rrherr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26713520"
   },
   {
-    "title": "The Zeus of Economics Has Died",
-    "url": "https://www.forbes.com/sites/briandomitrovic/2021/04/04/the-zeus-of-economics-has-died",
-    "upvotes": 10,
-    "author": "RickJWagner",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26697773"
+    "title": "ClojureScript 1.10.844",
+    "url": "https://clojurescript.org/news/2021-04-06-release",
+    "upvotes": 50,
+    "author": "tosh",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26713329"
   },
   {
-    "title": "I hope work from home continues",
-    "url": "https://www.ryanmercer.com/ryansthoughts/2021/4/6/some-of-the-reasons-i-hope-work-from-home-continues-and-i-never-have-to-return-to-an-office",
-    "upvotes": 472,
-    "author": "ryanmercer",
-    "comments": 361,
-    "link": "https://news.ycombinator.com/item?id=26712524"
+    "title": "The Zeus of Economics Has Died",
+    "url": "https://www.forbes.com/sites/briandomitrovic/2021/04/04/the-zeus-of-economics-has-died",
+    "upvotes": 15,
+    "author": "RickJWagner",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26697773"
   },
   {
     "title": "Things I Hate About PostgreSQL",
     "url": "https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791",
-    "upvotes": 274,
+    "upvotes": 285,
     "author": "latch",
-    "comments": 155,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=26709019"
-  },
-  {
-    "title": "Intel Launches 10nm 'Ice Lake' Datacenter CPU with Up to 40 Cores",
-    "url": "https://www.hpcwire.com/2021/04/06/intel-launches-10nm-ice-lake-datacenter-cpu-with-up-to-40-cores/",
-    "upvotes": 3,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26713976"
-  },
-  {
-    "title": "ClojureScript 1.10.844",
-    "url": "https://clojurescript.org/news/2021-04-06-release",
-    "upvotes": 27,
-    "author": "tosh",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26713329"
-  },
-  {
-    "title": "The Facebook phone numbers are now searchable in Have I Been Pwned",
-    "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
-    "upvotes": 374,
-    "author": "helb",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=26709848"
   },
   {
     "title": "Kallithea – Self-hosted alternative to GitHub",
     "url": "https://kallithea-scm.org/",
-    "upvotes": 140,
+    "upvotes": 144,
     "author": "dragonsh",
-    "comments": 82,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=26709357"
+  },
+  {
+    "title": "The Facebook phone numbers are now searchable in Have I Been Pwned",
+    "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
+    "upvotes": 392,
+    "author": "helb",
+    "comments": 172,
+    "link": "https://news.ycombinator.com/item?id=26709848"
   },
   {
     "title": "Neuroscientists discover molecular mechanism that allows memories to form",
     "url": "https://news.mit.edu/2020/engram-memories-form-1005",
-    "upvotes": 115,
+    "upvotes": 124,
     "author": "andyxor",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26709053"
-  },
-  {
-    "title": "Django 3.2",
-    "url": "https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/",
-    "upvotes": 300,
-    "author": "samirelanduk",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=26710013"
   },
   {
     "title": "Maslow's Pyramid of Code Review",
     "url": "http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html",
-    "upvotes": 26,
+    "upvotes": 33,
     "author": "nkjoep",
-    "comments": 2,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26711551"
   },
   {
@@ -164,75 +176,59 @@
     "url": "item?id=26710782"
   },
   {
+    "title": "Django 3.2",
+    "url": "https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/",
+    "upvotes": 314,
+    "author": "samirelanduk",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=26710013"
+  },
+  {
+    "title": "I hope work from home continues",
+    "url": "https://www.ryanmercer.com/ryansthoughts/2021/4/6/some-of-the-reasons-i-hope-work-from-home-continues-and-i-never-have-to-return-to-an-office",
+    "upvotes": 522,
+    "author": "ryanmercer",
+    "comments": 443,
+    "link": "https://news.ycombinator.com/item?id=26712524"
+  },
+  {
     "title": "Google’s copying of the Java SE API was fair use [pdf]",
     "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
-    "upvotes": 3838,
+    "upvotes": 3847,
     "author": "pdoconnell",
-    "comments": 880,
+    "comments": 884,
     "link": "https://news.ycombinator.com/item?id=26699106"
   },
   {
     "title": "Preview of Microsoft Build of OpenJDK",
     "url": "https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/",
-    "upvotes": 37,
+    "upvotes": 50,
     "author": "velmu",
-    "comments": 22,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26713028"
   },
   {
     "title": "Programming is hard",
     "url": "https://dorinlazar.ro/2021-02-programming-is-hard/",
-    "upvotes": 191,
+    "upvotes": 206,
     "author": "zuzuleinen",
-    "comments": 189,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=26711862"
   },
   {
     "title": "Facebook Analytics will no longer be available",
     "url": "https://www.facebook.com/business/help/966883707418907",
-    "upvotes": 173,
+    "upvotes": 179,
     "author": "oblib",
-    "comments": 81,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26708061"
   },
   {
     "title": "How Browsers Lay Out Web Pages",
     "url": "https://browser.engineering/layout.html",
-    "upvotes": 240,
+    "upvotes": 246,
     "author": "pavpanchekha",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26707368"
-  },
-  {
-    "title": "The Daily Standup Is a Waste of Time",
-    "url": "https://buildthestage.com/the-daily-standup-is-a-waste-of-time/",
-    "upvotes": 58,
-    "author": "strife25",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26709951"
-  },
-  {
-    "title": "Show HN: Xplr – A hackable, minimal, fast TUI file explorer",
-    "url": "https://github.com/sayanarijit/xplr",
-    "upvotes": 172,
-    "author": "sayanarijit",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26708089"
-  },
-  {
-    "title": "Credit Suisse Loses 4.7B",
-    "url": "https://www.wsj.com/articles/credit-suisse-takes-4-7-billion-hit-on-archegos-meltdown-11617687483",
-    "upvotes": 99,
-    "author": "cwwc",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26710344"
-  },
-  {
-    "title": "Sublime Text 4 – Build 4100 has native Apple Silicon support",
-    "url": "https://twitter.com/wbond/status/1379430132138541056",
-    "upvotes": 99,
-    "author": "outcoldman",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26711718"
   }
 ]
