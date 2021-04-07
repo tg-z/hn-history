@@ -2,63 +2,75 @@
   {
     "title": "Particle mystery: physicists confirm the muon is more magnetic than predicted",
     "url": "https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted",
-    "upvotes": 310,
+    "upvotes": 323,
     "author": "furcyd",
-    "comments": 187,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=26726269"
   },
   {
     "title": "Screw it, I’ll host it myself",
     "url": "https://www.markozivanovic.com/screw-it-ill-host-it-myself/",
-    "upvotes": 504,
+    "upvotes": 535,
     "author": "markozivanovic",
-    "comments": 273,
+    "comments": 287,
     "link": "https://news.ycombinator.com/item?id=26725185"
+  },
+  {
+    "title": "Metis and Bodybuilders",
+    "url": "https://astralcodexten.substack.com/p/metis-and-bodybuilders",
+    "upvotes": 14,
+    "author": "feross",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26731007"
   },
   {
     "title": "BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution",
     "url": "https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html",
-    "upvotes": 146,
+    "upvotes": 163,
     "author": "ndrake",
-    "comments": 54,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26726902"
   },
   {
     "title": "iOS 14 and Facebook Pixel causing increase in PSL inclusion requests",
     "url": "https://github.com/publicsuffix/list/issues/1245",
-    "upvotes": 184,
+    "upvotes": 193,
     "author": "CameronBanga",
-    "comments": 59,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26726722"
   },
   {
-    "title": "All C++20 core language features with examples",
-    "url": "https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html",
-    "upvotes": 327,
-    "author": "dgellow",
-    "comments": 295,
-    "link": "https://news.ycombinator.com/item?id=26723851"
+    "title": "Flow Club",
+    "url": "https://www.workatastartup.com/jobs/43166"
   },
   {
-    "title": "Modern CI Is Too Complex and Misdirected",
-    "url": "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/",
-    "upvotes": 104,
-    "author": "zdw",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=26727790"
+    "title": "Twitch will ban users for 'severe misconduct' that occurs away from its site",
+    "url": "https://www.reuters.com/article/us-twitch-moderation/twitch-will-ban-users-for-severe-misconduct-that-occurs-away-from-its-site-idUSKBN2BU2QJ",
+    "upvotes": 152,
+    "author": "pseudolus",
+    "comments": 334,
+    "link": "https://news.ycombinator.com/item?id=26727975"
   },
   {
     "title": "TailwindCSS JIT with Arbitrary Values",
     "url": "https://tailwindcss.com/docs/just-in-time-mode",
-    "upvotes": 70,
+    "upvotes": 82,
     "author": "ccmcarey",
-    "comments": 22,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26728575"
+  },
+  {
+    "title": "All C++20 core language features with examples",
+    "url": "https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html",
+    "upvotes": 339,
+    "author": "dgellow",
+    "comments": 305,
+    "link": "https://news.ycombinator.com/item?id=26723851"
   },
   {
     "title": "TLA+ Graph Explorer",
     "url": "https://github.com/afonsonf/tlaplus-graph-explorer",
-    "upvotes": 33,
+    "upvotes": 38,
     "author": "hwayne",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26729307"
@@ -66,173 +78,161 @@
   {
     "title": "Dynamicland",
     "url": "https://dynamicland.org/",
-    "upvotes": 175,
+    "upvotes": 178,
     "author": "andyjohnson0",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26725370"
   },
   {
-    "title": "Twitch will ban users for 'severe misconduct' that occurs away from its site",
-    "url": "https://www.reuters.com/article/us-twitch-moderation/twitch-will-ban-users-for-severe-misconduct-that-occurs-away-from-its-site-idUSKBN2BU2QJ",
-    "upvotes": 124,
-    "author": "pseudolus",
-    "comments": 229,
-    "link": "https://news.ycombinator.com/item?id=26727975"
-  },
-  {
-    "title": "Writing advice should stop targeting people who hate to write",
-    "url": "https://enkiv2.medium.com/writing-advice-should-stop-targeting-people-who-hate-to-write-6d7d658954d2",
-    "upvotes": 27,
-    "author": "enkiv2",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26725593"
-  },
-  {
-    "title": "GiveCampus",
-    "url": "https://jobs.lever.co/givecampus/874d7233-b7a3-488d-892e-13ef717ceab7"
+    "title": "Modern CI Is Too Complex and Misdirected",
+    "url": "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/",
+    "upvotes": 116,
+    "author": "zdw",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=26727790"
   },
   {
     "title": "Show HN: Kaboom.js is a zero-dependency declarative JavaScript game library",
     "url": "https://kaboomjs.com/",
-    "upvotes": 66,
+    "upvotes": 75,
     "author": "slmjkdbtl",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26728774"
   },
   {
-    "title": "A third of Covid survivors suffer neurological or mental disorders",
-    "url": "https://www.reuters.com/article/us-health-coronavirus-brain/a-third-of-covid-survivors-suffer-neurological-or-mental-disorders-study-idUSKBN2BT2ZI",
-    "upvotes": 11,
-    "author": "nojito",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26730813"
+    "title": "Writing advice should stop targeting people who hate to write",
+    "url": "https://enkiv2.medium.com/writing-advice-should-stop-targeting-people-who-hate-to-write-6d7d658954d2",
+    "upvotes": 31,
+    "author": "enkiv2",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26725593"
   },
   {
     "title": "A bit of XENIX history",
     "url": "http://seefigure1.com/2014/04/15/xenixtime.html",
-    "upvotes": 76,
+    "upvotes": 81,
     "author": "fanf2",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26726249"
   },
   {
     "title": "The NoPhone",
     "url": "https://www.thenophone.com",
-    "upvotes": 68,
+    "upvotes": 82,
     "author": "bdeshi",
-    "comments": 19,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26727431"
   },
   {
-    "title": "Learning COBOL: A Journey for the Modern Programmer",
-    "url": "https://monadical.com/posts/cobol.html",
-    "upvotes": 73,
-    "author": "jdcaballerov",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26726100"
+    "title": "Giving EV batteries a second life for sustainability and profit",
+    "url": "https://techcrunch.com/2021/04/06/giving-ev-batteries-a-second-life-for-sustainability-and-profit/",
+    "upvotes": 5,
+    "author": "prostoalex",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26719074"
   },
   {
     "title": "Signal Server code on GitHub is up to date again",
     "url": "https://github.com/signalapp/Signal-Server/commits/master",
-    "upvotes": 222,
+    "upvotes": 234,
     "author": "domano",
-    "comments": 138,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=26725915"
   },
   {
-    "title": "SPAs Are Dead?",
-    "url": "https://leastprivilege.com/2020/03/31/spas-are-dead/",
-    "upvotes": 80,
-    "author": "wstrange",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=26728596"
+    "title": "Learning COBOL: A Journey for the Modern Programmer",
+    "url": "https://monadical.com/posts/cobol.html",
+    "upvotes": 74,
+    "author": "jdcaballerov",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26726100"
+  },
+  {
+    "title": "A After Working at Google, I’ll Never Let Myself Love a Job Again",
+    "url": "https://www.nytimes.com/2021/04/07/opinion/google-job-harassment.html",
+    "upvotes": 94,
+    "author": "donmcc",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26729594"
   },
   {
     "title": "Time to regulate AI that interprets human emotions?",
     "url": "https://www.nature.com/articles/d41586-021-00868-5",
     "upvotes": 128,
     "author": "rbanffy",
-    "comments": 189,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=26723582"
   },
   {
     "title": "Not Your Typical Horizontal Rules",
     "url": "https://www.sarasoueidan.com/blog/horizontal-rules/",
-    "upvotes": 12,
+    "upvotes": 20,
     "author": "todsacerdoti",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26709880"
-  },
-  {
-    "title": "Facebook does not plan to notify half-billion users affected by data leak",
-    "url": "https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY",
-    "upvotes": 157,
-    "author": "challengly",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26729989"
   },
   {
     "title": "Cosmic rays causing 30k network malfunctions in Japan each year",
     "url": "https://mainichi.jp/english/articles/20210405/p2g/00m/0bu/028000c",
-    "upvotes": 133,
+    "upvotes": 134,
     "author": "uncleberg",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26722571"
   },
   {
-    "title": "Apollo Client – Demystifying Cache Normalization",
-    "url": "https://www.apollographql.com/blog/demystifying-cache-normalization/",
-    "upvotes": 20,
-    "author": "lucasandrade",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26728114"
+    "title": "Facebook does not plan to notify half-billion users affected by data leak",
+    "url": "https://www.reuters.com/article/us-facebook-data-leak/facebook-does-not-plan-to-notify-half-billion-users-affected-by-data-leak-idUSKBN2BU2ZY",
+    "upvotes": 194,
+    "author": "challengly",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26729989"
   },
   {
     "title": "What defines a great company culture?",
     "url": "https://twitter.com/danrose999/status/1378393523213373440",
-    "upvotes": 179,
+    "upvotes": 181,
     "author": "prostoalex",
-    "comments": 131,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=26700186"
   },
   {
     "title": "Wix and Their Dirty Tricks",
     "url": "https://ma.tt/2021/04/wix-dirty-tricks/",
-    "upvotes": 141,
+    "upvotes": 157,
     "author": "luismanj",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26728471"
-  },
-  {
-    "title": "A After Working at Google, I’ll Never Let Myself Love a Job Again",
-    "url": "https://www.nytimes.com/2021/04/07/opinion/google-job-harassment.html",
-    "upvotes": 55,
-    "author": "donmcc",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26729594"
-  },
-  {
-    "title": "UX Challenges based in the real world",
-    "url": "https://uxtools.co/challenges/",
-    "upvotes": 67,
-    "author": "jrdnbwmn",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26710548"
   },
   {
     "title": "Ask HN: What tech job would let me get away with the least real work possible?",
     "url": "item?id=26721951",
-    "upvotes": 1543,
+    "upvotes": 1594,
     "author": "lmueongoqx",
-    "comments": 904,
+    "comments": 921,
     "link": "https://news.ycombinator.com/item?id=26721951"
+  },
+  {
+    "title": "Apollo Client – Demystifying Cache Normalization",
+    "url": "https://www.apollographql.com/blog/demystifying-cache-normalization/",
+    "upvotes": 21,
+    "author": "lucasandrade",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26728114"
   },
   {
     "title": "I Teach Machiavelli Through His Letters",
     "url": "https://www.exurbe.com/machiavelli-letters/",
-    "upvotes": 111,
+    "upvotes": 113,
     "author": "Tomte",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26696628"
+  },
+  {
+    "title": "UX Challenges based in the real world",
+    "url": "https://uxtools.co/challenges/",
+    "upvotes": 69,
+    "author": "jrdnbwmn",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26710548"
   }
 ]
