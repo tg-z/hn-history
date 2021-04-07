@@ -1,50 +1,58 @@
 [
   {
-    "title": "34% of remote workers would quit rather than return to full-time office work",
-    "url": "https://www.psychnewsdaily.com/a-third-of-wfh-employees-say-theyd-rather-quit-than-return-to-full-time-office-work/",
-    "upvotes": 214,
-    "author": "edoreld",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=26727678"
-  },
-  {
     "title": "Particle mystery: physicists confirm the muon is more magnetic than predicted",
     "url": "https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted",
-    "upvotes": 143,
+    "upvotes": 155,
     "author": "furcyd",
-    "comments": 44,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26726269"
   },
   {
     "title": "Screw it, I’ll host it myself",
     "url": "https://www.markozivanovic.com/screw-it-ill-host-it-myself/",
-    "upvotes": 284,
+    "upvotes": 309,
     "author": "markozivanovic",
-    "comments": 150,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=26725185"
   },
   {
     "title": "iOS 14 and Facebook Pixel causing increase in PSL inclusion requests",
     "url": "https://github.com/publicsuffix/list/issues/1245",
-    "upvotes": 80,
+    "upvotes": 95,
     "author": "CameronBanga",
-    "comments": 23,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26726722"
   },
   {
     "title": "All C++20 core language features with examples",
     "url": "https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html",
-    "upvotes": 250,
+    "upvotes": 258,
     "author": "dgellow",
-    "comments": 219,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=26723851"
+  },
+  {
+    "title": "Dynamicland",
+    "url": "https://dynamicland.org/",
+    "upvotes": 118,
+    "author": "andyjohnson0",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26725370"
+  },
+  {
+    "title": "BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution",
+    "url": "https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html",
+    "upvotes": 53,
+    "author": "ndrake",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26726902"
   },
   {
     "title": "'Strong' evidence found for a new force of nature",
     "url": "https://www.bbc.com/news/56643677",
-    "upvotes": 40,
+    "upvotes": 57,
     "author": "dporter",
-    "comments": 29,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26726981"
   },
   {
@@ -52,153 +60,145 @@
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "Dynamicland",
-    "url": "https://dynamicland.org/",
-    "upvotes": 106,
-    "author": "andyjohnson0",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26725370"
-  },
-  {
-    "title": "BleedingTooth: Linux Bluetooth Zero-Click Remote Code Execution",
-    "url": "https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html",
-    "upvotes": 46,
-    "author": "ndrake",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26726902"
-  },
-  {
     "title": "A bit of XENIX history",
     "url": "http://seefigure1.com/2014/04/15/xenixtime.html",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "fanf2",
-    "comments": 17,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26726249"
   },
   {
-    "title": "Signal Server code on GitHub is up to date again",
-    "url": "https://github.com/signalapp/Signal-Server/commits/master",
-    "upvotes": 144,
-    "author": "domano",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=26725915"
+    "title": "A simple, bloat free cooking site. Submit recipes...",
+    "url": "https://opensource.cooking",
+    "upvotes": 14,
+    "author": "locua",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26727700"
   },
   {
     "title": "C# 9 Pattern Matching",
     "url": "https://developers.redhat.com/blog/2021/04/06/c-9-pattern-matching/",
-    "upvotes": 14,
+    "upvotes": 20,
     "author": "benaadams",
-    "comments": 2,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26710686"
   },
   {
-    "title": "Time to regulate AI that interprets human emotions?",
-    "url": "https://www.nature.com/articles/d41586-021-00868-5",
-    "upvotes": 106,
-    "author": "rbanffy",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=26723582"
+    "title": "Modern CI Is Too Complex and Misdirected",
+    "url": "https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/",
+    "upvotes": 11,
+    "author": "zdw",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26727790"
+  },
+  {
+    "title": "Signal Server code on GitHub is up to date again",
+    "url": "https://github.com/signalapp/Signal-Server/commits/master",
+    "upvotes": 156,
+    "author": "domano",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=26725915"
   },
   {
     "title": "Learning COBOL: A Journey for the Modern Programmer",
     "url": "https://monadical.com/posts/cobol.html",
-    "upvotes": 41,
+    "upvotes": 49,
     "author": "jdcaballerov",
-    "comments": 18,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26726100"
-  },
-  {
-    "title": "Streamlit's $35M Series B",
-    "url": "https://blog.streamlit.io/our-35-million-series-b/",
-    "upvotes": 35,
-    "author": "TCR19",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26727027"
   },
   {
     "title": "Long-Awaited Muon Measurement Boosts Evidence for New Physics",
     "url": "https://www.scientificamerican.com/article/long-awaited-muon-measurement-boosts-evidence-for-new-physics/",
-    "upvotes": 23,
+    "upvotes": 31,
     "author": "LinuxBender",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26725994"
   },
   {
+    "title": "Time to regulate AI that interprets human emotions?",
+    "url": "https://www.nature.com/articles/d41586-021-00868-5",
+    "upvotes": 108,
+    "author": "rbanffy",
+    "comments": 159,
+    "link": "https://news.ycombinator.com/item?id=26723582"
+  },
+  {
+    "title": "Streamlit's $35M Series B",
+    "url": "https://blog.streamlit.io/our-35-million-series-b/",
+    "upvotes": 40,
+    "author": "TCR19",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26727027"
+  },
+  {
     "title": "What defines a great company culture?",
     "url": "https://twitter.com/danrose999/status/1378393523213373440",
-    "upvotes": 152,
+    "upvotes": 157,
     "author": "prostoalex",
-    "comments": 113,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=26700186"
   },
   {
     "title": "Cosmic rays causing 30k network malfunctions in Japan each year",
     "url": "https://mainichi.jp/english/articles/20210405/p2g/00m/0bu/028000c",
-    "upvotes": 93,
+    "upvotes": 99,
     "author": "uncleberg",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26722571"
+  },
+  {
+    "title": "I Teach Machiavelli Through His Letters",
+    "url": "https://www.exurbe.com/machiavelli-letters/",
+    "upvotes": 87,
+    "author": "Tomte",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26696628"
   },
   {
     "title": "Redefining Threat Modeling: Security team goes on vacation",
     "url": "https://segment.com/blog/redefining-threat-modeling/",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "mooreds",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26726060"
   },
   {
-    "title": "I Teach Machiavelli Through His Letters",
-    "url": "https://www.exurbe.com/machiavelli-letters/",
-    "upvotes": 84,
-    "author": "Tomte",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26696628"
-  },
-  {
     "title": "Ask HN: What tech job would let me get away with the least real work possible?",
     "url": "item?id=26721951",
-    "upvotes": 1253,
+    "upvotes": 1299,
     "author": "lmueongoqx",
-    "comments": 759,
+    "comments": 789,
     "link": "https://news.ycombinator.com/item?id=26721951"
+  },
+  {
+    "title": "UX Challenges based in the real world",
+    "url": "https://uxtools.co/challenges/",
+    "upvotes": 40,
+    "author": "jrdnbwmn",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26710548"
   },
   {
     "title": "Understanding Media Through Food: 8 Metaphors",
     "url": "https://pratik.is/writing/essays/media-as-food",
-    "upvotes": 16,
+    "upvotes": 17,
     "author": "cyb_",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26725796"
   },
   {
-    "title": "UX Challenges based in the real world",
-    "url": "https://uxtools.co/challenges/",
-    "upvotes": 32,
-    "author": "jrdnbwmn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26710548"
-  },
-  {
-    "title": "A simple, bloat free cooking site. Submit recipes...",
-    "url": "https://opensource.cooking",
-    "upvotes": 3,
-    "author": "locua",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26727700"
-  },
-  {
     "title": "Show HN: Skruv – No-dependency, no-build, small JavaScript framework",
     "url": "https://skruv.io/",
-    "upvotes": 103,
+    "upvotes": 105,
     "author": "SahAssar",
-    "comments": 130,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=26722051"
   },
   {
     "title": "New Wormable Android Malware Spreads by Creating Auto-Replies in WhatsApp",
     "url": "https://research.checkpoint.com/2021/new-wormable-android-malware-spreads-by-creating-auto-replies-to-messages-in-whatsapp/",
-    "upvotes": 47,
+    "upvotes": 50,
     "author": "giuliomagnifico",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26723145"
@@ -206,10 +206,26 @@
   {
     "title": "Google is writing low-level Android code in Rust",
     "url": "https://arstechnica.com/gadgets/2021/04/google-is-now-writing-low-level-android-code-in-rust/",
-    "upvotes": 8,
+    "upvotes": 25,
     "author": "samizdis",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26727889"
+  },
+  {
+    "title": "34% of remote workers would quit rather than return to full-time office work",
+    "url": "https://www.psychnewsdaily.com/a-third-of-wfh-employees-say-theyd-rather-quit-than-return-to-full-time-office-work/",
+    "upvotes": 363,
+    "author": "edoreld",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=26727678"
+  },
+  {
+    "title": "Wix and Their Dirty Tricks",
+    "url": "https://ma.tt/2021/04/wix-dirty-tricks/",
+    "upvotes": 6,
+    "author": "luismanj",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26728471"
   },
   {
     "title": "Persepolis Graffiti: Foreign Visitors",
@@ -218,21 +234,5 @@
     "author": "Thevet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26703839"
-  },
-  {
-    "title": "First C compiler ported to GCC",
-    "url": "https://github.com/vegesm/first-cc-gcc",
-    "upvotes": 131,
-    "author": "vegesm",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26697061"
-  },
-  {
-    "title": "What have we lost? [video]",
-    "url": "https://media.ccc.de/v/rc3-525180-what_have_we_lost",
-    "upvotes": 193,
-    "author": "gbrown_",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26723886"
   }
 ]
