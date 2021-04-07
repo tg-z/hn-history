@@ -2,81 +2,89 @@
   {
     "title": "Wuffs’ PNG image decoder",
     "url": "https://nigeltao.github.io/blog/2021/fastest-safest-png-decoder.html",
-    "upvotes": 286,
+    "upvotes": 298,
     "author": "est31",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26714831"
   },
   {
     "title": "Intel 3rd gen Xeon Scalable",
     "url": "https://www.anandtech.com/show/16594/intel-3rd-gen-xeon-scalable-review",
-    "upvotes": 67,
+    "upvotes": 72,
     "author": "totalZero",
-    "comments": 170,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=26713945"
   },
   {
-    "title": "Soil bacteria could improve crop yields, via fungi",
-    "url": "https://news.cornell.edu/stories/2021/04/soil-bacteria-could-improve-crop-yields-fungi",
-    "upvotes": 49,
-    "author": "PaulHoule",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26716800"
+    "title": "Remote working: Is Big Tech going off work from home?",
+    "url": "https://www.bbc.com/news/technology-56614285",
+    "upvotes": 27,
+    "author": "pseudolus",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26718295"
   },
   {
     "title": "Eliminating Data Races in Firefox",
     "url": "https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/",
-    "upvotes": 326,
+    "upvotes": 332,
     "author": "caution",
-    "comments": 82,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26713037"
   },
   {
     "title": "Bronze Age slab found in France is oldest 3D map in Europe",
     "url": "https://www.bbc.com/news/world-europe-56648055",
-    "upvotes": 23,
+    "upvotes": 32,
     "author": "HenryBemis",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26717729"
+  },
+  {
+    "title": "Soil bacteria could improve crop yields, via fungi",
+    "url": "https://news.cornell.edu/stories/2021/04/soil-bacteria-could-improve-crop-yields-fungi",
+    "upvotes": 54,
+    "author": "PaulHoule",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26716800"
   },
   {
     "title": "Adjustable, low-impact keeb is about as comfortable as it gets",
     "url": "https://hackaday.com/2021/04/02/adjustable-low-impact-keeb-is-about-as-comfortable-as-it-gets/",
-    "upvotes": 10,
+    "upvotes": 18,
     "author": "serial_dev",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26696026"
   },
   {
     "title": "Signal adds a payments feature with a privacy-focused cryptocurrency",
     "url": "https://www.wired.com/story/signal-mobilecoin-payments-messaging-cryptocurrency/",
-    "upvotes": 197,
+    "upvotes": 208,
     "author": "josh2600",
-    "comments": 306,
+    "comments": 321,
     "link": "https://news.ycombinator.com/item?id=26713827"
   },
   {
     "title": "Programming is hard",
     "url": "https://dorinlazar.ro/2021-02-programming-is-hard/",
-    "upvotes": 352,
+    "upvotes": 366,
     "author": "zuzuleinen",
-    "comments": 337,
+    "comments": 343,
     "link": "https://news.ycombinator.com/item?id=26711862"
   },
   {
     "title": "How we bootstrapped a $1M ARR email client",
     "url": "https://missiveapp.com/blog/how-we-built-1m-arr-email-client",
-    "upvotes": 181,
+    "upvotes": 190,
     "author": "plehoux",
-    "comments": 82,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26713949"
   },
   {
     "title": "Apache Mesos to be moved to Attic",
     "url": "https://lists.apache.org/thread.html/rab2a820507f7c846e54a847398ab20f47698ec5bce0c8e182bfe51ba%40%3Cdev.mesos.apache.org%3E",
-    "upvotes": 197,
+    "upvotes": 199,
     "author": "coolandsmartrr",
-    "comments": 97,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=26713082"
   },
   {
@@ -86,87 +94,55 @@
   {
     "title": "Ordering Requests to Accelerate Disk I/O",
     "url": "https://pkolaczk.github.io/disk-access-ordering/",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "pkolaczk",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26695838"
   },
   {
-    "title": "Google AI scientist Bengio resigns after colleagues' firings – email",
-    "url": "https://www.reuters.com/article/us-alphabet-google-research-bengio/google-ai-scientist-bengio-resigns-after-colleagues-firings-email-idUSKBN2BT2JT",
-    "upvotes": 73,
-    "author": "Anon84",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26717795"
-  },
-  {
     "title": "Parser Combinators in Elixir",
     "url": "https://serokell.io/blog/parser-combinators-in-elixir",
-    "upvotes": 135,
+    "upvotes": 139,
     "author": "ltrapr",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26711997"
   },
   {
     "title": "Playwright-test – cross-browser end-to-end test suite with Playwright",
     "url": "https://github.com/microsoft/playwright-test",
-    "upvotes": 58,
+    "upvotes": 62,
     "author": "roschdal",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26696363"
   },
   {
-    "title": "Remote working: Is Big Tech going off work from home?",
-    "url": "https://www.bbc.com/news/technology-56614285",
-    "upvotes": 3,
-    "author": "pseudolus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26718295"
+    "title": "An Apology to COBOL: Maybe Old Technology Isn’t the Real Problem",
+    "url": "https://www.govtech.com/opinion/An-Apology-to-COBOL-Maybe-Old-Technology-Isnt-the-Real-Problem.html",
+    "upvotes": 21,
+    "author": "rbanffy",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26717088"
+  },
+  {
+    "title": "Fselect: Find files with SQL-like queries",
+    "url": "https://github.com/jhspetersson/fselect",
+    "upvotes": 185,
+    "author": "ingve",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26697932"
   },
   {
     "title": "Ludus Latrunculorum",
     "url": "https://en.wikipedia.org/wiki/Ludus_latrunculorum",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "diodorus",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26699986"
   },
   {
-    "title": "Fselect: Find files with SQL-like queries",
-    "url": "https://github.com/jhspetersson/fselect",
-    "upvotes": 177,
-    "author": "ingve",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26697932"
-  },
-  {
-    "title": "An Apology to COBOL: Maybe Old Technology Isn’t the Real Problem",
-    "url": "https://www.govtech.com/opinion/An-Apology-to-COBOL-Maybe-Old-Technology-Isnt-the-Real-Problem.html",
-    "upvotes": 12,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26717088"
-  },
-  {
-    "title": "Why printk",
-    "url": "https://lwn.net/SubscriberLink/800946/a9ad9aba46f14e78/",
-    "upvotes": 33,
-    "author": "Tomte",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26696063"
-  },
-  {
-    "title": "Google open-sources the Lyra audio codec",
-    "url": "https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html",
-    "upvotes": 147,
-    "author": "chmaynard",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=26713790"
-  },
-  {
     "title": "Rapidly Build SaaS apps on ASP.NET/ServiceStack based on zero-trust security",
     "url": "https://aspsecuritykit.net/?src=hnzt",
-    "upvotes": 26,
+    "upvotes": 27,
     "author": "kumaranv",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26715035"
@@ -174,15 +150,23 @@
   {
     "title": "IPython as a System Shell",
     "url": "https://ipython.readthedocs.io/en/stable/interactive/shell.html",
-    "upvotes": 118,
+    "upvotes": 119,
     "author": "laktak",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26711434"
   },
   {
+    "title": "Google open-sources the Lyra audio codec",
+    "url": "https://opensource.googleblog.com/2021/04/lyra-enabling-voice-calls-for-next-billion-users.html",
+    "upvotes": 150,
+    "author": "chmaynard",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=26713790"
+  },
+  {
     "title": "Google’s copying of the Java SE API was fair use [pdf]",
     "url": "https://www.supremecourt.gov/opinions/20pdf/18-956_d18f.pdf",
-    "upvotes": 3915,
+    "upvotes": 3919,
     "author": "pdoconnell",
     "comments": 898,
     "link": "https://news.ycombinator.com/item?id=26699106"
@@ -190,49 +174,65 @@
   {
     "title": "Maslow's Pyramid of Code Review",
     "url": "http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html",
-    "upvotes": 93,
+    "upvotes": 102,
     "author": "nkjoep",
-    "comments": 52,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26711551"
+  },
+  {
+    "title": "Why printk",
+    "url": "https://lwn.net/SubscriberLink/800946/a9ad9aba46f14e78/",
+    "upvotes": 35,
+    "author": "Tomte",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26696063"
   },
   {
     "title": "The Facebook phone numbers are now searchable in Have I Been Pwned",
     "url": "https://www.troyhunt.com/the-facebook-phone-numbers-are-now-searchable-in-have-i-been-pwned/",
-    "upvotes": 499,
+    "upvotes": 506,
     "author": "helb",
-    "comments": 218,
+    "comments": 220,
     "link": "https://news.ycombinator.com/item?id=26709848"
   },
   {
     "title": "Breaking GitHub Private Pages for $35k",
     "url": "https://robertchen.cc/blog/2021/04/03/github-pages-xss",
-    "upvotes": 746,
+    "upvotes": 749,
     "author": "SuperSandro2000",
     "comments": 99,
     "link": "https://news.ycombinator.com/item?id=26709159"
   },
   {
+    "title": "Rust in the Android Platform",
+    "url": "https://security.googleblog.com/2021/04/rust-in-android-platform.html",
+    "upvotes": 191,
+    "author": "theafh",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26714478"
+  },
+  {
     "title": "I refused to become an FBI informant, the government put me on the no fly list",
     "url": "https://www.aclu.org/news/national-security/i-refused-to-become-an-fbi-informant-and-the-government-put-me-on-the-no-fly-list/",
-    "upvotes": 909,
+    "upvotes": 930,
     "author": "jbegley",
-    "comments": 330,
+    "comments": 357,
     "link": "https://news.ycombinator.com/item?id=26715644"
   },
   {
-    "title": "Rust in the Android Platform",
-    "url": "https://security.googleblog.com/2021/04/rust-in-android-platform.html",
-    "upvotes": 179,
-    "author": "theafh",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26714478"
+    "title": "Google AI scientist Bengio resigns after colleagues' firings – email",
+    "url": "https://www.reuters.com/article/us-alphabet-google-research-bengio/google-ai-scientist-bengio-resigns-after-colleagues-firings-email-idUSKBN2BT2JT",
+    "upvotes": 80,
+    "author": "Anon84",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26717795"
   },
   {
     "title": "ClojureScript 1.10.844",
     "url": "https://clojurescript.org/news/2021-04-06-release",
-    "upvotes": 144,
+    "upvotes": 149,
     "author": "tosh",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26713329"
   }
 ]
