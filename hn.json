@@ -2,79 +2,71 @@
   {
     "title": "The Architecture of a One-Man SaaS",
     "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/",
-    "upvotes": 380,
+    "upvotes": 422,
     "author": "ksahin",
-    "comments": 107,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=26737771"
   },
   {
     "title": "The Book",
     "url": "https://99percentinvisible.org/episode/the-real-book/",
-    "upvotes": 270,
+    "upvotes": 285,
     "author": "mpweiher",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26737142"
-  },
-  {
-    "title": "The Nixon Seminar with Peter Thiel",
-    "url": "https://nixonseminar.com/2021/04/the-nixon-seminar-april-6-2021-transcript",
-    "upvotes": 26,
-    "author": "kervokian",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26738934"
   },
   {
     "title": "Show HN: Ory Keto, open source authorization server based on Google Zanzibar",
     "url": "https://github.com/ory/keto",
-    "upvotes": 90,
+    "upvotes": 98,
     "author": "An0mammall",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26738344"
-  },
-  {
-    "title": "Supreme Court sides with developers in Google vs. Oracle",
-    "url": "https://github.blog/2021-04-06-supreme-court-sides-with-developers-in-google-v-oracle/",
-    "upvotes": 43,
-    "author": "prakhargurunani",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26738386"
-  },
-  {
-    "title": "Dumping Fukushima radioactive waste into ocean “most realistic” gov policy",
-    "url": "https://www.japantimes.co.jp/news/2021/04/07/national/treated-water-fukushima/",
-    "upvotes": 12,
-    "author": "Afforess",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26739686"
   },
   {
     "title": "1984: The Hitchhiker's Guide to the Galaxy",
     "url": "https://if50.substack.com/p/1984-the-hitchhikers-guide-to-the-galaxy",
-    "upvotes": 78,
+    "upvotes": 96,
     "author": "paublyrne",
-    "comments": 42,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26737541"
   },
   {
-    "title": "A simple C implementation to stream H.264 to browser using WebRTC",
-    "url": "https://github.com/sepfy/pear",
-    "upvotes": 241,
-    "author": "sepfy",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=26735423"
+    "title": "How to Learn Complex Things Quickly: A Guide",
+    "url": "https://product.hubspot.com/blog/how-to-learn-complex-things-quickly",
+    "upvotes": 41,
+    "author": "fmccaffrey",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26738708"
+  },
+  {
+    "title": "Muon G-2 Experiment at Fermilab Finds Hint of New Particles",
+    "url": "https://www.quantamagazine.org/muon-g-2-experiment-at-fermilab-finds-hint-of-new-particles-20210407",
+    "upvotes": 19,
+    "author": "gmays",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26738989"
   },
   {
     "title": "Show HN: LadyLua, batteries-included static Lua 5.1 interpreter",
     "url": "https://github.com/tongson/LadyLua",
-    "upvotes": 29,
+    "upvotes": 34,
     "author": "Propolice",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26738006"
   },
   {
+    "title": "A simple C implementation to stream H.264 to browser using WebRTC",
+    "url": "https://github.com/sepfy/pear",
+    "upvotes": 244,
+    "author": "sepfy",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=26735423"
+  },
+  {
     "title": "Show HN: I built a reverse image search for pixel art",
     "url": "https://github.com/emnh/PixelArtSearch/blob/master/README.md",
-    "upvotes": 58,
+    "upvotes": 67,
     "author": "gk1",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26735700"
@@ -82,117 +74,109 @@
   {
     "title": "Surprisingly Slow",
     "url": "https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/",
-    "upvotes": 435,
+    "upvotes": 449,
     "author": "dochtman",
-    "comments": 104,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26710763"
   },
   {
-    "title": "How to Learn Complex Things Quickly: A Guide",
-    "url": "https://product.hubspot.com/blog/how-to-learn-complex-things-quickly",
-    "upvotes": 19,
-    "author": "fmccaffrey",
+    "title": "We scaled the GitHub API with a sharded, replicated rate limiter in Redis",
+    "url": "https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/",
+    "upvotes": 22,
+    "author": "prakhargurunani",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26738417"
+  },
+  {
+    "title": "Computer Vision and Embroidery",
+    "url": "https://healeycodes.com/computer-vision-and-embroidery/",
+    "upvotes": 29,
+    "author": "healeycodes",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26738708"
+    "link": "https://news.ycombinator.com/item?id=26723110"
+  },
+  {
+    "title": "Ask HN: Why is the Linux community struggling to implement hibernation?",
+    "url": "item?id=26739220",
+    "upvotes": 54,
+    "author": "cyka178",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26739220"
   },
   {
     "title": "Chums",
     "url": "https://www.workatastartup.com/companies/chums"
   },
   {
-    "title": "Muon G-2 Experiment at Fermilab Finds Hint of New Particles",
-    "url": "https://www.quantamagazine.org/muon-g-2-experiment-at-fermilab-finds-hint-of-new-particles-20210407",
-    "upvotes": 10,
-    "author": "gmays",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26738989"
-  },
-  {
     "title": "UTF-8 as told by Rob Pike",
     "url": "http://doc.cat-v.org/bell_labs/utf-8_history",
-    "upvotes": 171,
+    "upvotes": 174,
     "author": "quyleanh",
-    "comments": 69,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26735958"
-  },
-  {
-    "title": "Computer Vision and Embroidery",
-    "url": "https://healeycodes.com/computer-vision-and-embroidery/",
-    "upvotes": 24,
-    "author": "healeycodes",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26723110"
-  },
-  {
-    "title": "AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx",
-    "url": "https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition",
-    "upvotes": 223,
-    "author": "zdw",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26734552"
-  },
-  {
-    "title": "Ask HN: Why is the Linux community struggling to implement hibernation?",
-    "url": "item?id=26739220",
-    "upvotes": 32,
-    "author": "cyka178",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26739220"
   },
   {
     "title": "IsoAlloc: Detecting Uninitialized Reads with Userfaultfd",
     "url": "https://struct.github.io/isoalloc_uninit_read.html",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "tptacek",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26734448"
   },
   {
-    "title": "We scaled the GitHub API with a sharded, replicated rate limiter in Redis",
-    "url": "https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/",
-    "upvotes": 13,
-    "author": "prakhargurunani",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26738417"
-  },
-  {
-    "title": "Facebook does not plan to notify half-billion users affected by data leak",
-    "url": "https://www.reuters.com/article/us-facebook-data-leak-idUSKBN2BU2ZY",
-    "upvotes": 466,
-    "author": "wdb",
-    "comments": 207,
-    "link": "https://news.ycombinator.com/item?id=26736285"
+    "title": "AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx",
+    "url": "https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition",
+    "upvotes": 229,
+    "author": "zdw",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26734552"
   },
   {
     "title": "Tell HN: Today I learned Epub is just HTML/CSS",
     "url": "https://en.wikipedia.org/wiki/EPUB#:~:text=EPUB%20is%20an%20e%2Dbook,smartphones%2C%20tablets%2C%20and%20computers.",
-    "upvotes": 36,
+    "upvotes": 54,
     "author": "mettamage",
-    "comments": 9,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26739124"
+  },
+  {
+    "title": "The Nixon Seminar with Peter Thiel",
+    "url": "https://nixonseminar.com/2021/04/the-nixon-seminar-april-6-2021-transcript",
+    "upvotes": 38,
+    "author": "kervokian",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26738934"
+  },
+  {
+    "title": "Facebook does not plan to notify half-billion users affected by data leak",
+    "url": "https://www.reuters.com/article/us-facebook-data-leak-idUSKBN2BU2ZY",
+    "upvotes": 497,
+    "author": "wdb",
+    "comments": 226,
+    "link": "https://news.ycombinator.com/item?id=26736285"
   },
   {
     "title": "Israel may have achieved herd immunity against Covid-19",
     "url": "https://www.israel21c.org/israel-may-have-achieved-herd-immunity-against-covid-19/",
-    "upvotes": 142,
+    "upvotes": 152,
     "author": "_Microft",
-    "comments": 162,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=26737039"
   },
   {
     "title": "The Tourist: Philip Roth’s Czech KGB File",
     "url": "https://www.tabletmag.com/sections/arts-letters/articles/philip-roth-the-tourist",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "lermontov",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26735217"
   },
   {
     "title": "Show HN: Raspberry Pi 400 – CyberDeck Project",
     "url": "https://learn.adafruit.com/cyberdeck-plate?embeds=allow",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "maydemir",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26736379"
   },
   {
@@ -200,39 +184,55 @@
     "url": "https://gnucobol.sourceforge.io/",
     "upvotes": 109,
     "author": "pabs3",
-    "comments": 36,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26734721"
   },
   {
     "title": "Reading in the Age of Constant Distraction",
     "url": "https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/",
-    "upvotes": 105,
+    "upvotes": 107,
     "author": "dorchadas",
-    "comments": 59,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26735051"
   },
   {
-    "title": "Netscape ISP Homepage",
-    "url": "https://isp.netscape.com",
-    "upvotes": 155,
-    "author": "fireeyed",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=26733494"
+    "title": "Axon: A library for creating neural networks in Elixir",
+    "url": "https://github.com/elixir-nx/axon",
+    "upvotes": 13,
+    "author": "smn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26737956"
   },
   {
-    "title": "An Interview with the Man Who Keeps Uploading My Feet to WikiFeet",
-    "url": "https://www.thecut.com/2021/04/a-q-and-a-with-the-man-who-keeps-uploading-my-feet-to-wikifeet.html",
-    "upvotes": 426,
-    "author": "Jugurtha",
-    "comments": 190,
-    "link": "https://news.ycombinator.com/item?id=26735665"
+    "title": "European court of human rights rules obligatory vaccination may be necessary",
+    "url": "https://www.dw.com/en/echr-rules-obligatory-vaccination-may-be-necessary/",
+    "upvotes": 16,
+    "author": "MKais",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26738765"
+  },
+  {
+    "title": "Suga says time ripe to decide fate of treated Fukushima No.1 water",
+    "url": "https://www.japantimes.co.jp/news/2021/04/07/national/treated-water-fukushima/",
+    "upvotes": 37,
+    "author": "Afforess",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26739686"
   },
   {
     "title": "Cryptographically verifiable code review system for cargo Rust package manager",
     "url": "https://github.com/crev-dev/cargo-crev",
-    "upvotes": 62,
+    "upvotes": 69,
     "author": "pabs3",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26735470"
+  },
+  {
+    "title": "FDA approves first test of CRISPR for genetic defect causing sickle cell disease",
+    "url": "https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/",
+    "upvotes": 406,
+    "author": "zuhayeer",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=26733033"
   }
 ]
