@@ -2,50 +2,62 @@
   {
     "title": "The Book",
     "url": "https://99percentinvisible.org/episode/the-real-book/",
-    "upvotes": 45,
+    "upvotes": 90,
     "author": "mpweiher",
-    "comments": 4,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26737142"
   },
   {
     "title": "A simple C implementation to stream H.264 to browser using WebRTC",
     "url": "https://github.com/sepfy/pear",
-    "upvotes": 163,
+    "upvotes": 177,
     "author": "sepfy",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26735423"
   },
   {
     "title": "Surprisingly Slow",
     "url": "https://gregoryszorc.com/blog/2021/04/06/surprisingly-slow/",
-    "upvotes": 302,
+    "upvotes": 310,
     "author": "dochtman",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26710763"
+  },
+  {
+    "title": "UTF-8 as told by Rob Pike",
+    "url": "http://doc.cat-v.org/bell_labs/utf-8_history",
+    "upvotes": 86,
+    "author": "quyleanh",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26735958"
   },
   {
     "title": "FDA approves first test of CRISPR for genetic defect causing sickle cell disease",
     "url": "https://news.berkeley.edu/2021/03/30/fda-approves-first-test-of-crispr-to-correct-genetic-defect-causing-sickle-cell-disease/",
-    "upvotes": 346,
+    "upvotes": 355,
     "author": "zuhayeer",
     "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26733033"
   },
   {
+    "title": "Chums",
+    "url": "https://www.workatastartup.com/companies/chums"
+  },
+  {
     "title": "AMD and Xilinx Stockholders Overwhelmingly Approve AMD’s Acquisition of Xilinx",
     "url": "https://www.amd.com/en/press-releases/2021-04-07-amd-and-xilinx-stockholders-overwhelmingly-approve-amd-s-acquisition",
-    "upvotes": 175,
+    "upvotes": 181,
     "author": "zdw",
-    "comments": 42,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26734552"
   },
   {
-    "title": "UTF-8 as told by Rob Pike",
-    "url": "http://doc.cat-v.org/bell_labs/utf-8_history",
-    "upvotes": 75,
-    "author": "quyleanh",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26735958"
+    "title": "Facebook does not plan to notify half-billion users affected by data leak",
+    "url": "https://www.reuters.com/article/us-facebook-data-leak-idUSKBN2BU2ZY",
+    "upvotes": 200,
+    "author": "wdb",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26736285"
   },
   {
     "title": "The Tourist: Philip Roth’s Czech KGB File",
@@ -56,64 +68,52 @@
     "link": "https://news.ycombinator.com/item?id=26735217"
   },
   {
-    "title": "Facebook does not plan to notify half-billion users affected by data leak",
-    "url": "https://www.reuters.com/article/us-facebook-data-leak-idUSKBN2BU2ZY",
-    "upvotes": 165,
-    "author": "wdb",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26736285"
-  },
-  {
     "title": "An Interview with the Man Who Keeps Uploading My Feet to WikiFeet",
     "url": "https://www.thecut.com/2021/04/a-q-and-a-with-the-man-who-keeps-uploading-my-feet-to-wikifeet.html",
-    "upvotes": 304,
+    "upvotes": 321,
     "author": "Jugurtha",
-    "comments": 123,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=26735665"
   },
   {
     "title": "GnuCOBOL – a free/libre COBOL compiler",
     "url": "https://gnucobol.sourceforge.io/",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "pabs3",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26734721"
   },
   {
     "title": "Reading in the Age of Constant Distraction",
     "url": "https://www.theparisreview.org/blog/2019/02/08/reading-in-the-age-of-constant-distraction/",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "dorchadas",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26735051"
   },
   {
     "title": "Geometrical Thinking Offers a Window into Computation",
     "url": "https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "andyxor",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26735020"
-  },
-  {
-    "title": "Cryptographically verifiable code review system for cargo Rust package manager",
-    "url": "https://github.com/crev-dev/cargo-crev",
-    "upvotes": 30,
-    "author": "pabs3",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26735470"
   },
   {
     "title": "Netscape ISP Homepage",
     "url": "https://isp.netscape.com",
-    "upvotes": 129,
+    "upvotes": 132,
     "author": "fireeyed",
-    "comments": 88,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26733494"
   },
   {
-    "title": "Raycast",
-    "url": "https://raycast.com/jobs"
+    "title": "Cryptographically verifiable code review system for cargo Rust package manager",
+    "url": "https://github.com/crev-dev/cargo-crev",
+    "upvotes": 33,
+    "author": "pabs3",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26735470"
   },
   {
     "title": "Proofs, Computability, Undecidability, Complexity, and the Lambda Calculus [pdf]",
@@ -126,31 +126,31 @@
   {
     "title": "lscpu + neofetch = cpufetch",
     "url": "https://github.com/Dr-Noob/cpufetch",
-    "upvotes": 97,
+    "upvotes": 98,
     "author": "luke2m",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26733595"
-  },
-  {
-    "title": "New Mexico is the second state to ban qualified immunity",
-    "url": "https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/",
-    "upvotes": 258,
-    "author": "williamsharris",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=26735216"
   },
   {
     "title": "How to make a Python package in 2021",
     "url": "https://antonz.org/python-packaging/",
-    "upvotes": 301,
+    "upvotes": 309,
     "author": "gilad",
-    "comments": 155,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=26733423"
+  },
+  {
+    "title": "New Mexico is the second state to ban qualified immunity",
+    "url": "https://innocenceproject.org/new-mexico-historic-legislation-to-end-qualified-immunity/",
+    "upvotes": 268,
+    "author": "williamsharris",
+    "comments": 176,
+    "link": "https://news.ycombinator.com/item?id=26735216"
   },
   {
     "title": "Screw it, I’ll host it myself",
     "url": "https://www.markozivanovic.com/screw-it-ill-host-it-myself/",
-    "upvotes": 900,
+    "upvotes": 903,
     "author": "markozivanovic",
     "comments": 424,
     "link": "https://news.ycombinator.com/item?id=26725185"
@@ -158,81 +158,81 @@
   {
     "title": "The Edges of Our Universe",
     "url": "https://arxiv.org/abs/2104.01191",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "henning",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26732996"
   },
   {
     "title": "A bit of XENIX history",
     "url": "http://seefigure1.com/2014/04/15/xenixtime.html",
-    "upvotes": 106,
+    "upvotes": 108,
     "author": "fanf2",
     "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26726249"
   },
   {
+    "title": "A record label bringing Iranian music to the world",
+    "url": "https://www.huckmag.com/art-and-culture/the-record-label-bringing-iranian-music-to-the-world/",
+    "upvotes": 106,
+    "author": "tintinnabula",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26707647"
+  },
+  {
+    "title": "Israel may have achieved herd immunity against Covid-19",
+    "url": "https://www.israel21c.org/israel-may-have-achieved-herd-immunity-against-covid-19/",
+    "upvotes": 12,
+    "author": "_Microft",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26737039"
+  },
+  {
     "title": "Warnings of AI doom gave way to primal fear of primates posting",
     "url": "https://www.thenewatlantis.com/publications/welcoming-our-new-robot-overlords",
-    "upvotes": 23,
+    "upvotes": 25,
     "author": "morisy",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26712865"
   },
   {
-    "title": "Texas Senate passes bill aiming to counter federal subsidies for wind and solar",
-    "url": "https://www.houstonchronicle.com/politics/texas/article/Texas-Senate-passes-bill-aiming-to-counter-16062267.php",
-    "upvotes": 61,
-    "author": "sofixa",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26735974"
-  },
-  {
-    "title": "A record label bringing Iranian music to the world",
-    "url": "https://www.huckmag.com/art-and-culture/the-record-label-bringing-iranian-music-to-the-world/",
-    "upvotes": 102,
-    "author": "tintinnabula",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26707647"
-  },
-  {
     "title": "Redefining Threat Modeling: Security team goes on vacation",
     "url": "https://segment.com/blog/redefining-threat-modeling/",
-    "upvotes": 76,
+    "upvotes": 79,
     "author": "mooreds",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26726060"
   },
   {
-    "title": "Particle mystery: physicists confirm the muon is more magnetic than predicted",
-    "url": "https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted",
-    "upvotes": 520,
-    "author": "furcyd",
-    "comments": 272,
-    "link": "https://news.ycombinator.com/item?id=26726269"
+    "title": "Texas Senate passes bill aiming to counter federal subsidies for wind and solar",
+    "url": "https://www.houstonchronicle.com/politics/texas/article/Texas-Senate-passes-bill-aiming-to-counter-16062267.php",
+    "upvotes": 64,
+    "author": "sofixa",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26735974"
   },
   {
-    "title": "The bacterial 'homing missiles' that scientists want to harness",
-    "url": "https://phys.org/news/2021-04-incredible-bacterial-homing-missiles-scientists.html",
-    "upvotes": 43,
-    "author": "dnetesn",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26722975"
+    "title": "Particle mystery: physicists confirm the muon is more magnetic than predicted",
+    "url": "https://www.sciencemag.org/news/2021/04/particle-mystery-deepens-physicists-confirm-muon-more-magnetic-predicted",
+    "upvotes": 522,
+    "author": "furcyd",
+    "comments": 274,
+    "link": "https://news.ycombinator.com/item?id=26726269"
   },
   {
     "title": "The Health Hazards of Plug-In Air Fresheners",
     "url": "https://www.indoordoctor.com/health-hazards-plug-air-fresheners/",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "tentacleuno",
-    "comments": 78,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26732229"
   },
   {
-    "title": "Among the Rank and File: Gogol in the Twilight of Empire",
-    "url": "https://www.thenation.com/article/culture/gogol-nose-other-stories/",
-    "upvotes": 20,
-    "author": "lermontov",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26720222"
+    "title": "The bacterial 'homing missiles' that scientists want to harness",
+    "url": "https://phys.org/news/2021-04-incredible-bacterial-homing-missiles-scientists.html",
+    "upvotes": 46,
+    "author": "dnetesn",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26722975"
   }
 ]
