@@ -2,57 +2,65 @@
   {
     "title": "Why uBlock Origin works best on Firefox",
     "url": "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox",
-    "upvotes": 449,
+    "upvotes": 535,
     "author": "anonymfus",
-    "comments": 171,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=26755252"
   },
   {
     "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
     "url": "https://github.com/DualCoder/vgpu_unlock",
-    "upvotes": 234,
+    "upvotes": 253,
     "author": "fragileone",
-    "comments": 64,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26754351"
   },
   {
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 283,
+    "upvotes": 323,
     "author": "karl42",
-    "comments": 73,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26747305"
   },
   {
     "title": "A Guide to Color from 1692",
     "url": "https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html",
-    "upvotes": 49,
+    "upvotes": 54,
     "author": "throw0101a",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26755839"
   },
   {
     "title": "FreeBSD/arm64 becoming Tier 1 in FreeBSD 13",
-    "url": "https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002029.html",
-    "upvotes": 40,
+    "url": "https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html",
+    "upvotes": 53,
     "author": "Ducki",
-    "comments": 6,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26755476"
   },
   {
     "title": "Zoom zero-day discovery",
     "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
-    "upvotes": 398,
+    "upvotes": 403,
     "author": "alexrustic",
-    "comments": 197,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=26749350"
+  },
+  {
+    "title": "Was the NE2000 really that bad?",
+    "url": "http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/",
+    "upvotes": 55,
+    "author": "vitplister",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=26755293"
   },
   {
     "title": "A look at LLVM: comparing clamp implementations",
     "url": "https://secret.club/2021/04/09/std-clamp.html",
-    "upvotes": 35,
+    "upvotes": 43,
     "author": "ingve",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26753872"
   },
   {
@@ -62,177 +70,169 @@
   {
     "title": "HW accelerated Xwayland rendering for Nvidia merged",
     "url": "https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587",
-    "upvotes": 183,
+    "upvotes": 186,
     "author": "luigifcruz",
-    "comments": 134,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=26750976"
-  },
-  {
-    "title": "Was the NE2000 That Bad?",
-    "url": "http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/",
-    "upvotes": 43,
-    "author": "vitplister",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26755293"
   },
   {
     "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
     "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
-    "upvotes": 118,
+    "upvotes": 128,
     "author": "mpweiher",
-    "comments": 54,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26752223"
   },
   {
     "title": "Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation",
     "url": "https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html",
-    "upvotes": 55,
+    "upvotes": 64,
     "author": "theafh",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26753851"
   },
   {
     "title": "Hacking a $200 Under Desk Exercise Bike",
     "url": "https://codaris.github.io/UnderDeskBike/",
-    "upvotes": 142,
+    "upvotes": 149,
     "author": "wvenable",
-    "comments": 84,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=26747136"
-  },
-  {
-    "title": "Spotify continues to remove Joe Rogan episodes",
-    "url": "https://www.digitalmusicnews.com/2021/04/06/joe-rogan-spotify-removing-shows/",
-    "upvotes": 183,
-    "author": "danso",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=26753890"
   },
   {
     "title": "Vector Games 32c3",
     "url": "https://trmm.net/Vector_games_32c3/",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "rbanffy",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26747703"
-  },
-  {
-    "title": "Jurigged – Hot code reloading for Python",
-    "url": "https://github.com/breuleux/jurigged",
-    "upvotes": 77,
-    "author": "breuleux",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26753190"
-  },
-  {
-    "title": "Links are not buttons",
-    "url": "https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/",
-    "upvotes": 75,
-    "author": "Fiveplus",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=26737064"
   },
   {
     "title": "Oliver Heaviside",
     "url": "https://sci-hub.se/10.1093/teamat/2.2.55",
-    "upvotes": 90,
+    "upvotes": 91,
     "author": "agnosticmantis",
-    "comments": 29,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26751222"
   },
   {
-    "title": "A Mathematical Trivium [pdf]",
-    "url": "https://physics.montana.edu/avorontsov/teaching/problemoftheweek/documents/Arnold-Trivium-1991.pdf",
-    "upvotes": 26,
-    "author": "cesarosum",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26737791"
+    "title": "Links are not buttons",
+    "url": "https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/",
+    "upvotes": 78,
+    "author": "Fiveplus",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=26737064"
   },
   {
     "title": "Breakfast at Bäckerei Frank",
     "url": "http://travelhungry.co/blog/2014/6/21/breakfast-at-backerei-frank",
-    "upvotes": 33,
+    "upvotes": 41,
     "author": "Tomte",
-    "comments": 17,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26737051"
   },
   {
     "title": "Figma and Canva are taking on Adobe and winning",
     "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
-    "upvotes": 185,
+    "upvotes": 193,
     "author": "samulipehkonen",
-    "comments": 193,
+    "comments": 197,
     "link": "https://news.ycombinator.com/item?id=26748723"
   },
   {
-    "title": "Estonian Electronic Identity Card and Its Security Challenges [pdf]",
-    "url": "https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y",
-    "upvotes": 54,
-    "author": "IndrekR",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26753147"
+    "title": "Comparative unsafety",
+    "url": "https://flak.tedunangst.com/post/comparative-unsafety",
+    "upvotes": 35,
+    "author": "lionkor",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26749199"
   },
   {
-    "title": "The Buddhist history of moveable type before Gutenberg",
-    "url": "https://tricycle.org/magazine/buddhist-history-moveable-type/",
-    "upvotes": 39,
-    "author": "krig",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26747482"
-  },
-  {
-    "title": "Scalable, Resilient Brainfuck",
-    "url": "https://zserge.com/posts/bfaas/",
-    "upvotes": 211,
-    "author": "stevekemp",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26747384"
-  },
-  {
-    "title": "A Year in the Life of a Compiler Fuzzing Campaign",
-    "url": "https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/",
-    "upvotes": 78,
-    "author": "axiomdata316",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26751130"
-  },
-  {
-    "title": "Has the era of overzealous cleaning finally come to an end?",
-    "url": "https://www.nytimes.com/2021/04/08/health/coronavirus-hygiene-cleaning-surfaces.html",
-    "upvotes": 54,
-    "author": "prostoalex",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=26752497"
+    "title": "A Mathematical Trivium",
+    "url": "https://physics.montana.edu/avorontsov/teaching/problemoftheweek/documents/Arnold-Trivium-1991.pdf",
+    "upvotes": 28,
+    "author": "cesarosum",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26737791"
   },
   {
     "title": "Clothing, How Did They Make It? Part IVb: Cloth Money",
     "url": "https://acoup.blog/2021/04/09/collections-clothing-how-did-they-make-it-part-ivb-cloth-money/",
-    "upvotes": 47,
+    "upvotes": 50,
     "author": "parsecs",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26752710"
   },
   {
+    "title": "Jurigged – Hot code reloading for Python",
+    "url": "https://github.com/breuleux/jurigged",
+    "upvotes": 83,
+    "author": "breuleux",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26753190"
+  },
+  {
+    "title": "Scalable, Resilient Brainfuck",
+    "url": "https://zserge.com/posts/bfaas/",
+    "upvotes": 214,
+    "author": "stevekemp",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26747384"
+  },
+  {
+    "title": "The Buddhist history of moveable type before Gutenberg",
+    "url": "https://tricycle.org/magazine/buddhist-history-moveable-type/",
+    "upvotes": 43,
+    "author": "krig",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26747482"
+  },
+  {
     "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
     "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
-    "upvotes": 236,
+    "upvotes": 251,
     "author": "todd8",
-    "comments": 233,
+    "comments": 264,
     "link": "https://news.ycombinator.com/item?id=26750452"
   },
   {
-    "title": "Amazon workers vote against unionizing in Alabama",
-    "url": "https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604",
-    "upvotes": 400,
-    "author": "cwwc",
-    "comments": 950,
-    "link": "https://news.ycombinator.com/item?id=26751562"
+    "title": "A Year in the Life of a Compiler Fuzzing Campaign",
+    "url": "https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/",
+    "upvotes": 81,
+    "author": "axiomdata316",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26751130"
   },
   {
     "title": "Silphium",
     "url": "https://en.wikipedia.org/wiki/Silphium",
-    "upvotes": 117,
+    "upvotes": 121,
     "author": "benbreen",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26745248"
+  },
+  {
+    "title": "Amazon workers vote against unionizing in Alabama",
+    "url": "https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604",
+    "upvotes": 412,
+    "author": "cwwc",
+    "comments": 972,
+    "link": "https://news.ycombinator.com/item?id=26751562"
+  },
+  {
+    "title": "Spotify continues to remove Joe Rogan episodes",
+    "url": "https://www.digitalmusicnews.com/2021/04/06/joe-rogan-spotify-removing-shows/",
+    "upvotes": 213,
+    "author": "danso",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=26753890"
+  },
+  {
+    "title": "Estonian Electronic Identity Card and Its Security Challenges [pdf]",
+    "url": "https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y",
+    "upvotes": 58,
+    "author": "IndrekR",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26753147"
   }
 ]
