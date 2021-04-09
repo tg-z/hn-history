@@ -2,98 +2,106 @@
   {
     "title": "Why uBlock Origin works best on Firefox",
     "url": "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox",
-    "upvotes": 154,
+    "upvotes": 263,
     "author": "anonymfus",
-    "comments": 44,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26755252"
   },
   {
     "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
     "url": "https://github.com/DualCoder/vgpu_unlock",
-    "upvotes": 169,
+    "upvotes": 196,
     "author": "fragileone",
-    "comments": 50,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26754351"
   },
   {
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 157,
+    "upvotes": 199,
     "author": "karl42",
-    "comments": 42,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26747305"
   },
   {
     "title": "Zoom zero-day discovery",
     "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
-    "upvotes": 379,
+    "upvotes": 388,
     "author": "alexrustic",
-    "comments": 186,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=26749350"
   },
   {
     "title": "HW accelerated Xwayland rendering for Nvidia merged",
     "url": "https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587",
-    "upvotes": 166,
+    "upvotes": 176,
     "author": "luigifcruz",
-    "comments": 99,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26750976"
   },
   {
-    "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
-    "upvotes": 85,
-    "author": "mpweiher",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26752223"
+    "title": "A 900-Page Pre-Pantone Guide to Color from 1692: A Complete High-Resolution Scan",
+    "url": "https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html",
+    "upvotes": 10,
+    "author": "throw0101a",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26755839"
   },
   {
     "title": "The Expansion of the Universe",
     "url": "https://johncarlosbaez.wordpress.com/2021/04/09/the-expansion-of-the-universe/",
-    "upvotes": 26,
+    "upvotes": 37,
     "author": "nabla9",
-    "comments": 13,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26755045"
+  },
+  {
+    "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
+    "upvotes": 102,
+    "author": "mpweiher",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26752223"
   },
   {
     "title": "Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation",
     "url": "https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html",
-    "upvotes": 31,
+    "upvotes": 43,
     "author": "theafh",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26753851"
   },
   {
-    "title": "Spotify Continues to Remove Joe Rogan Episodes – 42 Shows Now Deleted",
+    "title": "Was the NE2000 That Bad?",
+    "url": "http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/",
+    "upvotes": 24,
+    "author": "vitplister",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26755293"
+  },
+  {
+    "title": "Spotify continues to remove Joe Rogan episodes",
     "url": "https://www.digitalmusicnews.com/2021/04/06/joe-rogan-spotify-removing-shows/",
-    "upvotes": 59,
+    "upvotes": 104,
     "author": "danso",
-    "comments": 30,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26753890"
   },
   {
     "title": "Hacking a $200 Under Desk Exercise Bike",
     "url": "https://codaris.github.io/UnderDeskBike/",
-    "upvotes": 123,
+    "upvotes": 133,
     "author": "wvenable",
-    "comments": 71,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26747136"
   },
   {
-    "title": "Jurigged – Hot code reloading for Python",
-    "url": "https://github.com/breuleux/jurigged",
-    "upvotes": 59,
-    "author": "breuleux",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26753190"
-  },
-  {
-    "title": "Links are not buttons",
-    "url": "https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/",
-    "upvotes": 71,
-    "author": "Fiveplus",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26737064"
+    "title": "A look at LLVM: comparing clamp implementations",
+    "url": "https://secret.club/2021/04/09/std-clamp.html",
+    "upvotes": 12,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26753872"
   },
   {
     "title": "Bentocart",
@@ -104,135 +112,127 @@
     "url": "https://sci-hub.se/10.1093/teamat/2.2.55",
     "upvotes": 86,
     "author": "agnosticmantis",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26751222"
   },
   {
-    "title": "Initial M1 support merged into Linux SoC tree",
-    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
-    "upvotes": 592,
-    "author": "joseluisq",
-    "comments": 307,
-    "link": "https://news.ycombinator.com/item?id=26746983"
+    "title": "Links are not buttons",
+    "url": "https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/",
+    "upvotes": 72,
+    "author": "Fiveplus",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=26737064"
   },
   {
-    "title": "The Buddhist history of moveable type before Gutenberg",
-    "url": "https://tricycle.org/magazine/buddhist-history-moveable-type/",
-    "upvotes": 27,
-    "author": "krig",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26747482"
+    "title": "Jurigged – Hot code reloading for Python",
+    "url": "https://github.com/breuleux/jurigged",
+    "upvotes": 67,
+    "author": "breuleux",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26753190"
+  },
+  {
+    "title": "A Mathematical Trivium [pdf]",
+    "url": "https://physics.montana.edu/avorontsov/teaching/problemoftheweek/documents/Arnold-Trivium-1991.pdf",
+    "upvotes": 11,
+    "author": "cesarosum",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26737791"
   },
   {
     "title": "Estonian Electronic Identity Card and Its Security Challenges [pdf]",
     "url": "https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "IndrekR",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26753147"
   },
   {
-    "title": "Was the NE2000 That Bad?",
-    "url": "http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/",
-    "upvotes": 13,
-    "author": "vitplister",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26755293"
+    "title": "The Buddhist history of moveable type before Gutenberg",
+    "url": "https://tricycle.org/magazine/buddhist-history-moveable-type/",
+    "upvotes": 33,
+    "author": "krig",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26747482"
   },
   {
     "title": "Clothing, How Did They Make It? Part IVb: Cloth Money",
     "url": "https://acoup.blog/2021/04/09/collections-clothing-how-did-they-make-it-part-ivb-cloth-money/",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "parsecs",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26752710"
   },
   {
-    "title": "Amazon workers vote against unionizing in Alabama",
-    "url": "https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604",
-    "upvotes": 368,
-    "author": "cwwc",
-    "comments": 890,
-    "link": "https://news.ycombinator.com/item?id=26751562"
+    "title": "Figma and Canva are taking on Adobe and winning",
+    "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
+    "upvotes": 167,
+    "author": "samulipehkonen",
+    "comments": 186,
+    "link": "https://news.ycombinator.com/item?id=26748723"
   },
   {
     "title": "A Year in the Life of a Compiler Fuzzing Campaign",
     "url": "https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "axiomdata316",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26751130"
   },
   {
-    "title": "A Mathematical Trivium [pdf]",
-    "url": "https://physics.montana.edu/avorontsov/teaching/problemoftheweek/documents/Arnold-Trivium-1991.pdf",
-    "upvotes": 5,
-    "author": "cesarosum",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26737791"
-  },
-  {
-    "title": "Figma and Canva are taking on Adobe and winning",
-    "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
-    "upvotes": 164,
-    "author": "samulipehkonen",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=26748723"
-  },
-  {
-    "title": "Silphium",
-    "url": "https://en.wikipedia.org/wiki/Silphium",
-    "upvotes": 108,
-    "author": "benbreen",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26745248"
+    "title": "Amazon workers vote against unionizing in Alabama",
+    "url": "https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604",
+    "upvotes": 384,
+    "author": "cwwc",
+    "comments": 912,
+    "link": "https://news.ycombinator.com/item?id=26751562"
   },
   {
     "title": "Breakfast at Bäckerei Frank",
     "url": "http://travelhungry.co/blog/2014/6/21/breakfast-at-backerei-frank",
-    "upvotes": 16,
+    "upvotes": 25,
     "author": "Tomte",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26737051"
   },
   {
     "title": "Has the era of overzealous cleaning finally come to an end?",
     "url": "https://www.nytimes.com/2021/04/08/health/coronavirus-hygiene-cleaning-surfaces.html",
-    "upvotes": 40,
+    "upvotes": 46,
     "author": "prostoalex",
-    "comments": 42,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26752497"
   },
   {
-    "title": "Food waste responsible for 10% of global emissions?",
-    "url": "https://www.bloomberg.com/news/articles/2021-03-04/in-one-year-a-billion-tons-of-food-got-wasted-mostly-at-home",
-    "upvotes": 105,
-    "author": "cwwc",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=26748763"
+    "title": "Scalable, Resilient Brainfuck",
+    "url": "https://zserge.com/posts/bfaas/",
+    "upvotes": 201,
+    "author": "stevekemp",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26747384"
+  },
+  {
+    "title": "Silphium",
+    "url": "https://en.wikipedia.org/wiki/Silphium",
+    "upvotes": 113,
+    "author": "benbreen",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26745248"
+  },
+  {
+    "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
+    "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
+    "upvotes": 211,
+    "author": "todd8",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=26750452"
   },
   {
     "title": "Show HN: Export Mail for Microsoft Outlook for Mac",
     "url": "https://exportoutlookmacmail.com/",
-    "upvotes": 15,
+    "upvotes": 19,
     "author": "lancer",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26751612"
-  },
-  {
-    "title": "No Python interpreter? this simple RAT installs its own copy",
-    "url": "https://isc.sans.edu/forums/diary/No+Python+Interpreter+This+Simple+RAT+Installs+Its+Own+Copy/27292/",
-    "upvotes": 58,
-    "author": "wolframio",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26748731"
-  },
-  {
-    "title": "Why Hypercard had to die",
-    "url": "http://www.loper-os.org/?p=568",
-    "upvotes": 137,
-    "author": "_448",
-    "comments": 145,
-    "link": "https://news.ycombinator.com/item?id=26749425"
   }
 ]
