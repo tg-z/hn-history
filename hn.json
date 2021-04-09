@@ -2,23 +2,23 @@
   {
     "title": "Monkey MindPong",
     "url": "https://neuralink.com/blog/",
-    "upvotes": 89,
+    "upvotes": 129,
     "author": "ag8",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26745227"
   },
   {
     "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
     "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
-    "upvotes": 157,
+    "upvotes": 171,
     "author": "gumby",
-    "comments": 64,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26745326"
   },
   {
     "title": "The architecture behind a one-person tech startup",
     "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/",
-    "upvotes": 1005,
+    "upvotes": 1017,
     "author": "ksahin",
     "comments": 260,
     "link": "https://news.ycombinator.com/item?id=26737771"
@@ -26,90 +26,118 @@
   {
     "title": "Home-Built Scanning Tunneling Microscope",
     "url": "https://dberard.com/home-built-stm/",
-    "upvotes": 304,
+    "upvotes": 307,
     "author": "_Microft",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26740968"
-  },
-  {
-    "title": "Idempotence now prevents pain later",
-    "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
-    "upvotes": 170,
-    "author": "zdw",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=26726449"
-  },
-  {
-    "title": "Why keyboard shortcuts don't work on non-US layouts and how devs could fix it",
-    "url": "https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/",
-    "upvotes": 149,
-    "author": "tkainrad",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26743028"
   },
   {
     "title": "You Don't Need a GUI",
     "url": "https://github.com/you-dont-need/You-Dont-Need-GUI",
-    "upvotes": 95,
+    "upvotes": 106,
     "author": "loige",
-    "comments": 93,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=26743704"
+  },
+  {
+    "title": "Idempotence now prevents pain later",
+    "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
+    "upvotes": 175,
+    "author": "zdw",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26726449"
   },
   {
     "title": "Why do long options start with two dashes?",
     "url": "https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/",
-    "upvotes": 198,
+    "upvotes": 203,
     "author": "spyh",
-    "comments": 124,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=26744519"
+  },
+  {
+    "title": "Why keyboard shortcuts don't work on non-US layouts and how devs could fix it",
+    "url": "https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/",
+    "upvotes": 150,
+    "author": "tkainrad",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=26743028"
+  },
+  {
+    "title": "'Satan Shoes' to be recalled as Nike agrees to settle lawsuit",
+    "url": "https://www.bbc.com/news/business-56684773",
+    "upvotes": 3,
+    "author": "neom",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26746171"
+  },
+  {
+    "title": "Vald: A Highly Scalable Distributed Vector Search Engine",
+    "url": "https://github.com/vdaas/vald",
+    "upvotes": 25,
+    "author": "ngaut",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26735300"
   },
   {
     "title": "Wuffs the Language",
     "url": "https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md",
-    "upvotes": 127,
+    "upvotes": 132,
     "author": "bshanks",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26731305"
   },
   {
-    "title": "Vald: A Highly Scalable Distributed Vector Search Engine",
-    "url": "https://github.com/vdaas/vald",
-    "upvotes": 20,
-    "author": "ngaut",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26735300"
+    "title": "A skeptic’s take on Neuralink and other consumer neurotech",
+    "url": "https://www.statnews.com/2021/04/07/consumer-neurotech-skeptic/",
+    "upvotes": 72,
+    "author": "hhs",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=26739872"
   },
   {
     "title": "Run Bhyve in FreeBSD jails – The view from inside the forest",
     "url": "https://neirac.byteswizards.com/posts/run-bhyve-in-freebsd-jails/",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "rodrigo975",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26742588"
   },
   {
-    "title": "A skeptic’s take on Neuralink and other consumer neurotech",
-    "url": "https://www.statnews.com/2021/04/07/consumer-neurotech-skeptic/",
-    "upvotes": 71,
-    "author": "hhs",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=26739872"
-  },
-  {
     "title": "A man is looking for the friends who shipped him overseas in a crate in 1965",
     "url": "https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296",
-    "upvotes": 315,
+    "upvotes": 318,
     "author": "colinprince",
-    "comments": 182,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=26740451"
   },
   {
     "title": "GNU lightning: generates assembly language code at run-time",
     "url": "https://www.gnu.org/software/lightning/",
-    "upvotes": 120,
+    "upvotes": 121,
     "author": "mpsq",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26723198"
+  },
+  {
+    "title": "Show HN: A Twitter crawler for app ideas",
+    "url": "https://iwishtherewas.app/",
+    "upvotes": 156,
+    "author": "mulhoon",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26741611"
+  },
+  {
+    "title": "Deep genetic affinity between coastal Pacific and Amazonian natives",
+    "url": "https://www.pnas.org/content/118/14/e2025739118",
+    "upvotes": 32,
+    "author": "Thevet",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26730787"
+  },
+  {
+    "title": "Shelf Engine",
+    "url": "https://jobs.lever.co/shelfengine/163ee4db-95dd-4cbe-8e96-0454d2e22868"
   },
   {
     "title": "Hooking keyboard input to play Snake in Notepad.exe",
@@ -120,48 +148,20 @@
     "link": "https://news.ycombinator.com/item?id=26735187"
   },
   {
-    "title": "Show HN: A Twitter crawler for app ideas",
-    "url": "https://iwishtherewas.app/",
-    "upvotes": 154,
-    "author": "mulhoon",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26741611"
-  },
-  {
-    "title": "Shelf Engine",
-    "url": "https://jobs.lever.co/shelfengine/163ee4db-95dd-4cbe-8e96-0454d2e22868"
-  },
-  {
-    "title": "Deep genetic affinity between coastal Pacific and Amazonian natives",
-    "url": "https://www.pnas.org/content/118/14/e2025739118",
-    "upvotes": 29,
-    "author": "Thevet",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26730787"
-  },
-  {
     "title": "Ask HN: Why is the Linux community struggling to implement hibernation?",
     "url": "item?id=26739220",
     "upvotes": 238,
     "author": "cyka178",
-    "comments": 259,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=26739220"
   },
   {
     "title": "Visceral fat shows strongest association with ICU need in patients with Covid-19",
     "url": "https://www.metabolismjournal.com/article/S0026-0495(20)30183-9/fulltext",
-    "upvotes": 8,
+    "upvotes": 16,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26745875"
-  },
-  {
-    "title": "Type-safe generic data structures in C",
-    "url": "https://iafisher.com/blog/2020/06/type-safe-generics-in-c",
-    "upvotes": 9,
-    "author": "signa11",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26735655"
   },
   {
     "title": "The Tarnished Moon",
@@ -172,67 +172,67 @@
     "link": "https://news.ycombinator.com/item?id=26741460"
   },
   {
-    "title": "Ask HN: I built it, nobody came, now what?",
-    "url": "item?id=26734079",
-    "upvotes": 83,
-    "author": "d--b",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=26734079"
-  },
-  {
     "title": "Ory Keto, open source authorization server based on Google Zanzibar",
     "url": "https://github.com/ory/keto",
-    "upvotes": 225,
+    "upvotes": 227,
     "author": "An0mammall",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26738344"
   },
   {
+    "title": "Ask HN: I built it, nobody came, now what?",
+    "url": "item?id=26734079",
+    "upvotes": 91,
+    "author": "d--b",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=26734079"
+  },
+  {
+    "title": "Type-safe generic data structures in C",
+    "url": "https://iafisher.com/blog/2020/06/type-safe-generics-in-c",
+    "upvotes": 12,
+    "author": "signa11",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26735655"
+  },
+  {
     "title": "Muon G-2 Experiment at Fermilab Finds Hint of New Particles",
     "url": "https://www.quantamagazine.org/muon-g-2-experiment-at-fermilab-finds-hint-of-new-particles-20210407",
-    "upvotes": 117,
+    "upvotes": 118,
     "author": "gmays",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26738989"
   },
   {
-    "title": "Greeks Bearing Gifts: tracking the labyrinthine path of technology’s progress",
-    "url": "https://www.laphamsquarterly.org/technology/greeks-bearing-gifts",
-    "upvotes": 10,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26735293"
+    "title": "Adding is favoured over subtracting in problem solving",
+    "url": "https://www.nature.com/articles/d41586-021-00592-0",
+    "upvotes": 128,
+    "author": "mpweiher",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=26727878"
   },
   {
     "title": "Axon: A library for creating neural networks in Elixir",
     "url": "https://github.com/elixir-nx/axon",
-    "upvotes": 128,
+    "upvotes": 129,
     "author": "smn",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26737956"
   },
   {
-    "title": "Adding is favoured over subtracting in problem solving",
-    "url": "https://www.nature.com/articles/d41586-021-00592-0",
-    "upvotes": 126,
-    "author": "mpweiher",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26727878"
-  },
-  {
     "title": "Commits are snapshots not diffs",
     "url": "https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/",
-    "upvotes": 284,
+    "upvotes": 285,
     "author": "warpech",
-    "comments": 259,
+    "comments": 260,
     "link": "https://news.ycombinator.com/item?id=26741829"
   },
   {
-    "title": "MacBook and iPad production delayed as supply crunch hits Apple",
-    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/MacBook-and-iPad-production-delayed-as-supply-crunch-hits-Apple",
-    "upvotes": 141,
-    "author": "gumby",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26743519"
+    "title": "How a Carnivorous Mushroom Poisons Its Prey",
+    "url": "https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/",
+    "upvotes": 3,
+    "author": "sohkamyung",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26745892"
   }
 ]
