@@ -2,39 +2,39 @@
   {
     "title": "Initial M1 support merged into Linux SoC tree",
     "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
-    "upvotes": 160,
+    "upvotes": 187,
     "author": "joseluisq",
-    "comments": 80,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=26746983"
   },
   {
     "title": "Docker without Docker",
     "url": "https://fly.io/blog/docker-without-docker/",
-    "upvotes": 254,
+    "upvotes": 283,
     "author": "kwindla",
-    "comments": 58,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26746280"
   },
   {
     "title": "Bike Theft Map – Bikmo",
     "url": "https://bike-theft-map.bikmo.com/",
-    "upvotes": 7,
+    "upvotes": 16,
     "author": "astre9",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26747513"
   },
   {
     "title": "Monkey MindPong",
     "url": "https://neuralink.com/blog/",
-    "upvotes": 357,
+    "upvotes": 364,
     "author": "ag8",
-    "comments": 131,
+    "comments": 138,
     "link": "https://news.ycombinator.com/item?id=26745227"
   },
   {
     "title": "Tree.h in OpenBSD: dependency-free intrusive binary tree",
     "url": "https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h",
-    "upvotes": 38,
+    "upvotes": 42,
     "author": "attractivechaos",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26746674"
@@ -42,115 +42,115 @@
   {
     "title": "Hawking Hawking",
     "url": "https://www.math.columbia.edu/~woit/wordpress/?p=12235",
-    "upvotes": 47,
+    "upvotes": 50,
     "author": "chmaynard",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26746687"
+  },
+  {
+    "title": "FFmpeg 4.4",
+    "url": "http://ffmpeg.org/index.html#pr4.4",
+    "upvotes": 114,
+    "author": "_Gyan_",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26746537"
   },
   {
     "title": "Jupiter",
     "url": "https://www.notion.so/jupiterhome/Full-Stack-Software-Engineer-Product-9997a862394d48e4b8db702b859141e2"
   },
   {
-    "title": "FFmpeg 4.4",
-    "url": "http://ffmpeg.org/index.html#pr4.4",
-    "upvotes": 101,
-    "author": "_Gyan_",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26746537"
-  },
-  {
     "title": "How a carnivorous mushroom poisons its prey",
     "url": "https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/",
-    "upvotes": 70,
+    "upvotes": 75,
     "author": "sohkamyung",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26745892"
   },
   {
     "title": "You Don't Need a GUI",
     "url": "https://github.com/you-dont-need/You-Dont-Need-GUI",
-    "upvotes": 208,
+    "upvotes": 219,
     "author": "loige",
-    "comments": 212,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=26743704"
+  },
+  {
+    "title": "Coq searches for alternative name",
+    "url": "https://github.com/coq/coq/wiki/Alternative-names",
+    "upvotes": 28,
+    "author": "janvdberg",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26747129"
   },
   {
     "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
     "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
-    "upvotes": 274,
+    "upvotes": 283,
     "author": "gumby",
-    "comments": 101,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=26745326"
   },
   {
     "title": "Idempotence now prevents pain later",
     "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
-    "upvotes": 271,
+    "upvotes": 279,
     "author": "zdw",
-    "comments": 95,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=26726449"
   },
   {
     "title": "Home-Built Scanning Tunneling Microscope",
     "url": "https://dberard.com/home-built-stm/",
-    "upvotes": 328,
+    "upvotes": 331,
     "author": "_Microft",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26740968"
   },
   {
-    "title": "Why keyboard shortcuts don't work on non-US layouts and how devs could fix it",
-    "url": "https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/",
-    "upvotes": 211,
-    "author": "tkainrad",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=26743028"
-  },
-  {
-    "title": "Coq searches for alternative name",
-    "url": "https://github.com/coq/coq/wiki/Alternative-names",
-    "upvotes": 13,
-    "author": "janvdberg",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26747129"
-  },
-  {
     "title": "Lossless Text Compression [pdf]",
     "url": "https://bilalonureskili.com/files/LTC_en.pdf",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "kronxe",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26722960"
   },
   {
-    "title": "Vald: A Highly Scalable Distributed Vector Search Engine",
-    "url": "https://github.com/vdaas/vald",
-    "upvotes": 57,
-    "author": "ngaut",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26735300"
+    "title": "Why keyboard shortcuts don't work on non-US layouts and how devs could fix it",
+    "url": "https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/",
+    "upvotes": 217,
+    "author": "tkainrad",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=26743028"
   },
   {
-    "title": "Why do long options start with two dashes?",
-    "url": "https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/",
-    "upvotes": 259,
-    "author": "spyh",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=26744519"
+    "title": "Vald: A Highly Scalable Distributed Vector Search Engine",
+    "url": "https://github.com/vdaas/vald",
+    "upvotes": 58,
+    "author": "ngaut",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26735300"
   },
   {
     "title": "A Brief F# Exploration",
     "url": "https://notes.srid.ca/fsharp-exploration",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "todsacerdoti",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26739501"
+  },
+  {
+    "title": "Why do long options start with two dashes?",
+    "url": "https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/",
+    "upvotes": 265,
+    "author": "spyh",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=26744519"
   },
   {
     "title": "Deep genetic affinity between coastal Pacific and Amazonian natives",
     "url": "https://www.pnas.org/content/118/14/e2025739118",
-    "upvotes": 58,
+    "upvotes": 60,
     "author": "Thevet",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26730787"
@@ -166,33 +166,33 @@
   {
     "title": "Show HN: A Twitter crawler for app ideas",
     "url": "https://iwishtherewas.app/",
-    "upvotes": 195,
+    "upvotes": 200,
     "author": "mulhoon",
-    "comments": 91,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26741611"
   },
   {
     "title": "GNU lightning: generates assembly language code at run-time",
     "url": "https://www.gnu.org/software/lightning/",
-    "upvotes": 147,
+    "upvotes": 148,
     "author": "mpsq",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26723198"
   },
   {
     "title": "The architecture behind a one-person tech startup",
     "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/",
-    "upvotes": 1085,
+    "upvotes": 1094,
     "author": "ksahin",
-    "comments": 273,
+    "comments": 274,
     "link": "https://news.ycombinator.com/item?id=26737771"
   },
   {
     "title": "Hooking keyboard input to play Snake in Notepad.exe",
     "url": "http://kylehalladay.com/blog/2020/05/20/Hooking-Input-Snake-In-Notepad.html",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "pcr910303",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26735187"
   },
   {
@@ -200,39 +200,39 @@
     "url": "https://www.statnews.com/2021/04/07/consumer-neurotech-skeptic/",
     "upvotes": 90,
     "author": "hhs",
-    "comments": 96,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26739872"
   },
   {
     "title": "A man is looking for the friends who shipped him overseas in a crate in 1965",
     "url": "https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296",
-    "upvotes": 361,
+    "upvotes": 362,
     "author": "colinprince",
     "comments": 206,
     "link": "https://news.ycombinator.com/item?id=26740451"
+  },
+  {
+    "title": "Adding is favoured over subtracting in problem solving",
+    "url": "https://www.nature.com/articles/d41586-021-00592-0",
+    "upvotes": 162,
+    "author": "mpweiher",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=26727878"
+  },
+  {
+    "title": "Ask HN: I built it, nobody came, now what?",
+    "url": "item?id=26734079",
+    "upvotes": 144,
+    "author": "d--b",
+    "comments": 156,
+    "link": "https://news.ycombinator.com/item?id=26734079"
   },
   {
     "title": "Run Bhyve in FreeBSD jails – The view from inside the forest",
     "url": "https://neirac.byteswizards.com/posts/run-bhyve-in-freebsd-jails/",
     "upvotes": 86,
     "author": "rodrigo975",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26742588"
-  },
-  {
-    "title": "Adding is favoured over subtracting in problem solving",
-    "url": "https://www.nature.com/articles/d41586-021-00592-0",
-    "upvotes": 161,
-    "author": "mpweiher",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=26727878"
-  },
-  {
-    "title": "Ask HN: I built it, nobody came, now what?",
-    "url": "item?id=26734079",
-    "upvotes": 140,
-    "author": "d--b",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=26734079"
   }
 ]
