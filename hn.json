@@ -1,24 +1,32 @@
 [
   {
+    "title": "Initial M1 support merged into Linux SoC tree",
+    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
+    "upvotes": 43,
+    "author": "joseluisq",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26746983"
+  },
+  {
     "title": "Docker without Docker",
     "url": "https://fly.io/blog/docker-without-docker/",
-    "upvotes": 117,
+    "upvotes": 156,
     "author": "kwindla",
-    "comments": 37,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26746280"
   },
   {
     "title": "Monkey MindPong",
     "url": "https://neuralink.com/blog/",
-    "upvotes": 289,
+    "upvotes": 304,
     "author": "ag8",
-    "comments": 101,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=26745227"
   },
   {
     "title": "Hawking Hawking",
     "url": "https://www.math.columbia.edu/~woit/wordpress/?p=12235",
-    "upvotes": 22,
+    "upvotes": 30,
     "author": "chmaynard",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26746687"
@@ -26,23 +34,23 @@
   {
     "title": "FFmpeg 4.4",
     "url": "http://ffmpeg.org/index.html#pr4.4",
-    "upvotes": 59,
+    "upvotes": 70,
     "author": "_Gyan_",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26746537"
   },
   {
     "title": "Tree.h in OpenBSD: dependency-free intrusive binary tree",
     "url": "https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h",
-    "upvotes": 15,
+    "upvotes": 22,
     "author": "attractivechaos",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26746674"
   },
   {
     "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
     "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
-    "upvotes": 241,
+    "upvotes": 249,
     "author": "gumby",
     "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26745326"
@@ -50,39 +58,39 @@
   {
     "title": "How a carnivorous mushroom poisons its prey",
     "url": "https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "sohkamyung",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26745892"
-  },
-  {
-    "title": "Idempotence now prevents pain later",
-    "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
-    "upvotes": 233,
-    "author": "zdw",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26726449"
   },
   {
     "title": "You Don't Need a GUI",
     "url": "https://github.com/you-dont-need/You-Dont-Need-GUI",
-    "upvotes": 160,
+    "upvotes": 171,
     "author": "loige",
-    "comments": 163,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=26743704"
+  },
+  {
+    "title": "Idempotence now prevents pain later",
+    "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
+    "upvotes": 240,
+    "author": "zdw",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=26726449"
   },
   {
     "title": "Home-Built Scanning Tunneling Microscope",
     "url": "https://dberard.com/home-built-stm/",
-    "upvotes": 321,
+    "upvotes": 323,
     "author": "_Microft",
-    "comments": 74,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26740968"
   },
   {
     "title": "Why keyboard shortcuts don't work on non-US layouts and how devs could fix it",
     "url": "https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/",
-    "upvotes": 176,
+    "upvotes": 182,
     "author": "tkainrad",
     "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26743028"
@@ -90,58 +98,66 @@
   {
     "title": "Lossless Text Compression [pdf]",
     "url": "https://bilalonureskili.com/files/LTC_en.pdf",
-    "upvotes": 23,
+    "upvotes": 27,
     "author": "kronxe",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26722960"
   },
   {
     "title": "Vald: A Highly Scalable Distributed Vector Search Engine",
     "url": "https://github.com/vdaas/vald",
-    "upvotes": 45,
+    "upvotes": 50,
     "author": "ngaut",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26735300"
   },
   {
     "title": "Why do long options start with two dashes?",
     "url": "https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/",
-    "upvotes": 231,
+    "upvotes": 238,
     "author": "spyh",
-    "comments": 152,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=26744519"
+  },
+  {
+    "title": "Hooking keyboard input to play Snake in Notepad.exe",
+    "url": "http://kylehalladay.com/blog/2020/05/20/Hooking-Input-Snake-In-Notepad.html",
+    "upvotes": 42,
+    "author": "pcr910303",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26735187"
+  },
+  {
+    "title": "Wuffs the Language",
+    "url": "https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md",
+    "upvotes": 149,
+    "author": "bshanks",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26731305"
   },
   {
     "title": "Type-safe generic data structures in C",
     "url": "https://iafisher.com/blog/2020/06/type-safe-generics-in-c",
     "upvotes": 32,
     "author": "signa11",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26735655"
   },
   {
     "title": "A Brief F# Exploration",
     "url": "https://notes.srid.ca/fsharp-exploration",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26739501"
   },
   {
-    "title": "Wuffs the Language",
-    "url": "https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md",
-    "upvotes": 147,
-    "author": "bshanks",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26731305"
-  },
-  {
-    "title": "Hooking keyboard input to play Snake in Notepad.exe",
-    "url": "http://kylehalladay.com/blog/2020/05/20/Hooking-Input-Snake-In-Notepad.html",
-    "upvotes": 39,
-    "author": "pcr910303",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26735187"
+    "title": "Deep genetic affinity between coastal Pacific and Amazonian natives",
+    "url": "https://www.pnas.org/content/118/14/e2025739118",
+    "upvotes": 50,
+    "author": "Thevet",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26730787"
   },
   {
     "title": "GNU lightning: generates assembly language code at run-time",
@@ -152,20 +168,20 @@
     "link": "https://news.ycombinator.com/item?id=26723198"
   },
   {
-    "title": "Deep genetic affinity between coastal Pacific and Amazonian natives",
-    "url": "https://www.pnas.org/content/118/14/e2025739118",
-    "upvotes": 47,
-    "author": "Thevet",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26730787"
-  },
-  {
     "title": "Show HN: A Twitter crawler for app ideas",
     "url": "https://iwishtherewas.app/",
-    "upvotes": 174,
+    "upvotes": 180,
     "author": "mulhoon",
     "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26741611"
+  },
+  {
+    "title": "Ask HN: Why is the Linux community struggling to implement hibernation?",
+    "url": "item?id=26739220",
+    "upvotes": 267,
+    "author": "cyka178",
+    "comments": 278,
+    "link": "https://news.ycombinator.com/item?id=26739220"
   },
   {
     "title": "Shelf Engine",
@@ -174,34 +190,26 @@
   {
     "title": "The architecture behind a one-person tech startup",
     "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/",
-    "upvotes": 1058,
+    "upvotes": 1062,
     "author": "ksahin",
-    "comments": 268,
+    "comments": 271,
     "link": "https://news.ycombinator.com/item?id=26737771"
-  },
-  {
-    "title": "Ask HN: Why is the Linux community struggling to implement hibernation?",
-    "url": "item?id=26739220",
-    "upvotes": 262,
-    "author": "cyka178",
-    "comments": 273,
-    "link": "https://news.ycombinator.com/item?id=26739220"
-  },
-  {
-    "title": "A man is looking for the friends who shipped him overseas in a crate in 1965",
-    "url": "https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296",
-    "upvotes": 344,
-    "author": "colinprince",
-    "comments": 201,
-    "link": "https://news.ycombinator.com/item?id=26740451"
   },
   {
     "title": "A skeptic’s take on Neuralink and other consumer neurotech",
     "url": "https://www.statnews.com/2021/04/07/consumer-neurotech-skeptic/",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "hhs",
     "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26739872"
+  },
+  {
+    "title": "A man is looking for the friends who shipped him overseas in a crate in 1965",
+    "url": "https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296",
+    "upvotes": 350,
+    "author": "colinprince",
+    "comments": 204,
+    "link": "https://news.ycombinator.com/item?id=26740451"
   },
   {
     "title": "Run Bhyve in FreeBSD jails – The view from inside the forest",
@@ -214,9 +222,9 @@
   {
     "title": "Adding is favoured over subtracting in problem solving",
     "url": "https://www.nature.com/articles/d41586-021-00592-0",
-    "upvotes": 147,
+    "upvotes": 151,
     "author": "mpweiher",
-    "comments": 119,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=26727878"
   },
   {
@@ -226,13 +234,5 @@
     "author": "uncertainquark",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26741460"
-  },
-  {
-    "title": "Muon G-2 Experiment at Fermilab Finds Hint of New Particles",
-    "url": "https://www.quantamagazine.org/muon-g-2-experiment-at-fermilab-finds-hint-of-new-particles-20210407",
-    "upvotes": 124,
-    "author": "gmays",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26738989"
   }
 ]
