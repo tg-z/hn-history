@@ -2,147 +2,187 @@
   {
     "title": "Zoom zero-day discovery",
     "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
-    "upvotes": 200,
+    "upvotes": 247,
     "author": "alexrustic",
-    "comments": 111,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=26749350"
   },
   {
     "title": "Oliver Heaviside",
     "url": "https://sci-hub.se/10.1093/teamat/2.2.55",
-    "upvotes": 26,
+    "upvotes": 45,
     "author": "agnosticmantis",
-    "comments": 2,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26751222"
   },
   {
     "title": "A Year in the Life of a Compiler Fuzzing Campaign",
     "url": "https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/",
-    "upvotes": 27,
+    "upvotes": 42,
     "author": "axiomdata316",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26751130"
   },
   {
+    "title": "Hacking a $200 Under Desk Exercise Bike",
+    "url": "https://codaris.github.io/UnderDeskBike/",
+    "upvotes": 24,
+    "author": "wvenable",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26747136"
+  },
+  {
     "title": "Initial M1 support merged into Linux SoC tree",
     "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
-    "upvotes": 487,
+    "upvotes": 511,
     "author": "joseluisq",
-    "comments": 265,
+    "comments": 278,
     "link": "https://news.ycombinator.com/item?id=26746983"
+  },
+  {
+    "title": "The Human Eye Webcam",
+    "url": "https://www.youtube.com/watch?v=JMxr8Nq-w_w",
+    "upvotes": 12,
+    "author": "zdw",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26752087"
+  },
+  {
+    "title": "Amazon workers vote against unionizing in Alabama",
+    "url": "https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604",
+    "upvotes": 146,
+    "author": "cwwc",
+    "comments": 190,
+    "link": "https://news.ycombinator.com/item?id=26751562"
+  },
+  {
+    "title": "Silphium",
+    "url": "https://en.wikipedia.org/wiki/Silphium",
+    "upvotes": 45,
+    "author": "benbreen",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26745248"
   },
   {
     "title": "Greeks Bearing Gifts: tracking the labyrinthine path of technology’s progress",
     "url": "https://www.laphamsquarterly.org/technology/greeks-bearing-gifts",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "Hooke",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26735293"
   },
   {
-    "title": "Silphium",
-    "url": "https://en.wikipedia.org/wiki/Silphium",
-    "upvotes": 18,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26745248"
-  },
-  {
-    "title": "Nix is the ultimate DevOps toolkit",
-    "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
-    "upvotes": 292,
-    "author": "rkrzr",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=26748696"
+    "title": "HW accelerated Xwayland rendering for Nvidia merged",
+    "url": "https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587",
+    "upvotes": 23,
+    "author": "luigifcruz",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26750976"
   },
   {
     "title": "Docker without Docker",
     "url": "https://fly.io/blog/docker-without-docker/",
-    "upvotes": 536,
+    "upvotes": 558,
     "author": "kwindla",
-    "comments": 154,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=26746280"
   },
   {
-    "title": "The Web MiniDisc App",
-    "url": "https://stefano.brilli.me/blog/web-minidisc/",
-    "upvotes": 106,
-    "author": "mocko",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26748528"
-  },
-  {
-    "title": "Facebook axes 16,000 accounts for trading fake reviews after UK intervenes",
-    "url": "https://www.reuters.com/article/us-facebook-britain-reviews/facebook-axes-16000-accounts-for-trading-fake-reviews-after-uk-intervenes-idUSKBN2BW168",
-    "upvotes": 38,
-    "author": "pseudolus",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26748791"
-  },
-  {
-    "title": "The Apache Attic",
-    "url": "http://attic.apache.org/",
-    "upvotes": 19,
-    "author": "doener",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26749583"
-  },
-  {
-    "title": "Scalable, Resilient Brainfuck as a service",
-    "url": "https://zserge.com/posts/bfaas/",
-    "upvotes": 158,
-    "author": "stevekemp",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26747384"
+    "title": "Nix is the ultimate DevOps toolkit",
+    "url": "https://tech.channable.com/posts/2021-04-09-nix-is-the-ultimate-devops-toolkit.html",
+    "upvotes": 310,
+    "author": "rkrzr",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=26748696"
   },
   {
     "title": "Eu_sst: 20% probability for large satellite collision at 2021-04-09T17:18:21 UTC",
     "url": "https://twitter.com/EU_SST/status/1380120766071635968",
-    "upvotes": 22,
+    "upvotes": 58,
     "author": "AlphaGeekZulu",
-    "comments": 6,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26751621"
+  },
+  {
+    "title": "Facebook axes 16,000 accounts for trading fake reviews after UK intervenes",
+    "url": "https://www.reuters.com/article/us-facebook-britain-reviews/facebook-axes-16000-accounts-for-trading-fake-reviews-after-uk-intervenes-idUSKBN2BW168",
+    "upvotes": 49,
+    "author": "pseudolus",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26748791"
   },
   {
     "title": "Ditto",
     "url": "https://www.dittowords.com/careers"
   },
   {
-    "title": "Why Hypercard had to die",
-    "url": "http://www.loper-os.org/?p=568",
-    "upvotes": 101,
-    "author": "_448",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=26749425"
+    "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
+    "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
+    "upvotes": 82,
+    "author": "todd8",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26750452"
+  },
+  {
+    "title": "The Web MiniDisc App",
+    "url": "https://stefano.brilli.me/blog/web-minidisc/",
+    "upvotes": 112,
+    "author": "mocko",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=26748528"
+  },
+  {
+    "title": "The Apache Attic",
+    "url": "http://attic.apache.org/",
+    "upvotes": 26,
+    "author": "doener",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26749583"
+  },
+  {
+    "title": "Scalable, Resilient Brainfuck as a service",
+    "url": "https://zserge.com/posts/bfaas/",
+    "upvotes": 169,
+    "author": "stevekemp",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26747384"
   },
   {
     "title": "No Python Interpreter? This Simple Malware Installs Its Own Copy",
     "url": "https://isc.sans.edu/forums/diary/No+Python+Interpreter+This+Simple+RAT+Installs+Its+Own+Copy/27292/",
-    "upvotes": 33,
+    "upvotes": 45,
     "author": "wolframio",
-    "comments": 27,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26748731"
   },
   {
     "title": "Figma and Canva are taking on Adobe, and winning",
     "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
-    "upvotes": 90,
+    "upvotes": 109,
     "author": "samulipehkonen",
-    "comments": 93,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26748723"
+  },
+  {
+    "title": "Why Hypercard had to die",
+    "url": "http://www.loper-os.org/?p=568",
+    "upvotes": 112,
+    "author": "_448",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=26749425"
   },
   {
     "title": "Bike Theft Map",
     "url": "https://bike-theft-map.bikmo.com/",
-    "upvotes": 76,
+    "upvotes": 86,
     "author": "astre9",
-    "comments": 114,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26747513"
   },
   {
     "title": "Tree.h in OpenBSD: dependency-free intrusive binary tree",
     "url": "https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h",
-    "upvotes": 88,
+    "upvotes": 97,
     "author": "attractivechaos",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26746674"
@@ -150,89 +190,49 @@
   {
     "title": "Hawking Hawking",
     "url": "https://www.math.columbia.edu/~woit/wordpress/?p=12235",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "chmaynard",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26746687"
   },
   {
     "title": "FFmpeg 4.4",
     "url": "http://ffmpeg.org/index.html#pr4.4",
-    "upvotes": 294,
+    "upvotes": 307,
     "author": "_Gyan_",
-    "comments": 108,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26746537"
   },
   {
     "title": "Monkey MindPong",
     "url": "https://neuralink.com/blog/",
-    "upvotes": 576,
+    "upvotes": 586,
     "author": "ag8",
-    "comments": 228,
+    "comments": 241,
     "link": "https://news.ycombinator.com/item?id=26745227"
-  },
-  {
-    "title": "They Write the Right Stuff",
-    "url": "https://david-haber.github.io/posts/the-right-stuff/",
-    "upvotes": 63,
-    "author": "dh00608000",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26748309"
   },
   {
     "title": "How a carnivorous mushroom poisons its prey",
     "url": "https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/",
-    "upvotes": 131,
+    "upvotes": 139,
     "author": "sohkamyung",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26745892"
   },
   {
-    "title": "Amazon workers vote against Unionizing in Alabama",
-    "url": "https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604",
-    "upvotes": 95,
-    "author": "cwwc",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=26751562"
+    "title": "They Write the Right Stuff",
+    "url": "https://david-haber.github.io/posts/the-right-stuff/",
+    "upvotes": 65,
+    "author": "dh00608000",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26748309"
   },
   {
     "title": "W3C slaps down Google's proposal to treat multiple domains as same origin",
     "url": "https://www.theregister.com/2021/04/08/w3c_google_multple_domains/",
-    "upvotes": 164,
+    "upvotes": 179,
     "author": "kiyanwang",
-    "comments": 87,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=26747715"
-  },
-  {
-    "title": "The architecture behind a one-person tech startup",
-    "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/",
-    "upvotes": 1203,
-    "author": "ksahin",
-    "comments": 295,
-    "link": "https://news.ycombinator.com/item?id=26737771"
-  },
-  {
-    "title": "Prince Philip has died",
-    "url": "https://www.royal.uk/",
-    "upvotes": 402,
-    "author": "longdefeat",
-    "comments": 396,
-    "link": "https://news.ycombinator.com/item?id=26749021"
-  },
-  {
-    "title": "Lossless Text Compression [pdf]",
-    "url": "https://bilalonureskili.com/files/LTC_en.pdf",
-    "upvotes": 62,
-    "author": "kronxe",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26722960"
-  },
-  {
-    "title": "You Don't Need a GUI",
-    "url": "https://github.com/you-dont-need/You-Dont-Need-GUI",
-    "upvotes": 343,
-    "author": "loige",
-    "comments": 366,
-    "link": "https://news.ycombinator.com/item?id=26743704"
   }
 ]
