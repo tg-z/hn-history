@@ -2,123 +2,115 @@
   {
     "title": "Initial M1 support merged into Linux SoC tree",
     "url": "https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf",
-    "upvotes": 261,
+    "upvotes": 276,
     "author": "joseluisq",
-    "comments": 158,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=26746983"
   },
   {
     "title": "Docker without Docker",
     "url": "https://fly.io/blog/docker-without-docker/",
-    "upvotes": 344,
+    "upvotes": 351,
     "author": "kwindla",
-    "comments": 77,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26746280"
   },
   {
     "title": "Monkey MindPong",
     "url": "https://neuralink.com/blog/",
-    "upvotes": 412,
+    "upvotes": 422,
     "author": "ag8",
-    "comments": 161,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=26745227"
   },
   {
-    "title": "Bike Theft Map",
-    "url": "https://bike-theft-map.bikmo.com/",
+    "title": "Scalable, Resilient Brainfuck as a service",
+    "url": "https://zserge.com/posts/bfaas/",
     "upvotes": 35,
-    "author": "astre9",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26747513"
+    "author": "stevekemp",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26747384"
   },
   {
     "title": "They Write the Right Stuff",
     "url": "https://david-haber.github.io/posts/the-right-stuff/",
-    "upvotes": 7,
+    "upvotes": 12,
     "author": "dh00608000",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26748309"
-  },
-  {
-    "title": "Tree.h in OpenBSD: dependency-free intrusive binary tree",
-    "url": "https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h",
-    "upvotes": 55,
-    "author": "attractivechaos",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26746674"
   },
   {
     "title": "Hawking Hawking",
     "url": "https://www.math.columbia.edu/~woit/wordpress/?p=12235",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "chmaynard",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26746687"
   },
   {
     "title": "FFmpeg 4.4",
     "url": "http://ffmpeg.org/index.html#pr4.4",
-    "upvotes": 152,
+    "upvotes": 164,
     "author": "_Gyan_",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26746537"
   },
   {
-    "title": "Scalable, Resilient Brainfuck as a service",
-    "url": "https://zserge.com/posts/bfaas/",
-    "upvotes": 26,
-    "author": "stevekemp",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26747384"
+    "title": "Tree.h in OpenBSD: dependency-free intrusive binary tree",
+    "url": "https://github.com/openbsd/src/blob/c1d6f13173b788e34852a303bda0c5a53861979e/sys/sys/tree.h",
+    "upvotes": 57,
+    "author": "attractivechaos",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26746674"
   },
   {
     "title": "You Don't Need a GUI",
     "url": "https://github.com/you-dont-need/You-Dont-Need-GUI",
-    "upvotes": 249,
+    "upvotes": 254,
     "author": "loige",
-    "comments": 247,
+    "comments": 255,
     "link": "https://news.ycombinator.com/item?id=26743704"
+  },
+  {
+    "title": "Idempotence now prevents pain later",
+    "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
+    "upvotes": 317,
+    "author": "zdw",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=26726449"
+  },
+  {
+    "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
+    "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
+    "upvotes": 324,
+    "author": "gumby",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=26745326"
   },
   {
     "title": "Jupiter",
     "url": "https://www.notion.so/jupiterhome/Full-Stack-Software-Engineer-Product-9997a862394d48e4b8db702b859141e2"
   },
   {
-    "title": "Idempotence now prevents pain later",
-    "url": "https://ericlathrop.com/2021/04/idempotence-now-prevents-pain-later/",
-    "upvotes": 309,
-    "author": "zdw",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=26726449"
-  },
-  {
-    "title": "CPU-based algorithm trains deep neural nets up to 15 times faster than top GPU",
-    "url": "https://techxplore.com/news/2021-04-rice-intel-optimize-ai-commodity.html",
-    "upvotes": 321,
-    "author": "gumby",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26745326"
-  },
-  {
     "title": "How a carnivorous mushroom poisons its prey",
     "url": "https://www.scientificamerican.com/article/how-a-carnivorous-mushroom-poisons-its-prey/",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "sohkamyung",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26745892"
   },
   {
     "title": "Lossless Text Compression [pdf]",
     "url": "https://bilalonureskili.com/files/LTC_en.pdf",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "kronxe",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26722960"
   },
   {
     "title": "Vald: A Highly Scalable Distributed Vector Search Engine",
     "url": "https://github.com/vdaas/vald",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "ngaut",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26735300"
@@ -126,10 +118,18 @@
   {
     "title": "A Brief F# Exploration",
     "url": "https://notes.srid.ca/fsharp-exploration",
-    "upvotes": 60,
+    "upvotes": 63,
     "author": "todsacerdoti",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26739501"
+  },
+  {
+    "title": "Wuffs the Language",
+    "url": "https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md",
+    "upvotes": 169,
+    "author": "bshanks",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26731305"
   },
   {
     "title": "Deep genetic affinity between coastal Pacific and Amazonian natives",
@@ -140,17 +140,9 @@
     "link": "https://news.ycombinator.com/item?id=26730787"
   },
   {
-    "title": "Wuffs the Language",
-    "url": "https://github.com/google/wuffs/blob/main/doc/wuffs-the-language.md",
-    "upvotes": 168,
-    "author": "bshanks",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26731305"
-  },
-  {
     "title": "The architecture behind a one-person tech startup",
     "url": "https://anthonynsimon.com/blog/one-man-saas-architecture/",
-    "upvotes": 1119,
+    "upvotes": 1123,
     "author": "ksahin",
     "comments": 277,
     "link": "https://news.ycombinator.com/item?id=26737771"
@@ -158,15 +150,23 @@
   {
     "title": "Ask HN: I built it, nobody came, now what?",
     "url": "item?id=26734079",
-    "upvotes": 171,
+    "upvotes": 180,
     "author": "d--b",
-    "comments": 195,
+    "comments": 201,
     "link": "https://news.ycombinator.com/item?id=26734079"
+  },
+  {
+    "title": "W3C slaps down Google's proposal to treat multiple domains as same origin",
+    "url": "https://www.theregister.com/2021/04/08/w3c_google_multple_domains/",
+    "upvotes": 37,
+    "author": "kiyanwang",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26747715"
   },
   {
     "title": "Hooking keyboard input to play Snake in Notepad.exe",
     "url": "http://kylehalladay.com/blog/2020/05/20/Hooking-Input-Snake-In-Notepad.html",
-    "upvotes": 57,
+    "upvotes": 59,
     "author": "pcr910303",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26735187"
@@ -176,21 +176,21 @@
     "url": "https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/",
     "upvotes": 280,
     "author": "spyh",
-    "comments": 192,
+    "comments": 194,
     "link": "https://news.ycombinator.com/item?id=26744519"
   },
   {
     "title": "A skeptic’s take on Neuralink and other consumer neurotech",
     "url": "https://www.statnews.com/2021/04/07/consumer-neurotech-skeptic/",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "hhs",
-    "comments": 103,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=26739872"
   },
   {
     "title": "A man is looking for the friends who shipped him overseas in a crate in 1965",
     "url": "https://www.cbc.ca/radio/asithappens/as-it-happens-wednesday-edition-1.5978289/this-man-is-looking-for-the-friends-who-shipped-him-overseas-in-a-crate-in-1965-1.5978296",
-    "upvotes": 373,
+    "upvotes": 374,
     "author": "colinprince",
     "comments": 210,
     "link": "https://news.ycombinator.com/item?id=26740451"
@@ -198,7 +198,7 @@
   {
     "title": "Run Bhyve in FreeBSD jails – The view from inside the forest",
     "url": "https://neirac.byteswizards.com/posts/run-bhyve-in-freebsd-jails/",
-    "upvotes": 91,
+    "upvotes": 92,
     "author": "rodrigo975",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26742588"
@@ -206,23 +206,15 @@
   {
     "title": "Why keyboard shortcuts don't work on non-US layouts and how devs could fix it",
     "url": "https://tkainrad.dev/posts/why-keyboard-shortcuts-dont-work-on-non-us-keyboard-layouts-and-how-to-fix-it/",
-    "upvotes": 227,
+    "upvotes": 230,
     "author": "tkainrad",
-    "comments": 166,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=26743028"
-  },
-  {
-    "title": "W3C slaps down Google's proposal to treat multiple domains as same origin",
-    "url": "https://www.theregister.com/2021/04/08/w3c_google_multple_domains/",
-    "upvotes": 25,
-    "author": "kiyanwang",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26747715"
   },
   {
     "title": "Home-Built Scanning Tunneling Microscope",
     "url": "https://dberard.com/home-built-stm/",
-    "upvotes": 334,
+    "upvotes": 335,
     "author": "_Microft",
     "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26740968"
@@ -230,9 +222,17 @@
   {
     "title": "Huawei deactivates AI and cloud business group in restructuring",
     "url": "https://asia.nikkei.com/Spotlight/Caixin/Huawei-deactivates-AI-and-cloud-business-group-in-restructuring",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "shirkey",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26746216"
+  },
+  {
+    "title": "PlutoCon 2021",
+    "url": "https://plutojl.org/plutocon2021",
+    "upvotes": 14,
+    "author": "amkkma",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26745795"
   }
 ]
