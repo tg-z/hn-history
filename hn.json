@@ -2,33 +2,33 @@
   {
     "title": "uBlock Origin works best on Firefox",
     "url": "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox",
-    "upvotes": 1020,
+    "upvotes": 1047,
     "author": "anonymfus",
-    "comments": 325,
+    "comments": 333,
     "link": "https://news.ycombinator.com/item?id=26755252"
-  },
-  {
-    "title": "The patent troll that won a $308M jury trial against Apple",
-    "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
-    "upvotes": 158,
-    "author": "ketamine__",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26757503"
   },
   {
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 671,
+    "upvotes": 693,
     "author": "karl42",
-    "comments": 203,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=26747305"
+  },
+  {
+    "title": "The patent troll that won a $308M jury trial against Apple",
+    "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
+    "upvotes": 164,
+    "author": "ketamine__",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26757503"
   },
   {
     "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
     "url": "https://github.com/DualCoder/vgpu_unlock",
-    "upvotes": 364,
+    "upvotes": 369,
     "author": "fragileone",
-    "comments": 109,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=26754351"
   },
   {
@@ -36,13 +36,13 @@
     "url": "https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752",
     "upvotes": 37,
     "author": "mortenjorck",
-    "comments": 18,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26758205"
   },
   {
     "title": "FreeBSD/arm64 becoming Tier 1 in FreeBSD 13",
     "url": "https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html",
-    "upvotes": 135,
+    "upvotes": 139,
     "author": "Ducki",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26755476"
@@ -50,34 +50,70 @@
   {
     "title": "A Guide to Color from 1692",
     "url": "https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html",
-    "upvotes": 97,
+    "upvotes": 99,
     "author": "throw0101a",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26755839"
-  },
-  {
-    "title": "A Soroban Beats an Electric Calculator",
-    "url": "https://www.historyofinformation.com/detail.php?id=1361",
-    "upvotes": 18,
-    "author": "eternalban",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26747825"
   },
   {
     "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
     "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
-    "upvotes": 199,
+    "upvotes": 205,
     "author": "mpweiher",
     "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26752223"
   },
   {
+    "title": "A Soroban Beats an Electric Calculator",
+    "url": "https://www.historyofinformation.com/detail.php?id=1361",
+    "upvotes": 20,
+    "author": "eternalban",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26747825"
+  },
+  {
+    "title": "Linux kernel incorrect computation of branch displacements in BPF JIT compiler",
+    "url": "https://www.openwall.com/lists/oss-security/2021/04/08/1",
+    "upvotes": 28,
+    "author": "panic",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26757760"
+  },
+  {
+    "title": "Boeing Tells Airlines to Stop Flying Some 737 Max Planes",
+    "url": "https://www.nytimes.com/2021/04/09/business/boeing-737-max.html",
+    "upvotes": 13,
+    "author": "kylebarron",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26759063"
+  },
+  {
+    "title": "Dream – Tidy Web Framework for OCaml and ReasonML",
+    "url": "https://aantron.github.io/dream/",
+    "upvotes": 25,
+    "author": "yawaramin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26758151"
+  },
+  {
+    "title": "ESP32-C6, a Wi-Fi 6 and Bluetooth 5",
+    "url": "https://www.espressif.com/en/news/ESP32_C6",
+    "upvotes": 17,
+    "author": "thedday",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26758050"
+  },
+  {
     "title": "A look at LLVM: comparing clamp implementations",
     "url": "https://secret.club/2021/04/09/std-clamp.html",
-    "upvotes": 100,
+    "upvotes": 103,
     "author": "ingve",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26753872"
+  },
+  {
+    "title": "Miso",
+    "url": "https://boards.greenhouse.io/miso"
   },
   {
     "title": "Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation",
@@ -90,115 +126,95 @@
   {
     "title": "Hacking a $200 Under Desk Exercise Bike",
     "url": "https://codaris.github.io/UnderDeskBike/",
-    "upvotes": 185,
+    "upvotes": 188,
     "author": "wvenable",
-    "comments": 103,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=26747136"
-  },
-  {
-    "title": "Linux kernel incorrect computation of branch displacements in BPF JIT compiler",
-    "url": "https://www.openwall.com/lists/oss-security/2021/04/08/1",
-    "upvotes": 21,
-    "author": "panic",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26757760"
   },
   {
     "title": "Was the NE2000 really that bad?",
     "url": "http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/",
-    "upvotes": 101,
+    "upvotes": 102,
     "author": "vitplister",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26755293"
   },
   {
-    "title": "Miso",
-    "url": "https://boards.greenhouse.io/miso"
-  },
-  {
     "title": "Odds of Dying",
     "url": "https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/",
-    "upvotes": 29,
+    "upvotes": 33,
     "author": "agnosticmantis",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26758409"
-  },
-  {
-    "title": "Dream – Tidy Web Framework for OCaml and ReasonML",
-    "url": "https://aantron.github.io/dream/",
-    "upvotes": 18,
-    "author": "yawaramin",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26758151"
   },
   {
     "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
     "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
-    "upvotes": 433,
+    "upvotes": 440,
     "author": "todd8",
-    "comments": 440,
+    "comments": 448,
     "link": "https://news.ycombinator.com/item?id=26750452"
-  },
-  {
-    "title": "Some Thoughts on Smart Canes",
-    "url": "https://derekriemer.com/posts/2021/01/16/some-thoughts-on-smart-canes/",
-    "upvotes": 19,
-    "author": "pcr910303",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26747758"
   },
   {
     "title": "Links are not buttons",
     "url": "https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/",
-    "upvotes": 111,
+    "upvotes": 112,
     "author": "Fiveplus",
-    "comments": 105,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=26737064"
   },
   {
     "title": "Vector Games 32c3",
     "url": "https://trmm.net/Vector_games_32c3/",
-    "upvotes": 51,
+    "upvotes": 53,
     "author": "rbanffy",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26747703"
+  },
+  {
+    "title": "Some Thoughts on Smart Canes",
+    "url": "https://derekriemer.com/posts/2021/01/16/some-thoughts-on-smart-canes/",
+    "upvotes": 20,
+    "author": "pcr910303",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26747758"
   },
   {
     "title": "HW accelerated Xwayland rendering for Nvidia merged",
     "url": "https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587",
-    "upvotes": 221,
+    "upvotes": 222,
     "author": "luigifcruz",
-    "comments": 214,
+    "comments": 215,
     "link": "https://news.ycombinator.com/item?id=26750976"
   },
   {
-    "title": "European Urbanism and High-Speed Rail",
-    "url": "https://pedestrianobservations.com/2021/04/04/european-urbanism-and-high-speed-rail/",
-    "upvotes": 47,
-    "author": "luu",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26746487"
+    "title": "The rice of the sea: how a tiny grain could change the way humanity eats",
+    "url": "https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis",
+    "upvotes": 53,
+    "author": "pseudolus",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26758427"
+  },
+  {
+    "title": "The Long Boom",
+    "url": "https://www.wired.com/1997/07/longboom/",
+    "upvotes": 4,
+    "author": "allenleein",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26734647"
   },
   {
     "title": "Zoom zero-day discovery",
     "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
-    "upvotes": 465,
+    "upvotes": 466,
     "author": "alexrustic",
     "comments": 219,
     "link": "https://news.ycombinator.com/item?id=26749350"
   },
   {
-    "title": "The rice of the sea: how a tiny grain could change the way humanity eats",
-    "url": "https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis",
-    "upvotes": 44,
-    "author": "pseudolus",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26758427"
-  },
-  {
     "title": "Oliver Heaviside",
     "url": "https://sci-hub.se/10.1093/teamat/2.2.55",
-    "upvotes": 104,
+    "upvotes": 105,
     "author": "agnosticmantis",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26751222"
@@ -214,25 +230,9 @@
   {
     "title": "In Thailand, traditional cannabis cuisine is back on the menu",
     "url": "https://www.atlasobscura.com/articles/cannabis-marijuana-in-thai-food",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "CapitalistCartr",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26748701"
-  },
-  {
-    "title": "The Buddhist history of moveable type before Gutenberg",
-    "url": "https://tricycle.org/magazine/buddhist-history-moveable-type/",
-    "upvotes": 69,
-    "author": "krig",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26747482"
-  },
-  {
-    "title": "TheOldNet Browser Proxy",
-    "url": "http://theoldnet.com/docs/httpproxy/index.html",
-    "upvotes": 27,
-    "author": "LeoPanthera",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26756657"
   }
 ]
