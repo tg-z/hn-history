@@ -1,48 +1,56 @@
 [
   {
-    "title": "PSD is not my favourite file format",
-    "url": "https://b3n.org/psd-is-not-my-favourite-file-format/",
-    "upvotes": 58,
-    "author": "ducaale",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26762419"
-  },
-  {
     "title": "End of Support for Firefox on Amazon Devices",
     "url": "https://support.mozilla.org/en-US/kb/end-support-firefox-amazon-devices",
-    "upvotes": 71,
+    "upvotes": 91,
     "author": "cozzyd",
-    "comments": 49,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26761808"
   },
   {
     "title": "Best practices for writing SQL queries",
     "url": "https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices",
-    "upvotes": 66,
+    "upvotes": 91,
     "author": "ReginaDeiPirati",
-    "comments": 33,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26762206"
   },
   {
-    "title": "Setting up Starlink",
-    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
-    "upvotes": 219,
-    "author": "giuliomagnifico",
-    "comments": 175,
-    "link": "https://news.ycombinator.com/item?id=26760735"
+    "title": "PSD is not my favourite file format",
+    "url": "https://b3n.org/psd-is-not-my-favourite-file-format/",
+    "upvotes": 69,
+    "author": "ducaale",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26762419"
   },
   {
     "title": "Everyone is still terrible at creating software at scale",
     "url": "https://margint.blog/2021/04/05/creating-software-at-scale/",
-    "upvotes": 349,
+    "upvotes": 365,
     "author": "caspii",
-    "comments": 249,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=26759680"
+  },
+  {
+    "title": "Google is exploring a health record tool for patients",
+    "url": "https://www.statnews.com/2021/04/09/google-health-records-app-care-studio/",
+    "upvotes": 29,
+    "author": "matco11",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26761925"
+  },
+  {
+    "title": "Setting up Starlink",
+    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
+    "upvotes": 233,
+    "author": "giuliomagnifico",
+    "comments": 184,
+    "link": "https://news.ycombinator.com/item?id=26760735"
   },
   {
     "title": "Ink 1.0 – Open-source scripting language for interactive narrative",
     "url": "https://www.inklestudios.com/2021/02/22/ink-version-1.html",
-    "upvotes": 226,
+    "upvotes": 235,
     "author": "Kinrany",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26761100"
@@ -52,17 +60,9 @@
     "url": "https://www.flexport.com/careers/department/engineering"
   },
   {
-    "title": "Google is exploring a health record tool for patients",
-    "url": "https://www.statnews.com/2021/04/09/google-health-records-app-care-studio/",
-    "upvotes": 21,
-    "author": "matco11",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26761925"
-  },
-  {
     "title": "Watertight vector maps from raster images",
     "url": "https://mzucker.github.io/2018/05/14/maptrace.html",
-    "upvotes": 31,
+    "upvotes": 36,
     "author": "xk3",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26761662"
@@ -70,138 +70,146 @@
   {
     "title": "Did you know you can put a whole game inside of a push notification",
     "url": "https://twitter.com/neilsardesai/status/1380649026186534913",
-    "upvotes": 27,
+    "upvotes": 37,
     "author": "ig0r0",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26761474"
   },
   {
     "title": "Multiple domains and languages on the same Next.js site",
     "url": "https://github.com/tomsoderlund/nextjs-multi-domain-locale",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "tomsoderlund",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26749411"
+  },
+  {
+    "title": "Ahoyo – Build a single-page online presence",
+    "url": "https://ahoyo.to",
+    "upvotes": 54,
+    "author": "platformx",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26761208"
   },
   {
     "title": "Maya Angelou partnered with Hallmark",
     "url": "https://www.neh.gov/article/why-maya-angelou-partnered-hallmark",
     "upvotes": 39,
     "author": "samclemens",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26746892"
-  },
-  {
-    "title": "Ahoyo – Build a single-page online presence",
-    "url": "https://ahoyo.to",
-    "upvotes": 48,
-    "author": "platformx",
     "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26761208"
-  },
-  {
-    "title": "Limiting Work in Progress",
-    "url": "https://truemped.github.io/posts/mgmt/limiting-wip/",
-    "upvotes": 11,
-    "author": "xo5vik",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26759903"
+    "link": "https://news.ycombinator.com/item?id=26746892"
   },
   {
     "title": "Valve accused of ignoring existing RCE vulnerability in Source games for 2 years",
     "url": "https://twitter.com/the_secret_club/status/1380868759129296900",
-    "upvotes": 75,
+    "upvotes": 89,
     "author": "mxscho",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26762170"
+  },
+  {
+    "title": "Limiting Work in Progress",
+    "url": "https://truemped.github.io/posts/mgmt/limiting-wip/",
+    "upvotes": 14,
+    "author": "xo5vik",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26759903"
   },
   {
     "title": "Donation page \"not compliant with Google Play Policies\"",
     "url": "https://agateau.com/2021/google-does-not-want-you-to-tell-your-players-about-your-donation-page/",
-    "upvotes": 276,
+    "upvotes": 284,
     "author": "agateau",
-    "comments": 224,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=26761594"
-  },
-  {
-    "title": "Are you a lazy programmer?",
-    "url": "https://www.lazyprogrammer.it/",
-    "upvotes": 80,
-    "author": "tigroferoce",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26762237"
   },
   {
     "title": "NASA space copter ready for first Mars flight",
     "url": "https://phys.org/news/2021-04-nasa-space-copter-ready-mars.html",
-    "upvotes": 121,
+    "upvotes": 124,
     "author": "dnetesn",
-    "comments": 37,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26760843"
   },
   {
-    "title": "India protests US Navy ship’s transit through its waters without consent",
-    "url": "https://www.scmp.com/news/asia/south-asia/article/3129050/india-protests-us-navy-ships-transit-through-its-waters",
+    "title": "Are you a lazy programmer?",
+    "url": "https://www.lazyprogrammer.it/",
+    "upvotes": 93,
+    "author": "tigroferoce",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26762237"
+  },
+  {
+    "title": "An industry based on missed calls helped bring India online",
+    "url": "https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/",
+    "upvotes": 3,
+    "author": "lifeisstillgood",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26760891"
+  },
+  {
+    "title": "My dream of the great unbundling",
+    "url": "https://www.wired.com/story/my-dream-of-the-great-unbundling/",
     "upvotes": 16,
-    "author": "throwaway4good",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26762773"
+    "author": "laurex",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26738469"
   },
   {
     "title": "Mining Bitcoin on the Game Boy [video]",
     "url": "https://www.youtube.com/watch?v=4ckjr9x214c",
-    "upvotes": 104,
+    "upvotes": 110,
     "author": "faebi",
-    "comments": 11,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26761427"
   },
   {
     "title": "Why was cycling not included in the ancient Olympics?",
     "url": "https://web.stanford.edu/~learnest/cyclops/olympics.pdf",
-    "upvotes": 75,
+    "upvotes": 78,
     "author": "Hooke",
-    "comments": 79,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26759209"
   },
   {
     "title": "VNC client running on a coffee machine",
     "url": "https://raymii.org/s/blog/MS_Teams_on_a_Coffee_Machine_or_Framebuffer_VNC_Client.html",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "janvdberg",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26747132"
-  },
-  {
-    "title": "Court rules grocery store’s inaccessible website isn’t an ADA violation",
-    "url": "https://arstechnica.com/tech-policy/2021/04/appeals-court-rules-stores-dont-need-to-make-their-websites-accessible/",
-    "upvotes": 78,
-    "author": "Tomte",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26761464"
-  },
-  {
-    "title": "A Ceph war story",
-    "url": "https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/",
-    "upvotes": 114,
-    "author": "pabs3",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26759185"
   },
   {
     "title": "European Urbanism and High-Speed Rail",
     "url": "https://pedestrianobservations.com/2021/04/04/european-urbanism-and-high-speed-rail/",
-    "upvotes": 67,
+    "upvotes": 73,
     "author": "luu",
-    "comments": 76,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26746487"
+  },
+  {
+    "title": "A Ceph war story",
+    "url": "https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/",
+    "upvotes": 116,
+    "author": "pabs3",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26759185"
   },
   {
     "title": "NoSQL Data Modeling Techniques",
     "url": "https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "agmm",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26737833"
+  },
+  {
+    "title": "Court rules grocery store’s inaccessible website isn’t an ADA violation",
+    "url": "https://arstechnica.com/tech-policy/2021/04/appeals-court-rules-stores-dont-need-to-make-their-websites-accessible/",
+    "upvotes": 82,
+    "author": "Tomte",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26761464"
   },
   {
     "title": "Simhashing",
@@ -212,25 +220,17 @@
     "link": "https://news.ycombinator.com/item?id=26760532"
   },
   {
-    "title": "My dream of the great unbundling",
-    "url": "https://www.wired.com/story/my-dream-of-the-great-unbundling/",
-    "upvotes": 14,
-    "author": "laurex",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26738469"
-  },
-  {
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 990,
+    "upvotes": 1003,
     "author": "karl42",
-    "comments": 268,
+    "comments": 269,
     "link": "https://news.ycombinator.com/item?id=26747305"
   },
   {
     "title": "Et Tu, Procter and Gamble?",
     "url": "https://daringfireball.net/2021/04/et_tu_procter_gamble",
-    "upvotes": 126,
+    "upvotes": 129,
     "author": "FabHK",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26760520"
