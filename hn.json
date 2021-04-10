@@ -2,99 +2,107 @@
   {
     "title": "uBlock Origin works best on Firefox",
     "url": "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox",
-    "upvotes": 783,
+    "upvotes": 820,
     "author": "anonymfus",
-    "comments": 280,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=26755252"
   },
   {
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 502,
+    "upvotes": 534,
     "author": "karl42",
-    "comments": 143,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=26747305"
-  },
-  {
-    "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
-    "url": "https://github.com/DualCoder/vgpu_unlock",
-    "upvotes": 317,
-    "author": "fragileone",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26754351"
   },
   {
     "title": "The patent troll that won a $308M jury trial against Apple",
     "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
-    "upvotes": 35,
+    "upvotes": 58,
     "author": "ketamine__",
-    "comments": 7,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26757503"
+  },
+  {
+    "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
+    "url": "https://github.com/DualCoder/vgpu_unlock",
+    "upvotes": 322,
+    "author": "fragileone",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=26754351"
   },
   {
     "title": "FreeBSD/arm64 becoming Tier 1 in FreeBSD 13",
     "url": "https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html",
-    "upvotes": 100,
+    "upvotes": 107,
     "author": "Ducki",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26755476"
   },
   {
-    "title": "A Guide to Color from 1692",
-    "url": "https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html",
-    "upvotes": 75,
-    "author": "throw0101a",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26755839"
+    "title": "European Urbanism and High-Speed Rail",
+    "url": "https://pedestrianobservations.com/2021/04/04/european-urbanism-and-high-speed-rail/",
+    "upvotes": 11,
+    "author": "luu",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26746487"
+  },
+  {
+    "title": "Zoom zero-day discovery",
+    "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
+    "upvotes": 441,
+    "author": "alexrustic",
+    "comments": 213,
+    "link": "https://news.ycombinator.com/item?id=26749350"
   },
   {
     "title": "Miso",
     "url": "https://boards.greenhouse.io/miso"
   },
   {
-    "title": "Zoom zero-day discovery",
-    "url": "https://blog.malwarebytes.com/exploits-and-vulnerabilities/2021/04/zoom-zero-day-discovery-makes-calls-safer-hackers-200000-richer/",
-    "upvotes": 440,
-    "author": "alexrustic",
-    "comments": 212,
-    "link": "https://news.ycombinator.com/item?id=26749350"
-  },
-  {
-    "title": "Was the NE2000 really that bad?",
-    "url": "http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/",
-    "upvotes": 89,
-    "author": "vitplister",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26755293"
+    "title": "A Guide to Color from 1692",
+    "url": "https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html",
+    "upvotes": 78,
+    "author": "throw0101a",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26755839"
   },
   {
     "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
     "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
-    "upvotes": 163,
+    "upvotes": 171,
     "author": "mpweiher",
-    "comments": 69,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26752223"
+  },
+  {
+    "title": "Was the NE2000 really that bad?",
+    "url": "http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/",
+    "upvotes": 92,
+    "author": "vitplister",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26755293"
   },
   {
     "title": "A look at LLVM: comparing clamp implementations",
     "url": "https://secret.club/2021/04/09/std-clamp.html",
-    "upvotes": 75,
+    "upvotes": 81,
     "author": "ingve",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26753872"
   },
   {
     "title": "HW accelerated Xwayland rendering for Nvidia merged",
     "url": "https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587",
-    "upvotes": 207,
+    "upvotes": 208,
     "author": "luigifcruz",
-    "comments": 174,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=26750976"
   },
   {
     "title": "Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation",
     "url": "https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html",
-    "upvotes": 84,
+    "upvotes": 90,
     "author": "theafh",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26753851"
@@ -102,79 +110,55 @@
   {
     "title": "Hacking a $200 Under Desk Exercise Bike",
     "url": "https://codaris.github.io/UnderDeskBike/",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "wvenable",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26747136"
   },
   {
-    "title": "Figma and Canva are taking on Adobe and winning",
-    "url": "https://kwokchain.com/2021/02/05/atomic-concepts/",
-    "upvotes": 235,
-    "author": "samulipehkonen",
-    "comments": 221,
-    "link": "https://news.ycombinator.com/item?id=26748723"
-  },
-  {
-    "title": "Vector Games 32c3",
-    "url": "https://trmm.net/Vector_games_32c3/",
-    "upvotes": 34,
-    "author": "rbanffy",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26747703"
-  },
-  {
     "title": "Links are not buttons",
     "url": "https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/",
-    "upvotes": 94,
+    "upvotes": 96,
     "author": "Fiveplus",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26737064"
   },
   {
+    "title": "Vector Games 32c3",
+    "url": "https://trmm.net/Vector_games_32c3/",
+    "upvotes": 35,
+    "author": "rbanffy",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26747703"
+  },
+  {
     "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
     "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
-    "upvotes": 325,
+    "upvotes": 341,
     "author": "todd8",
-    "comments": 357,
+    "comments": 364,
     "link": "https://news.ycombinator.com/item?id=26750452"
   },
   {
     "title": "Oliver Heaviside",
     "url": "https://sci-hub.se/10.1093/teamat/2.2.55",
-    "upvotes": 93,
+    "upvotes": 95,
     "author": "agnosticmantis",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26751222"
-  },
-  {
-    "title": "TheOldNet Browser Proxy",
-    "url": "http://theoldnet.com/docs/httpproxy/index.html",
-    "upvotes": 15,
-    "author": "LeoPanthera",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26756657"
   },
   {
     "title": "A Mathematical Trivium",
     "url": "https://physics.montana.edu/avorontsov/teaching/problemoftheweek/documents/Arnold-Trivium-1991.pdf",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "cesarosum",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26737791"
-  },
-  {
-    "title": "Silphium",
-    "url": "https://en.wikipedia.org/wiki/Silphium",
-    "upvotes": 136,
-    "author": "benbreen",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26745248"
   },
   {
     "title": "The Buddhist history of moveable type before Gutenberg",
     "url": "https://tricycle.org/magazine/buddhist-history-moveable-type/",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "krig",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26747482"
@@ -182,57 +166,73 @@
   {
     "title": "Clothing, How Did They Make It? Part IVb: Cloth Money",
     "url": "https://acoup.blog/2021/04/09/collections-clothing-how-did-they-make-it-part-ivb-cloth-money/",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "parsecs",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26752710"
+  },
+  {
+    "title": "TheOldNet Browser Proxy",
+    "url": "http://theoldnet.com/docs/httpproxy/index.html",
+    "upvotes": 17,
+    "author": "LeoPanthera",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26756657"
   },
   {
     "title": "A Year in the Life of a Compiler Fuzzing Campaign",
     "url": "https://blog.trailofbits.com/2021/03/23/a-year-in-the-life-of-a-compiler-fuzzing-campaign/",
-    "upvotes": 88,
+    "upvotes": 89,
     "author": "axiomdata316",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26751130"
   },
   {
-    "title": "Boeing Warns of Possible Electrical Issue on 737 Max Planes",
-    "url": "https://www.npr.org/2021/04/09/985764608/boeing-warns-of-possible-electrical-issue-and-airlines-ground-some-737-max-plane?t=1618003981974",
-    "upvotes": 45,
-    "author": "nolok",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26756482"
-  },
-  {
-    "title": "Jurigged – Hot code reloading for Python",
-    "url": "https://github.com/breuleux/jurigged",
-    "upvotes": 95,
-    "author": "breuleux",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26753190"
-  },
-  {
     "title": "Estonian Electronic Identity Card and Its Security Challenges [pdf]",
     "url": "https://dspace.ut.ee/bitstream/handle/10062/71481/parsovs_arnis.pdf?sequence=1&isAllowed=y",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "IndrekR",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26753147"
   },
   {
+    "title": "Jurigged – Hot code reloading for Python",
+    "url": "https://github.com/breuleux/jurigged",
+    "upvotes": 99,
+    "author": "breuleux",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26753190"
+  },
+  {
+    "title": "Silphium",
+    "url": "https://en.wikipedia.org/wiki/Silphium",
+    "upvotes": 137,
+    "author": "benbreen",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26745248"
+  },
+  {
     "title": "Amazon workers vote against unionizing in Alabama",
     "url": "https://www.wsj.com/articles/amazon-is-ahead-in-union-vote-as-tallying-set-to-resume-11617960604",
-    "upvotes": 462,
+    "upvotes": 465,
     "author": "cwwc",
-    "comments": 1074,
+    "comments": 1087,
     "link": "https://news.ycombinator.com/item?id=26751562"
+  },
+  {
+    "title": "Boeing Warns of Possible Electrical Issue on 737 Max Planes",
+    "url": "https://www.npr.org/2021/04/09/985764608/boeing-warns-of-possible-electrical-issue-and-airlines-ground-some-737-max-plane?t=1618003981974",
+    "upvotes": 47,
+    "author": "nolok",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26756482"
   },
   {
     "title": "Comparative unsafety",
     "url": "https://flak.tedunangst.com/post/comparative-unsafety",
     "upvotes": 44,
     "author": "lionkor",
-    "comments": 64,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26749199"
   }
 ]
