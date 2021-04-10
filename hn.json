@@ -2,98 +2,90 @@
   {
     "title": "Everyone is still terrible at creating software at scale",
     "url": "https://margint.blog/2021/04/05/creating-software-at-scale/",
-    "upvotes": 101,
+    "upvotes": 121,
     "author": "caspii",
-    "comments": 68,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26759680"
   },
   {
     "title": "uBlock Origin works best on Firefox",
     "url": "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox",
-    "upvotes": 1274,
+    "upvotes": 1291,
     "author": "anonymfus",
-    "comments": 410,
+    "comments": 411,
     "link": "https://news.ycombinator.com/item?id=26755252"
   },
   {
     "title": "Free Python Books",
     "url": "https://github.com/pamoroso/free-python-books",
-    "upvotes": 27,
+    "upvotes": 39,
     "author": "Mike_Andreuzza",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26759677"
   },
   {
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 845,
+    "upvotes": 856,
     "author": "karl42",
-    "comments": 240,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=26747305"
   },
   {
     "title": "NoSQL Data Modeling Techniques",
     "url": "https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/",
-    "upvotes": 65,
+    "upvotes": 69,
     "author": "agmm",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26737833"
   },
   {
-    "title": "The patent troll that won a $308M jury trial against Apple",
-    "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
-    "upvotes": 236,
-    "author": "ketamine__",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=26757503"
-  },
-  {
     "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
     "url": "https://github.com/DualCoder/vgpu_unlock",
-    "upvotes": 409,
+    "upvotes": 412,
     "author": "fragileone",
     "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26754351"
   },
   {
+    "title": "The patent troll that won a $308M jury trial against Apple",
+    "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
+    "upvotes": 240,
+    "author": "ketamine__",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=26757503"
+  },
+  {
     "title": "VNC client running on a coffee machine",
     "url": "https://raymii.org/s/blog/MS_Teams_on_a_Coffee_Machine_or_Framebuffer_VNC_Client.html",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "janvdberg",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26747132"
-  },
-  {
-    "title": "ESP32-C6, a Wi-Fi 6 and Bluetooth 5",
-    "url": "https://www.espressif.com/en/news/ESP32_C6",
-    "upvotes": 89,
-    "author": "thedday",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26758050"
-  },
-  {
-    "title": "A Ceph war story",
-    "url": "https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/",
-    "upvotes": 50,
-    "author": "pabs3",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26759185"
   },
   {
     "title": "Printstack – Python package that adds stack trace links to the print function",
     "url": "https://github.com/morefigs/printstack",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "mfgs",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26747743"
   },
   {
-    "title": "The Product-Minded Software Engineer",
-    "url": "https://blog.pragmaticengineer.com/the-product-minded-engineer/",
-    "upvotes": 27,
-    "author": "absolute100",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26759200"
+    "title": "ESP32-C6, a Wi-Fi 6 and Bluetooth 5",
+    "url": "https://www.espressif.com/en/news/ESP32_C6",
+    "upvotes": 94,
+    "author": "thedday",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26758050"
+  },
+  {
+    "title": "A Ceph war story",
+    "url": "https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/",
+    "upvotes": 52,
+    "author": "pabs3",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26759185"
   },
   {
     "title": "Etleap (YC W13) Is Hiring a Customer Success Manager",
@@ -102,7 +94,7 @@
   {
     "title": "FreeBSD/arm64 becoming Tier 1 in FreeBSD 13",
     "url": "https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html",
-    "upvotes": 163,
+    "upvotes": 166,
     "author": "Ducki",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26755476"
@@ -110,42 +102,66 @@
   {
     "title": "Dream – Tidy Web Framework for OCaml and ReasonML",
     "url": "https://aantron.github.io/dream/",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "yawaramin",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26758151"
   },
   {
-    "title": "Why 11 days disappeared in 1752",
-    "url": "https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752",
-    "upvotes": 72,
-    "author": "mortenjorck",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26758205"
-  },
-  {
-    "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
-    "upvotes": 231,
-    "author": "mpweiher",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26752223"
+    "title": "A Far-Right Extremist Allegedly Plotted to Blow Up Amazon Data Centers",
+    "url": "https://www.wired.com/story/far-right-extremist-allegedly-plotted-blow-up-amazon-data-centers/",
+    "upvotes": 44,
+    "author": "curmudgeon22",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26758439"
   },
   {
     "title": "Linux kernel incorrect computation of branch displacements in BPF JIT compiler",
     "url": "https://www.openwall.com/lists/oss-security/2021/04/08/1",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "panic",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26757760"
   },
   {
+    "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
+    "upvotes": 234,
+    "author": "mpweiher",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=26752223"
+  },
+  {
     "title": "A Guide to Color from 1692",
     "url": "https://www.openculture.com/2021/04/a-900-page-pre-pantone-guide-to-color-from-1692-a-complete-high-resolution-digital-scan.html",
-    "upvotes": 113,
+    "upvotes": 115,
     "author": "throw0101a",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26755839"
+  },
+  {
+    "title": "Show HN: Export Mail for Microsoft Outlook for Mac",
+    "url": "https://exportoutlookmacmail.com/",
+    "upvotes": 27,
+    "author": "lancer",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26751612"
+  },
+  {
+    "title": "Why 11 days disappeared in 1752",
+    "url": "https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752",
+    "upvotes": 74,
+    "author": "mortenjorck",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26758205"
+  },
+  {
+    "title": "The Long Boom",
+    "url": "https://www.wired.com/1997/07/longboom/",
+    "upvotes": 28,
+    "author": "allenleein",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26734647"
   },
   {
     "title": "Why was cycling not included in the ancient Olympics?",
@@ -156,28 +172,20 @@
     "link": "https://news.ycombinator.com/item?id=26759209"
   },
   {
-    "title": "A Far-Right Extremist Allegedly Plotted to Blow Up Amazon Data Centers",
-    "url": "https://www.wired.com/story/far-right-extremist-allegedly-plotted-blow-up-amazon-data-centers/",
-    "upvotes": 35,
-    "author": "curmudgeon22",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26758439"
-  },
-  {
-    "title": "The Long Boom",
-    "url": "https://www.wired.com/1997/07/longboom/",
-    "upvotes": 27,
-    "author": "allenleein",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26734647"
-  },
-  {
     "title": "Hacking a $200 Under Desk Exercise Bike",
     "url": "https://codaris.github.io/UnderDeskBike/",
-    "upvotes": 205,
+    "upvotes": 207,
     "author": "wvenable",
     "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26747136"
+  },
+  {
+    "title": "The Product-Minded Software Engineer",
+    "url": "https://blog.pragmaticengineer.com/the-product-minded-engineer/",
+    "upvotes": 29,
+    "author": "absolute100",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26759200"
   },
   {
     "title": "A Soroban Beats an Electric Calculator",
@@ -198,7 +206,7 @@
   {
     "title": "A look at LLVM: comparing clamp implementations",
     "url": "https://secret.club/2021/04/09/std-clamp.html",
-    "upvotes": 117,
+    "upvotes": 118,
     "author": "ingve",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26753872"
@@ -206,33 +214,25 @@
   {
     "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
     "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
-    "upvotes": 515,
+    "upvotes": 519,
     "author": "todd8",
-    "comments": 490,
+    "comments": 500,
     "link": "https://news.ycombinator.com/item?id=26750452"
   },
   {
     "title": "Am I FLoCed?",
     "url": "https://amifloced.org",
-    "upvotes": 84,
+    "upvotes": 88,
     "author": "filleokus",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26755313"
   },
   {
     "title": "Some Thoughts on Smart Canes",
     "url": "https://derekriemer.com/posts/2021/01/16/some-thoughts-on-smart-canes/",
-    "upvotes": 47,
+    "upvotes": 50,
     "author": "pcr910303",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26747758"
-  },
-  {
-    "title": "Links are not buttons",
-    "url": "https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/",
-    "upvotes": 120,
-    "author": "Fiveplus",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26737064"
   }
 ]
