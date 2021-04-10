@@ -2,49 +2,57 @@
   {
     "title": "Brave disables Chromium FLoC features",
     "url": "https://github.com/brave/brave-core/pull/8468",
-    "upvotes": 60,
+    "upvotes": 103,
     "author": "brunoluiz",
-    "comments": 26,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26765084"
   },
   {
     "title": "Evaluating Modest SaaS Business Ideas",
     "url": "https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/",
-    "upvotes": 132,
+    "upvotes": 148,
     "author": "DanHulton",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26763521"
   },
   {
+    "title": "I Made a Mobile App for My Significant Other",
+    "url": "https://jerseyfonseca.com/blogs/wewatch",
+    "upvotes": 28,
+    "author": "vuciv1",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26765128"
+  },
+  {
+    "title": "Towards the Science of Essential Decentralised Infrastructures",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3428662.3429744",
+    "upvotes": 5,
+    "author": "Bluestein",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26765355"
+  },
+  {
     "title": "The Kitten Programming Language",
     "url": "http://kittenlang.org/",
-    "upvotes": 33,
+    "upvotes": 40,
     "author": "andrenth",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26763992"
   },
   {
     "title": "Akon wants to run a Senegal city on cryptocurrency",
     "url": "https://qz.com/africa/1994122/akon-plans-to-run-a-senegal-city-on-akoin-cryptocurrency/",
-    "upvotes": 32,
+    "upvotes": 38,
     "author": "prostoalex",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26763942"
-  },
-  {
-    "title": "Best practices for writing SQL queries",
-    "url": "https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices",
-    "upvotes": 222,
-    "author": "ReginaDeiPirati",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26762206"
   },
   {
     "title": "Did you know you can put a whole game inside of a push notification",
     "url": "https://twitter.com/neilsardesai/status/1380649026186534913",
-    "upvotes": 124,
+    "upvotes": 133,
     "author": "ig0r0",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26761474"
   },
   {
@@ -52,84 +60,116 @@
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
   },
   {
+    "title": "Best practices for writing SQL queries",
+    "url": "https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices",
+    "upvotes": 232,
+    "author": "ReginaDeiPirati",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=26762206"
+  },
+  {
     "title": "Everyone is still terrible at creating software at scale",
     "url": "https://margint.blog/2021/04/05/creating-software-at-scale/",
-    "upvotes": 429,
+    "upvotes": 436,
     "author": "caspii",
-    "comments": 308,
+    "comments": 314,
     "link": "https://news.ycombinator.com/item?id=26759680"
   },
   {
     "title": "Dvtm: A dynamic tiling window manager for the terminal",
     "url": "https://github.com/martanne/dvtm",
-    "upvotes": 30,
+    "upvotes": 38,
     "author": "yagizdegirmenci",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26747802"
-  },
-  {
-    "title": "Setting up Starlink",
-    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
-    "upvotes": 314,
-    "author": "giuliomagnifico",
-    "comments": 243,
-    "link": "https://news.ycombinator.com/item?id=26760735"
-  },
-  {
-    "title": "Ink 1.0 – Open-source scripting language for interactive narrative",
-    "url": "https://www.inklestudios.com/2021/02/22/ink-version-1.html",
-    "upvotes": 286,
-    "author": "Kinrany",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26761100"
   },
   {
     "title": "Systemd Inhibitor Locks Deep Dive",
     "url": "https://trstringer.com/systemd-inhibitor-locks/",
-    "upvotes": 12,
+    "upvotes": 19,
     "author": "zdw",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26751935"
   },
   {
-    "title": "Watertight vector maps from raster images",
-    "url": "https://mzucker.github.io/2018/05/14/maptrace.html",
-    "upvotes": 60,
-    "author": "xk3",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26761662"
+    "title": "Setting up Starlink",
+    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
+    "upvotes": 320,
+    "author": "giuliomagnifico",
+    "comments": 250,
+    "link": "https://news.ycombinator.com/item?id=26760735"
+  },
+  {
+    "title": "Ink 1.0 – Open-source scripting language for interactive narrative",
+    "url": "https://www.inklestudios.com/2021/02/22/ink-version-1.html",
+    "upvotes": 291,
+    "author": "Kinrany",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26761100"
   },
   {
     "title": "Limiting Work in Progress",
     "url": "https://truemped.github.io/posts/mgmt/limiting-wip/",
-    "upvotes": 38,
+    "upvotes": 44,
     "author": "xo5vik",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26759903"
   },
   {
+    "title": "Watertight vector maps from raster images",
+    "url": "https://mzucker.github.io/2018/05/14/maptrace.html",
+    "upvotes": 63,
+    "author": "xk3",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26761662"
+  },
+  {
+    "title": "One day, Larry Page decided to fire Google’s project managers. All of them",
+    "url": "https://www.businessinsider.com/larry-page-the-untold-story-2014-4",
+    "upvotes": 70,
+    "author": "monort",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26764230"
+  },
+  {
     "title": "The TeX tuneup of 2021 [pdf]",
     "url": "https://tug.org/TUGboat/tb42-1/tb130knuth-tuneup21.pdf",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "EvgeniyZh",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26759999"
   },
   {
     "title": "End of support for Firefox on Amazon devices",
     "url": "https://support.mozilla.org/en-US/kb/end-support-firefox-amazon-devices",
-    "upvotes": 147,
+    "upvotes": 151,
     "author": "cozzyd",
-    "comments": 130,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=26761808"
   },
   {
-    "title": "One day, Larry Page decided to fire Google’s project managers. All of them",
-    "url": "https://www.businessinsider.com/larry-page-the-untold-story-2014-4",
-    "upvotes": 49,
-    "author": "monort",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26764230"
+    "title": "An industry based on missed calls helped bring India online",
+    "url": "https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/",
+    "upvotes": 33,
+    "author": "lifeisstillgood",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26760891"
+  },
+  {
+    "title": "The Last Trial of the Codfather",
+    "url": "https://www.hakaimagazine.com/features/last-trial-codfather/",
+    "upvotes": 8,
+    "author": "adrian_mrd",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26759780"
+  },
+  {
+    "title": "Active Learning with Carl E. Wieman",
+    "url": "https://www.lindau-nobel.org/al/",
+    "upvotes": 3,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26760101"
   },
   {
     "title": "Multiple domains and languages on the same Next.js site",
@@ -140,17 +180,17 @@
     "link": "https://news.ycombinator.com/item?id=26749411"
   },
   {
-    "title": "An industry based on missed calls helped bring India online",
-    "url": "https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/",
-    "upvotes": 30,
-    "author": "lifeisstillgood",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26760891"
+    "title": "Ask HN: For those who use Chrome, why do you?",
+    "url": "item?id=26765493",
+    "upvotes": 4,
+    "author": "naeeqn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26765493"
   },
   {
     "title": "A reading list for new engineering managers",
     "url": "https://jacobian.org/2018/may/2/engmanager-reading-list/",
-    "upvotes": 56,
+    "upvotes": 61,
     "author": "gHeadphone",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26762772"
@@ -158,81 +198,41 @@
   {
     "title": "Ahoyo – Build a single-page online presence",
     "url": "https://ahoyo.to",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "platformx",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26761208"
-  },
-  {
-    "title": "The Last Trial of the Codfather",
-    "url": "https://www.hakaimagazine.com/features/last-trial-codfather/",
-    "upvotes": 6,
-    "author": "adrian_mrd",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26759780"
   },
   {
     "title": "Valve accused of ignoring existing RCE vulnerability in Source games for 2 years",
     "url": "https://twitter.com/the_secret_club/status/1380868759129296900",
-    "upvotes": 157,
+    "upvotes": 166,
     "author": "mxscho",
-    "comments": 62,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26762170"
   },
   {
     "title": "Mars Helicopter Flight Delayed to No Earlier Than April 14",
     "url": "https://mars.nasa.gov/technology/helicopter/status/291/mars-helicopter-flight-delayed-to-no-earlier-than-april-14/",
-    "upvotes": 40,
+    "upvotes": 44,
     "author": "qwertox",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26763770"
   },
   {
     "title": "My dream of the great unbundling",
     "url": "https://www.wired.com/story/my-dream-of-the-great-unbundling/",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "laurex",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26738469"
-  },
-  {
-    "title": "VNC client running on a coffee machine",
-    "url": "https://raymii.org/s/blog/MS_Teams_on_a_Coffee_Machine_or_Framebuffer_VNC_Client.html",
-    "upvotes": 110,
-    "author": "janvdberg",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26747132"
   },
   {
     "title": "Show HN: The GraphQL API for WordPress is transpiled from PHP 8.0 to 7.1",
     "url": "https://graphql-api.com/blog/the-plugin-is-now-transpiled-from-php-80-to-71/",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "leoloso",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26762441"
-  },
-  {
-    "title": "Things I was asked to do while job hunting",
-    "url": "https://www.kylenazario.com/2021/04/10/job-hunting-fun/",
-    "upvotes": 71,
-    "author": "apozem",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=26763336"
-  },
-  {
-    "title": "Embrace the Grind",
-    "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 1032,
-    "author": "karl42",
-    "comments": 277,
-    "link": "https://news.ycombinator.com/item?id=26747305"
-  },
-  {
-    "title": "NASA space copter ready for first Mars flight",
-    "url": "https://phys.org/news/2021-04-nasa-space-copter-ready-mars.html",
-    "upvotes": 131,
-    "author": "dnetesn",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26760843"
   }
 ]
