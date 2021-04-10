@@ -2,55 +2,59 @@
   {
     "title": "uBlock Origin works best on Firefox",
     "url": "https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox",
-    "upvotes": 1084,
+    "upvotes": 1112,
     "author": "anonymfus",
-    "comments": 344,
+    "comments": 349,
     "link": "https://news.ycombinator.com/item?id=26755252"
   },
   {
     "title": "Why was cycling not included in the ancient Olympics?",
     "url": "https://web.stanford.edu/~learnest/cyclops/olympics.pdf",
-    "upvotes": 16,
+    "upvotes": 21,
     "author": "Hooke",
-    "comments": 6,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26759209"
   },
   {
     "title": "Embrace the Grind",
     "url": "https://jacobian.org/2021/apr/7/embrace-the-grind/",
-    "upvotes": 717,
+    "upvotes": 732,
     "author": "karl42",
-    "comments": 211,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=26747305"
   },
   {
     "title": "The patent troll that won a $308M jury trial against Apple",
     "url": "https://www.letterspatent.org/p/meet-the-patent-troll-that-won-a",
-    "upvotes": 169,
+    "upvotes": 174,
     "author": "ketamine__",
-    "comments": 117,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=26757503"
   },
   {
     "title": "Vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs",
     "url": "https://github.com/DualCoder/vgpu_unlock",
-    "upvotes": 377,
+    "upvotes": 378,
     "author": "fragileone",
     "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26754351"
   },
   {
+    "title": "Etleap (YC W13) Is Hiring a Customer Success Manager",
+    "url": "item?id=26759541"
+  },
+  {
     "title": "Why 11 days disappeared in 1752",
     "url": "https://www.augustachronicle.com/lifestyle/20190316/your-story-why-did-11-days-disappear-in-1752",
-    "upvotes": 46,
+    "upvotes": 51,
     "author": "mortenjorck",
-    "comments": 27,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26758205"
   },
   {
     "title": "FreeBSD/arm64 becoming Tier 1 in FreeBSD 13",
     "url": "https://lists.freebsd.org/pipermail/freebsd-announce/2021-April/002030.html",
-    "upvotes": 144,
+    "upvotes": 145,
     "author": "Ducki",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26755476"
@@ -58,10 +62,34 @@
   {
     "title": "ESP32-C6, a Wi-Fi 6 and Bluetooth 5",
     "url": "https://www.espressif.com/en/news/ESP32_C6",
-    "upvotes": 35,
+    "upvotes": 42,
     "author": "thedday",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26758050"
+  },
+  {
+    "title": "The Long Boom",
+    "url": "https://www.wired.com/1997/07/longboom/",
+    "upvotes": 14,
+    "author": "allenleein",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26734647"
+  },
+  {
+    "title": "NoSQL Data Modeling Techniques",
+    "url": "https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/",
+    "upvotes": 8,
+    "author": "agmm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26737833"
+  },
+  {
+    "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
+    "upvotes": 214,
+    "author": "mpweiher",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=26752223"
   },
   {
     "title": "A Guide to Color from 1692",
@@ -72,77 +100,65 @@
     "link": "https://news.ycombinator.com/item?id=26755839"
   },
   {
-    "title": "AWS Lambda Edge changes duration billing granularity from 50ms down to 1ms",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2021/03/cloudfront-lambda-at-edge-billing-granularity/",
-    "upvotes": 213,
-    "author": "mpweiher",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26752223"
-  },
-  {
     "title": "A Soroban Beats an Electric Calculator",
     "url": "https://www.historyofinformation.com/detail.php?id=1361",
-    "upvotes": 23,
+    "upvotes": 26,
     "author": "eternalban",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26747825"
   },
   {
-    "title": "Dream – Tidy Web Framework for OCaml and ReasonML",
-    "url": "https://aantron.github.io/dream/",
-    "upvotes": 33,
-    "author": "yawaramin",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26758151"
-  },
-  {
     "title": "Linux kernel incorrect computation of branch displacements in BPF JIT compiler",
     "url": "https://www.openwall.com/lists/oss-security/2021/04/08/1",
-    "upvotes": 34,
+    "upvotes": 38,
     "author": "panic",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26757760"
   },
   {
+    "title": "Dream – Tidy Web Framework for OCaml and ReasonML",
+    "url": "https://aantron.github.io/dream/",
+    "upvotes": 42,
+    "author": "yawaramin",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26758151"
+  },
+  {
     "title": "A look at LLVM: comparing clamp implementations",
     "url": "https://secret.club/2021/04/09/std-clamp.html",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "ingve",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26753872"
   },
   {
-    "title": "The Long Boom",
-    "url": "https://www.wired.com/1997/07/longboom/",
-    "upvotes": 10,
-    "author": "allenleein",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26734647"
+    "title": "Hacking a $200 Under Desk Exercise Bike",
+    "url": "https://codaris.github.io/UnderDeskBike/",
+    "upvotes": 194,
+    "author": "wvenable",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=26747136"
   },
   {
     "title": "Monster Mash: A Sketch-Based Tool for Casual 3D Modeling and Animation",
     "url": "https://ai.googleblog.com/2021/04/monster-mash-sketch-based-tool-for.html",
-    "upvotes": 122,
+    "upvotes": 124,
     "author": "theafh",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26753851"
   },
   {
-    "title": "Miso",
-    "url": "https://boards.greenhouse.io/miso"
-  },
-  {
-    "title": "Hacking a $200 Under Desk Exercise Bike",
-    "url": "https://codaris.github.io/UnderDeskBike/",
-    "upvotes": 191,
-    "author": "wvenable",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=26747136"
+    "title": "A Ceph War Story",
+    "url": "https://michael-prokop.at/blog/2021/04/09/a-ceph-war-story/",
+    "upvotes": 4,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26759185"
   },
   {
     "title": "Was the NE2000 really that bad?",
     "url": "http://www.os2museum.com/wp/was-the-ne2000-really-that-bad/",
-    "upvotes": 102,
+    "upvotes": 103,
     "author": "vitplister",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26755293"
@@ -150,47 +166,39 @@
   {
     "title": "Scientists who say the lab-leak hypothesis for SARS-CoV-2 shouldn't be ruled out",
     "url": "https://www.technologyreview.com/2021/03/18/1021030/coronavirus-leak-wuhan-lab-scientists-conspiracy/",
-    "upvotes": 456,
+    "upvotes": 462,
     "author": "todd8",
-    "comments": 454,
+    "comments": 458,
     "link": "https://news.ycombinator.com/item?id=26750452"
-  },
-  {
-    "title": "Odds of Dying",
-    "url": "https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/",
-    "upvotes": 36,
-    "author": "agnosticmantis",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26758409"
   },
   {
     "title": "European Urbanism and High-Speed Rail",
     "url": "https://pedestrianobservations.com/2021/04/04/european-urbanism-and-high-speed-rail/",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "luu",
-    "comments": 55,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26746487"
+  },
+  {
+    "title": "Odds of Dying",
+    "url": "https://injuryfacts.nsc.org/all-injuries/preventable-death-overview/odds-of-dying/",
+    "upvotes": 38,
+    "author": "agnosticmantis",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26758409"
   },
   {
     "title": "Links are not buttons",
     "url": "https://karlgroves.com/2013/05/14/links-are-not-buttons-neither-are-divs-and-spans/",
-    "upvotes": 113,
+    "upvotes": 114,
     "author": "Fiveplus",
-    "comments": 108,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=26737064"
-  },
-  {
-    "title": "Some Thoughts on Smart Canes",
-    "url": "https://derekriemer.com/posts/2021/01/16/some-thoughts-on-smart-canes/",
-    "upvotes": 23,
-    "author": "pcr910303",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26747758"
   },
   {
     "title": "The rice of the sea: how a tiny grain could change the way humanity eats",
     "url": "https://www.theguardian.com/environment/2021/apr/09/sea-rice-eelgrass-marine-grain-chef-angel-leon-marsh-climate-crisis",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "pseudolus",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26758427"
@@ -198,18 +206,10 @@
   {
     "title": "Vector Games 32c3",
     "url": "https://trmm.net/Vector_games_32c3/",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "rbanffy",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26747703"
-  },
-  {
-    "title": "HW accelerated Xwayland rendering for Nvidia merged",
-    "url": "https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587",
-    "upvotes": 226,
-    "author": "luigifcruz",
-    "comments": 217,
-    "link": "https://news.ycombinator.com/item?id=26750976"
   },
   {
     "title": "Zoom zero-day discovery",
@@ -220,19 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26749350"
   },
   {
-    "title": "Oliver Heaviside",
-    "url": "https://sci-hub.se/10.1093/teamat/2.2.55",
-    "upvotes": 108,
-    "author": "agnosticmantis",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=26751222"
+    "title": "HW accelerated Xwayland rendering for Nvidia merged",
+    "url": "https://gitlab.freedesktop.org/xorg/xserver/-/merge_requests/587",
+    "upvotes": 228,
+    "author": "luigifcruz",
+    "comments": 219,
+    "link": "https://news.ycombinator.com/item?id=26750976"
   },
   {
-    "title": "Jurigged – Hot code reloading for Python",
-    "url": "https://github.com/breuleux/jurigged",
-    "upvotes": 121,
-    "author": "breuleux",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26753190"
+    "title": "Some Thoughts on Smart Canes",
+    "url": "https://derekriemer.com/posts/2021/01/16/some-thoughts-on-smart-canes/",
+    "upvotes": 25,
+    "author": "pcr910303",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26747758"
   }
 ]
