@@ -1,72 +1,80 @@
 [
   {
+    "title": "PrettyZoo: Pretty Nice Zookeeper GUI",
+    "url": "https://github.com/vran-dev/PrettyZoo",
+    "upvotes": 14,
+    "author": "vran_dev",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26767035"
+  },
+  {
     "title": "Towards the Science of Essential Decentralised Infrastructures",
     "url": "https://dl.acm.org/doi/abs/10.1145/3428662.3429744",
-    "upvotes": 106,
+    "upvotes": 111,
     "author": "Bluestein",
-    "comments": 31,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26765355"
   },
   {
     "title": "Timeline of Mathematics",
     "url": "https://mathigon.org/timeline",
-    "upvotes": 110,
+    "upvotes": 122,
     "author": "activatedgeek",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26748892"
+  },
+  {
+    "title": "Pihole-Antitelemetry",
+    "url": "https://github.com/MoralCode/pihole-antitelemetry",
+    "upvotes": 51,
+    "author": "luxpir",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26759781"
   },
   {
     "title": "Evaluating Modest SaaS Business Ideas",
     "url": "https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/",
-    "upvotes": 220,
+    "upvotes": 230,
     "author": "DanHulton",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26763521"
   },
   {
-    "title": "PrettyZoo: Pretty Nice Zookeeper GUI",
-    "url": "https://github.com/vran-dev/PrettyZoo",
-    "upvotes": 4,
-    "author": "vran_dev",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26767035"
-  },
-  {
-    "title": "Pihole-Antitelemetry",
-    "url": "https://github.com/MoralCode/pihole-antitelemetry",
-    "upvotes": 40,
-    "author": "luxpir",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26759781"
+    "title": "Google used past bid data to boost win rate in advertising auctions",
+    "url": "https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760",
+    "upvotes": 47,
+    "author": "AaronFriel",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26767088"
   },
   {
     "title": "Downloading files from S3 with multithreading and Boto3",
     "url": "https://emasquil.github.io/posts/multithreading-boto3/",
-    "upvotes": 75,
+    "upvotes": 79,
     "author": "emasquil",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26764067"
   },
   {
-    "title": "Did you know you can put a whole game inside of a push notification",
-    "url": "https://twitter.com/neilsardesai/status/1380649026186534913",
-    "upvotes": 197,
-    "author": "ig0r0",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26761474"
-  },
-  {
     "title": "Don’t hire top talent; hire for weaknesses",
     "url": "https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/",
-    "upvotes": 103,
+    "upvotes": 112,
     "author": "benjiweber",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26764432"
+  },
+  {
+    "title": "Did you know you can put a whole game inside of a push notification",
+    "url": "https://twitter.com/neilsardesai/status/1380649026186534913",
+    "upvotes": 203,
+    "author": "ig0r0",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26761474"
   },
   {
     "title": "Best practices for writing SQL queries",
     "url": "https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices",
-    "upvotes": 317,
+    "upvotes": 324,
     "author": "ReginaDeiPirati",
     "comments": 141,
     "link": "https://news.ycombinator.com/item?id=26762206"
@@ -74,115 +82,107 @@
   {
     "title": "Alibaba slapped with record $2.7B antitrust fine",
     "url": "https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/",
-    "upvotes": 63,
+    "upvotes": 71,
     "author": "walterbell",
-    "comments": 30,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26766487"
-  },
-  {
-    "title": "Dvtm: A dynamic tiling window manager for the terminal",
-    "url": "https://github.com/martanne/dvtm",
-    "upvotes": 66,
-    "author": "yagizdegirmenci",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26747802"
   },
   {
     "title": "Brave disables Chromium FLoC features",
     "url": "https://github.com/brave/brave-core/pull/8468",
-    "upvotes": 254,
+    "upvotes": 265,
     "author": "brunoluiz",
-    "comments": 218,
+    "comments": 221,
     "link": "https://news.ycombinator.com/item?id=26765084"
+  },
+  {
+    "title": "Dvtm: A dynamic tiling window manager for the terminal",
+    "url": "https://github.com/martanne/dvtm",
+    "upvotes": 67,
+    "author": "yagizdegirmenci",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26747802"
   },
   {
     "title": "Wonkey Game Programming Language",
     "url": "https://github.com/wonkey-coders/wonkey",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "seyhajin",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26748127"
   },
   {
-    "title": "Google used past bid data to boost win rate in advertising auctions",
-    "url": "https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760",
-    "upvotes": 7,
-    "author": "AaronFriel",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26767088"
+    "title": "8-bit stack-machine emulated by 200 lines of C",
+    "url": "https://twitter.com/hundredrabbits/status/1378188349144395788",
+    "upvotes": 28,
+    "author": "tosh",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26760573"
   },
   {
-    "title": "Setting up Starlink",
-    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
-    "upvotes": 362,
-    "author": "giuliomagnifico",
-    "comments": 293,
-    "link": "https://news.ycombinator.com/item?id=26760735"
+    "title": "Facebook Had Years to Fix the Flaw That Leaked 500M Users’ Data",
+    "url": "https://www.wired.com/story/facebook-data-leak-contact-import-flaws/",
+    "upvotes": 14,
+    "author": "fortran77",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26766925"
   },
   {
     "title": "Watertight vector maps from raster images",
     "url": "https://mzucker.github.io/2018/05/14/maptrace.html",
-    "upvotes": 84,
+    "upvotes": 88,
     "author": "xk3",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26761662"
+  },
+  {
+    "title": "Active Learning with Carl E. Wieman",
+    "url": "https://www.lindau-nobel.org/al/",
+    "upvotes": 21,
+    "author": "Tomte",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26760101"
   },
   {
     "title": "AtoB",
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
   },
   {
-    "title": "Active Learning with Carl E. Wieman",
-    "url": "https://www.lindau-nobel.org/al/",
-    "upvotes": 20,
-    "author": "Tomte",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26760101"
-  },
-  {
-    "title": "Ink 1.0 – Open-source scripting language for interactive narrative",
-    "url": "https://www.inklestudios.com/2021/02/22/ink-version-1.html",
-    "upvotes": 323,
-    "author": "Kinrany",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26761100"
-  },
-  {
-    "title": "8-bit stack-machine emulated by 200 lines of C",
-    "url": "https://twitter.com/hundredrabbits/status/1378188349144395788",
-    "upvotes": 22,
-    "author": "tosh",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26760573"
-  },
-  {
-    "title": "Limiting Work in Progress",
-    "url": "https://truemped.github.io/posts/mgmt/limiting-wip/",
-    "upvotes": 72,
-    "author": "xo5vik",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=26759903"
-  },
-  {
-    "title": "“Buy and Hold” No More: The Resurgence of Active Trading",
-    "url": "https://a16z.com/2021/03/29/active-trading/",
-    "upvotes": 127,
-    "author": "cristiandima",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=26763998"
-  },
-  {
     "title": "Show HN: Remove background from image using machine learning",
     "url": "https://removebackground.app",
-    "upvotes": 19,
+    "upvotes": 27,
     "author": "nadermx",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26764766"
   },
   {
+    "title": "Setting up Starlink",
+    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
+    "upvotes": 363,
+    "author": "giuliomagnifico",
+    "comments": 300,
+    "link": "https://news.ycombinator.com/item?id=26760735"
+  },
+  {
+    "title": "Ink 1.0 – Open-source scripting language for interactive narrative",
+    "url": "https://www.inklestudios.com/2021/02/22/ink-version-1.html",
+    "upvotes": 327,
+    "author": "Kinrany",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26761100"
+  },
+  {
+    "title": "Show HN: Squirrelbyte – a SQLite-based JSON document server",
+    "url": "https://squirrelbyte.com/",
+    "upvotes": 10,
+    "author": "adamlouis",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26766557"
+  },
+  {
     "title": "Maya Angelou partnered with Hallmark",
     "url": "https://www.neh.gov/article/why-maya-angelou-partnered-hallmark",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "samclemens",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26746892"
@@ -190,23 +190,39 @@
   {
     "title": "A reading list for new engineering managers",
     "url": "https://jacobian.org/2018/may/2/engmanager-reading-list/",
-    "upvotes": 114,
+    "upvotes": 124,
     "author": "gHeadphone",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26762772"
   },
   {
-    "title": "The Kitten Programming Language",
-    "url": "http://kittenlang.org/",
-    "upvotes": 74,
-    "author": "andrenth",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26763992"
+    "title": "“Buy and Hold” No More: The Resurgence of Active Trading",
+    "url": "https://a16z.com/2021/03/29/active-trading/",
+    "upvotes": 131,
+    "author": "cristiandima",
+    "comments": 207,
+    "link": "https://news.ycombinator.com/item?id=26763998"
+  },
+  {
+    "title": "The TeX tuneup of 2021 [pdf]",
+    "url": "https://tug.org/TUGboat/tb42-1/tb130knuth-tuneup21.pdf",
+    "upvotes": 95,
+    "author": "EvgeniyZh",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26759999"
+  },
+  {
+    "title": "Limiting Work in Progress",
+    "url": "https://truemped.github.io/posts/mgmt/limiting-wip/",
+    "upvotes": 73,
+    "author": "xo5vik",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26759903"
   },
   {
     "title": "Systemd Inhibitor Locks Deep Dive",
     "url": "https://trstringer.com/systemd-inhibitor-locks/",
-    "upvotes": 38,
+    "upvotes": 39,
     "author": "zdw",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26751935"
@@ -214,25 +230,9 @@
   {
     "title": "Multiple domains and languages on the same Next.js site",
     "url": "https://github.com/tomsoderlund/nextjs-multi-domain-locale",
-    "upvotes": 54,
+    "upvotes": 56,
     "author": "tomsoderlund",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26749411"
-  },
-  {
-    "title": "The TeX tuneup of 2021 [pdf]",
-    "url": "https://tug.org/TUGboat/tb42-1/tb130knuth-tuneup21.pdf",
-    "upvotes": 91,
-    "author": "EvgeniyZh",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26759999"
-  },
-  {
-    "title": "Everyone is still terrible at creating software at scale",
-    "url": "https://margint.blog/2021/04/05/creating-software-at-scale/",
-    "upvotes": 471,
-    "author": "caspii",
-    "comments": 338,
-    "link": "https://news.ycombinator.com/item?id=26759680"
   }
 ]
