@@ -2,63 +2,63 @@
   {
     "title": "Towards the Science of Essential Decentralised Infrastructures",
     "url": "https://dl.acm.org/doi/abs/10.1145/3428662.3429744",
-    "upvotes": 49,
+    "upvotes": 62,
     "author": "Bluestein",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26765355"
   },
   {
     "title": "Timeline of Mathematics",
     "url": "https://mathigon.org/timeline",
-    "upvotes": 37,
+    "upvotes": 55,
     "author": "activatedgeek",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26748892"
   },
   {
     "title": "Evaluating Modest SaaS Business Ideas",
     "url": "https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/",
-    "upvotes": 185,
+    "upvotes": 194,
     "author": "DanHulton",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26763521"
   },
   {
-    "title": "Brave disables Chromium FLoC features",
-    "url": "https://github.com/brave/brave-core/pull/8468",
-    "upvotes": 200,
-    "author": "brunoluiz",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=26765084"
-  },
-  {
     "title": "Did you know you can put a whole game inside of a push notification",
     "url": "https://twitter.com/neilsardesai/status/1380649026186534913",
-    "upvotes": 161,
+    "upvotes": 169,
     "author": "ig0r0",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26761474"
-  },
-  {
-    "title": "Best practices for writing SQL queries",
-    "url": "https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices",
-    "upvotes": 265,
-    "author": "ReginaDeiPirati",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=26762206"
   },
   {
     "title": "Downloading files from S3 with multithreading and Boto3",
     "url": "https://emasquil.github.io/posts/multithreading-boto3/",
-    "upvotes": 30,
+    "upvotes": 39,
     "author": "emasquil",
-    "comments": 7,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26764067"
+  },
+  {
+    "title": "Brave disables Chromium FLoC features",
+    "url": "https://github.com/brave/brave-core/pull/8468",
+    "upvotes": 213,
+    "author": "brunoluiz",
+    "comments": 178,
+    "link": "https://news.ycombinator.com/item?id=26765084"
+  },
+  {
+    "title": "Best practices for writing SQL queries",
+    "url": "https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices",
+    "upvotes": 276,
+    "author": "ReginaDeiPirati",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=26762206"
   },
   {
     "title": "Dvtm: A dynamic tiling window manager for the terminal",
     "url": "https://github.com/martanne/dvtm",
-    "upvotes": 51,
+    "upvotes": 56,
     "author": "yagizdegirmenci",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26747802"
@@ -66,117 +66,101 @@
   {
     "title": "Systemd Inhibitor Locks Deep Dive",
     "url": "https://trstringer.com/systemd-inhibitor-locks/",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "zdw",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26751935"
-  },
-  {
-    "title": "Active Learning with Carl E. Wieman",
-    "url": "https://www.lindau-nobel.org/al/",
-    "upvotes": 12,
-    "author": "Tomte",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26760101"
   },
   {
     "title": "Don’t hire top talent; hire for weaknesses",
     "url": "https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/",
-    "upvotes": 51,
+    "upvotes": 67,
     "author": "benjiweber",
-    "comments": 26,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26764432"
+  },
+  {
+    "title": "Active Learning with Carl E. Wieman",
+    "url": "https://www.lindau-nobel.org/al/",
+    "upvotes": 14,
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26760101"
+  },
+  {
+    "title": "Setting up Starlink",
+    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
+    "upvotes": 352,
+    "author": "giuliomagnifico",
+    "comments": 272,
+    "link": "https://news.ycombinator.com/item?id=26760735"
   },
   {
     "title": "AtoB",
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
   },
   {
-    "title": "Setting up Starlink",
-    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
-    "upvotes": 340,
-    "author": "giuliomagnifico",
-    "comments": 263,
-    "link": "https://news.ycombinator.com/item?id=26760735"
-  },
-  {
-    "title": "Limiting Work in Progress",
-    "url": "https://truemped.github.io/posts/mgmt/limiting-wip/",
-    "upvotes": 58,
-    "author": "xo5vik",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26759903"
+    "title": "The Kitten Programming Language",
+    "url": "http://kittenlang.org/",
+    "upvotes": 65,
+    "author": "andrenth",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26763992"
   },
   {
     "title": "Watertight vector maps from raster images",
     "url": "https://mzucker.github.io/2018/05/14/maptrace.html",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "xk3",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26761662"
   },
   {
     "title": "Ink 1.0 – Open-source scripting language for interactive narrative",
     "url": "https://www.inklestudios.com/2021/02/22/ink-version-1.html",
-    "upvotes": 305,
+    "upvotes": 310,
     "author": "Kinrany",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26761100"
   },
   {
-    "title": "“Buy and Hold” No More: The Resurgence of Active Trading",
-    "url": "https://a16z.com/2021/03/29/active-trading/",
-    "upvotes": 90,
-    "author": "cristiandima",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=26763998"
-  },
-  {
-    "title": "The Kitten Programming Language",
-    "url": "http://kittenlang.org/",
-    "upvotes": 59,
-    "author": "andrenth",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26763992"
-  },
-  {
     "title": "Wonkey Game Programming Language",
     "url": "https://github.com/wonkey-coders/wonkey",
-    "upvotes": 4,
+    "upvotes": 5,
     "author": "seyhajin",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26748127"
   },
   {
+    "title": "“Buy and Hold” No More: The Resurgence of Active Trading",
+    "url": "https://a16z.com/2021/03/29/active-trading/",
+    "upvotes": 98,
+    "author": "cristiandima",
+    "comments": 172,
+    "link": "https://news.ycombinator.com/item?id=26763998"
+  },
+  {
+    "title": "Limiting Work in Progress",
+    "url": "https://truemped.github.io/posts/mgmt/limiting-wip/",
+    "upvotes": 61,
+    "author": "xo5vik",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=26759903"
+  },
+  {
     "title": "Maya Angelou partnered with Hallmark",
     "url": "https://www.neh.gov/article/why-maya-angelou-partnered-hallmark",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "samclemens",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26746892"
-  },
-  {
-    "title": "The Mystery of Breakthrough Covid-19 Infections",
-    "url": "https://www.newyorker.com/news/our-columnists/the-mystery-of-breakthrough-covid-19-infections",
-    "upvotes": 9,
-    "author": "jbegley",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26765789"
-  },
-  {
-    "title": "I made a mobile app for my significant other and she won't use it",
-    "url": "https://jerseyfonseca.com/blogs/wewatch",
-    "upvotes": 86,
-    "author": "vuciv1",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=26765128"
   },
   {
     "title": "A reading list for new engineering managers",
     "url": "https://jacobian.org/2018/may/2/engmanager-reading-list/",
-    "upvotes": 89,
+    "upvotes": 98,
     "author": "gHeadphone",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26762772"
   },
   {
@@ -190,15 +174,15 @@
   {
     "title": "Larry Page's Comeback",
     "url": "https://www.businessinsider.com/larry-page-the-untold-story-2014-4",
-    "upvotes": 95,
+    "upvotes": 99,
     "author": "monort",
-    "comments": 46,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26764230"
   },
   {
     "title": "End of support for Firefox on Amazon devices",
     "url": "https://support.mozilla.org/en-US/kb/end-support-firefox-amazon-devices",
-    "upvotes": 159,
+    "upvotes": 162,
     "author": "cozzyd",
     "comments": 145,
     "link": "https://news.ycombinator.com/item?id=26761808"
@@ -206,7 +190,7 @@
   {
     "title": "The TeX tuneup of 2021 [pdf]",
     "url": "https://tug.org/TUGboat/tb42-1/tb130knuth-tuneup21.pdf",
-    "upvotes": 80,
+    "upvotes": 84,
     "author": "EvgeniyZh",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26759999"
@@ -214,25 +198,41 @@
   {
     "title": "Everyone is still terrible at creating software at scale",
     "url": "https://margint.blog/2021/04/05/creating-software-at-scale/",
-    "upvotes": 450,
+    "upvotes": 455,
     "author": "caspii",
-    "comments": 328,
+    "comments": 331,
     "link": "https://news.ycombinator.com/item?id=26759680"
-  },
-  {
-    "title": "No password required: Mobile carrier exposes data for millions of accounts",
-    "url": "https://arstechnica.com/information-technology/2021/04/no-password-required-mobile-carrier-exposes-data-for-millions-of-accounts/",
-    "upvotes": 23,
-    "author": "marshmallow_12",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26765335"
   },
   {
     "title": "Ahoyo – Build a single-page online presence",
     "url": "https://ahoyo.to",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "platformx",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26761208"
+  },
+  {
+    "title": "I made a mobile app for my significant other and she won't use it",
+    "url": "https://jerseyfonseca.com/blogs/wewatch",
+    "upvotes": 94,
+    "author": "vuciv1",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26765128"
+  },
+  {
+    "title": "No password required: Mobile carrier exposes data for millions of accounts",
+    "url": "https://arstechnica.com/information-technology/2021/04/no-password-required-mobile-carrier-exposes-data-for-millions-of-accounts/",
+    "upvotes": 25,
+    "author": "marshmallow_12",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26765335"
+  },
+  {
+    "title": "My dream of the great unbundling",
+    "url": "https://www.wired.com/story/my-dream-of-the-great-unbundling/",
+    "upvotes": 37,
+    "author": "laurex",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26738469"
   }
 ]
