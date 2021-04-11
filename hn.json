@@ -1,48 +1,80 @@
 [
   {
+    "title": "Cyber Attack on Iran's Nuclear Facility",
+    "url": "https://www.bbc.com/news/world-middle-east-56708778",
+    "upvotes": 58,
+    "author": "stunt",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26771224"
+  },
+  {
     "title": "Making Librem 5 Apps",
     "url": "https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/",
-    "upvotes": 88,
+    "upvotes": 116,
     "author": "ruph123",
-    "comments": 50,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26770486"
   },
   {
     "title": "The Ponzi Career",
     "url": "https://www.drorpoleg.com/the-ponzi-career/",
-    "upvotes": 72,
+    "upvotes": 99,
     "author": "elsewhen",
-    "comments": 41,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26770562"
   },
   {
     "title": "The Shape of Rome",
     "url": "https://www.exurbe.com/the-shape-of-rome/",
-    "upvotes": 107,
+    "upvotes": 117,
     "author": "simonebrunozzi",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26769371"
+  },
+  {
+    "title": "Internet-monitoring – A Docker Stack which Monitors your home network",
+    "url": "https://github.com/geerlingguy/internet-monitoring",
+    "upvotes": 28,
+    "author": "simonpure",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26770415"
   },
   {
     "title": "M1 dev setup with a virtual Linux box",
     "url": "https://kristiandupont.medium.com/m1-dev-setup-with-a-virtual-linux-box-1a2688231667",
-    "upvotes": 128,
+    "upvotes": 142,
     "author": "kristiandupont",
-    "comments": 108,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=26768662"
   },
   {
     "title": "Google’s lawyer accidentally made a sensitive document public",
     "url": "https://mattstoller.substack.com/p/when-googles-fancy-lawyers-screw",
-    "upvotes": 163,
+    "upvotes": 204,
     "author": "PretzelFisch",
-    "comments": 34,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26770209"
+  },
+  {
+    "title": "Police Data Accessibility Project",
+    "url": "https://pdap.io/",
+    "upvotes": 12,
+    "author": "polm23",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26760603"
+  },
+  {
+    "title": "TLS Mastery",
+    "url": "https://mwl.io/nonfiction/networking#tls",
+    "upvotes": 86,
+    "author": "rodrigo975",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26760032"
   },
   {
     "title": "Chronology of the Liberation",
     "url": "https://www.buchenwald.de/en/399/",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26769865"
@@ -50,187 +82,155 @@
   {
     "title": "Old Book Illustrations",
     "url": "https://www.oldbookillustrations.com/subjects/",
-    "upvotes": 129,
+    "upvotes": 136,
     "author": "Tomte",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26760111"
   },
   {
-    "title": "TLS Mastery",
-    "url": "https://mwl.io/nonfiction/networking#tls",
-    "upvotes": 77,
-    "author": "rodrigo975",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26760032"
-  },
-  {
     "title": "Atlantic Dawn: The Ship from Hell",
     "url": "https://britishseafishing.co.uk/atlantic-dawn-the-ship-from-hell/",
-    "upvotes": 110,
+    "upvotes": 122,
     "author": "mosiuerbarso",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26748655"
-  },
-  {
-    "title": "Internet-monitoring – A Docker Stack which Monitors your home network",
-    "url": "https://github.com/geerlingguy/internet-monitoring",
-    "upvotes": 11,
-    "author": "simonpure",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26770415"
-  },
-  {
-    "title": "CloudBeaver – Database Management from Browser",
-    "url": "https://cloudbeaver.io",
-    "upvotes": 33,
-    "author": "thunderbong",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26769549"
   },
   {
     "title": "Why do so many companies incorporate in Delaware?",
     "url": "https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/",
-    "upvotes": 89,
+    "upvotes": 109,
     "author": "Garbage",
-    "comments": 66,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26770454"
+  },
+  {
+    "title": "Confessions of an Unreal Engine 4 Engineering Firefighter",
+    "url": "https://allarsblog.com/2018/03/17/confessions-of-an-unreal-engine-4-engineering-firefighter/",
+    "upvotes": 29,
+    "author": "mooreds",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26770063"
   },
   {
     "title": "Pickle",
     "url": "https://www.workatastartup.com/jobs/43001"
   },
   {
+    "title": "CloudBeaver – Database Management from Browser",
+    "url": "https://cloudbeaver.io",
+    "upvotes": 39,
+    "author": "thunderbong",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26769549"
+  },
+  {
     "title": "The Meme Machine",
     "url": "https://www.susanblackmore.uk/the-meme-machine/",
-    "upvotes": 9,
+    "upvotes": 14,
     "author": "xo5vik",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26759846"
   },
   {
-    "title": "The Economic Consequences of Increasing Sleep Among the Urban Poor",
-    "url": "https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext",
-    "upvotes": 198,
-    "author": "rustoo",
-    "comments": 158,
-    "link": "https://news.ycombinator.com/item?id=26767667"
-  },
-  {
     "title": "Surgeons Perform First Human Tracheal Transplant Surgery",
     "url": "https://www.mountsinai.org/about/newsroom/2021/mount-sinai-surgeons-perform-first-human-tracheal-transplant-surgery",
-    "upvotes": 38,
+    "upvotes": 45,
     "author": "Ovah",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26769091"
   },
   {
-    "title": "OneWeb, SpaceX satellites dodged a potential collision in orbit",
-    "url": "https://www.theverge.com/2021/4/9/22374262/oneweb-spacex-satellites-dodged-potential-collision-orbit-space-force",
-    "upvotes": 15,
-    "author": "advpetc",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26770815"
-  },
-  {
-    "title": "French lawmakers approve a ban on short domestic flights",
-    "url": "https://www.reuters.com/article/us-climate-change-france-flights-idUSKBN2BY0AO",
-    "upvotes": 45,
-    "author": "finphil",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26770929"
+    "title": "The Economic Consequences of Increasing Sleep Among the Urban Poor",
+    "url": "https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext",
+    "upvotes": 204,
+    "author": "rustoo",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=26767667"
   },
   {
     "title": "Temporal Tables PostgreSQL Extension",
     "url": "https://github.com/arkhipov/temporal_tables",
-    "upvotes": 124,
+    "upvotes": 128,
     "author": "jka",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26748096"
   },
   {
-    "title": "AMA: Ivan Kutskir, creator of Photopea",
-    "url": "https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/",
-    "upvotes": 300,
-    "author": "ent101",
-    "comments": 219,
-    "link": "https://news.ycombinator.com/item?id=26768550"
-  },
-  {
     "title": "Discovery of Lost ‘Golden’ City in Luxor, Egypt",
     "url": "https://egyptianstreets.com/2021/04/08/egyptologist-zahi-hawass-announces-discovery-of-lost-golden-city-in-luxor/",
-    "upvotes": 125,
+    "upvotes": 132,
     "author": "seesawtron",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26748124"
   },
   {
-    "title": "Confessions of an Unreal Engine 4 Engineering Firefighter",
-    "url": "https://allarsblog.com/2018/03/17/confessions-of-an-unreal-engine-4-engineering-firefighter/",
-    "upvotes": 13,
-    "author": "mooreds",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26770063"
-  },
-  {
-    "title": "The Cursed Computer Iceberg Meme",
-    "url": "https://suricrasia.online/iceberg/",
-    "upvotes": 220,
-    "author": "merlinscholz",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26766722"
+    "title": "AMA: Ivan Kutskir, creator of Photopea",
+    "url": "https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/",
+    "upvotes": 308,
+    "author": "ent101",
+    "comments": 224,
+    "link": "https://news.ycombinator.com/item?id=26768550"
   },
   {
     "title": "Is It Pokemon or Big Data?",
     "url": "http://pixelastic.github.io/pokemonorbigdata/",
-    "upvotes": 283,
+    "upvotes": 301,
     "author": "sandebert",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26767835"
   },
   {
     "title": "Trans-Planetary Subway Systems",
     "url": "https://www.rand.org/pubs/papers/P6092.html",
-    "upvotes": 4,
+    "upvotes": 9,
     "author": "simonebrunozzi",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26770256"
   },
   {
-    "title": "Clubhouse data leak: 1.3M user records leaked online for free",
-    "url": "https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/",
-    "upvotes": 230,
-    "author": "0xmohit",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=26768299"
-  },
-  {
-    "title": "A common mistake when NumPy’s RNG with PyTorch",
-    "url": "https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/",
-    "upvotes": 239,
-    "author": "sunils34",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26767441"
+    "title": "OneWeb, SpaceX satellites dodged a potential collision in orbit",
+    "url": "https://www.theverge.com/2021/4/9/22374262/oneweb-spacex-satellites-dodged-potential-collision-orbit-space-force",
+    "upvotes": 28,
+    "author": "advpetc",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26770815"
   },
   {
     "title": "Compiling C to printable x86 to make an executable research paper",
     "url": "https://www.youtube.com/watch?v=LA_DrBwkiJA",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "gus_massa",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26754898"
+  },
+  {
+    "title": "Clubhouse data leak: 1.3M user records leaked online for free",
+    "url": "https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/",
+    "upvotes": 245,
+    "author": "0xmohit",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=26768299"
   },
   {
     "title": "Facing Ka’ena Point: On Turning Eighty",
     "url": "https://www.newyorker.com/culture/personal-history/facing-kaena-point-on-turning-eighty",
-    "upvotes": 17,
+    "upvotes": 20,
     "author": "pseudolus",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26760729"
   },
   {
+    "title": "A common mistake when NumPy’s RNG with PyTorch",
+    "url": "https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/",
+    "upvotes": 243,
+    "author": "sunils34",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26767441"
+  },
+  {
     "title": "BiDirectional WebDriver Protocol",
     "url": "https://w3c.github.io/webdriver-bidi/",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "oedmarap",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26760678"
