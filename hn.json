@@ -1,40 +1,64 @@
 [
   {
+    "title": "The Economic Consequences of Increasing Sleep Among the Urban Poor",
+    "url": "https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext",
+    "upvotes": 23,
+    "author": "rustoo",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26767667"
+  },
+  {
     "title": "Discovery of Lost ‘Golden’ City in Luxor, Egypt",
     "url": "https://egyptianstreets.com/2021/04/08/egyptologist-zahi-hawass-announces-discovery-of-lost-golden-city-in-luxor/",
-    "upvotes": 22,
+    "upvotes": 29,
     "author": "seesawtron",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26748124"
+  },
+  {
+    "title": "Using PyTorch and NumPy? You're making a mistake",
+    "url": "https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/",
+    "upvotes": 20,
+    "author": "sunils34",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26767441"
   },
   {
     "title": "Towards the Science of Essential Decentralised Infrastructures",
     "url": "https://dl.acm.org/doi/abs/10.1145/3428662.3429744",
-    "upvotes": 154,
+    "upvotes": 158,
     "author": "Bluestein",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26765355"
   },
   {
     "title": "PrettyZoo: Pretty Nice Zookeeper GUI",
     "url": "https://github.com/vran-dev/PrettyZoo",
-    "upvotes": 38,
+    "upvotes": 43,
     "author": "vran_dev",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26767035"
+  },
+  {
+    "title": "Min wage would be $44 / hour if it had grown at same rate as Wall Street bonuses",
+    "url": "https://www.businessinsider.in/politics/world/news/the-minimum-wage-would-be-44-per-hour-if-it-had-grown-at-the-same-rate-as-wall-street-bonuses/articleshow/81751829.cms",
+    "upvotes": 15,
+    "author": "rustoo",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26767712"
   },
   {
     "title": "Evaluating Modest SaaS Business Ideas",
     "url": "https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/",
-    "upvotes": 253,
+    "upvotes": 260,
     "author": "DanHulton",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26763521"
   },
   {
     "title": "Don’t hire top talent; hire for weaknesses",
     "url": "https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/",
-    "upvotes": 148,
+    "upvotes": 154,
     "author": "benjiweber",
     "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26764432"
@@ -42,31 +66,39 @@
   {
     "title": "Pihole-Antitelemetry",
     "url": "https://github.com/MoralCode/pihole-antitelemetry",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "luxpir",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26759781"
   },
   {
-    "title": "Google used past bid data to boost win rate in advertising auctions",
-    "url": "https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760",
-    "upvotes": 98,
-    "author": "AaronFriel",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26767088"
+    "title": "South African variant can break through Pfizer vaccine, Israeli study says",
+    "url": "https://www.reuters.com/article/us-health-coronavirus-israel-study/south-african-variant-can-break-through-pfizer-vaccine-israeli-study-says-idUSKBN2BX0JZ",
+    "upvotes": 9,
+    "author": "anigbrowl",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26767593"
   },
   {
     "title": "Did you know you can put a whole game inside of a push notification",
     "url": "https://twitter.com/neilsardesai/status/1380649026186534913",
-    "upvotes": 216,
+    "upvotes": 221,
     "author": "ig0r0",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26761474"
+  },
+  {
+    "title": "Google used past bid data to boost win rate in advertising auctions",
+    "url": "https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760",
+    "upvotes": 104,
+    "author": "AaronFriel",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26767088"
   },
   {
     "title": "Downloading files from S3 with multithreading and Boto3",
     "url": "https://emasquil.github.io/posts/multithreading-boto3/",
-    "upvotes": 98,
+    "upvotes": 101,
     "author": "emasquil",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26764067"
@@ -74,31 +106,23 @@
   {
     "title": "Facebook had ample warning about privacy problems with “contact import” feature",
     "url": "https://www.wired.com/story/facebook-data-leak-contact-import-flaws/",
-    "upvotes": 70,
+    "upvotes": 74,
     "author": "fortran77",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26766925"
   },
   {
     "title": "I made a mobile app for my significant other and she won't use it",
     "url": "https://jerseyfonseca.com/blogs/wewatch",
-    "upvotes": 125,
+    "upvotes": 131,
     "author": "vuciv1",
-    "comments": 134,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=26765128"
-  },
-  {
-    "title": "Larry Page's Comeback",
-    "url": "https://www.businessinsider.com/larry-page-the-untold-story-2014-4",
-    "upvotes": 123,
-    "author": "monort",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26764230"
   },
   {
     "title": "Show HN: Squirrelbyte – a SQLite-based JSON document server",
     "url": "https://squirrelbyte.com/",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "adamlouis",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26766557"
@@ -106,34 +130,50 @@
   {
     "title": "Best practices for writing SQL queries",
     "url": "https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices",
-    "upvotes": 344,
+    "upvotes": 348,
     "author": "ReginaDeiPirati",
-    "comments": 143,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=26762206"
+  },
+  {
+    "title": "Larry Page's Comeback",
+    "url": "https://www.businessinsider.com/larry-page-the-untold-story-2014-4",
+    "upvotes": 125,
+    "author": "monort",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26764230"
   },
   {
     "title": "The Kitten Programming Language",
     "url": "http://kittenlang.org/",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "andrenth",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26763992"
   },
   {
     "title": "The Gaslighting of Science",
     "url": "https://zeynep.substack.com/p/the-gaslighting-of-science",
-    "upvotes": 89,
+    "upvotes": 102,
     "author": "jbegley",
-    "comments": 34,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26766991"
   },
   {
     "title": "8-bit stack-machine emulated by 200 lines of C",
     "url": "https://twitter.com/hundredrabbits/status/1378188349144395788",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "tosh",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26760573"
+  },
+  {
+    "title": "Show HN: Remove background from image using machine learning",
+    "url": "https://removebackground.app",
+    "upvotes": 53,
+    "author": "nadermx",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26764766"
   },
   {
     "title": "Dvtm: A dynamic tiling window manager for the terminal",
@@ -144,37 +184,29 @@
     "link": "https://news.ycombinator.com/item?id=26747802"
   },
   {
-    "title": "Show HN: Remove background from image using machine learning",
-    "url": "https://removebackground.app",
-    "upvotes": 48,
-    "author": "nadermx",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26764766"
-  },
-  {
-    "title": "Alibaba slapped with record $2.7B antitrust fine",
-    "url": "https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/",
-    "upvotes": 91,
-    "author": "walterbell",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26766487"
-  },
-  {
     "title": "AtoB",
     "url": "https://www.notion.so/atob/Founding-Team-Engineers-AtoB-1db448bd0b8c482db48857f04c7244cf"
   },
   {
     "title": "Brave disables Chromium FLoC features",
     "url": "https://github.com/brave/brave-core/pull/8468",
-    "upvotes": 290,
+    "upvotes": 293,
     "author": "brunoluiz",
-    "comments": 241,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=26765084"
+  },
+  {
+    "title": "Alibaba slapped with record $2.7B antitrust fine",
+    "url": "https://www.zdnet.com/article/alibaba-slapped-with-record-2-7b-antitrust-fine/",
+    "upvotes": 94,
+    "author": "walterbell",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=26766487"
   },
   {
     "title": "Wonkey Game Programming Language",
     "url": "https://github.com/wonkey-coders/wonkey",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "seyhajin",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26748127"
@@ -182,7 +214,7 @@
   {
     "title": "Watertight vector maps from raster images",
     "url": "https://mzucker.github.io/2018/05/14/maptrace.html",
-    "upvotes": 98,
+    "upvotes": 100,
     "author": "xk3",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26761662"
@@ -190,7 +222,7 @@
   {
     "title": "Timeline of Mathematics",
     "url": "https://mathigon.org/timeline",
-    "upvotes": 146,
+    "upvotes": 149,
     "author": "activatedgeek",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26748892"
@@ -198,41 +230,9 @@
   {
     "title": "Exercise elicits superior metabolic effects in the afternoon compared to morning [pdf]",
     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7757369/pdf/PHY2-8-e14669.pdf",
-    "upvotes": 40,
+    "upvotes": 45,
     "author": "prostoalex",
-    "comments": 17,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26767135"
-  },
-  {
-    "title": "Setting up Starlink",
-    "url": "https://www.jeffgeerling.com/blog/2021/setting-starlink-spacexs-satellite-internet",
-    "upvotes": 371,
-    "author": "giuliomagnifico",
-    "comments": 305,
-    "link": "https://news.ycombinator.com/item?id=26760735"
-  },
-  {
-    "title": "Ink 1.0 – Open-source scripting language for interactive narrative",
-    "url": "https://www.inklestudios.com/2021/02/22/ink-version-1.html",
-    "upvotes": 337,
-    "author": "Kinrany",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26761100"
-  },
-  {
-    "title": "Active Learning with Carl E. Wieman",
-    "url": "https://www.lindau-nobel.org/al/",
-    "upvotes": 23,
-    "author": "Tomte",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26760101"
-  },
-  {
-    "title": "Maya Angelou partnered with Hallmark",
-    "url": "https://www.neh.gov/article/why-maya-angelou-partnered-hallmark",
-    "upvotes": 61,
-    "author": "samclemens",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=26746892"
   }
 ]
