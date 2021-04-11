@@ -2,15 +2,15 @@
   {
     "title": "The Shape of Rome",
     "url": "https://www.exurbe.com/the-shape-of-rome/",
-    "upvotes": 37,
+    "upvotes": 55,
     "author": "simonebrunozzi",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26769371"
   },
   {
     "title": "Chronology of the Liberation",
     "url": "https://www.buchenwald.de/en/399/",
-    "upvotes": 14,
+    "upvotes": 20,
     "author": "Tomte",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26769865"
@@ -18,50 +18,58 @@
   {
     "title": "Is It Pokemon or Big Data?",
     "url": "http://pixelastic.github.io/pokemonorbigdata/",
-    "upvotes": 187,
+    "upvotes": 215,
     "author": "sandebert",
-    "comments": 35,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26767835"
   },
   {
     "title": "M1 dev setup with a virtual Linux box",
     "url": "https://kristiandupont.medium.com/m1-dev-setup-with-a-virtual-linux-box-1a2688231667",
-    "upvotes": 94,
+    "upvotes": 96,
     "author": "kristiandupont",
-    "comments": 67,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26768662"
-  },
-  {
-    "title": "Atlantic Dawn: The Ship from Hell",
-    "url": "https://britishseafishing.co.uk/atlantic-dawn-the-ship-from-hell/",
-    "upvotes": 74,
-    "author": "mosiuerbarso",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26748655"
   },
   {
     "title": "Old Book Illustrations",
     "url": "https://www.oldbookillustrations.com/subjects/",
-    "upvotes": 80,
+    "upvotes": 86,
     "author": "Tomte",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26760111"
   },
   {
-    "title": "The Economic Consequences of Increasing Sleep Among the Urban Poor",
-    "url": "https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext",
-    "upvotes": 166,
-    "author": "rustoo",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=26767667"
+    "title": "Atlantic Dawn: The Ship from Hell",
+    "url": "https://britishseafishing.co.uk/atlantic-dawn-the-ship-from-hell/",
+    "upvotes": 78,
+    "author": "mosiuerbarso",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26748655"
   },
   {
     "title": "TLS Mastery",
     "url": "https://mwl.io/nonfiction/networking#tls",
-    "upvotes": 26,
+    "upvotes": 33,
     "author": "rodrigo975",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26760032"
+  },
+  {
+    "title": "The Economic Consequences of Increasing Sleep Among the Urban Poor",
+    "url": "https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjab013/6217436?redirectedFrom=fulltext",
+    "upvotes": 170,
+    "author": "rustoo",
+    "comments": 144,
+    "link": "https://news.ycombinator.com/item?id=26767667"
+  },
+  {
+    "title": "Temporal Tables PostgreSQL Extension",
+    "url": "https://github.com/arkhipov/temporal_tables",
+    "upvotes": 99,
+    "author": "jka",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26748096"
   },
   {
     "title": "Pickle",
@@ -70,39 +78,47 @@
   {
     "title": "Discovery of Lost ‘Golden’ City in Luxor, Egypt",
     "url": "https://egyptianstreets.com/2021/04/08/egyptologist-zahi-hawass-announces-discovery-of-lost-golden-city-in-luxor/",
-    "upvotes": 103,
+    "upvotes": 107,
     "author": "seesawtron",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26748124"
-  },
-  {
-    "title": "Temporal Tables PostgreSQL Extension",
-    "url": "https://github.com/arkhipov/temporal_tables",
-    "upvotes": 89,
-    "author": "jka",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26748096"
   },
   {
     "title": "The Cursed Computer Iceberg Meme",
     "url": "https://suricrasia.online/iceberg/",
-    "upvotes": 152,
+    "upvotes": 161,
     "author": "merlinscholz",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26766722"
+  },
+  {
+    "title": "Obsolete German Units of Measurement",
+    "url": "https://en.wikipedia.org/wiki/Obsolete_German_units_of_measurement",
+    "upvotes": 45,
+    "author": "zeristor",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26769590"
+  },
+  {
+    "title": "Surgeons Perform First Human Tracheal Transplant Surgery",
+    "url": "https://www.mountsinai.org/about/newsroom/2021/mount-sinai-surgeons-perform-first-human-tracheal-transplant-surgery",
+    "upvotes": 9,
+    "author": "Ovah",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26769091"
   },
   {
     "title": "Using PyTorch and NumPy? You're making a mistake",
     "url": "https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/",
-    "upvotes": 209,
+    "upvotes": 214,
     "author": "sunils34",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26767441"
   },
   {
     "title": "Facing Ka’ena Point: On Turning Eighty",
     "url": "https://www.newyorker.com/culture/personal-history/facing-kaena-point-on-turning-eighty",
-    "upvotes": 4,
+    "upvotes": 7,
     "author": "pseudolus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26760729"
@@ -110,129 +126,113 @@
   {
     "title": "Clubhouse data leak: 1.3M user records leaked online for free",
     "url": "https://cybernews.com/security/clubhouse-data-leak-1-3-million-user-records-leaked-for-free-online/",
-    "upvotes": 139,
+    "upvotes": 156,
     "author": "0xmohit",
-    "comments": 38,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26768299"
-  },
-  {
-    "title": "Obsolete German Units of Measurement",
-    "url": "https://en.wikipedia.org/wiki/Obsolete_German_units_of_measurement",
-    "upvotes": 34,
-    "author": "zeristor",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26769590"
   },
   {
     "title": "PrettyZoo: Pretty Nice Zookeeper GUI",
     "url": "https://github.com/vran-dev/PrettyZoo",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "vran_dev",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26767035"
   },
   {
+    "title": "Photopea, the free alternative to Photoshop, generates $250k/year from ads",
+    "url": "https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/",
+    "upvotes": 237,
+    "author": "ent101",
+    "comments": 189,
+    "link": "https://news.ycombinator.com/item?id=26768550"
+  },
+  {
     "title": "Compiling C to printable x86 to make an executable research paper",
     "url": "https://www.youtube.com/watch?v=LA_DrBwkiJA",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "gus_massa",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26754898"
   },
   {
-    "title": "Photopea, the free alternative to Photoshop, generates $250k/year from ads",
-    "url": "https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/",
-    "upvotes": 218,
-    "author": "ent101",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=26768550"
-  },
-  {
-    "title": "Pihole-Antitelemetry",
-    "url": "https://github.com/MoralCode/pihole-antitelemetry",
-    "upvotes": 127,
-    "author": "luxpir",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26759781"
-  },
-  {
     "title": "Show HN: UML model and code examples of GoF patterns in Crystal",
     "url": "https://github.com/takaakit/design-pattern-examples-in-crystal",
-    "upvotes": 22,
+    "upvotes": 23,
     "author": "takaakit",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26767623"
   },
   {
     "title": "Show HN: Squirrelbyte – a SQLite-based JSON document server",
     "url": "https://squirrelbyte.com/",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "adamlouis",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26766557"
-  },
-  {
-    "title": "Facebook had ample warning about privacy problems with “contact import” feature",
-    "url": "https://www.wired.com/story/facebook-data-leak-contact-import-flaws/",
-    "upvotes": 141,
-    "author": "fortran77",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26766925"
   },
   {
     "title": "Buy a phone, get a tracker: unauthorized tracking code on Android",
     "url": "https://noyb.eu/en/buy-phone-get-tracker-unauthorized-tracking-code-illegally-installed-android-phones",
-    "upvotes": 22,
+    "upvotes": 30,
     "author": "Daho0n",
-    "comments": 8,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26768851"
   },
   {
-    "title": "Surgeons Perform First Human Tracheal Transplant Surgery",
-    "url": "https://www.mountsinai.org/about/newsroom/2021/mount-sinai-surgeons-perform-first-human-tracheal-transplant-surgery",
-    "upvotes": 4,
-    "author": "Ovah",
+    "title": "Facebook had ample warning about privacy problems with “contact import” feature",
+    "url": "https://www.wired.com/story/facebook-data-leak-contact-import-flaws/",
+    "upvotes": 149,
+    "author": "fortran77",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26766925"
+  },
+  {
+    "title": "Show HN: React Gradient Text",
+    "url": "https://rgt.borja.ai/",
+    "upvotes": 5,
+    "author": "borjadotai",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26769091"
+    "link": "https://news.ycombinator.com/item?id=26769179"
   },
   {
     "title": "Towards the Science of Essential Decentralised Infrastructures",
     "url": "https://dl.acm.org/doi/abs/10.1145/3428662.3429744",
-    "upvotes": 186,
+    "upvotes": 189,
     "author": "Bluestein",
-    "comments": 59,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26765355"
-  },
-  {
-    "title": "Wonkey Programming Language",
-    "url": "https://github.com/wonkey-coders/wonkey",
-    "upvotes": 57,
-    "author": "seyhajin",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26748127"
-  },
-  {
-    "title": "Google used past bid data to boost win rate in advertising auctions",
-    "url": "https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760",
-    "upvotes": 174,
-    "author": "AaronFriel",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26767088"
   },
   {
     "title": "I made a mobile app for my significant other and she won't use it",
     "url": "https://jerseyfonseca.com/blogs/wewatch",
-    "upvotes": 282,
+    "upvotes": 290,
     "author": "vuciv1",
-    "comments": 250,
+    "comments": 255,
     "link": "https://news.ycombinator.com/item?id=26765128"
+  },
+  {
+    "title": "Google used past bid data to boost win rate in advertising auctions",
+    "url": "https://www.wsj.com/articles/googles-secret-project-bernanke-revealed-in-texas-antitrust-case-11618097760",
+    "upvotes": 176,
+    "author": "AaronFriel",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26767088"
   },
   {
     "title": "Evaluating Modest SaaS Business Ideas",
     "url": "https://greaterdanorequalto.com/evaluating-modest-saas-business-ideas/",
-    "upvotes": 324,
+    "upvotes": 325,
     "author": "DanHulton",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26763521"
+  },
+  {
+    "title": "Don’t hire top talent; hire for weaknesses",
+    "url": "https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/",
+    "upvotes": 240,
+    "author": "benjiweber",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=26764432"
   }
 ]
