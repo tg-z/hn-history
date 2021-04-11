@@ -2,75 +2,99 @@
   {
     "title": "Making Librem 5 Apps",
     "url": "https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/",
-    "upvotes": 166,
+    "upvotes": 182,
     "author": "ruph123",
-    "comments": 94,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26770486"
+  },
+  {
+    "title": "MiSTer, an open source FPGA gaming project",
+    "url": "https://github.com/MiSTer-devel/Main_MiSTer/wiki",
+    "upvotes": 14,
+    "author": "tediousdemise",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26772151"
   },
   {
     "title": "The Ponzi Career",
     "url": "https://www.drorpoleg.com/the-ponzi-career/",
-    "upvotes": 159,
+    "upvotes": 183,
     "author": "elsewhen",
-    "comments": 91,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=26770562"
-  },
-  {
-    "title": "Internet-monitoring – A Docker Stack which Monitors your home network",
-    "url": "https://github.com/geerlingguy/internet-monitoring",
-    "upvotes": 75,
-    "author": "simonpure",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26770415"
-  },
-  {
-    "title": "Cree#, a morphemic programming language with Cree keywords and concepts",
-    "url": "https://esoteric.codes/blog/jon-corbett",
-    "upvotes": 18,
-    "author": "relatt",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26771369"
   },
   {
     "title": "The Nuclear Lightbulb – A Brief Introduction",
     "url": "https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/",
-    "upvotes": 13,
+    "upvotes": 20,
     "author": "othello",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26771944"
   },
   {
-    "title": "Police Data Accessibility Project",
-    "url": "https://pdap.io/",
-    "upvotes": 38,
-    "author": "polm23",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26760603"
+    "title": "Internet-monitoring – A Docker Stack which Monitors your home network",
+    "url": "https://github.com/geerlingguy/internet-monitoring",
+    "upvotes": 88,
+    "author": "simonpure",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26770415"
   },
   {
-    "title": "The Shape of Rome",
-    "url": "https://www.exurbe.com/the-shape-of-rome/",
-    "upvotes": 138,
-    "author": "simonebrunozzi",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26769371"
+    "title": "Gradle 7.0 Released",
+    "url": "https://docs.gradle.org/7.0/release-notes.html",
+    "upvotes": 41,
+    "author": "gher-shyu3i",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26771300"
+  },
+  {
+    "title": "Cree#, a morphemic programming language with Cree keywords and concepts",
+    "url": "https://esoteric.codes/blog/jon-corbett",
+    "upvotes": 28,
+    "author": "relatt",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26771369"
+  },
+  {
+    "title": "Technologies I Thought My Son Would Never Use",
+    "url": "https://www.tomshardware.com/opinion/15-technology-predictions-how-they-did",
+    "upvotes": 12,
+    "author": "CrankyBear",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26771623"
+  },
+  {
+    "title": "Demystifying programs that create programs, part 1: A disassembler",
+    "url": "https://briancallahan.net/blog/20210407.html",
+    "upvotes": 13,
+    "author": "cyberlab",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26771655"
   },
   {
     "title": "Replit",
     "url": "http://Replit.com/careers"
   },
   {
-    "title": "Gradle 7.0 Released",
-    "url": "https://docs.gradle.org/7.0/release-notes.html",
-    "upvotes": 25,
-    "author": "gher-shyu3i",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26771300"
+    "title": "Police Data Accessibility Project",
+    "url": "https://pdap.io/",
+    "upvotes": 43,
+    "author": "polm23",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26760603"
+  },
+  {
+    "title": "The Shape of Rome",
+    "url": "https://www.exurbe.com/the-shape-of-rome/",
+    "upvotes": 143,
+    "author": "simonebrunozzi",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26769371"
   },
   {
     "title": "M1 dev setup with a virtual Linux box",
     "url": "https://kristiandupont.medium.com/m1-dev-setup-with-a-virtual-linux-box-1a2688231667",
-    "upvotes": 161,
+    "upvotes": 165,
     "author": "kristiandupont",
     "comments": 129,
     "link": "https://news.ycombinator.com/item?id=26768662"
@@ -78,15 +102,23 @@
   {
     "title": "Confessions of an Unreal Engine 4 Engineering Firefighter",
     "url": "https://allarsblog.com/2018/03/17/confessions-of-an-unreal-engine-4-engineering-firefighter/",
-    "upvotes": 59,
+    "upvotes": 68,
     "author": "mooreds",
-    "comments": 16,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26770063"
+  },
+  {
+    "title": "Bloom filters explained in a single image",
+    "url": "https://exampl.io/bloom-filters/",
+    "upvotes": 5,
+    "author": "polyrand",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26771991"
   },
   {
     "title": "Using brain interfaces to learn about learning",
     "url": "https://www.axios.com/brain-computer-interfaces-learning-b9fbc05b-5d51-4c8a-bfc5-6cfc1eb420eb.html",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "hhs",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26771679"
@@ -94,23 +126,23 @@
   {
     "title": "TLS Mastery",
     "url": "https://mwl.io/nonfiction/networking#tls",
-    "upvotes": 102,
+    "upvotes": 108,
     "author": "rodrigo975",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26760032"
   },
   {
-    "title": "Why do so many companies incorporate in Delaware?",
-    "url": "https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/",
-    "upvotes": 143,
-    "author": "Garbage",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26770454"
+    "title": "First-Class I/O",
+    "url": "https://blog.sunfishcode.online/first-class-io/",
+    "upvotes": 17,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26768606"
   },
   {
     "title": "Old Book Illustrations",
     "url": "https://www.oldbookillustrations.com/subjects/",
-    "upvotes": 152,
+    "upvotes": 159,
     "author": "Tomte",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26760111"
@@ -118,31 +150,31 @@
   {
     "title": "Atlantic Dawn: The Ship from Hell",
     "url": "https://britishseafishing.co.uk/atlantic-dawn-the-ship-from-hell/",
-    "upvotes": 132,
+    "upvotes": 138,
     "author": "mosiuerbarso",
-    "comments": 37,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26748655"
   },
   {
-    "title": "Cyber Attack on Iran's Nuclear Facility",
-    "url": "https://www.bbc.com/news/world-middle-east-56708778",
-    "upvotes": 168,
-    "author": "stunt",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=26771224"
+    "title": "Why do so many companies incorporate in Delaware?",
+    "url": "https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/",
+    "upvotes": 153,
+    "author": "Garbage",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=26770454"
   },
   {
     "title": "Google’s lawyer accidentally made a sensitive document public",
     "url": "https://mattstoller.substack.com/p/when-googles-fancy-lawyers-screw",
-    "upvotes": 244,
+    "upvotes": 260,
     "author": "PretzelFisch",
-    "comments": 51,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26770209"
   },
   {
     "title": "CloudBeaver – Database Management from Browser",
     "url": "https://cloudbeaver.io",
-    "upvotes": 53,
+    "upvotes": 57,
     "author": "thunderbong",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26769549"
@@ -156,83 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=26769865"
   },
   {
-    "title": "First-Class I/O",
-    "url": "https://blog.sunfishcode.online/first-class-io/",
-    "upvotes": 12,
-    "author": "lukastyrychtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26768606"
-  },
-  {
     "title": "Surgeons Perform First Human Tracheal Transplant Surgery",
     "url": "https://www.mountsinai.org/about/newsroom/2021/mount-sinai-surgeons-perform-first-human-tracheal-transplant-surgery",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "Ovah",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26769091"
+  },
+  {
+    "title": "The Wrong Number",
+    "url": "https://www.dialajoke.us/#wrongnumber",
+    "upvotes": 3,
+    "author": "tintinnabula",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26758036"
   },
   {
     "title": "The Net interprets privacy as damage and routes around it",
     "url": "item?id=26771288",
-    "upvotes": 20,
+    "upvotes": 24,
     "author": "paulkrush",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26771288"
-  },
-  {
-    "title": "The Meme Machine",
-    "url": "https://www.susanblackmore.uk/the-meme-machine/",
-    "upvotes": 19,
-    "author": "xo5vik",
     "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26759846"
-  },
-  {
-    "title": "Demystifying programs that create programs, part 1: A disassembler",
-    "url": "https://briancallahan.net/blog/20210407.html",
-    "upvotes": 3,
-    "author": "cyberlab",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26771655"
+    "link": "https://news.ycombinator.com/item?id=26771288"
   },
   {
     "title": "EU Parliament Wants Pirated Sports Streams Taken Down Within 30 Minutes",
     "url": "https://torrentfreak.com/eu-parliament-wants-pirated-sports-streams-taken-down-within-30-minutes-210409/",
-    "upvotes": 20,
+    "upvotes": 31,
     "author": "curmudgeon22",
-    "comments": 7,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26771743"
+  },
+  {
+    "title": "The Meme Machine",
+    "url": "https://www.susanblackmore.uk/the-meme-machine/",
+    "upvotes": 20,
+    "author": "xo5vik",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26759846"
   },
   {
     "title": "Trans-Planetary Subway Systems",
     "url": "https://www.rand.org/pubs/papers/P6092.html",
-    "upvotes": 17,
+    "upvotes": 18,
     "author": "simonebrunozzi",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26770256"
-  },
-  {
-    "title": "Temporal Tables PostgreSQL Extension",
-    "url": "https://github.com/arkhipov/temporal_tables",
-    "upvotes": 142,
-    "author": "jka",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26748096"
-  },
-  {
-    "title": "Discovery of Lost ‘Golden’ City in Luxor, Egypt",
-    "url": "https://egyptianstreets.com/2021/04/08/egyptologist-zahi-hawass-announces-discovery-of-lost-golden-city-in-luxor/",
-    "upvotes": 140,
-    "author": "seesawtron",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26748124"
-  },
-  {
-    "title": "AMA: Ivan Kutskir, creator of Photopea",
-    "url": "https://www.reddit.com/r/IAmA/comments/i8j5te/i_made_a_free_alternative_to_photoshop_that_is/g18ush0/",
-    "upvotes": 329,
-    "author": "ent101",
-    "comments": 236,
-    "link": "https://news.ycombinator.com/item?id=26768550"
   }
 ]
