@@ -2,203 +2,187 @@
   {
     "title": "What was the point of [ “x$var” = “xval” ]?",
     "url": "https://www.vidarholen.net/contents/blog/?p=1035",
-    "upvotes": 100,
+    "upvotes": 123,
     "author": "JNRowe",
-    "comments": 43,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26776956"
-  },
-  {
-    "title": "When real world mapping meets Tolkien",
-    "url": "https://www.ordnancesurvey.co.uk/newsroom/blog/real-world-mapping-meets-tolkien",
-    "upvotes": 45,
-    "author": "dcminter",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26770385"
   },
   {
     "title": "Mugo, a toy compiler for a subset of Go that can compile itself",
     "url": "https://benhoyt.com/writings/mugo/",
-    "upvotes": 14,
+    "upvotes": 31,
     "author": "benhoyt",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26777705"
   },
   {
-    "title": "Traversing nested data-structures in various languages",
-    "url": "https://github.com/josevalim/nested-data-structure-traversal",
-    "upvotes": 33,
-    "author": "self",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26776786"
+    "title": "When real world mapping meets Tolkien",
+    "url": "https://www.ordnancesurvey.co.uk/newsroom/blog/real-world-mapping-meets-tolkien",
+    "upvotes": 58,
+    "author": "dcminter",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26770385"
   },
   {
     "title": "Facebook loophole that lets world leaders deceive and harass their citizens",
     "url": "https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation",
-    "upvotes": 65,
+    "upvotes": 91,
     "author": "erdo",
-    "comments": 28,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26777374"
   },
   {
     "title": "MLJ.jl: A Julia package for composable machine learning",
     "url": "https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features",
-    "upvotes": 194,
+    "upvotes": 195,
     "author": "amkkma",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26774590"
   },
   {
-    "title": "NHS Covid-19 app update blocked for breaking Apple and Google's rules",
-    "url": "https://www.bbc.co.uk/news/technology-56713017",
-    "upvotes": 27,
-    "author": "mbalyuzi",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26777618"
+    "title": "Traversing nested data-structures in various languages",
+    "url": "https://github.com/josevalim/nested-data-structure-traversal",
+    "upvotes": 40,
+    "author": "self",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26776786"
   },
   {
     "title": "std::unique_ptr implementation backed by Ethereum NFTs",
     "url": "https://github.com/zhuowei/nft_ptr",
-    "upvotes": 418,
+    "upvotes": 431,
     "author": "abhorrence",
-    "comments": 51,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26773637"
-  },
-  {
-    "title": "TorBox v.0.4.0",
-    "url": "https://www.torbox.ch/?p=2027",
-    "upvotes": 37,
-    "author": "h0ek",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26776390"
   },
   {
     "title": "800-year-old medieval pottery fragments reveal Jewish dietary practices",
     "url": "https://www.medievalists.net/2021/04/medieval-jewish-dietary-practices/",
-    "upvotes": 23,
+    "upvotes": 28,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26757548"
   },
   {
+    "title": "The Ratings Game, Part 1: A Likely and an Unlikely Suspect",
+    "url": "https://www.filfre.net/2021/04/the-ratings-game-part-1-a-likely-and-an-unlikely-suspect/",
+    "upvotes": 8,
+    "author": "doppp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26767279"
+  },
+  {
     "title": "Compressing and enhancing hand-written notes",
     "url": "https://mzucker.github.io/2016/09/20/noteshrink.html",
-    "upvotes": 82,
+    "upvotes": 87,
     "author": "djoldman",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26762909"
   },
   {
+    "title": "Linux, macOS, and Windows running simultaneously on a first gen Core i5",
+    "url": "https://lukesempire.com/2021/04/11/vms",
+    "upvotes": 200,
+    "author": "luke2m",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26773310"
+  },
+  {
     "title": "Does the Universe Have Higher Dimensions? Part 1",
     "url": "https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html",
-    "upvotes": 60,
+    "upvotes": 61,
     "author": "sohkamyung",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26775447"
   },
   {
-    "title": "Linux, macOS, and Windows running simultaneously on a first gen Core i5",
-    "url": "https://lukesempire.com/2021/04/11/vms",
-    "upvotes": 193,
-    "author": "luke2m",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26773310"
+    "title": "Go HTTPS Servers with TLS",
+    "url": "https://eli.thegreenplace.net/2021/go-https-servers-with-tls/",
+    "upvotes": 51,
+    "author": "signa11",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26767252"
   },
   {
     "title": "Bonsai",
     "url": "https://angel.co/company/bonsai/jobs/1264053-product-manager-lead"
   },
   {
+    "title": "SUBLEQ and DawnOS",
+    "url": "https://esoteric.codes/blog/a-programming-language-with-only-one-command-and",
+    "upvotes": 56,
+    "author": "weare138",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26775501"
+  },
+  {
+    "title": "Illegal Prime Numbers",
+    "url": "https://en.wikipedia.org/wiki/Illegal_prime",
+    "upvotes": 63,
+    "author": "neatze",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26776949"
+  },
+  {
     "title": "Retool – Fixing product debt without PMs",
     "url": "https://www.supercalifragilistic.co/p/retool",
-    "upvotes": 28,
+    "upvotes": 30,
     "author": "tanguyls",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26777059"
   },
   {
-    "title": "SUBLEQ and DawnOS",
-    "url": "https://esoteric.codes/blog/a-programming-language-with-only-one-command-and",
-    "upvotes": 53,
-    "author": "weare138",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26775501"
-  },
-  {
-    "title": "Go HTTPS Servers with TLS",
-    "url": "https://eli.thegreenplace.net/2021/go-https-servers-with-tls/",
-    "upvotes": 46,
-    "author": "signa11",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26767252"
-  },
-  {
-    "title": "Illegal Prime Numbers",
-    "url": "https://en.wikipedia.org/wiki/Illegal_prime",
-    "upvotes": 54,
-    "author": "neatze",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26776949"
+    "title": "TorBox v.0.4.0",
+    "url": "https://www.torbox.ch/?p=2027",
+    "upvotes": 43,
+    "author": "h0ek",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26776390"
   },
   {
     "title": "Creating a minimalist blog with Jekyll Now",
     "url": "https://vdf.dev/blog/Creating-minimalist-blog-with-Jekyll-now/",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "flamecoals",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26776210"
   },
   {
     "title": "Forgotten Memories of Traumatic Events Get Some Backing from Brain-Imaging",
     "url": "https://www.scientificamerican.com/article/forgotten-memories-of-traumatic-events-get-some-backing-from-brain-imaging-studies/",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "pseudolus",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26769436"
-  },
-  {
-    "title": "The Ratings Game, Part 1: A Likely and an Unlikely Suspect",
-    "url": "https://www.filfre.net/2021/04/the-ratings-game-part-1-a-likely-and-an-unlikely-suspect/",
-    "upvotes": 3,
-    "author": "doppp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26767279"
-  },
-  {
-    "title": "The Healing Power of Code",
-    "url": "https://www.wired.com/story/healing-power-javascript-code-programming/",
-    "upvotes": 43,
-    "author": "cmod",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26767321"
-  },
-  {
-    "title": "MiSTer, an open-source FPGA gaming project",
-    "url": "https://github.com/MiSTer-devel/Main_MiSTer/wiki",
-    "upvotes": 305,
-    "author": "tediousdemise",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26772151"
   },
   {
     "title": "Biological Warfare in Eighteenth-Century America: Beyond Jeffery Amherst",
     "url": "https://www.jstor.org/stable/2567577?mag=how-commonly-was-smallpox-used-as-a-biological-weapon&seq=1#metadata_info_tab_contents",
-    "upvotes": 10,
+    "upvotes": 14,
     "author": "pepys",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26757715"
   },
   {
-    "title": "X-Seed 4000",
-    "url": "https://en.wikipedia.org/wiki/X-Seed_4000",
-    "upvotes": 17,
-    "author": "keiferski",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26777147"
+    "title": "MiSTer, an open-source FPGA gaming project",
+    "url": "https://github.com/MiSTer-devel/Main_MiSTer/wiki",
+    "upvotes": 306,
+    "author": "tediousdemise",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=26772151"
+  },
+  {
+    "title": "The Healing Power of Code",
+    "url": "https://www.wired.com/story/healing-power-javascript-code-programming/",
+    "upvotes": 45,
+    "author": "cmod",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26767321"
   },
   {
     "title": "Perlis' Epigrams",
     "url": "http://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "upvotes": 30,
+    "upvotes": 31,
     "author": "phab",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26770684"
@@ -206,33 +190,49 @@
   {
     "title": "Technologies I thought my son would never use",
     "url": "https://www.tomshardware.com/opinion/15-technology-predictions-how-they-did",
-    "upvotes": 334,
+    "upvotes": 338,
     "author": "CrankyBear",
-    "comments": 433,
+    "comments": 441,
     "link": "https://news.ycombinator.com/item?id=26771623"
   },
   {
-    "title": "Tesla hikes solar roof price on contracts signed over a year ago",
-    "url": "https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/",
-    "upvotes": 145,
-    "author": "ping_pong",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=26776510"
+    "title": "X-Seed 4000",
+    "url": "https://en.wikipedia.org/wiki/X-Seed_4000",
+    "upvotes": 21,
+    "author": "keiferski",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26777147"
   },
   {
     "title": "Surround Sound in Headphones",
     "url": "https://www.soundguys.com/surround-sound-headphones-guide-49389/",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "giuliomagnifico",
-    "comments": 52,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26767996"
+  },
+  {
+    "title": "Tesla hikes solar roof price on contracts signed over a year ago",
+    "url": "https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/",
+    "upvotes": 152,
+    "author": "ping_pong",
+    "comments": 139,
+    "link": "https://news.ycombinator.com/item?id=26776510"
   },
   {
     "title": "An environmental disaster was uncovered off California after 70 years",
     "url": "https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/",
-    "upvotes": 85,
+    "upvotes": 92,
     "author": "jdkee",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26776086"
+  },
+  {
+    "title": "Microsoft in advanced talks to buy Nuance",
+    "url": "https://www.cnbc.com/2021/04/11/microsoft-in-advanced-talks-to-buy-speech-recognition-company-nuance.html",
+    "upvotes": 78,
+    "author": "jbredeche",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26774367"
   }
 ]
