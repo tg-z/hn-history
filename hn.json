@@ -2,23 +2,23 @@
   {
     "title": "MLJ.jl: A Julia package for composable machine learning",
     "url": "https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features",
-    "upvotes": 91,
+    "upvotes": 96,
     "author": "amkkma",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26774590"
   },
   {
     "title": "SUBLEQ and DawnOS",
     "url": "https://esoteric.codes/blog/a-programming-language-with-only-one-command-and",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "weare138",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26775501"
   },
   {
     "title": "MiSTer, an open-source FPGA gaming project",
     "url": "https://github.com/MiSTer-devel/Main_MiSTer/wiki",
-    "upvotes": 245,
+    "upvotes": 246,
     "author": "tediousdemise",
     "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26772151"
@@ -26,49 +26,49 @@
   {
     "title": "Technologies I thought my son would never use",
     "url": "https://www.tomshardware.com/opinion/15-technology-predictions-how-they-did",
-    "upvotes": 202,
+    "upvotes": 210,
     "author": "CrankyBear",
-    "comments": 294,
+    "comments": 304,
     "link": "https://news.ycombinator.com/item?id=26771623"
-  },
-  {
-    "title": "Show HN: An encoding of the UK's self-isolation rules in Prolog",
-    "url": "https://github.com/jamespwilliams/prolog-isolation-checker",
-    "upvotes": 100,
-    "author": "jamespwilliams",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26773130"
-  },
-  {
-    "title": "Linux, macOS, and Windows running simultaneously on a first gen Core i5",
-    "url": "https://lukesempire.com/2021/04/11/vms",
-    "upvotes": 96,
-    "author": "luke2m",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26773310"
   },
   {
     "title": "Forgotten Memories of Traumatic Events Get Some Backing from Brain-Imaging",
     "url": "https://www.scientificamerican.com/article/forgotten-memories-of-traumatic-events-get-some-backing-from-brain-imaging-studies/",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "pseudolus",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26769436"
+  },
+  {
+    "title": "Linux, macOS, and Windows running simultaneously on a first gen Core i5",
+    "url": "https://lukesempire.com/2021/04/11/vms",
+    "upvotes": 100,
+    "author": "luke2m",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=26773310"
   },
   {
     "title": "Making Librem 5 Apps [video]",
     "url": "https://puri.sm/posts/the-simplicity-of-making-librem-5-apps/",
     "upvotes": 272,
     "author": "ruph123",
-    "comments": 176,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=26770486"
+  },
+  {
+    "title": "std::unique_ptr implementation backed by Ethereum NFTs",
+    "url": "https://github.com/zhuowei/nft_ptr",
+    "upvotes": 112,
+    "author": "abhorrence",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26773637"
   },
   {
     "title": "The Ponzi Career",
     "url": "https://www.drorpoleg.com/the-ponzi-career/",
-    "upvotes": 364,
+    "upvotes": 370,
     "author": "elsewhen",
-    "comments": 211,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=26770562"
   },
   {
@@ -76,27 +76,35 @@
     "url": "https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead"
   },
   {
-    "title": "std::unique_ptr implementation backed by Ethereum NFTs",
-    "url": "https://github.com/zhuowei/nft_ptr",
-    "upvotes": 90,
-    "author": "abhorrence",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26773637"
+    "title": "Spectrum upset about me using the upload they sold me",
+    "url": "https://www.reddit.com/r/DataHoarder/comments/moqskr/spectrum_upset_about_me_using_the_upload_they/",
+    "upvotes": 9,
+    "author": "ValentineC",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26775802"
   },
   {
     "title": "Internet-monitoring – A Docker stack that monitors your home network",
     "url": "https://github.com/geerlingguy/internet-monitoring",
-    "upvotes": 183,
+    "upvotes": 186,
     "author": "simonpure",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26770415"
+  },
+  {
+    "title": "Perlis' Epigrams",
+    "url": "http://www.cs.yale.edu/homes/perlis-alan/quotes.html",
+    "upvotes": 11,
+    "author": "phab",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26770684"
   },
   {
     "title": "The Nuclear Lightbulb",
     "url": "https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/",
-    "upvotes": 75,
+    "upvotes": 77,
     "author": "othello",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26771944"
   },
   {
@@ -104,45 +112,37 @@
     "url": "https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/",
     "upvotes": 53,
     "author": "stemlaur",
-    "comments": 89,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26772550"
-  },
-  {
-    "title": "Perlis' Epigrams",
-    "url": "http://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "upvotes": 9,
-    "author": "phab",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26770684"
   },
   {
     "title": "Confessions of an Unreal Engine 4 Engineering Firefighter",
     "url": "https://allarsblog.com/2018/03/17/confessions-of-an-unreal-engine-4-engineering-firefighter/",
-    "upvotes": 156,
+    "upvotes": 160,
     "author": "mooreds",
-    "comments": 99,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=26770063"
+  },
+  {
+    "title": "Gradle 7.0",
+    "url": "https://docs.gradle.org/7.0/release-notes.html",
+    "upvotes": 88,
+    "author": "gher-shyu3i",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=26771300"
   },
   {
     "title": "Cree#, a morphemic programming language with Cree keywords and concepts",
     "url": "https://esoteric.codes/blog/jon-corbett",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "relatt",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26771369"
   },
   {
-    "title": "Gradle 7.0",
-    "url": "https://docs.gradle.org/7.0/release-notes.html",
-    "upvotes": 83,
-    "author": "gher-shyu3i",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26771300"
-  },
-  {
     "title": "Demystifying programs that create programs, part 1: A disassembler",
     "url": "https://briancallahan.net/blog/20210407.html",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "cyberlab",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26771655"
@@ -150,74 +150,82 @@
   {
     "title": "First-Class I/O",
     "url": "https://blog.sunfishcode.online/first-class-io/",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "lukastyrychtr",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26768606"
   },
   {
-    "title": "Winsome Heartwood by the Spinel",
-    "url": "https://the-spinel.itch.io/winsome-heartwood",
-    "upvotes": 3,
-    "author": "colinprince",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26770427"
+    "title": "Surround Sound in Headphones",
+    "url": "https://www.soundguys.com/surround-sound-headphones-guide-49389/",
+    "upvotes": 15,
+    "author": "giuliomagnifico",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26767996"
   },
   {
     "title": "No success like failure – a natural history of the film maudit",
     "url": "https://www.bfi.org.uk/sight-and-sound/features/films-maudit-cursed-films-natural-history",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "prismatic",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26767663"
   },
   {
-    "title": "Anxiety is in your body, not your mind",
-    "url": "https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb",
-    "upvotes": 225,
-    "author": "rainhacker",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=26774145"
-  },
-  {
     "title": "French lawmakers approve a ban on short domestic flights",
     "url": "https://www.reuters.com/article/us-climate-change-france-flights-idUSKBN2BY0AO",
-    "upvotes": 168,
+    "upvotes": 175,
     "author": "finphil",
-    "comments": 245,
+    "comments": 248,
     "link": "https://news.ycombinator.com/item?id=26770929"
   },
   {
-    "title": "Surround Sound in Headphones",
-    "url": "https://www.soundguys.com/surround-sound-headphones-guide-49389/",
-    "upvotes": 13,
-    "author": "giuliomagnifico",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26767996"
+    "title": "Anxiety is in your body, not your mind",
+    "url": "https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb",
+    "upvotes": 229,
+    "author": "rainhacker",
+    "comments": 142,
+    "link": "https://news.ycombinator.com/item?id=26774145"
+  },
+  {
+    "title": "Winsome Heartwood by the Spinel",
+    "url": "https://the-spinel.itch.io/winsome-heartwood",
+    "upvotes": 4,
+    "author": "colinprince",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26770427"
   },
   {
     "title": "Why do so many companies incorporate in Delaware?",
     "url": "https://thehustle.co/why-delaware-is-the-sexiest-place-in-america-to-incorporate-a-company/",
-    "upvotes": 239,
+    "upvotes": 241,
     "author": "Garbage",
-    "comments": 159,
+    "comments": 161,
     "link": "https://news.ycombinator.com/item?id=26770454"
-  },
-  {
-    "title": "Using brain interfaces to learn about learning",
-    "url": "https://www.axios.com/brain-computer-interfaces-learning-b9fbc05b-5d51-4c8a-bfc5-6cfc1eb420eb.html",
-    "upvotes": 38,
-    "author": "hhs",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26771679"
   },
   {
     "title": "Listening and building trust: starting as I mean to go on",
     "url": "https://www.gov.uk/government/news/listening-and-building-trust-starting-as-i-mean-to-go-on",
-    "upvotes": 16,
+    "upvotes": 17,
     "author": "DanBC",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26768649"
+  },
+  {
+    "title": "Microsoft in advanced talks to buy speech-recognition company Nuance",
+    "url": "https://www.cnbc.com/2021/04/11/microsoft-in-advanced-talks-to-buy-speech-recognition-company-nuance.html",
+    "upvotes": 6,
+    "author": "jbredeche",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26774367"
+  },
+  {
+    "title": "Using brain interfaces to learn about learning",
+    "url": "https://www.axios.com/brain-computer-interfaces-learning-b9fbc05b-5d51-4c8a-bfc5-6cfc1eb420eb.html",
+    "upvotes": 39,
+    "author": "hhs",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26771679"
   },
   {
     "title": "Of Astronauts and Algae: NASA and the Dream of Multispecies Spaceflight",
@@ -226,13 +234,5 @@
     "author": "drdee",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26741963"
-  },
-  {
-    "title": "Walletmor Payment Implant",
-    "url": "https://walletmor.com/",
-    "upvotes": 33,
-    "author": "tomaszs",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26773403"
   }
 ]
