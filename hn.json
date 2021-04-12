@@ -2,81 +2,109 @@
   {
     "title": "MLJ.jl: A Julia package for composable machine learning",
     "url": "https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features",
-    "upvotes": 142,
+    "upvotes": 153,
     "author": "amkkma",
-    "comments": 22,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26774590"
   },
   {
     "title": "Creating a minimalist blog with Jekyll Now",
     "url": "https://vdf.dev/blog/Creating-minimalist-blog-with-Jekyll-now/",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "flamecoals",
-    "comments": 14,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26776210"
+  },
+  {
+    "title": "std::unique_ptr implementation backed by Ethereum NFTs",
+    "url": "https://github.com/zhuowei/nft_ptr",
+    "upvotes": 268,
+    "author": "abhorrence",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26773637"
   },
   {
     "title": "MiSTer, an open-source FPGA gaming project",
     "url": "https://github.com/MiSTer-devel/Main_MiSTer/wiki",
-    "upvotes": 279,
+    "upvotes": 283,
     "author": "tediousdemise",
     "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26772151"
   },
   {
-    "title": "std::unique_ptr implementation backed by Ethereum NFTs",
-    "url": "https://github.com/zhuowei/nft_ptr",
-    "upvotes": 240,
-    "author": "abhorrence",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26773637"
-  },
-  {
     "title": "SUBLEQ and DawnOS",
     "url": "https://esoteric.codes/blog/a-programming-language-with-only-one-command-and",
-    "upvotes": 39,
+    "upvotes": 43,
     "author": "weare138",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26775501"
   },
   {
+    "title": "Bonsai",
+    "url": "https://angel.co/company/bonsai/jobs/1264053-product-manager-lead"
+  },
+  {
     "title": "Technologies I thought my son would never use",
     "url": "https://www.tomshardware.com/opinion/15-technology-predictions-how-they-did",
-    "upvotes": 265,
+    "upvotes": 274,
     "author": "CrankyBear",
-    "comments": 355,
+    "comments": 364,
     "link": "https://news.ycombinator.com/item?id=26771623"
   },
   {
     "title": "Forgotten Memories of Traumatic Events Get Some Backing from Brain-Imaging",
     "url": "https://www.scientificamerican.com/article/forgotten-memories-of-traumatic-events-get-some-backing-from-brain-imaging-studies/",
-    "upvotes": 32,
+    "upvotes": 36,
     "author": "pseudolus",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26769436"
   },
   {
     "title": "Linux, macOS, and Windows running simultaneously on a first gen Core i5",
     "url": "https://lukesempire.com/2021/04/11/vms",
-    "upvotes": 139,
+    "upvotes": 147,
     "author": "luke2m",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26773310"
   },
   {
     "title": "Compressing and enhancing hand-written notes",
     "url": "https://mzucker.github.io/2016/09/20/noteshrink.html",
-    "upvotes": 13,
+    "upvotes": 21,
     "author": "djoldman",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26762909"
+  },
+  {
+    "title": "Tesla hikes solar roof price on contracts signed over a year ago",
+    "url": "https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/",
+    "upvotes": 14,
+    "author": "ping_pong",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26776510"
+  },
+  {
+    "title": "Does the Universe Have Higher Dimensions? Part 1",
+    "url": "https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html",
+    "upvotes": 27,
+    "author": "sohkamyung",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26775447"
+  },
+  {
+    "title": "Go HTTPS Servers with TLS",
+    "url": "https://eli.thegreenplace.net/2021/go-https-servers-with-tls/",
+    "upvotes": 11,
+    "author": "signa11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26767252"
   },
   {
     "title": "Microsoft in advanced talks to buy speech-recognition company Nuance",
     "url": "https://www.cnbc.com/2021/04/11/microsoft-in-advanced-talks-to-buy-speech-recognition-company-nuance.html",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "jbredeche",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26774367"
   },
   {
@@ -88,88 +116,68 @@
     "link": "https://news.ycombinator.com/item?id=26767321"
   },
   {
-    "title": "Does the Universe Have Higher Dimensions? Part 1",
-    "url": "https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html",
-    "upvotes": 22,
-    "author": "sohkamyung",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26775447"
+    "title": "Problems with JPA/Hibernate",
+    "url": "https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/",
+    "upvotes": 65,
+    "author": "stemlaur",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=26772550"
   },
   {
     "title": "Perlis' Epigrams",
     "url": "http://www.cs.yale.edu/homes/perlis-alan/quotes.html",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "phab",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26770684"
   },
   {
-    "title": "Greywing",
-    "url": "https://www.ycombinator.com/companies/greywing/jobs/J2SJ4dn-frontend-lead"
-  },
-  {
-    "title": "Problems with JPA/Hibernate",
-    "url": "https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/",
-    "upvotes": 64,
-    "author": "stemlaur",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=26772550"
-  },
-  {
     "title": "Demystifying programs that create programs, part 1: A disassembler",
     "url": "https://briancallahan.net/blog/20210407.html",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "cyberlab",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26771655"
-  },
-  {
-    "title": "Surround Sound in Headphones",
-    "url": "https://www.soundguys.com/surround-sound-headphones-guide-49389/",
-    "upvotes": 38,
-    "author": "giuliomagnifico",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26767996"
   },
   {
     "title": "The Nuclear Lightbulb",
     "url": "https://beyondnerva.com/2020/03/21/the-nuclear-lightbulb-a-brief-introduction/",
-    "upvotes": 81,
+    "upvotes": 85,
     "author": "othello",
-    "comments": 41,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26771944"
   },
   {
     "title": "Gradle 7.0",
     "url": "https://docs.gradle.org/7.0/release-notes.html",
-    "upvotes": 92,
+    "upvotes": 94,
     "author": "gher-shyu3i",
-    "comments": 91,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26771300"
   },
   {
-    "title": "Go HTTPS Servers with TLS",
-    "url": "https://eli.thegreenplace.net/2021/go-https-servers-with-tls/",
-    "upvotes": 6,
-    "author": "signa11",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26767252"
+    "title": "An environmental disaster was uncovered off California after 70 years",
+    "url": "https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/",
+    "upvotes": 44,
+    "author": "jdkee",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26776086"
   },
   {
     "title": "Cree#, a morphemic programming language with Cree keywords and concepts",
     "url": "https://esoteric.codes/blog/jon-corbett",
-    "upvotes": 81,
+    "upvotes": 82,
     "author": "relatt",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26771369"
   },
   {
-    "title": "French lawmakers approve a ban on short domestic flights",
-    "url": "https://www.reuters.com/article/us-climate-change-france-flights-idUSKBN2BY0AO",
-    "upvotes": 218,
-    "author": "finphil",
-    "comments": 288,
-    "link": "https://news.ycombinator.com/item?id=26770929"
+    "title": "Long Live Sandboxing",
+    "url": "https://noncombatant.org/2021/04/11/long-live-sandboxing/",
+    "upvotes": 14,
+    "author": "mooreds",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26775143"
   },
   {
     "title": "First-Class I/O",
@@ -180,25 +188,9 @@
     "link": "https://news.ycombinator.com/item?id=26768606"
   },
   {
-    "title": "An environmental disaster was uncovered off California after 70 years",
-    "url": "https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/",
-    "upvotes": 32,
-    "author": "jdkee",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26776086"
-  },
-  {
-    "title": "Long Live Sandboxing",
-    "url": "https://noncombatant.org/2021/04/11/long-live-sandboxing/",
-    "upvotes": 11,
-    "author": "mooreds",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26775143"
-  },
-  {
     "title": "No success like failure – a natural history of the film maudit",
     "url": "https://www.bfi.org.uk/sight-and-sound/features/films-maudit-cursed-films-natural-history",
-    "upvotes": 26,
+    "upvotes": 27,
     "author": "prismatic",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26767663"
@@ -206,9 +198,9 @@
   {
     "title": "The Ponzi Career",
     "url": "https://www.drorpoleg.com/the-ponzi-career/",
-    "upvotes": 403,
+    "upvotes": 407,
     "author": "elsewhen",
-    "comments": 225,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=26770562"
   },
   {
@@ -222,9 +214,9 @@
   {
     "title": "Anxiety is in your body, not your mind",
     "url": "https://elemental.medium.com/anxiety-is-in-your-body-not-your-mind-93031abd14eb",
-    "upvotes": 272,
+    "upvotes": 279,
     "author": "rainhacker",
-    "comments": 167,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=26774145"
   },
   {
@@ -234,5 +226,13 @@
     "author": "DanBC",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26768649"
+  },
+  {
+    "title": "Using brain interfaces to learn about learning",
+    "url": "https://www.axios.com/brain-computer-interfaces-learning-b9fbc05b-5d51-4c8a-bfc5-6cfc1eb420eb.html",
+    "upvotes": 46,
+    "author": "hhs",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26771679"
   }
 ]
