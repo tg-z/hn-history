@@ -1,87 +1,103 @@
 [
   {
-    "title": "Äike – First e-scooter developed and assembled in Europe",
-    "url": "https://rideaike.com/",
-    "upvotes": 36,
-    "author": "possiblelion",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26777008"
-  },
-  {
     "title": "What was the point of [ “x$var” = “xval” ]?",
     "url": "https://www.vidarholen.net/contents/blog/?p=1035",
-    "upvotes": 43,
+    "upvotes": 64,
     "author": "JNRowe",
-    "comments": 10,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26776956"
+  },
+  {
+    "title": "When real world mapping meets Tolkien",
+    "url": "https://www.ordnancesurvey.co.uk/newsroom/blog/real-world-mapping-meets-tolkien",
+    "upvotes": 20,
+    "author": "dcminter",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26770385"
   },
   {
     "title": "Traversing nested data-structures in various languages",
     "url": "https://github.com/josevalim/nested-data-structure-traversal",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "self",
-    "comments": 6,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26776786"
   },
   {
     "title": "MLJ.jl: A Julia package for composable machine learning",
     "url": "https://alan-turing-institute.github.io/MLJ.jl/dev/#Key-features",
-    "upvotes": 184,
+    "upvotes": 186,
     "author": "amkkma",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26774590"
   },
   {
     "title": "TorBox v.0.4.0",
     "url": "https://www.torbox.ch/?p=2027",
-    "upvotes": 25,
+    "upvotes": 28,
     "author": "h0ek",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26776390"
   },
   {
     "title": "std::unique_ptr implementation backed by Ethereum NFTs",
     "url": "https://github.com/zhuowei/nft_ptr",
-    "upvotes": 380,
+    "upvotes": 390,
     "author": "abhorrence",
-    "comments": 47,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26773637"
+  },
+  {
+    "title": "Facebook loophole that lets world leaders deceive and harass their citizens",
+    "url": "https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation",
+    "upvotes": 19,
+    "author": "erdo",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26777374"
   },
   {
     "title": "Retool – Fixing product debt without PMs",
     "url": "https://www.supercalifragilistic.co/p/retool",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "tanguyls",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26777059"
   },
   {
     "title": "800-year-old medieval pottery fragments reveal Jewish dietary practices",
     "url": "https://www.medievalists.net/2021/04/medieval-jewish-dietary-practices/",
-    "upvotes": 13,
+    "upvotes": 17,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26757548"
   },
   {
-    "title": "When real world mapping meets Tolkien",
-    "url": "https://www.ordnancesurvey.co.uk/newsroom/blog/real-world-mapping-meets-tolkien",
-    "upvotes": 4,
-    "author": "dcminter",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26770385"
-  },
-  {
     "title": "Compressing and enhancing hand-written notes",
     "url": "https://mzucker.github.io/2016/09/20/noteshrink.html",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "djoldman",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26762909"
+  },
+  {
+    "title": "Does the Universe Have Higher Dimensions? Part 1",
+    "url": "https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html",
+    "upvotes": 55,
+    "author": "sohkamyung",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26775447"
   },
   {
     "title": "Bonsai",
     "url": "https://angel.co/company/bonsai/jobs/1264053-product-manager-lead"
+  },
+  {
+    "title": "Linux, macOS, and Windows running simultaneously on a first gen Core i5",
+    "url": "https://lukesempire.com/2021/04/11/vms",
+    "upvotes": 184,
+    "author": "luke2m",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=26773310"
   },
   {
     "title": "SUBLEQ and DawnOS",
@@ -92,57 +108,41 @@
     "link": "https://news.ycombinator.com/item?id=26775501"
   },
   {
-    "title": "Linux, macOS, and Windows running simultaneously on a first gen Core i5",
-    "url": "https://lukesempire.com/2021/04/11/vms",
-    "upvotes": 179,
-    "author": "luke2m",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26773310"
-  },
-  {
-    "title": "Does the Universe Have Higher Dimensions? Part 1",
-    "url": "https://backreaction.blogspot.com/2021/04/does-universe-have-higher-dimensions.html",
-    "upvotes": 51,
-    "author": "sohkamyung",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26775447"
-  },
-  {
     "title": "Creating a minimalist blog with Jekyll Now",
     "url": "https://vdf.dev/blog/Creating-minimalist-blog-with-Jekyll-now/",
-    "upvotes": 50,
+    "upvotes": 54,
     "author": "flamecoals",
-    "comments": 54,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26776210"
   },
   {
-    "title": "Stuxnet sibling theory surges after Iran says nuke facility shut down",
-    "url": "https://www.theregister.com/2021/04/12/iran_cyber_attack_theory/",
-    "upvotes": 42,
-    "author": "beermonster",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26776698"
+    "title": "Forgotten Memories of Traumatic Events Get Some Backing from Brain-Imaging",
+    "url": "https://www.scientificamerican.com/article/forgotten-memories-of-traumatic-events-get-some-backing-from-brain-imaging-studies/",
+    "upvotes": 47,
+    "author": "pseudolus",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26769436"
   },
   {
     "title": "Go HTTPS Servers with TLS",
     "url": "https://eli.thegreenplace.net/2021/go-https-servers-with-tls/",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "signa11",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26767252"
   },
   {
-    "title": "Forgotten Memories of Traumatic Events Get Some Backing from Brain-Imaging",
-    "url": "https://www.scientificamerican.com/article/forgotten-memories-of-traumatic-events-get-some-backing-from-brain-imaging-studies/",
-    "upvotes": 46,
-    "author": "pseudolus",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26769436"
+    "title": "Microsoft in advanced talks to buy Nuance",
+    "url": "https://www.cnbc.com/2021/04/11/microsoft-in-advanced-talks-to-buy-speech-recognition-company-nuance.html",
+    "upvotes": 71,
+    "author": "jbredeche",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26774367"
   },
   {
     "title": "X-Seed 4000",
     "url": "https://en.wikipedia.org/wiki/X-Seed_4000",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "keiferski",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26777147"
@@ -150,39 +150,23 @@
   {
     "title": "Illegal Prime Numbers",
     "url": "https://en.wikipedia.org/wiki/Illegal_prime",
-    "upvotes": 29,
+    "upvotes": 33,
     "author": "neatze",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26776949"
   },
   {
-    "title": "Microsoft in advanced talks to buy Nuance",
-    "url": "https://www.cnbc.com/2021/04/11/microsoft-in-advanced-talks-to-buy-speech-recognition-company-nuance.html",
-    "upvotes": 69,
-    "author": "jbredeche",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26774367"
-  },
-  {
-    "title": "Vegan diets are adding to malnutrition in wealthy countries",
-    "url": "https://theconversation.com/vegan-diets-are-adding-to-malnutrition-in-wealthy-countries-107555",
-    "upvotes": 24,
-    "author": "YeGoblynQueenne",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26777349"
-  },
-  {
     "title": "Tesla hikes solar roof price on contracts signed over a year ago",
     "url": "https://electrek.co/2021/04/11/tesla-hikes-solar-roof-price-on-contracts-signed-over-a-year-ago/",
-    "upvotes": 119,
+    "upvotes": 128,
     "author": "ping_pong",
-    "comments": 97,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=26776510"
   },
   {
     "title": "The Healing Power of Code",
     "url": "https://www.wired.com/story/healing-power-javascript-code-programming/",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "cmod",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26767321"
@@ -190,9 +174,9 @@
   {
     "title": "MiSTer, an open-source FPGA gaming project",
     "url": "https://github.com/MiSTer-devel/Main_MiSTer/wiki",
-    "upvotes": 296,
+    "upvotes": 299,
     "author": "tediousdemise",
-    "comments": 81,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26772151"
   },
   {
@@ -204,6 +188,14 @@
     "link": "https://news.ycombinator.com/item?id=26770684"
   },
   {
+    "title": "Problems with JPA/Hibernate",
+    "url": "https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/",
+    "upvotes": 85,
+    "author": "stemlaur",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=26772550"
+  },
+  {
     "title": "Biological Warfare in Eighteenth-Century America: Beyond Jeffery Amherst",
     "url": "https://www.jstor.org/stable/2567577?mag=how-commonly-was-smallpox-used-as-a-biological-weapon&seq=1#metadata_info_tab_contents",
     "upvotes": 6,
@@ -212,27 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26757715"
   },
   {
+    "title": "Technologies I thought my son would never use",
+    "url": "https://www.tomshardware.com/opinion/15-technology-predictions-how-they-did",
+    "upvotes": 321,
+    "author": "CrankyBear",
+    "comments": 414,
+    "link": "https://news.ycombinator.com/item?id=26771623"
+  },
+  {
     "title": "An environmental disaster was uncovered off California after 70 years",
     "url": "https://www.cbsnews.com/news/california-ddt-environmental-disaster-sea-lions/",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "jdkee",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26776086"
   },
   {
-    "title": "Problems with JPA/Hibernate",
-    "url": "https://www.stemlaur.com/blog/2021/03/30/tech-hibern-hate/",
-    "upvotes": 80,
-    "author": "stemlaur",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=26772550"
+    "title": "Surround Sound in Headphones",
+    "url": "https://www.soundguys.com/surround-sound-headphones-guide-49389/",
+    "upvotes": 48,
+    "author": "giuliomagnifico",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=26767996"
   },
   {
-    "title": "Facebook loophole that lets world leaders deceive and harass their citizens",
-    "url": "https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation",
-    "upvotes": 5,
-    "author": "erdo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26777374"
+    "title": "Stuxnet sibling theory surges after Iran says nuke facility shut down",
+    "url": "https://www.theregister.com/2021/04/12/iran_cyber_attack_theory/",
+    "upvotes": 48,
+    "author": "beermonster",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=26776698"
   }
 ]
