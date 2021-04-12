@@ -2,49 +2,57 @@
   {
     "title": "How People Get Rich Now",
     "url": "http://paulgraham.com/richnow.html",
-    "upvotes": 261,
+    "upvotes": 323,
     "author": "prakhargurunani",
-    "comments": 251,
+    "comments": 342,
     "link": "https://news.ycombinator.com/item?id=26781052"
   },
   {
     "title": "Microsoft buys Nuance for nearly $20B",
     "url": "https://www.axios.com/microsoft-readies-deal-frenzy-bbc807a2-fd5b-48a7-99d1-cf06d0a41547.html",
-    "upvotes": 383,
+    "upvotes": 398,
     "author": "moritzplassnig",
-    "comments": 259,
+    "comments": 266,
     "link": "https://news.ycombinator.com/item?id=26778780"
-  },
-  {
-    "title": "Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems",
-    "url": "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems",
-    "upvotes": 85,
-    "author": "haakon",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26781440"
-  },
-  {
-    "title": "Use console.log",
-    "url": "https://markodenic.com/use-console-log-like-a-pro/",
-    "upvotes": 219,
-    "author": "vuciv1",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=26779800"
   },
   {
     "title": "AWS releases forked Elasticsearch code. Announces new name: OpenSearch",
     "url": "https://aws.amazon.com/blogs/opensource/introducing-opensearch/",
-    "upvotes": 132,
+    "upvotes": 167,
     "author": "ke4qqq",
-    "comments": 50,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26780848"
+  },
+  {
+    "title": "Use console.log",
+    "url": "https://markodenic.com/use-console-log-like-a-pro/",
+    "upvotes": 237,
+    "author": "vuciv1",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=26779800"
+  },
+  {
+    "title": "Nvidia Unveils Grace: A High-Performance Arm CPU for Use in Big AI Systems",
+    "url": "https://www.anandtech.com/show/16610/nvidia-unveils-grace-a-highperformance-arm-server-cpu-for-use-in-ai-systems",
+    "upvotes": 105,
+    "author": "haakon",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26781440"
+  },
+  {
+    "title": "Quantum computing’s reproducibility crisis: Majorana fermions",
+    "url": "https://www.nature.com/articles/d41586-021-00954-8",
+    "upvotes": 30,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26781994"
   },
   {
     "title": "Yuri Gagarin: Sixty years since the first man went into space [video]",
     "url": "https://www.bbc.co.uk/news/av/science-environment-56690949",
-    "upvotes": 247,
+    "upvotes": 260,
     "author": "spzb",
-    "comments": 102,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26778073"
   },
   {
@@ -54,87 +62,95 @@
   {
     "title": "Non-Fungible Taylor Swift",
     "url": "https://stratechery.com/2021/non-fungible-taylor-swift/",
-    "upvotes": 96,
+    "upvotes": 105,
     "author": "juokaz",
-    "comments": 100,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26779706"
-  },
-  {
-    "title": "NVIDIA announces GRACE CPU",
-    "url": "https://videocardz.com/newz/nvidia-announces-grace-cpu-for-giant-scale-ai-and-hpc",
-    "upvotes": 43,
-    "author": "towzeur",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26781298"
-  },
-  {
-    "title": "Quantum computing’s reproducibility crisis: Majorana fermions",
-    "url": "https://www.nature.com/articles/d41586-021-00954-8",
-    "upvotes": 13,
-    "author": "pseudolus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26781994"
-  },
-  {
-    "title": "What was the point of [ “x$var” = “xval” ]?",
-    "url": "https://www.vidarholen.net/contents/blog/?p=1035",
-    "upvotes": 288,
-    "author": "JNRowe",
-    "comments": 162,
-    "link": "https://news.ycombinator.com/item?id=26776956"
-  },
-  {
-    "title": "Facebook's 'Clear History' Tool Doesn't Clear Shit",
-    "url": "https://gizmodo.com/facebooks-clear-history-tool-doesnt-clear-shit-1841305764",
-    "upvotes": 131,
-    "author": "decrypt",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26780475"
-  },
-  {
-    "title": "Amp: Vi-like terminal editor written in Rust",
-    "url": "https://www.amp.rs/",
-    "upvotes": 66,
-    "author": "cassepipe",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26779949"
   },
   {
     "title": "Why you should NOT use NativeScript",
     "url": "https://csimpi.medium.com/why-you-should-not-use-nativescript-76e1348a7cb4",
-    "upvotes": 3,
+    "upvotes": 17,
     "author": "SuaveSteve",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26782346"
+  },
+  {
+    "title": "NVIDIA announces GRACE CPU",
+    "url": "https://videocardz.com/newz/nvidia-announces-grace-cpu-for-giant-scale-ai-and-hpc",
+    "upvotes": 54,
+    "author": "towzeur",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26781298"
+  },
+  {
+    "title": "Establishing Twitter's Presence in Africa",
+    "url": "https://blog.twitter.com/en_us/topics/company/2021/establishing-twitter-s-presence-in-africa.html",
+    "upvotes": 6,
+    "author": "kpetermeni",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26782505"
+  },
+  {
+    "title": "Facebook's 'Clear History' Tool Doesn't Clear Shit",
+    "url": "https://gizmodo.com/facebooks-clear-history-tool-doesnt-clear-shit-1841305764",
+    "upvotes": 157,
+    "author": "decrypt",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26780475"
+  },
+  {
+    "title": "What was the point of [ “x$var” = “xval” ]?",
+    "url": "https://www.vidarholen.net/contents/blog/?p=1035",
+    "upvotes": 295,
+    "author": "JNRowe",
+    "comments": 165,
+    "link": "https://news.ycombinator.com/item?id=26776956"
+  },
+  {
+    "title": "Prioritizing Memory Safety Migrations",
+    "url": "https://noncombatant.org/2021/04/09/prioritizing-memory-safety-migrations/",
+    "upvotes": 20,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26776127"
   },
   {
     "title": "Online text to diagram tools",
     "url": "https://xosh.org/text-to-diagram/",
-    "upvotes": 10,
+    "upvotes": 16,
     "author": "smusamashah",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26778294"
+  },
+  {
+    "title": "Amp: Vi-like terminal editor written in Rust",
+    "url": "https://www.amp.rs/",
+    "upvotes": 71,
+    "author": "cassepipe",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26779949"
+  },
+  {
+    "title": "CEO of a top Bitcoin exchange warns: crackdown on cryptocurrencies may be coming",
+    "url": "https://www.cnbc.com/2021/04/12/bitcoin-kraken-ceo-jesse-powell-warns-of-cryptocurrency-crackdown.html",
+    "upvotes": 44,
+    "author": "alexrustic",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26781753"
   },
   {
     "title": "When real world mapping meets Tolkien",
     "url": "https://www.ordnancesurvey.co.uk/newsroom/blog/real-world-mapping-meets-tolkien",
-    "upvotes": 178,
+    "upvotes": 181,
     "author": "dcminter",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26770385"
-  },
-  {
-    "title": "Software and Copyright: It’s Complicated",
-    "url": "https://anonymoushash.vmbrasseur.com/2021/04/12/software-and-copyright-its-complicated",
-    "upvotes": 15,
-    "author": "vmbrasseur",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26780427"
   },
   {
     "title": "Mugo, a toy compiler for a subset of Go that can compile itself",
     "url": "https://benhoyt.com/writings/mugo/",
-    "upvotes": 126,
+    "upvotes": 132,
     "author": "benhoyt",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26777705"
@@ -142,34 +158,34 @@
   {
     "title": "Ask HN: What under-the-radar technology are you excited about?",
     "url": "item?id=26780866",
-    "upvotes": 50,
+    "upvotes": 68,
     "author": "ilmoi",
-    "comments": 77,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=26780866"
   },
   {
-    "title": "Prioritizing Memory Safety Migrations",
-    "url": "https://noncombatant.org/2021/04/09/prioritizing-memory-safety-migrations/",
-    "upvotes": 12,
-    "author": "zdw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26776127"
+    "title": "Software and Copyright: It’s Complicated",
+    "url": "https://anonymoushash.vmbrasseur.com/2021/04/12/software-and-copyright-its-complicated",
+    "upvotes": 16,
+    "author": "vmbrasseur",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26780427"
   },
   {
     "title": "Cloudflare Pages is now Generally Available",
     "url": "https://blog.cloudflare.com/cloudflare-pages-ga/",
-    "upvotes": 221,
+    "upvotes": 232,
     "author": "rita3ko",
-    "comments": 75,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26778894"
   },
   {
-    "title": "CEO of a top Bitcoin exchange warns: crackdown on cryptocurrencies may be coming",
-    "url": "https://www.cnbc.com/2021/04/12/bitcoin-kraken-ceo-jesse-powell-warns-of-cryptocurrency-crackdown.html",
-    "upvotes": 20,
-    "author": "alexrustic",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26781753"
+    "title": "Show HN: Personal Data Management Dashboard",
+    "url": "https://volmarg.github.io/",
+    "upvotes": 5,
+    "author": "volmarg_reiso",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26781451"
   },
   {
     "title": "Step inside NYC’s competitive slotcar racing scene",
@@ -180,41 +196,17 @@
     "link": "https://news.ycombinator.com/item?id=26760513"
   },
   {
-    "title": "Windows 10 taskbar is now pushing Microsoft Edge web apps",
-    "url": "https://www.windowslatest.com/2021/04/11/windows-10-taskbar-is-now-pushing-microsoft-edge-web-apps/",
-    "upvotes": 95,
-    "author": "Arigato",
-    "comments": 139,
-    "link": "https://news.ycombinator.com/item?id=26780140"
-  },
-  {
-    "title": "Human Taste Buds Can Tell the Difference Between Normal and 'Heavy' Water",
-    "url": "https://www.sciencealert.com/there-s-one-kind-of-water-that-doesn-t-taste-like-water-scientists-confirm",
-    "upvotes": 45,
-    "author": "lnyan",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26780206"
-  },
-  {
     "title": "Traversing nested data-structures in various languages",
     "url": "https://github.com/josevalim/nested-data-structure-traversal",
-    "upvotes": 110,
+    "upvotes": 113,
     "author": "self",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26776786"
-  },
-  {
-    "title": "RMS addresses the free software community",
-    "url": "https://www.fsf.org/news/rms-addresses-the-free-software-community",
-    "upvotes": 369,
-    "author": "caution",
-    "comments": 255,
-    "link": "https://news.ycombinator.com/item?id=26780192"
   },
   {
     "title": "800-year-old medieval pottery fragments reveal Jewish dietary practices",
     "url": "https://www.medievalists.net/2021/04/medieval-jewish-dietary-practices/",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26757548"
@@ -222,17 +214,25 @@
   {
     "title": "Quality control, Soviet style: Here's another fine message you've gotten me into",
     "url": "https://www.theregister.com/2021/04/12/who_me/",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "georgecmu",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26778249"
   },
   {
-    "title": "The Ratings Game, Part 1: A Likely and an Unlikely Suspect",
-    "url": "https://www.filfre.net/2021/04/the-ratings-game-part-1-a-likely-and-an-unlikely-suspect/",
-    "upvotes": 44,
-    "author": "doppp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26767279"
+    "title": "Human Taste Buds Can Tell the Difference Between Normal and 'Heavy' Water",
+    "url": "https://www.sciencealert.com/there-s-one-kind-of-water-that-doesn-t-taste-like-water-scientists-confirm",
+    "upvotes": 50,
+    "author": "lnyan",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26780206"
+  },
+  {
+    "title": "Compressing and enhancing hand-written notes",
+    "url": "https://mzucker.github.io/2016/09/20/noteshrink.html",
+    "upvotes": 186,
+    "author": "djoldman",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26762909"
   }
 ]
