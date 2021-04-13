@@ -2,197 +2,213 @@
   {
     "title": "Deno 1.9",
     "url": "https://deno.com/blog/v1.9",
-    "upvotes": 194,
+    "upvotes": 232,
     "author": "searchableguy",
-    "comments": 67,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26797557"
   },
   {
     "title": "System76 Developing “Cosmic” Desktop Environment",
     "url": "https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104",
-    "upvotes": 175,
+    "upvotes": 203,
     "author": "TangerineDream",
-    "comments": 132,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=26798080"
   },
   {
     "title": "Pass: The standard Unix password manager",
     "url": "https://www.passwordstore.org/",
-    "upvotes": 12,
+    "upvotes": 39,
     "author": "homarp",
-    "comments": null,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26799021"
   },
   {
     "title": "1Password Secrets Automation",
     "url": "https://blog.1password.com/introducing-secrets-automation/",
-    "upvotes": 210,
+    "upvotes": 223,
     "author": "srijan4",
-    "comments": 111,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=26794040"
-  },
-  {
-    "title": "Writing notes by hand might not be better than typing",
-    "url": "https://blog.library.tc.columbia.edu/b/19943-Writing-Notes-By-Hand-Might-Not-Be-Better-than-Typing",
-    "upvotes": 41,
-    "author": "brandontran",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26797953"
   },
   {
     "title": "Deep dive in CORS: History, how it works, and best practices",
     "url": "https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/",
-    "upvotes": 21,
+    "upvotes": 40,
     "author": "todsacerdoti",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26798412"
+  },
+  {
+    "title": "Estate agent's hi-tech house tour exposes personal data",
+    "url": "https://www.bbc.com/news/technology-56718046",
+    "upvotes": 19,
+    "author": "salgernon",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26798367"
+  },
+  {
+    "title": "What the Dunning-Kruger effect is and isn’t",
+    "url": "http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/",
+    "upvotes": 55,
+    "author": "sanj",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=26796371"
   },
   {
     "title": "Great Question",
     "url": "https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails"
   },
   {
-    "title": "Surface Laptop 4",
-    "url": "https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/",
-    "upvotes": 155,
-    "author": "layer8",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=26796533"
-  },
-  {
     "title": "Marbles",
     "url": "http://www.erasmatazz.com/library/life-in-general/marbles.html",
-    "upvotes": 112,
+    "upvotes": 114,
     "author": "aphrax",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26794110"
   },
   {
-    "title": "What the Dunning-Kruger effect is and isn’t",
-    "url": "http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/",
-    "upvotes": 47,
-    "author": "sanj",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26796371"
+    "title": "Surface Laptop 4",
+    "url": "https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/",
+    "upvotes": 170,
+    "author": "layer8",
+    "comments": 154,
+    "link": "https://news.ycombinator.com/item?id=26796533"
   },
   {
     "title": "FreeBSD 13.0",
     "url": "https://www.freebsd.org/releases/13.0R/relnotes/",
-    "upvotes": 99,
+    "upvotes": 115,
     "author": "4ad",
-    "comments": 8,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26797257"
-  },
-  {
-    "title": "A top-grossing scam on the App Store",
-    "url": "https://twitter.com/keleftheriou/status/1381986746661892096",
-    "upvotes": 367,
-    "author": "egocentric",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=26794228"
   },
   {
     "title": "The Vivaldi browser will not support Google’s FLoC",
     "url": "https://vivaldi.com/blog/no-google-vivaldi-users-will-not-get-floced/",
-    "upvotes": 167,
+    "upvotes": 183,
     "author": "Fiveplus",
-    "comments": 105,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=26795505"
+  },
+  {
+    "title": "A top-grossing scam on the App Store",
+    "url": "https://twitter.com/keleftheriou/status/1381986746661892096",
+    "upvotes": 376,
+    "author": "egocentric",
+    "comments": 165,
+    "link": "https://news.ycombinator.com/item?id=26794228"
+  },
+  {
+    "title": "How many Devices can you Connect to the I2C Bus?",
+    "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
+    "upvotes": 161,
+    "author": "drmacak",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=26790862"
+  },
+  {
+    "title": "Latency Comparison: DynamoDB vs. FaunaDB vs. Redis",
+    "url": "https://news-app-two-omega.vercel.app/",
+    "upvotes": 10,
+    "author": "noahfschr",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26799074"
   },
   {
     "title": "Update on beta testing payments in Signal",
     "url": "https://signal.org/blog/update-on-beta-testing-payments/",
-    "upvotes": 108,
+    "upvotes": 118,
     "author": "tosh",
-    "comments": 129,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=26797169"
   },
   {
     "title": "Is content moderation a dead end?",
     "url": "https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end",
-    "upvotes": 85,
+    "upvotes": 90,
     "author": "ksec",
-    "comments": 116,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=26796579"
-  },
-  {
-    "title": "Estate agent's hi-tech house tour exposes personal data",
-    "url": "https://www.bbc.com/news/technology-56718046",
-    "upvotes": 12,
-    "author": "salgernon",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26798367"
   },
   {
     "title": "‘Counter Strike’ Bug Allows Hackers to Take over a PC with a Steam Invite",
     "url": "https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite",
-    "upvotes": 157,
+    "upvotes": 166,
     "author": "jbegley",
-    "comments": 36,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26796203"
-  },
-  {
-    "title": "How many Devices can you Connect to the I2C Bus?",
-    "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
-    "upvotes": 156,
-    "author": "drmacak",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=26790862"
   },
   {
     "title": "US agencies call for pause in Johnson & Johnson vaccine",
     "url": "https://www.bbc.co.uk/news/world-us-canada-56733715",
-    "upvotes": 347,
+    "upvotes": 351,
     "author": "kjakm",
-    "comments": 854,
+    "comments": 877,
     "link": "https://news.ycombinator.com/item?id=26790881"
+  },
+  {
+    "title": "NSA helps out Microsoft with critical Exchange Server vulnerability disclosures",
+    "url": "https://www.theregister.com/2021/04/13/patch_tuesday_april/",
+    "upvotes": 30,
+    "author": "beermonster",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26798325"
   },
   {
     "title": "Natto.dev – A Canvas for JavaScript",
     "url": "https://natto.dev",
-    "upvotes": 292,
+    "upvotes": 294,
     "author": "stigi",
     "comments": 79,
     "link": "https://news.ycombinator.com/item?id=26790285"
   },
   {
-    "title": "NSA helps out Microsoft with critical Exchange Server vulnerability disclosures",
-    "url": "https://www.theregister.com/2021/04/13/patch_tuesday_april/",
-    "upvotes": 21,
-    "author": "beermonster",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26798325"
+    "title": "Build a Raspberry Pi Linux System the Hard Way",
+    "url": "https://rickcarlino.com/2021/01/23/build-a-raspbery-pi-linux-system-the-hard-way-html.html",
+    "upvotes": 80,
+    "author": "zdw",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26780388"
   },
   {
-    "title": "In Python, `[0xfor x in",
-    "url": "https://twitter.com/nedbat/status/1382027078816653319",
-    "upvotes": 94,
-    "author": "obi1kenobi",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=26796504"
+    "title": "Playpulse ONE – The gaming bike that unlocks your fitness motivation",
+    "url": "https://playpulse.com/",
+    "upvotes": 3,
+    "author": "punnerud",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26799013"
   },
   {
     "title": "Packets in packets: in-band signaling attack for modern radios",
     "url": "https://static.usenix.org/events/woot11/tech/final_files/Goodspeed.pdf",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "weinzierl",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26778236"
   },
   {
-    "title": "Build a Raspberry Pi Linux System the Hard Way",
-    "url": "https://rickcarlino.com/2021/01/23/build-a-raspbery-pi-linux-system-the-hard-way-html.html",
-    "upvotes": 75,
-    "author": "zdw",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26780388"
+    "title": "Suicide trends in the early months of the Covid-19 pandemic",
+    "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext",
+    "upvotes": 16,
+    "author": "DanBC",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26799016"
+  },
+  {
+    "title": "Kaboom – JavaScript game programming library and environment",
+    "url": "https://replit.com/kaboom",
+    "upvotes": 238,
+    "author": "kiyanwang",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=26789022"
   },
   {
     "title": "Tracking Users Across the Web via TLS Session Resumption",
     "url": "https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf",
     "upvotes": 73,
     "author": "Tomte",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26791186"
   },
   {
@@ -204,35 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26778561"
   },
   {
-    "title": "Kaboom – JavaScript game programming library and environment",
-    "url": "https://replit.com/kaboom",
-    "upvotes": 232,
-    "author": "kiyanwang",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26789022"
-  },
-  {
     "title": "Inside PayPal",
     "url": "http://paulgraham.com/paypal.html",
-    "upvotes": 155,
+    "upvotes": 161,
     "author": "prakhargurunani",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26789010"
   },
   {
     "title": "Meaning in the Margins: On the Literary Value of Annotation",
     "url": "https://lithub.com/meaning-in-the-margins-on-the-literary-value-of-annotation",
-    "upvotes": 22,
+    "upvotes": 25,
     "author": "drdee",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26776653"
-  },
-  {
-    "title": "School custodian refuses to download app that monitors location, got her fired",
-    "url": "https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337",
-    "upvotes": 368,
-    "author": "docdeek",
-    "comments": 231,
-    "link": "https://news.ycombinator.com/item?id=26791402"
   }
 ]
