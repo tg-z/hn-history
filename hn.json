@@ -2,23 +2,23 @@
   {
     "title": "Book Review: “A Thousand Brains” by Jeff Hawkins",
     "url": "https://www.lesswrong.com/posts/ixZLTmFfnKRbaStA5/book-review-a-thousand-brains-by-jeff-hawkins",
-    "upvotes": 68,
+    "upvotes": 96,
     "author": "melling",
-    "comments": 30,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26794286"
   },
   {
     "title": "Figma: Changes to free plan after April 21, 2021",
     "url": "https://help.figma.com/hc/en-us/articles/360061769534",
-    "upvotes": 53,
+    "upvotes": 68,
     "author": "seanwilson",
-    "comments": 26,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26795074"
   },
   {
     "title": "Marbles",
     "url": "http://www.erasmatazz.com/library/life-in-general/marbles.html",
-    "upvotes": 77,
+    "upvotes": 85,
     "author": "aphrax",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26794110"
@@ -26,25 +26,33 @@
   {
     "title": "1Password Secrets Automation",
     "url": "https://blog.1password.com/introducing-secrets-automation/",
-    "upvotes": 51,
+    "upvotes": 79,
     "author": "srijan4",
-    "comments": 15,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26794040"
   },
   {
     "title": "Apple doesn’t seem to care about top-grossing scams on the App Store",
     "url": "https://twitter.com/keleftheriou/status/1381986746661892096",
-    "upvotes": 136,
+    "upvotes": 181,
     "author": "egocentric",
-    "comments": 37,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26794228"
+  },
+  {
+    "title": "Linus Torvalds says GPL v3 violates everything that GPLv2 stood for",
+    "url": "https://www.youtube.com/watch?v=PaKIZ7gJlRU",
+    "upvotes": 76,
+    "author": "naetius",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26794918"
   },
   {
     "title": "US agencies call for pause in Johnson & Johnson vaccine",
     "url": "https://www.bbc.co.uk/news/world-us-canada-56733715",
-    "upvotes": 252,
+    "upvotes": 264,
     "author": "kjakm",
-    "comments": 573,
+    "comments": 624,
     "link": "https://news.ycombinator.com/item?id=26790881"
   },
   {
@@ -52,81 +60,73 @@
     "url": "https://www.cointracker.io/careers"
   },
   {
-    "title": "Linus Torvalds says GPL v3 violates everything that GPLv2 stood for",
-    "url": "https://www.youtube.com/watch?v=PaKIZ7gJlRU",
-    "upvotes": 50,
-    "author": "naetius",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26794918"
-  },
-  {
     "title": "Natto.dev – A Canvas for JavaScript",
     "url": "https://natto.dev",
-    "upvotes": 224,
+    "upvotes": 234,
     "author": "stigi",
-    "comments": 66,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26790285"
-  },
-  {
-    "title": "Certifying Multimedia News Content for Fake News Defense",
-    "url": "https://arxiv.org/abs/2104.04671",
-    "upvotes": 9,
-    "author": "Hard_Space",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26794843"
-  },
-  {
-    "title": "Tracking Users Across the Web via TLS Session Resumption",
-    "url": "https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf",
-    "upvotes": 56,
-    "author": "Tomte",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26791186"
   },
   {
     "title": "How many Devices can you Connect to the I2C Bus?",
     "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
-    "upvotes": 117,
+    "upvotes": 127,
     "author": "drmacak",
-    "comments": 66,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26790862"
   },
   {
-    "title": "School custodian refuses to download app that monitors location, got her fired",
-    "url": "https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337",
-    "upvotes": 255,
-    "author": "docdeek",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=26791402"
+    "title": "Build a Raspberry Pi Linux System the Hard Way",
+    "url": "https://rickcarlino.com/2021/01/23/build-a-raspbery-pi-linux-system-the-hard-way-html.html",
+    "upvotes": 11,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26780388"
   },
   {
-    "title": "Kaboom – JavaScript game programming library and environment",
-    "url": "https://replit.com/kaboom",
-    "upvotes": 204,
-    "author": "kiyanwang",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26789022"
+    "title": "Tracking Users Across the Web via TLS Session Resumption",
+    "url": "https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf",
+    "upvotes": 60,
+    "author": "Tomte",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26791186"
   },
   {
     "title": "Malcolm Cecil, Synthesizer Pioneer, has died",
     "url": "https://www.nytimes.com/2021/04/02/arts/music/malcolm-cecil-dead.html",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "mitchbob",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26778561"
   },
   {
+    "title": "School custodian refuses to download app that monitors location, got her fired",
+    "url": "https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337",
+    "upvotes": 267,
+    "author": "docdeek",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=26791402"
+  },
+  {
+    "title": "Kaboom – JavaScript game programming library and environment",
+    "url": "https://replit.com/kaboom",
+    "upvotes": 212,
+    "author": "kiyanwang",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26789022"
+  },
+  {
     "title": "The Dawn of a new Command Line Interface",
     "url": "https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/",
-    "upvotes": 93,
+    "upvotes": 94,
     "author": "harporoeder",
-    "comments": 70,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26790380"
   },
   {
     "title": "Inside PayPal",
     "url": "http://paulgraham.com/paypal.html",
-    "upvotes": 129,
+    "upvotes": 132,
     "author": "prakhargurunani",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26789010"
@@ -134,7 +134,7 @@
   {
     "title": "The True Meaning of Technical Debt",
     "url": "https://refactoring.fm/p/the-true-meaning-of-technical-debt",
-    "upvotes": 162,
+    "upvotes": 168,
     "author": "srijan4",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26791138"
@@ -144,61 +144,77 @@
     "url": "http://aimmuseum.org/submarinesleepovers/",
     "upvotes": 31,
     "author": "RickJWagner",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26778319"
+  },
+  {
+    "title": "Apple's next online-only launch will be April 20, upgraded iPads on tap",
+    "url": "https://www.cnet.com/news/apples-next-online-only-launch-will-be-april-20-upgraded-ipads-on-tap/",
+    "upvotes": 25,
+    "author": "prakhargurunani",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26794672"
   },
   {
     "title": "Dvorak vs Colemak",
     "url": "http://xahlee.info/kbd/dvorak_vs_colemak.html",
-    "upvotes": 52,
+    "upvotes": 54,
     "author": "harporoeder",
-    "comments": 104,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=26792999"
   },
   {
     "title": "My startup failed, then I found out I was unemployable",
     "url": "https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html",
-    "upvotes": 288,
+    "upvotes": 317,
     "author": "dave_sullivan",
-    "comments": 347,
+    "comments": 371,
     "link": "https://news.ycombinator.com/item?id=26792876"
   },
   {
-    "title": "Apple's next online-only launch will be April 20, upgraded iPads on tap",
-    "url": "https://www.cnet.com/news/apples-next-online-only-launch-will-be-april-20-upgraded-ipads-on-tap/",
-    "upvotes": 15,
-    "author": "prakhargurunani",
+    "title": "The Beauty of Bresenham's Algorithm",
+    "url": "http://members.chello.at/easyfilter/bresenham.html",
+    "upvotes": 82,
+    "author": "ingve",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26777800"
+  },
+  {
+    "title": "‘Counter Strike’ Bug Allows Hackers to Take over a PC with a Steam Invite",
+    "url": "https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite",
+    "upvotes": 7,
+    "author": "jbegley",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26794672"
+    "link": "https://news.ycombinator.com/item?id=26796203"
+  },
+  {
+    "title": "Coding Machines",
+    "url": "https://www.teamten.com/lawrence/writings/coding-machines/",
+    "upvotes": 9,
+    "author": "djoldman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26770458"
   },
   {
     "title": "How Finland rebranded itself as a literary country",
     "url": "https://www.theparisreview.org/blog/2018/07/16/how-finland-rebranded-itself-as-a-literary-country/",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "macbookaries",
-    "comments": 31,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26777905"
   },
   {
     "title": "The Unlikely Rise of French Tacos",
     "url": "https://www.newyorker.com/magazine/2021/04/19/the-unlikely-rise-of-the-french-tacos",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "revolucien",
-    "comments": 74,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=26778025"
-  },
-  {
-    "title": "The Beauty of Bresenham's Algorithm",
-    "url": "http://members.chello.at/easyfilter/bresenham.html",
-    "upvotes": 73,
-    "author": "ingve",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26777800"
   },
   {
     "title": "Pessimal Algorithms and Simplexity Analysis [pdf]",
     "url": "https://www.mipmip.org/tidbits/pasa.pdf",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "belter",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26777977"
@@ -206,33 +222,17 @@
   {
     "title": "CVE Alerting Platform",
     "url": "https://github.com/opencve/opencve",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "ncrocfer",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26789093"
   },
   {
-    "title": "Coding Machines",
-    "url": "https://www.teamten.com/lawrence/writings/coding-machines/",
-    "upvotes": 5,
-    "author": "djoldman",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26770458"
-  },
-  {
-    "title": "Show HN: DeepHN – Full-text search of 30M Hacker News posts and linked webpages",
-    "url": "https://deephn.org",
-    "upvotes": 256,
-    "author": "wolfgarbe",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=26791582"
-  },
-  {
     "title": "The complete guide to working with strings in modern JavaScript",
     "url": "https://www.baseclass.io/guides/string-handling-modern-js",
-    "upvotes": 39,
+    "upvotes": 43,
     "author": "davethedevguy",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26789525"
   }
 ]
