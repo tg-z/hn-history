@@ -2,73 +2,81 @@
   {
     "title": "Deno 1.9",
     "url": "https://deno.com/blog/v1.9",
-    "upvotes": 294,
+    "upvotes": 317,
     "author": "searchableguy",
-    "comments": 92,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26797557"
   },
   {
     "title": "System76 Developing “Cosmic” Desktop Environment",
     "url": "https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104",
-    "upvotes": 237,
+    "upvotes": 250,
     "author": "TangerineDream",
-    "comments": 184,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=26798080"
-  },
-  {
-    "title": "Deep dive in CORS: History, how it works, and best practices",
-    "url": "https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/",
-    "upvotes": 83,
-    "author": "todsacerdoti",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26798412"
-  },
-  {
-    "title": "1Password Secrets Automation",
-    "url": "https://blog.1password.com/introducing-secrets-automation/",
-    "upvotes": 242,
-    "author": "srijan4",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26794040"
   },
   {
     "title": "The most important statistical ideas of the past 50 years",
     "url": "https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years",
-    "upvotes": 15,
+    "upvotes": 31,
     "author": "BerislavLopac",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26799702"
   },
   {
-    "title": "Estate agent's hi-tech house tour exposes personal data",
-    "url": "https://www.bbc.com/news/technology-56718046",
-    "upvotes": 31,
-    "author": "salgernon",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26798367"
-  },
-  {
     "title": "Pass: The standard Unix password manager",
     "url": "https://www.passwordstore.org/",
-    "upvotes": 84,
+    "upvotes": 105,
     "author": "homarp",
-    "comments": 67,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26799021"
   },
   {
-    "title": "What the Dunning-Kruger effect is and isn’t",
-    "url": "http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/",
-    "upvotes": 73,
-    "author": "sanj",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26796371"
+    "title": "Deep dive in CORS: History, how it works, and best practices",
+    "url": "https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/",
+    "upvotes": 96,
+    "author": "todsacerdoti",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26798412"
+  },
+  {
+    "title": "Kubernetes Is So Simple You Can Explore It with Curl",
+    "url": "https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html",
+    "upvotes": 12,
+    "author": "freedomben",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26800094"
+  },
+  {
+    "title": "1Password Secrets Automation",
+    "url": "https://blog.1password.com/introducing-secrets-automation/",
+    "upvotes": 249,
+    "author": "srijan4",
+    "comments": 121,
+    "link": "https://news.ycombinator.com/item?id=26794040"
+  },
+  {
+    "title": "Estate agent's hi-tech house tour exposes personal data",
+    "url": "https://www.bbc.com/news/technology-56718046",
+    "upvotes": 38,
+    "author": "salgernon",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26798367"
+  },
+  {
+    "title": "DOJ announces court-authorized disruption of exploitation of MS Exchange vulns",
+    "url": "https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft",
+    "upvotes": 6,
+    "author": "vikrum",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26800481"
   },
   {
     "title": "AWS EC2 Having Issues",
     "url": "https://status.aws.amazon.com/?x=1000",
-    "upvotes": 27,
+    "upvotes": 37,
     "author": "gshakir",
-    "comments": 15,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26798627"
   },
   {
@@ -76,163 +84,155 @@
     "url": "https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails"
   },
   {
-    "title": "Marbles",
-    "url": "http://www.erasmatazz.com/library/life-in-general/marbles.html",
-    "upvotes": 120,
-    "author": "aphrax",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26794110"
+    "title": "What the Dunning-Kruger effect is and isn’t",
+    "url": "http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/",
+    "upvotes": 80,
+    "author": "sanj",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26796371"
   },
   {
     "title": "Previous Covid-19 may cut risk of reinfection 84%",
     "url": "https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84",
-    "upvotes": 15,
+    "upvotes": 30,
     "author": "walterbell",
-    "comments": 2,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26799961"
+  },
+  {
+    "title": "EMU2: A simple text-mode x86 and DOS emulator",
+    "url": "https://github.com/dmsc/emu2",
+    "upvotes": 6,
+    "author": "fm77",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26800243"
+  },
+  {
+    "title": "Marbles",
+    "url": "http://www.erasmatazz.com/library/life-in-general/marbles.html",
+    "upvotes": 122,
+    "author": "aphrax",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=26794110"
+  },
+  {
+    "title": "Playpulse ONE – The gaming bike that unlocks your fitness motivation",
+    "url": "https://playpulse.com/",
+    "upvotes": 13,
+    "author": "punnerud",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26799013"
   },
   {
     "title": "Surface Laptop 4",
     "url": "https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/",
-    "upvotes": 197,
+    "upvotes": 203,
     "author": "layer8",
-    "comments": 187,
+    "comments": 194,
     "link": "https://news.ycombinator.com/item?id=26796533"
   },
   {
-    "title": "We Are Living in a Climate Emergency, and We’re Going to Say So",
-    "url": "https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/",
-    "upvotes": 5,
-    "author": "seriousquestion",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26800003"
+    "title": "FreeBSD 13.0",
+    "url": "https://www.freebsd.org/releases/13.0R/relnotes/",
+    "upvotes": 157,
+    "author": "4ad",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26797257"
   },
   {
     "title": "Latency Comparison: DynamoDB vs. FaunaDB vs. Redis",
     "url": "https://news-app-two-omega.vercel.app/",
-    "upvotes": 26,
+    "upvotes": 27,
     "author": "noahfschr",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26799074"
   },
   {
-    "title": "FreeBSD 13.0",
-    "url": "https://www.freebsd.org/releases/13.0R/relnotes/",
-    "upvotes": 146,
-    "author": "4ad",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26797257"
-  },
-  {
-    "title": "Playpulse ONE – The gaming bike that unlocks your fitness motivation",
-    "url": "https://playpulse.com/",
-    "upvotes": 10,
-    "author": "punnerud",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26799013"
-  },
-  {
-    "title": "Suicide trends in the early months of the Covid-19 pandemic",
-    "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext",
-    "upvotes": 38,
-    "author": "DanBC",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26799016"
-  },
-  {
-    "title": "EMU2: A simple text-mode x86 and DOS emulator",
-    "url": "https://github.com/dmsc/emu2",
-    "upvotes": 3,
-    "author": "fm77",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26800243"
+    "title": "WhatsApp's new privacy policy is so bad it might be illegal",
+    "url": "https://www.androidpolice.com/2021/04/13/whatsapps-new-privacy-policy-is-so-bad-it-might-be-illegal/",
+    "upvotes": 71,
+    "author": "elorant",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26798982"
   },
   {
     "title": "The Vivaldi browser will not support Google’s FLoC",
     "url": "https://vivaldi.com/blog/no-google-vivaldi-users-will-not-get-floced/",
-    "upvotes": 211,
+    "upvotes": 218,
     "author": "Fiveplus",
-    "comments": 123,
+    "comments": 129,
     "link": "https://news.ycombinator.com/item?id=26795505"
-  },
-  {
-    "title": "WhatsApp's new privacy policy is so bad it might be illegal",
-    "url": "https://www.androidpolice.com/2021/04/13/whatsapps-new-privacy-policy-is-so-bad-it-might-be-illegal/",
-    "upvotes": 51,
-    "author": "elorant",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26798982"
   },
   {
     "title": "A top-grossing scam on the App Store",
     "url": "https://twitter.com/keleftheriou/status/1381986746661892096",
-    "upvotes": 400,
+    "upvotes": 414,
     "author": "egocentric",
-    "comments": 174,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=26794228"
   },
   {
-    "title": "How many Devices can you Connect to the I2C Bus?",
-    "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
-    "upvotes": 166,
-    "author": "drmacak",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=26790862"
+    "title": "We Are Living in a Climate Emergency, and We’re Going to Say So",
+    "url": "https://www.scientificamerican.com/article/we-are-living-in-a-climate-emergency-and-were-going-to-say-so/",
+    "upvotes": 75,
+    "author": "seriousquestion",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=26800003"
   },
   {
     "title": "US agencies call for pause in Johnson & Johnson vaccine",
     "url": "https://www.bbc.co.uk/news/world-us-canada-56733715",
-    "upvotes": 369,
+    "upvotes": 375,
     "author": "kjakm",
-    "comments": 920,
+    "comments": 946,
     "link": "https://news.ycombinator.com/item?id=26790881"
   },
   {
-    "title": "Update on beta testing payments in Signal",
-    "url": "https://signal.org/blog/update-on-beta-testing-payments/",
-    "upvotes": 126,
-    "author": "tosh",
-    "comments": 161,
-    "link": "https://news.ycombinator.com/item?id=26797169"
+    "title": "How many Devices can you Connect to the I2C Bus?",
+    "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
+    "upvotes": 167,
+    "author": "drmacak",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=26790862"
   },
   {
-    "title": "‘Counter Strike’ Bug Allows Hackers to Take over a PC with a Steam Invite",
-    "url": "https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite",
-    "upvotes": 186,
-    "author": "jbegley",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=26796203"
-  },
-  {
-    "title": "Is content moderation a dead end?",
-    "url": "https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end",
-    "upvotes": 98,
-    "author": "ksec",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=26796579"
+    "title": "Suicide trends in the early months of the Covid-19 pandemic",
+    "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext",
+    "upvotes": 47,
+    "author": "DanBC",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26799016"
   },
   {
     "title": "Natto.dev – A Canvas for JavaScript",
     "url": "https://natto.dev",
-    "upvotes": 306,
+    "upvotes": 308,
     "author": "stigi",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26790285"
   },
   {
-    "title": "NSA helps out Microsoft with critical Exchange Server vulnerability disclosures",
-    "url": "https://www.theregister.com/2021/04/13/patch_tuesday_april/",
-    "upvotes": 42,
-    "author": "beermonster",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26798325"
+    "title": "Update on beta testing payments in Signal",
+    "url": "https://signal.org/blog/update-on-beta-testing-payments/",
+    "upvotes": 131,
+    "author": "tosh",
+    "comments": 165,
+    "link": "https://news.ycombinator.com/item?id=26797169"
   },
   {
-    "title": "Tracking Users Across the Web via TLS Session Resumption",
-    "url": "https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf",
-    "upvotes": 79,
-    "author": "Tomte",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26791186"
+    "title": "‘Counter Strike’ Bug Allows Hackers to Take over a PC with a Steam Invite",
+    "url": "https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite",
+    "upvotes": 192,
+    "author": "jbegley",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=26796203"
+  },
+  {
+    "title": "Is content moderation a dead end?",
+    "url": "https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end",
+    "upvotes": 101,
+    "author": "ksec",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=26796579"
   }
 ]
