@@ -1,82 +1,90 @@
 [
   {
-    "title": "Discord to block all access to NSFW servers via iOS app",
-    "url": "https://support.discord.com/hc/en-us/articles/1500005389362-NSFW-Server-Designation",
-    "upvotes": 157,
-    "author": "Mindwipe",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=26792031"
-  },
-  {
-    "title": "Show HN: Deephn.org full-text search 30M Hacker News posts AND linked web pages",
+    "title": "Show HN: DeepHN – Full-text search of 30M Hacker News posts and linked webpages",
     "url": "https://deephn.org",
-    "upvotes": 92,
+    "upvotes": 129,
     "author": "wolfgarbe",
-    "comments": 30,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26791582"
   },
   {
-    "title": "The True Meaning of Technical Debt",
-    "url": "https://refactoring.fm/p/the-true-meaning-of-technical-debt",
-    "upvotes": 108,
-    "author": "srijan4",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26791138"
+    "title": "My startup failed. Then I found out I was unemployable",
+    "url": "https://davesullivan.is/my_startup_failed_then_i_found_out_i_was_unemployable.html",
+    "upvotes": 15,
+    "author": "dave_sullivan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26792876"
+  },
+  {
+    "title": "How many Devices can you Connect to the I2C Bus?",
+    "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
+    "upvotes": 62,
+    "author": "drmacak",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26790862"
   },
   {
     "title": "Tracking Users Across the Web via TLS Session Resumption",
     "url": "https://svs.informatik.uni-hamburg.de/publications/2018/2018-12-06-Sy-ACSAC-Tracking_Users_across_the_Web_via_TLS_Session_Resumption.pdf",
-    "upvotes": 25,
+    "upvotes": 29,
     "author": "Tomte",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26791186"
   },
   {
-    "title": "How many device can you connect to I2C Bus?",
-    "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
-    "upvotes": 51,
-    "author": "drmacak",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26790862"
+    "title": "Natto.dev – A Canvas for JavaScript",
+    "url": "https://natto.dev",
+    "upvotes": 134,
+    "author": "stigi",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26790285"
   },
   {
-    "title": "Create an anonymous link that will hide the HTTP Referer header",
-    "url": "https://href.li/",
-    "upvotes": 15,
-    "author": "modinfo",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26791530"
+    "title": "The True Meaning of Technical Debt",
+    "url": "https://refactoring.fm/p/the-true-meaning-of-technical-debt",
+    "upvotes": 121,
+    "author": "srijan4",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26791138"
   },
   {
     "title": "Kaboom – JavaScript game programming library and environment",
     "url": "https://replit.com/kaboom",
-    "upvotes": 165,
+    "upvotes": 172,
     "author": "kiyanwang",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26789022"
+  },
+  {
+    "title": "New York Times tech workers form a union",
+    "url": "https://www.nytimes.com/live/2021/04/13/business/stock-market-today/new-york-times-tech-workers-form-a-union",
+    "upvotes": 22,
+    "author": "ughitsaaron",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26792621"
   },
   {
     "title": "Vincent Chan: Inside PayPal",
     "url": "http://paulgraham.com/paypal.html",
-    "upvotes": 103,
+    "upvotes": 107,
     "author": "prakhargurunani",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26789010"
   },
   {
-    "title": "Chrome zero-day released on GitHub",
-    "url": "https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160",
-    "upvotes": 375,
-    "author": "alpb",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=26786326"
+    "title": "US agencies call for pause in Johnson & Johnson vaccine",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-56733715",
+    "upvotes": 75,
+    "author": "kjakm",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=26790881"
   },
   {
     "title": "The Dawn of a new Command Line Interface",
     "url": "https://arcan-fe.com/2017/07/12/the-dawn-of-a-new-command-line-interface/",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "harporoeder",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26790380"
   },
   {
@@ -84,131 +92,123 @@
     "url": "https://www.streak.com/careers/product-engineer"
   },
   {
-    "title": "Natto.dev – A Canvas for JavaScript",
-    "url": "https://natto.dev",
-    "upvotes": 116,
-    "author": "stigi",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26790285"
-  },
-  {
-    "title": "Just Be Rich",
-    "url": "https://keenen.xyz/just-be-rich/",
-    "upvotes": 1496,
-    "author": "kjcharles",
-    "comments": 747,
-    "link": "https://news.ycombinator.com/item?id=26787654"
+    "title": "Submarine Sleepovers",
+    "url": "http://aimmuseum.org/submarinesleepovers/",
+    "upvotes": 7,
+    "author": "RickJWagner",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26778319"
   },
   {
     "title": "Gitlet.js – Git implemented in 1k lines of JavaScript",
     "url": "http://gitlet.maryrosecook.com/docs/gitlet.html",
-    "upvotes": 310,
+    "upvotes": 314,
     "author": "tambourine_man",
     "comments": 70,
     "link": "https://news.ycombinator.com/item?id=26787376"
   },
   {
-    "title": "U.S. calls for pause on Johnson and Johnson's Covid-19 vaccine",
-    "url": "https://www.reuters.com/article/us-health-coronavirus-johnson-johnson-va/u-s-calls-for-pause-on-johnson-johnsons-covid-19-vaccine-idUSKBN2C01BC",
-    "upvotes": 45,
-    "author": "lsllc",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26791033"
-  },
-  {
     "title": "The war against money-laundering is being lost",
     "url": "https://www.economist.com/finance-and-economics/2021/04/12/the-war-against-money-laundering-is-being-lost",
-    "upvotes": 197,
+    "upvotes": 206,
     "author": "pseudolus",
-    "comments": 158,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=26786810"
+  },
+  {
+    "title": "School custodian refuses to download app that monitors location, got her fired",
+    "url": "https://www.cbc.ca/news/gopublic/tattleware-privacy-employment-1.5978337",
+    "upvotes": 7,
+    "author": "docdeek",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26791402"
   },
   {
     "title": "Adobe charges subscription cancellation fee",
     "url": "https://twitter.com/MRDADDGUY/status/1381628427246039045",
-    "upvotes": 668,
+    "upvotes": 690,
     "author": "CSDude",
-    "comments": 516,
+    "comments": 522,
     "link": "https://news.ycombinator.com/item?id=26786563"
   },
   {
     "title": "CVE Alerting Platform",
     "url": "https://github.com/opencve/opencve",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "ncrocfer",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26789093"
   },
   {
+    "title": "NSFW Server Designation",
+    "url": "https://support.discord.com/hc/en-us/articles/1500005389362-NSFW-Server-Designation",
+    "upvotes": 192,
+    "author": "Mindwipe",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=26792031"
+  },
+  {
     "title": "Pessimal Algorithms and Simplexity Analysis [pdf]",
     "url": "https://www.mipmip.org/tidbits/pasa.pdf",
-    "upvotes": 27,
+    "upvotes": 30,
     "author": "belter",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26777977"
   },
   {
     "title": "How Finland rebranded itself as a literary country",
     "url": "https://www.theparisreview.org/blog/2018/07/16/how-finland-rebranded-itself-as-a-literary-country/",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "macbookaries",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26777905"
   },
   {
     "title": "The Beauty of Bresenham's Algorithm",
     "url": "http://members.chello.at/easyfilter/bresenham.html",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "ingve",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26777800"
   },
   {
-    "title": "The French armed forces are planning for high-intensity war",
-    "url": "https://www.economist.com/europe/2021/03/31/the-french-armed-forces-are-planning-for-high-intensity-war",
-    "upvotes": 61,
-    "author": "jackbravo",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26791463"
-  },
-  {
-    "title": "Playing the Open Source Game",
-    "url": "https://kristoff.it/blog/the-open-source-game/",
-    "upvotes": 168,
-    "author": "lladnar",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26786372"
+    "title": "How Iraq’s crystal meth epidemic is ravaging the nation",
+    "url": "https://www.independent.co.uk/news/world/middle-east/iraq-crystal-meth-drugs-epidemic-b1828463.html",
+    "upvotes": 11,
+    "author": "badwetter",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26792454"
   },
   {
     "title": "Skies went dark: Historians pinpoint the 'worst year' ever to be alive",
     "url": "https://www.accuweather.com/en/severe-weather/historians-pinpoint-the-very-worst-year-to-ever-be-alive/927803",
-    "upvotes": 111,
+    "upvotes": 113,
     "author": "pseudolus",
-    "comments": 98,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=26786838"
-  },
-  {
-    "title": "The End of Hygiene Theater",
-    "url": "https://www.theatlantic.com/ideas/archive/2021/04/end-hygiene-theater/618576/",
-    "upvotes": 10,
-    "author": "samizdis",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26792088"
   },
   {
     "title": "Let us now praise tiny ants",
     "url": "https://www.nytimes.com/2021/04/05/science/ants-wilson-photography-niga-rice.html",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "Hooke",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26786932"
   },
   {
+    "title": "Chrome zero-day released on GitHub",
+    "url": "https://github.com/r4j0x00/exploits/commit/7ba55e5ab034d05877498e83f144e187d3ddb160",
+    "upvotes": 377,
+    "author": "alpb",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=26786326"
+  },
+  {
     "title": "Kunst Der Fuge Collection – Free Classical MIDI Files",
     "url": "http://www.kunstderfuge.com/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "eternalban",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26776927"
   },
   {
@@ -216,23 +216,23 @@
     "url": "https://www.reuters.com/article/us-usa-semiconductors-idUSKBN2BZ2C4",
     "upvotes": 282,
     "author": "alexrustic",
-    "comments": 188,
+    "comments": 191,
     "link": "https://news.ycombinator.com/item?id=26786264"
   },
   {
     "title": "The complete guide to working with strings in modern JavaScript",
     "url": "https://www.baseclass.io/guides/string-handling-modern-js",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "davethedevguy",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26789525"
   },
   {
-    "title": "Mathematician Disproves 80-Year-Old Algebra Conjecture",
-    "url": "https://www.quantamagazine.org/mathematician-disproves-group-algebra-unit-conjecture-20210412/",
-    "upvotes": 88,
-    "author": "pseudolus",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26787472"
+    "title": "Modelling a Wealth Tax Correctly",
+    "url": "https://blog.nindalf.com/posts/wealth-tax/",
+    "upvotes": 14,
+    "author": "isomorph",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26789997"
   }
 ]
