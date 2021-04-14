@@ -1,100 +1,88 @@
 [
   {
-    "title": "Deno 1.9",
-    "url": "https://deno.com/blog/v1.9",
-    "upvotes": 345,
-    "author": "searchableguy",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=26797557"
-  },
-  {
-    "title": "DOJ announces court-authorized disruption of exploitation of MS Exchange vulns",
+    "title": "Effort to disrupt exploitation of Microsoft Exchange Server vulnerabilities",
     "url": "https://www.justice.gov/usao-sdtx/pr/justice-department-announces-court-authorized-effort-disrupt-exploitation-microsoft",
-    "upvotes": 28,
+    "upvotes": 69,
     "author": "vikrum",
-    "comments": 8,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26800481"
   },
   {
-    "title": "System76 Developing “Cosmic” Desktop Environment",
-    "url": "https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104",
-    "upvotes": 271,
-    "author": "TangerineDream",
-    "comments": 216,
-    "link": "https://news.ycombinator.com/item?id=26798080"
+    "title": "Deno 1.9",
+    "url": "https://deno.com/blog/v1.9",
+    "upvotes": 366,
+    "author": "searchableguy",
+    "comments": 123,
+    "link": "https://news.ycombinator.com/item?id=26797557"
   },
   {
-    "title": "Kubernetes Is So Simple You Can Explore It with Curl",
-    "url": "https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html",
-    "upvotes": 29,
-    "author": "freedomben",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26800094"
+    "title": "Show HN: RentMyCPU – An open-source computational network",
+    "url": "https://github.com/franklbt/RentMyCPU",
+    "upvotes": 8,
+    "author": "frank_lbt",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26801418"
   },
   {
     "title": "The most important statistical ideas of the past 50 years",
     "url": "https://fermatslibrary.com/s/what-are-the-most-important-statistical-ideas-of-the-past-50-years",
-    "upvotes": 38,
+    "upvotes": 48,
     "author": "BerislavLopac",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26799702"
   },
   {
     "title": "Deep dive in CORS: History, how it works, and best practices",
     "url": "https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/",
-    "upvotes": 106,
+    "upvotes": 120,
     "author": "todsacerdoti",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26798412"
   },
   {
-    "title": "Pass: The standard Unix password manager",
-    "url": "https://www.passwordstore.org/",
-    "upvotes": 124,
-    "author": "homarp",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=26799021"
-  },
-  {
-    "title": "1Password Secrets Automation",
-    "url": "https://blog.1password.com/introducing-secrets-automation/",
-    "upvotes": 262,
-    "author": "srijan4",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=26794040"
+    "title": "System76 Developing “Cosmic” Desktop Environment",
+    "url": "https://blog.system76.com/post/648371526931038208/cosmic-to-arrive-in-june-release-of-popos-2104",
+    "upvotes": 276,
+    "author": "TangerineDream",
+    "comments": 232,
+    "link": "https://news.ycombinator.com/item?id=26798080"
   },
   {
     "title": "EMU2: A simple text-mode x86 and DOS emulator",
     "url": "https://github.com/dmsc/emu2",
-    "upvotes": 11,
+    "upvotes": 16,
     "author": "fm77",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26800243"
+  },
+  {
+    "title": "1Password Secrets Automation",
+    "url": "https://blog.1password.com/introducing-secrets-automation/",
+    "upvotes": 273,
+    "author": "srijan4",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=26794040"
+  },
+  {
+    "title": "Pass: The standard Unix password manager",
+    "url": "https://www.passwordstore.org/",
+    "upvotes": 132,
+    "author": "homarp",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=26799021"
   },
   {
     "title": "Estate agent's hi-tech house tour exposes personal data",
     "url": "https://www.bbc.com/news/technology-56718046",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "salgernon",
-    "comments": 26,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26798367"
-  },
-  {
-    "title": "Previous Covid-19 may cut risk of reinfection 84%",
-    "url": "https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84",
-    "upvotes": 43,
-    "author": "walterbell",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26799961"
-  },
-  {
-    "title": "Great Question",
-    "url": "https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails"
   },
   {
     "title": "What the Dunning-Kruger effect is and isn’t",
     "url": "http://www.talyarkoni.org/blog/2010/07/07/What-the-Dunning-Kruger-effect-Is-and-Isnt/",
-    "upvotes": 86,
+    "upvotes": 92,
     "author": "sanj",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26796371"
@@ -102,137 +90,149 @@
   {
     "title": "AWS EC2 Having Issues",
     "url": "https://status.aws.amazon.com/?x=1000",
-    "upvotes": 40,
+    "upvotes": 51,
     "author": "gshakir",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26798627"
+  },
+  {
+    "title": "Great Question",
+    "url": "https://www.ycombinator.com/companies/great-question/jobs/rbDFLOP-founding-engineer-rails"
+  },
+  {
+    "title": "Exploring the Kubernetes API with Curl",
+    "url": "https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html",
+    "upvotes": 39,
+    "author": "freedomben",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26800094"
   },
   {
     "title": "Marbles",
     "url": "http://www.erasmatazz.com/library/life-in-general/marbles.html",
-    "upvotes": 122,
+    "upvotes": 126,
     "author": "aphrax",
     "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26794110"
   },
   {
-    "title": "Playpulse ONE – The gaming bike that unlocks your fitness motivation",
-    "url": "https://playpulse.com/",
-    "upvotes": 19,
-    "author": "punnerud",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26799013"
-  },
-  {
     "title": "Surface Laptop 4",
     "url": "https://blogs.windows.com/devices/2021/04/13/introducing-surface-laptop-4-and-new-accessories-for-enhanced-meeting-experiences/",
-    "upvotes": 215,
+    "upvotes": 230,
     "author": "layer8",
-    "comments": 201,
+    "comments": 209,
     "link": "https://news.ycombinator.com/item?id=26796533"
   },
   {
     "title": "WhatsApp's new privacy policy is so bad it might be illegal",
     "url": "https://www.androidpolice.com/2021/04/13/whatsapps-new-privacy-policy-is-so-bad-it-might-be-illegal/",
-    "upvotes": 90,
+    "upvotes": 117,
     "author": "elorant",
-    "comments": 17,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26798982"
   },
   {
     "title": "FreeBSD 13.0",
     "url": "https://www.freebsd.org/releases/13.0R/relnotes/",
-    "upvotes": 165,
+    "upvotes": 173,
     "author": "4ad",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26797257"
   },
   {
     "title": "Latency Comparison: DynamoDB vs. FaunaDB vs. Redis",
     "url": "https://news-app-two-omega.vercel.app/",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "noahfschr",
-    "comments": 11,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26799074"
+  },
+  {
+    "title": "Iran Says It Will Enrich Uranium to 60%",
+    "url": "https://www.wsj.com/articles/iran-nuclear-negotiator-says-tehran-will-increase-purity-of-uranium-to-60-11618326331",
+    "upvotes": 26,
+    "author": "airstrike",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26800794"
   },
   {
     "title": "The Vivaldi browser will not support Google’s FLoC",
     "url": "https://vivaldi.com/blog/no-google-vivaldi-users-will-not-get-floced/",
-    "upvotes": 225,
+    "upvotes": 233,
     "author": "Fiveplus",
-    "comments": 131,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=26795505"
-  },
-  {
-    "title": "A top-grossing scam on the App Store",
-    "url": "https://twitter.com/keleftheriou/status/1381986746661892096",
-    "upvotes": 425,
-    "author": "egocentric",
-    "comments": 183,
-    "link": "https://news.ycombinator.com/item?id=26794228"
-  },
-  {
-    "title": "Suicide trends in the early months of the Covid-19 pandemic",
-    "url": "https://www.thelancet.com/journals/lanpsy/article/PIIS2215-0366(21)00091-2/fulltext",
-    "upvotes": 57,
-    "author": "DanBC",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=26799016"
   },
   {
     "title": "US agencies call for pause in Johnson & Johnson vaccine",
     "url": "https://www.bbc.co.uk/news/world-us-canada-56733715",
-    "upvotes": 387,
+    "upvotes": 395,
     "author": "kjakm",
-    "comments": 962,
+    "comments": 969,
     "link": "https://news.ycombinator.com/item?id=26790881"
+  },
+  {
+    "title": "A top-grossing scam on the App Store",
+    "url": "https://twitter.com/keleftheriou/status/1381986746661892096",
+    "upvotes": 433,
+    "author": "egocentric",
+    "comments": 190,
+    "link": "https://news.ycombinator.com/item?id=26794228"
   },
   {
     "title": "How many Devices can you Connect to the I2C Bus?",
     "url": "https://www.bluedot.space/tutorials/how-many-devices-can-you-connect-on-i2c-bus/",
-    "upvotes": 168,
+    "upvotes": 170,
     "author": "drmacak",
-    "comments": 104,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26790862"
   },
   {
     "title": "Natto.dev – A Canvas for JavaScript",
     "url": "https://natto.dev",
-    "upvotes": 313,
+    "upvotes": 319,
     "author": "stigi",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=26790285"
   },
   {
-    "title": "Update on beta testing payments in Signal",
-    "url": "https://signal.org/blog/update-on-beta-testing-payments/",
-    "upvotes": 137,
-    "author": "tosh",
-    "comments": 168,
-    "link": "https://news.ycombinator.com/item?id=26797169"
+    "title": "Previous Covid-19 may cut risk of reinfection 84%",
+    "url": "https://www.cidrap.umn.edu/news-perspective/2021/04/previous-covid-19-may-cut-risk-reinfection-84",
+    "upvotes": 60,
+    "author": "walterbell",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26799961"
   },
   {
     "title": "‘Counter Strike’ Bug Allows Hackers to Take over a PC with a Steam Invite",
     "url": "https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite",
-    "upvotes": 198,
+    "upvotes": 203,
     "author": "jbegley",
-    "comments": 66,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26796203"
+  },
+  {
+    "title": "Update on beta testing payments in Signal",
+    "url": "https://signal.org/blog/update-on-beta-testing-payments/",
+    "upvotes": 141,
+    "author": "tosh",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=26797169"
+  },
+  {
+    "title": "Playpulse ONE – The gaming bike that unlocks your fitness motivation",
+    "url": "https://playpulse.com/",
+    "upvotes": 20,
+    "author": "punnerud",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26799013"
   },
   {
     "title": "Is content moderation a dead end?",
     "url": "https://www.ben-evans.com/benedictevans/2021/4/13/is-content-moderation-a-dead-end",
-    "upvotes": 105,
+    "upvotes": 108,
     "author": "ksec",
-    "comments": 183,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=26796579"
-  },
-  {
-    "title": "Iran Says It Will Enrich Uranium to 60%",
-    "url": "https://www.wsj.com/articles/iran-nuclear-negotiator-says-tehran-will-increase-purity-of-uranium-to-60-11618326331",
-    "upvotes": 8,
-    "author": "airstrike",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26800794"
   }
 ]
