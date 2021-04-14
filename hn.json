@@ -1,58 +1,34 @@
 [
   {
-    "title": "An RFC that adds support for Rust to the Linux kernel",
-    "url": "https://lkml.org/lkml/2021/4/14/1023",
-    "upvotes": 214,
-    "author": "steveklabnik",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26812047"
-  },
-  {
     "title": "Coinbase from YC to IPO",
     "url": "https://blog.ycombinator.com/coinbase-from-yc-to-ipo/",
-    "upvotes": 429,
+    "upvotes": 439,
     "author": "todsacerdoti",
-    "comments": 603,
+    "comments": 614,
     "link": "https://news.ycombinator.com/item?id=26808275"
-  },
-  {
-    "title": "Ask HN: Would issue “bounties” make contributing to open source more appealing?",
-    "url": "item?id=26813725",
-    "upvotes": 22,
-    "author": "Rperry2174",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26813725"
-  },
-  {
-    "title": "Effective Altruism Is Not Effective",
-    "url": "http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html",
-    "upvotes": 33,
-    "author": "animalcule",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26813763"
   },
   {
     "title": "Show HN: Lofi.cafe",
     "url": "https://lofi.cafe",
-    "upvotes": 884,
+    "upvotes": 900,
     "author": "linuz90",
-    "comments": 196,
+    "comments": 199,
     "link": "https://news.ycombinator.com/item?id=26805702"
   },
   {
     "title": "The TTY Demystified",
     "url": "http://www.linusakesson.net/programming/tty/index.php",
-    "upvotes": 44,
+    "upvotes": 61,
     "author": "csomar",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26803109"
   },
   {
     "title": "The value of downvoting, or, how Hacker News gets it wrong",
     "url": "https://stackoverflow.blog/2009/03/09/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/",
-    "upvotes": 115,
+    "upvotes": 131,
     "author": "yellowyacht",
-    "comments": 268,
+    "comments": 294,
     "link": "https://news.ycombinator.com/item?id=26810972"
   },
   {
@@ -60,179 +36,203 @@
     "url": "https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/",
     "upvotes": 66,
     "author": "elorant",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26811258"
   },
   {
-    "title": "Terraform 0.15 General Availability",
-    "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
-    "upvotes": 71,
-    "author": "myroon5",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26811592"
+    "title": "Effective Altruism Is Not Effective",
+    "url": "http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html",
+    "upvotes": 47,
+    "author": "animalcule",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26813763"
+  },
+  {
+    "title": "Great Vowel Shift",
+    "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
+    "upvotes": 160,
+    "author": "docdeek",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=26808203"
+  },
+  {
+    "title": "Ask HN: Would issue “bounties” make contributing to open source more appealing?",
+    "url": "item?id=26813725",
+    "upvotes": 40,
+    "author": "Rperry2174",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26813725"
+  },
+  {
+    "title": "Foundations of Databases",
+    "url": "http://webdam.inria.fr/Alice/",
+    "upvotes": 173,
+    "author": "harperlee",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26809253"
+  },
+  {
+    "title": "Our plans for PeerTube v4",
+    "url": "https://joinpeertube.org/news#roadmap-v4",
+    "upvotes": 216,
+    "author": "rapnie",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=26807160"
   },
   {
     "title": "Relationship Hero",
     "url": "https://relationshiphero.com/careers?role=coach"
   },
   {
-    "title": "Great Vowel Shift",
-    "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
-    "upvotes": 156,
-    "author": "docdeek",
-    "comments": 163,
-    "link": "https://news.ycombinator.com/item?id=26808203"
-  },
-  {
-    "title": "Foundations of Databases",
-    "url": "http://webdam.inria.fr/Alice/",
-    "upvotes": 168,
-    "author": "harperlee",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26809253"
-  },
-  {
     "title": "The first 18 months of a startup",
     "url": "https://twitter.com/Suhail/status/1382351985584721926",
-    "upvotes": 213,
+    "upvotes": 216,
     "author": "prakhargurunani",
-    "comments": 70,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26808427"
   },
   {
-    "title": "Our plans for PeerTube v4",
-    "url": "https://joinpeertube.org/news#roadmap-v4",
-    "upvotes": 213,
-    "author": "rapnie",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=26807160"
+    "title": "Terraform 0.15 General Availability",
+    "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
+    "upvotes": 81,
+    "author": "myroon5",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26811592"
   },
   {
     "title": "Butterchurn – A WebGL Implementation of the Milkdrop Visualizer",
     "url": "https://github.com/jberg/butterchurn",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "podiki",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26813265"
   },
   {
     "title": "TTS: Text-to-Speech for All",
     "url": "https://github.com/mozilla/TTS",
-    "upvotes": 173,
+    "upvotes": 177,
     "author": "doener",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26790951"
   },
   {
+    "title": "An RFC that adds support for Rust to the Linux kernel",
+    "url": "https://lkml.org/lkml/2021/4/14/1023",
+    "upvotes": 264,
+    "author": "steveklabnik",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=26812047"
+  },
+  {
     "title": "Webamp: Winamp 2 in the browser",
     "url": "https://webamp.org/",
-    "upvotes": 172,
+    "upvotes": 178,
     "author": "DyslexicAtheist",
-    "comments": 69,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26811696"
   },
   {
     "title": "Space junk removal is not going smoothly",
     "url": "https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/",
-    "upvotes": 156,
+    "upvotes": 159,
     "author": "awb",
-    "comments": 166,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=26807397"
   },
   {
     "title": "Run unknown shell script with a line-by-line confirmation prompt",
     "url": "https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81",
-    "upvotes": 26,
+    "upvotes": 34,
     "author": "wlib",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26812696"
   },
   {
     "title": "Coqui, a startup providing open speech tech for everyone",
     "url": "https://github.com/coqui-ai",
-    "upvotes": 74,
+    "upvotes": 79,
     "author": "doener",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26810079"
+  },
+  {
+    "title": "Yamauchi No.10 Family Office",
+    "url": "https://y-n10.com/",
+    "upvotes": 726,
+    "author": "cmod",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=26803201"
   },
   {
     "title": "Ten years of OP-1",
     "url": "https://teenage.engineering/products/op-1/anniversary",
     "upvotes": 90,
     "author": "evo_9",
-    "comments": 115,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26808757"
   },
   {
-    "title": "Yamauchi No.10 Family Office",
-    "url": "https://y-n10.com/",
-    "upvotes": 719,
-    "author": "cmod",
-    "comments": 197,
-    "link": "https://news.ycombinator.com/item?id=26803201"
-  },
-  {
-    "title": "Why Rust strings seem hard",
-    "url": "https://www.brandons.me/blog/why-rust-strings-seem-hard",
-    "upvotes": 108,
-    "author": "brundolf",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=26811879"
+    "title": "Python 3 Types in the Wild: A Tale of Two Type Systems [pdf]",
+    "url": "https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf",
+    "upvotes": 6,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26788177"
   },
   {
     "title": "Logica, a novel open-source logic programming language",
     "url": "https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html",
-    "upvotes": 296,
+    "upvotes": 300,
     "author": "layer8",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26805121"
   },
   {
-    "title": "$7.5B In Stolen Bitcoin from 2016 Bitfinex Hack has just been moved",
-    "url": "https://twitter.com/CryptoWhale/status/1382392286819057668",
-    "upvotes": 214,
-    "author": "aent",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=26811111"
-  },
-  {
     "title": "Man fined for sharing a Facebook link ruled as defamation in Singapore",
     "url": "https://restofworld.org/2021/singapore-facebook-ruling/",
-    "upvotes": 247,
+    "upvotes": 250,
     "author": "donohoe",
-    "comments": 166,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=26805463"
   },
   {
-    "title": "Medical company uploads secrets to GitHub; threatens reporter with legal action",
-    "url": "https://robdyke.com/howto-disclose/",
+    "title": "Why Rust strings seem hard",
+    "url": "https://www.brandons.me/blog/why-rust-strings-seem-hard",
+    "upvotes": 118,
+    "author": "brundolf",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=26811879"
+  },
+  {
+    "title": "$7.5B In Stolen Bitcoin from 2016 Bitfinex Hack has just been moved",
+    "url": "https://twitter.com/CryptoWhale/status/1382392286819057668",
+    "upvotes": 227,
+    "author": "aent",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=26811111"
+  },
+  {
+    "title": "National Security Commission on AI Report [pdf]",
+    "url": "https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf",
     "upvotes": 5,
-    "author": "bashtoni",
+    "author": "apsec112",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26813928"
+    "link": "https://news.ycombinator.com/item?id=26813749"
   },
   {
     "title": "Literature’s Most Curious Creations",
     "url": "https://www.smithsonianmag.com/arts-culture/books-bound-human-skin-occult-texts-these-are-literatures-most-macabre-surprising-and-curious-creations-180977404/",
-    "upvotes": 6,
+    "upvotes": 7,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26786879"
   },
   {
-    "title": "Prospectus On Próspera",
-    "url": "https://astralcodexten.substack.com/p/prospectus-on-prospera",
-    "upvotes": 13,
-    "author": "feross",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26813051"
-  },
-  {
     "title": "Show HN: Encore – Go framework for building distributed systems",
     "url": "https://github.com/encoredev/encore",
-    "upvotes": 152,
+    "upvotes": 155,
     "author": "eandre",
-    "comments": 54,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26806797"
   }
 ]
