@@ -1,32 +1,56 @@
 [
   {
-    "title": "Australian developers score the highest on coding tests",
-    "url": "https://devskiller.com/it-skills-report/#Twelve",
-    "upvotes": 50,
-    "author": "gru232",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26816357"
-  },
-  {
     "title": "Coinbase from YC to DPO",
     "url": "https://blog.ycombinator.com/coinbase-from-yc-to-ipo/",
-    "upvotes": 617,
+    "upvotes": 632,
     "author": "todsacerdoti",
-    "comments": 753,
+    "comments": 763,
     "link": "https://news.ycombinator.com/item?id=26808275"
   },
   {
     "title": "Don't Pick Up: Missed calls in India",
     "url": "https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/",
-    "upvotes": 107,
+    "upvotes": 119,
     "author": "lordylord",
-    "comments": 37,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26814748"
+  },
+  {
+    "title": "wxWidgets 3.1.5 Released",
+    "url": "http://wxwidgets.org/news/2021/04/wxwidgets-3.1.5-released/",
+    "upvotes": 21,
+    "author": "tkuraku",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26816081"
+  },
+  {
+    "title": "Psilocybin: Magic mushroom compound 'promising' for depression",
+    "url": "https://www.bbc.co.uk/news/health-56745139",
+    "upvotes": 7,
+    "author": "aluket",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26816444"
+  },
+  {
+    "title": "Europe eyes strict rules for artificial intelligence",
+    "url": "https://www.politico.eu/article/europe-strict-rules-artificial-intelligence/",
+    "upvotes": 10,
+    "author": "simonebrunozzi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26816274"
+  },
+  {
+    "title": "Segcache: A memory-efficient and scalable key-value cache for small objects [pdf]",
+    "url": "https://www.usenix.org/system/files/nsdi21-yang.pdf",
+    "upvotes": 14,
+    "author": "luu",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26784201"
   },
   {
     "title": "History of Logo",
     "url": "https://escholarship.org/content/qt1623m1p3/qt1623m1p3.pdf",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "lelf",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26796667"
@@ -34,147 +58,155 @@
   {
     "title": "Show HN: Run unknown shell script with a line-by-line confirmation prompt",
     "url": "https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81",
-    "upvotes": 108,
+    "upvotes": 114,
     "author": "wlib",
-    "comments": 55,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26812696"
-  },
-  {
-    "title": "Python 3 Types in the Wild: A Tale of Two Type Systems [pdf]",
-    "url": "https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf",
-    "upvotes": 93,
-    "author": "zdw",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26788177"
-  },
-  {
-    "title": "Terraform 0.15 General Availability",
-    "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
-    "upvotes": 170,
-    "author": "myroon5",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=26811592"
-  },
-  {
-    "title": "The Crow Whisperer: What happens when we talk to animals?",
-    "url": "https://harpers.org/archive/2021/04/the-crow-whisperer-animal-communicators/",
-    "upvotes": 36,
-    "author": "drdee",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26787806"
-  },
-  {
-    "title": "wxWidgets 3.1.5 Released",
-    "url": "http://wxwidgets.org/news/2021/04/wxwidgets-3.1.5-released/",
-    "upvotes": 8,
-    "author": "tkuraku",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26816081"
-  },
-  {
-    "title": "Segcache: A memory-efficient and scalable key-value cache for small objects [pdf]",
-    "url": "https://www.usenix.org/system/files/nsdi21-yang.pdf",
-    "upvotes": 8,
-    "author": "luu",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26784201"
   },
   {
     "title": "Great Vowel Shift",
     "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
-    "upvotes": 222,
+    "upvotes": 231,
     "author": "docdeek",
-    "comments": 229,
+    "comments": 236,
     "link": "https://news.ycombinator.com/item?id=26808203"
   },
   {
-    "title": "The TTY Demystified",
-    "url": "http://www.linusakesson.net/programming/tty/index.php",
-    "upvotes": 133,
-    "author": "csomar",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26803109"
+    "title": "The Crow Whisperer: What happens when we talk to animals?",
+    "url": "https://harpers.org/archive/2021/04/the-crow-whisperer-animal-communicators/",
+    "upvotes": 41,
+    "author": "drdee",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26787806"
   },
   {
-    "title": "New GitHub themes for VS Code",
-    "url": "https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/",
-    "upvotes": 52,
-    "author": "prakhargurunani",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26816040"
+    "title": "Python 3 Types in the Wild: A Tale of Two Type Systems [pdf]",
+    "url": "https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf",
+    "upvotes": 96,
+    "author": "zdw",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26788177"
+  },
+  {
+    "title": "SpaceX raises $1.16B in equity financing",
+    "url": "https://mobile.reuters.com/article/idUSKBN2C11V9",
+    "upvotes": 12,
+    "author": "agnosticmantis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26815960"
+  },
+  {
+    "title": "Terraform 0.15 General Availability",
+    "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
+    "upvotes": 176,
+    "author": "myroon5",
+    "comments": 155,
+    "link": "https://news.ycombinator.com/item?id=26811592"
   },
   {
     "title": "The first 18 months of a startup",
     "url": "https://twitter.com/Suhail/status/1382351985584721926",
-    "upvotes": 266,
+    "upvotes": 269,
     "author": "prakhargurunani",
-    "comments": 82,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26808427"
   },
   {
-    "title": "TTS: Text-to-Speech for All",
-    "url": "https://github.com/mozilla/TTS",
-    "upvotes": 249,
-    "author": "doener",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26790951"
+    "title": "The TTY Demystified",
+    "url": "http://www.linusakesson.net/programming/tty/index.php",
+    "upvotes": 140,
+    "author": "csomar",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26803109"
+  },
+  {
+    "title": "Yamauchi No.10 Family Office",
+    "url": "https://y-n10.com/",
+    "upvotes": 799,
+    "author": "cmod",
+    "comments": 219,
+    "link": "https://news.ycombinator.com/item?id=26803201"
   },
   {
     "title": "Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team",
     "url": "item?id=26815044"
   },
   {
-    "title": "Yamauchi No.10 Family Office",
-    "url": "https://y-n10.com/",
-    "upvotes": 790,
-    "author": "cmod",
-    "comments": 219,
-    "link": "https://news.ycombinator.com/item?id=26803201"
-  },
-  {
     "title": "Foundations of Databases",
     "url": "http://webdam.inria.fr/Alice/",
-    "upvotes": 214,
+    "upvotes": 217,
     "author": "harperlee",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26809253"
   },
   {
-    "title": "Effective altruism is not effective",
-    "url": "http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html",
-    "upvotes": 94,
-    "author": "animalcule",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=26813763"
+    "title": "Ask HN: Twilio blocked our account and with it hundreds of our customers",
+    "url": "item?id=26815768",
+    "upvotes": 61,
+    "author": "caruizdiaz",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26815768"
   },
   {
-    "title": "Big SPAC deals don’t need big SPACs",
-    "url": "https://www.bloomberg.com/opinion/articles/2021-04-13/grab-spac-mega-merger-isn-t-mega-without-blackrock-pipe",
-    "upvotes": 27,
-    "author": "feross",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26796899"
+    "title": "We Keep Telling the Myth of a Renaissance Golden Age and Bad Middle Ages",
+    "url": "https://www.exurbe.com/black-death-covid-and-why-we-keep-telling-the-myth-of-a-renaissance-golden-age-and-bad-middle-ages/",
+    "upvotes": 16,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26787048"
   },
   {
     "title": "Coqui, a startup providing open speech tech for everyone",
     "url": "https://github.com/coqui-ai",
-    "upvotes": 129,
+    "upvotes": 136,
     "author": "doener",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26810079"
   },
   {
     "title": "Butterchurn – A WebGL Implementation of the Milkdrop Visualizer",
     "url": "https://github.com/jberg/butterchurn",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "podiki",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26813265"
   },
   {
+    "title": "Big SPAC deals don’t need big SPACs",
+    "url": "https://www.bloomberg.com/opinion/articles/2021-04-13/grab-spac-mega-merger-isn-t-mega-without-blackrock-pipe",
+    "upvotes": 31,
+    "author": "feross",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26796899"
+  },
+  {
+    "title": "Show HN: Puppeteer scripts in the Browser, DevTools on remote pages",
+    "url": "https://pptrconsole.com?a",
+    "upvotes": 14,
+    "author": "graderjs",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26815621"
+  },
+  {
+    "title": "New GitHub themes for VS Code",
+    "url": "https://github.blog/changelog/2021-04-14-new-github-themes-for-vs-code/",
+    "upvotes": 60,
+    "author": "prakhargurunani",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26816040"
+  },
+  {
+    "title": "Australian developers score the highest on coding tests",
+    "url": "https://devskiller.com/it-skills-report/#Twelve",
+    "upvotes": 74,
+    "author": "gru232",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=26816357"
+  },
+  {
     "title": "Show HN: Lofi.cafe",
     "url": "https://lofi.cafe",
-    "upvotes": 1008,
+    "upvotes": 1009,
     "author": "linuz90",
     "comments": 216,
     "link": "https://news.ycombinator.com/item?id=26805702"
@@ -188,51 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26811258"
   },
   {
-    "title": "Show HN: Puppeteer scripts in the Browser, DevTools on remote pages",
-    "url": "https://pptrconsole.com?a",
-    "upvotes": 12,
-    "author": "graderjs",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26815621"
+    "title": "Effective altruism is not effective",
+    "url": "http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html",
+    "upvotes": 101,
+    "author": "animalcule",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=26813763"
   },
   {
     "title": "An RFC that adds support for Rust to the Linux kernel",
     "url": "https://lkml.org/lkml/2021/4/14/1023",
-    "upvotes": 359,
+    "upvotes": 370,
     "author": "steveklabnik",
-    "comments": 146,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=26812047"
-  },
-  {
-    "title": "Ten years of OP-1",
-    "url": "https://teenage.engineering/products/op-1/anniversary",
-    "upvotes": 117,
-    "author": "evo_9",
-    "comments": 164,
-    "link": "https://news.ycombinator.com/item?id=26808757"
-  },
-  {
-    "title": "Webamp: Winamp 2 in the browser",
-    "url": "https://webamp.org/",
-    "upvotes": 237,
-    "author": "DyslexicAtheist",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=26811696"
-  },
-  {
-    "title": "Ask HN: Twilio blocked our account and with it hundreds of our customers",
-    "url": "item?id=26815768",
-    "upvotes": 28,
-    "author": "caruizdiaz",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26815768"
-  },
-  {
-    "title": "A Theory of Thorstein Veblen",
-    "url": "https://thebaffler.com/latest/a-theory-of-thorstein-veblen-robbins",
-    "upvotes": 22,
-    "author": "samclemens",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26788284"
   }
 ]
