@@ -2,15 +2,15 @@
   {
     "title": "Coinbase from YC to IPO",
     "url": "https://blog.ycombinator.com/coinbase-from-yc-to-ipo/",
-    "upvotes": 439,
+    "upvotes": 455,
     "author": "todsacerdoti",
-    "comments": 614,
+    "comments": 625,
     "link": "https://news.ycombinator.com/item?id=26808275"
   },
   {
     "title": "Show HN: Lofi.cafe",
     "url": "https://lofi.cafe",
-    "upvotes": 900,
+    "upvotes": 907,
     "author": "linuz90",
     "comments": 199,
     "link": "https://news.ycombinator.com/item?id=26805702"
@@ -18,211 +18,203 @@
   {
     "title": "The TTY Demystified",
     "url": "http://www.linusakesson.net/programming/tty/index.php",
-    "upvotes": 61,
+    "upvotes": 75,
     "author": "csomar",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26803109"
   },
   {
-    "title": "The value of downvoting, or, how Hacker News gets it wrong",
-    "url": "https://stackoverflow.blog/2009/03/09/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/",
-    "upvotes": 131,
-    "author": "yellowyacht",
-    "comments": 294,
-    "link": "https://news.ycombinator.com/item?id=26810972"
+    "title": "Python 3 Types in the Wild: A Tale of Two Type Systems [pdf]",
+    "url": "https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf",
+    "upvotes": 19,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26788177"
   },
   {
     "title": "A new twist on using ‘personalized’ stem cells for studying dementia",
     "url": "https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "elorant",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26811258"
   },
   {
-    "title": "Effective Altruism Is Not Effective",
-    "url": "http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html",
-    "upvotes": 47,
-    "author": "animalcule",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26813763"
-  },
-  {
     "title": "Great Vowel Shift",
     "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
-    "upvotes": 160,
+    "upvotes": 171,
     "author": "docdeek",
-    "comments": 169,
+    "comments": 174,
     "link": "https://news.ycombinator.com/item?id=26808203"
   },
   {
-    "title": "Ask HN: Would issue “bounties” make contributing to open source more appealing?",
-    "url": "item?id=26813725",
-    "upvotes": 40,
-    "author": "Rperry2174",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26813725"
+    "title": "Our plans for PeerTube v4",
+    "url": "https://joinpeertube.org/news#roadmap-v4",
+    "upvotes": 223,
+    "author": "rapnie",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=26807160"
   },
   {
     "title": "Foundations of Databases",
     "url": "http://webdam.inria.fr/Alice/",
-    "upvotes": 173,
+    "upvotes": 178,
     "author": "harperlee",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26809253"
   },
   {
-    "title": "Our plans for PeerTube v4",
-    "url": "https://joinpeertube.org/news#roadmap-v4",
-    "upvotes": 216,
-    "author": "rapnie",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=26807160"
+    "title": "The first 18 months of a startup",
+    "url": "https://twitter.com/Suhail/status/1382351985584721926",
+    "upvotes": 223,
+    "author": "prakhargurunani",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26808427"
+  },
+  {
+    "title": "Terraform 0.15 General Availability",
+    "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
+    "upvotes": 86,
+    "author": "myroon5",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26811592"
+  },
+  {
+    "title": "TTS: Text-to-Speech for All",
+    "url": "https://github.com/mozilla/TTS",
+    "upvotes": 184,
+    "author": "doener",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26790951"
   },
   {
     "title": "Relationship Hero",
     "url": "https://relationshiphero.com/careers?role=coach"
   },
   {
-    "title": "The first 18 months of a startup",
-    "url": "https://twitter.com/Suhail/status/1382351985584721926",
-    "upvotes": 216,
-    "author": "prakhargurunani",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=26808427"
-  },
-  {
-    "title": "Terraform 0.15 General Availability",
-    "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
-    "upvotes": 81,
-    "author": "myroon5",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=26811592"
+    "title": "Run unknown shell script with a line-by-line confirmation prompt",
+    "url": "https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81",
+    "upvotes": 39,
+    "author": "wlib",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26812696"
   },
   {
     "title": "Butterchurn – A WebGL Implementation of the Milkdrop Visualizer",
     "url": "https://github.com/jberg/butterchurn",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "podiki",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26813265"
-  },
-  {
-    "title": "TTS: Text-to-Speech for All",
-    "url": "https://github.com/mozilla/TTS",
-    "upvotes": 177,
-    "author": "doener",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26790951"
   },
   {
     "title": "An RFC that adds support for Rust to the Linux kernel",
     "url": "https://lkml.org/lkml/2021/4/14/1023",
-    "upvotes": 264,
+    "upvotes": 278,
     "author": "steveklabnik",
-    "comments": 88,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=26812047"
-  },
-  {
-    "title": "Webamp: Winamp 2 in the browser",
-    "url": "https://webamp.org/",
-    "upvotes": 178,
-    "author": "DyslexicAtheist",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=26811696"
   },
   {
     "title": "Space junk removal is not going smoothly",
     "url": "https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/",
-    "upvotes": 159,
+    "upvotes": 164,
     "author": "awb",
-    "comments": 172,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=26807397"
   },
   {
-    "title": "Run unknown shell script with a line-by-line confirmation prompt",
-    "url": "https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81",
-    "upvotes": 34,
-    "author": "wlib",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26812696"
+    "title": "Webamp: Winamp 2 in the browser",
+    "url": "https://webamp.org/",
+    "upvotes": 184,
+    "author": "DyslexicAtheist",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26811696"
   },
   {
-    "title": "Coqui, a startup providing open speech tech for everyone",
-    "url": "https://github.com/coqui-ai",
-    "upvotes": 79,
-    "author": "doener",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26810079"
+    "title": "Effective Altruism Is Not Effective",
+    "url": "http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html",
+    "upvotes": 58,
+    "author": "animalcule",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26813763"
   },
   {
     "title": "Yamauchi No.10 Family Office",
     "url": "https://y-n10.com/",
-    "upvotes": 726,
+    "upvotes": 729,
     "author": "cmod",
-    "comments": 198,
+    "comments": 200,
     "link": "https://news.ycombinator.com/item?id=26803201"
   },
   {
-    "title": "Ten years of OP-1",
-    "url": "https://teenage.engineering/products/op-1/anniversary",
-    "upvotes": 90,
-    "author": "evo_9",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=26808757"
-  },
-  {
-    "title": "Python 3 Types in the Wild: A Tale of Two Type Systems [pdf]",
-    "url": "https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf",
-    "upvotes": 6,
-    "author": "zdw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26788177"
+    "title": "Coqui, a startup providing open speech tech for everyone",
+    "url": "https://github.com/coqui-ai",
+    "upvotes": 81,
+    "author": "doener",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26810079"
   },
   {
     "title": "Logica, a novel open-source logic programming language",
     "url": "https://opensource.googleblog.com/2021/04/logica-organizing-your-data-queries.html",
-    "upvotes": 300,
+    "upvotes": 302,
     "author": "layer8",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26805121"
   },
   {
+    "title": "Ten years of OP-1",
+    "url": "https://teenage.engineering/products/op-1/anniversary",
+    "upvotes": 94,
+    "author": "evo_9",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=26808757"
+  },
+  {
     "title": "Man fined for sharing a Facebook link ruled as defamation in Singapore",
     "url": "https://restofworld.org/2021/singapore-facebook-ruling/",
-    "upvotes": 250,
+    "upvotes": 251,
     "author": "donohoe",
-    "comments": 167,
+    "comments": 170,
     "link": "https://news.ycombinator.com/item?id=26805463"
   },
   {
     "title": "Why Rust strings seem hard",
     "url": "https://www.brandons.me/blog/why-rust-strings-seem-hard",
-    "upvotes": 118,
+    "upvotes": 124,
     "author": "brundolf",
-    "comments": 133,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=26811879"
   },
   {
     "title": "$7.5B In Stolen Bitcoin from 2016 Bitfinex Hack has just been moved",
     "url": "https://twitter.com/CryptoWhale/status/1382392286819057668",
-    "upvotes": 227,
+    "upvotes": 234,
     "author": "aent",
-    "comments": 161,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=26811111"
   },
   {
-    "title": "National Security Commission on AI Report [pdf]",
-    "url": "https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf",
-    "upvotes": 5,
-    "author": "apsec112",
+    "title": "I am Sophie Zhang, Facebook whistleblower. Ask me anything",
+    "url": "https://www.reddit.com/r/IAmA/comments/mqw86u/i_am_sophie_zhang_whistleblower_at_fb_i_worked_to/",
+    "upvotes": 31,
+    "author": "VieEnCode",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26813749"
+    "link": "https://news.ycombinator.com/item?id=26813922"
+  },
+  {
+    "title": "The value of downvoting, or, how Hacker News gets it wrong",
+    "url": "https://stackoverflow.blog/2009/03/09/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/",
+    "upvotes": 135,
+    "author": "yellowyacht",
+    "comments": 311,
+    "link": "https://news.ycombinator.com/item?id=26810972"
   },
   {
     "title": "Literature’s Most Curious Creations",
     "url": "https://www.smithsonianmag.com/arts-culture/books-bound-human-skin-occult-texts-these-are-literatures-most-macabre-surprising-and-curious-creations-180977404/",
-    "upvotes": 7,
+    "upvotes": 8,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26786879"
@@ -232,7 +224,15 @@
     "url": "https://github.com/encoredev/encore",
     "upvotes": 155,
     "author": "eandre",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26806797"
+  },
+  {
+    "title": "National Security Commission on AI Report [pdf]",
+    "url": "https://www.nscai.gov/wp-content/uploads/2021/03/Full-Report-Digital-1.pdf",
+    "upvotes": 6,
+    "author": "apsec112",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26813749"
   }
 ]
