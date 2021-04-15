@@ -2,91 +2,63 @@
   {
     "title": "Coinbase from YC to DPO",
     "url": "https://blog.ycombinator.com/coinbase-from-yc-to-ipo/",
-    "upvotes": 549,
+    "upvotes": 561,
     "author": "todsacerdoti",
-    "comments": 707,
+    "comments": 715,
     "link": "https://news.ycombinator.com/item?id=26808275"
-  },
-  {
-    "title": "The American Jobs Plan Will Make Our Infrastructure Crisis Worse",
-    "url": "https://www.strongtowns.org/journal/2021/4/12/the-american-jobs-plan-will-make-our-infrastructure-crisis-worse",
-    "upvotes": 34,
-    "author": "burlesona",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26815354"
-  },
-  {
-    "title": "Show HN: Lofi.cafe",
-    "url": "https://lofi.cafe",
-    "upvotes": 977,
-    "author": "linuz90",
-    "comments": 212,
-    "link": "https://news.ycombinator.com/item?id=26805702"
   },
   {
     "title": "Python 3 Types in the Wild: A Tale of Two Type Systems [pdf]",
     "url": "https://www.cs.rpi.edu/~milanova/docs/dls2020.pdf",
-    "upvotes": 62,
+    "upvotes": 66,
     "author": "zdw",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26788177"
   },
   {
     "title": "Run unknown shell script with a line-by-line confirmation prompt",
     "url": "https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "wlib",
-    "comments": 40,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26812696"
+  },
+  {
+    "title": "Terraform 0.15 General Availability",
+    "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
+    "upvotes": 133,
+    "author": "myroon5",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=26811592"
   },
   {
     "title": "The TTY Demystified",
     "url": "http://www.linusakesson.net/programming/tty/index.php",
-    "upvotes": 99,
+    "upvotes": 103,
     "author": "csomar",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26803109"
   },
   {
-    "title": "Terraform 0.15 General Availability",
-    "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
-    "upvotes": 131,
-    "author": "myroon5",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=26811592"
-  },
-  {
     "title": "Great Vowel Shift",
     "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
-    "upvotes": 198,
+    "upvotes": 202,
     "author": "docdeek",
-    "comments": 209,
+    "comments": 213,
     "link": "https://news.ycombinator.com/item?id=26808203"
-  },
-  {
-    "title": "Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team",
-    "url": "item?id=26815044"
   },
   {
     "title": "Don't Pick Up: Missed calls in India",
     "url": "https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/",
-    "upvotes": 29,
+    "upvotes": 40,
     "author": "lordylord",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26814748"
-  },
-  {
-    "title": "The Crow Whisperer: What happens when we talk to animals?",
-    "url": "https://harpers.org/archive/2021/04/the-crow-whisperer-animal-communicators/",
-    "upvotes": 7,
-    "author": "drdee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26787806"
   },
   {
     "title": "Our plans for PeerTube v4",
     "url": "https://joinpeertube.org/news#roadmap-v4",
-    "upvotes": 237,
+    "upvotes": 241,
     "author": "rapnie",
     "comments": 124,
     "link": "https://news.ycombinator.com/item?id=26807160"
@@ -94,111 +66,139 @@
   {
     "title": "The first 18 months of a startup",
     "url": "https://twitter.com/Suhail/status/1382351985584721926",
-    "upvotes": 242,
+    "upvotes": 246,
     "author": "prakhargurunani",
     "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26808427"
   },
   {
+    "title": "Sirum (YC W15) is hiring: join a fast-growing, mission-driven healthcare team",
+    "url": "item?id=26815044"
+  },
+  {
     "title": "TTS: Text-to-Speech for All",
     "url": "https://github.com/mozilla/TTS",
-    "upvotes": 213,
+    "upvotes": 217,
     "author": "doener",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26790951"
+  },
+  {
+    "title": "The Crow Whisperer: What happens when we talk to animals?",
+    "url": "https://harpers.org/archive/2021/04/the-crow-whisperer-animal-communicators/",
+    "upvotes": 8,
+    "author": "drdee",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26787806"
+  },
+  {
+    "title": "Foundations of Databases",
+    "url": "http://webdam.inria.fr/Alice/",
+    "upvotes": 198,
+    "author": "harperlee",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=26809253"
   },
   {
     "title": "A new twist on using ‘personalized’ stem cells for studying dementia",
     "url": "https://singularityhub.com/2021/04/13/a-massive-new-gene-editing-project-is-out-to-crush-alzheimers/",
     "upvotes": 75,
     "author": "elorant",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26811258"
-  },
-  {
-    "title": "Big SPAC deals don’t need big SPACs",
-    "url": "https://www.bloomberg.com/opinion/articles/2021-04-13/grab-spac-mega-merger-isn-t-mega-without-blackrock-pipe",
-    "upvotes": 13,
-    "author": "feross",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26796899"
-  },
-  {
-    "title": "Foundations of Databases",
-    "url": "http://webdam.inria.fr/Alice/",
-    "upvotes": 194,
-    "author": "harperlee",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26809253"
   },
   {
     "title": "Yamauchi No.10 Family Office",
     "url": "https://y-n10.com/",
-    "upvotes": 756,
+    "upvotes": 762,
     "author": "cmod",
-    "comments": 205,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=26803201"
+  },
+  {
+    "title": "Big SPAC deals don’t need big SPACs",
+    "url": "https://www.bloomberg.com/opinion/articles/2021-04-13/grab-spac-mega-merger-isn-t-mega-without-blackrock-pipe",
+    "upvotes": 15,
+    "author": "feross",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26796899"
   },
   {
     "title": "Space junk removal is not going smoothly",
     "url": "https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/",
-    "upvotes": 181,
+    "upvotes": 185,
     "author": "awb",
-    "comments": 190,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=26807397"
   },
   {
     "title": "Effective altruism is not effective",
     "url": "http://www.philosophersbeard.org/2021/04/effective-altruism-is-not-effective.html",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "animalcule",
-    "comments": 81,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26813763"
   },
   {
-    "title": "An RFC that adds support for Rust to the Linux kernel",
-    "url": "https://lkml.org/lkml/2021/4/14/1023",
-    "upvotes": 324,
-    "author": "steveklabnik",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=26812047"
-  },
-  {
-    "title": "A Theory of Thorstein Veblen",
-    "url": "https://thebaffler.com/latest/a-theory-of-thorstein-veblen-robbins",
-    "upvotes": 11,
-    "author": "samclemens",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26788284"
+    "title": "The American Jobs Plan Will Make Our Infrastructure Crisis Worse",
+    "url": "https://www.strongtowns.org/journal/2021/4/12/the-american-jobs-plan-will-make-our-infrastructure-crisis-worse",
+    "upvotes": 62,
+    "author": "burlesona",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26815354"
   },
   {
     "title": "Butterchurn – A WebGL Implementation of the Milkdrop Visualizer",
     "url": "https://github.com/jberg/butterchurn",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "podiki",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26813265"
   },
   {
+    "title": "A Theory of Thorstein Veblen",
+    "url": "https://thebaffler.com/latest/a-theory-of-thorstein-veblen-robbins",
+    "upvotes": 12,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26788284"
+  },
+  {
+    "title": "An RFC that adds support for Rust to the Linux kernel",
+    "url": "https://lkml.org/lkml/2021/4/14/1023",
+    "upvotes": 328,
+    "author": "steveklabnik",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=26812047"
+  },
+  {
     "title": "Coqui, a startup providing open speech tech for everyone",
     "url": "https://github.com/coqui-ai",
-    "upvotes": 98,
+    "upvotes": 100,
     "author": "doener",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26810079"
+  },
+  {
+    "title": "Show HN: Lofi.cafe",
+    "url": "https://lofi.cafe",
+    "upvotes": 978,
+    "author": "linuz90",
+    "comments": 212,
+    "link": "https://news.ycombinator.com/item?id=26805702"
   },
   {
     "title": "Ten years of OP-1",
     "url": "https://teenage.engineering/products/op-1/anniversary",
-    "upvotes": 108,
+    "upvotes": 109,
     "author": "evo_9",
-    "comments": 154,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=26808757"
   },
   {
     "title": "Webamp: Winamp 2 in the browser",
     "url": "https://webamp.org/",
-    "upvotes": 205,
+    "upvotes": 207,
     "author": "DyslexicAtheist",
     "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26811696"
@@ -206,23 +206,23 @@
   {
     "title": "Ask HN: Would issue “bounties” make contributing to open source more appealing?",
     "url": "item?id=26813725",
-    "upvotes": 62,
+    "upvotes": 64,
     "author": "Rperry2174",
-    "comments": 75,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=26813725"
   },
   {
     "title": "Why Rust strings seem hard",
     "url": "https://www.brandons.me/blog/why-rust-strings-seem-hard",
-    "upvotes": 164,
+    "upvotes": 171,
     "author": "brundolf",
-    "comments": 172,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=26811879"
   },
   {
     "title": "Show HN: Encore – Go framework for building distributed systems",
     "url": "https://github.com/encoredev/encore",
-    "upvotes": 166,
+    "upvotes": 169,
     "author": "eandre",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26806797"
@@ -230,9 +230,9 @@
   {
     "title": "The value of downvoting, or, how Hacker News gets it wrong",
     "url": "https://stackoverflow.blog/2009/03/09/the-value-of-downvoting-or-how-hacker-news-gets-it-wrong/",
-    "upvotes": 156,
+    "upvotes": 164,
     "author": "yellowyacht",
-    "comments": 364,
+    "comments": 369,
     "link": "https://news.ycombinator.com/item?id=26810972"
   }
 ]
