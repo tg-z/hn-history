@@ -1,156 +1,164 @@
 [
   {
+    "title": "Victory for municipal broadband as Wash. state lawmakers end restrictions",
+    "url": "https://arstechnica.com/tech-policy/2021/04/victory-for-municipal-broadband-as-wash-state-lawmakers-end-restrictions/",
+    "upvotes": 50,
+    "author": "mpweiher",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26803426"
+  },
+  {
     "title": "Time flies in Google Earth’s biggest update in years",
     "url": "https://blog.google/products/earth/timelapse-in-google-earth/",
-    "upvotes": 815,
+    "upvotes": 853,
     "author": "braymundo",
-    "comments": 264,
+    "comments": 283,
     "link": "https://news.ycombinator.com/item?id=26821356"
   },
   {
     "title": "Morrowind rebooted the original Xbox",
     "url": "https://hackaday.com/2021/04/14/morrowind-rebooted-the-original-xbox-without-you-ever-noticing/",
-    "upvotes": 100,
+    "upvotes": 109,
     "author": "pmarin",
-    "comments": 39,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26817018"
   },
   {
     "title": "Mac Chimes of Death",
     "url": "https://512pixels.net/2021/04/mac-chimes-of-death/",
-    "upvotes": 103,
+    "upvotes": 118,
     "author": "zdw",
-    "comments": 25,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26825809"
   },
   {
     "title": "PEP 563, PEP 649 and the future of pydantic and FastAPI",
     "url": "https://github.com/samuelcolvin/pydantic/issues/2678",
-    "upvotes": 112,
+    "upvotes": 124,
     "author": "amrrs",
-    "comments": 27,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26826158"
-  },
-  {
-    "title": "Element Matrix Services Launches Bridging for Microsoft Teams",
-    "url": "https://element.io/blog/ems-launches-bridging-for-microsoft-teams/",
-    "upvotes": 50,
-    "author": "anotherevan",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26826266"
   },
   {
     "title": "TSMC sees chip shortage lasting into 2022",
     "url": "https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH",
-    "upvotes": 243,
+    "upvotes": 252,
     "author": "tosh",
-    "comments": 157,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=26822732"
+  },
+  {
+    "title": "Element Matrix Services Launches Bridging for Microsoft Teams",
+    "url": "https://element.io/blog/ems-launches-bridging-for-microsoft-teams/",
+    "upvotes": 62,
+    "author": "anotherevan",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26826266"
   },
   {
     "title": "Higher quality audio makes people sound smarter",
     "url": "https://tips.ariyh.com/p/good-sound-quality-smarter",
-    "upvotes": 744,
+    "upvotes": 752,
     "author": "tdmckinlay",
-    "comments": 431,
+    "comments": 436,
     "link": "https://news.ycombinator.com/item?id=26818774"
   },
   {
-    "title": "Frank Jacobs, Mad Magazine writer, has died",
-    "url": "https://www.nytimes.com/2021/04/14/arts/frank-jacobs-dead.html",
-    "upvotes": 18,
-    "author": "pseudolus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26819773"
+    "title": "Ask HN: How can a unhireable person get a job?",
+    "url": "item?id=26825017",
+    "upvotes": 87,
+    "author": "snakedoctor",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=26825017"
   },
   {
     "title": "CRTC allows small wireless carriers to use big networks",
     "url": "https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html",
-    "upvotes": 22,
+    "upvotes": 32,
     "author": "barbazoo",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26826632"
   },
   {
-    "title": "Open source, experimental, and tiny tools roundup",
-    "url": "https://tinytools.directory/",
-    "upvotes": 206,
-    "author": "feross",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26821306"
-  },
-  {
     "title": "PHP in 2021",
     "url": "https://stitcher.io/blog/php-in-2021",
-    "upvotes": 48,
+    "upvotes": 68,
     "author": "nowandlater",
-    "comments": 2,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26825468"
+  },
+  {
+    "title": "Frank Jacobs, Mad Magazine writer, has died",
+    "url": "https://www.nytimes.com/2021/04/14/arts/frank-jacobs-dead.html",
+    "upvotes": 24,
+    "author": "pseudolus",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26819773"
   },
   {
     "title": "Mux",
     "url": "https://mux.com/jobs?hnj=mobile"
   },
   {
+    "title": "Open source, experimental, and tiny tools roundup",
+    "url": "https://tinytools.directory/",
+    "upvotes": 207,
+    "author": "feross",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26821306"
+  },
+  {
     "title": "Cohort IDs can be collected over time to create cross-site tracking IDs",
     "url": "https://github.com/WICG/floc/issues/100",
-    "upvotes": 335,
+    "upvotes": 340,
     "author": "Hard_Space",
-    "comments": 152,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=26819540"
-  },
-  {
-    "title": "DIY plastic recyclers: open-source machines for shredding plastic [audio]",
-    "url": "https://www.bbc.co.uk/programmes/p09ddhz6",
-    "upvotes": 30,
-    "author": "open-source-ux",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26825760"
-  },
-  {
-    "title": "Ask HN: How can a unhireable person get a job?",
-    "url": "item?id=26825017",
-    "upvotes": 58,
-    "author": "snakedoctor",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=26825017"
-  },
-  {
-    "title": "The U.S. corn belt has lost a third of its topsoil",
-    "url": "https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/",
-    "upvotes": 163,
-    "author": "DyslexicAtheist",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=26824479"
   },
   {
     "title": "Ethical anti-design, or designing products that people can't get addicted to",
     "url": "https://njms.ca/posts/ethical-anti-design.html",
-    "upvotes": 27,
+    "upvotes": 40,
     "author": "podiki",
-    "comments": 6,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26825704"
   },
   {
-    "title": "The Grand Unified Theory of Documentation",
-    "url": "https://diataxis.fr/",
-    "upvotes": 59,
-    "author": "shafte",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26824743"
+    "title": "The U.S. corn belt has lost a third of its topsoil",
+    "url": "https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/",
+    "upvotes": 174,
+    "author": "DyslexicAtheist",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=26824479"
+  },
+  {
+    "title": "DIY plastic recyclers: open-source machines for shredding plastic [audio]",
+    "url": "https://www.bbc.co.uk/programmes/p09ddhz6",
+    "upvotes": 32,
+    "author": "open-source-ux",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26825760"
   },
   {
     "title": "Show HN: The game where you test your offside decision-making skills against VAR",
     "url": "https://offsideornot.com/",
-    "upvotes": 32,
+    "upvotes": 36,
     "author": "truetaurus",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26825724"
+  },
+  {
+    "title": "The Grand Unified Theory of Documentation",
+    "url": "https://diataxis.fr/",
+    "upvotes": 63,
+    "author": "shafte",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26824743"
   },
   {
     "title": "Floor, Ceiling, Bracket",
     "url": "https://www.johndcook.com/blog/2021/04/15/floor-ceiling-bracket/",
-    "upvotes": 76,
+    "upvotes": 77,
     "author": "beagle3",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26821945"
@@ -158,34 +166,34 @@
   {
     "title": "Unusual Stock Trading by Whales in US Congress",
     "url": "https://unusualwhales.com/i_am_the_senate",
-    "upvotes": 781,
+    "upvotes": 801,
     "author": "seriousquestion",
-    "comments": 397,
+    "comments": 407,
     "link": "https://news.ycombinator.com/item?id=26821601"
   },
   {
     "title": "Work with GitHub Actions in Your Terminal with GitHub CLI",
     "url": "https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/",
-    "upvotes": 95,
+    "upvotes": 97,
     "author": "todsacerdoti",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26822169"
-  },
-  {
-    "title": "The Sisyphean Task of DNS Client Config on Linux",
-    "url": "https://tailscale.com/blog/sisyphean-dns-client-linux/",
-    "upvotes": 108,
-    "author": "smitop",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26821298"
   },
   {
     "title": "Peloton cuts back on Apple Watch support",
     "url": "https://connectthewatts.com/2021/04/14/peloton-cuts-back-on-apple-watch-support/",
-    "upvotes": 167,
+    "upvotes": 169,
     "author": "uptown",
-    "comments": 215,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=26819577"
+  },
+  {
+    "title": "The Sisyphean Task of DNS Client Config on Linux",
+    "url": "https://tailscale.com/blog/sisyphean-dns-client-linux/",
+    "upvotes": 112,
+    "author": "smitop",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26821298"
   },
   {
     "title": "A Primer Through Golem",
@@ -196,43 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26822201"
   },
   {
-    "title": "How I made a profitable Vim course",
-    "url": "https://www.slip.so/blog/how-I-made-10k-teaching-vim",
-    "upvotes": 124,
-    "author": "vitabenes",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26825566"
-  },
-  {
     "title": "There’s Nothing to Do Except Gamble",
     "url": "https://nymag.com/intelligencer/2021/04/nft-future-of-money.html",
-    "upvotes": 218,
+    "upvotes": 225,
     "author": "known",
-    "comments": 310,
+    "comments": 320,
     "link": "https://news.ycombinator.com/item?id=26818888"
-  },
-  {
-    "title": "Ghidra Analyzer for UEFI Firmware",
-    "url": "https://github.com/DSecurity/efiSeek",
-    "upvotes": 111,
-    "author": "adulau",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26819673"
-  },
-  {
-    "title": "Missing hiker found after man using computer at home pinpoints his location",
-    "url": "https://www.nbclosangeles.com/news/california-news/missing-hiker-mt-waterman-photo-search/2572468/",
-    "upvotes": 53,
-    "author": "danso",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26819386"
   },
   {
     "title": "Digital Audio 101: Playing Audio from a Microcontroller",
     "url": "https://blog.tarkalabs.com/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c",
-    "upvotes": 78,
+    "upvotes": 81,
     "author": "sreedevk",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26820648"
+  },
+  {
+    "title": "Cool data embedded in the Bitcoin blockchain",
+    "url": "https://cirosantilli.com/cool-data-embedded-in-the-bitcoin-blockchain",
+    "upvotes": 84,
+    "author": "kens",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26801067"
+  },
+  {
+    "title": "How I made a profitable Vim course",
+    "url": "https://www.slip.so/blog/how-I-made-10k-teaching-vim",
+    "upvotes": 129,
+    "author": "vitabenes",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=26825566"
   }
 ]
