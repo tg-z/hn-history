@@ -2,23 +2,23 @@
   {
     "title": "Pangolin UI, a Desktop Shell, Written in Flutter, for Linux and Zircona",
     "url": "https://web.dahliaos.io/",
-    "upvotes": 32,
+    "upvotes": 38,
     "author": "denysvitali",
-    "comments": 7,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26842859"
   },
   {
     "title": "I'd like to review your README",
     "url": "https://liw.fi/readme-review/",
-    "upvotes": 119,
+    "upvotes": 127,
     "author": "edward",
-    "comments": 24,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26842191"
   },
   {
     "title": "Self-Supervised Video Object Segmentation by Motion Grouping",
     "url": "https://charigyang.github.io/motiongroup/",
-    "upvotes": 106,
+    "upvotes": 109,
     "author": "Hard_Space",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26842018"
@@ -26,15 +26,23 @@
   {
     "title": "QUIC and HTTP/3 Support Now in Firefox Nightly and Beta",
     "url": "https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/",
-    "upvotes": 401,
+    "upvotes": 408,
     "author": "caution",
     "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26838642"
   },
   {
+    "title": "5G: The Outsourced Elephant in the Room",
+    "url": "https://berthub.eu/articles/posts/5g-elephant-in-the-room/",
+    "upvotes": 5,
+    "author": "sam_lowry_",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26843068"
+  },
+  {
     "title": "Content-aware image resizing in JavaScript",
     "url": "https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/",
-    "upvotes": 347,
+    "upvotes": 352,
     "author": "mmazzarolo",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26839692"
@@ -42,71 +50,79 @@
   {
     "title": "Successful BBQ pork butt and brisket is science",
     "url": "https://arstechnica.com/science/2018/09/let-science-be-your-guide-for-the-perfect-labor-day-bbq/",
-    "upvotes": 157,
+    "upvotes": 158,
     "author": "Tomte",
-    "comments": 82,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26817130"
-  },
-  {
-    "title": "Inflammation, but Not Telomere Length, Predicts Ageing at Extreme Old Age",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/26629551/",
-    "upvotes": 239,
-    "author": "evo_9",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=26837926"
-  },
-  {
-    "title": "Librem 14 begins shipping",
-    "url": "https://puri.sm/posts/librem-14-begins-shipping/",
-    "upvotes": 152,
-    "author": "nathancahill",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=26841552"
-  },
-  {
-    "title": "Standard Notes is a safe place for your notes, thoughts, and life's work",
-    "url": "https://standardnotes.org",
-    "upvotes": 218,
-    "author": "sealeck",
-    "comments": 174,
-    "link": "https://news.ycombinator.com/item?id=26838992"
-  },
-  {
-    "title": "The original streamer, who ran his own public access gaming show in 1993",
-    "url": "https://www.pcgamer.com/meet-the-original-streamer-who-ran-his-own-public-access-gaming-show-in-1993/",
-    "upvotes": 28,
-    "author": "danso",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26833367"
-  },
-  {
-    "title": "Corrupt Signal DB issue crashing App and losing data",
-    "url": "https://github.com/signalapp/Signal-Android/issues/11160",
-    "upvotes": 77,
-    "author": "nh2",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26841134"
-  },
-  {
-    "title": "Zorin OS 16",
-    "url": "https://blog.zorin.com/2021/04/15/introducing-zorin-os-16-test-the-beta-today/",
-    "upvotes": 64,
-    "author": "oedmarap",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26841166"
   },
   {
     "title": "Show HN: Free Remote jobs search platform with verified handpicked jobs",
     "url": "https://www.beefrii.com",
-    "upvotes": 4,
+    "upvotes": 9,
     "author": "MaxCool",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26842753"
   },
   {
+    "title": "Librem 14 begins shipping",
+    "url": "https://puri.sm/posts/librem-14-begins-shipping/",
+    "upvotes": 155,
+    "author": "nathancahill",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=26841552"
+  },
+  {
+    "title": "Show HN: Compare news from the political left and right",
+    "url": "https://their.news",
+    "upvotes": 17,
+    "author": "Hadjimina",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26842611"
+  },
+  {
+    "title": "Standard Notes is a safe place for your notes, thoughts, and life's work",
+    "url": "https://standardnotes.org",
+    "upvotes": 219,
+    "author": "sealeck",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=26838992"
+  },
+  {
+    "title": "Zorin OS 16",
+    "url": "https://blog.zorin.com/2021/04/15/introducing-zorin-os-16-test-the-beta-today/",
+    "upvotes": 68,
+    "author": "oedmarap",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26841166"
+  },
+  {
+    "title": "The original streamer, who ran his own public access gaming show in 1993",
+    "url": "https://www.pcgamer.com/meet-the-original-streamer-who-ran-his-own-public-access-gaming-show-in-1993/",
+    "upvotes": 31,
+    "author": "danso",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26833367"
+  },
+  {
+    "title": "Corrupt Signal DB issue crashing App and losing data",
+    "url": "https://github.com/signalapp/Signal-Android/issues/11160",
+    "upvotes": 78,
+    "author": "nh2",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26841134"
+  },
+  {
+    "title": "Chinese technology company Huawei eavesdropped on Dutch mobile network KPN",
+    "url": "https://nltimes.nl/2021/04/17/chinese-technology-company-huawei-eavesdropped-dutch-mobile-network-kpn",
+    "upvotes": 36,
+    "author": "edwinjm",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26842733"
+  },
+  {
     "title": "Le Corbusier as I Knew Him",
     "url": "https://thereader.mitpress.mit.edu/le-corbusier-as-i-knew-him/",
-    "upvotes": 21,
+    "upvotes": 23,
     "author": "item",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26826338"
@@ -114,15 +130,15 @@
   {
     "title": "A Ship Got Stuck: What happens when 70M people visit your joke site?",
     "url": "https://warzel.substack.com/p/a-ship-got-stuck-so-he-built-a-website",
-    "upvotes": 64,
+    "upvotes": 69,
     "author": "DevilMadeMeDoIT",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26842378"
   },
   {
     "title": "The Duties of John von Neumann’s Assistant in the 1930s",
     "url": "https://www.cantorsparadise.com/the-duties-of-john-von-neumanns-assistant-in-the-1930s-8d08e538fe2b",
-    "upvotes": 65,
+    "upvotes": 67,
     "author": "jorgenveisdal",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26826261"
@@ -130,7 +146,7 @@
   {
     "title": "Foundations of Complexity Economics",
     "url": "https://www.nature.com/articles/s42254-020-00273-3",
-    "upvotes": 80,
+    "upvotes": 81,
     "author": "abscond",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26839781"
@@ -138,87 +154,79 @@
   {
     "title": "Architecture of a desktop-like SPA",
     "url": "https://blog.uidrafter.com/engineering/architecture-of-a-desktop-alike-spa",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "efortis",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26839535"
+  },
+  {
+    "title": "The Many Faces of Berlin U-Bahn Line U7",
+    "url": "https://berlintypography.wordpress.com/2017/07/11/the-many-faces-of-the-u7/",
+    "upvotes": 28,
+    "author": "Clewza313",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26841482"
   },
   {
     "title": "The signs that make a city",
     "url": "https://tribunemag.co.uk/2021/04/the-signs-that-make-a-city",
     "upvotes": 39,
     "author": "emailed",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26839799"
+  },
+  {
+    "title": "55% of all Tether, $25B, were created in 2021",
+    "url": "https://www.tradingview.com/symbols/CRYPTOCAP-USDT/",
+    "upvotes": 11,
+    "author": "daolf",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26842986"
   },
   {
     "title": "Nassim Taleb: Bitcoin failed as a currency and became a speculative ponzi scheme",
     "url": "https://digesttime.com/2021/04/16/nassim-taleb-bitcoin-failed-as-a-currency-and-became-a-speculative-ponzi-scheme/",
-    "upvotes": 234,
+    "upvotes": 246,
     "author": "thefoodboylover",
-    "comments": 189,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=26840006"
   },
   {
-    "title": "Chinese technology company Huawei eavesdropped on Dutch mobile network KPN",
-    "url": "https://nltimes.nl/2021/04/17/chinese-technology-company-huawei-eavesdropped-dutch-mobile-network-kpn",
-    "upvotes": 25,
-    "author": "edwinjm",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26842733"
+    "title": "Inflammation, but Not Telomere Length, Predicts Ageing at Extreme Old Age",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26629551/",
+    "upvotes": 242,
+    "author": "evo_9",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=26837926"
   },
   {
     "title": "Squarespace S1",
     "url": "https://www.sec.gov/Archives/edgar/data/1496963/000110465921051251/tm213918-6_s1.htm",
     "upvotes": 322,
     "author": "pabl8k",
-    "comments": 131,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=26836648"
-  },
-  {
-    "title": "55% of all Tether, $25B, were created in 2021",
-    "url": "https://www.tradingview.com/symbols/CRYPTOCAP-USDT/",
-    "upvotes": 6,
-    "author": "daolf",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26842986"
   },
   {
     "title": "Luca App: CCC calls for a moratorium",
     "url": "https://www.ccc.de/en/updates/2021/luca-app-ccc-fordert-bundesnotbremse",
-    "upvotes": 532,
+    "upvotes": 533,
     "author": "hacka22",
-    "comments": 153,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=26832525"
-  },
-  {
-    "title": "The Many Faces of Berlin U-Bahn Line U7",
-    "url": "https://berlintypography.wordpress.com/2017/07/11/the-many-faces-of-the-u7/",
-    "upvotes": 17,
-    "author": "Clewza313",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26841482"
   },
   {
     "title": "The Road from Rome",
     "url": "https://aeon.co/essays/how-the-fall-of-the-roman-empire-paved-the-road-to-modernity",
     "upvotes": 49,
     "author": "imartin2k",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26819319"
-  },
-  {
-    "title": "In Defense of the Present Tense",
-    "url": "https://lithub.com/in-defense-of-the-present-tense/",
-    "upvotes": 16,
-    "author": "prismatic",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26827721"
   },
   {
     "title": "What I Wish I Knew About U2F and Other Hardware MFA Protocols",
     "url": "https://goteleport.com/blog/u2f-lessons-learned/",
-    "upvotes": 101,
+    "upvotes": 102,
     "author": "dylanz",
     "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26838333"
@@ -226,13 +234,5 @@
   {
     "title": "Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist",
     "url": "https://www.tesorio.com/careers#job-openings"
-  },
-  {
-    "title": "Where’s the evidence that grit predicts success?",
-    "url": "https://nautil.us/issue/99/universality/the-weak-case-for-grit",
-    "upvotes": 57,
-    "author": "dnetesn",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=26832554"
   }
 ]
