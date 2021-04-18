@@ -2,39 +2,39 @@
   {
     "title": "How Developers Choose Names",
     "url": "https://arxiv.org/abs/2103.07487",
-    "upvotes": 26,
+    "upvotes": 50,
     "author": "matt_d",
-    "comments": 8,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26851930"
   },
   {
     "title": "Product-Led Is Just as Bad as Sales-Driven",
     "url": "https://itamargilad.com/product-led/",
-    "upvotes": 68,
+    "upvotes": 77,
     "author": "asplake",
-    "comments": 52,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26851433"
-  },
-  {
-    "title": "Wikimedia: wprov",
-    "url": "https://wikitech.wikimedia.org/wiki/Provenance",
-    "upvotes": 13,
-    "author": "tosh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26852142"
   },
   {
     "title": "Thanks for the Bonus, I Quit",
     "url": "https://madned.substack.com/p/thanks-for-the-bonus-i-quit",
-    "upvotes": 918,
+    "upvotes": 949,
     "author": "todsacerdoti",
-    "comments": 481,
+    "comments": 492,
     "link": "https://news.ycombinator.com/item?id=26847780"
+  },
+  {
+    "title": "Wikimedia: wprov",
+    "url": "https://wikitech.wikimedia.org/wiki/Provenance",
+    "upvotes": 19,
+    "author": "tosh",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26852142"
   },
   {
     "title": "The Curious Case of Port 0",
     "url": "http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "elvis70",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26851687"
@@ -42,102 +42,134 @@
   {
     "title": "Soviet children’s books became collectors’ items in India",
     "url": "https://www.atlasobscura.com/articles/soviet-childrens-books-in-india",
-    "upvotes": 147,
+    "upvotes": 154,
     "author": "Thevet",
-    "comments": 64,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26849866"
   },
   {
     "title": "Replace Google Analytics with a shell script",
     "url": "https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/",
-    "upvotes": 192,
+    "upvotes": 199,
     "author": "_wldu",
-    "comments": 68,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26848827"
-  },
-  {
-    "title": "Reducing Rust Incremental Compilation Times on macOS",
-    "url": "https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/",
-    "upvotes": 119,
-    "author": "yannikyeo",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26850682"
   },
   {
     "title": "Chuck Geschke has died",
     "url": "https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51",
-    "upvotes": 137,
+    "upvotes": 145,
     "author": "thunderbong",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26849131"
+  },
+  {
+    "title": "Drug Discovered to Regenerate Lost Teeth",
+    "url": "https://scitechdaily.com/need-a-new-tooth-drug-discovered-to-regenerate-lost-teeth/",
+    "upvotes": 7,
+    "author": "awb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26852704"
+  },
+  {
+    "title": "Reducing Rust Incremental Compilation Times on macOS",
+    "url": "https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/",
+    "upvotes": 124,
+    "author": "yannikyeo",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26850682"
   },
   {
     "title": "Smarking",
     "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"
   },
   {
-    "title": "First steps with Rust",
-    "url": "https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/",
-    "upvotes": 84,
-    "author": "yannikyeo",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26851425"
+    "title": "Ask HN: I bought Voltaren at the chemist, now Google shows me ads for it. Why?",
+    "url": "item?id=26850913",
+    "upvotes": 93,
+    "author": "wideareanetwork",
+    "comments": 136,
+    "link": "https://news.ycombinator.com/item?id=26850913"
+  },
+  {
+    "title": "Internal Consistency in Streaming Systems",
+    "url": "https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/",
+    "upvotes": 5,
+    "author": "barrkel",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26851803"
   },
   {
     "title": "The On-Line Encyclopedia of Integer Sequences",
     "url": "https://oeis.org/",
-    "upvotes": 121,
+    "upvotes": 126,
     "author": "pseudolus",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26848517"
   },
   {
-    "title": "Ask HN: I bought Voltaren at the chemist, now Google shows me ads for it. Why?",
-    "url": "item?id=26850913",
-    "upvotes": 74,
-    "author": "wideareanetwork",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=26850913"
-  },
-  {
-    "title": "Codecov breach impacts GoDaddy, Atlassian, P&G etc.",
-    "url": "https://www.reuters.com/technology/us-investigators-probing-breach-san-francisco-code-testing-company-firm-2021-04-16/",
-    "upvotes": 140,
-    "author": "mmaunder",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26848232"
+    "title": "First steps with Rust",
+    "url": "https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/",
+    "upvotes": 97,
+    "author": "yannikyeo",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26851425"
   },
   {
     "title": "Sid Meier: More Than Just Civilization",
     "url": "https://boilingsteam.com/sid-meier-more-than-just-civilization/",
-    "upvotes": 62,
+    "upvotes": 69,
     "author": "ekianjo",
-    "comments": 54,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26832883"
-  },
-  {
-    "title": "Bitcoin mining hash rate drops as blackouts instituted in China",
-    "url": "https://www.nasdaq.com/articles/bitcoin-mining-hash-rate-drops-as-blackouts-instituted-in-china-2021-04-16",
-    "upvotes": 195,
-    "author": "blondie9x",
-    "comments": 216,
-    "link": "https://news.ycombinator.com/item?id=26849652"
   },
   {
     "title": "The Lone Coder",
     "url": "https://midrange.tedium.co/issues/the-lone-coder-505212",
-    "upvotes": 12,
+    "upvotes": 21,
     "author": "weare138",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26850574"
   },
   {
+    "title": "Bitcoin mining hash rate drops as blackouts instituted in China",
+    "url": "https://www.nasdaq.com/articles/bitcoin-mining-hash-rate-drops-as-blackouts-instituted-in-china-2021-04-16",
+    "upvotes": 208,
+    "author": "blondie9x",
+    "comments": 231,
+    "link": "https://news.ycombinator.com/item?id=26849652"
+  },
+  {
+    "title": "I coded a Binance trading bot that analyses news sentiment and places trades",
+    "url": "item?id=26852319",
+    "upvotes": 7,
+    "author": "Cryptomaton",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26852319"
+  },
+  {
+    "title": "How Fit Can You Get from Just Walking?",
+    "url": "https://www.gq.com/story/get-fit-from-just-walking",
+    "upvotes": 72,
+    "author": "ingve",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=26850779"
+  },
+  {
     "title": "Nobody Expects...",
     "url": "https://www.os2museum.com/wp/nobody-expects/",
-    "upvotes": 31,
+    "upvotes": 34,
     "author": "kencausey",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26841713"
+  },
+  {
+    "title": "The brain ‘rotates’ memories to save them from new sensations",
+    "url": "https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/",
+    "upvotes": 340,
+    "author": "jnord",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26830105"
   },
   {
     "title": "Logging Virtual Race Results with Selenium, Cron and Python",
@@ -148,41 +180,17 @@
     "link": "https://news.ycombinator.com/item?id=26839892"
   },
   {
-    "title": "The brain ‘rotates’ memories to save them from new sensations",
-    "url": "https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/",
-    "upvotes": 335,
-    "author": "jnord",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=26830105"
-  },
-  {
-    "title": "How Fit Can You Get from Just Walking?",
-    "url": "https://www.gq.com/story/get-fit-from-just-walking",
-    "upvotes": 59,
-    "author": "ingve",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=26850779"
-  },
-  {
     "title": "Archaeology in the Ashes of Notre Dame",
     "url": "https://www.sapiens.org/archaeology/archaeology-notre-dame-cathedral/",
-    "upvotes": 46,
+    "upvotes": 48,
     "author": "CapitalistCartr",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26832032"
   },
   {
-    "title": "Ask HN: Which Stack for Prototyping?",
-    "url": "item?id=26851533",
-    "upvotes": 11,
-    "author": "tbronchain",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26851533"
-  },
-  {
     "title": "‘Things’ in Fiction Shape the Way We Read",
     "url": "https://www.thenation.com/article/culture/sarah-wasserman-death-of-things-review/",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "samclemens",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26841631"
@@ -190,49 +198,41 @@
   {
     "title": "Opportunity Sizing: Is the Juice Worth the Squeeze?",
     "url": "https://blog.harterrt.com/opportunity_sizing.html",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "harterrt",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26832752"
+  },
+  {
+    "title": "Codecov breach impacts GoDaddy, Atlassian, P&G etc.",
+    "url": "https://www.reuters.com/technology/us-investigators-probing-breach-san-francisco-code-testing-company-firm-2021-04-16/",
+    "upvotes": 147,
+    "author": "mmaunder",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=26848232"
+  },
+  {
+    "title": "China’s Dystopian “New IP” Plan for a New Internet",
+    "url": "https://www.justsecurity.org/75741/chinas-dystopian-new-ip-plan-shows-need-for-renewed-us-commitment-to-internet-governance/",
+    "upvotes": 37,
+    "author": "ur-whale",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26852094"
   },
   {
     "title": "Show HN: I built a Guitar Hero robot [video]",
     "url": "https://www.youtube.com/watch?v=htk6eXxpSNA",
-    "upvotes": 290,
+    "upvotes": 292,
     "author": "nik12795",
-    "comments": 103,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=26843838"
   },
   {
     "title": "GitHub reinstated youtube-dl but restoring forks is apparently a problem",
     "url": "https://torrentfreak.com/github-reinstated-youtube-dl-but-restoring-forks-is-apparently-a-problem-210417/",
-    "upvotes": 199,
+    "upvotes": 204,
     "author": "TangerineDream",
-    "comments": 71,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=26847921"
-  },
-  {
-    "title": "Heard instinct: Deafness and the prosthetics for overcoming it",
-    "url": "https://www.the-tls.co.uk/articles/hearing-happiness-jaipreet-virdi-review-jonathan-ree/",
-    "upvotes": 11,
-    "author": "tintinnabula",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26841647"
-  },
-  {
-    "title": "Wat",
-    "url": "https://www.destroyallsoftware.com/talks/wat",
-    "upvotes": 116,
-    "author": "mikasjp",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26850630"
-  },
-  {
-    "title": "The Story of the SolarWinds Hack",
-    "url": "https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack",
-    "upvotes": 275,
-    "author": "bokchoi",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=26842935"
   }
 ]
