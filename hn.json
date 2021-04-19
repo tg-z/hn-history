@@ -2,47 +2,47 @@
   {
     "title": "Dissecting the Apple M1 GPU, Part III",
     "url": "https://rosenzweig.io/blog/asahi-gpu-part-3.html",
-    "upvotes": 82,
+    "upvotes": 113,
     "author": "marcodiego",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26858053"
   },
   {
     "title": "Robot-woven sneaker with 3D-printed soles",
     "url": "https://spectrum.ieee.org/tech-talk/robotics/industrial-robots/adidas-futurecraft-3d-printed-robot-woven-sneaker",
-    "upvotes": 92,
+    "upvotes": 94,
     "author": "pmastela",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26829731"
+  },
+  {
+    "title": "Show HN: Starboard Observable – An open source ObservableHQ notebook editor",
+    "url": "https://starboard.gg/gz/open-source-observablehq-nfwK2VA",
+    "upvotes": 23,
+    "author": "protoduction",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26857888"
   },
   {
     "title": "Show HN: Side project passed $2.5k/mo revenue after 2 years",
     "url": "item?id=26855726",
-    "upvotes": 137,
+    "upvotes": 145,
     "author": "enraged_camel",
-    "comments": 37,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=26855726"
   },
   {
     "title": "No More Nanometers – It’s Time for New Node Naming",
     "url": "https://www.eejournal.com/article/no-more-nanometers/",
-    "upvotes": 31,
+    "upvotes": 36,
     "author": "bcaa7f3a8bbc",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26830009"
   },
   {
-    "title": "Show HN: Starboard Observable – An open source ObservableHQ notebook editor",
-    "url": "https://starboard.gg/gz/open-source-observablehq-nfwK2VA",
-    "upvotes": 18,
-    "author": "protoduction",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26857888"
-  },
-  {
     "title": "Livebook: A collaborative and interactive code notebook for Elixir",
     "url": "https://dashbit.co/blog/announcing-livebook?new=1",
-    "upvotes": 490,
+    "upvotes": 492,
     "author": "bcardarella",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=26853285"
@@ -50,15 +50,23 @@
   {
     "title": "PostScript Language Reference",
     "url": "https://www.adobe.com/content/dam/acom/en/devnet/actionscript/articles/PLRM.pdf",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "DevilMadeMeDoIT",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26856798"
+  },
+  {
+    "title": "HP/Agilent E3631A Rotary Knob Repair",
+    "url": "https://tomverbeure.github.io/2021/04/15/Agilent-E3631A-Knob-Repair.html",
+    "upvotes": 7,
+    "author": "parsecs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26829973"
   },
   {
     "title": "Internet Search Tips",
     "url": "https://www.gwern.net/Search",
-    "upvotes": 251,
+    "upvotes": 257,
     "author": "hargup",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26847596"
@@ -66,118 +74,134 @@
   {
     "title": "Turning an iPad Pro into a classic Macintosh",
     "url": "https://blog.gingerbeardman.com/2021/04/17/turning-an-ipad-pro-into-the-ultimate-classic-macintosh/",
-    "upvotes": 79,
+    "upvotes": 86,
     "author": "naetius",
-    "comments": 14,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26854990"
   },
   {
     "title": "Smartphones can detect solar storms",
     "url": "https://academictimes.com/smartphones-can-detect-huge-solar-storms/",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "quantum_fan",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26855659"
-  },
-  {
-    "title": "Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions",
-    "url": "https://hackernews.roundtable.audio/",
-    "upvotes": 52,
-    "author": "sethkim",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26856883"
   },
   {
     "title": "Dürer shaped the modern world",
     "url": "https://www.newstatesman.com/Albrecht-durer-albert-whale-philip-hoare",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "drdee",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26849828"
   },
   {
-    "title": "B. Traven",
-    "url": "https://en.wikipedia.org/wiki/B._Traven",
-    "upvotes": 82,
-    "author": "benbreen",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26842081"
-  },
-  {
-    "title": "Proposal: Treat FLoC as a security concern",
-    "url": "https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/",
-    "upvotes": 436,
-    "author": "meattle",
-    "comments": 192,
-    "link": "https://news.ycombinator.com/item?id=26854073"
-  },
-  {
-    "title": "Reverse-engineering a vintage comparator chip",
-    "url": "http://www.righto.com/2021/04/reverse-engineering-vintage-comparator.html",
-    "upvotes": 44,
-    "author": "pwg",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26854672"
+    "title": "Show HN: hackernews.roundtable.audio turns HN posts into live audio discussions",
+    "url": "https://hackernews.roundtable.audio/",
+    "upvotes": 54,
+    "author": "sethkim",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26856883"
   },
   {
     "title": "Where to see the oldest living things on Earth",
     "url": "https://edition.cnn.com/travel/article/oldest-living-things/index.html",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "Tomte",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26842765"
+  },
+  {
+    "title": "AMD's EPYC Milan Breaks Cinebench Record, Here's a 10nm Ice Lake Xeon Comparison",
+    "url": "https://www.tomshardware.com/news/amds-epyc-milan-breaks-cinebench-record-heres-a-10nm-ice-lake-xeon-comparison",
+    "upvotes": 13,
+    "author": "ItsTotallyOn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26858409"
   },
   {
     "title": "Substack",
     "url": "https://substack.com/jobs"
   },
   {
+    "title": "B. Traven",
+    "url": "https://en.wikipedia.org/wiki/B._Traven",
+    "upvotes": 82,
+    "author": "benbreen",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26842081"
+  },
+  {
+    "title": "Proposal: Treat FLoC as a security concern",
+    "url": "https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/",
+    "upvotes": 440,
+    "author": "meattle",
+    "comments": 194,
+    "link": "https://news.ycombinator.com/item?id=26854073"
+  },
+  {
+    "title": "Reverse-engineering a vintage comparator chip",
+    "url": "http://www.righto.com/2021/04/reverse-engineering-vintage-comparator.html",
+    "upvotes": 48,
+    "author": "pwg",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26854672"
+  },
+  {
+    "title": "Huawei was able to eavesdrop on Dutch mobile network KPN: Report",
+    "url": "https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report",
+    "upvotes": 188,
+    "author": "miohtama",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=26856055"
+  },
+  {
     "title": "Ask HN: Does anyone else find the AWS Lambda developer experience frustrating?",
     "url": "item?id=26855037",
-    "upvotes": 196,
+    "upvotes": 203,
     "author": "tdfirth",
-    "comments": 154,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=26855037"
   },
   {
     "title": "A Universal I/O Abstraction for C++",
     "url": "https://cor3ntin.github.io/posts/iouring/",
-    "upvotes": 85,
+    "upvotes": 88,
     "author": "vg_head",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26842900"
   },
   {
-    "title": "Huawei was able to eavesdrop on Dutch mobile network KPN: Report",
-    "url": "https://nltimes.nl/2021/04/17/huawei-able-eavesdrop-dutch-mobile-network-kpn-report",
-    "upvotes": 181,
-    "author": "miohtama",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=26856055"
+    "title": "Paternoster Lift",
+    "url": "https://en.wikipedia.org/wiki/Paternoster_lift",
+    "upvotes": 118,
+    "author": "fortran77",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=26855597"
   },
   {
     "title": "Show HN: Farolero – Common Lisp style-conditions and restarts for Clojure",
     "url": "https://github.com/IGJoshua/farolero",
-    "upvotes": 121,
+    "upvotes": 123,
     "author": "suskeyhose",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26852309"
   },
   {
-    "title": "Paternoster Lift",
-    "url": "https://en.wikipedia.org/wiki/Paternoster_lift",
-    "upvotes": 116,
-    "author": "fortran77",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26855597"
-  },
-  {
     "title": "Public-ownership rental as a third option to renting or owning a house",
     "url": "https://www.theatlantic.com/ideas/archive/2021/03/why-its-better-to-rent-than-to-own/618254",
-    "upvotes": 106,
+    "upvotes": 109,
     "author": "dredmorbius",
-    "comments": 175,
+    "comments": 182,
     "link": "https://news.ycombinator.com/item?id=26854819"
+  },
+  {
+    "title": "How Developers Choose Names",
+    "url": "https://arxiv.org/abs/2103.07487",
+    "upvotes": 170,
+    "author": "matt_d",
+    "comments": 137,
+    "link": "https://news.ycombinator.com/item?id=26851930"
   },
   {
     "title": "Maisonneuve – Genetic Mapping",
@@ -188,51 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=26829678"
   },
   {
-    "title": "How Developers Choose Names",
-    "url": "https://arxiv.org/abs/2103.07487",
-    "upvotes": 167,
-    "author": "matt_d",
-    "comments": 136,
-    "link": "https://news.ycombinator.com/item?id=26851930"
-  },
-  {
-    "title": "AMD's EPYC Milan Breaks Cinebench Record, Here's a 10nm Ice Lake Xeon Comparison",
-    "url": "https://www.tomshardware.com/news/amds-epyc-milan-breaks-cinebench-record-heres-a-10nm-ice-lake-xeon-comparison",
-    "upvotes": 6,
-    "author": "ItsTotallyOn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26858409"
-  },
-  {
     "title": "Two people killed in fiery Tesla crash with no one driving",
     "url": "https://www.click2houston.com/news/local/2021/04/18/2-men-dead-after-fiery-tesla-crash-in-spring-officials-say/",
-    "upvotes": 266,
+    "upvotes": 278,
     "author": "bdcravens",
-    "comments": 534,
+    "comments": 549,
     "link": "https://news.ycombinator.com/item?id=26852399"
   },
   {
     "title": "Making a Concave Mirror Using 15th Century Technology",
     "url": "https://wp.optics.arizona.edu/falco/art-optics/historical-questions/making-a-concave-mirror/",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "Tomte",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26842362"
-  },
-  {
-    "title": "Internal Consistency in Streaming Systems",
-    "url": "https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/",
-    "upvotes": 81,
-    "author": "barrkel",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26851803"
   },
   {
     "title": "Show HN: Aidmin – Web-based database GUI",
     "url": "https://aidmin.io",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "inssein",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26853339"
   }
 ]
