@@ -2,50 +2,58 @@
   {
     "title": "Pulumi 3.0",
     "url": "https://www.pulumi.com/blog/pulumi-3-0/",
-    "upvotes": 96,
+    "upvotes": 132,
     "author": "bovermyer",
-    "comments": 20,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26880935"
+  },
+  {
+    "title": "Python Software Foundation Is Hiring a Python Packaging Project Manager",
+    "url": "https://pyfound.blogspot.com/2021/04/the-psf-is-hiring-python-packaging.html",
+    "upvotes": 53,
+    "author": "rbanffy",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26881595"
   },
   {
     "title": "Grafana, Loki, and Tempo will be relicensed to AGPLv3",
     "url": "https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/",
-    "upvotes": 447,
+    "upvotes": 467,
     "author": "WalterSobchak",
-    "comments": 282,
+    "comments": 308,
     "link": "https://news.ycombinator.com/item?id=26877528"
   },
   {
     "title": "Show HN: I'm working on a open-source, self-hosted alternative to Disqus",
     "url": "https://cusdis.com",
-    "upvotes": 183,
+    "upvotes": 192,
     "author": "djyde",
-    "comments": 73,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26878153"
-  },
-  {
-    "title": "Python Software Foundation Is Hiring a Python Packaging Project Manager",
-    "url": "https://pyfound.blogspot.com/2021/04/the-psf-is-hiring-python-packaging.html",
-    "upvotes": 28,
-    "author": "rbanffy",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26881595"
   },
   {
     "title": "Reading the AGPL",
     "url": "https://writing.kemitchell.com/2021/01/24/Reading-AGPL.html",
-    "upvotes": 37,
+    "upvotes": 53,
     "author": "sealeck",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26880212"
   },
   {
     "title": "Charm Delivers Stripe's Carbon Removal Purchase Ahead-of-Schedule",
     "url": "https://charmindustrial.com/blog/2021/4/19/charm-announces-ahead-of-schedule-delivery-of-stripes-carbon-removal-purchase",
-    "upvotes": 82,
+    "upvotes": 90,
     "author": "etxm",
-    "comments": 38,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26874619"
+  },
+  {
+    "title": "Auth0 Has been down for almost 4 hours now",
+    "url": "item?id=26880147",
+    "upvotes": 141,
+    "author": "inssein",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26880147"
   },
   {
     "title": "AtoB",
@@ -54,105 +62,113 @@
   {
     "title": "Remote Code Execution Found in CococaPods",
     "url": "https://blog.cocoapods.org/CocoaPods-Trunk-RCE/",
-    "upvotes": 166,
+    "upvotes": 170,
     "author": "st3fan",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26874726"
   },
   {
-    "title": "Apple TV4K Gets A12 Bionic",
-    "url": "https://www.apple.com/apple-tv-4k/",
-    "upvotes": 277,
-    "author": "cameron_b",
-    "comments": 271,
-    "link": "https://news.ycombinator.com/item?id=26877510"
-  },
-  {
     "title": "Discord Ends Deal Talks with Microsoft, Will IPO",
     "url": "https://www.wsj.com/articles/discord-ends-deal-talks-with-microsoft-11618938806",
-    "upvotes": 322,
+    "upvotes": 341,
     "author": "coloneltcb",
-    "comments": 224,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=26877526"
   },
   {
-    "title": "Node.js 16 Available Now",
-    "url": "https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70",
-    "upvotes": 250,
-    "author": "ilkkao",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=26876999"
+    "title": "Apple TV4K Gets A12 Bionic",
+    "url": "https://www.apple.com/apple-tv-4k/",
+    "upvotes": 282,
+    "author": "cameron_b",
+    "comments": 274,
+    "link": "https://news.ycombinator.com/item?id=26877510"
   },
   {
     "title": "Preparing Rustls for Wider Adoption",
     "url": "https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/",
-    "upvotes": 166,
+    "upvotes": 171,
     "author": "jaas",
     "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26875551"
   },
   {
-    "title": "Auth0 Has been down for almost 4 hours now",
-    "url": "item?id=26880147",
-    "upvotes": 118,
-    "author": "inssein",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26880147"
-  },
-  {
-    "title": "YouTube CEO Susan Wojcicki Gets 'Freedom Expression' Award Sponsored by YouTube",
-    "url": "https://www.newsweek.com/youtube-ceo-susan-wojcicki-gets-freedom-expression-award-sponsored-youtube-1585147",
-    "upvotes": 122,
-    "author": "arprocter",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26880582"
+    "title": "Node.js 16 Available Now",
+    "url": "https://nodejs.medium.com/node-js-16-available-now-7f5099a97e70",
+    "upvotes": 260,
+    "author": "ilkkao",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=26876999"
   },
   {
     "title": "Spotify is Killing the Open Podcast Ecosystem",
     "url": "https://singhkays.com/blog/how-spotify-is-killing-the-open-podcast-ecosystem/",
-    "upvotes": 333,
+    "upvotes": 340,
     "author": "dede4metal",
-    "comments": 205,
+    "comments": 211,
     "link": "https://news.ycombinator.com/item?id=26872229"
+  },
+  {
+    "title": ".NET MAUI: .NET Multi-Platform App UI",
+    "url": "https://github.com/dotnet/maui",
+    "upvotes": 3,
+    "author": "evo_9",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26882185"
+  },
+  {
+    "title": "YouTube CEO Susan Wojcicki Gets 'Freedom Expression' Award Sponsored by YouTube",
+    "url": "https://www.newsweek.com/youtube-ceo-susan-wojcicki-gets-freedom-expression-award-sponsored-youtube-1585147",
+    "upvotes": 184,
+    "author": "arprocter",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=26880582"
   },
   {
     "title": "Apple Introduces AirTag",
     "url": "https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/",
-    "upvotes": 386,
+    "upvotes": 403,
     "author": "davidbarker",
-    "comments": 366,
+    "comments": 383,
     "link": "https://news.ycombinator.com/item?id=26877484"
-  },
-  {
-    "title": "Facebook Wants to 'Normalize' the Mass Scraping of Personal Data",
-    "url": "https://www.vice.com/en/article/7kvp7y/facebook-normalize-mass-scraping-personal-data",
-    "upvotes": 94,
-    "author": "gbrown_",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26879315"
   },
   {
     "title": "Car Connectivity Consortium",
     "url": "https://carconnectivity.org/",
-    "upvotes": 8,
+    "upvotes": 11,
     "author": "Austin_Conlon",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26873203"
+  },
+  {
+    "title": "Facebook Wants to 'Normalize' the Mass Scraping of Personal Data",
+    "url": "https://www.vice.com/en/article/7kvp7y/facebook-normalize-mass-scraping-personal-data",
+    "upvotes": 114,
+    "author": "gbrown_",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26879315"
+  },
+  {
+    "title": "Sunny Land – A WebGL Playground Platformer",
+    "url": "https://github.com/passiomatic/sunny-land",
+    "upvotes": 4,
+    "author": "timf",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26866357"
   },
   {
     "title": "My Love Affair with Dozens",
     "url": "http://www.dozenal.org/articles/DSA-MyLoveAffair.pdf",
-    "upvotes": 44,
+    "upvotes": 45,
     "author": "dalke",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26859695"
   },
   {
     "title": "Heating Water with Fire",
     "url": "https://www.homewoodstoves.co.nz/resources/heating-water-with-fire/",
-    "upvotes": 79,
+    "upvotes": 83,
     "author": "ciconia",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26860244"
   },
   {
@@ -164,75 +180,59 @@
     "link": "https://news.ycombinator.com/item?id=26857743"
   },
   {
+    "title": "Include-what-you-use: A tool to analyze includes in C and C++ source files",
+    "url": "https://include-what-you-use.org/",
+    "upvotes": 97,
+    "author": "st_goliath",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26875353"
+  },
+  {
     "title": "Cicoparser: Full game reverse engineering [video]",
     "url": "https://www.youtube.com/watch?v=4fAeUx8A-OE",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "gabonator",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26870807"
   },
   {
     "title": "Wormhole-crypto: Streaming encryption based on Encrypted Content-Encoding",
     "url": "https://github.com/SocketDev/wormhole-crypto",
-    "upvotes": 48,
+    "upvotes": 52,
     "author": "feross",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26869963"
-  },
-  {
-    "title": "iPad Pro M1",
-    "url": "https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/",
-    "upvotes": 288,
-    "author": "tosh",
-    "comments": 342,
-    "link": "https://news.ycombinator.com/item?id=26878216"
   },
   {
     "title": "Show HN: Shepherd.com – Discover books in a new way, like wandering a bookstore",
     "url": "https://shepherd.com/",
-    "upvotes": 264,
+    "upvotes": 267,
     "author": "bwb",
     "comments": 144,
     "link": "https://news.ycombinator.com/item?id=26871660"
   },
   {
-    "title": "Include-what-you-use: A tool to analyze includes in C and C++ source files",
-    "url": "https://include-what-you-use.org/",
-    "upvotes": 90,
-    "author": "st_goliath",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26875353"
-  },
-  {
-    "title": "Hackers post 25,971 files stolen from Broward schools",
-    "url": "https://www.sun-sentinel.com/news/education/fl-ne-broward-schools-hackers-post-files-20210419-mypt2qtlc5a7xela4x6bcg5hdy-story.html#nt=tertiarynavbar&nt=ticker",
-    "upvotes": 53,
-    "author": "yellowyacht",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26878109"
-  },
-  {
     "title": "Software designers, not engineers: An interview from alternative universe",
     "url": "http://tomasp.net/blog/2021/software-designers/",
-    "upvotes": 102,
+    "upvotes": 106,
     "author": "spdegabrielle",
-    "comments": 26,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26873304"
   },
   {
     "title": "The Endless Acid Banger: algorithmic self-composing acid techno music",
     "url": "https://www.vitling.xyz/toys/acid-banger/",
-    "upvotes": 979,
+    "upvotes": 984,
     "author": "clomond",
     "comments": 232,
     "link": "https://news.ycombinator.com/item?id=26870666"
   },
   {
-    "title": "Robinhood Trader May Face $800k Tax Bill",
-    "url": "https://www.forbes.com/sites/shaharziv/2021/03/26/robinhood-trader-may-face-800000-tax-bill/",
-    "upvotes": 30,
-    "author": "rmason",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26880558"
+    "title": "iPad Pro M1",
+    "url": "https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/",
+    "upvotes": 293,
+    "author": "tosh",
+    "comments": 377,
+    "link": "https://news.ycombinator.com/item?id=26878216"
   }
 ]
