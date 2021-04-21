@@ -2,55 +2,55 @@
   {
     "title": ".NET MAUI: .NET Multi-Platform App UI",
     "url": "https://github.com/dotnet/maui",
-    "upvotes": 108,
+    "upvotes": 130,
     "author": "evo_9",
-    "comments": 46,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=26882185"
   },
   {
     "title": "Apple Introduces AirTag",
     "url": "https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/",
-    "upvotes": 494,
+    "upvotes": 520,
     "author": "davidbarker",
-    "comments": 461,
+    "comments": 486,
     "link": "https://news.ycombinator.com/item?id=26877484"
+  },
+  {
+    "title": "Dr. Quinn official website from 1998, still online",
+    "url": "https://www.drquinnmd.com/",
+    "upvotes": 41,
+    "author": "pkorzeniewski",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26883314"
   },
   {
     "title": ".NET for Beginners",
     "url": "https://dusted.codes/dotnet-for-beginners",
-    "upvotes": 37,
+    "upvotes": 49,
     "author": "dustinmoris",
-    "comments": 15,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26882606"
   },
   {
     "title": "Grafana, Loki, and Tempo will be relicensed to AGPLv3",
     "url": "https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/",
-    "upvotes": 523,
+    "upvotes": 541,
     "author": "WalterSobchak",
-    "comments": 364,
+    "comments": 370,
     "link": "https://news.ycombinator.com/item?id=26877528"
   },
   {
     "title": "Show HN: I'm working on a open-source, self-hosted alternative to Disqus",
     "url": "https://cusdis.com",
-    "upvotes": 230,
+    "upvotes": 238,
     "author": "djyde",
-    "comments": 93,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26878153"
-  },
-  {
-    "title": "Dr. Quinn official website from 1998, still online",
-    "url": "https://www.drquinnmd.com/",
-    "upvotes": 14,
-    "author": "pkorzeniewski",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26883314"
   },
   {
     "title": "Lisp in Forth",
     "url": "https://github.com/schani/forthlisp",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "tosh",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26882117"
@@ -58,33 +58,49 @@
   {
     "title": "Discord ends deal talks with Microsoft",
     "url": "https://www.wsj.com/articles/discord-ends-deal-talks-with-microsoft-11618938806",
-    "upvotes": 411,
+    "upvotes": 425,
     "author": "coloneltcb",
-    "comments": 295,
+    "comments": 313,
     "link": "https://news.ycombinator.com/item?id=26877526"
+  },
+  {
+    "title": "Tetris-OS: An operating system that only plays Tetris",
+    "url": "https://github.com/jdah/tetris-os",
+    "upvotes": 6,
+    "author": "cconger",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26883645"
   },
   {
     "title": "Charm delivers Stripe's carbon removal purchase ahead of schedule",
     "url": "https://charmindustrial.com/blog/2021/4/19/charm-announces-ahead-of-schedule-delivery-of-stripes-carbon-removal-purchase",
-    "upvotes": 119,
+    "upvotes": 126,
     "author": "etxm",
-    "comments": 55,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26874619"
   },
   {
     "title": "Pulumi 3.0",
     "url": "https://www.pulumi.com/blog/pulumi-3-0/",
-    "upvotes": 192,
+    "upvotes": 203,
     "author": "bovermyer",
-    "comments": 73,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26880935"
+  },
+  {
+    "title": "Show HN: Manuzoid – Database of More Than 1M Manuals",
+    "url": "https://manuzoid.com/",
+    "upvotes": 34,
+    "author": "bitgur",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26872808"
   },
   {
     "title": "The Landlord's Game",
     "url": "https://en.wikipedia.org/wiki/The_Landlord%27s_Game",
-    "upvotes": 42,
+    "upvotes": 56,
     "author": "mmlkrx",
-    "comments": 5,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26881799"
   },
   {
@@ -92,116 +108,92 @@
     "url": "https://atob.co/careers"
   },
   {
-    "title": "Show HN: Manuzoid – Database of More Than 1M Manuals",
-    "url": "https://manuzoid.com/",
-    "upvotes": 22,
-    "author": "bitgur",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26872808"
-  },
-  {
     "title": "Trust in blockchain-based systems",
     "url": "https://policyreview.info/glossary/trust-blockchain",
     "upvotes": 16,
     "author": "infodocket",
-    "comments": 12,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26882460"
   },
   {
-    "title": "Remote Code Execution Found in CococaPods",
+    "title": "Remote Code Execution Found in CocoaPods",
     "url": "https://justi.cz/security/2021/04/20/cocoapods-rce.html",
-    "upvotes": 183,
-    "author": "st3fan",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=26874726"
-  },
-  {
-    "title": "Preparing Rustls for Wider Adoption",
-    "url": "https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/",
     "upvotes": 186,
-    "author": "jaas",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26875551"
+    "author": "st3fan",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=26874726"
   },
   {
     "title": "Show HN: Mongita is to MongoDB as SQLite is to SQL",
     "url": "https://github.com/scottrogowski/mongita",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "scottrogowski",
-    "comments": 8,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26881915"
   },
   {
-    "title": "Margin Notes: Automatic documentation with recorded examples from runtime",
-    "url": "https://www.geoffreylitt.com/margin-notes/",
-    "upvotes": 18,
-    "author": "yellowyacht",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26877443"
-  },
-  {
-    "title": "Car Connectivity Consortium",
-    "url": "https://carconnectivity.org/",
-    "upvotes": 23,
-    "author": "Austin_Conlon",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26873203"
-  },
-  {
-    "title": "Include-what-you-use: A tool to analyze includes in C and C++ source files",
-    "url": "https://include-what-you-use.org/",
-    "upvotes": 112,
-    "author": "st_goliath",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=26875353"
+    "title": "Preparing Rustls for Wider Adoption",
+    "url": "https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/",
+    "upvotes": 188,
+    "author": "jaas",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26875551"
   },
   {
     "title": "Show HN: Ruby code and tools for animating Voronoi diagrams",
     "url": "https://github.com/mike-bourgeous/mb-geometry",
-    "upvotes": 8,
+    "upvotes": 10,
     "author": "nitrogen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26871080"
   },
   {
+    "title": "Car Connectivity Consortium",
+    "url": "https://carconnectivity.org/",
+    "upvotes": 26,
+    "author": "Austin_Conlon",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26873203"
+  },
+  {
+    "title": "Margin Notes: Automatic documentation with recorded examples from runtime",
+    "url": "https://www.geoffreylitt.com/margin-notes/",
+    "upvotes": 22,
+    "author": "yellowyacht",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26877443"
+  },
+  {
+    "title": "Include-what-you-use: A tool to analyze includes in C and C++ source files",
+    "url": "https://include-what-you-use.org/",
+    "upvotes": 114,
+    "author": "st_goliath",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=26875353"
+  },
+  {
     "title": "YouTube CEO Susan Wojcicki Gets 'Freedom Expression' Award Sponsored by YouTube",
     "url": "https://www.newsweek.com/youtube-ceo-susan-wojcicki-gets-freedom-expression-award-sponsored-youtube-1585147",
-    "upvotes": 292,
+    "upvotes": 320,
     "author": "arprocter",
-    "comments": 89,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=26880582"
   },
   {
-    "title": "Mastodon Renaming “Toots” to “Posts”",
-    "url": "https://github.com/tootsuite/mastodon/pull/16080",
-    "upvotes": 82,
-    "author": "pitermach",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26882318"
+    "title": "Rise of the 10x Class",
+    "url": "https://www.drorpoleg.com/rise-of-the-10x-class/",
+    "upvotes": 9,
+    "author": "dylkil",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26882851"
   },
   {
     "title": "Facebook wants to 'normalize' the mass scraping of personal data",
     "url": "https://www.vice.com/en/article/7kvp7y/facebook-normalize-mass-scraping-personal-data",
-    "upvotes": 152,
+    "upvotes": 162,
     "author": "gbrown_",
-    "comments": 39,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26879315"
-  },
-  {
-    "title": "Sunny Land – A WebGL Playground Platformer",
-    "url": "https://github.com/passiomatic/sunny-land",
-    "upvotes": 12,
-    "author": "timf",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26866357"
-  },
-  {
-    "title": "Reading the AGPL",
-    "url": "https://writing.kemitchell.com/2021/01/24/Reading-AGPL.html",
-    "upvotes": 83,
-    "author": "sealeck",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=26880212"
   },
   {
     "title": "Heating Water with Fire",
@@ -212,27 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26860244"
   },
   {
+    "title": "Reading the AGPL",
+    "url": "https://writing.kemitchell.com/2021/01/24/Reading-AGPL.html",
+    "upvotes": 88,
+    "author": "sealeck",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26880212"
+  },
+  {
+    "title": "Sunny Land – A WebGL Playground Platformer",
+    "url": "https://github.com/passiomatic/sunny-land",
+    "upvotes": 12,
+    "author": "timf",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26866357"
+  },
+  {
     "title": "Software designers, not engineers: An interview from alternative universe",
     "url": "http://tomasp.net/blog/2021/software-designers/",
-    "upvotes": 123,
+    "upvotes": 124,
     "author": "spdegabrielle",
-    "comments": 42,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=26873304"
   },
   {
-    "title": "Cicoparser: Full game reverse engineering [video]",
-    "url": "https://www.youtube.com/watch?v=4fAeUx8A-OE",
-    "upvotes": 49,
-    "author": "gabonator",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26870807"
-  },
-  {
-    "title": "The Endless Acid Banger: algorithmic self-composing acid techno music",
-    "url": "https://www.vitling.xyz/toys/acid-banger/",
-    "upvotes": 1001,
-    "author": "clomond",
-    "comments": 234,
-    "link": "https://news.ycombinator.com/item?id=26870666"
+    "title": "Mastodon Renaming “Toots” to “Posts”",
+    "url": "https://github.com/tootsuite/mastodon/pull/16080",
+    "upvotes": 90,
+    "author": "pitermach",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26882318"
   }
 ]
