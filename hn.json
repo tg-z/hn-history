@@ -1,140 +1,124 @@
 [
   {
-    "title": "“They introduce kernel bugs on purpose”",
-    "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
-    "upvotes": 576,
-    "author": "kdbg",
-    "comments": 346,
-    "link": "https://news.ycombinator.com/item?id=26887670"
-  },
-  {
-    "title": "Linux: Don't get me started on “executives”",
-    "url": "https://lore.kernel.org/lkml/YH5tAqLr965MNZyW@kroah.com/",
-    "upvotes": 41,
-    "author": "cassepipe",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26888373"
-  },
-  {
-    "title": "Daily Mail owner sues Google over search results",
-    "url": "https://www.bbc.co.uk/news/business-56828173",
-    "upvotes": 64,
-    "author": "fredoralive",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=26887451"
-  },
-  {
     "title": "Hunting down the stuck BGP routes",
     "url": "https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window",
-    "upvotes": 43,
+    "upvotes": 65,
     "author": "bswinnerton",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26887658"
   },
   {
-    "title": "Prisma – The Complete ORM for Node.js and TypeScript",
+    "title": "Prisma – A Complete ORM for Node.js and TypeScript",
     "url": "https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb",
-    "upvotes": 115,
+    "upvotes": 146,
     "author": "Sujan",
-    "comments": 77,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=26887724"
+  },
+  {
+    "title": "Beam VM Wisdoms",
+    "url": "http://beam-wisdoms.clau.se/en/latest/",
+    "upvotes": 7,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26889048"
   },
   {
     "title": "Netdata: Open-source real-time monitoring platform",
     "url": "https://github.com/netdata/netdata",
-    "upvotes": 119,
+    "upvotes": 127,
     "author": "dvfjsdhgfv",
-    "comments": 32,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26886792"
+  },
+  {
+    "title": "“They introduce kernel bugs on purpose”",
+    "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
+    "upvotes": 674,
+    "author": "kdbg",
+    "comments": 411,
+    "link": "https://news.ycombinator.com/item?id=26887670"
+  },
+  {
+    "title": "Show HN: Exactly-once delivery counter using Watermill messaging library",
+    "url": "https://github.com/ThreeDotsLabs/watermill/tree/exactly-once-delivery-example/_examples/real-world-examples/exactly-once-delivery-counter",
+    "upvotes": 11,
+    "author": "roblaszczak",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26888303"
+  },
+  {
+    "title": "Apple Now Selling More M1 Macs Than Intel-Based Models, Says Tim Cook",
+    "url": "https://www.macrumors.com/2021/04/21/apple-silicon-mac-sales-intel/",
+    "upvotes": 26,
+    "author": "tonyedgecombe",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26888692"
   },
   {
     "title": "Memberstack",
     "url": "https://www.ycombinator.com/companies/memberstack/jobs/h1Dwhw8-technical-recruiter-contract"
   },
   {
-    "title": "UK government intervenes in Nvidia takeover of chip designer Arm",
-    "url": "https://www.bbc.com/news/business-56804007",
-    "upvotes": 43,
-    "author": "tyrbentsen",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26886757"
-  },
-  {
     "title": "Write Your First Quantum Program",
     "url": "https://lambdafaktorie.com/how-to-write-your-first-quantum-program/",
-    "upvotes": 47,
+    "upvotes": 55,
     "author": "medo-bear",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26873119"
-  },
-  {
-    "title": "Show HN: Exactly-once delivery counter using Watermill messaging library",
-    "url": "https://github.com/ThreeDotsLabs/watermill/tree/exactly-once-delivery-example/_examples/real-world-examples/exactly-once-delivery-counter",
-    "upvotes": 7,
-    "author": "roblaszczak",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26888303"
   },
   {
     "title": "Show HN: High-speed UTF-8 validation in Rust",
     "url": "https://github.com/rusticstuff/simdutf8",
-    "upvotes": 26,
+    "upvotes": 35,
     "author": "kryps",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26887438"
+  },
+  {
+    "title": "Daily Mail owner sues Google over search results",
+    "url": "https://www.bbc.co.uk/news/business-56828173",
+    "upvotes": 71,
+    "author": "fredoralive",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=26887451"
   },
   {
     "title": "Tetris-OS: An operating system that only plays Tetris",
     "url": "https://github.com/jdah/tetris-os",
-    "upvotes": 270,
+    "upvotes": 272,
     "author": "cconger",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26883645"
   },
   {
-    "title": "US owners find American-style greed doesn't play well in European soccer",
-    "url": "https://eu.usatoday.com/story/sports/columnist/nancy-armour/2021/04/20/european-super-league-us-owners-find-greed-doesnt-work-europe/7310165002/",
-    "upvotes": 40,
-    "author": "bdz",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26888093"
+    "title": "Show HN: sheet2dict – simple Python XLSX/CSV reader/to dictionary converter",
+    "url": "https://github.com/Pytlicek/sheet2dict",
+    "upvotes": 17,
+    "author": "pytlicek",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26887162"
   },
   {
     "title": "Porting Doom to the Fastly edge serverless platform",
     "url": "https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom",
-    "upvotes": 123,
+    "upvotes": 128,
     "author": "kickdaddy",
-    "comments": 31,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26872944"
   },
   {
     "title": "Quantum astronomy could create telescopes hundreds of kilometers wide",
     "url": "https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/",
-    "upvotes": 105,
+    "upvotes": 109,
     "author": "pseudolus",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26884502"
-  },
-  {
-    "title": "Show HN: sheet2dict – simple Python XLSX/CSV reader/to dictionary converter",
-    "url": "https://github.com/Pytlicek/sheet2dict",
-    "upvotes": 10,
-    "author": "pytlicek",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26887162"
-  },
-  {
-    "title": ".NET MAUI: .NET Multi-Platform App UI",
-    "url": "https://github.com/dotnet/maui",
-    "upvotes": 316,
-    "author": "evo_9",
-    "comments": 215,
-    "link": "https://news.ycombinator.com/item?id=26882185"
   },
   {
     "title": "Assembly vs. Intrinsics",
     "url": "https://danluu.com/assembly-intrinsics/",
-    "upvotes": 41,
+    "upvotes": 44,
     "author": "lelf",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26877076"
@@ -148,91 +132,107 @@
     "link": "https://news.ycombinator.com/item?id=26873691"
   },
   {
-    "title": "Apple Now Selling More M1 Macs Than Intel-Based Models, Says Tim Cook",
-    "url": "https://www.macrumors.com/2021/04/21/apple-silicon-mac-sales-intel/",
-    "upvotes": 5,
-    "author": "tonyedgecombe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26888692"
-  },
-  {
-    "title": "Lisp in Forth",
-    "url": "https://github.com/schani/forthlisp",
-    "upvotes": 141,
-    "author": "tosh",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26882117"
+    "title": "Apple Introduces AirTag",
+    "url": "https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/",
+    "upvotes": 836,
+    "author": "davidbarker",
+    "comments": 783,
+    "link": "https://news.ycombinator.com/item?id=26877484"
   },
   {
     "title": "A library of formalised undecidable problems in Coq",
     "url": "https://uds-psl.github.io/tm-verification-framework/",
-    "upvotes": 33,
+    "upvotes": 38,
     "author": "zaik",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26860503"
   },
   {
-    "title": "Apple Introduces AirTag",
-    "url": "https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/",
-    "upvotes": 830,
-    "author": "davidbarker",
-    "comments": 777,
-    "link": "https://news.ycombinator.com/item?id=26877484"
+    "title": "Unreleased MacBook Schematics Stolen in $50M Ransomware Attack on Apple Supplier",
+    "url": "https://www.macrumors.com/2021/04/21/apple-supplier-ransomware-attack/",
+    "upvotes": 4,
+    "author": "sahin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26888977"
   },
   {
-    "title": "Show HN: Mongita is to MongoDB as SQLite is to SQL",
-    "url": "https://github.com/scottrogowski/mongita",
-    "upvotes": 108,
-    "author": "scottrogowski",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=26881915"
+    "title": "US owners find American-style greed doesn't play well in European soccer",
+    "url": "https://eu.usatoday.com/story/sports/columnist/nancy-armour/2021/04/20/european-super-league-us-owners-find-greed-doesnt-work-europe/7310165002/",
+    "upvotes": 63,
+    "author": "bdz",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26888093"
   },
   {
-    "title": "Our Funniest Front-End Bugs",
-    "url": "https://medium.com/thron-tech/our-funniest-front-end-bugs-eb374b4d6ebc",
-    "upvotes": 30,
-    "author": "behoove",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26871521"
+    "title": "Airbus pioneers a superconducting powertrain cooled by liquid hydrogen",
+    "url": "https://newatlas.com/aircraft/airbus-liquid-hydrogen-cryogenic-superconductivity/",
+    "upvotes": 4,
+    "author": "sahin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26888904"
   },
   {
     "title": "Continued Fractions in Haskell",
     "url": "https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f",
     "upvotes": 78,
     "author": "gbrown_",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26872463"
-  },
-  {
-    "title": "Show HN: Ruby code and tools for animating Voronoi diagrams",
-    "url": "https://github.com/mike-bourgeous/mb-geometry",
-    "upvotes": 60,
-    "author": "nitrogen",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26871080"
   },
   {
     "title": "Git from the Bottom Up",
     "url": "https://jwiegley.github.io/git-from-the-bottom-up/",
-    "upvotes": 176,
+    "upvotes": 178,
     "author": "sharjeelsayed",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26884318"
   },
   {
+    "title": "Show HN: Ruby code and tools for animating Voronoi diagrams",
+    "url": "https://github.com/mike-bourgeous/mb-geometry",
+    "upvotes": 62,
+    "author": "nitrogen",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26871080"
+  },
+  {
     "title": "Show HN: I'm working on a open-source, self-hosted alternative to Disqus",
     "url": "https://cusdis.com",
-    "upvotes": 379,
+    "upvotes": 383,
     "author": "djyde",
-    "comments": 145,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=26878153"
   },
   {
     "title": "Show HN: Manuzoid – Database of More Than 1M Manuals",
     "url": "https://manuzoid.com/",
-    "upvotes": 187,
+    "upvotes": 195,
     "author": "bitgur",
-    "comments": 21,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26872808"
+  },
+  {
+    "title": ".NET MAUI: .NET Multi-Platform App UI",
+    "url": "https://github.com/dotnet/maui",
+    "upvotes": 321,
+    "author": "evo_9",
+    "comments": 221,
+    "link": "https://news.ycombinator.com/item?id=26882185"
+  },
+  {
+    "title": "Prototype Pollution",
+    "url": "https://portswigger.net/daily-swig/prototype-pollution-the-dangerous-and-underrated-vulnerability-impacting-javascript-applications",
+    "upvotes": 29,
+    "author": "valand",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26872281"
+  },
+  {
+    "title": "The Endless Acid Banger: algorithmic self-composing acid techno music",
+    "url": "https://www.vitling.xyz/toys/acid-banger/",
+    "upvotes": 1063,
+    "author": "clomond",
+    "comments": 248,
+    "link": "https://news.ycombinator.com/item?id=26870666"
   }
 ]
