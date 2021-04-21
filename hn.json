@@ -2,165 +2,181 @@
   {
     "title": "Beam VM Wisdoms",
     "url": "http://beam-wisdoms.clau.se/en/latest/",
-    "upvotes": 41,
+    "upvotes": 66,
     "author": "Tomte",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26889048"
-  },
-  {
-    "title": "Hunting down the stuck BGP routes",
-    "url": "https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window",
-    "upvotes": 82,
-    "author": "bswinnerton",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26887658"
-  },
-  {
-    "title": "I will now ban all future contributions from your University",
-    "url": "https://lore.kernel.org/linux-nfs/YH%2FfM%2FTsbmcZzwnX@kroah.com/",
-    "upvotes": 30,
-    "author": "ColinWright",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26889381"
-  },
-  {
-    "title": "Apple Now Selling More M1 Macs Than Intel-Based Models, Says Tim Cook",
-    "url": "https://www.macrumors.com/2021/04/21/apple-silicon-mac-sales-intel/",
-    "upvotes": 76,
-    "author": "tonyedgecombe",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26888692"
   },
   {
     "title": "Tracking the WhatsApp habits of 5000 random Smartphones",
     "url": "https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2",
-    "upvotes": 21,
+    "upvotes": 41,
     "author": "jorislacance",
-    "comments": 3,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26889139"
+  },
+  {
+    "title": "Hunting down the stuck BGP routes",
+    "url": "https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window",
+    "upvotes": 94,
+    "author": "bswinnerton",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26887658"
   },
   {
     "title": "Prisma – A Complete ORM for Node.js and TypeScript",
     "url": "https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb",
-    "upvotes": 169,
+    "upvotes": 187,
     "author": "Sujan",
-    "comments": 105,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=26887724"
-  },
-  {
-    "title": "Netdata: Open-source real-time monitoring platform",
-    "url": "https://github.com/netdata/netdata",
-    "upvotes": 142,
-    "author": "dvfjsdhgfv",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=26886792"
   },
   {
     "title": "“They introduce kernel bugs on purpose”",
     "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
-    "upvotes": 778,
+    "upvotes": 861,
     "author": "kdbg",
-    "comments": 447,
+    "comments": 482,
     "link": "https://news.ycombinator.com/item?id=26887670"
+  },
+  {
+    "title": "How many x86 instructions are there?",
+    "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
+    "upvotes": 11,
+    "author": "sandinmyjoints",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26889108"
+  },
+  {
+    "title": "Apple Now Selling More M1 Macs Than Intel-Based Models, Says Tim Cook",
+    "url": "https://www.macrumors.com/2021/04/21/apple-silicon-mac-sales-intel/",
+    "upvotes": 95,
+    "author": "tonyedgecombe",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26888692"
+  },
+  {
+    "title": "Netdata: Open-source real-time monitoring platform",
+    "url": "https://github.com/netdata/netdata",
+    "upvotes": 145,
+    "author": "dvfjsdhgfv",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26886792"
+  },
+  {
+    "title": "Show HN: High-speed UTF-8 validation in Rust",
+    "url": "https://github.com/rusticstuff/simdutf8",
+    "upvotes": 46,
+    "author": "kryps",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26887438"
   },
   {
     "title": "Memberstack",
     "url": "https://www.ycombinator.com/companies/memberstack/jobs/h1Dwhw8-technical-recruiter-contract"
   },
   {
-    "title": "Show HN: High-speed UTF-8 validation in Rust",
-    "url": "https://github.com/rusticstuff/simdutf8",
-    "upvotes": 45,
-    "author": "kryps",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26887438"
+    "title": "Italian ‘king of absentees’ allegedly skipped work for 15 years",
+    "url": "https://www.theguardian.com/world/2021/apr/21/italian-king-of-absentees-allegedly-skipped-work-for-15-years",
+    "upvotes": 33,
+    "author": "mathieuh",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26889281"
+  },
+  {
+    "title": "Write Your First Quantum Program",
+    "url": "https://lambdafaktorie.com/how-to-write-your-first-quantum-program/",
+    "upvotes": 65,
+    "author": "medo-bear",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26873119"
+  },
+  {
+    "title": "Smart Contract Security for Pentesters",
+    "url": "https://iosiro.com/blog/smart-contract-security-pentesters",
+    "upvotes": 16,
+    "author": "dyates",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26888421"
+  },
+  {
+    "title": "Starting a New Digital Identity",
+    "url": "https://k3tan.com/starting-a-new-digital-identity",
+    "upvotes": 16,
+    "author": "noch",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26888067"
   },
   {
     "title": "Show HN: Exactly-once delivery counter using Watermill messaging library",
     "url": "https://github.com/ThreeDotsLabs/watermill/tree/exactly-once-delivery-example/_examples/real-world-examples/exactly-once-delivery-counter",
     "upvotes": 14,
     "author": "roblaszczak",
-    "comments": 3,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26888303"
-  },
-  {
-    "title": "Write Your First Quantum Program",
-    "url": "https://lambdafaktorie.com/how-to-write-your-first-quantum-program/",
-    "upvotes": 63,
-    "author": "medo-bear",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26873119"
-  },
-  {
-    "title": "Italian ‘king of absentees’ allegedly skipped work for 15 years",
-    "url": "https://www.theguardian.com/world/2021/apr/21/italian-king-of-absentees-allegedly-skipped-work-for-15-years",
-    "upvotes": 18,
-    "author": "mathieuh",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26889281"
   },
   {
     "title": "Tetris-OS: An operating system that only plays Tetris",
     "url": "https://github.com/jdah/tetris-os",
-    "upvotes": 276,
+    "upvotes": 278,
     "author": "cconger",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=26883645"
   },
   {
-    "title": "How many x86 instructions are there?",
-    "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
-    "upvotes": 4,
-    "author": "sandinmyjoints",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26889108"
-  },
-  {
     "title": "Unreleased MacBook Schematics Stolen in $50M Ransomware Attack on Apple Supplier",
     "url": "https://www.macrumors.com/2021/04/21/apple-supplier-ransomware-attack/",
-    "upvotes": 26,
+    "upvotes": 33,
     "author": "sahin",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26888977"
-  },
-  {
-    "title": "Daily Mail owner sues Google over search results",
-    "url": "https://www.bbc.co.uk/news/business-56828173",
-    "upvotes": 77,
-    "author": "fredoralive",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=26887451"
-  },
-  {
-    "title": "Smart Contract Security for Pentesters",
-    "url": "https://iosiro.com/blog/smart-contract-security-pentesters",
-    "upvotes": 9,
-    "author": "dyates",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26888421"
   },
   {
     "title": "_hyperscript: A jQuery and JavaScript Alternative",
     "url": "https://hyperscript.org/comparison/",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "recursivedoubts",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26873682"
   },
   {
     "title": "Show HN: sheet2dict – simple Python XLSX/CSV reader/to dictionary converter",
     "url": "https://github.com/Pytlicek/sheet2dict",
-    "upvotes": 24,
+    "upvotes": 29,
     "author": "pytlicek",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26887162"
+  },
+  {
+    "title": "Starting a TypeScript Project in 2021",
+    "url": "https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/",
+    "upvotes": 19,
+    "author": "majodev",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26888455"
+  },
+  {
+    "title": "Old-growth forest carbon sinks overestimated",
+    "url": "https://www.nature.com/articles/s41586-021-03266-z",
+    "upvotes": 8,
+    "author": "tokai",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26888189"
+  },
+  {
+    "title": "Daily Mail owner sues Google over search results",
+    "url": "https://www.bbc.co.uk/news/business-56828173",
+    "upvotes": 78,
+    "author": "fredoralive",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26887451"
   },
   {
     "title": "Porting Doom to the Fastly edge serverless platform",
     "url": "https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom",
     "upvotes": 131,
     "author": "kickdaddy",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26872944"
   },
   {
@@ -168,37 +184,29 @@
     "url": "https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/",
     "upvotes": 113,
     "author": "pseudolus",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26884502"
   },
   {
     "title": "NASA Makes Nuclear Fusion Breakthrough: State of Nuclear Fusion",
     "url": "https://www.popularmechanics.com/science/energy/a34096117/nasa-nuclear-lattice-confiment-fusion/",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "yellowyacht",
-    "comments": 2,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26889247"
   },
   {
     "title": "Assembly vs. Intrinsics",
     "url": "https://danluu.com/assembly-intrinsics/",
-    "upvotes": 47,
+    "upvotes": 48,
     "author": "lelf",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26877076"
   },
   {
-    "title": "Starting a TypeScript Project in 2021",
-    "url": "https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/",
-    "upvotes": 11,
-    "author": "majodev",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26888455"
-  },
-  {
     "title": "Massively Parallel Rendering of Complex Closed-Form Implicit Surfaces",
     "url": "https://www.mattkeeter.com/research/mpr/",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "vg_head",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26873691"
@@ -206,33 +214,25 @@
   {
     "title": "Apple Introduces AirTag",
     "url": "https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/",
-    "upvotes": 848,
+    "upvotes": 854,
     "author": "davidbarker",
-    "comments": 790,
+    "comments": 796,
     "link": "https://news.ycombinator.com/item?id=26877484"
+  },
+  {
+    "title": "Airbus pioneers a superconducting powertrain cooled by liquid hydrogen",
+    "url": "https://newatlas.com/aircraft/airbus-liquid-hydrogen-cryogenic-superconductivity/",
+    "upvotes": 23,
+    "author": "sahin",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26888904"
   },
   {
     "title": "A library of formalised undecidable problems in Coq",
     "url": "https://uds-psl.github.io/tm-verification-framework/",
     "upvotes": 39,
     "author": "zaik",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26860503"
-  },
-  {
-    "title": "Airbus pioneers a superconducting powertrain cooled by liquid hydrogen",
-    "url": "https://newatlas.com/aircraft/airbus-liquid-hydrogen-cryogenic-superconductivity/",
-    "upvotes": 18,
-    "author": "sahin",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26888904"
-  },
-  {
-    "title": "Continued Fractions in Haskell",
-    "url": "https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f",
-    "upvotes": 81,
-    "author": "gbrown_",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26872463"
   }
 ]
