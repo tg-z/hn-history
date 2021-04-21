@@ -1,64 +1,88 @@
 [
   {
+    "title": "“They introduce kernel bugs on purpose”",
+    "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
+    "upvotes": 129,
+    "author": "kdbg",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26887670"
+  },
+  {
     "title": "Daily Mail owner sues Google over search results",
     "url": "https://www.bbc.co.uk/news/business-56828173",
-    "upvotes": 16,
+    "upvotes": 34,
     "author": "fredoralive",
-    "comments": 12,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26887451"
+  },
+  {
+    "title": "Prisma – The Complete ORM for Node.js and TypeScript",
+    "url": "https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb",
+    "upvotes": 12,
+    "author": "Sujan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26887724"
   },
   {
     "title": "Netdata: Open-source real-time monitoring platform",
     "url": "https://github.com/netdata/netdata",
-    "upvotes": 62,
+    "upvotes": 72,
     "author": "dvfjsdhgfv",
-    "comments": 17,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26886792"
-  },
-  {
-    "title": "Tetris-OS: An operating system that only plays Tetris",
-    "url": "https://github.com/jdah/tetris-os",
-    "upvotes": 248,
-    "author": "cconger",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=26883645"
   },
   {
     "title": "Write Your First Quantum Program",
     "url": "https://lambdafaktorie.com/how-to-write-your-first-quantum-program/",
-    "upvotes": 21,
+    "upvotes": 30,
     "author": "medo-bear",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26873119"
   },
   {
+    "title": "Tetris-OS: An operating system that only plays Tetris",
+    "url": "https://github.com/jdah/tetris-os",
+    "upvotes": 251,
+    "author": "cconger",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=26883645"
+  },
+  {
+    "title": "Hunting down the stuck BGP routes",
+    "url": "https://blog.benjojo.co.uk/post/bgp-stuck-routes-tcp-zero-window",
+    "upvotes": 3,
+    "author": "bswinnerton",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26887658"
+  },
+  {
     "title": "Porting Doom to the Fastly edge serverless platform",
     "url": "https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom",
-    "upvotes": 107,
+    "upvotes": 111,
     "author": "kickdaddy",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26872944"
   },
   {
     "title": ".NET MAUI: .NET Multi-Platform App UI",
     "url": "https://github.com/dotnet/maui",
-    "upvotes": 301,
+    "upvotes": 307,
     "author": "evo_9",
-    "comments": 204,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=26882185"
   },
   {
     "title": "Quantum astronomy could create telescopes hundreds of kilometers wide",
     "url": "https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/",
-    "upvotes": 86,
+    "upvotes": 90,
     "author": "pseudolus",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26884502"
   },
   {
     "title": "Show HN: Manuzoid – Database of More Than 1M Manuals",
     "url": "https://manuzoid.com/",
-    "upvotes": 171,
+    "upvotes": 173,
     "author": "bitgur",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26872808"
@@ -66,42 +90,50 @@
   {
     "title": "Massively Parallel Rendering of Complex Closed-Form Implicit Surfaces",
     "url": "https://www.mattkeeter.com/research/mpr/",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "vg_head",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26873691"
   },
   {
-    "title": "Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub",
-    "url": "https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/",
-    "upvotes": 78,
-    "author": "tosh",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=26886846"
+    "title": "Show HN:I personally created a web service in japan. Please review if you like.",
+    "url": "https://note.com/url_wiki/n/n3d5c9b9cba68",
+    "upvotes": 17,
+    "author": "mTano",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26886485"
+  },
+  {
+    "title": "Assembly vs. Intrinsics",
+    "url": "https://danluu.com/assembly-intrinsics/",
+    "upvotes": 24,
+    "author": "lelf",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26877076"
   },
   {
     "title": "Lisp in Forth",
     "url": "https://github.com/schani/forthlisp",
-    "upvotes": 131,
+    "upvotes": 132,
     "author": "tosh",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26882117"
   },
   {
-    "title": "Show HN:I personally created a web service in japan. Please review if you like.",
-    "url": "https://note.com/url_wiki/n/n3d5c9b9cba68",
-    "upvotes": 15,
-    "author": "mTano",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26886485"
-  },
-  {
     "title": "Apple Introduces AirTag",
     "url": "https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/",
-    "upvotes": 806,
+    "upvotes": 811,
     "author": "davidbarker",
-    "comments": 744,
+    "comments": 749,
     "link": "https://news.ycombinator.com/item?id=26877484"
+  },
+  {
+    "title": "Belarusian regime’s thugs shut down Imaguru, the country’s key startup hub",
+    "url": "https://techcrunch.com/2021/04/20/belarusian-regimes-thugs-shut-down-imaguru-the-countrys-key-startup-hub/",
+    "upvotes": 88,
+    "author": "tosh",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=26886846"
   },
   {
     "title": "Tongue Twisters: In search of the world’s hardest language",
@@ -112,68 +144,60 @@
     "link": "https://news.ycombinator.com/item?id=26883244"
   },
   {
-    "title": "Assembly vs. Intrinsics",
-    "url": "https://danluu.com/assembly-intrinsics/",
-    "upvotes": 17,
-    "author": "lelf",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26877076"
-  },
-  {
-    "title": "The Landlord's Game",
-    "url": "https://en.wikipedia.org/wiki/The_Landlord%27s_Game",
-    "upvotes": 166,
-    "author": "mmlkrx",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=26881799"
-  },
-  {
     "title": "Show HN: Mongita is to MongoDB as SQLite is to SQL",
     "url": "https://github.com/scottrogowski/mongita",
-    "upvotes": 94,
+    "upvotes": 99,
     "author": "scottrogowski",
-    "comments": 69,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26881915"
   },
   {
     "title": "Continued Fractions in Haskell",
     "url": "https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f",
-    "upvotes": 70,
+    "upvotes": 74,
     "author": "gbrown_",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26872463"
   },
   {
-    "title": "Our Funniest Front-End Bugs",
-    "url": "https://medium.com/thron-tech/our-funniest-front-end-bugs-eb374b4d6ebc",
-    "upvotes": 23,
-    "author": "behoove",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26871521"
+    "title": "The Landlord's Game",
+    "url": "https://en.wikipedia.org/wiki/The_Landlord%27s_Game",
+    "upvotes": 171,
+    "author": "mmlkrx",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=26881799"
   },
   {
     "title": "Git from the Bottom Up",
     "url": "https://jwiegley.github.io/git-from-the-bottom-up/",
-    "upvotes": 158,
+    "upvotes": 161,
     "author": "sharjeelsayed",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26884318"
   },
   {
-    "title": ".NET for Beginners",
-    "url": "https://dusted.codes/dotnet-for-beginners",
-    "upvotes": 164,
-    "author": "dustinmoris",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=26882606"
+    "title": "Our Funniest Front-End Bugs",
+    "url": "https://medium.com/thron-tech/our-funniest-front-end-bugs-eb374b4d6ebc",
+    "upvotes": 25,
+    "author": "behoove",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26871521"
   },
   {
-    "title": "‘It is much worse this time’: India’s devastating second wave",
-    "url": "https://www.ft.com/content/683914a3-134f-40b6-989b-21e0ba1dc403",
-    "upvotes": 55,
-    "author": "DanBC",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26886829"
+    "title": "Show HN: I'm working on a open-source, self-hosted alternative to Disqus",
+    "url": "https://cusdis.com",
+    "upvotes": 363,
+    "author": "djyde",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=26878153"
+  },
+  {
+    "title": "Pulumi 3.0",
+    "url": "https://www.pulumi.com/blog/pulumi-3-0/",
+    "upvotes": 298,
+    "author": "bovermyer",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=26880935"
   },
   {
     "title": "Prototype Pollution",
@@ -184,25 +208,17 @@
     "link": "https://news.ycombinator.com/item?id=26872281"
   },
   {
-    "title": "Show HN: I'm working on a open-source, self-hosted alternative to Disqus",
-    "url": "https://cusdis.com",
-    "upvotes": 357,
-    "author": "djyde",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=26878153"
-  },
-  {
-    "title": "Pulumi 3.0",
-    "url": "https://www.pulumi.com/blog/pulumi-3-0/",
-    "upvotes": 296,
-    "author": "bovermyer",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=26880935"
+    "title": ".NET for Beginners",
+    "url": "https://dusted.codes/dotnet-for-beginners",
+    "upvotes": 167,
+    "author": "dustinmoris",
+    "comments": 122,
+    "link": "https://news.ycombinator.com/item?id=26882606"
   },
   {
     "title": "Show HN: Ruby code and tools for animating Voronoi diagrams",
     "url": "https://github.com/mike-bourgeous/mb-geometry",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "nitrogen",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26871080"
@@ -214,25 +230,9 @@
   {
     "title": "Has a remote Amazonian tribe upended our understanding of language?",
     "url": "https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2",
-    "upvotes": 45,
+    "upvotes": 46,
     "author": "benbreen",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=26868259"
-  },
-  {
-    "title": "The Greshm System [pdf]",
-    "url": "https://www.greshm.org/files/greshm.pdf",
-    "upvotes": 20,
-    "author": "Suncho",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26884532"
-  },
-  {
-    "title": "The Endless Acid Banger: algorithmic self-composing acid techno music",
-    "url": "https://www.vitling.xyz/toys/acid-banger/",
-    "upvotes": 1055,
-    "author": "clomond",
-    "comments": 246,
-    "link": "https://news.ycombinator.com/item?id=26870666"
   }
 ]
