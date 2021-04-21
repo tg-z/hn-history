@@ -2,79 +2,79 @@
   {
     "title": "Tetris-OS: An operating system that only plays Tetris",
     "url": "https://github.com/jdah/tetris-os",
-    "upvotes": 67,
+    "upvotes": 83,
     "author": "cconger",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26883645"
-  },
-  {
-    "title": ".NET MAUI: .NET Multi-Platform App UI",
-    "url": "https://github.com/dotnet/maui",
-    "upvotes": 183,
-    "author": "evo_9",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=26882185"
   },
   {
     "title": "Apple Introduces AirTag",
     "url": "https://www.apple.com/newsroom/2021/04/apple-introduces-airtag/",
-    "upvotes": 595,
+    "upvotes": 608,
     "author": "davidbarker",
-    "comments": 551,
+    "comments": 568,
     "link": "https://news.ycombinator.com/item?id=26877484"
+  },
+  {
+    "title": ".NET MAUI: .NET Multi-Platform App UI",
+    "url": "https://github.com/dotnet/maui",
+    "upvotes": 189,
+    "author": "evo_9",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=26882185"
   },
   {
     "title": ".NET for Beginners",
     "url": "https://dusted.codes/dotnet-for-beginners",
-    "upvotes": 91,
+    "upvotes": 98,
     "author": "dustinmoris",
-    "comments": 61,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=26882606"
+  },
+  {
+    "title": "Show HN: I'm working on a open-source, self-hosted alternative to Disqus",
+    "url": "https://cusdis.com",
+    "upvotes": 275,
+    "author": "djyde",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26878153"
+  },
+  {
+    "title": "Grafana, Loki, and Tempo will be relicensed to AGPLv3",
+    "url": "https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/",
+    "upvotes": 577,
+    "author": "WalterSobchak",
+    "comments": 404,
+    "link": "https://news.ycombinator.com/item?id=26877528"
+  },
+  {
+    "title": "Augmented Reality Will Be Awful",
+    "url": "https://www.danielsisson.com/articles/augmented-reality-will-be-awful",
+    "upvotes": 29,
+    "author": "dsisson",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26884254"
   },
   {
     "title": "The Greshm System [pdf]",
     "url": "https://www.greshm.org/files/greshm.pdf",
     "upvotes": 5,
     "author": "Suncho",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26884532"
-  },
-  {
-    "title": "Show HN: I'm working on a open-source, self-hosted alternative to Disqus",
-    "url": "https://cusdis.com",
-    "upvotes": 267,
-    "author": "djyde",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=26878153"
-  },
-  {
-    "title": "Grafana, Loki, and Tempo will be relicensed to AGPLv3",
-    "url": "https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/",
-    "upvotes": 570,
-    "author": "WalterSobchak",
-    "comments": 403,
-    "link": "https://news.ycombinator.com/item?id=26877528"
   },
   {
     "title": "Lisp in Forth",
     "url": "https://github.com/schani/forthlisp",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "tosh",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26882117"
-  },
-  {
-    "title": "Augmented Reality Will Be Awful",
-    "url": "https://www.danielsisson.com/articles/augmented-reality-will-be-awful",
-    "upvotes": 21,
-    "author": "dsisson",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26884254"
   },
   {
     "title": "Show HN: Manuzoid – Database of More Than 1M Manuals",
     "url": "https://manuzoid.com/",
-    "upvotes": 62,
+    "upvotes": 68,
     "author": "bitgur",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26872808"
@@ -82,47 +82,55 @@
   {
     "title": "Charm delivers Stripe's carbon removal purchase ahead of schedule",
     "url": "https://charmindustrial.com/blog/2021/4/19/charm-announces-ahead-of-schedule-delivery-of-stripes-carbon-removal-purchase",
-    "upvotes": 145,
+    "upvotes": 148,
     "author": "etxm",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26874619"
   },
   {
     "title": "Discord ends deal talks with Microsoft",
     "url": "https://www.wsj.com/articles/discord-ends-deal-talks-with-microsoft-11618938806",
-    "upvotes": 460,
+    "upvotes": 468,
     "author": "coloneltcb",
-    "comments": 381,
+    "comments": 384,
     "link": "https://news.ycombinator.com/item?id=26877526"
   },
   {
     "title": "Continued Fractions in Haskell",
     "url": "https://cdsmithus.medium.com/continued-fractions-haskell-equational-reasoning-property-testing-and-rewrite-rules-in-action-77a16d750e3f",
-    "upvotes": 25,
+    "upvotes": 28,
     "author": "gbrown_",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26872463"
   },
   {
+    "title": "The Landlord's Game",
+    "url": "https://en.wikipedia.org/wiki/The_Landlord%27s_Game",
+    "upvotes": 85,
+    "author": "mmlkrx",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=26881799"
+  },
+  {
     "title": "Pulumi 3.0",
     "url": "https://www.pulumi.com/blog/pulumi-3-0/",
-    "upvotes": 225,
+    "upvotes": 230,
     "author": "bovermyer",
-    "comments": 91,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=26880935"
   },
   {
-    "title": "The Landlord's Game",
-    "url": "https://en.wikipedia.org/wiki/The_Landlord%27s_Game",
-    "upvotes": 80,
-    "author": "mmlkrx",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26881799"
+    "title": "Quantum Astronomy Could Create Telescopes Hundreds of Kilometers Wide",
+    "url": "https://www.scientificamerican.com/article/quantum-astronomy-could-create-telescopes-hundreds-of-kilometers-wide/",
+    "upvotes": 6,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26884502"
   },
   {
     "title": "Remote Code Execution Found in CocoaPods",
     "url": "https://justi.cz/security/2021/04/20/cocoapods-rce.html",
-    "upvotes": 197,
+    "upvotes": 200,
     "author": "st3fan",
     "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26874726"
@@ -136,61 +144,69 @@
     "url": "https://www.nature.com/articles/nrd.2017.243",
     "upvotes": 125,
     "author": "elsewhen",
-    "comments": 116,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=26876195"
+  },
+  {
+    "title": "Has a remote Amazonian tribe upended our understanding of language?",
+    "url": "https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2",
+    "upvotes": 8,
+    "author": "benbreen",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26868259"
   },
   {
     "title": "Show HN: Mongita is to MongoDB as SQLite is to SQL",
     "url": "https://github.com/scottrogowski/mongita",
     "upvotes": 50,
     "author": "scottrogowski",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26881915"
   },
   {
-    "title": "Researcher says he can link Facebook accounts to 5M email addresses per day",
-    "url": "https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/",
-    "upvotes": 30,
-    "author": "pseudolus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26884452"
+    "title": "Show HN: Ruby code and tools for animating Voronoi diagrams",
+    "url": "https://github.com/mike-bourgeous/mb-geometry",
+    "upvotes": 22,
+    "author": "nitrogen",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26871080"
   },
   {
     "title": "Preparing Rustls for Wider Adoption",
     "url": "https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/",
     "upvotes": 197,
     "author": "jaas",
-    "comments": 98,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=26875551"
   },
   {
-    "title": "Has a remote Amazonian tribe upended our understanding of language?",
-    "url": "https://www.newyorker.com/magazine/2007/04/16/the-interpreter-2",
-    "upvotes": 6,
-    "author": "benbreen",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26868259"
+    "title": "Researcher says he can link Facebook accounts to 5M email addresses per day",
+    "url": "https://arstechnica.com/gadgets/2021/04/tool-links-email-addresses-to-facebook-accounts-at-scale/",
+    "upvotes": 35,
+    "author": "pseudolus",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26884452"
   },
   {
-    "title": "Trust in blockchain-based systems",
-    "url": "https://policyreview.info/glossary/trust-blockchain",
-    "upvotes": 23,
-    "author": "infodocket",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26882460"
+    "title": "Git from the Bottom Up",
+    "url": "https://jwiegley.github.io/git-from-the-bottom-up/",
+    "upvotes": 4,
+    "author": "sharjeelsayed",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26884318"
   },
   {
-    "title": "Show HN: Ruby code and tools for animating Voronoi diagrams",
-    "url": "https://github.com/mike-bourgeous/mb-geometry",
-    "upvotes": 20,
-    "author": "nitrogen",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26871080"
+    "title": "Everybody Hates “FLoC”",
+    "url": "https://arstechnica.com/gadgets/2021/04/everybody-hates-floc-googles-tracking-plan-for-chrome-ads/",
+    "upvotes": 30,
+    "author": "giuliomagnifico",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26884281"
   },
   {
     "title": "Include-what-you-use: A tool to analyze includes in C and C++ source files",
     "url": "https://include-what-you-use.org/",
-    "upvotes": 120,
+    "upvotes": 122,
     "author": "st_goliath",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26875353"
@@ -198,41 +214,25 @@
   {
     "title": "Car Connectivity Consortium",
     "url": "https://carconnectivity.org/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "Austin_Conlon",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26873203"
   },
   {
-    "title": "Margin Notes: Automatic documentation with recorded examples from runtime",
-    "url": "https://www.geoffreylitt.com/margin-notes/",
-    "upvotes": 26,
-    "author": "yellowyacht",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26877443"
-  },
-  {
-    "title": "Everybody Hates “FLoC”",
-    "url": "https://arstechnica.com/gadgets/2021/04/everybody-hates-floc-googles-tracking-plan-for-chrome-ads/",
-    "upvotes": 21,
-    "author": "giuliomagnifico",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26884281"
-  },
-  {
     "title": "YouTube CEO Susan Wojcicki Gets 'Freedom Expression' Award Sponsored by YouTube",
     "url": "https://www.newsweek.com/youtube-ceo-susan-wojcicki-gets-freedom-expression-award-sponsored-youtube-1585147",
-    "upvotes": 379,
+    "upvotes": 388,
     "author": "arprocter",
-    "comments": 130,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=26880582"
   },
   {
-    "title": "Dr. Quinn official website from 1998, still online",
-    "url": "https://www.drquinnmd.com/",
-    "upvotes": 72,
-    "author": "pkorzeniewski",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=26883314"
+    "title": "Margin Notes: Automatic documentation with recorded examples from runtime",
+    "url": "https://www.geoffreylitt.com/margin-notes/",
+    "upvotes": 27,
+    "author": "yellowyacht",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26877443"
   }
 ]
