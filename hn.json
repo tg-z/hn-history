@@ -1,74 +1,82 @@
 [
   {
+    "title": "Stranded sailor allowed to leave abandoned ship after four years",
+    "url": "https://www.bbc.com/news/world-middle-east-56842506",
+    "upvotes": 48,
+    "author": "alphachloride",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26906817"
+  },
+  {
     "title": "Semgrep: Semantic grep for code",
     "url": "https://semgrep.dev",
-    "upvotes": 138,
+    "upvotes": 159,
     "author": "ievans",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26904951"
   },
   {
     "title": "Filecoin, StorJ and the problem with decentralized storage",
     "url": "https://randomoracle.wordpress.com/2019/12/07/filecoin-storj-and-the-problem-with-decentralized-storage/",
-    "upvotes": 23,
+    "upvotes": 44,
     "author": "arthur2e5",
-    "comments": 13,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26905948"
   },
   {
     "title": "Last night Googles's domain for Argentina expired and a guy bought it for $4",
     "url": "https://en.mercopress.com/2021/04/22/argentine-version-of-google-falls-into-wrong-hands-leading-to-search-engine-s-temporary-collapse",
-    "upvotes": 96,
+    "upvotes": 120,
     "author": "pedro-guimaraes",
-    "comments": 28,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26904136"
   },
   {
     "title": "Show HN: Noise in Creative Coding",
     "url": "https://varun.ca/noise/",
-    "upvotes": 73,
+    "upvotes": 81,
     "author": "winkerVSbecks",
-    "comments": 10,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26904637"
   },
   {
     "title": "Zellij – A Terminal Workspace and Multiplexer Written in Rust",
     "url": "http://zellij.dev/news/beta#",
-    "upvotes": 250,
+    "upvotes": 257,
     "author": "ibraheemdev",
-    "comments": 169,
+    "comments": 177,
     "link": "https://news.ycombinator.com/item?id=26902430"
   },
   {
     "title": "EFF sues Proctorio on behalf of student falsely DMCA'd",
     "url": "https://www.eff.org/press/releases/eff-sues-proctorio-behalf-student-it-falsely-accused-copyright-infringement-get",
-    "upvotes": 319,
+    "upvotes": 352,
     "author": "oxylibrium",
-    "comments": 372,
+    "comments": 385,
     "link": "https://news.ycombinator.com/item?id=26898651"
   },
   {
     "title": "Unicode Proposal – Textile Care Symbols",
     "url": "https://github.com/Crissov/unicode-proposals/issues/410",
-    "upvotes": 371,
+    "upvotes": 377,
     "author": "peterburkimsher",
-    "comments": 251,
+    "comments": 254,
     "link": "https://news.ycombinator.com/item?id=26900749"
   },
   {
     "title": "Explaining 4K 60Hz Video Through USB-C Hub",
     "url": "https://www.bigmessowires.com/2019/05/19/explaining-4k-60hz-video-through-usb-c-hub/",
-    "upvotes": 87,
+    "upvotes": 90,
     "author": "WayToDoor",
-    "comments": 48,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26901461"
   },
   {
     "title": "Challenges Building an Open-Source E Ink Laptop",
     "url": "https://alexsoto.dev/challenges-building-an-open-source-eink-laptop.html",
-    "upvotes": 191,
+    "upvotes": 195,
     "author": "alex-a-soto",
-    "comments": 71,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=26901757"
   },
   {
@@ -78,42 +86,42 @@
   {
     "title": "On Being an Outsider",
     "url": "https://lithub.com/on-being-an-outsider-words-by-charles-simic-photos-romeo-alaeff/",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "related",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26905166"
+  },
+  {
+    "title": "From WinZips to Cat GIFs, Jacob Ziv’s Algorithms Have Powered Decades of Compr",
+    "url": "https://spectrum.ieee.org/geek-life/profiles/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression",
+    "upvotes": 16,
+    "author": "chha",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26899860"
   },
   {
     "title": "Pgvector – vector similarity search for Postgres",
     "url": "https://github.com/ankane/pgvector",
-    "upvotes": 60,
+    "upvotes": 65,
     "author": "simonpure",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26903105"
   },
   {
     "title": "Show HN: I made a sandbox game to help with financial planning",
     "url": "https://simulator.money/",
-    "upvotes": 323,
+    "upvotes": 326,
     "author": "pattle",
     "comments": 113,
     "link": "https://news.ycombinator.com/item?id=26900079"
   },
   {
-    "title": "From WinZips to Cat GIFs, Jacob Ziv’s Algorithms Have Powered Decades of Compr",
-    "url": "https://spectrum.ieee.org/geek-life/profiles/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression",
-    "upvotes": 10,
-    "author": "chha",
+    "title": "Designing sockfuzzer, a network syscall fuzzer for XNU",
+    "url": "https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html",
+    "upvotes": 5,
+    "author": "ototot",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26899860"
-  },
-  {
-    "title": "The Asses of Parnassus",
-    "url": "https://assesofparnassus.tumblr.com/",
-    "upvotes": 17,
-    "author": "rendaw",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26904683"
+    "link": "https://news.ycombinator.com/item?id=26906474"
   },
   {
     "title": "Tiny Container Challenge: Building a 6kB Containerized HTTP Server",
@@ -124,115 +132,107 @@
     "link": "https://news.ycombinator.com/item?id=26899292"
   },
   {
-    "title": "Wildtype: Sushi-grade salmon grown from Pacific Salmon cells",
-    "url": "https://www.wildtypefoods.com/oursalmon",
-    "upvotes": 159,
-    "author": "zuhayeer",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=26905203"
+    "title": "The Asses of Parnassus",
+    "url": "https://assesofparnassus.tumblr.com/",
+    "upvotes": 18,
+    "author": "rendaw",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26904683"
   },
   {
     "title": "Software Engineering Body of Knowledge",
     "url": "https://www.computer.org/education/bodies-of-knowledge/software-engineering",
-    "upvotes": 181,
+    "upvotes": 188,
     "author": "p1necone",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=26901070"
   },
   {
-    "title": "Mars Helicopter successfully completed its second flight",
-    "url": "https://twitter.com/NASAJPL/status/1385228111323615239",
-    "upvotes": 167,
-    "author": "Sami_Lehtinen",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26902689"
-  },
-  {
-    "title": "How to navigate directories faster with Bash",
-    "url": "https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html",
-    "upvotes": 273,
-    "author": "joseluisq",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=26899531"
-  },
-  {
-    "title": "The anti-pattern of responsive design",
-    "url": "http://john.ankarstrom.se/responsive/",
-    "upvotes": 122,
-    "author": "mrzool",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=26900755"
-  },
-  {
-    "title": "The real reason to end the death penalty",
-    "url": "http://paulgraham.com/real.html",
-    "upvotes": 121,
-    "author": "tosh",
-    "comments": 219,
-    "link": "https://news.ycombinator.com/item?id=26900700"
-  },
-  {
-    "title": "Finding the UK’s dominant Covid-19 variant and the race to understand its impact",
-    "url": "https://publichealthmatters.blog.gov.uk/2021/04/22/disease-detectives-finding-the-uks-dominant-covid-19-variant-and-the-race-to-understand-its-impact/",
-    "upvotes": 11,
-    "author": "open-source-ux",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26905868"
-  },
-  {
-    "title": "Show HN: I built a tool to generate triangulated art from images",
-    "url": "https://github.com/RH12503/Triangula",
-    "upvotes": 248,
-    "author": "rh12503",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26899066"
+    "title": "Wildtype: Sushi-grade salmon grown from Pacific Salmon cells",
+    "url": "https://www.wildtypefoods.com/oursalmon",
+    "upvotes": 168,
+    "author": "zuhayeer",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=26905203"
   },
   {
     "title": "Help users log in across affiliated sites on Chrome",
     "url": "https://blog.chromium.org/2021/04/help-users-log-in-across-affiliated.html",
-    "upvotes": 5,
+    "upvotes": 10,
     "author": "feross",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26905261"
   },
   {
+    "title": "How to navigate directories faster with Bash",
+    "url": "https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html",
+    "upvotes": 279,
+    "author": "joseluisq",
+    "comments": 147,
+    "link": "https://news.ycombinator.com/item?id=26899531"
+  },
+  {
+    "title": "The real reason to end the death penalty",
+    "url": "http://paulgraham.com/real.html",
+    "upvotes": 136,
+    "author": "tosh",
+    "comments": 243,
+    "link": "https://news.ycombinator.com/item?id=26900700"
+  },
+  {
+    "title": "Mars Helicopter successfully completed its second flight",
+    "url": "https://twitter.com/NASAJPL/status/1385228111323615239",
+    "upvotes": 174,
+    "author": "Sami_Lehtinen",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=26902689"
+  },
+  {
+    "title": "The anti-pattern of responsive design",
+    "url": "http://john.ankarstrom.se/responsive/",
+    "upvotes": 129,
+    "author": "mrzool",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=26900755"
+  },
+  {
+    "title": "Show HN: I built a tool to generate triangulated art from images",
+    "url": "https://github.com/RH12503/Triangula",
+    "upvotes": 253,
+    "author": "rh12503",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=26899066"
+  },
+  {
     "title": "Show HN: Human Lambdas – Create Human in the Loop queues and outsource them",
     "url": "https://humanlambdas.com/",
-    "upvotes": 85,
+    "upvotes": 89,
     "author": "bernatfp",
-    "comments": 62,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26900459"
+  },
+  {
+    "title": "Finding the UK’s dominant Covid-19 variant and the race to understand its impact",
+    "url": "https://publichealthmatters.blog.gov.uk/2021/04/22/disease-detectives-finding-the-uks-dominant-covid-19-variant-and-the-race-to-understand-its-impact/",
+    "upvotes": 13,
+    "author": "open-source-ux",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26905868"
   },
   {
     "title": "“They introduce kernel bugs on purpose”",
     "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
-    "upvotes": 2837,
+    "upvotes": 2846,
     "author": "kdbg",
-    "comments": 1850,
+    "comments": 1853,
     "link": "https://news.ycombinator.com/item?id=26887670"
   },
   {
-    "title": "Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer",
-    "url": "https://signal.org/blog/cellebrite-vulnerabilities/",
-    "upvotes": 1738,
-    "author": "derekerdmann",
-    "comments": 295,
-    "link": "https://news.ycombinator.com/item?id=26891811"
-  },
-  {
-    "title": "Show HN: Litmaps – Visual Research Discovery Tool",
-    "url": "https://app.litmaps.co",
-    "upvotes": 95,
-    "author": "axtonpitt",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26900366"
-  },
-  {
-    "title": "Wisconsin has negotiated a dramatically scaled-back deal with Foxconn",
-    "url": "https://arstechnica.com/tech-policy/2021/04/wisconsin-drastically-scales-back-politically-charged-deal-with-foxconn/",
-    "upvotes": 155,
-    "author": "pseudolus",
-    "comments": 153,
-    "link": "https://news.ycombinator.com/item?id=26901540"
+    "title": "American Honey Is Radioactive from Decades of Nuclear Bomb Testing",
+    "url": "https://www.vice.com/en/article/5dbzan/american-honey-is-radioactive-from-decades-of-nuclear-bomb-testing",
+    "upvotes": 5,
+    "author": "onychomys",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26906838"
   }
 ]
