@@ -1,43 +1,83 @@
 [
   {
-    "title": "Tiny Container Challenge: Building a 6kB Containerized HTTP Server",
-    "url": "https://devopsdirective.com/posts/2021/04/tiny-container-image/",
-    "upvotes": 144,
-    "author": "kiyanwang",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26899292"
+    "title": "The Real Reason to End the Death Penalty",
+    "url": "http://paulgraham.com/real.html",
+    "upvotes": 28,
+    "author": "tosh",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26900700"
   },
   {
     "title": "Show HN: I made a sandbox game to help with financial planning",
     "url": "https://simulator.money/",
-    "upvotes": 56,
+    "upvotes": 73,
     "author": "pattle",
-    "comments": 21,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26900079"
+  },
+  {
+    "title": "Tiny Container Challenge: Building a 6kB Containerized HTTP Server",
+    "url": "https://devopsdirective.com/posts/2021/04/tiny-container-image/",
+    "upvotes": 155,
+    "author": "kiyanwang",
+    "comments": 72,
+    "link": "https://news.ycombinator.com/item?id=26899292"
+  },
+  {
+    "title": "Unicode Proposal – Textile Care Symbols",
+    "url": "https://github.com/Crissov/unicode-proposals/issues/410",
+    "upvotes": 7,
+    "author": "peterburkimsher",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26900749"
   },
   {
     "title": "How to navigate directories faster with Bash",
     "url": "https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html",
-    "upvotes": 54,
+    "upvotes": 68,
     "author": "joseluisq",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26899531"
+  },
+  {
+    "title": "Show HN: Litmaps – Visual Research Discovery Tool",
+    "url": "https://app.litmaps.co",
+    "upvotes": 7,
+    "author": "axtonpitt",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26900366"
   },
   {
     "title": "Godot 3.3",
     "url": "https://godotengine.org/article/godot-3-3-has-arrived",
-    "upvotes": 288,
+    "upvotes": 293,
     "author": "sc__",
     "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26896340"
   },
   {
+    "title": "Show HN: I built a tool to generate triangulated art from images",
+    "url": "https://github.com/RH12503/Triangula",
+    "upvotes": 59,
+    "author": "rh12503",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26899066"
+  },
+  {
     "title": "Maria Stepanova, one of Russia's greatest living poets, comes to America",
     "url": "https://www.poetryfoundation.org/articles/155823/memory-tricks",
-    "upvotes": 19,
+    "upvotes": 22,
     "author": "lermontov",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26882467"
+  },
+  {
+    "title": "Show HN: DbGate – open-source, cross-platform SQL+noSQL database client",
+    "url": "https://dbgate.org/",
+    "upvotes": 66,
+    "author": "janproch",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26899100"
   },
   {
     "title": "Running code within another process's address space",
@@ -48,68 +88,68 @@
     "link": "https://news.ycombinator.com/item?id=26899118"
   },
   {
-    "title": "Show HN: I built a tool to generate triangulated art from images",
-    "url": "https://github.com/RH12503/Triangula",
-    "upvotes": 45,
-    "author": "rh12503",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26899066"
-  },
-  {
     "title": "Converting Markdown to ePub or Mobi Using Pandoc",
     "url": "https://themythicalengineer.com/converting-markdown-to-epub-mobi.html",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "sks147",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26898591"
-  },
-  {
-    "title": "Show HN: DbGate – open-source, cross-platform SQL+noSQL database client",
-    "url": "https://dbgate.org/",
-    "upvotes": 59,
-    "author": "janproch",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26899100"
   },
   {
     "title": "“Proctorio is expanding their lawsuit against me and I urgently need your help.”",
     "url": "https://twitter.com/Linkletter/status/1385004344903290883",
-    "upvotes": 82,
+    "upvotes": 108,
     "author": "DyslexicAtheist",
-    "comments": 18,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26900217"
   },
   {
     "title": "“They introduce kernel bugs on purpose”",
     "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
-    "upvotes": 2578,
+    "upvotes": 2584,
     "author": "kdbg",
-    "comments": 1753,
+    "comments": 1764,
     "link": "https://news.ycombinator.com/item?id=26887670"
   },
   {
     "title": "Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer",
     "url": "https://signal.org/blog/cellebrite-vulnerabilities/",
-    "upvotes": 1398,
+    "upvotes": 1408,
     "author": "derekerdmann",
-    "comments": 242,
+    "comments": 244,
     "link": "https://news.ycombinator.com/item?id=26891811"
   },
   {
-    "title": "The use of disembodied female-sounding voices in service industries",
-    "url": "https://failedarchitecture.com/she-wants-your-attention-shes-the-voice-of-the-city/",
-    "upvotes": 4,
-    "author": "satchet",
+    "title": "Show HN: Human Lambdas – Create Human in the Loop queues and outsource them",
+    "url": "https://humanlambdas.com/",
+    "upvotes": 8,
+    "author": "bernatfp",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26900345"
+    "link": "https://news.ycombinator.com/item?id=26900459"
   },
   {
     "title": "Btrfs on Zoned Block Devices",
     "url": "https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "fomine3",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26885390"
+  },
+  {
+    "title": "SolarBatteryBitcoin",
+    "url": "https://github.com/ARKInvest/SolarBatteryBitcoin",
+    "upvotes": 51,
+    "author": "simonpure",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=26897550"
+  },
+  {
+    "title": "The use of disembodied female-sounding voices in service industries",
+    "url": "https://failedarchitecture.com/she-wants-your-attention-shes-the-voice-of-the-city/",
+    "upvotes": 5,
+    "author": "satchet",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26900345"
   },
   {
     "title": "Cool Tool of the Day",
@@ -120,28 +160,28 @@
     "link": "https://news.ycombinator.com/item?id=26885552"
   },
   {
+    "title": "Employee accused of skipping work for 15 years",
+    "url": "https://www.bbc.co.uk/news/world-europe-56822571",
+    "upvotes": 43,
+    "author": "lifeisstillgood",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26899412"
+  },
+  {
     "title": "Decompiling FlatBuffers case study: Facebook's GraphQL schema",
     "url": "https://cajum.github.io/fbgraphql/",
     "upvotes": 61,
     "author": "mcaju",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26890657"
   },
   {
-    "title": "SolarBatteryBitcoin",
-    "url": "https://github.com/ARKInvest/SolarBatteryBitcoin",
-    "upvotes": 45,
-    "author": "simonpure",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26897550"
-  },
-  {
-    "title": "Employee accused of skipping work for 15 years",
-    "url": "https://www.bbc.co.uk/news/world-europe-56822571",
-    "upvotes": 37,
-    "author": "lifeisstillgood",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26899412"
+    "title": "Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?",
+    "url": "https://retrocomputing.stackexchange.com/q/19655/7932",
+    "upvotes": 156,
+    "author": "robin_reala",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26898639"
   },
   {
     "title": "Doubts about teapot supremacy: my reply to Richard Borcherds",
@@ -152,17 +192,9 @@
     "link": "https://news.ycombinator.com/item?id=26888570"
   },
   {
-    "title": "Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?",
-    "url": "https://retrocomputing.stackexchange.com/q/19655/7932",
-    "upvotes": 151,
-    "author": "robin_reala",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26898639"
-  },
-  {
     "title": "OpenCV AI Competition 2021 Highlights and Team Profiles Part 1",
     "url": "https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/",
-    "upvotes": 89,
+    "upvotes": 90,
     "author": "philnelson",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26896516"
@@ -178,61 +210,29 @@
   {
     "title": "The Discipline of DE",
     "url": "https://www.youtube.com/watch?v=-pjQ0FNzkLQ",
-    "upvotes": 111,
+    "upvotes": 112,
     "author": "brudgers",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26876502"
   },
   {
-    "title": "Scratch Holograms FAQ",
-    "url": "http://amasci.com/amateur/holohint.html",
-    "upvotes": 16,
-    "author": "Tomte",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26887689"
-  },
-  {
     "title": "Comparing the New Generation of Build Tools",
     "url": "https://css-tricks.com/comparing-the-new-generation-of-build-tools",
-    "upvotes": 51,
+    "upvotes": 53,
     "author": "mariuz",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26886649"
-  },
-  {
-    "title": "Riya Collective",
-    "url": "https://www.workatastartup.com/jobs/43518"
   },
   {
     "title": "MEPs call for European AI rules to ban biometric surveillance in public",
     "url": "https://www.yahoo.com/news/meps-call-european-ai-rules-201215526.html",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "guerrilla",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26899109"
   },
   {
-    "title": "Cellular Automata",
-    "url": "https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automata.pdf",
-    "upvotes": 90,
-    "author": "jnakayama",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26859883"
-  },
-  {
-    "title": "ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users",
-    "url": "https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/",
-    "upvotes": 51,
-    "author": "rrauenza",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26896806"
-  },
-  {
-    "title": "Jonathan Smith walks free after 21 years of wrongful imprisonment",
-    "url": "https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/",
-    "upvotes": 213,
-    "author": "defqon",
-    "comments": 102,
-    "link": "https://news.ycombinator.com/item?id=26897279"
+    "title": "Riya Collective",
+    "url": "https://www.workatastartup.com/jobs/43518"
   }
 ]
