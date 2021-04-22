@@ -1,75 +1,91 @@
 [
   {
+    "title": "Tiny Container Challenge: Building a 6kB Containerized HTTP Server",
+    "url": "https://devopsdirective.com/posts/2021/04/tiny-container-image/",
+    "upvotes": 20,
+    "author": "kiyanwang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26899292"
+  },
+  {
     "title": "Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer",
     "url": "https://signal.org/blog/cellebrite-vulnerabilities/",
-    "upvotes": 1242,
+    "upvotes": 1281,
     "author": "derekerdmann",
-    "comments": 230,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=26891811"
   },
   {
     "title": "Running code within another process's address space",
     "url": "https://lwn.net/SubscriberLink/852662/af59b68d9663b1a0/",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "chmaynard",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26899118"
-  },
-  {
-    "title": "Godot 3.3",
-    "url": "https://godotengine.org/article/godot-3-3-has-arrived",
-    "upvotes": 198,
-    "author": "sc__",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=26896340"
-  },
-  {
-    "title": "India's massive COVID surge puzzles scientists",
-    "url": "https://www.nature.com/articles/d41586-021-01059-y",
-    "upvotes": 54,
-    "author": "gablusky",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26898889"
-  },
-  {
-    "title": "Converting Markdown to ePub or Mobi Using Pandoc",
-    "url": "https://themythicalengineer.com/converting-markdown-to-epub-mobi.html",
-    "upvotes": 24,
-    "author": "sks147",
     "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26898591"
+    "link": "https://news.ycombinator.com/item?id=26899118"
   },
   {
     "title": "Non-profit legal entity for Mastodon being registered in Germany",
     "url": "https://mastodon.social/@Gargron/106104387021236353",
-    "upvotes": 15,
+    "upvotes": 31,
     "author": "sohkamyung",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26898662"
   },
   {
+    "title": "Godot 3.3",
+    "url": "https://godotengine.org/article/godot-3-3-has-arrived",
+    "upvotes": 214,
+    "author": "sc__",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26896340"
+  },
+  {
+    "title": "In Response to the Markup’s Reporting, Some YouTubers Are Ditching the Platform",
+    "url": "https://themarkup.org/google-the-giant/2021/04/20/in-response-to-the-markups-reporting-some-youtubers-are-ditching-the-platform",
+    "upvotes": 7,
+    "author": "atg_abhishek",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26899440"
+  },
+  {
+    "title": "Converting Markdown to ePub or Mobi Using Pandoc",
+    "url": "https://themythicalengineer.com/converting-markdown-to-epub-mobi.html",
+    "upvotes": 29,
+    "author": "sks147",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26898591"
+  },
+  {
+    "title": "How to navigate directories faster with Bash",
+    "url": "https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html",
+    "upvotes": 3,
+    "author": "joseluisq",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26899531"
+  },
+  {
     "title": "Btrfs on Zoned Block Devices",
     "url": "https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/",
-    "upvotes": 45,
+    "upvotes": 49,
     "author": "fomine3",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26885390"
   },
   {
     "title": "“They introduce kernel bugs on purpose”",
     "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
-    "upvotes": 2433,
+    "upvotes": 2455,
     "author": "kdbg",
-    "comments": 1714,
+    "comments": 1720,
     "link": "https://news.ycombinator.com/item?id=26887670"
   },
   {
-    "title": "Tiny Container Challenge: Building a 6kB Containerized HTTP Server",
-    "url": "https://devopsdirective.com/posts/2021/04/tiny-container-image/",
-    "upvotes": 3,
-    "author": "kiyanwang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26899292"
+    "title": "Cool Tool of the Day",
+    "url": "https://web.archive.org/web/19970711071555/http://www.cooltool.com/apr96.html",
+    "upvotes": 15,
+    "author": "ecliptik",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26885552"
   },
   {
     "title": "OpenCV AI Competition 2021 Highlights and Team Profiles Part 1",
@@ -80,22 +96,6 @@
     "link": "https://news.ycombinator.com/item?id=26896516"
   },
   {
-    "title": "Cool Tool of the Day",
-    "url": "https://web.archive.org/web/19970711071555/http://www.cooltool.com/apr96.html",
-    "upvotes": 11,
-    "author": "ecliptik",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26885552"
-  },
-  {
-    "title": "DreamWorld",
-    "url": "https://mmofallout.com/mmo-rant-dreamworld-raises-all-red-flags/",
-    "upvotes": 171,
-    "author": "sen",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=26898266"
-  },
-  {
     "title": "Decompiling FlatBuffers case study: Facebook's GraphQL schema",
     "url": "https://cajum.github.io/fbgraphql/",
     "upvotes": 46,
@@ -104,60 +104,96 @@
     "link": "https://news.ycombinator.com/item?id=26890657"
   },
   {
+    "title": "DreamWorld",
+    "url": "https://mmofallout.com/mmo-rant-dreamworld-raises-all-red-flags/",
+    "upvotes": 177,
+    "author": "sen",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=26898266"
+  },
+  {
+    "title": "Show HN: Diffie-Hellman exchange for the layman",
+    "url": "https://borisreitman.com/privacy.html",
+    "upvotes": 30,
+    "author": "boris1",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26898147"
+  },
+  {
     "title": "Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?",
     "url": "https://retrocomputing.stackexchange.com/q/19655/7932",
-    "upvotes": 77,
+    "upvotes": 88,
     "author": "robin_reala",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26898639"
   },
   {
-    "title": "Show HN: Diffie-Hellman exchange for the layman",
-    "url": "https://borisreitman.com/privacy.html",
-    "upvotes": 25,
-    "author": "boris1",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26898147"
-  },
-  {
     "title": "Scratch Holograms FAQ",
     "url": "http://amasci.com/amateur/holohint.html",
-    "upvotes": 8,
+    "upvotes": 10,
     "author": "Tomte",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26887689"
-  },
-  {
-    "title": "My collection of machine learning paper notes",
-    "url": "https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c",
-    "upvotes": 296,
-    "author": "yobibyte",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26891227"
   },
   {
     "title": "Show HN: I made a tool to communicate data using the PC speaker",
     "url": "https://github.com/ggerganov/ggwave/tree/master/examples/r2t2",
-    "upvotes": 155,
+    "upvotes": 159,
     "author": "ggerganov",
-    "comments": 62,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=26892930"
-  },
-  {
-    "title": "Jonathan Smith walks free after 21 years of wrongful imprisonment",
-    "url": "https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/",
-    "upvotes": 179,
-    "author": "defqon",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=26897279"
   },
   {
     "title": "MEPs call for European AI rules to ban biometric surveillance in public",
     "url": "https://www.yahoo.com/news/meps-call-european-ai-rules-201215526.html",
-    "upvotes": 12,
+    "upvotes": 19,
     "author": "guerrilla",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26899109"
+  },
+  {
+    "title": "Show HN: DbGate – open-source, cross-platform SQL+noSQL database client",
+    "url": "https://dbgate.org/",
+    "upvotes": 6,
+    "author": "janproch",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26899100"
+  },
+  {
+    "title": "Jonathan Smith walks free after 21 years of wrongful imprisonment",
+    "url": "https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/",
+    "upvotes": 183,
+    "author": "defqon",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=26897279"
+  },
+  {
+    "title": "India's massive COVID surge puzzles scientists",
+    "url": "https://www.nature.com/articles/d41586-021-01059-y",
+    "upvotes": 72,
+    "author": "gablusky",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=26898889"
+  },
+  {
+    "title": "Show HN: My cofounder and I created a social platform for investment ideas",
+    "url": "https://info.utradea.com/feed",
+    "upvotes": 126,
+    "author": "stuartjm5",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=26893096"
+  },
+  {
+    "title": "Riya Collective",
+    "url": "https://www.workatastartup.com/jobs/43518"
+  },
+  {
+    "title": "ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users",
+    "url": "https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/",
+    "upvotes": 41,
+    "author": "rrauenza",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26896806"
   },
   {
     "title": "Comparing the New Generation of Build Tools",
@@ -168,71 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=26886649"
   },
   {
-    "title": "ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users",
-    "url": "https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/",
-    "upvotes": 40,
-    "author": "rrauenza",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26896806"
-  },
-  {
-    "title": "Riya Collective",
-    "url": "https://www.workatastartup.com/jobs/43518"
-  },
-  {
-    "title": "Show HN: My cofounder and I created a social platform for investment ideas",
-    "url": "https://info.utradea.com/feed",
-    "upvotes": 124,
-    "author": "stuartjm5",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=26893096"
-  },
-  {
-    "title": "Organizing Programs Without Classes",
-    "url": "https://bibliography.selflanguage.org/_static/organizing-programs.pdf",
-    "upvotes": 12,
-    "author": "sillysaurusx",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26888479"
-  },
-  {
     "title": "Initial preview of GUI app support for the Windows Subsystem for Linux",
     "url": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/",
-    "upvotes": 558,
+    "upvotes": 568,
     "author": "velmu",
-    "comments": 288,
+    "comments": 293,
     "link": "https://news.ycombinator.com/item?id=26892508"
   },
   {
     "title": "Cellular Automata",
     "url": "https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automata.pdf",
-    "upvotes": 81,
+    "upvotes": 82,
     "author": "jnakayama",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26859883"
   },
   {
-    "title": "Why I distrust Google Cloud more than than AWS or Azure",
-    "url": "http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html",
-    "upvotes": 271,
-    "author": "igorhvr",
-    "comments": 189,
-    "link": "https://news.ycombinator.com/item?id=26897106"
-  },
-  {
     "title": "The Discipline of DE",
     "url": "https://www.youtube.com/watch?v=-pjQ0FNzkLQ",
-    "upvotes": 103,
+    "upvotes": 105,
     "author": "brudgers",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26876502"
   },
   {
-    "title": "Man-Computer Symbiosis",
-    "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
-    "upvotes": 40,
-    "author": "throw0101a",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26887654"
+    "title": "Organizing Programs Without Classes",
+    "url": "https://bibliography.selflanguage.org/_static/organizing-programs.pdf",
+    "upvotes": 14,
+    "author": "sillysaurusx",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26888479"
   }
 ]
