@@ -2,47 +2,47 @@
   {
     "title": "Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer",
     "url": "https://signal.org/blog/cellebrite-vulnerabilities/",
-    "upvotes": 947,
+    "upvotes": 972,
     "author": "derekerdmann",
-    "comments": 189,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=26891811"
   },
   {
     "title": "OpenCV AI Competition 2021 Highlights and Team Profiles Part 1",
     "url": "https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "philnelson",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26896516"
   },
   {
-    "title": "“They introduce kernel bugs on purpose”",
-    "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
-    "upvotes": 2215,
-    "author": "kdbg",
-    "comments": 1652,
-    "link": "https://news.ycombinator.com/item?id=26887670"
-  },
-  {
     "title": "Godot 3.3",
     "url": "https://godotengine.org/article/godot-3-3-has-arrived",
-    "upvotes": 49,
+    "upvotes": 67,
     "author": "sc__",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26896340"
   },
   {
-    "title": "Manhattan DA says his office to stop prosecuting prostitution",
-    "url": "https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution",
-    "upvotes": 98,
-    "author": "pmiller2",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=26897186"
+    "title": "“They introduce kernel bugs on purpose”",
+    "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
+    "upvotes": 2242,
+    "author": "kdbg",
+    "comments": 1656,
+    "link": "https://news.ycombinator.com/item?id=26887670"
+  },
+  {
+    "title": "Today, Jonathan Smith walks free after 21 years of wrongful imprisonment",
+    "url": "https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/",
+    "upvotes": 77,
+    "author": "defqon",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26897279"
   },
   {
     "title": "My collection of machine learning paper notes",
     "url": "https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c",
-    "upvotes": 247,
+    "upvotes": 251,
     "author": "yobibyte",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26891227"
@@ -50,7 +50,7 @@
   {
     "title": "Show HN: I made a tool to communicate data using the PC speaker",
     "url": "https://github.com/ggerganov/ggwave/tree/master/examples/r2t2",
-    "upvotes": 127,
+    "upvotes": 132,
     "author": "ggerganov",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26892930"
@@ -58,31 +58,15 @@
   {
     "title": "Why I distrust Google Cloud more than than AWS or Azure",
     "url": "http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html",
-    "upvotes": 129,
+    "upvotes": 147,
     "author": "igorhvr",
-    "comments": 60,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26897106"
-  },
-  {
-    "title": "Today, Jonathan Smith walks free after 21 years of wrongful imprisonment",
-    "url": "https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/",
-    "upvotes": 58,
-    "author": "defqon",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26897279"
-  },
-  {
-    "title": "Show HN: My cofounder and I created a social platform for investment ideas",
-    "url": "https://info.utradea.com/feed",
-    "upvotes": 97,
-    "author": "stuartjm5",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=26893096"
   },
   {
     "title": "Man-Computer Symbiosis",
     "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "throw0101a",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26887654"
@@ -90,7 +74,7 @@
   {
     "title": "Cellular Automata",
     "url": "https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automata.pdf",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "jnakayama",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26859883"
@@ -98,38 +82,110 @@
   {
     "title": "Initial preview of GUI app support for the Windows Subsystem for Linux",
     "url": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/",
-    "upvotes": 498,
+    "upvotes": 501,
     "author": "velmu",
-    "comments": 255,
+    "comments": 256,
     "link": "https://news.ycombinator.com/item?id=26892508"
+  },
+  {
+    "title": "ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users",
+    "url": "https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/",
+    "upvotes": 10,
+    "author": "rrauenza",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26896806"
   },
   {
     "title": "The Culture of Whales",
     "url": "https://www.npr.org/sections/pictureshow/2021/04/19/988028339/photos-the-culture-of-whales",
-    "upvotes": 104,
+    "upvotes": 107,
     "author": "pseudolus",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26873711"
+  },
+  {
+    "title": "Btrfs on Zoned Block Devices",
+    "url": "https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/",
+    "upvotes": 4,
+    "author": "fomine3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26885390"
+  },
+  {
+    "title": "Show HN: My cofounder and I created a social platform for investment ideas",
+    "url": "https://info.utradea.com/feed",
+    "upvotes": 98,
+    "author": "stuartjm5",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26893096"
   },
   {
     "title": "The Discipline of DE",
     "url": "https://www.youtube.com/watch?v=-pjQ0FNzkLQ",
-    "upvotes": 95,
+    "upvotes": 96,
     "author": "brudgers",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26876502"
   },
   {
-    "title": "SponsorBlock – Skip over sponsorship segments on YouTube",
-    "url": "https://sponsor.ajay.app/",
-    "upvotes": 139,
-    "author": "bgstry",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=26886275"
-  },
-  {
     "title": "Riya Collective",
     "url": "https://www.workatastartup.com/jobs/43518"
+  },
+  {
+    "title": "Manhattan DA says his office to stop prosecuting prostitution",
+    "url": "https://www.npr.org/2021/04/21/989588072/a-relic-and-burden-manhattan-district-attorney-to-stop-prosecuting-prostitution",
+    "upvotes": 108,
+    "author": "pmiller2",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=26897186"
+  },
+  {
+    "title": "DNA of giant ‘corpse flower’ parasite surprises biologists",
+    "url": "https://www.quantamagazine.org/dna-of-giant-corpse-flower-parasite-surprises-biologists-20210421/",
+    "upvotes": 62,
+    "author": "theafh",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26890244"
+  },
+  {
+    "title": "A Philosophy of Sound",
+    "url": "https://aeon.co/essays/the-universal-forces-of-sound-and-rhythm-enhance-thought-and-feeling",
+    "upvotes": 27,
+    "author": "tintinnabula",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26885220"
+  },
+  {
+    "title": "Comparing the New Generation of Build Tools",
+    "url": "https://css-tricks.com/comparing-the-new-generation-of-build-tools",
+    "upvotes": 13,
+    "author": "mariuz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26886649"
+  },
+  {
+    "title": "Tracking the WhatsApp habits of random smartphones",
+    "url": "https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2",
+    "upvotes": 198,
+    "author": "jorislacance",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=26889139"
+  },
+  {
+    "title": "_hyperscript: A jQuery and JavaScript Alternative",
+    "url": "https://hyperscript.org/comparison/",
+    "upvotes": 201,
+    "author": "recursivedoubts",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=26873682"
+  },
+  {
+    "title": "How many x86 instructions are there?",
+    "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
+    "upvotes": 123,
+    "author": "sandinmyjoints",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26889108"
   },
   {
     "title": "Decompiling FlatBuffers case study: Facebook's GraphQL schema",
@@ -140,97 +196,41 @@
     "link": "https://news.ycombinator.com/item?id=26890657"
   },
   {
-    "title": "A Philosophy of Sound",
-    "url": "https://aeon.co/essays/the-universal-forces-of-sound-and-rhythm-enhance-thought-and-feeling",
-    "upvotes": 26,
-    "author": "tintinnabula",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26885220"
-  },
-  {
-    "title": "Btrfs on Zoned Block Devices",
-    "url": "https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/",
-    "upvotes": 3,
-    "author": "fomine3",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26885390"
-  },
-  {
-    "title": "DNA of giant ‘corpse flower’ parasite surprises biologists",
-    "url": "https://www.quantamagazine.org/dna-of-giant-corpse-flower-parasite-surprises-biologists-20210421/",
-    "upvotes": 58,
-    "author": "theafh",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26890244"
-  },
-  {
-    "title": "ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users",
-    "url": "https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/",
-    "upvotes": 7,
-    "author": "rrauenza",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26896806"
-  },
-  {
-    "title": "Starting a new digital identity",
-    "url": "https://k3tan.com/starting-a-new-digital-identity",
-    "upvotes": 203,
-    "author": "noch",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=26888067"
-  },
-  {
-    "title": "_hyperscript: A jQuery and JavaScript Alternative",
-    "url": "https://hyperscript.org/comparison/",
-    "upvotes": 196,
-    "author": "recursivedoubts",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=26873682"
-  },
-  {
-    "title": "How many x86 instructions are there?",
-    "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
-    "upvotes": 120,
-    "author": "sandinmyjoints",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=26889108"
-  },
-  {
     "title": "Proposed bill to ban US government from buying location data [pdf]",
     "url": "https://www.wyden.senate.gov/imo/media/doc/The%20Fourth%20Amendment%20Is%20Not%20For%20Sale%20Act%20of%202021%20Bill%20Text.pdf",
-    "upvotes": 391,
+    "upvotes": 396,
     "author": "jbegley",
-    "comments": 117,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=26890365"
-  },
-  {
-    "title": "Tracking the WhatsApp habits of random smartphones",
-    "url": "https://jorislacance.fr/blog/2021/04/16/whatsapp-tracking-2",
-    "upvotes": 194,
-    "author": "jorislacance",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=26889139"
   },
   {
     "title": "Ask HN: How is a company like Comcast able to get away with spam?",
     "url": "item?id=26896611",
-    "upvotes": 69,
+    "upvotes": 74,
     "author": "jc_811",
-    "comments": 23,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26896611"
+  },
+  {
+    "title": "Beam VM Wisdoms",
+    "url": "http://beam-wisdoms.clau.se/en/latest/",
+    "upvotes": 232,
+    "author": "Tomte",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26889048"
   },
   {
     "title": "Statement on DNS Encryption [pdf]",
     "url": "https://root-servers.org/media/news/Statement_on_DNS_Encryption.pdf",
     "upvotes": 72,
     "author": "moviuro",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26892217"
   },
   {
     "title": "Mycodo – open-source environmental regulation system",
     "url": "https://github.com/kizniche/Mycodo",
-    "upvotes": 40,
+    "upvotes": 42,
     "author": "fbodz",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26861471"
