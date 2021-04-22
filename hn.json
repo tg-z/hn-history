@@ -2,66 +2,82 @@
   {
     "title": "Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer",
     "url": "https://signal.org/blog/cellebrite-vulnerabilities/",
-    "upvotes": 1136,
+    "upvotes": 1182,
     "author": "derekerdmann",
-    "comments": 224,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=26891811"
   },
   {
     "title": "DreamWorld",
     "url": "https://mmofallout.com/mmo-rant-dreamworld-raises-all-red-flags/",
-    "upvotes": 130,
+    "upvotes": 152,
     "author": "sen",
-    "comments": 75,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26898266"
-  },
-  {
-    "title": "Bitcoin has few attributes of money but all the attributes of a collectible",
-    "url": "https://jabberwocking.com/how-baseball-cards-explain-what-bitcoin-really-is/",
-    "upvotes": 47,
-    "author": "iokevins",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26898727"
   },
   {
     "title": "Godot 3.3",
     "url": "https://godotengine.org/article/godot-3-3-has-arrived",
-    "upvotes": 163,
+    "upvotes": 175,
     "author": "sc__",
-    "comments": 32,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26896340"
+  },
+  {
+    "title": "Converting Markdown to ePub or Mobi Using Pandoc",
+    "url": "https://themythicalengineer.com/converting-markdown-to-epub-mobi.html",
+    "upvotes": 18,
+    "author": "sks147",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26898591"
+  },
+  {
+    "title": "Running code within another process's address space",
+    "url": "https://lwn.net/SubscriberLink/852662/af59b68d9663b1a0/",
+    "upvotes": 7,
+    "author": "chmaynard",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26899118"
   },
   {
     "title": "Btrfs on Zoned Block Devices",
     "url": "https://lwn.net/SubscriberLink/853308/c386b5aab35db7b6/",
-    "upvotes": 38,
+    "upvotes": 43,
     "author": "fomine3",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26885390"
   },
   {
+    "title": "India's massive COVID surge puzzles scientists",
+    "url": "https://www.nature.com/articles/d41586-021-01059-y",
+    "upvotes": 15,
+    "author": "gablusky",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26898889"
+  },
+  {
+    "title": "“They introduce kernel bugs on purpose”",
+    "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
+    "upvotes": 2401,
+    "author": "kdbg",
+    "comments": 1702,
+    "link": "https://news.ycombinator.com/item?id=26887670"
+  },
+  {
     "title": "OpenCV AI Competition 2021 Highlights and Team Profiles Part 1",
     "url": "https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-1/",
-    "upvotes": 75,
+    "upvotes": 78,
     "author": "philnelson",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26896516"
   },
   {
-    "title": "“They introduce kernel bugs on purpose”",
-    "url": "https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/",
-    "upvotes": 2382,
-    "author": "kdbg",
-    "comments": 1695,
-    "link": "https://news.ycombinator.com/item?id=26887670"
-  },
-  {
-    "title": "Converting Markdown to ePub or Mobi Using Pandoc",
-    "url": "https://themythicalengineer.com/converting-markdown-to-epub-mobi.html",
-    "upvotes": 9,
-    "author": "sks147",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26898591"
+    "title": "Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?",
+    "url": "https://retrocomputing.stackexchange.com/q/19655/7932",
+    "upvotes": 59,
+    "author": "robin_reala",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26898639"
   },
   {
     "title": "Decompiling FlatBuffers case study: Facebook's GraphQL schema",
@@ -72,33 +88,25 @@
     "link": "https://news.ycombinator.com/item?id=26890657"
   },
   {
-    "title": "Why does trying to break into the NT 3.1 kernel reboot my 486DX4 machine?",
-    "url": "https://retrocomputing.stackexchange.com/q/19655/7932",
-    "upvotes": 42,
-    "author": "robin_reala",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26898639"
-  },
-  {
     "title": "Show HN: Diffie-Hellman exchange for the layman",
     "url": "https://borisreitman.com/privacy.html",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "boris1",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26898147"
   },
   {
-    "title": "SolarBatteryBitcoin",
-    "url": "https://github.com/ARKInvest/SolarBatteryBitcoin",
-    "upvotes": 35,
-    "author": "simonpure",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26897550"
+    "title": "Bitcoin has few attributes of money but all the attributes of a collectible",
+    "url": "https://jabberwocking.com/how-baseball-cards-explain-what-bitcoin-really-is/",
+    "upvotes": 63,
+    "author": "iokevins",
+    "comments": 85,
+    "link": "https://news.ycombinator.com/item?id=26898727"
   },
   {
     "title": "My collection of machine learning paper notes",
     "url": "https://www.notion.so/Paper-Notes-by-Vitaly-Kurin-97827e14e5cd4183815cfe3a5ecf2f4c",
-    "upvotes": 286,
+    "upvotes": 289,
     "author": "yobibyte",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26891227"
@@ -106,94 +114,118 @@
   {
     "title": "Show HN: I made a tool to communicate data using the PC speaker",
     "url": "https://github.com/ggerganov/ggwave/tree/master/examples/r2t2",
-    "upvotes": 148,
+    "upvotes": 151,
     "author": "ggerganov",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26892930"
+  },
+  {
+    "title": "Scratch Holograms FAQ",
+    "url": "http://amasci.com/amateur/holohint.html",
+    "upvotes": 6,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26887689"
   },
   {
     "title": "Jonathan Smith walks free after 21 years of wrongful imprisonment",
     "url": "https://innocenceproject.org/jonathan-smith-walks-free-after-21-years-of-wrongful-imprisonment-in-maryland/",
-    "upvotes": 156,
+    "upvotes": 160,
     "author": "defqon",
-    "comments": 72,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=26897279"
+  },
+  {
+    "title": "Show HN: My cofounder and I created a social platform for investment ideas",
+    "url": "https://info.utradea.com/feed",
+    "upvotes": 119,
+    "author": "stuartjm5",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=26893096"
   },
   {
     "title": "ParkMobile Breach Exposes License Plate Data, Mobile Numbers of 21M Users",
     "url": "https://krebsonsecurity.com/2021/04/parkmobile-breach-exposes-license-plate-data-mobile-numbers-of-21m-users/",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "rrauenza",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26896806"
+  },
+  {
+    "title": "Organizing Programs Without Classes",
+    "url": "https://bibliography.selflanguage.org/_static/organizing-programs.pdf",
+    "upvotes": 9,
+    "author": "sillysaurusx",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26888479"
   },
   {
     "title": "Comparing the New Generation of Build Tools",
     "url": "https://css-tricks.com/comparing-the-new-generation-of-build-tools",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "mariuz",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26886649"
   },
   {
-    "title": "Initial preview of GUI app support for the Windows Subsystem for Linux",
-    "url": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/",
-    "upvotes": 550,
-    "author": "velmu",
-    "comments": 284,
-    "link": "https://news.ycombinator.com/item?id=26892508"
-  },
-  {
     "title": "The Culture of Whales",
     "url": "https://www.npr.org/sections/pictureshow/2021/04/19/988028339/photos-the-culture-of-whales",
-    "upvotes": 120,
+    "upvotes": 121,
     "author": "pseudolus",
-    "comments": 38,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26873711"
   },
   {
-    "title": "Show HN: My cofounder and I created a social platform for investment ideas",
-    "url": "https://info.utradea.com/feed",
-    "upvotes": 115,
-    "author": "stuartjm5",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26893096"
-  },
-  {
-    "title": "Why I distrust Google Cloud more than than AWS or Azure",
-    "url": "http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html",
-    "upvotes": 244,
-    "author": "igorhvr",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=26897106"
-  },
-  {
-    "title": "DNA of giant ‘corpse flower’ parasite surprises biologists",
-    "url": "https://www.quantamagazine.org/dna-of-giant-corpse-flower-parasite-surprises-biologists-20210421/",
-    "upvotes": 86,
-    "author": "theafh",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26890244"
+    "title": "Initial preview of GUI app support for the Windows Subsystem for Linux",
+    "url": "https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/",
+    "upvotes": 554,
+    "author": "velmu",
+    "comments": 286,
+    "link": "https://news.ycombinator.com/item?id=26892508"
   },
   {
     "title": "Riya Collective",
     "url": "https://www.workatastartup.com/jobs/43518"
   },
   {
+    "title": "DNA of giant ‘corpse flower’ parasite surprises biologists",
+    "url": "https://www.quantamagazine.org/dna-of-giant-corpse-flower-parasite-surprises-biologists-20210421/",
+    "upvotes": 91,
+    "author": "theafh",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26890244"
+  },
+  {
+    "title": "SolarBatteryBitcoin",
+    "url": "https://github.com/ARKInvest/SolarBatteryBitcoin",
+    "upvotes": 36,
+    "author": "simonpure",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=26897550"
+  },
+  {
     "title": "Cellular Automata",
     "url": "https://content.wolfram.com/uploads/sites/34/2020/07/cellular-automata.pdf",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "jnakayama",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26859883"
   },
   {
-    "title": "Organizing Programs Without Classes",
-    "url": "https://bibliography.selflanguage.org/_static/organizing-programs.pdf",
-    "upvotes": 8,
-    "author": "sillysaurusx",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26888479"
+    "title": "MEPs call for European AI rules to ban biometric surveillance in public",
+    "url": "https://www.yahoo.com/news/meps-call-european-ai-rules-201215526.html",
+    "upvotes": 5,
+    "author": "guerrilla",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26899109"
+  },
+  {
+    "title": "Why I distrust Google Cloud more than than AWS or Azure",
+    "url": "http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html",
+    "upvotes": 253,
+    "author": "igorhvr",
+    "comments": 183,
+    "link": "https://news.ycombinator.com/item?id=26897106"
   },
   {
     "title": "The Discipline of DE",
@@ -202,37 +234,5 @@
     "author": "brudgers",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=26876502"
-  },
-  {
-    "title": "Scratch Holograms FAQ",
-    "url": "http://amasci.com/amateur/holohint.html",
-    "upvotes": 3,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26887689"
-  },
-  {
-    "title": "Man-Computer Symbiosis",
-    "url": "https://groups.csail.mit.edu/medg/people/psz/Licklider.html",
-    "upvotes": 37,
-    "author": "throw0101a",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26887654"
-  },
-  {
-    "title": "A Philosophy of Sound",
-    "url": "https://aeon.co/essays/the-universal-forces-of-sound-and-rhythm-enhance-thought-and-feeling",
-    "upvotes": 38,
-    "author": "tintinnabula",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26885220"
-  },
-  {
-    "title": "The US electric power sector is halfway to zero carbon emissions",
-    "url": "https://theconversation.com/the-us-electric-power-sector-is-halfway-to-zero-carbon-emissions-159190",
-    "upvotes": 10,
-    "author": "oblib",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26898786"
   }
 ]
