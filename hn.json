@@ -2,47 +2,47 @@
   {
     "title": "Stranded sailor allowed to leave abandoned ship after four years",
     "url": "https://www.bbc.com/news/world-middle-east-56842506",
-    "upvotes": 633,
+    "upvotes": 655,
     "author": "alphachloride",
-    "comments": 290,
+    "comments": 297,
     "link": "https://news.ycombinator.com/item?id=26906817"
   },
   {
     "title": "The Rise of North Korea's Hacking Army",
     "url": "https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army",
-    "upvotes": 89,
+    "upvotes": 93,
     "author": "mitchbob",
-    "comments": 61,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=26909488"
-  },
-  {
-    "title": "Cerebras’ new monster AI chip adds 1.4T transistors",
-    "url": "https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors",
-    "upvotes": 188,
-    "author": "Anon84",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=26907176"
   },
   {
     "title": "The USPS is running a 'covert' program to monitor Americans' social media posts",
     "url": "https://news.yahoo.com/the-postal-service-is-running-a-running-a-covert-operations-program-that-monitors-americans-social-media-posts-160022919.html",
-    "upvotes": 332,
+    "upvotes": 339,
     "author": "nahikoa",
-    "comments": 166,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=26892180"
+  },
+  {
+    "title": "Cerebras’ new monster AI chip adds 1.4T transistors",
+    "url": "https://spectrum.ieee.org/tech-talk/semiconductors/processors/cerebras-giant-ai-chip-now-has-a-trillions-more-transistors",
+    "upvotes": 193,
+    "author": "Anon84",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=26907176"
   },
   {
     "title": "Smart Folk Often Full of Crap, Study Finds",
     "url": "https://themultidisciplinarian.com/2021/04/22/smart-folk-often-full-of-crap-study-finds/",
-    "upvotes": 47,
+    "upvotes": 55,
     "author": "Amorymeltzer",
-    "comments": 18,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=26909473"
   },
   {
     "title": "Semgrep: Semantic grep for code",
     "url": "https://semgrep.dev",
-    "upvotes": 313,
+    "upvotes": 320,
     "author": "ievans",
     "comments": 87,
     "link": "https://news.ycombinator.com/item?id=26904951"
@@ -50,15 +50,15 @@
   {
     "title": "Argentine version of Google falls into “wrong” hands",
     "url": "https://en.mercopress.com/2021/04/22/argentine-version-of-google-falls-into-wrong-hands-leading-to-search-engine-s-temporary-collapse",
-    "upvotes": 279,
+    "upvotes": 282,
     "author": "pedro-guimaraes",
-    "comments": 146,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=26904136"
   },
   {
     "title": "Mars Helicopter successfully completed its second flight",
     "url": "https://twitter.com/NASAJPL/status/1385228111323615239",
-    "upvotes": 316,
+    "upvotes": 319,
     "author": "Sami_Lehtinen",
     "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26902689"
@@ -66,9 +66,9 @@
   {
     "title": "Lambda: The Ultimate Excel Worksheet Function",
     "url": "https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/",
-    "upvotes": 122,
+    "upvotes": 129,
     "author": "elemeno",
-    "comments": 51,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=26900419"
   },
   {
@@ -76,107 +76,115 @@
     "url": "https://forum.opnsense.org/index.php?topic=22761.msg108313#msg108313",
     "upvotes": 31,
     "author": "zdw",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26909692"
   },
   {
     "title": "GitHub Actions update: Helping maintainers combat bad actors",
     "url": "https://github.blog/2021-04-22-github-actions-update-helping-maintainers-combat-bad-actors/",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "todsacerdoti",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26908076"
-  },
-  {
-    "title": "Web developer's guide to AVIF images",
-    "url": "https://darekkay.com/blog/avif-images/",
-    "upvotes": 22,
-    "author": "darekkay",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26901801"
-  },
-  {
-    "title": "Headless WYSISWYG Text Editor – tiptap editor",
-    "url": "https://www.tiptap.dev/",
-    "upvotes": 4,
-    "author": "me_bx",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26901975"
   },
   {
     "title": "Zellij – A Terminal Workspace and Multiplexer",
     "url": "http://zellij.dev/news/beta#",
-    "upvotes": 364,
+    "upvotes": 367,
     "author": "ibraheemdev",
-    "comments": 207,
+    "comments": 208,
     "link": "https://news.ycombinator.com/item?id=26902430"
+  },
+  {
+    "title": "Web developer's guide to AVIF images",
+    "url": "https://darekkay.com/blog/avif-images/",
+    "upvotes": 24,
+    "author": "darekkay",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26901801"
   },
   {
     "title": "Green vs. Brown Programming Languages",
     "url": "https://earthly.dev/blog/brown-green-language/",
-    "upvotes": 351,
+    "upvotes": 355,
     "author": "muglug",
-    "comments": 351,
+    "comments": 356,
     "link": "https://news.ycombinator.com/item?id=26902821"
-  },
-  {
-    "title": "Ask HN: Is there a way to efficiently subscribe to an SQL query for changes?",
-    "url": "item?id=26901352",
-    "upvotes": 73,
-    "author": "vaughan",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26901352"
   },
   {
     "title": "Boyer-Moore string search algorithm explanation and formal verification",
     "url": "https://yurichev.com/news/20210421_boyer_moore/",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26900640"
   },
   {
+    "title": "Ask HN: Is there a way to efficiently subscribe to an SQL query for changes?",
+    "url": "item?id=26901352",
+    "upvotes": 79,
+    "author": "vaughan",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=26901352"
+  },
+  {
     "title": "Noise in Creative Coding",
     "url": "https://varun.ca/noise/",
-    "upvotes": 174,
+    "upvotes": 177,
     "author": "winkerVSbecks",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26904637"
+  },
+  {
+    "title": "Headless WYSISWYG Text Editor – tiptap editor",
+    "url": "https://www.tiptap.dev/",
+    "upvotes": 8,
+    "author": "me_bx",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26901975"
+  },
+  {
+    "title": "GitHub Actions: Maintainers must approve first time contributer workflow runs",
+    "url": "https://github.blog/changelog/2021-04-22-github-actions-maintainers-must-approve-first-time-contributer-workflow-runs/",
+    "upvotes": 26,
+    "author": "digitalnalogika",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26908934"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "Show HN: Earth Day dashboard for the Reef ~ 11.8k mins / 3k contribs today",
-    "url": "https://greatreefcensus.org/event/earthday",
-    "upvotes": 9,
-    "author": "somishere",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=26909793"
-  },
-  {
-    "title": "GitHub Actions: Maintainers must approve first time contributer workflow runs",
-    "url": "https://github.blog/changelog/2021-04-22-github-actions-maintainers-must-approve-first-time-contributer-workflow-runs/",
-    "upvotes": 23,
-    "author": "digitalnalogika",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26908934"
-  },
-  {
     "title": "EFF sues Proctorio on behalf of student falsely DMCA'd",
     "url": "https://www.eff.org/press/releases/eff-sues-proctorio-behalf-student-it-falsely-accused-copyright-infringement-get",
-    "upvotes": 683,
+    "upvotes": 689,
     "author": "oxylibrium",
     "comments": 469,
     "link": "https://news.ycombinator.com/item?id=26898651"
   },
   {
+    "title": "Show HN: Earth Day dashboard for the Reef ~ 11.8k mins / 3k contribs today",
+    "url": "https://greatreefcensus.org/event/earthday",
+    "upvotes": 10,
+    "author": "somishere",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26909793"
+  },
+  {
+    "title": "Apple’s M1 Positioning Mocks the Entire x86 Business Model",
+    "url": "https://www.extremetech.com/computing/322120-apples-m1-positioning-mocks-every-x86-cpu-amd-and-intel-have-ever-launched",
+    "upvotes": 37,
+    "author": "danaris",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=26910193"
+  },
+  {
     "title": "On Being an Outsider",
     "url": "https://lithub.com/on-being-an-outsider-words-by-charles-simic-photos-romeo-alaeff/",
-    "upvotes": 82,
+    "upvotes": 83,
     "author": "related",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=26905166"
   },
   {
@@ -196,12 +204,12 @@
     "link": "https://news.ycombinator.com/item?id=26901461"
   },
   {
-    "title": "Apple’s M1 Positioning Mocks the Entire x86 Business Model",
-    "url": "https://www.extremetech.com/computing/322120-apples-m1-positioning-mocks-every-x86-cpu-amd-and-intel-have-ever-launched",
-    "upvotes": 25,
-    "author": "danaris",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26910193"
+    "title": "X11 Universal File Opener and XDG Mess",
+    "url": "https://vermaden.wordpress.com/2021/04/22/freebsd-desktop-part-24-configuration-universal-file-opener/",
+    "upvotes": 59,
+    "author": "vermaden",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26907603"
   },
   {
     "title": "A new biography of Louise Fitzhugh, who wrote “Harriet the Spy”",
@@ -212,17 +220,9 @@
     "link": "https://news.ycombinator.com/item?id=26905103"
   },
   {
-    "title": "X11 Universal File Opener and XDG Mess",
-    "url": "https://vermaden.wordpress.com/2021/04/22/freebsd-desktop-part-24-configuration-universal-file-opener/",
-    "upvotes": 57,
-    "author": "vermaden",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26907603"
-  },
-  {
     "title": "From WinZips to Cat GIFs, Jacob Ziv’s Algorithms Have Powered Decades of Compr",
     "url": "https://spectrum.ieee.org/geek-life/profiles/from-winzips-to-cat-gifs-jacob-zivs-algorithms-have-powered-decades-of-compression",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "chha",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26899860"
@@ -230,7 +230,7 @@
   {
     "title": "Designing sockfuzzer, a network syscall fuzzer for XNU",
     "url": "https://googleprojectzero.blogspot.com/2021/04/designing-sockfuzzer-network-syscall.html",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "ototot",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26906474"
