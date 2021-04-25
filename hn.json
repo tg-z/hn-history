@@ -1,148 +1,156 @@
 [
   {
+    "title": "Has UML died without anyone noticing?",
+    "url": "https://garba.org/posts/2021/uml/",
+    "upvotes": 31,
+    "author": "azhenley",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=26934577"
+  },
+  {
     "title": "Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C",
     "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
-    "upvotes": 116,
+    "upvotes": 152,
     "author": "signa11",
-    "comments": 24,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=26931581"
   },
   {
     "title": "Renderman",
     "url": "https://renderman.pixar.com/",
-    "upvotes": 51,
+    "upvotes": 60,
     "author": "fctorial",
-    "comments": 9,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26923280"
   },
   {
     "title": "Amtrak's 2035 Map Has People Talking About the Future of U.S. Train Travel",
     "url": "https://www.npr.org/2021/04/06/984464351/as-biden-pushes-major-rail-investments-rail-amtraks-2035-map-has-people-talking?t=1619351947832",
-    "upvotes": 140,
+    "upvotes": 149,
     "author": "Tomte",
-    "comments": 203,
+    "comments": 222,
     "link": "https://news.ycombinator.com/item?id=26932071"
   },
   {
     "title": "The knackerman: the toughest job in British farming",
     "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
-    "upvotes": 37,
+    "upvotes": 43,
     "author": "sensiquest",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26930873"
   },
   {
     "title": "Simulation of Space Shuttle – STS 62 A Polar Express high altitude journey",
     "url": "https://forum.flightgear.org/viewtopic.php?f=87&t=38916",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "emondi",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26932517"
-  },
-  {
-    "title": "Cisco says computer chip shortage to last six months",
-    "url": "https://www.bbc.co.uk/news/technology-56847518",
-    "upvotes": 156,
-    "author": "mjmasn",
-    "comments": 86,
-    "link": "https://news.ycombinator.com/item?id=26931244"
   },
   {
     "title": "Substack",
     "url": "https://substack.com/jobs"
   },
   {
-    "title": "The joys of creating Xcode project files",
-    "url": "https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html",
-    "upvotes": 88,
-    "author": "ingve",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=26932240"
+    "title": "Cisco says computer chip shortage to last six months",
+    "url": "https://www.bbc.co.uk/news/technology-56847518",
+    "upvotes": 162,
+    "author": "mjmasn",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=26931244"
   },
   {
     "title": "Lipogram",
     "url": "https://en.wikipedia.org/wiki/Lipogram",
-    "upvotes": 18,
+    "upvotes": 22,
     "author": "galfarragem",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26923483"
   },
   {
-    "title": "OpenSourceFPGA Launches Foundation to Accelerate Adoption of Programmable Logic",
-    "url": "https://www.businesswire.com/news/home/20210408005158/en/Open-Source-FPGA-Launches-Foundation-to-Accelerate-Widespread-Adoption-of-Programmable-Logic",
-    "upvotes": 11,
-    "author": "lelf",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26925167"
+    "title": "The joys of creating Xcode project files",
+    "url": "https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html",
+    "upvotes": 97,
+    "author": "ingve",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26932240"
   },
   {
     "title": "Apple sued for terminating account with $25k worth of apps and videos",
     "url": "https://arstechnica.com/tech-policy/2021/04/apple-faces-class-action-lawsuit-over-its-definition-of-the-word-buy/",
-    "upvotes": 328,
+    "upvotes": 350,
     "author": "imgabe",
-    "comments": 202,
+    "comments": 220,
     "link": "https://news.ycombinator.com/item?id=26932144"
+  },
+  {
+    "title": "OpenSourceFPGA Launches Foundation to Accelerate Adoption of Programmable Logic",
+    "url": "https://www.businesswire.com/news/home/20210408005158/en/Open-Source-FPGA-Launches-Foundation-to-Accelerate-Widespread-Adoption-of-Programmable-Logic",
+    "upvotes": 16,
+    "author": "lelf",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26925167"
+  },
+  {
+    "title": "Java for Everything",
+    "url": "https://www.teamten.com/lawrence/writings/java-for-everything.html",
+    "upvotes": 7,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26934297"
+  },
+  {
+    "title": "3D Game Shaders for Beginners",
+    "url": "https://github.com/lettier/3d-game-shaders-for-beginners",
+    "upvotes": 162,
+    "author": "ingve",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26931372"
   },
   {
     "title": "Feynman: I am burned out and I'll never accomplish anything",
     "url": "https://www.asc.ohio-state.edu/kilcup.1/262/feynman.html?repostindays=413",
-    "upvotes": 698,
+    "upvotes": 715,
     "author": "ent101",
-    "comments": 200,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=26931359"
   },
   {
     "title": "Show HN: MarkShow – Create Slideshows with Markdown",
     "url": "https://mark.show",
-    "upvotes": 155,
+    "upvotes": 159,
     "author": "motyar",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26931098"
   },
   {
-    "title": "3D Game Shaders for Beginners",
-    "url": "https://github.com/lettier/3d-game-shaders-for-beginners",
-    "upvotes": 154,
-    "author": "ingve",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26931372"
-  },
-  {
     "title": "Keeping Time with Zircons",
     "url": "https://knowablemagazine.org/article/physical-world/2021/keeping-time-zircons",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "bryanrasmussen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26922542"
   },
   {
-    "title": "EU proposing to regulate the use of Bayesian estimation",
-    "url": "https://statmodeling.stat.columbia.edu/2021/04/22/eu-proposing-to-regulate-the-use-of-bayesian-estimation/",
-    "upvotes": 99,
-    "author": "tosh",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=26932750"
-  },
-  {
-    "title": "Job descriptions should show a salary or salary range",
-    "url": "https://sifted.eu/articles/job-advert-salary-range/",
-    "upvotes": 239,
-    "author": "mooreds",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=26932978"
-  },
-  {
     "title": "The feeling of disgust, and where it comes from",
     "url": "https://nautil.us/blog/-why-we-love-to-be-grossed-out",
-    "upvotes": 22,
+    "upvotes": 26,
     "author": "dnetesn",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26924001"
   },
   {
+    "title": "Job descriptions should show a salary or salary range",
+    "url": "https://sifted.eu/articles/job-advert-salary-range/",
+    "upvotes": 259,
+    "author": "mooreds",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=26932978"
+  },
+  {
     "title": "OpenAstroTracker: 3D printed, open source star tracker",
     "url": "https://openastrotech.com/",
-    "upvotes": 125,
+    "upvotes": 127,
     "author": "trishmapow2",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26930958"
@@ -150,31 +158,55 @@
   {
     "title": "JavaScript for Data Science",
     "url": "http://js4ds.org/",
-    "upvotes": 81,
+    "upvotes": 85,
     "author": "mrmagoo17",
-    "comments": 42,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=26931296"
   },
   {
-    "title": "Dynamic Programming vs. Divide-and-Conquer",
-    "url": "https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/",
-    "upvotes": 162,
-    "author": "trekhleb",
+    "title": "EU proposing to regulate the use of Bayesian estimation",
+    "url": "https://statmodeling.stat.columbia.edu/2021/04/22/eu-proposing-to-regulate-the-use-of-bayesian-estimation/",
+    "upvotes": 109,
+    "author": "tosh",
     "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26930667"
+    "link": "https://news.ycombinator.com/item?id=26932750"
+  },
+  {
+    "title": "Before He Wrote a Thesaurus, Roget Had to Escape Napoleon’s Dragnet",
+    "url": "https://www.smithsonianmag.com/arts-culture/roget-gets-last-word-180977459/",
+    "upvotes": 4,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26929915"
   },
   {
     "title": "Expanding Breadth versus Coherency: The EMS Project",
     "url": "https://hardcoresoftware.learningbyshipping.com/p/021-expanding-breadth-versus-coherency",
-    "upvotes": 8,
+    "upvotes": 9,
     "author": "tmfi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26913811"
   },
   {
+    "title": "Dynamic Programming vs. Divide-and-Conquer",
+    "url": "https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/",
+    "upvotes": 171,
+    "author": "trekhleb",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=26930667"
+  },
+  {
+    "title": "Ask HN: Are there any standard monochrome low resolution resolutions?",
+    "url": "item?id=26934352",
+    "upvotes": 9,
+    "author": "bestcoder",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26934352"
+  },
+  {
     "title": "Why do drum sets have descending toms?",
     "url": "https://www.lowvolumedrumming.org/descending-toms/",
-    "upvotes": 147,
+    "upvotes": 153,
     "author": "antibland",
     "comments": 57,
     "link": "https://news.ycombinator.com/item?id=26930361"
@@ -182,7 +214,7 @@
   {
     "title": "Rust Language Cheat Sheet",
     "url": "https://cheats.rs/",
-    "upvotes": 297,
+    "upvotes": 305,
     "author": "arunc",
     "comments": 84,
     "link": "https://news.ycombinator.com/item?id=26930908"
@@ -190,7 +222,7 @@
   {
     "title": "Legends and science of bottomless pits, bogs, and lakes",
     "url": "https://spookygeology.com/legends-and-science-of-bottomless-pits-bogs-and-lakes/",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "merrier",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26930814"
@@ -198,41 +230,9 @@
   {
     "title": "Millions of the Pentagon’s dormant IP addresses sprang to life on January 20",
     "url": "https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/",
-    "upvotes": 524,
+    "upvotes": 527,
     "author": "jimschley",
-    "comments": 226,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=26924883"
-  },
-  {
-    "title": "Evolving Reinforcement Learning Algorithms",
-    "url": "https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html",
-    "upvotes": 81,
-    "author": "graderjs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26930665"
-  },
-  {
-    "title": "Ask HN: Are there any standard small one color resolutions?",
-    "url": "item?id=26934352",
-    "upvotes": 5,
-    "author": "bestcoder",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26934352"
-  },
-  {
-    "title": "On Training the Medical Mind",
-    "url": "https://scholars-stage.blogspot.com/2021/04/for-god-and-progress-notes-on-liberal.html",
-    "upvotes": 57,
-    "author": "ascertain",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26930860"
-  },
-  {
-    "title": "The effects of solar flares on Earth's magnetosphere",
-    "url": "https://phys.org/news/2021-04-effects-solar-flares-earth-magnetosphere.html",
-    "upvotes": 35,
-    "author": "dnetesn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26924014"
   }
 ]
