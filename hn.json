@@ -1,16 +1,80 @@
 [
   {
+    "title": "Dynamic Programming vs. Divide-and-Conquer",
+    "url": "https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/",
+    "upvotes": 15,
+    "author": "trekhleb",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26930667"
+  },
+  {
     "title": "Show HN: Verilog2factorio",
     "url": "https://github.com/Redcrafter/verilog2factorio/",
-    "upvotes": 137,
+    "upvotes": 152,
     "author": "linux_is_nice",
-    "comments": 37,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26929370"
+  },
+  {
+    "title": "Why do drum sets have descending toms?",
+    "url": "https://www.lowvolumedrumming.org/descending-toms/",
+    "upvotes": 25,
+    "author": "antibland",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26930361"
+  },
+  {
+    "title": "Millions of the Pentagon’s dormant IP addresses sprang to life on January 20",
+    "url": "https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/",
+    "upvotes": 447,
+    "author": "jimschley",
+    "comments": 196,
+    "link": "https://news.ycombinator.com/item?id=26924883"
+  },
+  {
+    "title": "Let's stop building APIs around a network hack",
+    "url": "https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack",
+    "upvotes": 57,
+    "author": "pcr910303",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26930477"
+  },
+  {
+    "title": "Common interface for Linux NIC statistics",
+    "url": "https://people.kernel.org/kuba/common-interface-for-nic-statistics",
+    "upvotes": 87,
+    "author": "sohkamyung",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26929111"
+  },
+  {
+    "title": "Dan Kaminsky has died",
+    "url": "https://twitter.com/marcwrogers/status/1385961838735597572",
+    "upvotes": 1102,
+    "author": "rincebrain",
+    "comments": 139,
+    "link": "https://news.ycombinator.com/item?id=26925044"
+  },
+  {
+    "title": "Wasm3 compiles itself",
+    "url": "https://twitter.com/wasm3_engine/status/1384288567627640839",
+    "upvotes": 131,
+    "author": "theBashShell",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=26916866"
+  },
+  {
+    "title": "A Silly Anti-Disassembly Trick",
+    "url": "https://alexomara.com/blog/a-silly-anti-disassembly-trick/",
+    "upvotes": 160,
+    "author": "diimdeep",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=26926883"
   },
   {
     "title": "Inside Chernobyl Nuclear Power Plant",
     "url": "https://petapixel.com/2021/04/24/exclusive-photos-inside-the-chernobyl-nuclear-power-plant/",
-    "upvotes": 32,
+    "upvotes": 43,
     "author": "alex_young",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26930123"
@@ -18,90 +82,42 @@
   {
     "title": "The difficulty of programming depends on the layer and quality of abstraction",
     "url": "https://okossa.com/is-programming-hard-it-depends-ada7fe642025",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "okwe",
-    "comments": 6,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26930461"
   },
   {
-    "title": "Why do drum sets have descending toms?",
-    "url": "https://www.lowvolumedrumming.org/descending-toms/",
-    "upvotes": 20,
-    "author": "antibland",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26930361"
+    "title": "FFmpeg Cheat Sheet",
+    "url": "https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730",
+    "upvotes": 119,
+    "author": "evo_9",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26926026"
   },
   {
-    "title": "Let's stop building APIs around a network hack",
-    "url": "https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack",
-    "upvotes": 55,
-    "author": "pcr910303",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26930477"
-  },
-  {
-    "title": "Dynamic Programming vs. Divide-and-Conquer",
-    "url": "https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/",
-    "upvotes": 4,
-    "author": "trekhleb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26930667"
-  },
-  {
-    "title": "Common interface for Linux NIC statistics",
-    "url": "https://people.kernel.org/kuba/common-interface-for-nic-statistics",
-    "upvotes": 84,
-    "author": "sohkamyung",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26929111"
-  },
-  {
-    "title": "Wasm3 compiles itself",
-    "url": "https://twitter.com/wasm3_engine/status/1384288567627640839",
-    "upvotes": 126,
-    "author": "theBashShell",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=26916866"
-  },
-  {
-    "title": "A Silly Anti-Disassembly Trick",
-    "url": "https://alexomara.com/blog/a-silly-anti-disassembly-trick/",
-    "upvotes": 157,
-    "author": "diimdeep",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26926883"
-  },
-  {
-    "title": "Show HN: hackernews_tui – A Terminal UI to browse Hacker News discussions",
-    "url": "https://github.com/aome510/hackernews-TUI",
-    "upvotes": 54,
-    "author": "aome510",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26929588"
-  },
-  {
-    "title": "Nuclear fusion plan at former Aberthaw Power Station",
-    "url": "https://www.bbc.co.uk/news/uk-wales-56872376",
-    "upvotes": 21,
-    "author": "dane-pgp",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26929621"
+    "title": "Efabless: Open-Source MPW Shuttle Program",
+    "url": "https://efabless.com/open_shuttle_program/2",
+    "upvotes": 22,
+    "author": "lelf",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26924829"
   },
   {
     "title": "Curated List of Lists",
     "url": "https://project-awesome.org/",
-    "upvotes": 18,
+    "upvotes": 21,
     "author": "tux",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26929847"
   },
   {
-    "title": "Efabless: Open-Source MPW Shuttle Program",
-    "url": "https://efabless.com/open_shuttle_program/2",
-    "upvotes": 21,
-    "author": "lelf",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26924829"
+    "title": "Show HN: hackernews_tui – A Terminal UI to browse Hacker News discussions",
+    "url": "https://github.com/aome510/hackernews-TUI",
+    "upvotes": 55,
+    "author": "aome510",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26929588"
   },
   {
     "title": "Warehouse-scale video acceleration: co-design and deployment in the wild",
@@ -112,28 +128,16 @@
     "link": "https://news.ycombinator.com/item?id=26925307"
   },
   {
-    "title": "Millions of the Pentagon’s dormant IP addresses sprang to life on January 20",
-    "url": "https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/",
-    "upvotes": 445,
-    "author": "jimschley",
-    "comments": 195,
-    "link": "https://news.ycombinator.com/item?id=26924883"
+    "title": "Intel Internet Party Line",
+    "url": "https://web.archive.org/web/19970419202411/http://www1.intel.com/iaweb/ipl/index.htm",
+    "upvotes": 84,
+    "author": "omnibrain",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26899946"
   },
   {
-    "title": "Alien Artifacts on Earth and in Our Solar System Is Possible, NASA Reports",
-    "url": "https://thedebrief.org/alien-artifacts-on-earth-and-in-our-solar-system-is-possible-nasa-reports/",
-    "upvotes": 33,
-    "author": "weare138",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26930157"
-  },
-  {
-    "title": "FFmpeg Cheat Sheet",
-    "url": "https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730",
-    "upvotes": 115,
-    "author": "evo_9",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26926026"
+    "title": "Streak",
+    "url": "https://www.streak.com/careers/product-engineer"
   },
   {
     "title": "Lmgrep: Lucene-based grep-like utility",
@@ -144,53 +148,33 @@
     "link": "https://news.ycombinator.com/item?id=26928136"
   },
   {
-    "title": "Intel Internet Party Line",
-    "url": "https://web.archive.org/web/19970419202411/http://www1.intel.com/iaweb/ipl/index.htm",
-    "upvotes": 83,
-    "author": "omnibrain",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=26899946"
-  },
-  {
-    "title": "The unreasonable effectiveness of print debugging",
-    "url": "https://buttondown.email/geoffreylitt/archive/starting-this-newsletter-print-debugging-byoc/",
-    "upvotes": 319,
-    "author": "pcr910303",
-    "comments": 315,
-    "link": "https://news.ycombinator.com/item?id=26925570"
-  },
-  {
-    "title": "Open letter from researchers involved in the “hypocrite commit” debacle",
-    "url": "https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u",
-    "upvotes": 167,
-    "author": "marcodiego",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=26929470"
-  },
-  {
-    "title": "Streak",
-    "url": "https://www.streak.com/careers/product-engineer"
+    "title": "Nuclear fusion plan at former Aberthaw Power Station",
+    "url": "https://www.bbc.co.uk/news/uk-wales-56872376",
+    "upvotes": 23,
+    "author": "dane-pgp",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26929621"
   },
   {
     "title": "Backdoored password manager stole data from as many as 29K enterprises",
     "url": "https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/?comments=1",
-    "upvotes": 103,
+    "upvotes": 108,
     "author": "vanburen",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26928067"
   },
   {
-    "title": "Dan Kaminsky has died",
-    "url": "https://twitter.com/marcwrogers/status/1385961838735597572",
-    "upvotes": 1090,
-    "author": "rincebrain",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=26925044"
+    "title": "Open letter from researchers involved in the “hypocrite commit” debacle",
+    "url": "https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u",
+    "upvotes": 175,
+    "author": "marcodiego",
+    "comments": 201,
+    "link": "https://news.ycombinator.com/item?id=26929470"
   },
   {
     "title": "Using <details> for menus and dialogs",
     "url": "https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/",
-    "upvotes": 111,
+    "upvotes": 112,
     "author": "todsacerdoti",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26915706"
@@ -198,7 +182,7 @@
   {
     "title": "Web page that crashes the Chrome renderer",
     "url": "https://ronsor.github.io/byechrome.html?ok=bye",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "ronsor",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=26929240"
@@ -212,20 +196,36 @@
     "link": "https://news.ycombinator.com/item?id=26922619"
   },
   {
+    "title": "Human life as technology from Greek mythology to Mary Shelley’s Frankenstein",
+    "url": "https://www.laphamsquarterly.org/technology/prometheus-toolbox",
+    "upvotes": 31,
+    "author": "pseudolus",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26923930"
+  },
+  {
     "title": "‘Insanely cheap energy’: solar power continues to shock the world",
     "url": "https://www.theguardian.com/australia-news/2021/apr/25/insanely-cheap-energy-how-solar-power-continues-to-shock-the-world",
-    "upvotes": 169,
+    "upvotes": 175,
     "author": "toomuchtodo",
-    "comments": 184,
+    "comments": 194,
     "link": "https://news.ycombinator.com/item?id=26928395"
   },
   {
-    "title": "Human life as technology from Greek mythology to Mary Shelley’s Frankenstein",
-    "url": "https://www.laphamsquarterly.org/technology/prometheus-toolbox",
-    "upvotes": 30,
-    "author": "pseudolus",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26923930"
+    "title": "Alien Artifacts on Earth and in Our Solar System Is Possible, NASA Reports",
+    "url": "https://thedebrief.org/alien-artifacts-on-earth-and-in-our-solar-system-is-possible-nasa-reports/",
+    "upvotes": 35,
+    "author": "weare138",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26930157"
+  },
+  {
+    "title": "William Blake’s The Gates of Paradise",
+    "url": "https://publicdomainreview.org/collection/william-blakes-the-gates-of-paradise",
+    "upvotes": 33,
+    "author": "prismatic",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26915844"
   },
   {
     "title": "Mars has right ingredients for present-day microbial life: study",
