@@ -1,51 +1,59 @@
 [
   {
-    "title": "Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594",
-    "upvotes": 184,
-    "author": "barbazoo",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26935488"
-  },
-  {
     "title": "Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C",
     "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
-    "upvotes": 323,
+    "upvotes": 335,
     "author": "signa11",
-    "comments": 108,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=26931581"
   },
   {
-    "title": "Zero-downtime Heroku-style deployments with Git and Docker",
+    "title": "Heroku-style deployments with Docker and Git tags",
     "url": "https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/",
-    "upvotes": 42,
+    "upvotes": 53,
     "author": "polyrand",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26935725"
   },
   {
     "title": "Last Resort Font",
     "url": "http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html",
-    "upvotes": 35,
+    "upvotes": 41,
     "author": "isomorph",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26936027"
   },
   {
-    "title": "Swift on the Server in 2020",
+    "title": "Swift on the Server",
     "url": "https://theswiftdev.com/swift-on-the-server-in-2020/",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "gozzoo",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26935152"
+  },
+  {
+    "title": "Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594",
+    "upvotes": 207,
+    "author": "barbazoo",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=26935488"
   },
   {
     "title": "Developers on what makes their games ‘hand-drawn’",
     "url": "https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove",
-    "upvotes": 52,
+    "upvotes": 58,
     "author": "homarp",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26931084"
+  },
+  {
+    "title": "How Facebook encodes videos",
+    "url": "https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/",
+    "upvotes": 15,
+    "author": "nl",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26930702"
   },
   {
     "title": "Replit",
@@ -54,31 +62,23 @@
   {
     "title": "Has UML died without anyone noticing?",
     "url": "https://garba.org/posts/2021/uml/",
-    "upvotes": 312,
+    "upvotes": 335,
     "author": "azhenley",
-    "comments": 312,
+    "comments": 332,
     "link": "https://news.ycombinator.com/item?id=26934577"
   },
   {
-    "title": "Launch Your App: Why We Don’t Use Docker",
-    "url": "https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html",
-    "upvotes": 76,
-    "author": "wheresvic4",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26934953"
-  },
-  {
-    "title": "Ingenuity: NASA's Mars helicopter makes it three from three",
-    "url": "https://www.bbc.co.uk/news/science-environment-56882257",
-    "upvotes": 5,
-    "author": "rwmj",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26936457"
+    "title": "A Product Engineer’s Guide to Platform Engineers",
+    "url": "https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1",
+    "upvotes": 33,
+    "author": "absolute100",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=26935504"
   },
   {
     "title": "Casbin: An authorization library that supports authz models like ACL, RBAC, ABAC",
     "url": "https://github.com/casbin/casbin",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "hsluoyz",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26934520"
@@ -86,63 +86,39 @@
   {
     "title": "MMPX Style-Preserving Pixel Art Magnification [pdf]",
     "url": "https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "ingve",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26934973"
-  },
-  {
-    "title": "Python Mobile App Development",
-    "url": "https://generalistprogrammer.com/python/python-app-development-for-beginners-kivy-mobile-app-tutorial/",
-    "upvotes": 32,
-    "author": "gprogrammer",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26935529"
   },
   {
     "title": "The knackerman: the toughest job in British farming",
     "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
-    "upvotes": 104,
+    "upvotes": 111,
     "author": "sensiquest",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26930873"
   },
   {
-    "title": "“No Defense of the Indefensible”: L.A. Judge Makes Landmark Homelessness Ruling",
-    "url": "https://www.postalley.org/2021/04/25/no-defense-of-the-indefensible-los-angeles-judge-makes-landmark-ruling-on-homelessness/",
-    "upvotes": 7,
-    "author": "troydavis",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26936511"
+    "title": "Ingenuity: NASA's Mars helicopter makes it three from three",
+    "url": "https://www.bbc.co.uk/news/science-environment-56882257",
+    "upvotes": 27,
+    "author": "rwmj",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=26936457"
   },
   {
     "title": "Cisco says computer chip shortage to last six months",
     "url": "https://www.bbc.co.uk/news/technology-56847518",
-    "upvotes": 198,
+    "upvotes": 199,
     "author": "mjmasn",
-    "comments": 118,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=26931244"
-  },
-  {
-    "title": "Stupid Baboons: A Product Engineer’s Guide to Platform Engineers",
-    "url": "https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1",
-    "upvotes": 23,
-    "author": "absolute100",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26935504"
-  },
-  {
-    "title": "The more complex crypto seems, the higher the pyramid schemes can go",
-    "url": "https://reallifemag.com/money-for-nothing/",
-    "upvotes": 146,
-    "author": "RuffleGordon",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=26933489"
   },
   {
     "title": "OpenSourceFPGA Launches Foundation to Accelerate Adoption of Programmable Logic",
     "url": "https://www.businesswire.com/news/home/20210408005158/en/Open-Source-FPGA-Launches-Foundation-to-Accelerate-Widespread-Adoption-of-Programmable-Logic",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "lelf",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26925167"
@@ -150,7 +126,7 @@
   {
     "title": "3D Game Shaders for Beginners",
     "url": "https://github.com/lettier/3d-game-shaders-for-beginners",
-    "upvotes": 212,
+    "upvotes": 220,
     "author": "ingve",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26931372"
@@ -158,15 +134,23 @@
   {
     "title": "Apple sued for terminating account with $25k worth of apps and videos",
     "url": "https://arstechnica.com/tech-policy/2021/04/apple-faces-class-action-lawsuit-over-its-definition-of-the-word-buy/",
-    "upvotes": 513,
+    "upvotes": 519,
     "author": "imgabe",
-    "comments": 287,
+    "comments": 298,
     "link": "https://news.ycombinator.com/item?id=26932144"
+  },
+  {
+    "title": "The joys of creating Xcode project files",
+    "url": "https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html",
+    "upvotes": 122,
+    "author": "ingve",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=26932240"
   },
   {
     "title": "Before he wrote a thesaurus, Roget had to escape Napoleon’s dragnet",
     "url": "https://www.smithsonianmag.com/arts-culture/roget-gets-last-word-180977459/",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26929915"
@@ -174,15 +158,15 @@
   {
     "title": "Simulation of Space Shuttle – STS 62 A Polar Express high altitude journey",
     "url": "https://forum.flightgear.org/viewtopic.php?f=87&t=38916",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "emondi",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26932517"
   },
   {
     "title": "PCG32: The Perfect PRNG for Roguelikes",
     "url": "https://steveasleep.com/pcg32-the-perfect-prng-for-roguelikes.html",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "henning",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26934636"
@@ -190,10 +174,18 @@
   {
     "title": "Show HN: MarkShow – Create Slideshows with Markdown",
     "url": "https://mark.show",
-    "upvotes": 180,
+    "upvotes": 184,
     "author": "motyar",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26931098"
+  },
+  {
+    "title": "Álvaro de Campos",
+    "url": "https://en.wikipedia.org/wiki/Álvaro_de_Campos",
+    "upvotes": 40,
+    "author": "apollinaire",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26929600"
   },
   {
     "title": "Why Do We Believe in Photographs?",
@@ -206,15 +198,15 @@
   {
     "title": "The Slander Industry",
     "url": "https://www.nytimes.com/interactive/2021/04/24/technology/online-slander-websites.html",
-    "upvotes": 118,
+    "upvotes": 124,
     "author": "mcenedella",
-    "comments": 79,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=26931894"
   },
   {
     "title": "OpenAstroTracker: 3D printed, open source star tracker",
     "url": "https://openastrotech.com/",
-    "upvotes": 147,
+    "upvotes": 153,
     "author": "trishmapow2",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26930958"
@@ -222,17 +214,25 @@
   {
     "title": "JavaScript for Data Science",
     "url": "http://js4ds.org/",
-    "upvotes": 118,
+    "upvotes": 120,
     "author": "mrmagoo17",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26931296"
   },
   {
-    "title": "Álvaro de Campos",
-    "url": "https://en.wikipedia.org/wiki/Álvaro_de_Campos",
-    "upvotes": 36,
-    "author": "apollinaire",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=26929600"
+    "title": "The Quest for a Floating Utopia",
+    "url": "https://www.hakaimagazine.com/features/the-quest-for-a-floating-utopia/",
+    "upvotes": 8,
+    "author": "Thevet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26934923"
+  },
+  {
+    "title": "Amtrak's 2035 map has people talking about the future of U.S. train travel",
+    "url": "https://www.npr.org/2021/04/06/984464351/as-biden-pushes-major-rail-investments-rail-amtraks-2035-map-has-people-talking?t=1619351947832",
+    "upvotes": 229,
+    "author": "Tomte",
+    "comments": 444,
+    "link": "https://news.ycombinator.com/item?id=26932071"
   }
 ]
