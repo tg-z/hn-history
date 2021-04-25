@@ -2,15 +2,23 @@
   {
     "title": "Dynamic Programming vs. Divide-and-Conquer",
     "url": "https://trekhleb.dev/blog/2018/dynamic-programming-vs-divide-and-conquer/",
-    "upvotes": 47,
+    "upvotes": 64,
     "author": "trekhleb",
-    "comments": 12,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=26930667"
+  },
+  {
+    "title": "Show HN: MarkShow – Create Slideshows with Markdown",
+    "url": "https://mark.show",
+    "upvotes": 10,
+    "author": "motyar",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26931098"
   },
   {
     "title": "OpenAstroTracker: 3D printed, open source star tracker",
     "url": "https://openastrotech.com/",
-    "upvotes": 14,
+    "upvotes": 24,
     "author": "trishmapow2",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26930958"
@@ -18,7 +26,7 @@
   {
     "title": "Show HN: Verilog2factorio",
     "url": "https://github.com/Redcrafter/verilog2factorio/",
-    "upvotes": 170,
+    "upvotes": 180,
     "author": "linux_is_nice",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=26929370"
@@ -26,63 +34,71 @@
   {
     "title": "Why do drum sets have descending toms?",
     "url": "https://www.lowvolumedrumming.org/descending-toms/",
-    "upvotes": 36,
+    "upvotes": 45,
     "author": "antibland",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26930361"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "url": "https://cheats.rs/",
+    "upvotes": 10,
+    "author": "arunc",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26930908"
   },
   {
     "title": "Millions of the Pentagon’s dormant IP addresses sprang to life on January 20",
     "url": "https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/",
-    "upvotes": 455,
+    "upvotes": 461,
     "author": "jimschley",
-    "comments": 200,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=26924883"
   },
   {
     "title": "Dan Kaminsky has died",
     "url": "https://twitter.com/marcwrogers/status/1385961838735597572",
-    "upvotes": 1131,
+    "upvotes": 1154,
     "author": "rincebrain",
-    "comments": 136,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=26925044"
+  },
+  {
+    "title": "On Training the Medical Mind",
+    "url": "https://scholars-stage.blogspot.com/2021/04/for-god-and-progress-notes-on-liberal.html",
+    "upvotes": 4,
+    "author": "ascertain",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26930860"
   },
   {
     "title": "Wasm3 compiles itself",
     "url": "https://twitter.com/wasm3_engine/status/1384288567627640839",
-    "upvotes": 138,
+    "upvotes": 148,
     "author": "theBashShell",
-    "comments": 75,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=26916866"
   },
   {
     "title": "Common interface for Linux NIC statistics",
     "url": "https://people.kernel.org/kuba/common-interface-for-nic-statistics",
-    "upvotes": 92,
+    "upvotes": 93,
     "author": "sohkamyung",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=26929111"
   },
   {
     "title": "A Silly Anti-Disassembly Trick",
     "url": "https://alexomara.com/blog/a-silly-anti-disassembly-trick/",
-    "upvotes": 169,
+    "upvotes": 176,
     "author": "diimdeep",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26926883"
-  },
-  {
-    "title": "Ask HN: How to get back hacker's mentality and joy of coding",
-    "url": "item?id=26930923",
-    "upvotes": 24,
-    "author": "epimetheus2",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26930923"
   },
   {
     "title": "Inside Chernobyl Nuclear Power Plant",
     "url": "https://petapixel.com/2021/04/24/exclusive-photos-inside-the-chernobyl-nuclear-power-plant/",
-    "upvotes": 71,
+    "upvotes": 87,
     "author": "alex_young",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26930123"
@@ -90,82 +106,82 @@
   {
     "title": "The difficulty of programming depends on the layer and quality of abstraction",
     "url": "https://okossa.com/is-programming-hard-it-depends-ada7fe642025",
-    "upvotes": 30,
+    "upvotes": 35,
     "author": "okwe",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26930461"
-  },
-  {
-    "title": "Let's stop building APIs around a network hack",
-    "url": "https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack",
-    "upvotes": 69,
-    "author": "pcr910303",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26930477"
-  },
-  {
-    "title": "Lmgrep: Lucene-based grep-like utility",
-    "url": "https://www.jocas.lt/blog/post/intro-to-lucene-grep/",
-    "upvotes": 61,
-    "author": "merename",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26928136"
   },
   {
     "title": "Is Werewolf Killing the Conference Hackfest?",
     "url": "http://headius.blogspot.com/2007/11/is-werewolf-killing-conference-hackfest.html",
-    "upvotes": 5,
+    "upvotes": 9,
     "author": "Lammy",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=26923240"
   },
   {
+    "title": "Hair animation and rendering in the Nalu demo",
+    "url": "https://developer.nvidia.com/gpugems/gpugems2/part-iii-high-quality-rendering/chapter-23-hair-animation-and-rendering-nalu-demo",
+    "upvotes": 4,
+    "author": "ImTheMaddest",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26930633"
+  },
+  {
     "title": "Show HN: hackernews_tui – A Terminal UI to browse Hacker News discussions",
     "url": "https://github.com/aome510/hackernews-TUI",
-    "upvotes": 61,
+    "upvotes": 68,
     "author": "aome510",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26929588"
   },
   {
+    "title": "Lmgrep: Lucene-based grep-like utility",
+    "url": "https://www.jocas.lt/blog/post/intro-to-lucene-grep/",
+    "upvotes": 63,
+    "author": "merename",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26928136"
+  },
+  {
+    "title": "Let's stop building APIs around a network hack",
+    "url": "https://apisyouwonthate.com/blog/lets-stop-building-apis-around-a-network-hack",
+    "upvotes": 72,
+    "author": "pcr910303",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=26930477"
+  },
+  {
     "title": "Nuclear fusion plan at former Aberthaw Power Station",
     "url": "https://www.bbc.co.uk/news/uk-wales-56872376",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "dane-pgp",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26929621"
   },
   {
     "title": "Efabless: Open-Source MPW Shuttle Program",
     "url": "https://efabless.com/open_shuttle_program/2",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "lelf",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26924829"
-  },
-  {
-    "title": "Intel Internet Party Line",
-    "url": "https://web.archive.org/web/19970419202411/http://www1.intel.com/iaweb/ipl/index.htm",
-    "upvotes": 85,
-    "author": "omnibrain",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26899946"
-  },
-  {
-    "title": "Warehouse-scale video acceleration: co-design and deployment in the wild",
-    "url": "https://dl.acm.org/doi/abs/10.1145/3445814.3446723",
-    "upvotes": 17,
-    "author": "jsnell",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=26925307"
   },
   {
     "title": "Backdoored password manager stole data from as many as 29K enterprises",
     "url": "https://arstechnica.com/gadgets/2021/04/hackers-backdoor-corporate-password-manager-and-steal-customer-data/?comments=1",
-    "upvotes": 118,
+    "upvotes": 126,
     "author": "vanburen",
-    "comments": 69,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=26928067"
+  },
+  {
+    "title": "Warehouse-scale video acceleration: co-design and deployment in the wild",
+    "url": "https://dl.acm.org/doi/abs/10.1145/3445814.3446723",
+    "upvotes": 19,
+    "author": "jsnell",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26925307"
   },
   {
     "title": "Streak",
@@ -174,65 +190,49 @@
   {
     "title": "Open letter from researchers involved in the “hypocrite commit” debacle",
     "url": "https://lore.kernel.org/lkml/CAK8KejpUVLxmqp026JY7x5GzHU2YJLPU8SzTZUNXU2OXC70ZQQ@mail.gmail.com/T/#u",
-    "upvotes": 187,
+    "upvotes": 194,
     "author": "marcodiego",
-    "comments": 220,
+    "comments": 227,
     "link": "https://news.ycombinator.com/item?id=26929470"
   },
   {
     "title": "Using <details> for menus and dialogs",
     "url": "https://css-tricks.com/using-details-for-menus-and-dialogs-is-an-interesting-idea/",
-    "upvotes": 114,
+    "upvotes": 115,
     "author": "todsacerdoti",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=26915706"
   },
   {
-    "title": "Web page that crashes the Chrome renderer",
-    "url": "https://ronsor.github.io/byechrome.html?ok=bye",
-    "upvotes": 35,
-    "author": "ronsor",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26929240"
-  },
-  {
     "title": "Hack an Analog TV into a Geek TV",
     "url": "https://spectrum.ieee.org/consumer-electronics/audiovideo/hack-an-analog-tv-into-a-geek-tv",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "DevilMadeMeDoIT",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26922619"
   },
   {
+    "title": "Web page that crashes the Chrome renderer",
+    "url": "https://ronsor.github.io/byechrome.html?ok=bye",
+    "upvotes": 37,
+    "author": "ronsor",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26929240"
+  },
+  {
     "title": "‘Insanely cheap energy’: solar power continues to shock the world",
     "url": "https://www.theguardian.com/australia-news/2021/apr/25/insanely-cheap-energy-how-solar-power-continues-to-shock-the-world",
-    "upvotes": 194,
+    "upvotes": 202,
     "author": "toomuchtodo",
-    "comments": 207,
+    "comments": 214,
     "link": "https://news.ycombinator.com/item?id=26928395"
   },
   {
     "title": "Human life as technology from Greek mythology to Mary Shelley’s Frankenstein",
     "url": "https://www.laphamsquarterly.org/technology/prometheus-toolbox",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "pseudolus",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26923930"
-  },
-  {
-    "title": "William Blake’s The Gates of Paradise",
-    "url": "https://publicdomainreview.org/collection/william-blakes-the-gates-of-paradise",
-    "upvotes": 35,
-    "author": "prismatic",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26915844"
-  },
-  {
-    "title": "Viewpoints Research Institute concluded its operations at the beginning of 2018",
-    "url": "http://www.vpri.org/",
-    "upvotes": 73,
-    "author": "bulka",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26926660"
   }
 ]
