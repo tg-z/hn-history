@@ -1,64 +1,64 @@
 [
   {
-    "title": "The Tamagotchi Cemetery",
-    "url": "https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/",
-    "upvotes": 68,
-    "author": "got-any-grapes",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26938058"
-  },
-  {
     "title": "MIT: Study finds ride-sharing intensifies urban road congestion",
     "url": "https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423",
-    "upvotes": 25,
+    "upvotes": 64,
     "author": "stmw",
-    "comments": 5,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26938471"
+  },
+  {
+    "title": "The Tamagotchi Cemetery",
+    "url": "https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/",
+    "upvotes": 78,
+    "author": "got-any-grapes",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=26938058"
   },
   {
     "title": "Signald: Unofficial Daemon for Interacting with Signal",
     "url": "https://signald.org/",
-    "upvotes": 61,
+    "upvotes": 73,
     "author": "gaius_baltar",
-    "comments": 34,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=26938100"
+  },
+  {
+    "title": "Running Computational fluid dynamics on leaked 2021 Williams F1 CAD",
+    "url": "https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/",
+    "upvotes": 24,
+    "author": "reimertz",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26938515"
   },
   {
     "title": "How Facebook encodes videos",
     "url": "https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/",
-    "upvotes": 158,
+    "upvotes": 167,
     "author": "nl",
-    "comments": 87,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=26930702"
   },
   {
     "title": "Orbit Tessellation developer diary for Kerbal Space Program 2",
     "url": "https://www.kerbalspaceprogram.com/dev-diaries/6509/",
-    "upvotes": 83,
+    "upvotes": 88,
     "author": "bmease",
-    "comments": 18,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26937559"
   },
   {
     "title": "Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C",
     "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
-    "upvotes": 434,
+    "upvotes": 444,
     "author": "signa11",
     "comments": 154,
     "link": "https://news.ycombinator.com/item?id=26931581"
   },
   {
-    "title": "Paid in Full: an internet where every interaction is a financial transaction",
-    "url": "https://reallifemag.com/paid-in-full/",
-    "upvotes": 33,
-    "author": "eversowhatev",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=26935057"
-  },
-  {
     "title": "Foundations of Information",
     "url": "https://faculty.washington.edu/ajko/books/foundations-of-information/#/",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "azhenley",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26937201"
@@ -66,50 +66,86 @@
   {
     "title": "Understanding SaaS Metrics",
     "url": "https://www.causal.app/saas-metrics",
-    "upvotes": 28,
+    "upvotes": 33,
     "author": "mektrik",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26931086"
   },
   {
     "title": "Has UML died without anyone noticing?",
     "url": "https://garba.org/posts/2021/uml/",
-    "upvotes": 452,
+    "upvotes": 469,
     "author": "azhenley",
-    "comments": 430,
+    "comments": 435,
     "link": "https://news.ycombinator.com/item?id=26934577"
   },
   {
-    "title": "The Great Work",
-    "url": "https://beside.media/besiders/the-great-work/",
-    "upvotes": 16,
-    "author": "axiomdata316",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26935534"
+    "title": "The Secret Thinkpad Powerbutton Code to Bring Dead Laptops Back to Life",
+    "url": "http://www.masnick.com/2007/09/07/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+    "upvotes": 41,
+    "author": "WayToDoor",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26932247"
   },
   {
     "title": "The Evolution of Forth",
     "url": "https://www.forth.com/resources/forth-programming-language/",
-    "upvotes": 39,
+    "upvotes": 42,
     "author": "tosh",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26924304"
   },
   {
+    "title": "The Great Work",
+    "url": "https://beside.media/besiders/the-great-work/",
+    "upvotes": 17,
+    "author": "axiomdata316",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26935534"
+  },
+  {
+    "title": "Starlink Ground Station Map",
+    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1H1x8jZs8vfjy60TvKgpbYs_grargieVw&ll=58.741351768956484%2C-124.56503581249999&z=4",
+    "upvotes": 19,
+    "author": "addflip",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26937904"
+  },
+  {
     "title": "A Product Engineer’s Guide to Platform Engineers",
     "url": "https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1",
-    "upvotes": 98,
+    "upvotes": 102,
     "author": "absolute100",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=26935504"
   },
   {
     "title": "Tiberius, Imperial Detective",
     "url": "https://www.atlasobscura.com/articles/emperor-tiberius-murder-investigation",
-    "upvotes": 32,
+    "upvotes": 36,
     "author": "diodorus",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26929991"
+  },
+  {
+    "title": "Replit",
+    "url": "https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72"
+  },
+  {
+    "title": "Developers on what makes their games ‘hand-drawn’",
+    "url": "https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove",
+    "upvotes": 99,
+    "author": "homarp",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26931084"
+  },
+  {
+    "title": "The knackerman: the toughest job in British farming",
+    "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
+    "upvotes": 148,
+    "author": "sensiquest",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=26930873"
   },
   {
     "title": "Konlabot: Thai Poetry from 'Jewels of Thought'",
@@ -120,64 +156,28 @@
     "link": "https://news.ycombinator.com/item?id=26927623"
   },
   {
-    "title": "Running Computational fluid dynamics on leaked 2021 Williams F1 CAD",
-    "url": "https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/",
-    "upvotes": 3,
-    "author": "reimertz",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26938515"
-  },
-  {
-    "title": "The Secret Thinkpad Powerbutton Code to Bring Dead Laptops Back to Life",
-    "url": "http://www.masnick.com/2007/09/07/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-    "upvotes": 30,
-    "author": "WayToDoor",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26932247"
-  },
-  {
-    "title": "Replit",
-    "url": "https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72"
-  },
-  {
-    "title": "Developers on what makes their games ‘hand-drawn’",
-    "url": "https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove",
-    "upvotes": 96,
-    "author": "homarp",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26931084"
-  },
-  {
-    "title": "The knackerman: the toughest job in British farming",
-    "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
-    "upvotes": 147,
-    "author": "sensiquest",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26930873"
-  },
-  {
     "title": "Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable",
     "url": "https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594",
-    "upvotes": 276,
+    "upvotes": 280,
     "author": "barbazoo",
-    "comments": 122,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26935488"
-  },
-  {
-    "title": "Starlink Ground Station Map",
-    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1H1x8jZs8vfjy60TvKgpbYs_grargieVw&ll=58.741351768956484%2C-124.56503581249999&z=4",
-    "upvotes": 8,
-    "author": "addflip",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26937904"
   },
   {
     "title": "Heroku-style deployments with Docker and Git tags",
     "url": "https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/",
-    "upvotes": 85,
+    "upvotes": 87,
     "author": "polyrand",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26935725"
+  },
+  {
+    "title": "Last Resort Font",
+    "url": "http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html",
+    "upvotes": 64,
+    "author": "isomorph",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26936027"
   },
   {
     "title": "Casbin: An authorization library that supports authz models like ACL, RBAC, ABAC",
@@ -188,14 +188,6 @@
     "link": "https://news.ycombinator.com/item?id=26934520"
   },
   {
-    "title": "Last Resort Font",
-    "url": "http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html",
-    "upvotes": 62,
-    "author": "isomorph",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26936027"
-  },
-  {
     "title": "MMPX Style-Preserving Pixel Art Magnification [pdf]",
     "url": "https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf",
     "upvotes": 54,
@@ -204,35 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=26934973"
   },
   {
-    "title": "Apple sued for terminating account with $25k worth of apps and videos",
-    "url": "https://arstechnica.com/tech-policy/2021/04/apple-faces-class-action-lawsuit-over-its-definition-of-the-word-buy/",
-    "upvotes": 607,
-    "author": "imgabe",
-    "comments": 359,
-    "link": "https://news.ycombinator.com/item?id=26932144"
-  },
-  {
     "title": "Ingenuity: NASA's Mars helicopter makes it three from three",
     "url": "https://www.bbc.co.uk/news/science-environment-56882257",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "rwmj",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26936457"
   },
   {
-    "title": "PCG32: The Perfect PRNG for Roguelikes",
-    "url": "https://steveasleep.com/pcg32-the-perfect-prng-for-roguelikes.html",
-    "upvotes": 51,
-    "author": "henning",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26934636"
-  },
-  {
     "title": "Before he wrote a thesaurus, Roget had to escape Napoleon’s dragnet",
     "url": "https://www.smithsonianmag.com/arts-culture/roget-gets-last-word-180977459/",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "Petiver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26929915"
+  },
+  {
+    "title": "PCG32: The Perfect PRNG for Roguelikes",
+    "url": "https://steveasleep.com/pcg32-the-perfect-prng-for-roguelikes.html",
+    "upvotes": 52,
+    "author": "henning",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26934636"
+  },
+  {
+    "title": "The Couple Who Shagged in an MRI Machine for Science",
+    "url": "https://www.vice.com/en/article/qvgkzw/the-story-of-the-dutch-couple-ida-sabelis-pek-van-andel-sex-intercourse-mri-scanner-for-science",
+    "upvotes": 82,
+    "author": "Anon84",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26937482"
+  },
+  {
+    "title": "The joys of creating Xcode project files",
+    "url": "https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html",
+    "upvotes": 140,
+    "author": "ingve",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=26932240"
   }
 ]
