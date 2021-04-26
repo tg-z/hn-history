@@ -1,98 +1,122 @@
 [
   {
-    "title": "MIT: Study finds ride-sharing intensifies urban road congestion",
-    "url": "https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423",
-    "upvotes": 64,
-    "author": "stmw",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26938471"
-  },
-  {
     "title": "The Tamagotchi Cemetery",
     "url": "https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/",
-    "upvotes": 78,
+    "upvotes": 81,
     "author": "got-any-grapes",
-    "comments": 36,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26938058"
-  },
-  {
-    "title": "Signald: Unofficial Daemon for Interacting with Signal",
-    "url": "https://signald.org/",
-    "upvotes": 73,
-    "author": "gaius_baltar",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=26938100"
   },
   {
     "title": "Running Computational fluid dynamics on leaked 2021 Williams F1 CAD",
     "url": "https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/",
-    "upvotes": 24,
+    "upvotes": 31,
     "author": "reimertz",
-    "comments": 6,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26938515"
   },
   {
     "title": "How Facebook encodes videos",
     "url": "https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/",
-    "upvotes": 167,
+    "upvotes": 175,
     "author": "nl",
-    "comments": 91,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26930702"
+  },
+  {
+    "title": "Study finds ride-sharing intensifies urban road congestion",
+    "url": "https://news.mit.edu/2021/ride-sharing-intensifies-urban-road-congestion-0423",
+    "upvotes": 87,
+    "author": "stmw",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26938471"
+  },
+  {
+    "title": "Signald: Unofficial daemon for interacting with Signal",
+    "url": "https://signald.org/",
+    "upvotes": 76,
+    "author": "gaius_baltar",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=26938100"
+  },
+  {
+    "title": "Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C",
+    "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
+    "upvotes": 452,
+    "author": "signa11",
+    "comments": 156,
+    "link": "https://news.ycombinator.com/item?id=26931581"
   },
   {
     "title": "Orbit Tessellation developer diary for Kerbal Space Program 2",
     "url": "https://www.kerbalspaceprogram.com/dev-diaries/6509/",
-    "upvotes": 88,
+    "upvotes": 91,
     "author": "bmease",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26937559"
   },
   {
-    "title": "Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C",
-    "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
-    "upvotes": 444,
-    "author": "signa11",
-    "comments": 154,
-    "link": "https://news.ycombinator.com/item?id=26931581"
-  },
-  {
     "title": "Foundations of Information",
     "url": "https://faculty.washington.edu/ajko/books/foundations-of-information/#/",
-    "upvotes": 69,
+    "upvotes": 75,
     "author": "azhenley",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26937201"
+  },
+  {
+    "title": "Starlink Ground Station Map",
+    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1H1x8jZs8vfjy60TvKgpbYs_grargieVw&ll=58.741351768956484%2C-124.56503581249999&z=4",
+    "upvotes": 29,
+    "author": "addflip",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26937904"
   },
   {
     "title": "Understanding SaaS Metrics",
     "url": "https://www.causal.app/saas-metrics",
-    "upvotes": 33,
+    "upvotes": 37,
     "author": "mektrik",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26931086"
   },
   {
-    "title": "Has UML died without anyone noticing?",
-    "url": "https://garba.org/posts/2021/uml/",
-    "upvotes": 469,
-    "author": "azhenley",
-    "comments": 435,
-    "link": "https://news.ycombinator.com/item?id=26934577"
+    "title": "The reason McDonalds ice cream machines are always broken [video]",
+    "url": "https://www.youtube.com/watch?v=SrDEtSlqJC4",
+    "upvotes": 68,
+    "author": "aylmao",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26936774"
   },
   {
     "title": "The Secret Thinkpad Powerbutton Code to Bring Dead Laptops Back to Life",
     "url": "http://www.masnick.com/2007/09/07/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "WayToDoor",
-    "comments": 14,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26932247"
+  },
+  {
+    "title": "Has UML died without anyone noticing?",
+    "url": "https://garba.org/posts/2021/uml/",
+    "upvotes": 475,
+    "author": "azhenley",
+    "comments": 442,
+    "link": "https://news.ycombinator.com/item?id=26934577"
+  },
+  {
+    "title": "A Product Engineer’s Guide to Platform Engineers",
+    "url": "https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1",
+    "upvotes": 105,
+    "author": "absolute100",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=26935504"
   },
   {
     "title": "The Evolution of Forth",
     "url": "https://www.forth.com/resources/forth-programming-language/",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "tosh",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26924304"
   },
   {
@@ -104,48 +128,40 @@
     "link": "https://news.ycombinator.com/item?id=26935534"
   },
   {
-    "title": "Starlink Ground Station Map",
-    "url": "https://www.google.com/maps/d/u/0/viewer?mid=1H1x8jZs8vfjy60TvKgpbYs_grargieVw&ll=58.741351768956484%2C-124.56503581249999&z=4",
-    "upvotes": 19,
-    "author": "addflip",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26937904"
-  },
-  {
-    "title": "A Product Engineer’s Guide to Platform Engineers",
-    "url": "https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1",
+    "title": "Developers on what makes their games ‘hand-drawn’",
+    "url": "https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove",
     "upvotes": 102,
-    "author": "absolute100",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26935504"
+    "author": "homarp",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=26931084"
   },
   {
     "title": "Tiberius, Imperial Detective",
     "url": "https://www.atlasobscura.com/articles/emperor-tiberius-murder-investigation",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "diodorus",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26929991"
+  },
+  {
+    "title": "The knackerman: the toughest job in British farming",
+    "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
+    "upvotes": 149,
+    "author": "sensiquest",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=26930873"
   },
   {
     "title": "Replit",
     "url": "https://jobs.lever.co/replit/93229770-4290-4436-bc40-6c513ffb3f72"
   },
   {
-    "title": "Developers on what makes their games ‘hand-drawn’",
-    "url": "https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove",
-    "upvotes": 99,
-    "author": "homarp",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26931084"
-  },
-  {
-    "title": "The knackerman: the toughest job in British farming",
-    "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
-    "upvotes": 148,
-    "author": "sensiquest",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26930873"
+    "title": "Goaded by a robot, students took greater risk: study",
+    "url": "https://www.wsj.com/articles/goaded-by-a-robot-students-took-greater-risk-than-they-otherwise-would-11617559200",
+    "upvotes": 4,
+    "author": "quickfox",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26935015"
   },
   {
     "title": "Konlabot: Thai Poetry from 'Jewels of Thought'",
@@ -158,39 +174,47 @@
   {
     "title": "Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable",
     "url": "https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594",
-    "upvotes": 280,
+    "upvotes": 281,
     "author": "barbazoo",
     "comments": 125,
     "link": "https://news.ycombinator.com/item?id=26935488"
   },
   {
+    "title": "Modern C++ Won't Save Us",
+    "url": "https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/",
+    "upvotes": 86,
+    "author": "wglb",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=26932505"
+  },
+  {
     "title": "Heroku-style deployments with Docker and Git tags",
     "url": "https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "polyrand",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26935725"
   },
   {
-    "title": "Last Resort Font",
-    "url": "http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html",
-    "upvotes": 64,
-    "author": "isomorph",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26936027"
-  },
-  {
     "title": "Casbin: An authorization library that supports authz models like ACL, RBAC, ABAC",
     "url": "https://github.com/casbin/casbin",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "hsluoyz",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=26934520"
   },
   {
+    "title": "Last Resort Font",
+    "url": "http://mirror.informatimago.com/next/developer.apple.com/fonts/LastResortFont/index.html",
+    "upvotes": 65,
+    "author": "isomorph",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26936027"
+  },
+  {
     "title": "MMPX Style-Preserving Pixel Art Magnification [pdf]",
     "url": "https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "ingve",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26934973"
@@ -198,41 +222,17 @@
   {
     "title": "Ingenuity: NASA's Mars helicopter makes it three from three",
     "url": "https://www.bbc.co.uk/news/science-environment-56882257",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "rwmj",
-    "comments": 27,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26936457"
-  },
-  {
-    "title": "Before he wrote a thesaurus, Roget had to escape Napoleon’s dragnet",
-    "url": "https://www.smithsonianmag.com/arts-culture/roget-gets-last-word-180977459/",
-    "upvotes": 50,
-    "author": "Petiver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26929915"
-  },
-  {
-    "title": "PCG32: The Perfect PRNG for Roguelikes",
-    "url": "https://steveasleep.com/pcg32-the-perfect-prng-for-roguelikes.html",
-    "upvotes": 52,
-    "author": "henning",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=26934636"
   },
   {
     "title": "The Couple Who Shagged in an MRI Machine for Science",
     "url": "https://www.vice.com/en/article/qvgkzw/the-story-of-the-dutch-couple-ida-sabelis-pek-van-andel-sex-intercourse-mri-scanner-for-science",
-    "upvotes": 82,
+    "upvotes": 89,
     "author": "Anon84",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26937482"
-  },
-  {
-    "title": "The joys of creating Xcode project files",
-    "url": "https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html",
-    "upvotes": 140,
-    "author": "ingve",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=26932240"
   }
 ]
