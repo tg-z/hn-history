@@ -1,148 +1,132 @@
 [
   {
-    "title": "We were promised Strong AI, but instead we got metadata analysis",
-    "url": "https://calpaterson.com/metadata.html",
-    "upvotes": 295,
-    "author": "todsacerdoti",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=26941332"
-  },
-  {
     "title": "New Proof Reveals That Graphs with No Pentagons Are Fundamentally Different",
     "url": "https://www.quantamagazine.org/new-proof-reveals-that-graphs-with-no-pentagons-are-fundamentally-different-20210426/",
-    "upvotes": 29,
+    "upvotes": 82,
     "author": "theafh",
-    "comments": null,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26943468"
   },
   {
-    "title": "Why Governments Fail",
-    "url": "https://www.persuasion.community/p/-why-governments-fail",
-    "upvotes": 25,
-    "author": "seriousquestion",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26943269"
+    "title": "We were promised Strong AI, but instead we got metadata analysis",
+    "url": "https://calpaterson.com/metadata.html",
+    "upvotes": 340,
+    "author": "todsacerdoti",
+    "comments": 203,
+    "link": "https://news.ycombinator.com/item?id=26941332"
   },
   {
     "title": "QEMU Internals",
     "url": "https://airbus-seclab.github.io/qemu_blog/",
-    "upvotes": 122,
-    "author": "Nusyne",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26941744"
-  },
-  {
-    "title": "A practical guide to reducing loneliness",
-    "url": "https://burgesspowell.medium.com/a-practical-guide-for-reducing-loneliness-right-now-f02f8c3035bd",
-    "upvotes": 84,
-    "author": "bhalina",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26943140"
-  },
-  {
-    "title": "Reliability of police mobile phone evidence questioned after hack",
-    "url": "https://theferret.scot/reliability-of-police-mobile-phone-evidence-questioned-after-hack/",
     "upvotes": 154,
-    "author": "donohoe",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26941131"
-  },
-  {
-    "title": "Farming robot kills 100k weeds per hour with lasers",
-    "url": "https://www.freethink.com/articles/farming-robot",
-    "upvotes": 292,
-    "author": "HiroProtagonist",
-    "comments": 220,
-    "link": "https://news.ycombinator.com/item?id=26942064"
-  },
-  {
-    "title": "CEOs are hugely expensive – why not automate them?",
-    "url": "https://www.newstatesman.com/business/companies/2021/04/ceos-are-hugely-expensive-why-not-automate-them",
-    "upvotes": 106,
-    "author": "nixass",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=26943218"
-  },
-  {
-    "title": "EU sues AstraZeneca over breach of Covid-19 vaccine supply contract",
-    "url": "https://www.reuters.com/world/europe/eu-sues-astrazeneca-over-delayed-deliveries-covid-19-vaccine-2021-04-26/",
-    "upvotes": 44,
-    "author": "the-dude",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26943277"
-  },
-  {
-    "title": "Telegram: Payments 2.0, Scheduled Voice Chats, New Web Versions",
-    "url": "https://telegram.org/blog/payments-2-0-scheduled-voice-chats",
-    "upvotes": 59,
-    "author": "f311a",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26942017"
+    "author": "Nusyne",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26941744"
   },
   {
     "title": "RPython-Based VMs: Fast Enough in Fast Enough Time",
     "url": "https://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time.html",
-    "upvotes": 10,
+    "upvotes": 22,
     "author": "pcr910303",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26943346"
   },
   {
-    "title": "Red and blue functions are a good thing",
-    "url": "https://blainehansen.me/post/red-blue-functions-are-actually-good/",
-    "upvotes": 163,
-    "author": "lukastyrychtr",
-    "comments": 197,
-    "link": "https://news.ycombinator.com/item?id=26940548"
+    "title": "Reliability of police mobile phone evidence questioned after hack",
+    "url": "https://theferret.scot/reliability-of-police-mobile-phone-evidence-questioned-after-hack/",
+    "upvotes": 172,
+    "author": "donohoe",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=26941131"
+  },
+  {
+    "title": "Farming robot kills 100k weeds per hour with lasers",
+    "url": "https://www.freethink.com/articles/farming-robot",
+    "upvotes": 346,
+    "author": "HiroProtagonist",
+    "comments": 249,
+    "link": "https://news.ycombinator.com/item?id=26942064"
+  },
+  {
+    "title": "A practical guide to reducing loneliness",
+    "url": "https://burgesspowell.medium.com/a-practical-guide-for-reducing-loneliness-right-now-f02f8c3035bd",
+    "upvotes": 119,
+    "author": "bhalina",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26943140"
+  },
+  {
+    "title": "A Hack to Update RAM Initialization Contents in Intel FPGA Bitstreams",
+    "url": "https://tomverbeure.github.io/2021/04/25/Intel-FPGA-RAM-Bitstream-Patching.html",
+    "upvotes": 27,
+    "author": "parsecs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26942664"
+  },
+  {
+    "title": "CEOs are hugely expensive – why not automate them?",
+    "url": "https://www.newstatesman.com/business/companies/2021/04/ceos-are-hugely-expensive-why-not-automate-them",
+    "upvotes": 165,
+    "author": "nixass",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=26943218"
+  },
+  {
+    "title": "Why Governments Fail",
+    "url": "https://www.persuasion.community/p/-why-governments-fail",
+    "upvotes": 42,
+    "author": "seriousquestion",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26943269"
+  },
+  {
+    "title": "Telegram: Payments 2.0, Scheduled Voice Chats, New Web Versions",
+    "url": "https://telegram.org/blog/payments-2-0-scheduled-voice-chats",
+    "upvotes": 85,
+    "author": "f311a",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=26942017"
+  },
+  {
+    "title": "Roku says it may lose YouTube TV app after Google made anti-competitive demands",
+    "url": "https://www.axios.com/roku-google-youtube-tv-dispute-525316c1-4d66-44e3-a96a-40db7b10e05b.html",
+    "upvotes": 17,
+    "author": "1cvmask",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26942862"
   },
   {
     "title": "Apple commits $430B in US investments over five years",
     "url": "https://www.apple.com/newsroom/2021/04/apple-commits-430-billion-in-us-investments-over-five-years/?afid=p239%7C10078&cid=aos-us-aff-ir",
-    "upvotes": 162,
+    "upvotes": 187,
     "author": "sologuardsman2",
-    "comments": 128,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=26942018"
+  },
+  {
+    "title": "Red and blue functions are a good thing",
+    "url": "https://blainehansen.me/post/red-blue-functions-are-actually-good/",
+    "upvotes": 171,
+    "author": "lukastyrychtr",
+    "comments": 203,
+    "link": "https://news.ycombinator.com/item?id=26940548"
   },
   {
     "title": "OneSignal",
     "url": "https://onesignal.com/careers/bbfc8a67-2d2a-4305-b1ba-939f7acdd9f9"
   },
   {
-    "title": "A Hack to Update RAM Initialization Contents in Intel FPGA Bitstreams",
-    "url": "https://tomverbeure.github.io/2021/04/25/Intel-FPGA-RAM-Bitstream-Patching.html",
-    "upvotes": 15,
-    "author": "parsecs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26942664"
-  },
-  {
     "title": "API versioning has no “right way”",
     "url": "https://apisyouwonthate.com/blog/api-versioning-has-no-right-way",
-    "upvotes": 71,
+    "upvotes": 76,
     "author": "edward",
-    "comments": 24,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=26939929"
-  },
-  {
-    "title": "A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies",
-    "url": "https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html",
-    "upvotes": 84,
-    "author": "ScoopWitch",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=26942701"
-  },
-  {
-    "title": "Virginia to End Accelerated Math Classes to Meet Equity Goal",
-    "url": "https://libertyunyielding.com/2021/04/25/virginia-planning-to-end-accelerated-math-classes-in-the-name-of-equity/",
-    "upvotes": 13,
-    "author": "fortran77",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26943049"
   },
   {
     "title": "Social Facilitation",
     "url": "https://en.wikipedia.org/wiki/Social_facilitation",
-    "upvotes": 12,
+    "upvotes": 16,
     "author": "laurex",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26942506"
@@ -150,89 +134,105 @@
   {
     "title": "How the Internet Archive digitizes 78rpm records",
     "url": "https://twitter.com/internetarchive/status/1386423512810721284",
-    "upvotes": 63,
+    "upvotes": 84,
     "author": "quercusa",
-    "comments": 15,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26942509"
   },
   {
     "title": "Interfaces and Protocols in Python",
     "url": "https://glyph.twistedmatrix.com/2021/03/interfaces-and-protocols.html",
-    "upvotes": 108,
+    "upvotes": 111,
     "author": "BerislavLopac",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=26940263"
-  },
-  {
-    "title": "The Archimedeans",
-    "url": "https://www.archim.org.uk/",
-    "upvotes": 22,
-    "author": "soarfourmore",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26942020"
-  },
-  {
-    "title": "What Doomed a Sprawling City Near St. Louis 1k Years Ago?",
-    "url": "https://www.nytimes.com/2021/04/24/science/cahokia-mounds-floods.html",
-    "upvotes": 24,
-    "author": "pseudolus",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26943169"
   },
   {
     "title": "Libfive: Solid modeling",
     "url": "https://libfive.com/",
-    "upvotes": 70,
+    "upvotes": 75,
     "author": "chuchana",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=26930822"
   },
   {
     "title": "2021 Williams F1 Computational Fluid Dynamics",
     "url": "https://maxtayloraero.wordpress.com/2021/04/21/2021-williams-f1-cfd/",
-    "upvotes": 265,
+    "upvotes": 273,
     "author": "reimertz",
-    "comments": 108,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=26938515"
+  },
+  {
+    "title": "In Response to “Euler's FizzBuzz”",
+    "url": "https://blog.antfeedr.com/posts/fizzbuzz.html",
+    "upvotes": 6,
+    "author": "gbrown_",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26940644"
+  },
+  {
+    "title": "And the winner is…who cares?",
+    "url": "https://www.economist.com/books-and-arts/2021/04/24/and-the-winner-iswho-cares",
+    "upvotes": 63,
+    "author": "jkuria",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=26924604"
+  },
+  {
+    "title": "What Doomed a Sprawling City Near St. Louis 1k Years Ago?",
+    "url": "https://www.nytimes.com/2021/04/24/science/cahokia-mounds-floods.html",
+    "upvotes": 33,
+    "author": "pseudolus",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26943169"
+  },
+  {
+    "title": "The Archimedeans",
+    "url": "https://www.archim.org.uk/",
+    "upvotes": 25,
+    "author": "soarfourmore",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26942020"
+  },
+  {
+    "title": "Cheerleader’s Snapchat rant leads to ‘momentous’ Supreme Court case on speech",
+    "url": "https://www.washingtonpost.com/politics/courts_law/supreme-court-cheerleader-first-amendment/2021/04/25/9d2ac1e2-9eb7-11eb-b7a8-014b14aeb9e4_story.html",
+    "upvotes": 36,
+    "author": "pseudolus",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26943260"
+  },
+  {
+    "title": "Children of Chernobyl cleanup crew don’t have excess mutations",
+    "url": "https://arstechnica.com/science/2021/04/children-of-chernobyl-cleanup-crew-dont-have-excess-mutations/",
+    "upvotes": 134,
+    "author": "rbanffy",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26941354"
   },
   {
     "title": "Nutrimatic: A pattern-matching word-search tool designed for puzzles",
     "url": "https://nutrimatic.org/usage.html",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "bobbiechen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26939576"
   },
   {
-    "title": "Children of Chernobyl cleanup crew don’t have excess mutations",
-    "url": "https://arstechnica.com/science/2021/04/children-of-chernobyl-cleanup-crew-dont-have-excess-mutations/",
-    "upvotes": 123,
-    "author": "rbanffy",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=26941354"
-  },
-  {
-    "title": "And the winner is…who cares?",
-    "url": "https://www.economist.com/books-and-arts/2021/04/24/and-the-winner-iswho-cares",
-    "upvotes": 53,
-    "author": "jkuria",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=26924604"
+    "title": "A second Bitcoin exchange collapses in Turkey amid crackdown on cryptocurrencies",
+    "url": "https://www.cnbc.com/2021/04/26/turkish-bitcoin-exchange-vebitcoin-collapses-amid-crypto-crackdown.html",
+    "upvotes": 113,
+    "author": "ScoopWitch",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=26942701"
   },
   {
     "title": "The Two Cultures of Mathematics",
     "url": "https://www.dpmms.cam.ac.uk/~wtg10/2cultures.pdf",
-    "upvotes": 124,
+    "upvotes": 128,
     "author": "vector_spaces",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=26939292"
-  },
-  {
-    "title": "Ask HN: What diagrams do you use in software development?",
-    "url": "item?id=26940593",
-    "upvotes": 176,
-    "author": "cies",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=26940593"
   }
 ]
