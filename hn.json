@@ -2,47 +2,55 @@
   {
     "title": "The Tamagotchi Cemetery",
     "url": "https://burialsandbeyond.com/2021/03/06/tamagotchi-cemetery/",
-    "upvotes": 24,
+    "upvotes": 43,
     "author": "got-any-grapes",
-    "comments": null,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26938058"
+  },
+  {
+    "title": "Signald: Unofficial Daemon for Interacting with Signal",
+    "url": "https://signald.org/",
+    "upvotes": 36,
+    "author": "gaius_baltar",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=26938100"
   },
   {
     "title": "How Facebook encodes videos",
     "url": "https://engineering.fb.com/2021/04/05/video-engineering/how-facebook-encodes-your-videos/",
-    "upvotes": 132,
+    "upvotes": 142,
     "author": "nl",
-    "comments": 65,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=26930702"
   },
   {
     "title": "Orbit Tessellation developer diary for Kerbal Space Program 2",
     "url": "https://www.kerbalspaceprogram.com/dev-diaries/6509/",
-    "upvotes": 54,
+    "upvotes": 64,
     "author": "bmease",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26937559"
-  },
-  {
-    "title": "Signald: Unofficial Daemon for Interacting with Signal",
-    "url": "https://signald.org/",
-    "upvotes": 24,
-    "author": "gaius_baltar",
     "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=26938100"
+    "link": "https://news.ycombinator.com/item?id=26937559"
   },
   {
     "title": "Parsing Protobuf at 2+GB/S: How I Learned to Love Tail Calls in C",
     "url": "https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html",
-    "upvotes": 420,
+    "upvotes": 424,
     "author": "signa11",
-    "comments": 143,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=26931581"
+  },
+  {
+    "title": "Paid in Full: an internet where every interaction is a financial transaction",
+    "url": "https://reallifemag.com/paid-in-full/",
+    "upvotes": 16,
+    "author": "eversowhatev",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=26935057"
   },
   {
     "title": "Foundations of Information",
     "url": "https://faculty.washington.edu/ajko/books/foundations-of-information/#/",
-    "upvotes": 37,
+    "upvotes": 46,
     "author": "azhenley",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26937201"
@@ -50,63 +58,55 @@
   {
     "title": "Has UML died without anyone noticing?",
     "url": "https://garba.org/posts/2021/uml/",
-    "upvotes": 418,
+    "upvotes": 430,
     "author": "azhenley",
-    "comments": 409,
+    "comments": 417,
     "link": "https://news.ycombinator.com/item?id=26934577"
-  },
-  {
-    "title": "Paid in Full: an internet where every interaction is a financial transaction",
-    "url": "https://reallifemag.com/paid-in-full/",
-    "upvotes": 10,
-    "author": "eversowhatev",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26935057"
-  },
-  {
-    "title": "The Evolution of Forth",
-    "url": "https://www.forth.com/resources/forth-programming-language/",
-    "upvotes": 27,
-    "author": "tosh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26924304"
-  },
-  {
-    "title": "Heroku-style deployments with Docker and Git tags",
-    "url": "https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/",
-    "upvotes": 79,
-    "author": "polyrand",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=26935725"
   },
   {
     "title": "Understanding SaaS Metrics",
     "url": "https://www.causal.app/saas-metrics",
-    "upvotes": 9,
+    "upvotes": 15,
     "author": "mektrik",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26931086"
   },
   {
-    "title": "Developers on what makes their games ‘hand-drawn’",
-    "url": "https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove",
-    "upvotes": 89,
-    "author": "homarp",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26931084"
+    "title": "The Evolution of Forth",
+    "url": "https://www.forth.com/resources/forth-programming-language/",
+    "upvotes": 31,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26924304"
   },
   {
     "title": "Tiberius, Imperial Detective",
     "url": "https://www.atlasobscura.com/articles/emperor-tiberius-murder-investigation",
-    "upvotes": 23,
+    "upvotes": 27,
     "author": "diodorus",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26929991"
+  },
+  {
+    "title": "Heroku-style deployments with Docker and Git tags",
+    "url": "https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/",
+    "upvotes": 81,
+    "author": "polyrand",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=26935725"
+  },
+  {
+    "title": "Developers on what makes their games ‘hand-drawn’",
+    "url": "https://www.polygon.com/interviews/22397934/indie-games-hand-drawn-artists-cozy-grove",
+    "upvotes": 90,
+    "author": "homarp",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=26931084"
   },
   {
     "title": "A Product Engineer’s Guide to Platform Engineers",
     "url": "https://rinaarts.medium.com/stupid-baboons-stubborn-elephants-c33412541bb1",
-    "upvotes": 79,
+    "upvotes": 86,
     "author": "absolute100",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26935504"
@@ -118,33 +118,33 @@
   {
     "title": "The Great Work",
     "url": "https://beside.media/besiders/the-great-work/",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "axiomdata316",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26935534"
   },
   {
-    "title": "Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable",
-    "url": "https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594",
-    "upvotes": 262,
-    "author": "barbazoo",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=26935488"
-  },
-  {
     "title": "The knackerman: the toughest job in British farming",
     "url": "https://www.theguardian.com/environment/2021/apr/13/the-knacker-the-toughest-job-in-british-farming",
-    "upvotes": 138,
+    "upvotes": 143,
     "author": "sensiquest",
-    "comments": 40,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=26930873"
+  },
+  {
+    "title": "Internet down in Tumbler Ridge, B.C., after beaver chews through fibre cable",
+    "url": "https://www.cbc.ca/news/canada/british-columbia/beaver-internet-down-tumbler-ridge-1.6001594",
+    "upvotes": 266,
+    "author": "barbazoo",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=26935488"
   },
   {
     "title": "Modern C++ Won't Save Us",
     "url": "https://alexgaynor.net/2019/apr/21/modern-c++-wont-save-us/",
-    "upvotes": 59,
+    "upvotes": 66,
     "author": "wglb",
-    "comments": 30,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=26932505"
   },
   {
@@ -156,9 +156,17 @@
     "link": "https://news.ycombinator.com/item?id=26936027"
   },
   {
+    "title": "Konlabot: Thai Poetry from 'Jewels of Thought'",
+    "url": "https://blogs.bl.uk/asian-and-african/2021/04/konlabot-thai-poetry-from-jewels-of-thought.html",
+    "upvotes": 4,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26927623"
+  },
+  {
     "title": "Casbin: An authorization library that supports authz models like ACL, RBAC, ABAC",
     "url": "https://github.com/casbin/casbin",
-    "upvotes": 53,
+    "upvotes": 54,
     "author": "hsluoyz",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=26934520"
@@ -166,73 +174,65 @@
   {
     "title": "MMPX Style-Preserving Pixel Art Magnification [pdf]",
     "url": "https://casual-effects.com/research/McGuire2021PixelArt/McGuire2021PixelArt.pdf",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "ingve",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26934973"
   },
   {
-    "title": "Ingenuity: NASA's Mars helicopter makes it three from three",
-    "url": "https://www.bbc.co.uk/news/science-environment-56882257",
-    "upvotes": 53,
-    "author": "rwmj",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=26936457"
-  },
-  {
     "title": "Apple sued for terminating account with $25k worth of apps and videos",
     "url": "https://arstechnica.com/tech-policy/2021/04/apple-faces-class-action-lawsuit-over-its-definition-of-the-word-buy/",
-    "upvotes": 583,
+    "upvotes": 588,
     "author": "imgabe",
-    "comments": 337,
+    "comments": 341,
     "link": "https://news.ycombinator.com/item?id=26932144"
+  },
+  {
+    "title": "Ingenuity: NASA's Mars helicopter makes it three from three",
+    "url": "https://www.bbc.co.uk/news/science-environment-56882257",
+    "upvotes": 55,
+    "author": "rwmj",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26936457"
   },
   {
     "title": "PCG32: The Perfect PRNG for Roguelikes",
     "url": "https://steveasleep.com/pcg32-the-perfect-prng-for-roguelikes.html",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "henning",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26934636"
-  },
-  {
-    "title": "Before he wrote a thesaurus, Roget had to escape Napoleon’s dragnet",
-    "url": "https://www.smithsonianmag.com/arts-culture/roget-gets-last-word-180977459/",
-    "upvotes": 44,
-    "author": "Petiver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26929915"
-  },
-  {
-    "title": "The Quest for a Floating Utopia",
-    "url": "https://www.hakaimagazine.com/features/the-quest-for-a-floating-utopia/",
-    "upvotes": 24,
-    "author": "Thevet",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=26934923"
   },
   {
     "title": "Simulation of Space Shuttle – STS 62 A Polar Express high altitude journey",
     "url": "https://forum.flightgear.org/viewtopic.php?f=87&t=38916",
-    "upvotes": 79,
+    "upvotes": 81,
     "author": "emondi",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26932517"
   },
   {
-    "title": "The Couple Who Shagged in an MRI Machine for Science",
-    "url": "https://www.vice.com/en/article/qvgkzw/the-story-of-the-dutch-couple-ida-sabelis-pek-van-andel-sex-intercourse-mri-scanner-for-science",
+    "title": "Before he wrote a thesaurus, Roget had to escape Napoleon’s dragnet",
+    "url": "https://www.smithsonianmag.com/arts-culture/roget-gets-last-word-180977459/",
     "upvotes": 45,
-    "author": "Anon84",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26937482"
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26929915"
   },
   {
     "title": "The joys of creating Xcode project files",
     "url": "https://nibblestew.blogspot.com/2021/04/the-joys-of-creating-xcode-project-files.html",
-    "upvotes": 132,
+    "upvotes": 134,
     "author": "ingve",
-    "comments": 91,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26932240"
+  },
+  {
+    "title": "The Quest for a Floating Utopia",
+    "url": "https://www.hakaimagazine.com/features/the-quest-for-a-floating-utopia/",
+    "upvotes": 26,
+    "author": "Thevet",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26934923"
   }
 ]
