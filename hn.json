@@ -1,172 +1,180 @@
 [
   {
-    "title": "Apple's follow-up to M1 chip goes into mass production for Mac",
-    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-s-follow-up-to-M1-chip-goes-into-mass-production-for-Mac",
-    "upvotes": 120,
-    "author": "lhoff",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=26955218"
-  },
-  {
     "title": "Tool can make photos undetectable to facial recognition without ruining them",
     "url": "https://www.dailydot.com/debug/donotpay-photo-ninja-facial-recognition/",
-    "upvotes": 55,
+    "upvotes": 92,
     "author": "1cvmask",
-    "comments": 40,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=26954892"
   },
   {
     "title": "Arm Announces Neoverse V1, N2 Platforms and CPUs, CMN-700 Mesh",
     "url": "https://www.anandtech.com/show/16640/arm-announces-neoverse-v1-n2-platforms-cpus-cmn700-mesh",
-    "upvotes": 31,
+    "upvotes": 52,
     "author": "timthorn",
-    "comments": null,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26955451"
-  },
-  {
-    "title": "GCC 11.1",
-    "url": "https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html",
-    "upvotes": 31,
-    "author": "lelf",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26955474"
-  },
-  {
-    "title": "Print Debugging Should Go Away",
-    "url": "https://robert.ocallahan.org/2021/04/print-debugging-should-go-away.html",
-    "upvotes": 38,
-    "author": "todsacerdoti",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26955344"
   },
   {
     "title": "Ransomware gang threatens to expose police informants if ransom is not paid",
     "url": "https://therecord.media/ransomware-gang-threatens-to-expose-police-informants-if-ransom-is-not-paid/",
-    "upvotes": 29,
+    "upvotes": 56,
     "author": "blinding-streak",
-    "comments": 10,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26955281"
+  },
+  {
+    "title": "Google promised its contact tracing app was completely private, but it wasn’t",
+    "url": "https://themarkup.org/privacy/2021/04/27/google-promised-its-contact-tracing-app-was-completely-private-but-it-wasnt",
+    "upvotes": 104,
+    "author": "EastSmith",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26954980"
+  },
+  {
+    "title": "Apple's follow-up to M1 chip goes into mass production for Mac",
+    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Apple-s-follow-up-to-M1-chip-goes-into-mass-production-for-Mac",
+    "upvotes": 159,
+    "author": "lhoff",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=26955218"
   },
   {
     "title": "My Current HTML Boilerplate",
     "url": "https://www.matuzo.at/blog/html-boilerplate/",
-    "upvotes": 619,
+    "upvotes": 647,
     "author": "adrian_mrd",
-    "comments": 177,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=26952557"
   },
   {
-    "title": "Google Promised Its Contact Tracing App Was Completely Private–But It Wasn’t",
-    "url": "https://themarkup.org/privacy/2021/04/27/google-promised-its-contact-tracing-app-was-completely-private-but-it-wasnt",
-    "upvotes": 67,
-    "author": "EastSmith",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26954980"
+    "title": "Using a disk-based Redis clone to reduce AWS S3 bill",
+    "url": "https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill",
+    "upvotes": 29,
+    "author": "welder",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26955404"
+  },
+  {
+    "title": "Show HN: Paletter – create professional color palettes",
+    "url": "https://www.paletter.app",
+    "upvotes": 9,
+    "author": "maxsavin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26956105"
+  },
+  {
+    "title": "GCC 11.1",
+    "url": "https://lists.gnu.org/archive/html/info-gnu/2021-04/msg00011.html",
+    "upvotes": 68,
+    "author": "lelf",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26955474"
+  },
+  {
+    "title": "The first house to be 3D printed from raw earth",
+    "url": "https://www.itsnicethat.com/news/tecla-house-mario-cucinella-wasp-architecture-270421",
+    "upvotes": 44,
+    "author": "zoshi",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26954712"
   },
   {
     "title": "Tesorio Is Hiring a Data Architect, Senior DevOps, Senior Data Scientist",
     "url": "https://www.tesorio.com/careers#job-openings"
   },
   {
-    "title": "Using a disk-backed Redis alternative to reduce AWS S3 bill",
-    "url": "https://wakatime.com/blog/45-using-a-diskbased-redis-clone-to-reduce-aws-s3-bill",
-    "upvotes": 17,
-    "author": "welder",
+    "title": "Google have declared Droidscript is malware",
+    "url": "https://groups.google.com/g/androidscript/c/Mbh5TZ6YYnA/m/GflwflqaDAAJ",
+    "upvotes": 7,
+    "author": "croes",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26955404"
-  },
-  {
-    "title": "Surprisingly little alcohol can affect heart rate variability",
-    "url": "https://www.span.health/blog/how-surprisingly-little-alcohol-can-affect-hrv",
-    "upvotes": 42,
-    "author": "patricksamy",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=26954956"
-  },
-  {
-    "title": "The first house to be 3D printed from raw earth",
-    "url": "https://www.itsnicethat.com/news/tecla-house-mario-cucinella-wasp-architecture-270421",
-    "upvotes": 28,
-    "author": "zoshi",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=26954712"
+    "link": "https://news.ycombinator.com/item?id=26956077"
   },
   {
     "title": "Unikraft – Fast, Specialized Unikernels",
     "url": "https://arxiv.org/abs/2104.12721",
-    "upvotes": 74,
+    "upvotes": 83,
     "author": "nderjung",
-    "comments": 33,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26954547"
   },
   {
     "title": "Oracle of Ages and Seasons – Link Cable Vulnerabilities",
     "url": "https://drenn1.github.io/ace/",
-    "upvotes": 25,
+    "upvotes": 30,
     "author": "mkeeter",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26954847"
+  },
+  {
+    "title": "SIMD for C++ Developers [pdf]",
+    "url": "http://const.me/articles/simd/simd.pdf",
+    "upvotes": 25,
+    "author": "Const-me",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26955221"
   },
   {
     "title": "The Blue Hole in the Red Sea Is the Deadliest Dive Site in the World",
     "url": "https://www.spiegel.de/international/zeitgeist/the-blue-hole-in-the-red-sea-is-the-deadliest-dive-site-in-the-world-a-844099.html",
-    "upvotes": 166,
+    "upvotes": 182,
     "author": "pmcpinto",
-    "comments": 108,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=26953520"
   },
   {
     "title": "Nbterm: Jupyter Notebooks in the Terminal",
     "url": "https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70",
-    "upvotes": 80,
+    "upvotes": 87,
     "author": "3l3ktr4",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=26953352"
   },
   {
-    "title": "SIMD for C++ Developers [pdf]",
-    "url": "http://const.me/articles/simd/simd.pdf",
-    "upvotes": 15,
-    "author": "Const-me",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26955221"
+    "title": "Surprisingly little alcohol can affect heart rate variability",
+    "url": "https://www.span.health/blog/how-surprisingly-little-alcohol-can-affect-hrv",
+    "upvotes": 60,
+    "author": "patricksamy",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26954956"
   },
   {
     "title": "Pitching your early stage startup",
     "url": "https://stripe.com/en-gb-be/atlas/guides/pitching",
-    "upvotes": 85,
+    "upvotes": 92,
     "author": "janhenr",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=26953225"
   },
   {
+    "title": "Europe Is Trying to Reclaim Its Lost Chipmaking Glory",
+    "url": "https://www.bloomberg.com/news/newsletters/2021-04-27/europe-is-trying-to-reclaim-its-lost-chipmaking-glory",
+    "upvotes": 23,
+    "author": "tosh",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26955674"
+  },
+  {
     "title": "DDT dump site off L.A. coast much bigger than scientists expected",
     "url": "https://www.latimes.com/environment/story/2021-04-26/ddt-waste-barrels-off-la-coast-shock-california-scientists",
-    "upvotes": 272,
+    "upvotes": 283,
     "author": "usaphp",
-    "comments": 109,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=26950433"
   },
   {
     "title": "Linux Foundation's Demands to the University of Minnesota",
     "url": "https://www.zdnet.com/article/the-linux-foundations-demands-to-the-university-of-minnesota-for-its-bad-linux-patches/",
-    "upvotes": 17,
+    "upvotes": 31,
     "author": "doener",
-    "comments": 4,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=26955414"
-  },
-  {
-    "title": "Europe Is Trying to Reclaim Its Lost Chipmaking Glory",
-    "url": "https://www.bloomberg.com/news/newsletters/2021-04-27/europe-is-trying-to-reclaim-its-lost-chipmaking-glory",
-    "upvotes": 8,
-    "author": "tosh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26955674"
   },
   {
     "title": "Pomy – Focus timer app for eye health",
     "url": "https://vanejung.com/pomy/",
-    "upvotes": 36,
+    "upvotes": 40,
     "author": "YKreator",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=26954110"
@@ -174,65 +182,57 @@
   {
     "title": "Fedora 34 Available",
     "url": "https://torrent.fedoraproject.org/",
-    "upvotes": 49,
+    "upvotes": 57,
     "author": "mtbkvc",
-    "comments": 10,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=26954694"
+  },
+  {
+    "title": "A man who stole a hotel",
+    "url": "https://www.capitaldaily.ca/news/the-man-who-stole-a-hotel",
+    "upvotes": 63,
+    "author": "chat",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=26952416"
+  },
+  {
+    "title": "Experian’s credit freeze security is still a joke",
+    "url": "https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/",
+    "upvotes": 587,
+    "author": "parsecs",
+    "comments": 320,
+    "link": "https://news.ycombinator.com/item?id=26948814"
   },
   {
     "title": "Karmada: Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
     "url": "https://github.com/karmada-io/karmada",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "kwang0126",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26951940"
   },
   {
-    "title": "Experian’s credit freeze security is still a joke",
-    "url": "https://krebsonsecurity.com/2021/04/experians-credit-freeze-security-is-still-a-joke/",
-    "upvotes": 578,
-    "author": "parsecs",
-    "comments": 314,
-    "link": "https://news.ycombinator.com/item?id=26948814"
-  },
-  {
-    "title": "A man who stole a hotel",
-    "url": "https://www.capitaldaily.ca/news/the-man-who-stole-a-hotel",
-    "upvotes": 57,
-    "author": "chat",
+    "title": "Types of Legal Argument",
+    "url": "https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argument-1-five.html",
+    "upvotes": 66,
+    "author": "objections",
     "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=26952416"
+    "link": "https://news.ycombinator.com/item?id=26952429"
   },
   {
     "title": "Merge tag 'arm-Apple-M1-5.13' of Linux",
     "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=0c855563182001c829065faa17f8e29e9ceffe13",
-    "upvotes": 157,
+    "upvotes": 164,
     "author": "boramalper",
-    "comments": 86,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=26952433"
-  },
-  {
-    "title": "Types of Legal Argument",
-    "url": "https://philosophicaldisquisitions.blogspot.com/2021/03/understanding-legal-argument-1-five.html",
-    "upvotes": 62,
-    "author": "objections",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26952429"
   },
   {
     "title": "The art of taking down patent trolls",
     "url": "https://www.techdirt.com/articles/20210426/09454946684/patent-troll-sable-networks-apparently-needs-to-learn-lesson-cloudflare-wants-to-destroy-another-troll",
-    "upvotes": 91,
+    "upvotes": 104,
     "author": "thelastkek",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26953460"
-  },
-  {
-    "title": "Gitlab has 15 ad trackers, 22 third party cookies, and a keylogger",
-    "url": "https://themarkup.org/blacklight?url=about.gitlab.com",
-    "upvotes": 169,
-    "author": "luke2m",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26954686"
   }
 ]
