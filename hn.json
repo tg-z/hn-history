@@ -1,220 +1,228 @@
 [
   {
+    "title": "'It's your device, you should be able to repair it'",
+    "url": "https://www.bbc.com/news/business-56799069",
+    "upvotes": 118,
+    "author": "lsllc",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26993808"
+  },
+  {
     "title": "A serverless email server on AWS using S3 and SES",
     "url": "https://github.com/0x4447/0x4447_product_s3_email",
-    "upvotes": 115,
+    "upvotes": 147,
     "author": "st_goliath",
-    "comments": 71,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=26992737"
   },
   {
     "title": "QEMU 6.0.0",
     "url": "https://www.qemu.org/2021/04/30/qemu-6-0-0/",
-    "upvotes": 284,
+    "upvotes": 303,
     "author": "ingve",
-    "comments": 49,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=26990957"
-  },
-  {
-    "title": "Squoosh: Make images smaller using best-in-class codecs, right in the browser",
-    "url": "https://squoosh.app/",
-    "upvotes": 76,
-    "author": "Tomte",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=26992277"
   },
   {
     "title": "Launch HN: Porter (YC S20) – Open-source Heroku in your own cloud",
     "url": "item?id=26993421",
-    "upvotes": 39,
+    "upvotes": 61,
     "author": "sungrokshim",
-    "comments": 15,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=26993421"
   },
   {
-    "title": "YouTube TV removed from Roku channel store amid Google contract dispute",
-    "url": "https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html",
-    "upvotes": 140,
-    "author": "jmsflknr",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=26992358"
+    "title": "The 'Great Wave' has mystified art lovers for generations",
+    "url": "https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock/index.html",
+    "upvotes": 15,
+    "author": "Tomte",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=26994024"
+  },
+  {
+    "title": "Squoosh: Make images smaller using best-in-class codecs, right in the browser",
+    "url": "https://squoosh.app/",
+    "upvotes": 97,
+    "author": "Tomte",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=26992277"
+  },
+  {
+    "title": "Listen to your to PostgreSQL database in realtime via WebSockets",
+    "url": "https://github.com/supabase/realtime",
+    "upvotes": 34,
+    "author": "gmac",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26968449"
   },
   {
     "title": "Learn Linux without internet and stack overflow: Linux HOWTOs",
     "url": "https://tldp.org/docs.html#howto",
-    "upvotes": 89,
+    "upvotes": 116,
     "author": "hansor",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=26991660"
+  },
+  {
+    "title": "YouTube TV removed from Roku channel store amid Google contract dispute",
+    "url": "https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html",
+    "upvotes": 166,
+    "author": "jmsflknr",
+    "comments": 214,
+    "link": "https://news.ycombinator.com/item?id=26992358"
   },
   {
     "title": "Perfectly Ordinary Stones, Carried for 1,300 Years",
     "url": "https://ishimochi.com/",
-    "upvotes": 51,
+    "upvotes": 61,
     "author": "ColinWright",
-    "comments": 23,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26992218"
   },
   {
     "title": "EU says Apple’s App Store breaks competition rules after Spotify complaint",
     "url": "https://www.cnbc.com/2021/04/30/eu-says-apples-app-store-breaches-competition-rules.html",
-    "upvotes": 352,
+    "upvotes": 392,
     "author": "headmelted",
-    "comments": 401,
+    "comments": 445,
     "link": "https://news.ycombinator.com/item?id=26991766"
-  },
-  {
-    "title": "'It's your device, you should be able to repair it'",
-    "url": "https://www.bbc.com/news/business-56799069",
-    "upvotes": 9,
-    "author": "lsllc",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26993808"
   },
   {
     "title": "Apple’s Notarizing",
     "url": "https://www.cdfinder.de/guide/blog/apple_hell.html",
-    "upvotes": 82,
+    "upvotes": 107,
     "author": "joseluisq",
-    "comments": 27,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26993857"
-  },
-  {
-    "title": "Murex shell now supports mixing SQL and shell pipelines",
-    "url": "https://murex.rocks/docs/blog/v2.1.html",
-    "upvotes": 14,
-    "author": "hnlmorg",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26992359"
   },
   {
     "title": "Navattic",
     "url": "https://www.navattic.com/join-us"
   },
   {
-    "title": "Building a Distributed Turn-Based Game System in Elixir",
-    "url": "https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/",
-    "upvotes": 256,
-    "author": "itsjloh",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=26989577"
+    "title": "Murex shell now supports mixing SQL and shell pipelines",
+    "url": "https://murex.rocks/docs/blog/v2.1.html",
+    "upvotes": 20,
+    "author": "hnlmorg",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26992359"
   },
   {
-    "title": "The 'Great Wave' has mystified art lovers for generations",
-    "url": "https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock/index.html",
-    "upvotes": 4,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26994024"
+    "title": "Building a Distributed Turn-Based Game System in Elixir",
+    "url": "https://fly.io/blog/building-a-distributed-turn-based-game-system-in-elixir/",
+    "upvotes": 274,
+    "author": "itsjloh",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=26989577"
   },
   {
     "title": "Stock Market Returns Are Anything but Average",
     "url": "https://awealthofcommonsense.com/2021/04/stock-market-returns-are-anything-but-average/",
-    "upvotes": 105,
+    "upvotes": 117,
     "author": "RickJWagner",
-    "comments": 166,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=26992205"
-  },
-  {
-    "title": "Listen to your to PostgreSQL database in realtime via WebSockets",
-    "url": "https://github.com/supabase/realtime",
-    "upvotes": 8,
-    "author": "gmac",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26968449"
   },
   {
     "title": "Beginner’s guide to mechanical keyboards",
     "url": "https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards",
-    "upvotes": 200,
+    "upvotes": 215,
     "author": "Jenny1012",
-    "comments": 307,
+    "comments": 334,
     "link": "https://news.ycombinator.com/item?id=26989563"
   },
   {
     "title": "Inheritance was invented as a performance hack",
     "url": "http://catern.com/inheritance.html",
-    "upvotes": 197,
+    "upvotes": 210,
     "author": "signa11",
-    "comments": 197,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=26988839"
   },
   {
     "title": "Google's push to bring employees back to offices, some say they'll rather quit",
     "url": "https://www.businessinsider.com/googles-resistance-to-going-fully-remote-is-frustrating-employees-2021-4",
-    "upvotes": 54,
+    "upvotes": 92,
     "author": "nixass",
-    "comments": 54,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=26993862"
-  },
-  {
-    "title": "What's going on here, with this human?",
-    "url": "https://grahamduncan.blog/whats-going-on-here/",
-    "upvotes": 150,
-    "author": "tlb",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=26989026"
   },
   {
     "title": "The Intelligent Timing Lock",
     "url": "https://twitter.com/Foone/status/1387999563382857729",
-    "upvotes": 120,
+    "upvotes": 133,
     "author": "edward",
-    "comments": 59,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=26991137"
+  },
+  {
+    "title": "A problem repeatedly occurred with Safari 14.1",
+    "url": "https://discussions.apple.com/thread/252705424",
+    "upvotes": 117,
+    "author": "sgloutnikov",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=26989185"
+  },
+  {
+    "title": "Apple reveals more about AirTag stalking protections as domestic abuse concerns",
+    "url": "https://9to5mac.com/2021/04/30/airtag-stalking-protections/",
+    "upvotes": 16,
+    "author": "roguson",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=26993755"
+  },
+  {
+    "title": "What's going on here, with this human?",
+    "url": "https://grahamduncan.blog/whats-going-on-here/",
+    "upvotes": 152,
+    "author": "tlb",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=26989026"
   },
   {
     "title": "Yayagram",
     "url": "https://twitter.com/mrcatacroquer/status/1386318806411325440",
-    "upvotes": 1131,
+    "upvotes": 1144,
     "author": "paulhart",
-    "comments": 164,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=26982286"
   },
   {
     "title": "Google-led paper pushes back against claims of AI inefficiency",
     "url": "https://venturebeat.com/2021/04/29/google-led-paper-pushes-back-against-claims-of-ai-inefficiency/",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "reckel",
-    "comments": 10,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=26992934"
-  },
-  {
-    "title": "A problem repeatedly occurred with Safari 14.1",
-    "url": "https://discussions.apple.com/thread/252705424",
-    "upvotes": 106,
-    "author": "sgloutnikov",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=26989185"
-  },
-  {
-    "title": "‘Frenssh’ as it was ‘spak’ in medieval England",
-    "url": "https://blogs.bl.uk/digitisedmanuscripts/2021/04/frenssh-as-it-was-spak.html",
-    "upvotes": 94,
-    "author": "pepys",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=26965894"
-  },
-  {
-    "title": "Scientists re-evaluating relative brain size and mammalian intelligence",
-    "url": "https://phys.org/news/2021-04-scientists-re-evaluating-relative-brain-size.html",
-    "upvotes": 42,
-    "author": "dnetesn",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=26981235"
   },
   {
     "title": "Show HN: Appleshouter – iOS Push Notifications for PWAs and Web apps",
     "url": "https://github.com/kosmigramma/appleshouter",
-    "upvotes": 65,
+    "upvotes": 73,
     "author": "hauxir",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=26989265"
+  },
+  {
+    "title": "Avoiding Leetcode Anxiety",
+    "url": "https://leetcodetherapy.com/leetcode-anxiety",
+    "upvotes": 86,
+    "author": "leetsquad",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=26988811"
+  },
+  {
+    "title": "Scientists re-evaluating relative brain size and mammalian intelligence",
+    "url": "https://phys.org/news/2021-04-scientists-re-evaluating-relative-brain-size.html",
+    "upvotes": 46,
+    "author": "dnetesn",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=26981235"
   },
   {
     "title": "Wi-Fi packet capturing on M1 Macs is broken",
     "url": "https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/",
-    "upvotes": 342,
+    "upvotes": 346,
     "author": "mrzool",
     "comments": 153,
     "link": "https://news.ycombinator.com/item?id=26986664"
@@ -222,17 +230,9 @@
   {
     "title": "How to Rewrite the Laws of Physics in the Language of Impossibility",
     "url": "https://www.quantamagazine.org/with-constructor-theory-chiara-marletto-invokes-the-impossible-20210429/",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "theafh",
-    "comments": 7,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=26981979"
-  },
-  {
-    "title": "Avoiding Leetcode Anxiety",
-    "url": "https://leetcodetherapy.com/leetcode-anxiety",
-    "upvotes": 70,
-    "author": "leetsquad",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=26988811"
   }
 ]
