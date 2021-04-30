@@ -2,65 +2,73 @@
   {
     "title": "Internal Combustion Engine",
     "url": "https://ciechanow.ski/internal-combustion-engine/",
-    "upvotes": 488,
+    "upvotes": 530,
     "author": "algui91",
-    "comments": 161,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=26991300"
   },
   {
     "title": "Show HN: Second-Chance Pool",
     "url": "https://news.ycombinator.com/pool",
-    "upvotes": 172,
+    "upvotes": 190,
     "author": "dang",
-    "comments": 40,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=26998308"
   },
   {
     "title": "Implicit In-order Forests: Zooming a billion trace events at 60fps",
     "url": "https://thume.ca/2021/03/14/iforests/",
-    "upvotes": 13,
+    "upvotes": 21,
     "author": "trishume",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27000110"
   },
   {
     "title": "“About one-third of Basecamp employees accepted buyouts today”",
     "url": "https://twitter.com/CaseyNewton/status/1388212468510380034",
-    "upvotes": 509,
+    "upvotes": 561,
     "author": "minimaxir",
-    "comments": 433,
+    "comments": 511,
     "link": "https://news.ycombinator.com/item?id=26998127"
   },
   {
     "title": "Space Cloud: Open-Source Firebase and Heroku on Kubernetes",
     "url": "https://github.com/spaceuptech/space-cloud",
-    "upvotes": 100,
+    "upvotes": 106,
     "author": "smehtaca",
-    "comments": 6,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26997595"
+  },
+  {
+    "title": "Making Generative Art with Rust",
+    "url": "https://blog.abor.dev/p/making-generative-art-with-rust?r=jx6d6&utm_campaign=post&utm_medium=web&utm_source=hackernews",
+    "upvotes": 6,
+    "author": "habitue",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27000436"
   },
   {
     "title": "October CMS as you know it is Dead",
     "url": "https://wintercms.com/blog/post/october-cms-you-know-it-dead",
-    "upvotes": 8,
+    "upvotes": 16,
     "author": "vanilla-almond",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=26999978"
   },
   {
     "title": "The ransomware surge",
     "url": "https://www.bbc.com/news/technology-56933733",
-    "upvotes": 52,
+    "upvotes": 58,
     "author": "arkadiyt",
-    "comments": 97,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=26997432"
   },
   {
     "title": "Labor shortage or terrible jobs?",
     "url": "https://annehelen.substack.com/p/the-capitalism-is-broken-economy",
-    "upvotes": 157,
+    "upvotes": 173,
     "author": "RuffleGordon",
-    "comments": 311,
+    "comments": 330,
     "link": "https://news.ycombinator.com/item?id=26994175"
   },
   {
@@ -70,23 +78,23 @@
   {
     "title": "Listen to your to PostgreSQL database in realtime via WebSockets",
     "url": "https://github.com/supabase/realtime",
-    "upvotes": 201,
+    "upvotes": 206,
     "author": "gmac",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=26968449"
   },
   {
     "title": "It's your device, you should be able to repair it",
     "url": "https://www.bbc.com/news/business-56799069",
-    "upvotes": 571,
+    "upvotes": 579,
     "author": "lsllc",
-    "comments": 416,
+    "comments": 423,
     "link": "https://news.ycombinator.com/item?id=26993808"
   },
   {
     "title": "Launch HN: Porter (YC S20) – Open-source Heroku in your own cloud",
     "url": "item?id=26993421",
-    "upvotes": 159,
+    "upvotes": 162,
     "author": "sungrokshim",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=26993421"
@@ -94,7 +102,7 @@
   {
     "title": "A serverless email server on AWS using S3 and SES",
     "url": "https://github.com/0x4447/0x4447_product_s3_email",
-    "upvotes": 320,
+    "upvotes": 324,
     "author": "st_goliath",
     "comments": 192,
     "link": "https://news.ycombinator.com/item?id=26992737"
@@ -102,15 +110,15 @@
   {
     "title": "Two Years of Squash Merge",
     "url": "https://blog.dnsimple.com/2019/01/two-years-of-squash-merge/",
-    "upvotes": 42,
+    "upvotes": 46,
     "author": "m_a_g",
-    "comments": 75,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=26997458"
   },
   {
     "title": "Learn Linux without internet and stack overflow: Linux HOWTOs",
     "url": "https://tldp.org/docs.html#howto",
-    "upvotes": 231,
+    "upvotes": 235,
     "author": "hansor",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=26991660"
@@ -118,58 +126,42 @@
   {
     "title": "Fasil Ghebbi – The Remains of King Fasilides’ Fortress-City Gondar, Ethiopia",
     "url": "https://zamaniproject.org/site-ethiopia-gondar-fasil-ghebbi.html",
-    "upvotes": 7,
+    "upvotes": 8,
     "author": "shankarro",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26980073"
   },
   {
-    "title": "Plain of Jars, one of the most mysterious archaeological sites, reveals its age",
-    "url": "https://www.livescience.com/plain-of-jars-burial-site-true-age.html",
-    "upvotes": 51,
-    "author": "diodorus",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=26989879"
-  },
-  {
     "title": "Spacewar 1 and the Beginnings of Video Game Aesthetics",
     "url": "https://www.masswerk.at/nowgobang/2021/spacewar1",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "masswerk",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26993407"
   },
   {
-    "title": "Squoosh: Make images smaller using best-in-class codecs, right in the browser",
-    "url": "https://squoosh.app/",
-    "upvotes": 192,
-    "author": "Tomte",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=26992277"
-  },
-  {
-    "title": "FB JavaScript SDK down",
-    "url": "https://developers.facebook.com/status/issues/492652922187445/",
-    "upvotes": 102,
-    "author": "littleworld",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26997794"
-  },
-  {
     "title": "Myths and Realities of Ping-Pong Diplomacy",
     "url": "https://www.historytoday.com/miscellanies/myths-and-realities-ping-pong-diplomacy",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "Thevet",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26990394"
   },
   {
-    "title": "Exploiting Undocumented Hardware Blocks in the LPC55S69",
-    "url": "https://oxide.computer/blog/lpc55/",
-    "upvotes": 48,
-    "author": "smklein",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26995445"
+    "title": "Squoosh: Make images smaller using best-in-class codecs, right in the browser",
+    "url": "https://squoosh.app/",
+    "upvotes": 195,
+    "author": "Tomte",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=26992277"
+  },
+  {
+    "title": "Plain of Jars, one of the most mysterious archaeological sites, reveals its age",
+    "url": "https://www.livescience.com/plain-of-jars-burial-site-true-age.html",
+    "upvotes": 52,
+    "author": "diodorus",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=26989879"
   },
   {
     "title": "The 'Great Wave' has mystified art lovers for generations",
@@ -180,59 +172,67 @@
     "link": "https://news.ycombinator.com/item?id=26994024"
   },
   {
+    "title": "FB JavaScript SDK down",
+    "url": "https://developers.facebook.com/status/issues/492652922187445/",
+    "upvotes": 102,
+    "author": "littleworld",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26997794"
+  },
+  {
     "title": "The Pains of Path Parsing",
     "url": "https://www.fpcomplete.com/blog/pains-path-parsing/",
-    "upvotes": 21,
+    "upvotes": 23,
     "author": "lukastyrychtr",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26991332"
   },
   {
+    "title": "Exploiting Undocumented Hardware Blocks in the LPC55S69",
+    "url": "https://oxide.computer/blog/lpc55/",
+    "upvotes": 50,
+    "author": "smklein",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26995445"
+  },
+  {
     "title": "YouTube TV removed from Roku channel store amid Google contract dispute",
     "url": "https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html",
-    "upvotes": 290,
+    "upvotes": 296,
     "author": "jmsflknr",
-    "comments": 371,
+    "comments": 374,
     "link": "https://news.ycombinator.com/item?id=26992358"
   },
   {
-    "title": "Taiwan bans recruitment for jobs in China",
-    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Taiwan-bans-recruitment-for-jobs-in-China-to-combat-brain-drain",
-    "upvotes": 170,
-    "author": "baybal2",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=26996090"
-  },
-  {
-    "title": "EU says Apple’s App Store breaks competition rules after Spotify complaint",
-    "url": "https://www.cnbc.com/2021/04/30/eu-says-apples-app-store-breaches-competition-rules.html",
-    "upvotes": 622,
-    "author": "headmelted",
-    "comments": 717,
-    "link": "https://news.ycombinator.com/item?id=26991766"
+    "title": "New x86 micro-op vulnerability breaks all known Spectre defenses",
+    "url": "https://www.sciencedaily.com/releases/2021/04/210430165903.htm",
+    "upvotes": 11,
+    "author": "DoomHotel",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27000570"
   },
   {
     "title": "Lightning, Gods, and Mushrooms",
     "url": "https://blog.mycology.cornell.edu/2013/01/20/zap-lightning-gods-and-mushrooms/",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "bdevine",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26996019"
   },
   {
-    "title": "The Intelligent Timing Lock",
-    "url": "https://twitter.com/Foone/status/1387999563382857729",
-    "upvotes": 174,
-    "author": "edward",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=26991137"
+    "title": "Taiwan bans recruitment for jobs in China",
+    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Taiwan-bans-recruitment-for-jobs-in-China-to-combat-brain-drain",
+    "upvotes": 176,
+    "author": "baybal2",
+    "comments": 132,
+    "link": "https://news.ycombinator.com/item?id=26996090"
   },
   {
-    "title": "Ask HN: What are the best maintained how-to sites for Linux?",
-    "url": "item?id=26997498",
-    "upvotes": 58,
-    "author": "marmot777",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=26997498"
+    "title": "EU says Apple’s App Store breaks competition rules after Spotify complaint",
+    "url": "https://www.cnbc.com/2021/04/30/eu-says-apples-app-store-breaches-competition-rules.html",
+    "upvotes": 629,
+    "author": "headmelted",
+    "comments": 733,
+    "link": "https://news.ycombinator.com/item?id=26991766"
   }
 ]
