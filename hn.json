@@ -2,15 +2,15 @@
   {
     "title": "Wi-Fi packet capturing on M1 Macs is broken",
     "url": "https://www.intuitibits.com/2021/02/05/whats-going-on-apple-part-2/",
-    "upvotes": 204,
+    "upvotes": 214,
     "author": "mrzool",
-    "comments": 70,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26986664"
   },
   {
     "title": "Yayagram",
     "url": "https://twitter.com/mrcatacroquer/status/1386318806411325440",
-    "upvotes": 850,
+    "upvotes": 864,
     "author": "paulhart",
     "comments": 144,
     "link": "https://news.ycombinator.com/item?id=26982286"
@@ -18,15 +18,15 @@
   {
     "title": "Inheritance was invented as a performance hack",
     "url": "http://catern.com/inheritance.html",
-    "upvotes": 27,
+    "upvotes": 43,
     "author": "signa11",
-    "comments": 30,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26988839"
   },
   {
     "title": "RotaJakiro: A long live secret backdoor with 0 VT detection",
     "url": "https://blog.netlab.360.com/stealth_rotajakiro_backdoor_en/",
-    "upvotes": 395,
+    "upvotes": 398,
     "author": "FridayoLeary",
     "comments": 150,
     "link": "https://news.ycombinator.com/item?id=26981886"
@@ -34,110 +34,182 @@
   {
     "title": "An Update on the UMN Affair",
     "url": "https://lwn.net/SubscriberLink/854645/334317047842b6c3/",
-    "upvotes": 402,
+    "upvotes": 406,
     "author": "chmaynard",
-    "comments": 243,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=26982309"
   },
   {
     "title": "We Built Our Own DNS Infrastructure",
     "url": "https://blog.replit.com/dns",
-    "upvotes": 95,
+    "upvotes": 107,
     "author": "amasad",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=26987939"
-  },
-  {
-    "title": "Opera adds native support for blockchain domain names",
-    "url": "https://blogs.opera.com/tips-and-tricks/2021/04/say-hello-to-web3-as-opera-adds-native-support-to-unstoppable-domains/",
-    "upvotes": 139,
-    "author": "mrnobody_67",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=26985150"
-  },
-  {
-    "title": "U.S. government probes VPN hack within federal agencies, races to find clues",
-    "url": "https://www.reuters.com/technology/us-government-probes-vpn-hack-within-federal-agencies-races-find-clues-2021-04-29/",
-    "upvotes": 102,
-    "author": "c1c2c3",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=26985731"
-  },
-  {
-    "title": "CSRF, CORS, and HTTP Security Headers Demystified",
-    "url": "https://blog.vnaik.com/posts/web-attacks.html",
-    "upvotes": 157,
-    "author": "tonyjstark",
     "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=26984701"
-  },
-  {
-    "title": "QNAP ships NAS backup software with hidden credentials",
-    "url": "https://forum.qnap.com/viewtopic.php?f=45&t=160849&start=450#p788325",
-    "upvotes": 96,
-    "author": "criddell",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=26986272"
+    "link": "https://news.ycombinator.com/item?id=26987939"
   },
   {
     "title": "GB Studio: A game maker for the Game Boy",
     "url": "https://www.gbstudio.dev/",
-    "upvotes": 49,
+    "upvotes": 61,
     "author": "azhenley",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26979879"
   },
   {
+    "title": "What's going on here, with this human?",
+    "url": "https://grahamduncan.blog/whats-going-on-here/",
+    "upvotes": 11,
+    "author": "tlb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26989026"
+  },
+  {
+    "title": "Opera adds native support for blockchain domain names",
+    "url": "https://blogs.opera.com/tips-and-tricks/2021/04/say-hello-to-web3-as-opera-adds-native-support-to-unstoppable-domains/",
+    "upvotes": 144,
+    "author": "mrnobody_67",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=26985150"
+  },
+  {
+    "title": "‘Frenssh’ as it was ‘spak’ in medieval England",
+    "url": "https://blogs.bl.uk/digitisedmanuscripts/2021/04/frenssh-as-it-was-spak.html",
+    "upvotes": 25,
+    "author": "pepys",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26965894"
+  },
+  {
+    "title": "U.S. government probes VPN hack within federal agencies, races to find clues",
+    "url": "https://www.reuters.com/technology/us-government-probes-vpn-hack-within-federal-agencies-races-find-clues-2021-04-29/",
+    "upvotes": 106,
+    "author": "c1c2c3",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=26985731"
+  },
+  {
+    "title": "QNAP ships NAS backup software with hidden credentials",
+    "url": "https://forum.qnap.com/viewtopic.php?f=45&t=160849&start=450#p788325",
+    "upvotes": 104,
+    "author": "criddell",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=26986272"
+  },
+  {
+    "title": "CSRF, CORS, and HTTP Security Headers Demystified",
+    "url": "https://blog.vnaik.com/posts/web-attacks.html",
+    "upvotes": 169,
+    "author": "tonyjstark",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=26984701"
+  },
+  {
     "title": "Flu has disappeared worldwide during the Covid pandemic",
     "url": "https://www.scientificamerican.com/article/flu-has-disappeared-worldwide-during-the-covid-pandemic/",
-    "upvotes": 534,
+    "upvotes": 545,
     "author": "Brajeshwar",
-    "comments": 610,
+    "comments": 617,
     "link": "https://news.ycombinator.com/item?id=26982681"
   },
   {
     "title": "Write Gitlab CI Pipelines in Python Code",
     "url": "https://gitlab.com/dbsystel/gitlab-ci-python-library",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "DrSarez",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=26986493"
-  },
-  {
-    "title": "Writing web-based interactive fiction with Ink",
-    "url": "https://www.inklestudios.com/ink/web-tutorial/",
-    "upvotes": 102,
-    "author": "Tomte",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26984912"
-  },
-  {
-    "title": "A brief history of Rust at Facebook",
-    "url": "https://engineering.fb.com/2021/04/29/developer-tools/rust/",
-    "upvotes": 169,
-    "author": "tomduncalf",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=26982879"
   },
   {
     "title": "Introduction to Pluto.jl",
     "url": "https://www.juliafordatascience.com/first-steps-5-pluto/",
-    "upvotes": 106,
+    "upvotes": 110,
     "author": "joshday",
-    "comments": 53,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=26984681"
+  },
+  {
+    "title": "A brief history of Rust at Facebook",
+    "url": "https://engineering.fb.com/2021/04/29/developer-tools/rust/",
+    "upvotes": 174,
+    "author": "tomduncalf",
+    "comments": 117,
+    "link": "https://news.ycombinator.com/item?id=26982879"
+  },
+  {
+    "title": "Writing web-based interactive fiction with Ink",
+    "url": "https://www.inklestudios.com/ink/web-tutorial/",
+    "upvotes": 104,
+    "author": "Tomte",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26984912"
   },
   {
     "title": "Cognicull: Knowledge base for mathematics, natural science and engineering",
     "url": "https://cognicull.com/",
-    "upvotes": 47,
+    "upvotes": 50,
     "author": "matsuu",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=26981864"
   },
   {
     "title": "AtoB",
     "url": "https://atob.com/careers"
+  },
+  {
+    "title": "The European System of Monopoly",
+    "url": "https://thecounterbalance.substack.com/p/the-european-system-of-monopoly",
+    "upvotes": 4,
+    "author": "null_object",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26989282"
+  },
+  {
+    "title": "Computer Science from the Bottom Up",
+    "url": "https://www.bottomupcs.com",
+    "upvotes": 243,
+    "author": "hliyan",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26981668"
+  },
+  {
+    "title": "Category theory is a universal modeling language",
+    "url": "http://math.mit.edu/~dspivak/informatics/",
+    "upvotes": 157,
+    "author": "bmc7505",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=26983192"
+  },
+  {
+    "title": "The story BCG offered me $16,000 not to tell",
+    "url": "https://thetech.com/2010/04/09/dubai-v130-n18",
+    "upvotes": 98,
+    "author": "tacon",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=26986675"
+  },
+  {
+    "title": "Reaper: Digital Audio Workstation",
+    "url": "https://www.reaper.fm/",
+    "upvotes": 72,
+    "author": "Tomte",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=26984906"
+  },
+  {
+    "title": "Zanzibar: Google’s Consistent, Global Authorization System",
+    "url": "https://research.google/pubs/pub48190/",
+    "upvotes": 226,
+    "author": "themarkers",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=26980254"
+  },
+  {
+    "title": "Sagging Pants and the Long History of 'Dangerous' Street Fashion",
+    "url": "https://www.npr.org/sections/codeswitch/2014/09/11/347143588/sagging-pants-and-the-long-history-of-dangerous-street-fashion",
+    "upvotes": 5,
+    "author": "xook",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=26989112"
   },
   {
     "title": "On Creative Coding",
@@ -148,91 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=26977974"
   },
   {
-    "title": "‘Frenssh’ as it was ‘spak’ in medieval England",
-    "url": "https://blogs.bl.uk/digitisedmanuscripts/2021/04/frenssh-as-it-was-spak.html",
-    "upvotes": 17,
-    "author": "pepys",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26965894"
-  },
-  {
-    "title": "Category theory is a universal modeling language",
-    "url": "http://math.mit.edu/~dspivak/informatics/",
-    "upvotes": 153,
-    "author": "bmc7505",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=26983192"
-  },
-  {
-    "title": "Computer Science from the Bottom Up",
-    "url": "https://www.bottomupcs.com",
-    "upvotes": 236,
-    "author": "hliyan",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=26981668"
-  },
-  {
-    "title": "The story BCG offered me $16,000 not to tell",
-    "url": "https://thetech.com/2010/04/09/dubai-v130-n18",
-    "upvotes": 90,
-    "author": "tacon",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=26986675"
-  },
-  {
     "title": "Shipping containers are falling overboard at a rapid rate",
     "url": "https://www.supplychainbrain.com/articles/33002-shipping-containers-are-falling-overboard-at-a-rapid-rate",
-    "upvotes": 95,
+    "upvotes": 98,
     "author": "endtwist",
-    "comments": 82,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=26987097"
-  },
-  {
-    "title": "Zanzibar: Google’s Consistent, Global Authorization System",
-    "url": "https://research.google/pubs/pub48190/",
-    "upvotes": 224,
-    "author": "themarkers",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=26980254"
-  },
-  {
-    "title": "Show your costs to boost sales",
-    "url": "https://tips.ariyh.com/p/show-costs-to-boost-sales",
-    "upvotes": 208,
-    "author": "tdmckinlay",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=26980174"
-  },
-  {
-    "title": "Reaper: Digital Audio Workstation",
-    "url": "https://www.reaper.fm/",
-    "upvotes": 67,
-    "author": "Tomte",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26984906"
   },
   {
     "title": "I booked my cheapest one-month trip",
     "url": "https://benbernardblog.com/how-i-booked-my-absolutely-cheapest-one-month-trip-ever/",
-    "upvotes": 199,
+    "upvotes": 202,
     "author": "fagnerbrack",
-    "comments": 138,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=26982370"
-  },
-  {
-    "title": "What's going on here, with this human?",
-    "url": "https://grahamduncan.blog/whats-going-on-here/",
-    "upvotes": 3,
-    "author": "tlb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=26989026"
-  },
-  {
-    "title": "Amazon Q1 2021 Quarterly Results [pdf]",
-    "url": "https://ir.aboutamazon.com/files/doc_financials/2021/q1/Amazon-Q1-2021-Earnings-Release.pdf",
-    "upvotes": 56,
-    "author": "marc__1",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=26986024"
   }
 ]
