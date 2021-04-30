@@ -1,84 +1,100 @@
 [
   {
-    "title": "'It's your device, you should be able to repair it'",
-    "url": "https://www.bbc.com/news/business-56799069",
-    "upvotes": 438,
-    "author": "lsllc",
-    "comments": 282,
-    "link": "https://news.ycombinator.com/item?id=26993808"
+    "title": "FB JavaScript SDK down for 12 hours and counting",
+    "url": "https://developers.facebook.com/support/bugs/484663959337678/",
+    "upvotes": 30,
+    "author": "littleworld",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26997794"
   },
   {
     "title": "Two Years of Squash Merge",
     "url": "https://blog.dnsimple.com/2019/01/two-years-of-squash-merge/",
-    "upvotes": 14,
+    "upvotes": 26,
     "author": "m_a_g",
-    "comments": 3,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26997458"
-  },
-  {
-    "title": "Everything Old Is New Again: Binary Security of WebAssembly [pdf]",
-    "url": "https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf",
-    "upvotes": 96,
-    "author": "xctime",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=26994741"
   },
   {
     "title": "The ransomware surge",
     "url": "https://www.bbc.com/news/technology-56933733",
-    "upvotes": 12,
+    "upvotes": 20,
     "author": "arkadiyt",
-    "comments": 7,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26997432"
+  },
+  {
+    "title": "AWS inter-region latency chart",
+    "url": "https://www.cloudping.co/grid",
+    "upvotes": 34,
+    "author": "mooreds",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=26996480"
+  },
+  {
+    "title": "Everything Old Is New Again: Binary Security of WebAssembly [pdf]",
+    "url": "https://www.unibw.de/patch/papers/usenixsecurity20-wasm.pdf",
+    "upvotes": 103,
+    "author": "xctime",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=26994741"
+  },
+  {
+    "title": "Internal Combustion Engine",
+    "url": "https://ciechanow.ski/internal-combustion-engine/",
+    "upvotes": 38,
+    "author": "algui91",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26991300"
+  },
+  {
+    "title": "It's your device, you should be able to repair it",
+    "url": "https://www.bbc.com/news/business-56799069",
+    "upvotes": 467,
+    "author": "lsllc",
+    "comments": 307,
+    "link": "https://news.ycombinator.com/item?id=26993808"
   },
   {
     "title": "A serverless email server on AWS using S3 and SES",
     "url": "https://github.com/0x4447/0x4447_product_s3_email",
-    "upvotes": 281,
+    "upvotes": 289,
     "author": "st_goliath",
-    "comments": 166,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=26992737"
   },
   {
     "title": "Listen to your to PostgreSQL database in realtime via WebSockets",
     "url": "https://github.com/supabase/realtime",
-    "upvotes": 146,
+    "upvotes": 155,
     "author": "gmac",
-    "comments": 45,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=26968449"
-  },
-  {
-    "title": "AWS inter-region latency chart",
-    "url": "https://www.cloudping.co/grid",
-    "upvotes": 18,
-    "author": "mooreds",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=26996480"
   },
   {
     "title": "QEMU 6.0.0",
     "url": "https://www.qemu.org/2021/04/30/qemu-6-0-0/",
-    "upvotes": 369,
+    "upvotes": 376,
     "author": "ingve",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=26990957"
-  },
-  {
-    "title": "Spacewar 1 and the Beginnings of Video Game Aesthetics",
-    "url": "https://www.masswerk.at/nowgobang/2021/spacewar1",
-    "upvotes": 20,
-    "author": "masswerk",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=26993407"
   },
   {
     "title": "Compose.ai",
     "url": "https://www.workatastartup.com/companies/compose-ai"
   },
   {
+    "title": "Spacewar 1 and the Beginnings of Video Game Aesthetics",
+    "url": "https://www.masswerk.at/nowgobang/2021/spacewar1",
+    "upvotes": 25,
+    "author": "masswerk",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=26993407"
+  },
+  {
     "title": "Plain of Jars, one of the most mysterious archaeological sites, reveals its age",
     "url": "https://www.livescience.com/plain-of-jars-burial-site-true-age.html",
-    "upvotes": 16,
+    "upvotes": 24,
     "author": "diodorus",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26989879"
@@ -86,153 +102,137 @@
   {
     "title": "Learn Linux without internet and stack overflow: Linux HOWTOs",
     "url": "https://tldp.org/docs.html#howto",
-    "upvotes": 181,
+    "upvotes": 194,
     "author": "hansor",
-    "comments": 51,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=26991660"
-  },
-  {
-    "title": "Squoosh: Make images smaller using best-in-class codecs, right in the browser",
-    "url": "https://squoosh.app/",
-    "upvotes": 162,
-    "author": "Tomte",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=26992277"
   },
   {
     "title": "The 'Great Wave' has mystified art lovers for generations",
     "url": "https://edition.cnn.com/style/article/hokusai-great-wave-ukiyo-e-woodblock/index.html",
-    "upvotes": 64,
+    "upvotes": 71,
     "author": "Tomte",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=26994024"
   },
   {
-    "title": "Internal Combustion Engine",
-    "url": "https://ciechanow.ski/internal-combustion-engine/",
-    "upvotes": 13,
-    "author": "algui91",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26991300"
+    "title": "Squoosh: Make images smaller using best-in-class codecs, right in the browser",
+    "url": "https://squoosh.app/",
+    "upvotes": 163,
+    "author": "Tomte",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=26992277"
   },
   {
     "title": "Launch HN: Porter (YC S20) – Open-source Heroku in your own cloud",
     "url": "item?id=26993421",
-    "upvotes": 123,
+    "upvotes": 128,
     "author": "sungrokshim",
-    "comments": 45,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=26993421"
   },
   {
     "title": "YouTube TV removed from Roku channel store amid Google contract dispute",
     "url": "https://www.axios.com/roku-youtube-tv-removed-google-5580ffdf-b865-428c-91ca-8ad83802fedf.html",
-    "upvotes": 250,
+    "upvotes": 258,
     "author": "jmsflknr",
-    "comments": 324,
+    "comments": 328,
     "link": "https://news.ycombinator.com/item?id=26992358"
   },
   {
-    "title": "How to Write an Equality Method in Java",
-    "url": "https://www.artima.com/lejava/articles/equality.html",
-    "upvotes": 20,
-    "author": "Tomte",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=26996672"
+    "title": "Taiwan bans recruitment for jobs in China to combat brain drain",
+    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Taiwan-bans-recruitment-for-jobs-in-China-to-combat-brain-drain",
+    "upvotes": 80,
+    "author": "baybal2",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=26996090"
   },
   {
     "title": "EU says Apple’s App Store breaks competition rules after Spotify complaint",
     "url": "https://www.cnbc.com/2021/04/30/eu-says-apples-app-store-breaches-competition-rules.html",
-    "upvotes": 543,
+    "upvotes": 557,
     "author": "headmelted",
-    "comments": 585,
+    "comments": 601,
     "link": "https://news.ycombinator.com/item?id=26991766"
   },
   {
-    "title": "Ask HN: How did you transition from FTE to self-employed/sole proprietor?",
-    "url": "item?id=26995874",
-    "upvotes": 55,
-    "author": "psim1",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=26995874"
+    "title": "How to Write an Equality Method in Java",
+    "url": "https://www.artima.com/lejava/articles/equality.html",
+    "upvotes": 22,
+    "author": "Tomte",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=26996672"
+  },
+  {
+    "title": "The Great Roadside Motel Comeback",
+    "url": "https://www.texasmonthly.com/travel/the-great-roadside-motel-comeback/",
+    "upvotes": 25,
+    "author": "ecliptik",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26987488"
+  },
+  {
+    "title": "Ask HN: What are the best maintained how-to sites for Linux?",
+    "url": "item?id=26997498",
+    "upvotes": 15,
+    "author": "marmot777",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=26997498"
   },
   {
     "title": "Make an Interactive Sculpture with Twilio Autopilot and Airtable",
     "url": "https://www.twilio.com/blog/interactive-sculpture-twilio-autopilot-airtable-adafruit-feather-huzzah",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "makaimc",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26968439"
   },
   {
-    "title": "An update to our YouTube TV members on Roku",
-    "url": "https://blog.youtube/news-and-events/update-our-youtube-tv-members-roku/",
-    "upvotes": 44,
-    "author": "judge2020",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=26996972"
-  },
-  {
-    "title": "Taiwan bans recruitment for jobs in China to combat brain drain",
-    "url": "https://asia.nikkei.com/Business/Tech/Semiconductors/Taiwan-bans-recruitment-for-jobs-in-China-to-combat-brain-drain",
-    "upvotes": 58,
-    "author": "baybal2",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=26996090"
-  },
-  {
-    "title": "The Great Roadside Motel Comeback",
-    "url": "https://www.texasmonthly.com/travel/the-great-roadside-motel-comeback/",
-    "upvotes": 22,
-    "author": "ecliptik",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=26987488"
-  },
-  {
-    "title": "San Francisco’s tech fiefdom is dying",
-    "url": "https://www.brookfieldbrief.com/posts/san-franciscos-tech-fiefdom-is-dying",
-    "upvotes": 21,
-    "author": "DLay",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=26997420"
+    "title": "Ask HN: How did you transition from FTE to self-employed/sole proprietor?",
+    "url": "item?id=26995874",
+    "upvotes": 64,
+    "author": "psim1",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=26995874"
   },
   {
     "title": "Murex shell now supports mixing SQL and shell pipelines",
     "url": "https://murex.rocks/docs/blog/v2.1.html",
-    "upvotes": 46,
+    "upvotes": 50,
     "author": "hnlmorg",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=26992359"
-  },
-  {
-    "title": "I’m now in charge of Audacity [video]",
-    "url": "https://www.youtube.com/watch?v=RMWNvwLiXIQ",
-    "upvotes": 90,
-    "author": "mqus",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=26995610"
   },
   {
     "title": "'Minting' electronic cash",
     "url": "https://spectrum.ieee.org/computing/software/minting-electronic-cash",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "noch",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=26993868"
   },
   {
+    "title": "I’m now in charge of Audacity [video]",
+    "url": "https://www.youtube.com/watch?v=RMWNvwLiXIQ",
+    "upvotes": 99,
+    "author": "mqus",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26995610"
+  },
+  {
     "title": "The Maps of Matrakçı Nasuh, Ottoman Polymath",
     "url": "https://publicdomainreview.org/collection/the-maps-of-matrakci-nasuh-ottoman-polymath",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "Thevet",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=26978130"
   },
   {
-    "title": "Stock Market Returns Are Anything but Average",
-    "url": "https://awealthofcommonsense.com/2021/04/stock-market-returns-are-anything-but-average/",
-    "upvotes": 182,
-    "author": "RickJWagner",
-    "comments": 342,
-    "link": "https://news.ycombinator.com/item?id=26992205"
+    "title": "Exploiting Undocumented Hardware Blocks in the LPC55S69",
+    "url": "https://oxide.computer/blog/lpc55/",
+    "upvotes": 15,
+    "author": "smklein",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26995445"
   }
 ]
