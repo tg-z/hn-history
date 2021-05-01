@@ -1,107 +1,107 @@
 [
   {
-    "title": "Audacity Aquired by Muse Group",
-    "url": "https://www.scoringnotes.com/news/muse-group-formed-to-support-musescore-ultimate-guitar-acquires-audacity/",
-    "upvotes": 290,
-    "author": "userSumo",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=27004688"
-  },
-  {
     "title": "Linux Hypervisor Setup",
     "url": "https://octetz.com/docs/2020/2020-05-06-linux-hypervisor-setup/",
-    "upvotes": 42,
+    "upvotes": 56,
     "author": "willdaly",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27006354"
   },
   {
-    "title": "Programmable Music with Layers",
-    "url": "https://async.art/music",
-    "upvotes": 9,
-    "author": "tmlee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27006931"
+    "title": "Audacity Aquired by Muse Group",
+    "url": "https://www.scoringnotes.com/news/muse-group-formed-to-support-musescore-ultimate-guitar-acquires-audacity/",
+    "upvotes": 308,
+    "author": "userSumo",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=27004688"
   },
   {
     "title": "Scaling Monorepo Maintenance at GitHub",
     "url": "https://github.blog/2021-04-29-scaling-monorepo-maintenance/",
-    "upvotes": 82,
+    "upvotes": 111,
     "author": "pimterry",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26991505"
   },
   {
-    "title": "Internal Combustion Engine",
-    "url": "https://ciechanow.ski/internal-combustion-engine/",
-    "upvotes": 1827,
-    "author": "algui91",
-    "comments": 336,
-    "link": "https://news.ycombinator.com/item?id=26991300"
+    "title": "Pixar Uses Hyper-Colors to Hack Your Brain",
+    "url": "https://www.wired.com/story/how-pixar-uses-hyper-colors-to-hack-your-brain/",
+    "upvotes": 16,
+    "author": "Garbage",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27006692"
   },
   {
-    "title": "GitHub repository for Sedgewick's Algorithms is taken down",
-    "url": "https://github.com/kevin-wayne/algs4",
-    "upvotes": 164,
-    "author": "altro",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=27004677"
-  },
-  {
-    "title": "I Need to Explain to You Just How Dire America's Pokémon Card Crisis Is",
-    "url": "https://www.vice.com/en/article/7kv9a9/pokemon-cards-psa-cgc-bgs-turnaround-times",
-    "upvotes": 29,
-    "author": "kgwgk",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27006867"
-  },
-  {
-    "title": "Piano teacher gets copyright claim for Beethoven’s Moonlight Sonata [video]",
-    "url": "https://www.youtube.com/watch?v=WcyOxtkafMs",
-    "upvotes": 507,
-    "author": "bitcharmer",
-    "comments": 217,
-    "link": "https://news.ycombinator.com/item?id=27004577"
+    "title": "Market is the most important factor in a startup's success or failure",
+    "url": "https://pmarchive.com/guide_to_startups_part4.html",
+    "upvotes": 14,
+    "author": "deadcoder0904",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=26978933"
   },
   {
     "title": "PySDR: A Guide to SDR and DSP Using Python [video]",
     "url": "https://fosdem.org/2021/schedule/event/fsr_pysdr_guide_to_sdr_and_dsp_using_python/",
-    "upvotes": 33,
+    "upvotes": 38,
     "author": "EntICOnc",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=26990671"
   },
   {
+    "title": "GitHub repository for Sedgewick's Algorithms is taken down",
+    "url": "https://github.com/kevin-wayne/algs4",
+    "upvotes": 179,
+    "author": "altro",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=27004677"
+  },
+  {
+    "title": "Piano teacher gets copyright claim for Beethoven’s Moonlight Sonata [video]",
+    "url": "https://www.youtube.com/watch?v=WcyOxtkafMs",
+    "upvotes": 530,
+    "author": "bitcharmer",
+    "comments": 227,
+    "link": "https://news.ycombinator.com/item?id=27004577"
+  },
+  {
+    "title": "I Need to Explain to You Just How Dire America's Pokémon Card Crisis Is",
+    "url": "https://www.vice.com/en/article/7kv9a9/pokemon-cards-psa-cgc-bgs-turnaround-times",
+    "upvotes": 44,
+    "author": "kgwgk",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27006867"
+  },
+  {
     "title": "Simplifier",
     "url": "https://simplifier.neocities.org/index.html",
-    "upvotes": 160,
+    "upvotes": 167,
     "author": "adrianN",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=26979636"
+  },
+  {
+    "title": "Programmable Music with Layers",
+    "url": "https://async.art/music",
+    "upvotes": 12,
+    "author": "tmlee",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27006931"
   },
   {
     "title": "Show HN: A RISC-V core in Racket",
     "url": "http://guillaume.baierouge.fr/2021/04/23/simulating-digital-circuits-in-racket/a-risc-v-core-in-racket/index.html",
-    "upvotes": 76,
+    "upvotes": 77,
     "author": "senshu",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=26990615"
   },
   {
-    "title": "Ask HN: How Long Is Your CI Process?",
-    "url": "item?id=27006465",
-    "upvotes": 39,
-    "author": "chuckgreenman",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27006465"
-  },
-  {
-    "title": "Market is the most important factor in a startup's success or failure",
-    "url": "https://pmarchive.com/guide_to_startups_part4.html",
-    "upvotes": 6,
-    "author": "deadcoder0904",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26978933"
+    "title": "Internal Combustion Engine",
+    "url": "https://ciechanow.ski/internal-combustion-engine/",
+    "upvotes": 1846,
+    "author": "algui91",
+    "comments": 340,
+    "link": "https://news.ycombinator.com/item?id=26991300"
   },
   {
     "title": "Smarking",
@@ -110,7 +110,7 @@
   {
     "title": "Flocculant/Disinfectant Powder",
     "url": "https://www.cdc.gov/safewater/flocculant-filtration.html",
-    "upvotes": 151,
+    "upvotes": 157,
     "author": "techolic",
     "comments": 73,
     "link": "https://news.ycombinator.com/item?id=27002843"
@@ -118,121 +118,121 @@
   {
     "title": "Show HN: Second-Chance Pool",
     "url": "https://news.ycombinator.com/pool",
-    "upvotes": 465,
+    "upvotes": 468,
     "author": "dang",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=26998308"
   },
   {
     "title": "The Pedal Movie",
     "url": "https://reverb.com/page/the-pedal-movie",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "pjbk",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26989819"
+  },
+  {
+    "title": "Edward Snowden ousts a scammer during live stream [video]",
+    "url": "https://www.youtube.com/watch?v=Hv3UC4lz3oQ",
+    "upvotes": 33,
+    "author": "sakopov",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27006964"
+  },
+  {
+    "title": "Pen plotters: not just output devices",
+    "url": "https://scruss.com/blog/2016/05/17/pen-plotters-not-just-output-devices/",
+    "upvotes": 4,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=26990920"
   },
   {
     "title": "John Tiller has died",
     "url": "https://johntillersoftware.com/index.html",
-    "upvotes": 77,
+    "upvotes": 80,
     "author": "danielrpa",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27003445"
   },
   {
-    "title": "Why is India having a Covid-19 surge?",
-    "url": "https://www.bmj.com/content/373/bmj.n1124",
-    "upvotes": 4,
-    "author": "dberhane",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27007051"
-  },
-  {
-    "title": "Louis Rossmann: A Conversation with Steve Lehto on Right to Repair",
+    "title": "Louis Rossmann: A Conversation with Steve Lehto on Right to Repair [video]",
     "url": "https://www.youtube.com/watch?v=9sHbaGuSuck",
-    "upvotes": 155,
+    "upvotes": 162,
     "author": "danuker",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27004517"
   },
   {
-    "title": "She built a toy empire while hiding a lifetime of existential depression",
-    "url": "https://www.washingtonpost.com/lifestyle/style/melissa-and-doug-toys-founder-depression/2021/04/26/8d4af4be-7ba7-11eb-85cd-9b7fa90c8873_story.html",
-    "upvotes": 23,
-    "author": "robg",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27006249"
+    "title": "Why is India having a Covid-19 surge?",
+    "url": "https://www.bmj.com/content/373/bmj.n1124",
+    "upvotes": 16,
+    "author": "dberhane",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27007051"
   },
   {
-    "title": "The Humble img Element and Core Web Vitals",
-    "url": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
-    "upvotes": 28,
-    "author": "simonpure",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=26992343"
+    "title": "She built a toy empire while hiding a lifetime of existential depression",
+    "url": "https://www.washingtonpost.com/lifestyle/style/melissa-and-doug-toys-founder-depression/2021/04/26/8d4af4be-7ba7-11eb-85cd-9b7fa90c8873_story.html",
+    "upvotes": 29,
+    "author": "robg",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27006249"
   },
   {
     "title": "Sir Douglas Nicholls",
     "url": "https://en.wikipedia.org/wiki/Douglas_Nicholls",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "adrian_mrd",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=26980084"
   },
   {
+    "title": "The Humble img Element and Core Web Vitals",
+    "url": "https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/",
+    "upvotes": 31,
+    "author": "simonpure",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=26992343"
+  },
+  {
     "title": "SSD makers start warning that mining products like ChiaCoin will void warranty",
     "url": "https://www.guru3d.com/news-story/ssd-makers-start-waring-that-mining-products-like-chia-coin-will-void-warranty.html",
-    "upvotes": 301,
+    "upvotes": 309,
     "author": "RachelF",
-    "comments": 339,
+    "comments": 340,
     "link": "https://news.ycombinator.com/item?id=27001848"
+  },
+  {
+    "title": "Why software engineers don't write documentation – it's bloody hard",
+    "url": "https://kislayverma.com/programming/why-programmers-dont-write-documentation/",
+    "upvotes": 5,
+    "author": "whack",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27007105"
   },
   {
     "title": "The Psychology of Design",
     "url": "https://growth.design/psychology/",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "sanmak",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27004714"
-  },
-  {
-    "title": "Launch HN: Porter (YC S20) – Open-source Heroku in your own cloud",
-    "url": "item?id=26993421",
-    "upvotes": 227,
-    "author": "sungrokshim",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=26993421"
   },
   {
     "title": "Elementary OS 6 beta",
     "url": "https://blog.elementary.io/elementary-os-6-odin-beta/",
-    "upvotes": 130,
+    "upvotes": 137,
     "author": "jamesponddotco",
-    "comments": 52,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27001736"
   },
   {
     "title": "Labor shortage or terrible jobs?",
     "url": "https://annehelen.substack.com/p/the-capitalism-is-broken-economy",
-    "upvotes": 460,
+    "upvotes": 470,
     "author": "RuffleGordon",
-    "comments": 837,
+    "comments": 841,
     "link": "https://news.ycombinator.com/item?id=26994175"
-  },
-  {
-    "title": "True, False, and Random",
-    "url": "https://nautil.us/issue/30/identity/how-to-solve-the-hardest-logic-puzzle-ever",
-    "upvotes": 39,
-    "author": "tosh",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=26992334"
-  },
-  {
-    "title": "Space Cloud: Open-Source Firebase and Heroku on Kubernetes",
-    "url": "https://github.com/spaceuptech/space-cloud",
-    "upvotes": 226,
-    "author": "smehtaca",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=26997595"
   }
 ]
