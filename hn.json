@@ -1,238 +1,238 @@
 [
   {
-    "title": "Using libgccjit to make Emacs 2.3x to 42x faster [pdf]",
+    "title": "Bringing GNU Emacs to Native Code",
     "url": "https://arxiv.org/abs/2004.02504",
-    "upvotes": 150,
+    "upvotes": 170,
     "author": "textread",
-    "comments": 27,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27011013"
   },
   {
     "title": "The Ball and Supply Chain",
     "url": "https://puri.sm/posts/the-ball-and-supply-chain/",
-    "upvotes": 64,
+    "upvotes": 72,
     "author": "luord",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27011159"
   },
   {
     "title": "Will Linux phones stay around this time?",
     "url": "https://linmob.net/will-linux-phones-stay-around-this-time/",
-    "upvotes": 120,
+    "upvotes": 130,
     "author": "todsacerdoti",
-    "comments": 108,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=27010556"
   },
   {
     "title": "A whale who tried to mimic human speech",
     "url": "https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/",
-    "upvotes": 181,
+    "upvotes": 185,
     "author": "awll",
-    "comments": 80,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27008743"
-  },
-  {
-    "title": "Fediverse.Party – Explore Federated Networks",
-    "url": "https://fediverse.party/en/miscellaneous",
-    "upvotes": 143,
-    "author": "eitland",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=27009468"
   },
   {
     "title": "“Shared libraries are not a good thing in general”",
     "url": "https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/",
-    "upvotes": 549,
+    "upvotes": 559,
     "author": "pengaru",
-    "comments": 311,
+    "comments": 321,
     "link": "https://news.ycombinator.com/item?id=27009044"
+  },
+  {
+    "title": "Windows Terminal Quake Mode",
+    "url": "https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md",
+    "upvotes": 43,
+    "author": "ingve",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=26991887"
   },
   {
     "title": "Comparative assessments of dietary sugars on cognitive performance",
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "robg",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27010904"
   },
   {
     "title": "Mars Ingenuity helicopter mission extended by NASA",
     "url": "https://www.bbc.com/news/science-environment-56951752",
-    "upvotes": 84,
+    "upvotes": 91,
     "author": "Tarragon",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27010451"
   },
   {
-    "title": "Windows Terminal Quake Mode",
-    "url": "https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md",
-    "upvotes": 30,
-    "author": "ingve",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=26991887"
+    "title": "Elevator Sabbath service mode",
+    "url": "https://elevation.fandom.com/wiki/Sabbath_service_(SHO)",
+    "upvotes": 55,
+    "author": "failwhaleshark",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=27010617"
   },
   {
-    "title": "The Tragic Story of the Creator of Oswald and Pacifico Fonts",
+    "title": "The Tragic Story of Vernon and Oswald",
     "url": "https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509",
-    "upvotes": 103,
+    "upvotes": 111,
     "author": "akamaozu",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27010066"
   },
   {
-    "title": "Google I|O 2021 and Uncomfortable Questions",
-    "url": "https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html",
-    "upvotes": 140,
-    "author": "demiol",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=27010463"
-  },
-  {
-    "title": "Elevator Sabbath service mode",
-    "url": "https://elevation.fandom.com/wiki/Sabbath_service_(SHO)",
-    "upvotes": 48,
-    "author": "failwhaleshark",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=27010617"
-  },
-  {
-    "title": "Steve Finberg has passed, W1GSL, SK",
-    "url": "https://wma.arrl.org/blog/2021/04/26/steve-finberg-w1gsl-sk/",
-    "upvotes": 4,
-    "author": "salgernon",
+    "title": "Evolution of Random Number Generators",
+    "url": "https://www.johndcook.com/blog/2021/04/29/reinventing-rng/",
+    "upvotes": 8,
+    "author": "algui91",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27012277"
+    "link": "https://news.ycombinator.com/item?id=26991278"
   },
   {
     "title": "Practical advice for analysis of large, complex data sets",
     "url": "https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html",
-    "upvotes": 31,
+    "upvotes": 38,
     "author": "sillysaurusx",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=26990242"
   },
   {
-    "title": "List of apps people pay for but have low rating",
-    "url": "http://ideasfilter.com/",
-    "upvotes": 476,
-    "author": "visox",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=27007767"
+    "title": "Steve Finberg, W1GSL, SK",
+    "url": "https://wma.arrl.org/blog/2021/04/26/steve-finberg-w1gsl-sk/",
+    "upvotes": 9,
+    "author": "salgernon",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27012277"
   },
   {
-    "title": "EmuTOS: A Free OS for computers based on M68K processors including the Atari ST",
-    "url": "https://emutos.sourceforge.io/",
-    "upvotes": 57,
-    "author": "DominoTree",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27009522"
+    "title": "List of apps people pay for but have low rating",
+    "url": "http://ideasfilter.com/",
+    "upvotes": 487,
+    "author": "visox",
+    "comments": 179,
+    "link": "https://news.ycombinator.com/item?id=27007767"
   },
   {
     "title": "Hopfield Networks Is All You Need",
     "url": "https://ml-jku.github.io/hopfield-layers/",
-    "upvotes": 151,
+    "upvotes": 155,
     "author": "meiji163",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26990000"
   },
   {
+    "title": "EmuTOS: A Free OS for computers based on M68K processors including the Atari ST",
+    "url": "https://emutos.sourceforge.io/",
+    "upvotes": 59,
+    "author": "DominoTree",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27009522"
+  },
+  {
+    "title": "Google I|O 2021 and Uncomfortable Questions",
+    "url": "https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html",
+    "upvotes": 144,
+    "author": "demiol",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=27010463"
+  },
+  {
     "title": "Longest pedestrian suspension bridge opens in Portugal",
     "url": "https://www.reuters.com/lifestyle/oddly-enough/high-anxiety-worlds-longest-pedestrian-suspension-bridge-opens-portugal-2021-04-29/",
-    "upvotes": 60,
+    "upvotes": 63,
     "author": "awb",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27009978"
+  },
+  {
+    "title": "Fediverse.Party – Explore Federated Networks",
+    "url": "https://fediverse.party/en/miscellaneous",
+    "upvotes": 145,
+    "author": "eitland",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=27009468"
   },
   {
     "title": "Turn GitHub into an RSS Reader",
     "url": "https://github.com/osmoscraft/osmosfeed",
-    "upvotes": 66,
+    "upvotes": 70,
     "author": "low_tech_punk",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27010144"
-  },
-  {
-    "title": "Inside The MTA’s Money Room",
-    "url": "https://www.curbed.com/2021/04/al-putre-mta-money-room.html",
-    "upvotes": 72,
-    "author": "js2",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=26989986"
-  },
-  {
-    "title": "California appeals court finds Amazon responsible for 3rd party sellers products",
-    "url": "https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard",
-    "upvotes": 132,
-    "author": "MBCook",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27010976"
   },
   {
     "title": "Show HN: GitHub style split diffs in your terminal",
     "url": "https://github.com/banga/git-split-diffs",
-    "upvotes": 109,
+    "upvotes": 113,
     "author": "milkbikis",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27007844"
   },
   {
-    "title": "Film Restoration Today: The Elusive Perfect Viewing Experience",
-    "url": "https://mubi.com/notebook/posts/film-restoration-today-the-elusive-perfect-viewing-experience",
-    "upvotes": 43,
-    "author": "Arnt",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=26991294"
+    "title": "California appeals court finds Amazon responsible for 3rd party sellers products",
+    "url": "https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard",
+    "upvotes": 137,
+    "author": "MBCook",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27010976"
+  },
+  {
+    "title": "Inside The MTA’s Money Room",
+    "url": "https://www.curbed.com/2021/04/al-putre-mta-money-room.html",
+    "upvotes": 75,
+    "author": "js2",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=26989986"
+  },
+  {
+    "title": "The compiler will optimize that away",
+    "url": "https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/",
+    "upvotes": 30,
+    "author": "0-_-0",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27010965"
   },
   {
     "title": "Sirum",
     "url": "https://www.sirum.org/about#careers"
   },
   {
+    "title": "Resetting the App Store",
+    "url": "https://www.ben-evans.com/benedictevans/2021/4/30/resetting-the-app-store",
+    "upvotes": 36,
+    "author": "cglong",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=27009876"
+  },
+  {
     "title": "What is Chia cryptocurrency and why is it bad news for hard drives?",
     "url": "https://www.tomsguide.com/news/what-is-chia-cryptocurrency-and-why-is-it-bad-news-for-hard-drives",
-    "upvotes": 71,
+    "upvotes": 76,
     "author": "fortran77",
-    "comments": 90,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=27009843"
   },
   {
     "title": "Cars are about to be a software platform, subscriptions and all",
     "url": "https://www.bloomberg.com/news/articles/2021-05-01/your-car-is-about-to-be-a-software-platform-subscriptions-and-all",
-    "upvotes": 72,
+    "upvotes": 77,
     "author": "sleepyshift",
-    "comments": 100,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=27009606"
   },
   {
     "title": "Internal Combustion Engine",
     "url": "https://ciechanow.ski/internal-combustion-engine/",
-    "upvotes": 2101,
+    "upvotes": 2106,
     "author": "algui91",
     "comments": 367,
     "link": "https://news.ycombinator.com/item?id=26991300"
   },
   {
-    "title": "We applied for a job with a ransomware gang",
-    "url": "https://cybernews.com/security/how-we-applied-to-work-with-ransomware-gang/",
-    "upvotes": 11,
-    "author": "galuggus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27012307"
-  },
-  {
-    "title": "The compiler will optimize that away",
-    "url": "https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/",
-    "upvotes": 18,
-    "author": "0-_-0",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27010965"
-  },
-  {
-    "title": "Grammar-Nerd Heaven",
-    "url": "https://www.newyorker.com/culture/comma-queen/grammar-nerd-heaven",
-    "upvotes": 5,
-    "author": "tintinnabula",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27003067"
+    "title": "Film Restoration Today: The Elusive Perfect Viewing Experience",
+    "url": "https://mubi.com/notebook/posts/film-restoration-today-the-elusive-perfect-viewing-experience",
+    "upvotes": 44,
+    "author": "Arnt",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=26991294"
   }
 ]
