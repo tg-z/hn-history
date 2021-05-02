@@ -2,91 +2,83 @@
   {
     "title": "Bringing GNU Emacs to Native Code",
     "url": "https://arxiv.org/abs/2004.02504",
-    "upvotes": 186,
+    "upvotes": 197,
     "author": "textread",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27011013"
   },
   {
     "title": "Will Linux phones stay around this time?",
     "url": "https://linmob.net/will-linux-phones-stay-around-this-time/",
-    "upvotes": 143,
+    "upvotes": 152,
     "author": "todsacerdoti",
-    "comments": 140,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=27010556"
   },
   {
     "title": "Evolution of Random Number Generators",
     "url": "https://www.johndcook.com/blog/2021/04/29/reinventing-rng/",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "algui91",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=26991278"
   },
   {
-    "title": "The Ball and Supply Chain",
-    "url": "https://puri.sm/posts/the-ball-and-supply-chain/",
-    "upvotes": 75,
-    "author": "luord",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27011159"
-  },
-  {
     "title": "A whale who tried to mimic human speech",
     "url": "https://www.smithsonianmag.com/science-nature/story-one-whale-who-tried-bridge-linguistic-divide-between-animals-humans-180951437/",
-    "upvotes": 192,
+    "upvotes": 196,
     "author": "awll",
-    "comments": 90,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=27008743"
   },
   {
     "title": "“Shared libraries are not a good thing in general”",
     "url": "https://lore.kernel.org/lkml/CAHk-=whs8QZf3YnifdLv57+FhBi5_WeNTG1B-suOES=RcUSmQg@mail.gmail.com/",
-    "upvotes": 585,
+    "upvotes": 597,
     "author": "pengaru",
-    "comments": 329,
+    "comments": 341,
     "link": "https://news.ycombinator.com/item?id=27009044"
+  },
+  {
+    "title": "Windows Terminal Quake Mode",
+    "url": "https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md",
+    "upvotes": 59,
+    "author": "ingve",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=26991887"
+  },
+  {
+    "title": "Mars Ingenuity helicopter mission extended by NASA",
+    "url": "https://www.bbc.com/news/science-environment-56951752",
+    "upvotes": 112,
+    "author": "Tarragon",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27010451"
   },
   {
     "title": "Avo",
     "url": "https://app.beapplied.com/apply/mortet0smh"
   },
   {
-    "title": "Mars Ingenuity helicopter mission extended by NASA",
-    "url": "https://www.bbc.com/news/science-environment-56951752",
-    "upvotes": 104,
-    "author": "Tarragon",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27010451"
-  },
-  {
-    "title": "Windows Terminal Quake Mode",
-    "url": "https://github.com/microsoft/terminal/blob/main/doc/specs/%23653%20-%20Quake%20Mode/%23653%20-%20Quake%20Mode.md",
-    "upvotes": 50,
-    "author": "ingve",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=26991887"
+    "title": "The Ball and Supply Chain",
+    "url": "https://puri.sm/posts/the-ball-and-supply-chain/",
+    "upvotes": 78,
+    "author": "luord",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27011159"
   },
   {
     "title": "Comparative assessments of dietary sugars on cognitive performance",
     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0031938417304328",
-    "upvotes": 83,
+    "upvotes": 86,
     "author": "robg",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27010904"
-  },
-  {
-    "title": "Michigan asphalt company paves first US public roads containing recycled plastic",
-    "url": "https://www.secondwavemedia.com/epicenter/features/local-asphalt-company-paves-recycled-plastic-roads.aspx",
-    "upvotes": 6,
-    "author": "rmason",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27012687"
   },
   {
     "title": "Practical advice for analysis of large, complex data sets",
     "url": "https://www.unofficialgoogledatascience.com/2016/10/practical-advice-for-analysis-of-large.html",
-    "upvotes": 46,
+    "upvotes": 49,
     "author": "sillysaurusx",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=26990242"
@@ -94,31 +86,39 @@
   {
     "title": "Steve Finberg, W1GSL, SK",
     "url": "https://wma.arrl.org/blog/2021/04/26/steve-finberg-w1gsl-sk/",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "salgernon",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27012277"
+  },
+  {
+    "title": "Michigan asphalt company paves first US public roads containing recycled plastic",
+    "url": "https://www.secondwavemedia.com/epicenter/features/local-asphalt-company-paves-recycled-plastic-roads.aspx",
+    "upvotes": 9,
+    "author": "rmason",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27012687"
   },
   {
     "title": "Elevator Sabbath service mode",
     "url": "https://elevation.fandom.com/wiki/Sabbath_service_(SHO)",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "failwhaleshark",
-    "comments": 134,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=27010617"
   },
   {
-    "title": "The Tragic Story of Vernon and Oswald",
-    "url": "https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509",
-    "upvotes": 112,
-    "author": "akamaozu",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27010066"
+    "title": "Agostino Ramelli’s Theatre of Machines",
+    "url": "https://publicdomainreview.org/collection/agostino-ramelli-theatre-of-machines",
+    "upvotes": 4,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27003255"
   },
   {
     "title": "List of apps people pay for but have low rating",
     "url": "http://ideasfilter.com/",
-    "upvotes": 497,
+    "upvotes": 505,
     "author": "visox",
     "comments": 181,
     "link": "https://news.ycombinator.com/item?id=27007767"
@@ -126,7 +126,7 @@
   {
     "title": "Hopfield Networks Is All You Need",
     "url": "https://ml-jku.github.io/hopfield-layers/",
-    "upvotes": 156,
+    "upvotes": 157,
     "author": "meiji163",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=26990000"
@@ -134,71 +134,63 @@
   {
     "title": "Longest pedestrian suspension bridge opens in Portugal",
     "url": "https://www.reuters.com/lifestyle/oddly-enough/high-anxiety-worlds-longest-pedestrian-suspension-bridge-opens-portugal-2021-04-29/",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "awb",
-    "comments": 34,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27009978"
   },
   {
     "title": "EmuTOS: A Free OS for computers based on M68K processors including the Atari ST",
     "url": "https://emutos.sourceforge.io/",
-    "upvotes": 62,
+    "upvotes": 64,
     "author": "DominoTree",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27009522"
   },
   {
-    "title": "Agostino Ramelli’s Theatre of Machines",
-    "url": "https://publicdomainreview.org/collection/agostino-ramelli-theatre-of-machines",
-    "upvotes": 3,
-    "author": "benbreen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27003255"
-  },
-  {
-    "title": "Google I|O 2021 and Uncomfortable Questions",
-    "url": "https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html",
-    "upvotes": 150,
-    "author": "demiol",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=27010463"
+    "title": "The Tragic Story of Vernon and Oswald",
+    "url": "https://chrisgliddon.com/the-tragic-story-of-vernon-and-oswald-7540fa359509",
+    "upvotes": 114,
+    "author": "akamaozu",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27010066"
   },
   {
     "title": "Fediverse.Party – Explore Federated Networks",
     "url": "https://fediverse.party/en/miscellaneous",
-    "upvotes": 148,
+    "upvotes": 150,
     "author": "eitland",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27009468"
   },
   {
-    "title": "Turn GitHub into an RSS Reader",
-    "url": "https://github.com/osmoscraft/osmosfeed",
-    "upvotes": 78,
-    "author": "low_tech_punk",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27010144"
-  },
-  {
     "title": "The compiler will optimize that away",
     "url": "https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/",
-    "upvotes": 38,
+    "upvotes": 41,
     "author": "0-_-0",
-    "comments": 12,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27010965"
   },
   {
     "title": "Show HN: GitHub style split diffs in your terminal",
     "url": "https://github.com/banga/git-split-diffs",
-    "upvotes": 123,
+    "upvotes": 127,
     "author": "milkbikis",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27007844"
   },
   {
+    "title": "Turn GitHub into an RSS Reader",
+    "url": "https://github.com/osmoscraft/osmosfeed",
+    "upvotes": 80,
+    "author": "low_tech_punk",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27010144"
+  },
+  {
     "title": "Inside The MTA’s Money Room",
     "url": "https://www.curbed.com/2021/04/al-putre-mta-money-room.html",
-    "upvotes": 78,
+    "upvotes": 80,
     "author": "js2",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=26989986"
@@ -206,33 +198,41 @@
   {
     "title": "California appeals court finds Amazon responsible for 3rd party sellers products",
     "url": "https://www.theverge.com/2021/5/1/22414185/california-appeals-court-amazon-marketplace-responsible-third-party-hoverboard",
-    "upvotes": 141,
+    "upvotes": 146,
     "author": "MBCook",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27010976"
   },
   {
-    "title": "Cars are about to be a software platform, subscriptions and all",
-    "url": "https://www.bloomberg.com/news/articles/2021-05-01/your-car-is-about-to-be-a-software-platform-subscriptions-and-all",
-    "upvotes": 84,
-    "author": "sleepyshift",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=27009606"
+    "title": "Google I|O 2021 and Uncomfortable Questions",
+    "url": "https://commonsware.com/blog/2021/05/01/google-io-2021-uncomfortable-questions.html",
+    "upvotes": 151,
+    "author": "demiol",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=27010463"
+  },
+  {
+    "title": "Python vs. Common Lisp",
+    "url": "https://lisp-journey.gitlab.io/pythonvslisp/",
+    "upvotes": 9,
+    "author": "meistro",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27011942"
   },
   {
     "title": "What is Chia cryptocurrency and why is it bad news for hard drives?",
     "url": "https://www.tomsguide.com/news/what-is-chia-cryptocurrency-and-why-is-it-bad-news-for-hard-drives",
-    "upvotes": 84,
+    "upvotes": 90,
     "author": "fortran77",
-    "comments": 113,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=27009843"
   },
   {
-    "title": "Resetting the App Store",
-    "url": "https://www.ben-evans.com/benedictevans/2021/4/30/resetting-the-app-store",
-    "upvotes": 37,
-    "author": "cglong",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=27009876"
+    "title": "Cars are about to be a software platform, subscriptions and all",
+    "url": "https://www.bloomberg.com/news/articles/2021-05-01/your-car-is-about-to-be-a-software-platform-subscriptions-and-all",
+    "upvotes": 89,
+    "author": "sleepyshift",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=27009606"
   }
 ]
