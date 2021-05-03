@@ -1,88 +1,96 @@
 [
   {
-    "title": "Stack on a Budget – A collection of services with free tiers",
-    "url": "https://github.com/255kb/stack-on-a-budget",
-    "upvotes": 95,
-    "author": "bryanrasmussen",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27022075"
-  },
-  {
     "title": "Rust's Most Unrecognized Contributor",
     "url": "https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor",
-    "upvotes": 34,
+    "upvotes": 82,
     "author": "signa11",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27022120"
+  },
+  {
+    "title": "Stack on a Budget – A collection of services with free tiers",
+    "url": "https://github.com/255kb/stack-on-a-budget",
+    "upvotes": 107,
+    "author": "bryanrasmussen",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27022075"
   },
   {
     "title": "The End of AMP",
     "url": "https://www.lafoo.com/the-end-of-amp/?twclid=11389086688677404673",
-    "upvotes": 96,
+    "upvotes": 104,
     "author": "rmason",
-    "comments": 39,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27021914"
   },
   {
     "title": "Dissecting the Apple M1 GPU, Part IV",
     "url": "https://rosenzweig.io/blog/asahi-gpu-part-4.html",
-    "upvotes": 272,
+    "upvotes": 286,
     "author": "caution",
-    "comments": 69,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=27019249"
   },
   {
     "title": "Don't make customers hunt for the Sign In button on your website",
     "url": "https://blog.stunning.co/stop-making-your-paying-customers-hunt-for-the-sign-in-button-on-your-website/",
-    "upvotes": 103,
+    "upvotes": 115,
     "author": "rfelix2121",
-    "comments": 43,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27020560"
+  },
+  {
+    "title": "Diffie-Hellman for the Layman",
+    "url": "https://borisreitman.medium.com/diffie-hellman-for-the-layman-7df6095011d9",
+    "upvotes": 46,
+    "author": "EntICOnc",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27005204"
   },
   {
     "title": "Co-founder of Neuralink leaves the company",
     "url": "https://www.engadget.com/co-founder-leaves-elon-musk-neuralink-164856798.html",
-    "upvotes": 71,
+    "upvotes": 72,
     "author": "cpeterso",
-    "comments": 65,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=27020934"
   },
   {
     "title": "How Tech Loses Out",
     "url": "https://berthub.eu/articles/posts/how-tech-loses-out/",
-    "upvotes": 336,
+    "upvotes": 345,
     "author": "teddyh",
-    "comments": 152,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=27015327"
-  },
-  {
-    "title": "Diffie-Hellman for the Layman",
-    "url": "https://borisreitman.medium.com/diffie-hellman-for-the-layman-7df6095011d9",
-    "upvotes": 40,
-    "author": "EntICOnc",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27005204"
   },
   {
     "title": "Request for comments regarding topics to be discussed at Dark Patterns workshop",
     "url": "https://www.regulations.gov/document/FTC-2021-0019-0001/comment",
-    "upvotes": 687,
+    "upvotes": 688,
     "author": "sincerely",
-    "comments": 463,
+    "comments": 466,
     "link": "https://news.ycombinator.com/item?id=27017041"
   },
   {
     "title": "Hosting SQLite databases on GitHub Pages or any static file hoster",
     "url": "https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/",
-    "upvotes": 1255,
+    "upvotes": 1267,
     "author": "phiresky",
-    "comments": 195,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=27016630"
+  },
+  {
+    "title": "Office 365 leaking BCC domain name",
+    "url": "https://www.reddit.com/r/Office365/comments/n3qky1/office_365_leaking_bcc_domain_name/",
+    "upvotes": 31,
+    "author": "bouke",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27022600"
   },
   {
     "title": "Bootstrapping an Amiga without a bootable floppy",
     "url": "https://www.rvalles.net/bootstrapping-an-amiga-without-a-bootable-amiga-floppy.html",
-    "upvotes": 32,
+    "upvotes": 39,
     "author": "rvalles",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27021469"
@@ -90,66 +98,74 @@
   {
     "title": "One Year of TILs",
     "url": "https://simonwillison.net/2021/May/2/one-year-of-tils/",
-    "upvotes": 195,
+    "upvotes": 199,
     "author": "tosh",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27017604"
+  },
+  {
+    "title": "Thinking for Programmers",
+    "url": "https://channel9.msdn.com/Events/Build/2014/3-642",
+    "upvotes": 24,
+    "author": "mbrodersen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27004599"
   },
   {
     "title": "Why are there so many unfinished buildings in Africa?",
     "url": "https://www.economist.com/middle-east-and-africa/2021/05/01/why-are-there-so-many-unfinished-buildings-in-africa",
     "upvotes": 49,
     "author": "edward",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27013574"
-  },
-  {
-    "title": "Thinking for Programmers",
-    "url": "https://channel9.msdn.com/Events/Build/2014/3-642",
-    "upvotes": 23,
-    "author": "mbrodersen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27004599"
   },
   {
     "title": "How many engineers does it take to make subscripting work?",
     "url": "https://erthalion.info/2021/03/03/subscripting/",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "aleyan",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27006323"
   },
   {
     "title": "Principal Component Analysis Explained Visually",
     "url": "https://setosa.io/ev/principal-component-analysis/",
-    "upvotes": 174,
+    "upvotes": 177,
     "author": "xk3",
-    "comments": 38,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27017675"
   },
   {
     "title": "Bitcoin Core: Bitcoin Core 0.21.1 released with Taproot activation code",
     "url": "https://bitcoincore.org/en/2021/05/01/release-0.21.1/",
-    "upvotes": 70,
+    "upvotes": 72,
     "author": "alwillis",
-    "comments": 72,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=27020002"
   },
   {
     "title": "What Is the Transparent Material at the End of a Gel Pen Refill?",
     "url": "https://unsharpen.com/follower-end-of-gel-pen-refill/",
-    "upvotes": 98,
+    "upvotes": 100,
     "author": "thomas",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27015267"
   },
   {
-    "title": "Designing a guitar with hot-swappable pickups",
-    "url": "https://www.staycaffeinated.com/2021/05/02/designing-a-guitar-with-hot-swappable-pickups",
-    "upvotes": 147,
-    "author": "frenchie4111",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=27017176"
+    "title": "Bob Cassette Rewinder: Hacking Detergent DRM",
+    "url": "https://github.com/dekuNukem/bob_cassette_rewinder",
+    "upvotes": 1100,
+    "author": "dekuNukem",
+    "comments": 351,
+    "link": "https://news.ycombinator.com/item?id=27013880"
+  },
+  {
+    "title": "Jetoptera VTOL aircraft design features “bladeless fans on steroids”",
+    "url": "https://newatlas.com/aircraft/jetoptera-aircraft-propulsion-system/",
+    "upvotes": 28,
+    "author": "BerislavLopac",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27015793"
   },
   {
     "title": "Why are there so many Canadians in India?",
@@ -160,36 +176,20 @@
     "link": "https://news.ycombinator.com/item?id=27020313"
   },
   {
-    "title": "Bob Cassette Rewinder: Hacking Detergent DRM",
-    "url": "https://github.com/dekuNukem/bob_cassette_rewinder",
-    "upvotes": 1097,
-    "author": "dekuNukem",
-    "comments": 351,
-    "link": "https://news.ycombinator.com/item?id=27013880"
-  },
-  {
-    "title": "Jetoptera VTOL aircraft design features “bladeless fans on steroids”",
-    "url": "https://newatlas.com/aircraft/jetoptera-aircraft-propulsion-system/",
-    "upvotes": 23,
-    "author": "BerislavLopac",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27015793"
+    "title": "Computer Calculus Reading Group",
+    "url": "https://compcalc.github.io/",
+    "upvotes": 107,
+    "author": "bmc7505",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27004278"
   },
   {
     "title": "What3Words sends legal threat to security researcher for sharing an alternative",
     "url": "https://techcrunch.com/2021/04/30/what3words-legal-threat-whatfreewords/",
-    "upvotes": 267,
+    "upvotes": 274,
     "author": "prostoalex",
-    "comments": 126,
+    "comments": 132,
     "link": "https://news.ycombinator.com/item?id=27020810"
-  },
-  {
-    "title": "Computer Calculus Reading Group",
-    "url": "https://compcalc.github.io/",
-    "upvotes": 102,
-    "author": "bmc7505",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27004278"
   },
   {
     "title": "Substack",
@@ -200,27 +200,27 @@
     "url": "https://computer.rip/2021-05-01-simple-as-in-smtp.html",
     "upvotes": 55,
     "author": "zdw",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27015376"
-  },
-  {
-    "title": "Office 365 leaking BCC domain name to other recipients",
-    "url": "https://www.reddit.com/r/Office365/comments/n3qky1/office_365_leaking_bcc_domain_name/",
-    "upvotes": 13,
-    "author": "bouke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27022600"
   },
   {
     "title": "The compiler will optimize that away",
     "url": "https://blog.royalsloth.eu/posts/the-compiler-will-optimize-that-away/",
-    "upvotes": 249,
+    "upvotes": 252,
     "author": "0-_-0",
-    "comments": 196,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=27010965"
   },
   {
-    "title": "Novels and Novellas and Tomes, Oh My",
+    "title": "Negative interest: Danske Bank changes threshold for personal customers",
+    "url": "https://danskebank.com/news-and-insights/news-archive/press-releases/2021/pr26042021",
+    "upvotes": 86,
+    "author": "awb",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=27018522"
+  },
+  {
+    "title": "Novels and Novellas and Tomes, Oh My!",
     "url": "https://countercraft.substack.com/p/novels-and-novellas-and-tomes-oh",
     "upvotes": 3,
     "author": "samclemens",
@@ -228,11 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=27011761"
   },
   {
-    "title": "Negative interest: Danske Bank changes threshold for personal customers",
-    "url": "https://danskebank.com/news-and-insights/news-archive/press-releases/2021/pr26042021",
-    "upvotes": 83,
-    "author": "awb",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=27018522"
+    "title": "SkyTransfer – Free, Open-Source, Decentralized and Encrypted File-Sharing",
+    "url": "https://skytransfer.hns.siasky.net/#/",
+    "upvotes": 73,
+    "author": "spamalot159",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27017805"
   }
 ]
