@@ -1,82 +1,90 @@
 [
   {
+    "title": "The Unix Magic Poster",
+    "url": "https://jpmens.net/2021/04/09/the-unix-magic-poster/",
+    "upvotes": 80,
+    "author": "colinprince",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27029196"
+  },
+  {
     "title": "Practical SQL for Data Analysis",
     "url": "https://hakibenita.com/sql-for-data-analysis",
-    "upvotes": 307,
+    "upvotes": 336,
     "author": "steve-chavez",
-    "comments": 122,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=27025829"
   },
   {
-    "title": "The Unix Magic Poster",
-    "url": "https://jpmens.net/2021/04/09/the-unix-magic-poster/",
-    "upvotes": 27,
-    "author": "colinprince",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27029196"
+    "title": "How Long Can We Live?",
+    "url": "https://www.nytimes.com/2021/04/28/magazine/human-lifespan.html",
+    "upvotes": 23,
+    "author": "khartig",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27029191"
   },
   {
     "title": "Ask HN: Who is hiring?",
     "url": "item?id=27025922",
-    "upvotes": 175,
+    "upvotes": 197,
     "author": "whoishiring",
-    "comments": 364,
+    "comments": 399,
     "link": "https://news.ycombinator.com/item?id=27025922"
   },
   {
     "title": "Amazon knew seller data was used to boost company sales",
     "url": "https://www.politico.eu/article/amazon-seller-data-company-sales/",
-    "upvotes": 481,
+    "upvotes": 499,
     "author": "giuliomagnifico",
-    "comments": 371,
+    "comments": 382,
     "link": "https://news.ycombinator.com/item?id=27023399"
+  },
+  {
+    "title": "Wormhole – Simple, private file sharing",
+    "url": "https://wormhole.app/",
+    "upvotes": 24,
+    "author": "gaws",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27029452"
+  },
+  {
+    "title": "Verizon Sells AOL and Yahoo to Apollo for $5B",
+    "url": "https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html",
+    "upvotes": 207,
+    "author": "mishftw",
+    "comments": 247,
+    "link": "https://news.ycombinator.com/item?id=27024118"
+  },
+  {
+    "title": "Show HN: I built grafar, a cool visualization library",
+    "url": "https://thoughtspile.github.io/grafar?new",
+    "upvotes": 9,
+    "author": "thoughtspile",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27029776"
   },
   {
     "title": "Programming in Z3 by learning to think like a compiler",
     "url": "https://bellmar.medium.com/programming-in-z3-by-learning-to-think-like-a-compiler-401fd46828d5",
-    "upvotes": 120,
+    "upvotes": 123,
     "author": "mbellotti",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27025289"
   },
   {
-    "title": "Verizon Sells AOL and Yahoo to Apollo for $5B",
-    "url": "https://www.nytimes.com/2021/05/03/business/verizon-aol-yahoo-sale.html",
-    "upvotes": 192,
-    "author": "mishftw",
-    "comments": 238,
-    "link": "https://news.ycombinator.com/item?id=27024118"
-  },
-  {
-    "title": "Reverse Debugging at Scale",
-    "url": "https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/",
-    "upvotes": 28,
-    "author": "kiyanwang",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27023726"
-  },
-  {
-    "title": "Global cryptocurrency “market cap” exceeds “US” currency in circulation",
-    "url": "https://fred.stlouisfed.org/series/CURRCIR",
-    "upvotes": 8,
-    "author": "wutXthree",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27028879"
-  },
-  {
-    "title": "Dave Herman’s contributions to Rust",
-    "url": "https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor",
-    "upvotes": 564,
-    "author": "signa11",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=27022120"
+    "title": "Building video chat into my personal website using WebRTC, WebSockets, and Go",
+    "url": "https://mattbutterfield.com/blog/2021-05-02-adding-video-chat",
+    "upvotes": 10,
+    "author": "deneb150",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27029502"
   },
   {
     "title": "Ask HN: Who wants to be hired?",
     "url": "item?id=27025920",
-    "upvotes": 62,
+    "upvotes": 70,
     "author": "whoishiring",
-    "comments": 82,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=27025920"
   },
   {
@@ -84,155 +92,147 @@
     "url": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source[]=HN"
   },
   {
+    "title": "Reverse Debugging at Scale",
+    "url": "https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/",
+    "upvotes": 41,
+    "author": "kiyanwang",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27023726"
+  },
+  {
+    "title": "Dave Herman’s contributions to Rust",
+    "url": "https://brson.github.io/2021/05/02/rusts-most-unrecognized-contributor",
+    "upvotes": 574,
+    "author": "signa11",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=27022120"
+  },
+  {
     "title": "What nobody says about startup moms",
     "url": "https://www.femfosec.com/what-nobody-says-about-startup-moms/",
-    "upvotes": 73,
+    "upvotes": 94,
     "author": "femfosec",
-    "comments": 100,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=27028157"
+  },
+  {
+    "title": "Ask HN: Mobile phone addiction help?",
+    "url": "item?id=27017776",
+    "upvotes": 80,
+    "author": "swen-rekcah",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=27017776"
   },
   {
     "title": "The Programming Language Zoo",
     "url": "https://plzoo.andrej.com/",
-    "upvotes": 82,
+    "upvotes": 89,
     "author": "creata",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27024804"
   },
   {
-    "title": "Ask HN: Mobile phone addiction help?",
-    "url": "item?id=27017776",
-    "upvotes": 70,
-    "author": "swen-rekcah",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=27017776"
-  },
-  {
-    "title": "Wormhole – Simple, private file sharing",
-    "url": "https://wormhole.app/",
-    "upvotes": 3,
-    "author": "gaws",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27029452"
-  },
-  {
-    "title": "Tiny Wins",
-    "url": "https://joelcalifa.com/blog/tiny-wins/",
-    "upvotes": 203,
-    "author": "tosh",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27013896"
-  },
-  {
-    "title": "Stack on a Budget – A collection of services with free tiers",
-    "url": "https://github.com/255kb/stack-on-a-budget",
-    "upvotes": 305,
-    "author": "bryanrasmussen",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=27022075"
-  },
-  {
     "title": "Clodl: Turn dynamically linked ELF binaries into self-contained closures",
     "url": "https://github.com/tweag/clodl",
-    "upvotes": 6,
+    "upvotes": 18,
     "author": "vsurabhi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27023306"
   },
   {
-    "title": "Google penalizes you for using Google Analytics",
-    "url": "https://blog.simpleanalytics.com/google-penalizes-you-for-using-google-analytics",
-    "upvotes": 158,
-    "author": "twapi",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=27022693"
+    "title": "Tiny Wins",
+    "url": "https://joelcalifa.com/blog/tiny-wins/",
+    "upvotes": 217,
+    "author": "tosh",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27013896"
   },
   {
-    "title": "A Lock Picking Game Changer [video]",
-    "url": "https://www.youtube.com/watch?v=v2K_WgL71Ro",
-    "upvotes": 139,
-    "author": "DyslexicAtheist",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=27026555"
+    "title": "Stack on a Budget – A collection of services with free tiers",
+    "url": "https://github.com/255kb/stack-on-a-budget",
+    "upvotes": 317,
+    "author": "bryanrasmussen",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27022075"
+  },
+  {
+    "title": "Google penalizes you for using Google Analytics",
+    "url": "https://blog.simpleanalytics.com/google-penalizes-you-for-using-google-analytics",
+    "upvotes": 169,
+    "author": "twapi",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27022693"
   },
   {
     "title": "Lung cancer in never-smokers: a hidden disease",
     "url": "https://journals.sagepub.com/doi/full/10.1177/0141076819843654",
-    "upvotes": 98,
+    "upvotes": 103,
     "author": "YeGoblynQueenne",
-    "comments": 118,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=27023395"
+  },
+  {
+    "title": "A Lock Picking Game Changer [video]",
+    "url": "https://www.youtube.com/watch?v=v2K_WgL71Ro",
+    "upvotes": 148,
+    "author": "DyslexicAtheist",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=27026555"
   },
   {
     "title": "Volta",
     "url": "https://volta.sh/",
-    "upvotes": 215,
+    "upvotes": 219,
     "author": "tosh",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=27023453"
   },
   {
     "title": "My Favorite One Liners",
     "url": "https://muhammadraza.me/2021/Oneliners/",
-    "upvotes": 207,
+    "upvotes": 215,
     "author": "mr_o47",
-    "comments": 149,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=27023572"
+  },
+  {
+    "title": "In Singapore, Covid vs. privacy is no contest",
+    "url": "https://www.lowyinstitute.org/the-interpreter/singapore-covid-vs-privacy-no-contest",
+    "upvotes": 6,
+    "author": "walterbell",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27029534"
   },
   {
     "title": "I was terrible at crosswords so I built an AI to do them",
     "url": "https://www.bbc.co.uk/news/technology-56934716",
-    "upvotes": 47,
+    "upvotes": 56,
     "author": "ColinWright",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27023049"
   },
   {
-    "title": "Microsoft bids $44.6B to buy Yahoo",
-    "url": "https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201",
-    "upvotes": 168,
-    "author": "tosh",
-    "comments": 146,
-    "link": "https://news.ycombinator.com/item?id=27024319"
-  },
-  {
     "title": "TeXmacs and the Art of Mathematical Writing",
     "url": "https://texmacs.github.io/notes/docs/art-of-math-writing.html",
-    "upvotes": 36,
+    "upvotes": 44,
     "author": "amichail",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27024260"
+  },
+  {
+    "title": "Microsoft bids $44.6B to buy Yahoo",
+    "url": "https://www.reuters.com/article/us-microsoft-idUSWNAS894220080201",
+    "upvotes": 176,
+    "author": "tosh",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=27024319"
   },
   {
     "title": "Go Modules Cheat Sheet",
     "url": "https://encore.dev/guide/go.mod",
-    "upvotes": 87,
+    "upvotes": 98,
     "author": "eandre",
-    "comments": 37,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27025462"
-  },
-  {
-    "title": "John Glenn popularized the word “glitch”",
-    "url": "https://www.airspacemag.com/airspacemag/just-right-word-180973113/",
-    "upvotes": 88,
-    "author": "Hooke",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27011790"
-  },
-  {
-    "title": "VGA ROM Fonts",
-    "url": "http://www.alexandrugroza.ro/microelectronics/essays-research/vga-rom-fonts/index.html",
-    "upvotes": 70,
-    "author": "Lammy",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27023246"
-  },
-  {
-    "title": "Show HN: Monito, a browser extension for software testers",
-    "url": "https://getmonito.com",
-    "upvotes": 46,
-    "author": "bjarocki",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27023366"
   }
 ]
