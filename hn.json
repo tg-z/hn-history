@@ -1,59 +1,95 @@
 [
   {
-    "title": "Blizzard has lost almost 29% of its overall active playerbase in three years",
-    "url": "https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/",
-    "upvotes": 104,
-    "author": "mfilion",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=27054753"
-  },
-  {
-    "title": "HTML Tips and Tricks",
-    "url": "https://markodenic.com/posts/html-tips/",
-    "upvotes": 107,
-    "author": "web_master",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27054348"
-  },
-  {
-    "title": "Bootstrap 5 Released",
-    "url": "https://blog.getbootstrap.com/2021/05/05/bootstrap-5/",
-    "upvotes": 70,
-    "author": "mkurz",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27054837"
-  },
-  {
     "title": "Send: A Fork of Mozilla's Firefox Send",
     "url": "https://github.com/timvisee/send",
-    "upvotes": 250,
+    "upvotes": 276,
     "author": "andredz",
-    "comments": 55,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27052840"
   },
   {
-    "title": "Orbit is now open source",
+    "title": "Orbit: an experimental platform for small tasks repeated over time",
     "url": "https://github.com/andymatuschak/orbit",
-    "upvotes": 210,
+    "upvotes": 219,
     "author": "goerz",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27051468"
   },
   {
     "title": "CLUI: Building a Graphical Command Line",
     "url": "https://blog.replit.com/clui",
-    "upvotes": 109,
+    "upvotes": 121,
     "author": "ingve",
-    "comments": 58,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27052505"
+  },
+  {
+    "title": "HTML Tips",
+    "url": "https://markodenic.com/posts/html-tips/",
+    "upvotes": 146,
+    "author": "web_master",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27054348"
+  },
+  {
+    "title": "Show HN: CS Weapons – Counter-Strike weapon data comparison app",
+    "url": "https://www.csweapons.com",
+    "upvotes": 35,
+    "author": "vercadium",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27054357"
+  },
+  {
+    "title": "Zumo Labs",
+    "url": "https://www.workatastartup.com/jobs/43771"
+  },
+  {
+    "title": "Open sourcing Pixie under Apache 2.0 license",
+    "url": "https://blog.px.dev/open-source-release/",
+    "upvotes": 23,
+    "author": "nserrino",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27055364"
   },
   {
     "title": "ClearURLs – automatically remove tracking elements from URLs",
     "url": "https://github.com/ClearURLs/Addon/",
-    "upvotes": 618,
+    "upvotes": 627,
     "author": "stanislavb",
-    "comments": 240,
+    "comments": 243,
     "link": "https://news.ycombinator.com/item?id=27047243"
+  },
+  {
+    "title": "Preparing for Pre-Orders!",
+    "url": "https://frame.work/blog/preparing-for-pre-orders",
+    "upvotes": 94,
+    "author": "luke2m",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27052468"
+  },
+  {
+    "title": "1700 Cascadia Earthquake",
+    "url": "https://en.wikipedia.org/wiki/1700_Cascadia_earthquake",
+    "upvotes": 29,
+    "author": "Hooke",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27045463"
+  },
+  {
+    "title": "MacFlim: Full-motion video on B&W Macs",
+    "url": "http://www.macflim.com",
+    "upvotes": 46,
+    "author": "smagoun",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27053655"
+  },
+  {
+    "title": "Pts.js: a modular librairy for visualization and creative coding",
+    "url": "https://ptsjs.org/",
+    "upvotes": 86,
+    "author": "sctgrhm",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27052313"
   },
   {
     "title": "Learning About the GeoTIFF File Format with a Hex Editor",
@@ -64,45 +100,9 @@
     "link": "https://news.ycombinator.com/item?id=27052243"
   },
   {
-    "title": "Pts.js: a modular librairy for visualization and creative coding",
-    "url": "https://ptsjs.org/",
-    "upvotes": 81,
-    "author": "sctgrhm",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27052313"
-  },
-  {
-    "title": "Preparing for Pre-Orders!",
-    "url": "https://frame.work/blog/preparing-for-pre-orders",
-    "upvotes": 83,
-    "author": "luke2m",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27052468"
-  },
-  {
-    "title": "Show HN: CS Weapons – Counter-Strike weapon data comparison app",
-    "url": "https://www.csweapons.com",
-    "upvotes": 19,
-    "author": "vercadium",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27054357"
-  },
-  {
-    "title": "MacFlim: Full-motion video on B&W Macs",
-    "url": "http://www.macflim.com",
-    "upvotes": 33,
-    "author": "smagoun",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27053655"
-  },
-  {
-    "title": "BillionToOne (YC S17) is hiring software engineers to advance genetic testing",
-    "url": "item?id=27052498"
-  },
-  {
     "title": "Show HN: I wrote the book Building Mobile Apps at Scale",
     "url": "http://mobileatscale.com/",
-    "upvotes": 154,
+    "upvotes": 161,
     "author": "gregdoesit",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27050801"
@@ -110,129 +110,129 @@
   {
     "title": "History of Programming Languages",
     "url": "https://felleisen.org/matthias/7480-s21/index.html",
-    "upvotes": 62,
+    "upvotes": 66,
     "author": "ingve",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27051498"
+  },
+  {
+    "title": "Blizzard has lost almost 29% of its overall active playerbase in three years",
+    "url": "https://massivelyop.com/2021/05/04/activision-blizzard-q1-2021-financials-blizzard-maus-down-to-27m/",
+    "upvotes": 154,
+    "author": "mfilion",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=27054753"
   },
   {
     "title": "PlayCanvas Launches Node-Based Animation Editor for WebGL",
     "url": "https://blog.playcanvas.com/introducing-the-anim-state-graph/",
-    "upvotes": 91,
+    "upvotes": 93,
     "author": "ovenchips",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27050731"
   },
   {
-    "title": "1700 Cascadia Earthquake",
-    "url": "https://en.wikipedia.org/wiki/1700_Cascadia_earthquake",
-    "upvotes": 20,
-    "author": "Hooke",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27045463"
-  },
-  {
-    "title": "White House eyes subsidies for nuclear plants to help meet climate targets",
-    "url": "https://www.reuters.com/business/sustainable-business/white-house-eyes-subsidies-nuclear-plants-help-meet-climate-targets-sources-2021-05-05/",
-    "upvotes": 573,
-    "author": "pseudolus",
-    "comments": 467,
-    "link": "https://news.ycombinator.com/item?id=27049415"
+    "title": "The origin of “tweet” at Twitter",
+    "url": "https://furbo.org/2013/06/28/the-origin-of-tweet/",
+    "upvotes": 33,
+    "author": "pcr910303",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27045787"
   },
   {
     "title": "Linux and Glibc API Changes",
     "url": "https://man7.org/tlpi/api_changes/index.html",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "arunc",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27052992"
   },
   {
+    "title": "Vulture: Find Dead Python Code",
+    "url": "https://github.com/jendrikseipp/vulture",
+    "upvotes": 5,
+    "author": "polm23",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27036626"
+  },
+  {
+    "title": "Motorcycle Airbag Vest Will Stop Working If You Miss a Payment",
+    "url": "https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment",
+    "upvotes": 39,
+    "author": "elliekelly",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27054629"
+  },
+  {
     "title": "Labor of Division: Algorithm D",
     "url": "https://ridiculousfish.com/blog/posts/labor-of-division-episode-iv.html",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "mpweiher",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27037336"
   },
   {
-    "title": "The origin of “tweet” at Twitter",
-    "url": "https://furbo.org/2013/06/28/the-origin-of-tweet/",
-    "upvotes": 25,
-    "author": "pcr910303",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27045787"
+    "title": "I found my Grandpa’s notes 20 years after he died",
+    "url": "https://medium.com/lessons-from-history/i-found-my-grandfathers-notes-20-years-after-he-died-here-s-what-i-learnt-b550a65069d7",
+    "upvotes": 198,
+    "author": "Ice_cream_suit",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=27034087"
   },
   {
     "title": "National Artificial Intelligence Initiative",
     "url": "https://www.ai.gov/",
-    "upvotes": 149,
+    "upvotes": 155,
     "author": "KoftaBob",
-    "comments": 61,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27048048"
-  },
-  {
-    "title": "Go proposal: new package to provide generic slice functions",
-    "url": "https://github.com/golang/go/issues/45955",
-    "upvotes": 192,
-    "author": "todsacerdoti",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=27048531"
   },
   {
     "title": "Doctors investigate mystery brain disease in Canada",
     "url": "https://www.bbc.com/news/world-us-canada-56910393",
-    "upvotes": 279,
+    "upvotes": 284,
     "author": "aluket",
-    "comments": 230,
+    "comments": 233,
     "link": "https://news.ycombinator.com/item?id=27047148"
   },
   {
-    "title": "Is this what Enterprise mean?",
+    "title": "Is this what enterprise means?",
     "url": "https://twitter.com/steffoz/status/1389946268764475394",
-    "upvotes": 230,
+    "upvotes": 254,
     "author": "steffoz",
-    "comments": 54,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27051985"
   },
   {
-    "title": "LSD, cargo shorts and the fall of a tech CEO",
-    "url": "https://www.bloomberg.com/news/articles/2021-05-03/lsd-cargo-shorts-and-the-fall-of-a-high-flying-tech-ceo",
-    "upvotes": 135,
-    "author": "1cvmask",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=27051284"
+    "title": "Go proposal: new package to provide generic slice functions",
+    "url": "https://github.com/golang/go/issues/45955",
+    "upvotes": 193,
+    "author": "todsacerdoti",
+    "comments": 132,
+    "link": "https://news.ycombinator.com/item?id=27048531"
   },
   {
     "title": "$1 Unistroke Recognizer",
     "url": "http://depts.washington.edu/acelab/proj/dollar/index.html",
-    "upvotes": 189,
+    "upvotes": 191,
     "author": "jlturner",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=27046822"
   },
   {
+    "title": "LSD, cargo shorts and the fall of a tech CEO",
+    "url": "https://www.bloomberg.com/news/articles/2021-05-03/lsd-cargo-shorts-and-the-fall-of-a-high-flying-tech-ceo",
+    "upvotes": 145,
+    "author": "1cvmask",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=27051284"
+  },
+  {
     "title": "Slidev – Presentation Slides for Developers",
     "url": "https://github.com/slidevjs/slidev",
-    "upvotes": 43,
+    "upvotes": 48,
     "author": "antfu",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27050687"
-  },
-  {
-    "title": "SeL4 on RISC-V Verified to Binary Code",
-    "url": "https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/",
-    "upvotes": 137,
-    "author": "kryptiskt",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27047523"
-  },
-  {
-    "title": "Motorcycle Airbag Vest Will Stop Working If You Miss a Payment",
-    "url": "https://www.vice.com/en/article/93yyyd/this-motorcycle-airbag-vest-will-stop-working-if-you-miss-a-payment",
-    "upvotes": 15,
-    "author": "elliekelly",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27054629"
   }
 ]
