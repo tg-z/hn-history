@@ -2,55 +2,55 @@
   {
     "title": "ClearURLs – automatically remove tracking elements from URLs",
     "url": "https://github.com/ClearURLs/Addon/",
-    "upvotes": 104,
+    "upvotes": 130,
     "author": "stanislavb",
-    "comments": 50,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27047243"
   },
   {
     "title": "$1 Unistroke Recognizer",
     "url": "http://depts.washington.edu/acelab/proj/dollar/index.html",
-    "upvotes": 110,
+    "upvotes": 112,
     "author": "jlturner",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27046822"
   },
   {
-    "title": "Doctors investigate mystery brain disease in Canada",
-    "url": "https://www.bbc.com/news/world-us-canada-56910393",
-    "upvotes": 86,
-    "author": "aluket",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=27047148"
-  },
-  {
     "title": "SeL4 on RISC-V Verified to Binary Code",
     "url": "https://microkerneldude.wordpress.com/2021/05/05/sel4-on-risc-v-verified-to-binary-code/",
-    "upvotes": 39,
+    "upvotes": 46,
     "author": "kryptiskt",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27047523"
+  },
+  {
+    "title": "Doctors investigate mystery brain disease in Canada",
+    "url": "https://www.bbc.com/news/world-us-canada-56910393",
+    "upvotes": 90,
+    "author": "aluket",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27047148"
   },
   {
     "title": "Cinder: Instagram's performance-oriented fork of CPython",
     "url": "https://github.com/facebookincubator/cinder",
-    "upvotes": 516,
+    "upvotes": 519,
     "author": "yagizdegirmenci",
-    "comments": 184,
+    "comments": 187,
     "link": "https://news.ycombinator.com/item?id=27043217"
   },
   {
     "title": "Netflix IT exec forced employees to use products from vendors that bribed him",
     "url": "https://arstechnica.com/tech-policy/2021/05/netflix-it-exec-forced-employees-to-use-products-from-vendors-that-bribed-him/",
-    "upvotes": 84,
+    "upvotes": 99,
     "author": "codelion",
-    "comments": 56,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27047474"
   },
   {
     "title": "Z3 Tutorial",
     "url": "https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "todsacerdoti",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27045771"
@@ -58,50 +58,82 @@
   {
     "title": "How we use web components",
     "url": "https://github.blog/2021-05-04-how-we-use-web-components-at-github/",
-    "upvotes": 143,
+    "upvotes": 147,
     "author": "prakhargurunani",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27045450"
+  },
+  {
+    "title": "The handshake emoji is more complicated than you might think",
+    "url": "https://jenniferdaniel.substack.com/p/pressing-flesh-against-flesh-",
+    "upvotes": 62,
+    "author": "donohoe",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=27023581"
   },
   {
     "title": "Multitasking hurts performance and may even damage the brain",
     "url": "https://www.linkedin.com/pulse/why-successful-people-dont-multitask-dr-travis-bradberry/",
-    "upvotes": 404,
+    "upvotes": 413,
     "author": "tracyhenry",
-    "comments": 242,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=27042151"
   },
   {
     "title": "Tilting Trains and Technological Dead-Ends",
     "url": "https://pedestrianobservations.com/2021/04/22/tilting-trains-and-technological-dead-ends/",
-    "upvotes": 28,
+    "upvotes": 29,
     "author": "luu",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27034182"
   },
   {
     "title": "Hy: A dialect of Lisp that's embedded in Python",
     "url": "https://github.com/hylang/hy",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "lnyan",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27045375"
   },
   {
+    "title": "I Found My Grandpa’s Notes 20 Years After He Died",
+    "url": "https://medium.com/lessons-from-history/i-found-my-grandfathers-notes-20-years-after-he-died-here-s-what-i-learnt-b550a65069d7",
+    "upvotes": 6,
+    "author": "Ice_cream_suit",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27034087"
+  },
+  {
     "title": "Using QEMU-user emulation to reverse engineer binaries",
     "url": "https://ariadne.space/2021/05/05/using-qemu-user-emulation-to-reverse-engineer-binaries/",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "todsacerdoti",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27046272"
   },
   {
+    "title": "Tesla Car Hacked Remotely from Drone via Zero-Click Exploit",
+    "url": "https://www.securityweek.com/tesla-car-hacked-remotely-drone-zero-click-exploit",
+    "upvotes": 9,
+    "author": "vanburen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27048270"
+  },
+  {
     "title": "A sorceress’ kit was discovered in the ashes of Pompeii",
     "url": "https://www.smithsonianmag.com/smart-news/sorceresss-kit-was-discovered-ashes-pompeii-180972907/",
-    "upvotes": 89,
+    "upvotes": 90,
     "author": "drdee",
-    "comments": 46,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=27034144"
+  },
+  {
+    "title": "60% of school apps are sending student data with third parties without consent",
+    "url": "https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/",
+    "upvotes": 507,
+    "author": "InitialLastName",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=27044459"
   },
   {
     "title": "Forth – The Early Years",
@@ -112,52 +144,76 @@
     "link": "https://news.ycombinator.com/item?id=27041008"
   },
   {
-    "title": "60% of school apps are sending student data with third parties without consent",
-    "url": "https://me2ba.org/me2ba-product-testing-spotlight-report-published-data-sharing-in-primary-secondary-school-mobile-apps-2/",
-    "upvotes": 502,
-    "author": "InitialLastName",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=27044459"
-  },
-  {
     "title": "The Autodidactic Universe",
     "url": "https://arxiv.org/abs/2104.03902",
     "upvotes": 53,
     "author": "jbotz",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27036653"
   },
   {
     "title": "Compose for Web",
     "url": "https://compose-web.ui.pages.jetbrains.team/",
-    "upvotes": 108,
+    "upvotes": 110,
     "author": "farmerbb",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27043067"
   },
   {
+    "title": "Branchless Coding in Go",
+    "url": "https://mattnakama.com/blog/go-branchless-coding/",
+    "upvotes": 141,
+    "author": "gnum4n",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27038606"
+  },
+  {
     "title": "MapSCII – The Whole World in Your Console",
     "url": "https://github.com/rastapasta/mapscii",
-    "upvotes": 172,
+    "upvotes": 173,
     "author": "luke2m",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27042629"
   },
   {
     "title": "Berkshire Hathaway’s stock price is too high for Nasdaq computers",
     "url": "https://www.wsj.com/articles/berkshire-hathaways-stock-price-is-too-much-for-computers-11620168548",
-    "upvotes": 238,
+    "upvotes": 240,
     "author": "marc__1",
-    "comments": 223,
+    "comments": 226,
     "link": "https://news.ycombinator.com/item?id=27044044"
   },
   {
-    "title": "Branchless Coding in Go",
-    "url": "https://mattnakama.com/blog/go-branchless-coding/",
-    "upvotes": 138,
-    "author": "gnum4n",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27038606"
+    "title": "Kolmogorov Complexity: Extensions and Applications",
+    "url": "https://blog.neotree.uber.space/posts/kolmogorov-complexity",
+    "upvotes": 94,
+    "author": "sean_pedersen",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27043153"
+  },
+  {
+    "title": "MH370 pilot made many turns and speed changes, new report reveals",
+    "url": "https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/",
+    "upvotes": 229,
+    "author": "wglb",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=27044995"
+  },
+  {
+    "title": "Please fix the AWS free tier before somebody gets hurt",
+    "url": "https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before",
+    "upvotes": 641,
+    "author": "forrestbrazeal",
+    "comments": 337,
+    "link": "https://news.ycombinator.com/item?id=27044371"
+  },
+  {
+    "title": "Show HN: Hurl.it is back – Make HTTP Requests",
+    "url": "https://hurlit.com/",
+    "upvotes": 65,
+    "author": "todsacerdoti",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27026178"
   },
   {
     "title": "The Obsessive Art and Great Confession of Charlotte Salomon",
@@ -168,71 +224,15 @@
     "link": "https://news.ycombinator.com/item?id=27033919"
   },
   {
-    "title": "Kolmogorov Complexity: Extensions and Applications",
-    "url": "https://blog.neotree.uber.space/posts/kolmogorov-complexity",
-    "upvotes": 94,
-    "author": "sean_pedersen",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27043153"
-  },
-  {
-    "title": "Please fix the AWS free tier before somebody gets hurt",
-    "url": "https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before",
-    "upvotes": 629,
-    "author": "forrestbrazeal",
-    "comments": 330,
-    "link": "https://news.ycombinator.com/item?id=27044371"
-  },
-  {
-    "title": "MH370 pilot made many turns and speed changes, new report reveals",
-    "url": "https://www.airlineratings.com/news/mh370-pilot-made-many-turns-speed-changes-new-report-reveals/",
-    "upvotes": 225,
-    "author": "wglb",
-    "comments": 109,
-    "link": "https://news.ycombinator.com/item?id=27044995"
-  },
-  {
     "title": "TrueVault",
     "url": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead"
   },
   {
-    "title": "Show HN: Hurl.it is back – Make HTTP Requests",
-    "url": "https://hurlit.com/",
-    "upvotes": 64,
-    "author": "todsacerdoti",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27026178"
-  },
-  {
     "title": "Just Say No to Paxos Overhead: Replacing Consensus with Network Ordering",
     "url": "https://www.usenix.org/conference/osdi16/technical-sessions/presentation/li",
-    "upvotes": 99,
+    "upvotes": 100,
     "author": "yagizdegirmenci",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27042568"
-  },
-  {
-    "title": "Back in 1993, I was taking a number theory class",
-    "url": "https://twitter.com/EricLengyel/status/1389106103179378689",
-    "upvotes": 673,
-    "author": "renameme",
-    "comments": 206,
-    "link": "https://news.ycombinator.com/item?id=27031242"
-  },
-  {
-    "title": "Security and Privacy Risks of Number Recycling at Mobile Carriers in the U.S. [pdf]",
-    "url": "https://recyclednumbers.cs.princeton.edu/assets/recycled-numbers-latest.pdf",
-    "upvotes": 58,
-    "author": "randomwalker",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27030527"
-  },
-  {
-    "title": "Regression and Linear Combinations",
-    "url": "https://jeremykun.com/2021/03/29/regression-and-linear-combinations/",
-    "upvotes": 6,
-    "author": "signa11",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27034237"
   }
 ]
