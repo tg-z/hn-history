@@ -2,87 +2,87 @@
   {
     "title": "LiveLeak shuts down after 15 years online",
     "url": "https://techstartups.com/2021/05/05/liveleak-shuts-15-years-online/",
-    "upvotes": 478,
+    "upvotes": 513,
     "author": "ro_bit",
-    "comments": 305,
+    "comments": 323,
     "link": "https://news.ycombinator.com/item?id=27058178"
   },
   {
     "title": "Pyston v2.2: faster and open source",
     "url": "https://blog.pyston.org/2021/05/05/pyston-v2-2-faster-and-open-source/",
-    "upvotes": 101,
+    "upvotes": 109,
     "author": "chenzhekl",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27059119"
   },
   {
-    "title": "Send: A Fork of Mozilla's Firefox Send",
-    "url": "https://github.com/timvisee/send",
-    "upvotes": 550,
-    "author": "andredz",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=27052840"
+    "title": "Catala: A Programming Language for the Law",
+    "url": "https://arxiv.org/abs/2103.03198",
+    "upvotes": 13,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27059899"
   },
   {
     "title": "The Case of the 50ms request",
     "url": "https://mysteries.wizardzines.com/50ms-request.html",
-    "upvotes": 36,
+    "upvotes": 59,
     "author": "stochastimus",
-    "comments": 11,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27053941"
+  },
+  {
+    "title": "Send: A Fork of Mozilla's Firefox Send",
+    "url": "https://github.com/timvisee/send",
+    "upvotes": 561,
+    "author": "andredz",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=27052840"
+  },
+  {
+    "title": "Six years of professional Clojure development",
+    "url": "http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html",
+    "upvotes": 24,
+    "author": "yogthos",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27054839"
+  },
+  {
+    "title": "ProcMon for Linux",
+    "url": "https://github.com/Sysinternals/ProcMon-for-Linux/",
+    "upvotes": 78,
+    "author": "vmarsy",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27058914"
   },
   {
     "title": "Deep Diving into the Strengths of FreeBSD",
     "url": "https://klarasystems.com/articles/deep-diving-into-the-strengths-of-freebsd/",
-    "upvotes": 12,
+    "upvotes": 20,
     "author": "rodrigo975",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27059551"
   },
   {
     "title": "Portability Is Reliability",
     "url": "http://evan.nemerson.com/2021/05/04/portability-is-reliability/",
-    "upvotes": 31,
+    "upvotes": 35,
     "author": "adr_",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27044419"
-  },
-  {
-    "title": "Apple deletes Steve Jobs's “Thoughts on Flash”",
-    "url": "https://www.apple.com/hotnews/thoughts-on-flash/",
-    "upvotes": 53,
-    "author": "max_",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27059938"
-  },
-  {
-    "title": "ProcMon for Linux",
-    "url": "https://github.com/Sysinternals/ProcMon-for-Linux/",
-    "upvotes": 68,
-    "author": "vmarsy",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27058914"
   },
   {
     "title": "Show HN: CS Weapons – Counter-Strike weapon data comparison app",
     "url": "https://www.csweapons.com",
-    "upvotes": 206,
+    "upvotes": 212,
     "author": "vercadium",
-    "comments": 89,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=27054357"
-  },
-  {
-    "title": "Six years of professional Clojure development",
-    "url": "http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html",
-    "upvotes": 12,
-    "author": "yogthos",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27054839"
   },
   {
     "title": "MacFlim: Full-motion video on B&W Macs",
     "url": "http://www.macflim.com",
-    "upvotes": 188,
+    "upvotes": 189,
     "author": "smagoun",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27053655"
@@ -90,79 +90,63 @@
   {
     "title": "HTML Tips",
     "url": "https://markodenic.com/posts/html-tips/",
-    "upvotes": 515,
+    "upvotes": 534,
     "author": "web_master",
-    "comments": 95,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27054348"
   },
   {
-    "title": "Pts.js: a modular librairy for visualization and creative coding",
-    "url": "https://ptsjs.org/",
-    "upvotes": 207,
-    "author": "sctgrhm",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27052313"
+    "title": "Apple deletes Steve Jobs's “Thoughts on Flash”",
+    "url": "https://www.apple.com/hotnews/thoughts-on-flash/",
+    "upvotes": 79,
+    "author": "max_",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=27059938"
   },
   {
     "title": "1700 Cascadia Earthquake",
     "url": "https://en.wikipedia.org/wiki/1700_Cascadia_earthquake",
-    "upvotes": 115,
+    "upvotes": 117,
     "author": "Hooke",
-    "comments": 93,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=27045463"
   },
   {
     "title": "The origin of “tweet” at Twitter",
     "url": "https://furbo.org/2013/06/28/the-origin-of-tweet/",
-    "upvotes": 106,
+    "upvotes": 107,
     "author": "pcr910303",
-    "comments": 42,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27045787"
   },
   {
     "title": "Lumber mania is sweeping North America",
     "url": "https://www.vox.com/22410713/lumber-prices-shortage",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "RickJWagner",
-    "comments": 73,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=27036557"
+  },
+  {
+    "title": "UFOs Shows Govt. Competence as Either Surprisingly High or Low",
+    "url": "https://www.overcomingbias.com/2021/05/ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low.html",
+    "upvotes": 14,
+    "author": "cinquemb",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27058414"
   },
   {
     "title": "The California Exception",
     "url": "https://pxlnv.com/linklog/california-exception/",
-    "upvotes": 174,
+    "upvotes": 176,
     "author": "MaysonL",
-    "comments": 103,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27056300"
-  },
-  {
-    "title": "Major Depressive Disorders Have an Enormous Economic Impact",
-    "url": "https://www.scientificamerican.com/article/major-depressive-disorders-have-an-enormous-economic-impact/",
-    "upvotes": 118,
-    "author": "pseudolus",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=27058160"
-  },
-  {
-    "title": "The Once and Future Shell [pdf]",
-    "url": "https://angelhof.github.io/files/papers/shell-2021-hotos.pdf",
-    "upvotes": 34,
-    "author": "matt_d",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27036572"
-  },
-  {
-    "title": "Learning About the GeoTIFF File Format with a Hex Editor",
-    "url": "https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3",
-    "upvotes": 87,
-    "author": "oldpatricka",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27052243"
   },
   {
     "title": "ClearURLs – automatically remove tracking elements from URLs",
     "url": "https://github.com/ClearURLs/Addon/",
-    "upvotes": 720,
+    "upvotes": 724,
     "author": "stanislavb",
     "comments": 276,
     "link": "https://news.ycombinator.com/item?id=27047243"
@@ -170,69 +154,85 @@
   {
     "title": "Open sourcing Pixie under Apache 2.0 license",
     "url": "https://blog.px.dev/open-source-release/",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "nserrino",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27055364"
   },
   {
-    "title": "A Hybrid Approach to Work",
-    "url": "https://blog.google/inside-google/life-at-google/hybrid-approach-work/",
-    "upvotes": 140,
-    "author": "jader201",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=27055671"
+    "title": "Major Depressive Disorders Have an Enormous Economic Impact",
+    "url": "https://www.scientificamerican.com/article/major-depressive-disorders-have-an-enormous-economic-impact/",
+    "upvotes": 121,
+    "author": "pseudolus",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=27058160"
+  },
+  {
+    "title": "Advancing Excel as a programming language [audio]",
+    "url": "https://blubrry.com/microsoftresearch/76856095/120-advancing-excel-as-a-programming-language-with-andy-gordon-and-simon-peyton-jones/",
+    "upvotes": 74,
+    "author": "0-_-0",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=27048672"
+  },
+  {
+    "title": "Machine learning accelerates cosmological simulations",
+    "url": "https://phys.org/news/2021-05-machine-cosmological-simulations.html",
+    "upvotes": 13,
+    "author": "dnetesn",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27048013"
+  },
+  {
+    "title": "Orbit: an experimental platform for small tasks repeated over time",
+    "url": "https://github.com/andymatuschak/orbit",
+    "upvotes": 351,
+    "author": "goerz",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=27051468"
+  },
+  {
+    "title": "The Pumping Engine",
+    "url": "https://technicshistory.com/2021/05/05/the-pumping-engine/",
+    "upvotes": 10,
+    "author": "cfmcdonald",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27051575"
   },
   {
     "title": "Zumo Labs",
     "url": "https://www.workatastartup.com/jobs/43771"
   },
   {
-    "title": "Orbit: an experimental platform for small tasks repeated over time",
-    "url": "https://github.com/andymatuschak/orbit",
-    "upvotes": 350,
-    "author": "goerz",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27051468"
+    "title": "Are we screening too much for skin cancer? It's complicated",
+    "url": "https://undark.org/2021/01/25/debate-over-melanoma-diagnosis/",
+    "upvotes": 25,
+    "author": "laurex",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27053836"
   },
   {
-    "title": "Advancing Excel as a programming language [audio]",
-    "url": "https://blubrry.com/microsoftresearch/76856095/120-advancing-excel-as-a-programming-language-with-andy-gordon-and-simon-peyton-jones/",
-    "upvotes": 72,
-    "author": "0-_-0",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=27048672"
+    "title": "A Hybrid Approach to Work",
+    "url": "https://blog.google/inside-google/life-at-google/hybrid-approach-work/",
+    "upvotes": 145,
+    "author": "jader201",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=27055671"
   },
   {
-    "title": "UFOs Shows Govt. Competence as Either Surprisingly High or Low",
-    "url": "https://www.overcomingbias.com/2021/05/ufos-say-govt-competence-is-either-surprisingly-high-or-surprisingly-low.html",
-    "upvotes": 9,
-    "author": "cinquemb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27058414"
+    "title": "Vulture: Find Dead Python Code",
+    "url": "https://github.com/jendrikseipp/vulture",
+    "upvotes": 59,
+    "author": "polm23",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27036626"
   },
   {
     "title": "Ask HN: How do you generally build a product?",
     "url": "item?id=27057978",
-    "upvotes": 78,
+    "upvotes": 83,
     "author": "tr1ll10nb1ll",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27057978"
-  },
-  {
-    "title": "Machine learning accelerates cosmological simulations",
-    "url": "https://phys.org/news/2021-05-machine-cosmological-simulations.html",
-    "upvotes": 10,
-    "author": "dnetesn",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27048013"
-  },
-  {
-    "title": "Are we screening too much for skin cancer? It's complicated",
-    "url": "https://undark.org/2021/01/25/debate-over-melanoma-diagnosis/",
-    "upvotes": 24,
-    "author": "laurex",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27053836"
   }
 ]
