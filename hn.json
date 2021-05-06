@@ -2,73 +2,81 @@
   {
     "title": "Google Dataset Search",
     "url": "https://datasetsearch.research.google.com/",
-    "upvotes": 127,
+    "upvotes": 160,
     "author": "abraxaz",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27068551"
   },
   {
     "title": "Privacy Implications of Accelerometer Data [pdf]",
     "url": "https://dl.acm.org/doi/pdf/10.1145/3309074.3309076",
-    "upvotes": 39,
+    "upvotes": 49,
     "author": "gtirloni",
-    "comments": 12,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27069036"
   },
   {
     "title": "Hatetris – Tetris which always gives you the worst piece",
     "url": "https://qntm.org/hatetris",
-    "upvotes": 418,
+    "upvotes": 436,
     "author": "rishabhd",
-    "comments": 189,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=27063894"
   },
   {
     "title": "Crazy New Ideas",
     "url": "http://paulgraham.com/newideas.html",
-    "upvotes": 625,
+    "upvotes": 644,
     "author": "razin",
-    "comments": 606,
+    "comments": 619,
     "link": "https://news.ycombinator.com/item?id=27061789"
+  },
+  {
+    "title": "The original “Hello World”: B. W. Kernighan's intro to B",
+    "url": "https://web.archive.org/web/20060225195733/http://cm.bell-labs.com/cm/cs/who/dmr/btut.html",
+    "upvotes": 29,
+    "author": "nanna",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27048024"
   },
   {
     "title": "A centrifugal spin on a 500-year-old air compressor design",
     "url": "https://newatlas.com/good-thinking/carnot-centrifugal-air-compressor/",
-    "upvotes": 151,
+    "upvotes": 157,
     "author": "joshwa",
-    "comments": 46,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27066295"
   },
   {
     "title": "Show HN: Serverless USGS Historical Topographic map tiles",
     "url": "https://kylebarron.dev/usgs-topo-mosaic",
-    "upvotes": 15,
+    "upvotes": 26,
     "author": "kylebarron",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27069656"
+  },
+  {
+    "title": "Interactive IPA Chart",
+    "url": "https://www.ipachart.com/",
+    "upvotes": 143,
+    "author": "Jeud",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=27066579"
   },
   {
     "title": "Why I Work on Ads",
     "url": "https://www.jefftk.com/p/why-i-work-on-ads",
-    "upvotes": 491,
+    "upvotes": 504,
     "author": "benjaminjosephw",
-    "comments": 621,
+    "comments": 648,
     "link": "https://news.ycombinator.com/item?id=27060898"
   },
   {
-    "title": "Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]",
-    "url": "https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf",
-    "upvotes": 32,
-    "author": "sinak",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27068574"
-  },
-  {
-    "title": "IBM Creates First 2nm Chip",
+    "title": "IBM creates 2nm chip",
     "url": "https://www.anandtech.com/show/16656/ibm-creates-first-2nm-chip",
-    "upvotes": 494,
+    "upvotes": 500,
     "author": "0-_-0",
-    "comments": 181,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=27061130"
   },
   {
@@ -76,163 +84,155 @@
     "url": "https://www.workatastartup.com/jobs/43782"
   },
   {
+    "title": "Nixing the Fix: An FTC Report to Congress on Repair Restrictions [pdf]",
+    "url": "https://www.ftc.gov/system/files/documents/reports/nixing-fix-ftc-report-congress-repair-restrictions/nixing_the_fix_report_final_5521_630pm-508_002.pdf",
+    "upvotes": 37,
+    "author": "sinak",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27068574"
+  },
+  {
     "title": "1988: P.R.E.S.T.A.V.B.A.",
     "url": "https://if50.substack.com/p/1988-prestavba",
-    "upvotes": 177,
+    "upvotes": 178,
     "author": "aaronareed",
-    "comments": 57,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27064246"
   },
   {
-    "title": "The original “Hello World”: B. W. Kernighan's intro to B",
-    "url": "https://web.archive.org/web/20060225195733/http://cm.bell-labs.com/cm/cs/who/dmr/btut.html",
-    "upvotes": 13,
-    "author": "nanna",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27048024"
-  },
-  {
-    "title": "There Is No Drought",
-    "url": "https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought",
-    "upvotes": 20,
-    "author": "symby",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27068716"
+    "title": "Adversarial Reprogramming of Neural Cellular Automata",
+    "url": "https://distill.pub/selforg/2021/adversarial",
+    "upvotes": 42,
+    "author": "eyvindn",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27068236"
   },
   {
     "title": "Branch predictor: How many “if”s are too many?",
     "url": "https://blog.cloudflare.com/branch-predictor/",
-    "upvotes": 216,
+    "upvotes": 222,
     "author": "majke",
     "comments": 72,
     "link": "https://news.ycombinator.com/item?id=27062650"
   },
   {
-    "title": "Adversarial Reprogramming of Neural Cellular Automata",
-    "url": "https://distill.pub/selforg/2021/adversarial",
-    "upvotes": 35,
-    "author": "eyvindn",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27068236"
-  },
-  {
-    "title": "The vast viral world: what we know and don’t know",
-    "url": "https://nautil.us/issue/99/universality/the-vast-viral-world-what-we-know-and-dont-know",
-    "upvotes": 30,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27068116"
-  },
-  {
     "title": "I Hacked Google App Engine: Anatomy of a Java Bytecode Exploit",
     "url": "https://blog.polybdenum.com/2021/05/05/how-i-hacked-google-app-engine-anatomy-of-a-java-bytecode-exploit.html",
-    "upvotes": 171,
+    "upvotes": 179,
     "author": "arkadiyt",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27064800"
   },
   {
     "title": "Playlist for iOS",
     "url": "https://brave.com/playlist/",
-    "upvotes": 63,
+    "upvotes": 71,
     "author": "bsclifton",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27068071"
   },
   {
-    "title": "Starting a Crypto Project",
+    "title": "Why People Feel Like Victims",
+    "url": "https://nautil.us/issue/99/universality/why-people-feel-like-victims",
+    "upvotes": 39,
+    "author": "rbanffy",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27067543"
+  },
+  {
+    "title": "My MacBook Air M1 is dead",
+    "url": "https://medium.com/codex/my-macbook-air-m1-is-dead-a394e3581e95",
+    "upvotes": 40,
+    "author": "itg",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=27065953"
+  },
+  {
+    "title": "Starting a crypto project",
     "url": "https://twitter.com/jonsyu/status/1389635626698297344",
-    "upvotes": 287,
+    "upvotes": 294,
     "author": "grey-area",
-    "comments": 256,
+    "comments": 262,
     "link": "https://news.ycombinator.com/item?id=27061700"
+  },
+  {
+    "title": "There Is No Drought",
+    "url": "https://www.latimes.com/opinion/story/2021-05-06/editorial-there-is-no-drought",
+    "upvotes": 33,
+    "author": "symby",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27068716"
+  },
+  {
+    "title": "Visualizing History: The Polish System",
+    "url": "https://publicdomainreview.org/collection/visualizing-history-the-polish-system",
+    "upvotes": 4,
+    "author": "benbreen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27058385"
   },
   {
     "title": "Hardening macOS",
     "url": "https://blog.bejarano.io/hardening-macos/",
-    "upvotes": 111,
+    "upvotes": 114,
     "author": "nomoreplease",
-    "comments": 70,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=27067755"
   },
   {
-    "title": "Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope",
-    "url": "https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/",
-    "upvotes": 67,
-    "author": "chrispai",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=27066345"
+    "title": "A future without passwords",
+    "url": "https://blog.google/technology/safety-security/a-simpler-and-safer-future-without-passwords/",
+    "upvotes": 27,
+    "author": "grappler",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27064116"
   },
   {
-    "title": "Opposition to Net Neutrality Was Faked, New York Says",
-    "url": "https://www.nytimes.com/live/2021/05/06/business/stock-market-today",
-    "upvotes": 342,
-    "author": "u678u",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=27065738"
-  },
-  {
-    "title": "OpenCV AI Competition 2021 Highlights and Team Profiles Part 2",
-    "url": "https://opencv.org/opencv-ai-competition-2021-highlights-and-team-profiles-part-2/",
-    "upvotes": 32,
-    "author": "philnelson",
+    "title": "The vast viral world: what we know and don’t know",
+    "url": "https://nautil.us/issue/99/universality/the-vast-viral-world-what-we-know-and-dont-know",
+    "upvotes": 33,
+    "author": "rbanffy",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27067951"
+    "link": "https://news.ycombinator.com/item?id=27068116"
   },
   {
     "title": "Twitter: Introducing Tip Jar",
     "url": "https://blog.twitter.com/en_us/topics/product/2021/introducing-tip-jar.html",
-    "upvotes": 18,
+    "upvotes": 28,
     "author": "theBashShell",
-    "comments": 5,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27068466"
+  },
+  {
+    "title": "Researchers chart path to drastically lower administrative costs of health care",
+    "url": "http://med.stanford.edu/news/all-news/2021/04/researchers-chart-path-to-lower-health-care-administrative-costs.html.html?mkt_tok=ODg0LUZTQi0zMDcAAAF84YXDwjcow7qSEyVjeiYYymJxwwegZeKlZ0lY80KpvyGXnFFbRZ5F3f95hhsB45PHpP51zf1pFjdkKSLmKtSenWlsRIWs1W9g06_HVvcnbA",
+    "upvotes": 110,
+    "author": "achou",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=27065938"
+  },
+  {
+    "title": "Opposition to net neutrality was faked, New York says",
+    "url": "https://www.nytimes.com/2021/05/06/technology/internet-providers-fake-comments-net-neutrality-new-york.html",
+    "upvotes": 358,
+    "author": "u678u",
+    "comments": 209,
+    "link": "https://news.ycombinator.com/item?id=27065738"
   },
   {
     "title": "DIY Boat Monitoring System",
     "url": "https://l-36.com/DIY-boat-monitoring-system.php",
-    "upvotes": 132,
+    "upvotes": 135,
     "author": "fnord77",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27062102"
   },
   {
-    "title": "MindCuber for Lego Mindstorms EV3",
-    "url": "http://mindcuber.com/",
-    "upvotes": 50,
-    "author": "Tomte",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27047369"
-  },
-  {
-    "title": "Interactive IPA Chart",
-    "url": "https://www.ipachart.com/",
-    "upvotes": 140,
-    "author": "Jeud",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=27066579"
-  },
-  {
-    "title": "Faster DISTINCT queries on PostgreSQL",
-    "url": "https://blog.timescale.com/blog/how-we-made-distinct-queries-up-to-8000x-faster-on-postgresql/",
-    "upvotes": 71,
-    "author": "bithavoc",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27068535"
-  },
-  {
-    "title": "Politics and the English Language",
-    "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/politics-and-the-english-language/",
-    "upvotes": 44,
-    "author": "agomez314",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27067007"
-  },
-  {
-    "title": "Intent to issue €2.5M fine to Disqus over GDPR breaches",
-    "url": "https://www.datatilsynet.no/en/news/2021/intent-to-issue--25-million-fine-to-disqus-inc/",
-    "upvotes": 202,
-    "author": "hgo",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=27060609"
+    "title": "Quantum Double-Slit Experiment Offers Hope for Earth-Size Telescope",
+    "url": "https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/",
+    "upvotes": 68,
+    "author": "chrispai",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27066345"
   }
 ]
