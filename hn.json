@@ -1,140 +1,172 @@
 [
   {
-    "title": "Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels",
-    "url": "https://blog.svenpeter.dev/posts/m1_sprr_gxf/",
-    "upvotes": 170,
-    "author": "mpweiher",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27078614"
-  },
-  {
     "title": "Starlink Satellites Tracker",
     "url": "https://findstarlink.com",
-    "upvotes": 23,
+    "upvotes": 58,
     "author": "danielsht",
-    "comments": 8,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27080471"
+  },
+  {
+    "title": "Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels",
+    "url": "https://blog.svenpeter.dev/posts/m1_sprr_gxf/",
+    "upvotes": 185,
+    "author": "mpweiher",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=27078614"
   },
   {
     "title": "PatchELF: Simple utility for modifying existing ELF executables and libraries",
     "url": "https://github.com/NixOS/patchelf",
-    "upvotes": 60,
+    "upvotes": 70,
     "author": "ingve",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27079565"
   },
   {
     "title": "The Complete Hypercard Handbook",
     "url": "https://archive.org/details/The_Complete_HyperCard_Handbook/",
-    "upvotes": 65,
+    "upvotes": 80,
     "author": "lubesGordi",
-    "comments": 20,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27079239"
   },
   {
-    "title": "The Pinecone Overlay Network",
-    "url": "https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network",
-    "upvotes": 154,
-    "author": "vanburen",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27077660"
+    "title": "Be in a field where tech is the limit",
+    "url": "https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit",
+    "upvotes": 20,
+    "author": "MperorM",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27080695"
+  },
+  {
+    "title": "Little Free Library",
+    "url": "http://littlefreelibrary.org/",
+    "upvotes": 25,
+    "author": "Tomte",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27080639"
   },
   {
     "title": "Kraftful",
     "url": "https://www.ycombinator.com/companies/kraftful/"
   },
   {
+    "title": "A New AWS SDK for Rust",
+    "url": "https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/",
+    "upvotes": 24,
+    "author": "carllerche",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27080859"
+  },
+  {
+    "title": "The Pinecone Overlay Network",
+    "url": "https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network",
+    "upvotes": 158,
+    "author": "vanburen",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27077660"
+  },
+  {
+    "title": "PsiQuantum to Build the World’s First Full-Scale Quantum Computer",
+    "url": "https://www.globalfoundries.com/press-release/psiquantum-and-globalfoundries-build-worlds-first-full-scale-quantum-computer",
+    "upvotes": 6,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27080883"
+  },
+  {
+    "title": "The Sovietisation of the Mongolian language and challenges of reversal",
+    "url": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
+    "upvotes": 28,
+    "author": "Thevet",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27067791"
+  },
+  {
     "title": "Searching the web for under $1000/month",
     "url": "https://quickwit.io/blog/commoncrawl/",
-    "upvotes": 372,
+    "upvotes": 380,
     "author": "francoismassot",
-    "comments": 120,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=27074481"
   },
   {
     "title": "Crossbar.io – an open source platform for distributed and microservice apps",
     "url": "https://crossbar.io/",
-    "upvotes": 52,
+    "upvotes": 58,
     "author": "gjvc",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27078792"
-  },
-  {
-    "title": "The Sovietisation of the Mongolian language and challenges of reversal",
-    "url": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
-    "upvotes": 17,
-    "author": "Thevet",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27067791"
   },
   {
     "title": "\"To our surprise\"",
     "url": "https://scholar.google.com/scholar?q=%22to+our+surprise%22",
-    "upvotes": 401,
+    "upvotes": 405,
     "author": "_Microft",
-    "comments": 132,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=27060816"
   },
   {
     "title": "Honeywell exported technical drawings of B1 Bombers, F-35 and F22 to China",
     "url": "https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/",
-    "upvotes": 180,
+    "upvotes": 204,
     "author": "belter",
-    "comments": 93,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=27078524"
   },
   {
     "title": "Towards an HD44780-Based Video Mode",
     "url": "https://github.com/MisterHW/44780HD",
-    "upvotes": 96,
+    "upvotes": 99,
     "author": "ingve",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27076741"
-  },
-  {
-    "title": "I spent some time exploring how to improve the UX of code blocks on the web",
-    "url": "https://ped.ro/blog/code-blocks-but-better",
-    "upvotes": 111,
-    "author": "lovelydrop",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27062070"
-  },
-  {
-    "title": "Where the top of the stack is on x86",
-    "url": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
-    "upvotes": 62,
-    "author": "cassepipe",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27077173"
   },
   {
     "title": "Exploiting Aliasing for Manga Restoration",
     "url": "https://github.com/msxie92/MangaRestoration",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "lnyan",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27061421"
   },
   {
-    "title": "Little Free Library",
-    "url": "http://littlefreelibrary.org/",
-    "upvotes": 3,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27080639"
+    "title": "I spent some time exploring how to improve the UX of code blocks on the web",
+    "url": "https://ped.ro/blog/code-blocks-but-better",
+    "upvotes": 115,
+    "author": "lovelydrop",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=27062070"
   },
   {
     "title": "Instruction level just-in-time programming",
     "url": "https://blog.asrpo.com/jit_programming",
-    "upvotes": 12,
+    "upvotes": 17,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27068931"
   },
   {
+    "title": "Where the top of the stack is on x86",
+    "url": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
+    "upvotes": 67,
+    "author": "cassepipe",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27077173"
+  },
+  {
+    "title": "How to Teach Math?",
+    "url": "https://rjlipton.wpcomstaging.com/2021/05/05/how-to-teach-math/",
+    "upvotes": 4,
+    "author": "LittlePeter",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27060677"
+  },
+  {
     "title": "Generating more interesting image previews using imagemagick",
     "url": "https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/",
-    "upvotes": 96,
+    "upvotes": 105,
     "author": "rognjen",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27047352"
@@ -144,95 +176,63 @@
     "url": "https://web.archive.org/web/20170722064044/https://settle.network/posts/intro/",
     "upvotes": 96,
     "author": "spolu",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27075128"
   },
   {
     "title": "Bird song sonographs show distinct drawing patterns",
     "url": "https://soundshader.github.io/hss/gallery/",
-    "upvotes": 168,
+    "upvotes": 169,
     "author": "algui91",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27073944"
   },
   {
-    "title": "Illumos to drop SPARC Support",
-    "url": "https://github.com/illumos/ipd/blob/master/ipd/0019/README.md",
-    "upvotes": 110,
-    "author": "octotoad",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=27074318"
+    "title": "Goodwill Doesn't Want Your Broken Toaster",
+    "url": "https://text.npr.org/993821945",
+    "upvotes": 9,
+    "author": "mooreds",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27080314"
   },
   {
     "title": "The Opportunists",
     "url": "https://www.theatlantic.com/magazine/archive/2021/06/louis-menand-the-free-world-cold-war/618713/",
-    "upvotes": 70,
+    "upvotes": 73,
     "author": "samclemens",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27059889"
-  },
-  {
-    "title": "Blender Foundation Annual Report 2020 [pdf]",
-    "url": "https://download.blender.org/institute/blender-annual-report-2020-v1.pdf",
-    "upvotes": 47,
-    "author": "Tomte",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27078224"
   },
   {
     "title": "Amazon Fake Reviews Scam Exposed in Data Breach",
     "url": "https://www.safetydetectives.com/blog/amazon-reviews-leak-report/",
-    "upvotes": 395,
+    "upvotes": 407,
     "author": "giuliomagnifico",
-    "comments": 209,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=27075245"
   },
   {
     "title": "The metabolic face of migraine – from pathophysiology to treatment",
     "url": "https://www.nature.com/articles/s41582-019-0255-4",
-    "upvotes": 63,
+    "upvotes": 68,
     "author": "DanielleMolloy",
-    "comments": 32,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27076095"
+  },
+  {
+    "title": "Illumos to drop SPARC Support",
+    "url": "https://github.com/illumos/ipd/blob/master/ipd/0019/README.md",
+    "upvotes": 116,
+    "author": "octotoad",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=27074318"
   },
   {
     "title": "Happy Hacking: Music Implementation in NieR:Automata",
     "url": "https://www.platinumgames.com/official-blog/article/9581",
-    "upvotes": 137,
+    "upvotes": 140,
     "author": "danbolt",
-    "comments": 63,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27047496"
-  },
-  {
-    "title": "The future of work is not threatening your employees",
-    "url": "https://warzel.substack.com/p/the-future-of-work-is-not-threatening",
-    "upvotes": 25,
-    "author": "RuffleGordon",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27079926"
-  },
-  {
-    "title": "Directory of Open Access Journals",
-    "url": "http://www.doaj.org/",
-    "upvotes": 76,
-    "author": "Tomte",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27073779"
-  },
-  {
-    "title": "Rufus: Reliable USB Formatting Utility",
-    "url": "https://github.com/pbatard/rufus",
-    "upvotes": 520,
-    "author": "quyleanh",
-    "comments": 174,
-    "link": "https://news.ycombinator.com/item?id=27071982"
-  },
-  {
-    "title": "Analytics Suggest 96% of Users Leave App Tracking Disabled in iOS 14.5",
-    "url": "https://www.macrumors.com/2021/05/07/most-iphone-users-app-tracking-opt-out/",
-    "upvotes": 338,
-    "author": "Tomte",
-    "comments": 293,
-    "link": "https://news.ycombinator.com/item?id=27075180"
   }
 ]
