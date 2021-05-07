@@ -2,63 +2,71 @@
   {
     "title": "A New AWS SDK for Rust",
     "url": "https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/",
-    "upvotes": 112,
+    "upvotes": 134,
     "author": "carllerche",
-    "comments": 17,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27080859"
   },
   {
     "title": "Starlink Satellites Tracker",
     "url": "https://findstarlink.com",
-    "upvotes": 88,
+    "upvotes": 98,
     "author": "danielsht",
-    "comments": 58,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27080471"
   },
   {
     "title": "Be in a field where tech is the limit",
     "url": "https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit",
-    "upvotes": 75,
+    "upvotes": 90,
     "author": "MperorM",
-    "comments": 47,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27080695"
   },
   {
     "title": "Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels",
     "url": "https://blog.svenpeter.dev/posts/m1_sprr_gxf/",
-    "upvotes": 199,
+    "upvotes": 205,
     "author": "mpweiher",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27078614"
   },
   {
+    "title": "Smithy: A language for defining services and SDKs",
+    "url": "https://awslabs.github.io/smithy/",
+    "upvotes": 25,
+    "author": "politician",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27081084"
+  },
+  {
     "title": "The Complete Hypercard Handbook",
     "url": "https://archive.org/details/The_Complete_HyperCard_Handbook/",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "lubesGordi",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27079239"
   },
   {
-    "title": "Smithy: A language for defining services and SDKs",
-    "url": "https://awslabs.github.io/smithy/",
-    "upvotes": 17,
-    "author": "politician",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27081084"
-  },
-  {
     "title": "PatchELF: Simple utility for modifying existing ELF executables and libraries",
     "url": "https://github.com/NixOS/patchelf",
-    "upvotes": 80,
+    "upvotes": 84,
     "author": "ingve",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27079565"
+  },
+  {
+    "title": "The Sovietisation of the Mongolian language and challenges of reversal",
+    "url": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
+    "upvotes": 51,
+    "author": "Thevet",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27067791"
   },
   {
     "title": "The Pinecone Overlay Network",
     "url": "https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network",
-    "upvotes": 177,
+    "upvotes": 178,
     "author": "vanburen",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27077660"
@@ -68,25 +76,9 @@
     "url": "https://www.ycombinator.com/companies/kraftful/"
   },
   {
-    "title": "The Sovietisation of the Mongolian language and challenges of reversal",
-    "url": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
-    "upvotes": 44,
-    "author": "Thevet",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27067791"
-  },
-  {
-    "title": "Little Free Library",
-    "url": "http://littlefreelibrary.org/",
-    "upvotes": 36,
-    "author": "Tomte",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27080639"
-  },
-  {
     "title": "Searching the web for under $1000/month",
     "url": "https://quickwit.io/blog/commoncrawl/",
-    "upvotes": 393,
+    "upvotes": 395,
     "author": "francoismassot",
     "comments": 123,
     "link": "https://news.ycombinator.com/item?id=27074481"
@@ -94,47 +86,47 @@
   {
     "title": "How to Teach Math?",
     "url": "https://rjlipton.wpcomstaging.com/2021/05/05/how-to-teach-math/",
-    "upvotes": 15,
+    "upvotes": 18,
     "author": "LittlePeter",
-    "comments": 7,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27060677"
   },
   {
     "title": "\"To our surprise\"",
     "url": "https://scholar.google.com/scholar?q=%22to+our+surprise%22",
-    "upvotes": 423,
+    "upvotes": 428,
     "author": "_Microft",
-    "comments": 139,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=27060816"
-  },
-  {
-    "title": "The Distribution Vector That Changed Linux Forever",
-    "url": "https://tedium.co/2021/05/07/linux-live-cd-history/",
-    "upvotes": 4,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27081369"
   },
   {
     "title": "Crossbar.io – an open source platform for distributed and microservice apps",
     "url": "https://crossbar.io/",
-    "upvotes": 64,
+    "upvotes": 65,
     "author": "gjvc",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27078792"
   },
   {
     "title": "Honeywell exported technical drawings of B1 Bombers, F-35 and F22 to China",
     "url": "https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/",
-    "upvotes": 231,
+    "upvotes": 237,
     "author": "belter",
-    "comments": 116,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=27078524"
+  },
+  {
+    "title": "The Distribution Vector That Changed Linux Forever",
+    "url": "https://tedium.co/2021/05/07/linux-live-cd-history/",
+    "upvotes": 5,
+    "author": "todsacerdoti",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27081369"
   },
   {
     "title": "Towards an HD44780-Based Video Mode",
     "url": "https://github.com/MisterHW/44780HD",
-    "upvotes": 106,
+    "upvotes": 108,
     "author": "ingve",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27076741"
@@ -142,7 +134,7 @@
   {
     "title": "Exploiting Aliasing for Manga Restoration",
     "url": "https://github.com/msxie92/MangaRestoration",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "lnyan",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27061421"
@@ -150,57 +142,49 @@
   {
     "title": "Where the top of the stack is on x86",
     "url": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "cassepipe",
-    "comments": 45,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27077173"
   },
   {
     "title": "I spent some time exploring how to improve the UX of code blocks on the web",
     "url": "https://ped.ro/blog/code-blocks-but-better",
-    "upvotes": 126,
+    "upvotes": 128,
     "author": "lovelydrop",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27062070"
   },
   {
     "title": "Grid Compass 1101",
     "url": "https://oldcomputers.net/grid1101.html",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "parsecs",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27060524"
-  },
-  {
-    "title": "PsiQuantum to Build the World’s First Full-Scale Quantum Computer",
-    "url": "https://www.globalfoundries.com/press-release/psiquantum-and-globalfoundries-build-worlds-first-full-scale-quantum-computer",
-    "upvotes": 12,
-    "author": "Tomte",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27080883"
-  },
-  {
-    "title": "Instruction level just-in-time programming",
-    "url": "https://blog.asrpo.com/jit_programming",
-    "upvotes": 24,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27068931"
   },
   {
     "title": "Generating more interesting image previews using imagemagick",
     "url": "https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/",
     "upvotes": 112,
     "author": "rognjen",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27047352"
+  },
+  {
+    "title": "Instruction level just-in-time programming",
+    "url": "https://blog.asrpo.com/jit_programming",
+    "upvotes": 25,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27068931"
   },
   {
     "title": "Decentralized trust graph for online value exchange without a blockchain",
     "url": "https://web.archive.org/web/20170722064044/https://settle.network/posts/intro/",
     "upvotes": 100,
     "author": "spolu",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27075128"
   },
   {
@@ -208,31 +192,47 @@
     "url": "https://soundshader.github.io/hss/gallery/",
     "upvotes": 178,
     "author": "algui91",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27073944"
+  },
+  {
+    "title": "Illumos to drop SPARC Support",
+    "url": "https://github.com/illumos/ipd/blob/master/ipd/0019/README.md",
+    "upvotes": 128,
+    "author": "octotoad",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=27074318"
   },
   {
     "title": "The Opportunists",
     "url": "https://www.theatlantic.com/magazine/archive/2021/06/louis-menand-the-free-world-cold-war/618713/",
     "upvotes": 77,
     "author": "samclemens",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27059889"
   },
   {
-    "title": "Illumos to drop SPARC Support",
-    "url": "https://github.com/illumos/ipd/blob/master/ipd/0019/README.md",
-    "upvotes": 127,
-    "author": "octotoad",
-    "comments": 155,
-    "link": "https://news.ycombinator.com/item?id=27074318"
+    "title": "Amazon Fake Reviews Scam Exposed in Data Breach",
+    "url": "https://www.safetydetectives.com/blog/amazon-reviews-leak-report/",
+    "upvotes": 428,
+    "author": "giuliomagnifico",
+    "comments": 231,
+    "link": "https://news.ycombinator.com/item?id=27075245"
+  },
+  {
+    "title": "Blender Foundation Annual Report 2020 [pdf]",
+    "url": "https://download.blender.org/institute/blender-annual-report-2020-v1.pdf",
+    "upvotes": 60,
+    "author": "Tomte",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27078224"
   },
   {
     "title": "The metabolic face of migraine – from pathophysiology to treatment",
     "url": "https://www.nature.com/articles/s41582-019-0255-4",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "DanielleMolloy",
-    "comments": 41,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27076095"
   }
 ]
