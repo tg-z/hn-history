@@ -1,204 +1,220 @@
 [
   {
-    "title": "Facebook threatens to make iOS users pay. Please do it, Mr. Zuckerberg",
-    "url": "https://www.zdnet.com/article/facebook-threatens-to-make-ios-users-pay-please-do-it-mr-zuckerberg/",
-    "upvotes": 276,
-    "author": "MontagFTB",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=27077806"
+    "title": "Apple Silicon Hardware Secrets: SPRR and Guarded Exception Levels",
+    "url": "https://blog.svenpeter.dev/posts/m1_sprr_gxf/",
+    "upvotes": 27,
+    "author": "mpweiher",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27078614"
   },
   {
     "title": "The Pinecone Overlay Network",
     "url": "https://matrix.org/blog/2021/05/06/introducing-the-pinecone-overlay-network",
-    "upvotes": 47,
+    "upvotes": 73,
     "author": "vanburen",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27077660"
-  },
-  {
-    "title": "Why Java's Records Are Better* Than Lombok's Data and Kotlin's Data Classes",
-    "url": "https://nipafx.dev/java-record-semantics/",
-    "upvotes": 106,
-    "author": "gher-shyu3i",
-    "comments": 104,
-    "link": "https://news.ycombinator.com/item?id=27076976"
   },
   {
     "title": "Searching the web for under $1000/month",
     "url": "https://quickwit.io/blog/commoncrawl/",
-    "upvotes": 296,
+    "upvotes": 310,
     "author": "francoismassot",
-    "comments": 103,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=27074481"
+  },
+  {
+    "title": "True U.S. Death Toll from Covid Is More Than 900k, Study Finds",
+    "url": "http://www.healthdata.org/special-analysis/estimation-excess-mortality-due-covid-19-and-scalars-reported-covid-19-deaths",
+    "upvotes": 107,
+    "author": "harambae",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=27078423"
+  },
+  {
+    "title": "Generating more interesting image previews using imagemagick",
+    "url": "https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/",
+    "upvotes": 73,
+    "author": "rognjen",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27047352"
   },
   {
     "title": "Towards an HD44780-Based Video Mode",
     "url": "https://github.com/MisterHW/44780HD",
-    "upvotes": 67,
+    "upvotes": 71,
     "author": "ingve",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27076741"
   },
   {
-    "title": "Where the top of the stack is on x86",
-    "url": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
-    "upvotes": 31,
-    "author": "cassepipe",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27077173"
-  },
-  {
     "title": "\"To our surprise\"",
     "url": "https://scholar.google.com/scholar?q=%22to+our+surprise%22",
-    "upvotes": 299,
+    "upvotes": 326,
     "author": "_Microft",
-    "comments": 99,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=27060816"
+  },
+  {
+    "title": "Where the top of the stack is on x86",
+    "url": "https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/",
+    "upvotes": 38,
+    "author": "cassepipe",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27077173"
   },
   {
     "title": "OpenUnit",
     "url": "https://www.openunit.com/jobs/software-engineer"
   },
   {
-    "title": "Generating more interesting image previews using imagemagick",
-    "url": "https://ognjen.io/generating-more-interesting-image-previews-using-imagemagick/",
-    "upvotes": 64,
-    "author": "rognjen",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27047352"
-  },
-  {
-    "title": "I spent some time exploring how to improve the UX of code blocks on the web",
-    "url": "https://ped.ro/blog/code-blocks-but-better",
-    "upvotes": 46,
-    "author": "lovelydrop",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27062070"
-  },
-  {
-    "title": "True U.S. Death Toll from Covid Is More Than 900k, Study Finds",
-    "url": "http://www.healthdata.org/special-analysis/estimation-excess-mortality-due-covid-19-and-scalars-reported-covid-19-deaths",
-    "upvotes": 22,
-    "author": "harambae",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27078423"
-  },
-  {
-    "title": "Rufus: Reliable USB Formatting Utility",
-    "url": "https://github.com/pbatard/rufus",
-    "upvotes": 485,
-    "author": "quyleanh",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=27071982"
+    "title": "Why Java's Records Are Better* Than Lombok's Data and Kotlin's Data Classes",
+    "url": "https://nipafx.dev/java-record-semantics/",
+    "upvotes": 123,
+    "author": "gher-shyu3i",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=27076976"
   },
   {
     "title": "Exploiting Aliasing for Manga Restoration",
     "url": "https://github.com/msxie92/MangaRestoration",
-    "upvotes": 9,
+    "upvotes": 14,
     "author": "lnyan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27061421"
   },
   {
+    "title": "I spent some time exploring how to improve the UX of code blocks on the web",
+    "url": "https://ped.ro/blog/code-blocks-but-better",
+    "upvotes": 58,
+    "author": "lovelydrop",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27062070"
+  },
+  {
+    "title": "Rufus: Reliable USB Formatting Utility",
+    "url": "https://github.com/pbatard/rufus",
+    "upvotes": 493,
+    "author": "quyleanh",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=27071982"
+  },
+  {
     "title": "Decentralized trust graph for online value exchange without a blockchain",
     "url": "https://web.archive.org/web/20170722064044/https://settle.network/posts/intro/",
-    "upvotes": 72,
+    "upvotes": 80,
     "author": "spolu",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27075128"
   },
   {
     "title": "Bird song sonographs show distinct drawing patterns",
     "url": "https://soundshader.github.io/hss/gallery/",
-    "upvotes": 143,
+    "upvotes": 152,
     "author": "algui91",
-    "comments": 30,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27073944"
+  },
+  {
+    "title": "Honeywell exported technical drawings of B1 Bombers, F-35 and F22 to China",
+    "url": "https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/",
+    "upvotes": 41,
+    "author": "belter",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27078524"
+  },
+  {
+    "title": "Global rich must cut their carbon footprint 97% to stave off climate change",
+    "url": "https://www.cbsnews.com/news/carbon-footprint-wealthy-people-97-percent-cut-un/",
+    "upvotes": 14,
+    "author": "aracena",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27078903"
   },
   {
     "title": "Amazon Fake Reviews Scam Exposed in Data Breach",
     "url": "https://www.safetydetectives.com/blog/amazon-reviews-leak-report/",
-    "upvotes": 329,
+    "upvotes": 342,
     "author": "giuliomagnifico",
-    "comments": 161,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=27075245"
   },
   {
     "title": "JavaScript for Shell Scripting",
     "url": "https://github.com/google/zx",
-    "upvotes": 275,
+    "upvotes": 281,
     "author": "gigel82",
-    "comments": 139,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=27072515"
   },
   {
     "title": "Illumos to drop SPARC Support",
     "url": "https://github.com/illumos/ipd/blob/master/ipd/0019/README.md",
-    "upvotes": 84,
+    "upvotes": 88,
     "author": "octotoad",
-    "comments": 105,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=27074318"
   },
   {
     "title": "The metabolic face of migraine – from pathophysiology to treatment",
     "url": "https://www.nature.com/articles/s41582-019-0255-4",
-    "upvotes": 37,
+    "upvotes": 45,
     "author": "DanielleMolloy",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27076095"
   },
   {
     "title": "The Opportunists",
     "url": "https://www.theatlantic.com/magazine/archive/2021/06/louis-menand-the-free-world-cold-war/618713/",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "samclemens",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27059889"
   },
   {
     "title": "WebAIM Screen Reader User Survey #9",
     "url": "https://webaim.org/projects/screenreadersurvey9/",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "d4kmor",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27075359"
   },
   {
     "title": "Happy Hacking: Music Implementation in NieR:Automata",
     "url": "https://www.platinumgames.com/official-blog/article/9581",
-    "upvotes": 126,
+    "upvotes": 128,
     "author": "danbolt",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27047496"
-  },
-  {
-    "title": "Honeywell exported technical drawings of B1 Bombers, F-35 and F22 to China",
-    "url": "https://www.defensenews.com/industry/2021/05/04/honeywell-fined-13-million-for-defense-export-violations/",
-    "upvotes": 11,
-    "author": "belter",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27078524"
   },
   {
     "title": "WinBox: Window manager in a web browser",
     "url": "https://github.com/nextapps-de/winbox",
-    "upvotes": 214,
+    "upvotes": 218,
     "author": "khangnd",
-    "comments": 100,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=27071928"
   },
   {
     "title": "Analytics Suggest 96% of Users Leave App Tracking Disabled in iOS 14.5",
     "url": "https://www.macrumors.com/2021/05/07/most-iphone-users-app-tracking-opt-out/",
-    "upvotes": 260,
+    "upvotes": 275,
     "author": "Tomte",
-    "comments": 235,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=27075180"
+  },
+  {
+    "title": "Blender Foundation Annual Report 2020 [pdf]",
+    "url": "https://download.blender.org/institute/blender-annual-report-2020-v1.pdf",
+    "upvotes": 11,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27078224"
   },
   {
     "title": "Transactional memory similarity to garbage collection",
     "url": "https://www.realworldtech.com/forum/?threadid=201184&curpostid=201369",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "signa11",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27048337"
@@ -206,33 +222,17 @@
   {
     "title": "Directory of Open Access Journals",
     "url": "http://www.doaj.org/",
-    "upvotes": 62,
+    "upvotes": 63,
     "author": "Tomte",
-    "comments": 14,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27073779"
-  },
-  {
-    "title": "Racket 8.1",
-    "url": "https://blog.racket-lang.org/2021/05/racket-v8-1.html",
-    "upvotes": 139,
-    "author": "lycopodiopsida",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=27073879"
   },
   {
     "title": "A Historical Perspective on COBOL",
     "url": "https://logicmag.io/care/built-to-last/",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "omrjml",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27048358"
-  },
-  {
-    "title": "Termite Is Obsoleted by Alacritty",
-    "url": "https://github.com/thestinger/termite",
-    "upvotes": 198,
-    "author": "polm23",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=27075304"
   }
 ]
