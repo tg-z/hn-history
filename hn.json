@@ -2,115 +2,123 @@
   {
     "title": "Over 96% of Apple Users Have Blocked Facebook from Tracking Them",
     "url": "https://techdator.net/over-96-of-apple-users-have-blocked-facebook-from-tracking-them/",
-    "upvotes": 120,
+    "upvotes": 166,
     "author": "gsidhu7713",
-    "comments": 36,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27086553"
-  },
-  {
-    "title": "The Byte Order Fiasco",
-    "url": "https://justine.lol/endian.html",
-    "upvotes": 94,
-    "author": "cassepipe",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=27085952"
-  },
-  {
-    "title": "Dark Matter: The Situation Has Changed",
-    "url": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
-    "upvotes": 71,
-    "author": "nsoonhui",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27085979"
   },
   {
     "title": "Show HN: A portfolio website simulating macOS's GUI using React",
     "url": "https://portfolio.zxh.io",
-    "upvotes": 219,
+    "upvotes": 233,
     "author": "oh-renovamen",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27084995"
   },
   {
     "title": "I’ve had the same supper for 10 years",
     "url": "https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years",
-    "upvotes": 604,
+    "upvotes": 618,
     "author": "pumpkinhead",
-    "comments": 506,
+    "comments": 510,
     "link": "https://news.ycombinator.com/item?id=27082522"
+  },
+  {
+    "title": "The Byte Order Fiasco",
+    "url": "https://justine.lol/endian.html",
+    "upvotes": 105,
+    "author": "cassepipe",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=27085952"
+  },
+  {
+    "title": "U.S.'s Biggest Gasoline Pipeline Halted After Cyberattack",
+    "url": "https://www.bloomberg.com/news/articles/2021-05-08/u-s-s-biggest-gasoline-and-pipeline-halted-after-cyberattack",
+    "upvotes": 47,
+    "author": "opaque",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27086403"
   },
   {
     "title": "gRPC benchmark results",
     "url": "https://github.com/LesnyRumcajs/grpc_bench/wiki/2021-04-13-bench-results",
-    "upvotes": 145,
+    "upvotes": 150,
     "author": "pjmlp",
-    "comments": 129,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=27085265"
   },
   {
     "title": "iPad Camera Multitasking",
     "url": "https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking",
-    "upvotes": 199,
+    "upvotes": 205,
     "author": "arkadiyt",
-    "comments": 74,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27083806"
-  },
-  {
-    "title": "U.S.'s Biggest Gasoline Pipeline Halted After Cyberattack",
-    "url": "https://www.bloomberg.com/news/articles/2021-05-08/u-s-s-biggest-gasoline-and-pipeline-halted-after-cyberattack",
-    "upvotes": 26,
-    "author": "opaque",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27086403"
   },
   {
     "title": "Lowkey",
     "url": "https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748"
   },
   {
+    "title": "FBI subpoenaed Apple for data of Sci-Hub founder",
+    "url": "https://twitter.com/ringo_ring/status/1390782451140767749",
+    "upvotes": 62,
+    "author": "__debugger__",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27086290"
+  },
+  {
     "title": "Rust for Windows 0.9",
     "url": "https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/",
-    "upvotes": 99,
+    "upvotes": 107,
     "author": "chenzhekl",
-    "comments": 41,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27085032"
   },
   {
-    "title": "FBI subpoenaed Apple for data of Sci-Hub founder",
-    "url": "https://twitter.com/ringo_ring/status/1390782451140767749",
-    "upvotes": 37,
-    "author": "__debugger__",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27086290"
+    "title": "Dark Matter: The Situation Has Changed",
+    "url": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
+    "upvotes": 81,
+    "author": "nsoonhui",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=27085979"
   },
   {
     "title": "Cyberattack Forces a Shutdown of a Top U.S. Pipeline Operator",
     "url": "https://www.nytimes.com/2021/05/08/us/cyberattack-colonial-pipeline.html",
-    "upvotes": 21,
+    "upvotes": 28,
     "author": "cwmartin",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27086487"
+  },
+  {
+    "title": "A primer on code generation in Cranelift",
+    "url": "https://blog.benj.me/2021/02/17/cranelift-codegen-primer/",
+    "upvotes": 12,
+    "author": "bzbarsky",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27083895"
   },
   {
     "title": "Grazing Goat Problems",
     "url": "https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/",
-    "upvotes": 60,
+    "upvotes": 63,
     "author": "nsoonhui",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27083866"
   },
   {
     "title": "Putting an Ultra-Tiny Linux Board in a Phone Charger Eventually",
     "url": "https://hackaday.com/2021/05/06/putting-an-ultra-tiny-linux-board-in-a-phone-charger-eventually/",
-    "upvotes": 77,
+    "upvotes": 80,
     "author": "rbanffy",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27061490"
   },
   {
     "title": "Ruby Garbage Collection Deep Dive: Compaction",
     "url": "https://jemma.dev/blog/gc-compaction",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "thunderbong",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27070523"
@@ -118,7 +126,7 @@
   {
     "title": "Fifteen Years Forsaken",
     "url": "https://www.damninteresting.com/fifteen-years-forsaken/",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "Thevet",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27070316"
@@ -126,7 +134,7 @@
   {
     "title": "The Red One",
     "url": "https://en.wikipedia.org/wiki/The_Red_One",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "prismatic",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27070869"
@@ -134,41 +142,49 @@
   {
     "title": "The digital currencies that matter",
     "url": "https://www.economist.com/leaders/2021/05/08/the-digital-currencies-that-matter",
-    "upvotes": 120,
+    "upvotes": 124,
     "author": "axiomdata316",
-    "comments": 243,
+    "comments": 246,
     "link": "https://news.ycombinator.com/item?id=27081955"
-  },
-  {
-    "title": "A primer on code generation in Cranelift",
-    "url": "https://blog.benj.me/2021/02/17/cranelift-codegen-primer/",
-    "upvotes": 8,
-    "author": "bzbarsky",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27083895"
-  },
-  {
-    "title": "We can 3D print wood now",
-    "url": "https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/",
-    "upvotes": 38,
-    "author": "e-brake",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27085648"
   },
   {
     "title": "WhatsApp will progressively kill features until users accept new privacy policy",
     "url": "https://www.androidpolice.com/2021/05/07/whatsapp-chickens-out-on-its-privacy-policy-deadline/",
-    "upvotes": 323,
+    "upvotes": 336,
     "author": "huntermeyer",
-    "comments": 200,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=27081557"
+  },
+  {
+    "title": "What can ‘The Age of Decadence’ teach us about today? A great deal",
+    "url": "https://www.washingtonpost.com/entertainment/books/what-can-the-age-of-decadence-teach-us-about-today-a-great-deal/2021/05/04/144461e0-ace9-11eb-b476-c3b287e52a01_story.html",
+    "upvotes": 22,
+    "author": "samclemens",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27072789"
+  },
+  {
+    "title": "We can 3D print wood now",
+    "url": "https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/",
+    "upvotes": 42,
+    "author": "e-brake",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27085648"
+  },
+  {
+    "title": "Starlink Satellites Tracker",
+    "url": "https://findstarlink.com",
+    "upvotes": 215,
+    "author": "danielsht",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=27080471"
   },
   {
     "title": "Show HN: Lovetris – Tetris which always gives you the best piece",
     "url": "https://unrealwill.github.io/lovetris/",
-    "upvotes": 147,
+    "upvotes": 151,
     "author": "GistNoesis",
-    "comments": 68,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27083666"
   },
   {
@@ -180,59 +196,43 @@
     "link": "https://news.ycombinator.com/item?id=27074978"
   },
   {
-    "title": "Starlink Satellites Tracker",
-    "url": "https://findstarlink.com",
-    "upvotes": 214,
-    "author": "danielsht",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=27080471"
-  },
-  {
-    "title": "What can ‘The Age of Decadence’ teach us about today? A great deal",
-    "url": "https://www.washingtonpost.com/entertainment/books/what-can-the-age-of-decadence-teach-us-about-today-a-great-deal/2021/05/04/144461e0-ace9-11eb-b476-c3b287e52a01_story.html",
-    "upvotes": 20,
-    "author": "samclemens",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27072789"
-  },
-  {
     "title": "Bob Dylan lays down what killed rock n roll",
     "url": "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "Phithagoras",
-    "comments": 37,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27082333"
+  },
+  {
+    "title": "How to Optimize Order by Random",
+    "url": "https://tpetry.me/20210507-how-to-optimize-order-by-random",
+    "upvotes": 10,
+    "author": "harperlee",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27085258"
   },
   {
     "title": "The Sovietisation of the Mongolian language and challenges of reversal",
     "url": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
-    "upvotes": 124,
+    "upvotes": 126,
     "author": "Thevet",
     "comments": 110,
     "link": "https://news.ycombinator.com/item?id=27067791"
   },
   {
-    "title": "How to Optimize Order by Random",
-    "url": "https://tpetry.me/20210507-how-to-optimize-order-by-random",
-    "upvotes": 8,
-    "author": "harperlee",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27085258"
-  },
-  {
     "title": "Goodwill doesn't want broken toasters",
     "url": "https://www.npr.org/2021/05/06/993821945/goodwill-doesnt-want-your-broken-toaster",
-    "upvotes": 153,
+    "upvotes": 154,
     "author": "mooreds",
-    "comments": 234,
+    "comments": 240,
     "link": "https://news.ycombinator.com/item?id=27080314"
   },
   {
     "title": "How to Teach Math?",
     "url": "https://rjlipton.wpcomstaging.com/2021/05/05/how-to-teach-math/",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "LittlePeter",
-    "comments": 140,
+    "comments": 141,
     "link": "https://news.ycombinator.com/item?id=27060677"
   }
 ]
