@@ -1,58 +1,66 @@
 [
   {
-    "title": "I’ve had the same supper for 10 years",
-    "url": "https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years",
-    "upvotes": 519,
-    "author": "pumpkinhead",
-    "comments": 444,
-    "link": "https://news.ycombinator.com/item?id=27082522"
-  },
-  {
     "title": "Show HN: A portfolio website simulating macOS's GUI using React",
     "url": "https://portfolio.zxh.io",
-    "upvotes": 88,
+    "upvotes": 125,
     "author": "oh-renovamen",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27084995"
   },
   {
-    "title": "Java beats out C++, Rust, C#, and Golang in gRPC throughput performance",
-    "url": "https://github.com/LesnyRumcajs/grpc_bench/wiki/2021-04-13-bench-results",
-    "upvotes": 89,
-    "author": "pjmlp",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=27085265"
+    "title": "I’ve had the same supper for 10 years",
+    "url": "https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years",
+    "upvotes": 546,
+    "author": "pumpkinhead",
+    "comments": 459,
+    "link": "https://news.ycombinator.com/item?id=27082522"
+  },
+  {
+    "title": "Dark Matter: The Situation Has Changed",
+    "url": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
+    "upvotes": 8,
+    "author": "nsoonhui",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27085979"
   },
   {
     "title": "iPad Camera Multitasking",
     "url": "https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking",
-    "upvotes": 153,
+    "upvotes": 159,
     "author": "arkadiyt",
-    "comments": 52,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27083806"
   },
   {
-    "title": "Israeli police attack worshippers in Al-Aqsa Mosque",
-    "url": "https://www.aa.com.tr/en/middle-east/israeli-police-attack-worshippers-in-al-aqsa-mosque/2233039#",
-    "upvotes": 3,
-    "author": "istanbul7",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27085854"
+    "title": "Java beats out C++, Rust, C#, and Golang in gRPC throughput performance",
+    "url": "https://github.com/LesnyRumcajs/grpc_bench/wiki/2021-04-13-bench-results",
+    "upvotes": 100,
+    "author": "pjmlp",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=27085265"
   },
   {
     "title": "Rust for Windows 0.9",
     "url": "https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/",
-    "upvotes": 51,
+    "upvotes": 59,
     "author": "chenzhekl",
-    "comments": 24,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27085032"
+  },
+  {
+    "title": "The Byte Order Fiasco",
+    "url": "https://justine.lol/endian.html",
+    "upvotes": 3,
+    "author": "cassepipe",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27085952"
   },
   {
     "title": "Putting an Ultra-Tiny Linux Board in a Phone Charger Eventually",
     "url": "https://hackaday.com/2021/05/06/putting-an-ultra-tiny-linux-board-in-a-phone-charger-eventually/",
-    "upvotes": 67,
+    "upvotes": 68,
     "author": "rbanffy",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27061490"
   },
   {
@@ -60,67 +68,59 @@
     "url": "https://en.wikipedia.org/wiki/The_Red_One",
     "upvotes": 34,
     "author": "prismatic",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27070869"
   },
   {
     "title": "Smithy: A language for defining services and SDKs",
     "url": "https://awslabs.github.io/smithy/",
-    "upvotes": 211,
+    "upvotes": 214,
     "author": "politician",
-    "comments": 51,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27081084"
   },
   {
     "title": "Grazing Goat Problems",
     "url": "https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "nsoonhui",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27083866"
   },
   {
-    "title": "The Complete Hypercard Handbook",
-    "url": "https://archive.org/details/The_Complete_HyperCard_Handbook/",
-    "upvotes": 182,
-    "author": "lubesGordi",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=27079239"
+    "title": "Fifteen Years Forsaken",
+    "url": "https://www.damninteresting.com/fifteen-years-forsaken/",
+    "upvotes": 20,
+    "author": "Thevet",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27070316"
   },
   {
-    "title": "Afraid to Google a thing because I don't want the algorithm to think I like it",
-    "url": "https://twitter.com/jjcollinsworth/status/1390328342533054472",
-    "upvotes": 32,
-    "author": "edward",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27085692"
-  },
-  {
-    "title": "Show HN: Lovetris – Tetris which always gives you the best piece",
-    "url": "https://unrealwill.github.io/lovetris/",
-    "upvotes": 126,
-    "author": "GistNoesis",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27083666"
+    "title": "We can 3D print wood now",
+    "url": "https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/",
+    "upvotes": 18,
+    "author": "e-brake",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27085648"
   },
   {
     "title": "OneSignal",
     "url": "https://onesignal.com/careers/9e1d251c-c1f9-49c7-98e9-c883e519f902"
   },
   {
-    "title": "Fifteen Years Forsaken",
-    "url": "https://www.damninteresting.com/fifteen-years-forsaken/",
-    "upvotes": 16,
-    "author": "Thevet",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27070316"
+    "title": "Show HN: Lovetris – Tetris which always gives you the best piece",
+    "url": "https://unrealwill.github.io/lovetris/",
+    "upvotes": 132,
+    "author": "GistNoesis",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=27083666"
   },
   {
     "title": "The digital currencies that matter",
     "url": "https://www.economist.com/leaders/2021/05/08/the-digital-currencies-that-matter",
-    "upvotes": 109,
+    "upvotes": 111,
     "author": "axiomdata316",
-    "comments": 199,
+    "comments": 207,
     "link": "https://news.ycombinator.com/item?id=27081955"
   },
   {
@@ -132,9 +132,17 @@
     "link": "https://news.ycombinator.com/item?id=27080471"
   },
   {
+    "title": "Ruby Garbage Collection Deep Dive: Compaction",
+    "url": "https://jemma.dev/blog/gc-compaction",
+    "upvotes": 19,
+    "author": "thunderbong",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27070523"
+  },
+  {
     "title": "The Connoisseur of Number Sequences",
     "url": "https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/",
-    "upvotes": 8,
+    "upvotes": 11,
     "author": "optimalsolver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27074978"
@@ -142,87 +150,63 @@
   {
     "title": "WhatsApp will progressively kill features until users accept new privacy policy",
     "url": "https://www.androidpolice.com/2021/05/07/whatsapp-chickens-out-on-its-privacy-policy-deadline/",
-    "upvotes": 270,
+    "upvotes": 278,
     "author": "huntermeyer",
-    "comments": 169,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=27081557"
-  },
-  {
-    "title": "PatchELF: Simple utility for modifying existing ELF executables and libraries",
-    "url": "https://github.com/NixOS/patchelf",
-    "upvotes": 139,
-    "author": "ingve",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27079565"
-  },
-  {
-    "title": "Ruby Garbage Collection Deep Dive: Compaction",
-    "url": "https://jemma.dev/blog/gc-compaction",
-    "upvotes": 7,
-    "author": "thunderbong",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27070523"
-  },
-  {
-    "title": "Goodwill doesn't want broken toasters",
-    "url": "https://www.npr.org/2021/05/06/993821945/goodwill-doesnt-want-your-broken-toaster",
-    "upvotes": 138,
-    "author": "mooreds",
-    "comments": 224,
-    "link": "https://news.ycombinator.com/item?id=27080314"
-  },
-  {
-    "title": "The Sovietisation of the Mongolian language and challenges of reversal",
-    "url": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
-    "upvotes": 118,
-    "author": "Thevet",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=27067791"
-  },
-  {
-    "title": "We can 3D print wood now",
-    "url": "https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/",
-    "upvotes": 10,
-    "author": "e-brake",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27085648"
   },
   {
     "title": "What can ‘The Age of Decadence’ teach us about today? A great deal",
     "url": "https://www.washingtonpost.com/entertainment/books/what-can-the-age-of-decadence-teach-us-about-today-a-great-deal/2021/05/04/144461e0-ace9-11eb-b476-c3b287e52a01_story.html",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "samclemens",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27072789"
   },
   {
+    "title": "The Sovietisation of the Mongolian language and challenges of reversal",
+    "url": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
+    "upvotes": 119,
+    "author": "Thevet",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=27067791"
+  },
+  {
+    "title": "Goodwill doesn't want broken toasters",
+    "url": "https://www.npr.org/2021/05/06/993821945/goodwill-doesnt-want-your-broken-toaster",
+    "upvotes": 145,
+    "author": "mooreds",
+    "comments": 226,
+    "link": "https://news.ycombinator.com/item?id=27080314"
+  },
+  {
+    "title": "How to Teach Math?",
+    "url": "https://rjlipton.wpcomstaging.com/2021/05/05/how-to-teach-math/",
+    "upvotes": 87,
+    "author": "LittlePeter",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=27060677"
+  },
+  {
     "title": "Minsk Family of Computers",
     "url": "https://www.computer-museum.ru/english/minsk0.htm",
-    "upvotes": 21,
+    "upvotes": 23,
     "author": "tosh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27074955"
   },
   {
-    "title": "How to Teach Math?",
-    "url": "https://rjlipton.wpcomstaging.com/2021/05/05/how-to-teach-math/",
-    "upvotes": 84,
-    "author": "LittlePeter",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=27060677"
-  },
-  {
     "title": "Bob Dylan lays down what killed rock n roll",
     "url": "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a",
-    "upvotes": 47,
+    "upvotes": 52,
     "author": "Phithagoras",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27082333"
   },
   {
     "title": "Morphing Pasta and Beyond",
     "url": "https://www.morphingmatter.cs.cmu.edu/projects/morphing-pasta-and-beyond",
-    "upvotes": 35,
+    "upvotes": 38,
     "author": "giuliomagnifico",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27061508"
@@ -230,9 +214,25 @@
   {
     "title": "Little Free Library",
     "url": "http://littlefreelibrary.org/",
-    "upvotes": 105,
+    "upvotes": 107,
     "author": "Tomte",
-    "comments": 75,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27080639"
+  },
+  {
+    "title": "Crossbar.io – an open source platform for distributed and microservice apps",
+    "url": "https://crossbar.io/",
+    "upvotes": 123,
+    "author": "gjvc",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=27078792"
+  },
+  {
+    "title": "Audacity Telemetry and Why Free Software Means Better Privacy",
+    "url": "https://puri.sm/posts/audacity-telemetry-and-why-free-software-means-better-privacy/",
+    "upvotes": 31,
+    "author": "pabs3",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27082878"
   }
 ]
