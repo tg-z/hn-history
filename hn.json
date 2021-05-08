@@ -1,140 +1,180 @@
 [
   {
+    "title": "Ursula Le Guin Books",
+    "url": "https://fivebooks.com/best-books/best-ursula-le-guin-books-sherryl-vint/",
+    "upvotes": 43,
+    "author": "drdee",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27087525"
+  },
+  {
     "title": "Chrome extension recommends local businesses while shopping on Amazon or eBay",
     "url": "https://chrome.google.com/webstore/detail/buy-nearby/egoikpnpdihpdfenconkdnndbnhcfmkj",
-    "upvotes": 85,
+    "upvotes": 135,
     "author": "thunderbong",
-    "comments": 27,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27086582"
   },
   {
     "title": "Show HN: A portfolio website simulating macOS's GUI using React",
     "url": "https://portfolio.zxh.io",
-    "upvotes": 312,
+    "upvotes": 346,
     "author": "oh-renovamen",
-    "comments": 77,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27084995"
   },
   {
     "title": "I’ve had the same supper for 10 years",
     "url": "https://www.theguardian.com/lifeandstyle/2021/apr/16/experience-ive-had-the-same-supper-for-10-years",
-    "upvotes": 679,
+    "upvotes": 696,
     "author": "pumpkinhead",
-    "comments": 551,
+    "comments": 570,
     "link": "https://news.ycombinator.com/item?id=27082522"
+  },
+  {
+    "title": "96% of US users opt out of app tracking in iOS 14.5, analytics find",
+    "url": "https://arstechnica.com/gadgets/2021/05/96-of-us-users-opt-out-of-app-tracking-in-ios-14-5-analytics-find/",
+    "upvotes": 25,
+    "author": "drewem",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27087813"
+  },
+  {
+    "title": "Linux Foundation starts AgStack, an open-source agtech initiative",
+    "url": "https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/",
+    "upvotes": 35,
+    "author": "teleforce",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27086701"
+  },
+  {
+    "title": "FBI subpoenaed Apple for data of Sci-Hub founder",
+    "url": "https://twitter.com/ringo_ring/status/1390782451140767749",
+    "upvotes": 191,
+    "author": "__debugger__",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=27086290"
   },
   {
     "title": "U.S.'s Biggest Gasoline Pipeline Halted After Cyberattack",
     "url": "https://www.bloomberg.com/news/articles/2021-05-08/u-s-s-biggest-gasoline-and-pipeline-halted-after-cyberattack",
-    "upvotes": 93,
+    "upvotes": 109,
     "author": "opaque",
-    "comments": 20,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27086403"
   },
   {
     "title": "gRPC benchmark results",
     "url": "https://github.com/LesnyRumcajs/grpc_bench/wiki/2021-04-13-bench-results",
-    "upvotes": 166,
+    "upvotes": 172,
     "author": "pjmlp",
-    "comments": 144,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=27085265"
-  },
-  {
-    "title": "FBI subpoenaed Apple for data of Sci-Hub founder",
-    "url": "https://twitter.com/ringo_ring/status/1390782451140767749",
-    "upvotes": 148,
-    "author": "__debugger__",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=27086290"
   },
   {
     "title": "iPad Camera Multitasking",
     "url": "https://blog.thinktapwork.com/post/649630720084639744/ipad-camera-multitasking",
-    "upvotes": 223,
+    "upvotes": 233,
     "author": "arkadiyt",
-    "comments": 93,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=27083806"
-  },
-  {
-    "title": "Linux Foundation starts AgStack, an open-source agtech initiative",
-    "url": "https://investableuniverse.com/2021/05/05/linux-foundation-agstack-open-source-agriculture-technology/",
-    "upvotes": 18,
-    "author": "teleforce",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27086701"
   },
   {
     "title": "The Byte Order Fiasco",
     "url": "https://justine.lol/endian.html",
-    "upvotes": 138,
+    "upvotes": 147,
     "author": "cassepipe",
-    "comments": 155,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=27085952"
   },
   {
     "title": "Apple tries to get Epic to admit there's porn on its store",
     "url": "https://kotaku.com/apple-tries-really-hard-to-get-epic-to-admit-theres-por-1846849388",
-    "upvotes": 31,
+    "upvotes": 49,
     "author": "HieronymusBosch",
-    "comments": 12,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27087250"
-  },
-  {
-    "title": "Ruby Garbage Collection Deep Dive: Compaction",
-    "url": "https://jemma.dev/blog/gc-compaction",
-    "upvotes": 60,
-    "author": "thunderbong",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27070523"
   },
   {
     "title": "Lowkey",
     "url": "https://www.notion.so/lowkeygg/Lowkey-Job-Board-39a26c1b4a00493fadc26249185df748"
   },
   {
+    "title": "Ruby Garbage Collection Deep Dive: Compaction",
+    "url": "https://jemma.dev/blog/gc-compaction",
+    "upvotes": 66,
+    "author": "thunderbong",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27070523"
+  },
+  {
     "title": "Rust for Windows 0.9",
     "url": "https://blogs.windows.com/windowsdeveloper/2021/05/06/announcing-rust-for-windows-v0-9/",
-    "upvotes": 134,
+    "upvotes": 140,
     "author": "chenzhekl",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27085032"
+  },
+  {
+    "title": "Researchers: Medical errors now third leading cause of death in United States",
+    "url": "https://www.washingtonpost.com/news/to-your-health/wp/2016/05/03/researchers-medical-errors-now-third-leading-cause-of-death-in-united-states/",
+    "upvotes": 7,
+    "author": "itbeho",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27088077"
   },
   {
     "title": "Cyberattack Forces a Shutdown of a Top U.S. Pipeline Operator",
     "url": "https://www.nytimes.com/2021/05/08/us/cyberattack-colonial-pipeline.html",
-    "upvotes": 52,
+    "upvotes": 61,
     "author": "cwmartin",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27086487"
   },
   {
-    "title": "Grazing Goat Problems",
-    "url": "https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/",
-    "upvotes": 76,
-    "author": "nsoonhui",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27083866"
+    "title": "Kibbutz",
+    "url": "https://en.wikipedia.org/wiki/Kibbutz",
+    "upvotes": 7,
+    "author": "captain_price7",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27087742"
+  },
+  {
+    "title": "Seeing the Real Faces of Silicon Valley",
+    "url": "https://www.nytimes.com/2021/05/08/business/economy/seeing-the-real-faces-of-silicon-valley.html",
+    "upvotes": 17,
+    "author": "jbredeche",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27086445"
+  },
+  {
+    "title": "Putting an Ultra-Tiny Linux Board in a Phone Charger Eventually",
+    "url": "https://hackaday.com/2021/05/06/putting-an-ultra-tiny-linux-board-in-a-phone-charger-eventually/",
+    "upvotes": 89,
+    "author": "rbanffy",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27061490"
   },
   {
     "title": "A primer on code generation in Cranelift",
     "url": "https://blog.benj.me/2021/02/17/cranelift-codegen-primer/",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "bzbarsky",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27083895"
   },
   {
-    "title": "Putting an Ultra-Tiny Linux Board in a Phone Charger Eventually",
-    "url": "https://hackaday.com/2021/05/06/putting-an-ultra-tiny-linux-board-in-a-phone-charger-eventually/",
-    "upvotes": 87,
-    "author": "rbanffy",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27061490"
+    "title": "Grazing Goat Problems",
+    "url": "https://www.quantamagazine.org/solve-math-equations-that-are-stubborn-as-a-goat-20210506/",
+    "upvotes": 78,
+    "author": "nsoonhui",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=27083866"
   },
   {
     "title": "Fifteen Years Forsaken",
     "url": "https://www.damninteresting.com/fifteen-years-forsaken/",
-    "upvotes": 52,
+    "upvotes": 56,
     "author": "Thevet",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27070316"
@@ -142,97 +182,57 @@
   {
     "title": "The Red One",
     "url": "https://en.wikipedia.org/wiki/The_Red_One",
-    "upvotes": 52,
+    "upvotes": 53,
     "author": "prismatic",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27070869"
   },
   {
-    "title": "How to Optimize Order by Random",
-    "url": "https://tpetry.me/20210507-how-to-optimize-order-by-random",
-    "upvotes": 16,
-    "author": "harperlee",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27085258"
-  },
-  {
-    "title": "The digital currencies that matter",
-    "url": "https://www.economist.com/leaders/2021/05/08/the-digital-currencies-that-matter",
-    "upvotes": 131,
-    "author": "axiomdata316",
-    "comments": 263,
-    "link": "https://news.ycombinator.com/item?id=27081955"
-  },
-  {
-    "title": "Dark Matter: The Situation Has Changed",
-    "url": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
-    "upvotes": 93,
-    "author": "nsoonhui",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=27085979"
-  },
-  {
-    "title": "Be in a field where tech is the limit",
-    "url": "https://mathiaskirkbonde.substack.com/p/be-in-a-field-where-tech-is-the-limit",
-    "upvotes": 159,
-    "author": "MperorM",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=27080695"
-  },
-  {
     "title": "Show HN: Lovetris – Tetris which always gives you the best piece",
     "url": "https://unrealwill.github.io/lovetris/",
-    "upvotes": 162,
+    "upvotes": 165,
     "author": "GistNoesis",
-    "comments": 82,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=27083666"
-  },
-  {
-    "title": "We can 3D print wood now",
-    "url": "https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/",
-    "upvotes": 53,
-    "author": "e-brake",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27085648"
   },
   {
     "title": "The Sovietisation of the Mongolian language and challenges of reversal",
     "url": "https://blogs.bl.uk/endangeredarchives/2020/11/whats-in-a-name-the-sovietisation-of-a-modern-mongolian-language.html",
     "upvotes": 134,
     "author": "Thevet",
-    "comments": 115,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=27067791"
   },
   {
-    "title": "Seeing the Real Faces of Silicon Valley",
-    "url": "https://www.nytimes.com/2021/05/08/business/economy/seeing-the-real-faces-of-silicon-valley.html",
-    "upvotes": 5,
-    "author": "jbredeche",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27086445"
+    "title": "We can 3D print wood now",
+    "url": "https://3dprintingindustry.com/news/desktop-metal-redefines-woodworking-with-new-wood-3d-printing-technology-189752/",
+    "upvotes": 55,
+    "author": "e-brake",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27085648"
   },
   {
     "title": "The Connoisseur of Number Sequences",
     "url": "https://www.quantamagazine.org/neil-sloane-connoisseur-of-number-sequences-20150806/",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "optimalsolver",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27074978"
+  },
+  {
+    "title": "Dark Matter: The Situation Has Changed",
+    "url": "http://backreaction.blogspot.com/2021/05/dark-matter-situation-has-changed.html?m=1",
+    "upvotes": 97,
+    "author": "nsoonhui",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=27085979"
   },
   {
     "title": "Did Stone Age Humans Shape the African Landscape with Fire 85,000 Years Ago?",
     "url": "https://www.smithsonianmag.com/smart-news/did-humans-shape-landscape-fire-85000-years-ago-180977669/",
     "upvotes": 4,
     "author": "pseudolus",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27085975"
-  },
-  {
-    "title": "Bob Dylan lays down what killed rock n roll",
-    "url": "https://medium.com/cuepoint/like-it-is-bob-dylan-explains-what-really-killed-rock-n-roll-f6a4b6587a1a",
-    "upvotes": 86,
-    "author": "Phithagoras",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=27082333"
   }
 ]
