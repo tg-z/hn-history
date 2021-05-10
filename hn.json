@@ -2,55 +2,71 @@
   {
     "title": "The Animal Is Tired",
     "url": "http://www.robinhobb.com/blog/posts/38429",
-    "upvotes": 542,
+    "upvotes": 579,
     "author": "montenegrohugo",
-    "comments": 156,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=27100299"
+  },
+  {
+    "title": "Teeing, a hidden gem in the Java API",
+    "url": "https://blog.frankel.ch/teeing-java-api/",
+    "upvotes": 11,
+    "author": "sidcool",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27103033"
   },
   {
     "title": "The Ultimate Guide to Inflation",
     "url": "https://www.lynalden.com/inflation/",
-    "upvotes": 403,
+    "upvotes": 422,
     "author": "jger15",
-    "comments": 197,
+    "comments": 199,
     "link": "https://news.ycombinator.com/item?id=27099536"
-  },
-  {
-    "title": "Simple bank shutdown goes awry, leaving customers without account access",
-    "url": "https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown",
-    "upvotes": 136,
-    "author": "Kye",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=27100611"
   },
   {
     "title": "Why I Love Coding",
     "url": "https://henrikwarne.com/2012/06/02/why-i-love-coding/",
-    "upvotes": 67,
+    "upvotes": 82,
     "author": "spideymans",
-    "comments": 19,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27101805"
   },
   {
-    "title": "Astrobiologists have released the preliminary results of a SETI survey",
-    "url": "https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945",
-    "upvotes": 33,
-    "author": "spamalot159",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27102119"
+    "title": "Adding ANSI C11 C compiler to D so it can import and compile C files directly",
+    "url": "https://github.com/dlang/dmd/pull/12507",
+    "upvotes": 14,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27102584"
+  },
+  {
+    "title": "Simple bank shutdown goes awry, leaving customers without account access",
+    "url": "https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown",
+    "upvotes": 140,
+    "author": "Kye",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=27100611"
   },
   {
     "title": "US passes emergency waiver over fuel pipeline cyber-attack",
     "url": "https://www.bbc.com/news/business-57050690",
-    "upvotes": 491,
+    "upvotes": 495,
     "author": "selfsimilar",
-    "comments": 296,
+    "comments": 303,
     "link": "https://news.ycombinator.com/item?id=27101092"
+  },
+  {
+    "title": "Astrobiologists have released the preliminary results of a SETI survey",
+    "url": "https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945",
+    "upvotes": 34,
+    "author": "spamalot159",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27102119"
   },
   {
     "title": "The Hypnotic World of Degenerate Spirals",
     "url": "https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/",
-    "upvotes": 91,
+    "upvotes": 97,
     "author": "thetrustworthy",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27097719"
@@ -58,17 +74,25 @@
   {
     "title": "Objective-S: architecture-oriented language based on Smalltalk and Objective-C",
     "url": "http://objective.st/",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "ingve",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27100272"
   },
   {
+    "title": "The Mortifying Ordeal of Pairing All Day",
+    "url": "https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/",
+    "upvotes": 26,
+    "author": "tomcam",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27101808"
+  },
+  {
     "title": "A review of correlations between big five personality types and life outcomes",
     "url": "https://dynomight.net/better-personalities/",
-    "upvotes": 266,
+    "upvotes": 271,
     "author": "dynm",
-    "comments": 197,
+    "comments": 199,
     "link": "https://news.ycombinator.com/item?id=27097590"
   },
   {
@@ -80,17 +104,9 @@
     "link": "https://news.ycombinator.com/item?id=27073217"
   },
   {
-    "title": "Tell HN: Don't put your status page on the same domain as your app",
-    "url": "item?id=27102020",
-    "upvotes": 45,
-    "author": "IgorPartola",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27102020"
-  },
-  {
     "title": "The global chip shortage is starting to have consequences",
     "url": "https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html",
-    "upvotes": 534,
+    "upvotes": 536,
     "author": "giuliomagnifico",
     "comments": 607,
     "link": "https://news.ycombinator.com/item?id=27095558"
@@ -98,42 +114,50 @@
   {
     "title": "Why do we buy into the 'cult' of overwork?",
     "url": "https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork",
-    "upvotes": 218,
+    "upvotes": 223,
     "author": "pseudolus",
-    "comments": 207,
+    "comments": 213,
     "link": "https://news.ycombinator.com/item?id=27099969"
+  },
+  {
+    "title": "Tell HN: Don't put your status page on the same domain as your app",
+    "url": "item?id=27102020",
+    "upvotes": 48,
+    "author": "IgorPartola",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=27102020"
   },
   {
     "title": "Show HN: RonDB – fast key-value database in the cloud",
     "url": "https://www.rondb.com/",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "jamesblonde",
-    "comments": 16,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27084333"
-  },
-  {
-    "title": "Eleven Ways of Smelling a Tree",
-    "url": "https://emergencemagazine.org/essay/eleven-ways/",
-    "upvotes": 30,
-    "author": "royalroad",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27098978"
   },
   {
     "title": "PocketPCR",
     "url": "https://gaudi.ch/PocketPCR/",
     "upvotes": 69,
     "author": "_Microft",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27098999"
   },
   {
     "title": "Online cheating charges upend Dartmouth Medical School",
     "url": "https://www.nytimes.com/2021/05/09/technology/dartmouth-geisel-medical-cheating.html",
-    "upvotes": 112,
+    "upvotes": 118,
     "author": "jasonhansel",
-    "comments": 31,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27095860"
+  },
+  {
+    "title": "Eleven Ways of Smelling a Tree",
+    "url": "https://emergencemagazine.org/essay/eleven-ways/",
+    "upvotes": 32,
+    "author": "royalroad",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27098978"
   },
   {
     "title": "Editorial: Creativity Lost",
@@ -144,6 +168,26 @@
     "link": "https://news.ycombinator.com/item?id=27073611"
   },
   {
+    "title": "Introduction to Security Good Practices",
+    "url": "https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html",
+    "upvotes": 57,
+    "author": "zdw",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27099025"
+  },
+  {
+    "title": "BuildZoom",
+    "url": "https://jobs.lever.co/buildzoom"
+  },
+  {
+    "title": "Why is it a bad idea to filter by zeroing out FFT bins?",
+    "url": "https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/",
+    "upvotes": 52,
+    "author": "bcaa7f3a8bbc",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27097748"
+  },
+  {
     "title": "Who Is “Public” Data For?",
     "url": "https://lithub.com/who-is-public-data-really-for/",
     "upvotes": 3,
@@ -152,40 +196,20 @@
     "link": "https://news.ycombinator.com/item?id=27073735"
   },
   {
-    "title": "The Mortifying Ordeal of Pairing All Day",
-    "url": "https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/",
-    "upvotes": 13,
-    "author": "tomcam",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27101808"
-  },
-  {
     "title": "The Lives of Napoleon",
     "url": "https://www.historytoday.com/archive/review/lives-napoleon",
-    "upvotes": 6,
+    "upvotes": 7,
     "author": "samclemens",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27093385"
   },
   {
-    "title": "BuildZoom",
-    "url": "https://jobs.lever.co/buildzoom"
-  },
-  {
-    "title": "Introduction to Security Good Practices",
-    "url": "https://dataswamp.org/~solene/2021-05-09-introduction-to-security.html",
-    "upvotes": 55,
-    "author": "zdw",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27099025"
-  },
-  {
-    "title": "Why is it a bad idea to filter by zeroing out FFT bins?",
-    "url": "https://dsp.stackexchange.com/questions/6220/why-is-it-a-bad-idea-to-filter-by-zeroing-out-fft-bins/",
-    "upvotes": 48,
-    "author": "bcaa7f3a8bbc",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27097748"
+    "title": "Linux Air Combat",
+    "url": "https://askmisterwizard.com/2019/LinuxAirCombat/IntroducingLinuxAirCombat.htm",
+    "upvotes": 101,
+    "author": "marcodiego",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27073052"
   },
   {
     "title": "ST-NeRF: Compositing and Editing for Video Synthesis",
@@ -198,41 +222,17 @@
   {
     "title": "AMD server CPUs capture highest market share gains from Intel in 15 years",
     "url": "https://hothardware.com/news/amd-epyc-server-cpu-gains-highest-share-intel-15-years",
-    "upvotes": 286,
+    "upvotes": 288,
     "author": "giuliomagnifico",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27097680"
-  },
-  {
-    "title": "Linux Air Combat",
-    "url": "https://askmisterwizard.com/2019/LinuxAirCombat/IntroducingLinuxAirCombat.htm",
-    "upvotes": 100,
-    "author": "marcodiego",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27073052"
   },
   {
     "title": "How JavaScript works: 3 types of polymorphism",
     "url": "https://blog.sessionstack.com/how-javascript-works-3-types-of-polymorphism-f10ff4992be1?source=collection_category---4------0-----------------------",
     "upvotes": 73,
     "author": "zlatkov",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27074514"
-  },
-  {
-    "title": "When the Tab Comes Due: Challenges in the Cost Structure of Browser Tab Usage",
-    "url": "https://joe.cat/CHI-browser-tabs/",
-    "upvotes": 64,
-    "author": "lnyan",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=27095701"
-  },
-  {
-    "title": "The Double Dinosaur Brain Myth",
-    "url": "https://www.smithsonianmag.com/science-nature/the-double-dinosaur-brain-myth-12155823/",
-    "upvotes": 21,
-    "author": "bryanrasmussen",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27073311"
   }
 ]
