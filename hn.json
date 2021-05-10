@@ -1,42 +1,62 @@
 [
   {
+    "title": "Payments down 20% in my SaaS after EU introduced PSD2 this year",
+    "url": "https://www.globalbankingandfinance.com/the-real-impact-of-psd2/",
+    "upvotes": 17,
+    "author": "rokkk",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27110713"
+  },
+  {
     "title": "Tracking One Year of Malicious Tor Exit Relay Activities",
     "url": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
-    "upvotes": 141,
+    "upvotes": 156,
     "author": "hacka22",
-    "comments": 66,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=27108109"
   },
   {
-    "title": "Dear EU: Please Don't Ruin the Root",
-    "url": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
-    "upvotes": 261,
-    "author": "Reventlov",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=27106448"
-  },
-  {
-    "title": "Writing books is not really a good idea",
-    "url": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
-    "upvotes": 291,
-    "author": "ellegriffin",
-    "comments": 384,
-    "link": "https://news.ycombinator.com/item?id=27106055"
+    "title": "Using PostgreSQL as a Data Warehouse",
+    "url": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
+    "upvotes": 44,
+    "author": "cedricd",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27109960"
   },
   {
     "title": "'Sesame Street': From Radical Experiment to Beloved TV Mainstay",
     "url": "https://www.npr.org/2021/05/08/994738544/the-story-of-sesame-street-from-radical-experiment-to-beloved-tv-mainstay",
-    "upvotes": 20,
+    "upvotes": 28,
     "author": "pseudolus",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27094840"
+  },
+  {
+    "title": "Dear EU: Please Don't Ruin the Root",
+    "url": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
+    "upvotes": 278,
+    "author": "Reventlov",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=27106448"
+  },
+  {
+    "title": "EasyPost",
+    "url": "https://www.easypost.com/careers"
+  },
+  {
+    "title": "Writing books is not really a good idea",
+    "url": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
+    "upvotes": 310,
+    "author": "ellegriffin",
+    "comments": 396,
+    "link": "https://news.ycombinator.com/item?id=27106055"
   },
   {
     "title": "Why does every advert look the same? Corporate Memphis",
     "url": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
-    "upvotes": 81,
+    "upvotes": 87,
     "author": "dehrmann",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27107820"
   },
   {
@@ -44,67 +64,55 @@
     "url": "https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/",
     "upvotes": 174,
     "author": "rbanffy",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27105813"
-  },
-  {
-    "title": "eBPF on Windows",
-    "url": "https://github.com/microsoft/ebpf-for-windows",
-    "upvotes": 110,
-    "author": "praseodym",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=27108593"
   },
   {
     "title": "Pyre: A performant type-checker for Python 3",
     "url": "https://pyre-check.org",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "tosh",
-    "comments": 40,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27107647"
   },
   {
     "title": "Epidemiologist R Handbook",
     "url": "https://epirhandbook.com/",
-    "upvotes": 120,
+    "upvotes": 122,
     "author": "schultetwin",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27106489"
   },
   {
-    "title": "Using PostgreSQL as a Data Warehouse",
-    "url": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
-    "upvotes": 21,
-    "author": "cedricd",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27109960"
+    "title": "eBPF on Windows",
+    "url": "https://github.com/microsoft/ebpf-for-windows",
+    "upvotes": 127,
+    "author": "praseodym",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=27108593"
   },
   {
     "title": "Story of a Tshirt with a Shellcode",
     "url": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
-    "upvotes": 33,
+    "upvotes": 37,
     "author": "0xmarcin",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27109082"
   },
   {
     "title": "Why are modern 50mm lenses so damned complicated?",
     "url": "https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated",
-    "upvotes": 241,
+    "upvotes": 247,
     "author": "giuliomagnifico",
-    "comments": 210,
+    "comments": 215,
     "link": "https://news.ycombinator.com/item?id=27104271"
-  },
-  {
-    "title": "GiveCampus",
-    "url": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
   },
   {
     "title": "Show HN: Django SQL Dashboard",
     "url": "https://django-sql-dashboard.datasette.io/en/latest/",
-    "upvotes": 117,
+    "upvotes": 124,
     "author": "simonw",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27107428"
   },
   {
@@ -118,87 +126,87 @@
   {
     "title": "DragonflyBSD 6.0",
     "url": "https://www.dragonflybsd.org/release60/",
-    "upvotes": 132,
+    "upvotes": 138,
     "author": "vermaden",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27108348"
-  },
-  {
-    "title": "Advancing Sports Analytics Through AI Research",
-    "url": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
-    "upvotes": 51,
-    "author": "atg_abhishek",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27094550"
-  },
-  {
-    "title": "Royal Marines Testing Out Jet Suits [video]",
-    "url": "https://www.youtube.com/watch?v=suHOLFhbwsM",
-    "upvotes": 100,
-    "author": "daniellenewnham",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=27106021"
-  },
-  {
-    "title": "Engineer Who Won the Nobel Prize Twice in Physics",
-    "url": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
-    "upvotes": 116,
-    "author": "Anon84",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27106250"
-  },
-  {
-    "title": "The Syslog Hell",
-    "url": "https://techblog.bozho.net/the-syslog-hell/",
-    "upvotes": 65,
-    "author": "rdpintqogeogsaa",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27104469"
-  },
-  {
-    "title": "Game developers sharing their salaries on Twitter",
-    "url": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
-    "upvotes": 162,
-    "author": "elsewhen",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=27109142"
-  },
-  {
-    "title": "Professor who harnessed power of cactuses is a top inventor",
-    "url": "https://apnews.com/article/technology-33a29ac19d039ecdc876d6ac15bcf0a4",
-    "upvotes": 134,
-    "author": "tareqak",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=27094652"
-  },
-  {
-    "title": "Advanced Situational Awareness [pdf]",
-    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf",
-    "upvotes": 209,
-    "author": "graderjs",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=27107522"
-  },
-  {
-    "title": "ServiceNow acquires Lightstep",
-    "url": "https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/",
-    "upvotes": 58,
-    "author": "mlke",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27107984"
   },
   {
     "title": "Accelerating Eye Movement Research for Wellness and Accessibility",
     "url": "https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "theafh",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27109571"
+  },
+  {
+    "title": "Advancing Sports Analytics Through AI Research",
+    "url": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
+    "upvotes": 54,
+    "author": "atg_abhishek",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27094550"
+  },
+  {
+    "title": "Beware of Applications Misusing Root Stores",
+    "url": "https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/",
+    "upvotes": 3,
+    "author": "bzbarsky",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27110669"
+  },
+  {
+    "title": "The Syslog Hell",
+    "url": "https://techblog.bozho.net/the-syslog-hell/",
+    "upvotes": 67,
+    "author": "rdpintqogeogsaa",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=27104469"
+  },
+  {
+    "title": "ServiceNow acquires Lightstep",
+    "url": "https://www.zdnet.com/article/servicenow-acquires-lightstep-aims-to-leverage-observability-across-enterprises/",
+    "upvotes": 60,
+    "author": "mlke",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27107984"
+  },
+  {
+    "title": "Advanced Situational Awareness [pdf]",
+    "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf",
+    "upvotes": 213,
+    "author": "graderjs",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=27107522"
+  },
+  {
+    "title": "Engineer Who Won the Nobel Prize Twice in Physics",
+    "url": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
+    "upvotes": 119,
+    "author": "Anon84",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27106250"
+  },
+  {
+    "title": "Professor who harnessed power of cactuses is a top inventor",
+    "url": "https://apnews.com/article/technology-33a29ac19d039ecdc876d6ac15bcf0a4",
+    "upvotes": 135,
+    "author": "tareqak",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=27094652"
+  },
+  {
+    "title": "Royal Marines Testing Out Jet Suits [video]",
+    "url": "https://www.youtube.com/watch?v=suHOLFhbwsM",
+    "upvotes": 109,
+    "author": "daniellenewnham",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=27106021"
   },
   {
     "title": "Folio: A customizable test framework to build your own test frameworks",
     "url": "https://github.com/microsoft/folio",
-    "upvotes": 20,
+    "upvotes": 25,
     "author": "tilt",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27103708"
@@ -206,33 +214,25 @@
   {
     "title": "Total Relighting: Learning to Relight Portraits for Background Replacement",
     "url": "https://augmentedperception.github.io/total_relighting/",
-    "upvotes": 20,
+    "upvotes": 24,
     "author": "Hard_Space",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27093875"
   },
   {
-    "title": "Perverse Downstream Consequences of Debunking",
-    "url": "https://dl.acm.org/doi/10.1145/3411764.3445642",
-    "upvotes": 37,
-    "author": "ingve",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27107175"
+    "title": "Samsung to jump into laptop processor market with Exynos chip in H2",
+    "url": "https://www.kedglobal.com/newsView/ked202105090002",
+    "upvotes": 3,
+    "author": "cbg0",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27110493"
   },
   {
     "title": "Show HN: DataProfiler – What's in your data? Extract schema, stats and entities",
     "url": "https://github.com/capitalone/DataProfiler",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "lettergram",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27106335"
-  },
-  {
-    "title": "CVE-2021-32471 – Input validation in Marvin Minsky 1967 Turing Machine",
-    "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471",
-    "upvotes": 127,
-    "author": "wsces",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27104695"
   }
 ]
