@@ -1,124 +1,140 @@
 [
   {
-    "title": "Hacker News Classics",
-    "url": "https://jsomers.net/hn/",
-    "upvotes": 47,
-    "author": "katzeilla",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27104939"
-  },
-  {
     "title": "The Animal Is Tired",
     "url": "http://www.robinhobb.com/blog/posts/38429",
-    "upvotes": 922,
+    "upvotes": 976,
     "author": "montenegrohugo",
-    "comments": 260,
+    "comments": 279,
     "link": "https://news.ycombinator.com/item?id=27100299"
   },
   {
     "title": "The word “decide” has deadly origins",
     "url": "https://www.etymologynerd.com/blog/choices",
-    "upvotes": 182,
+    "upvotes": 189,
     "author": "bribri",
-    "comments": 72,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27103230"
+  },
+  {
+    "title": "Hacker News Classics",
+    "url": "https://jsomers.net/hn/",
+    "upvotes": 56,
+    "author": "katzeilla",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27104939"
   },
   {
     "title": "Teeing, a hidden gem in the Java API",
     "url": "https://blog.frankel.ch/teeing-java-api/",
-    "upvotes": 167,
+    "upvotes": 173,
     "author": "sidcool",
-    "comments": 55,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27103033"
   },
   {
     "title": "Poor Disk Performance",
     "url": "http://www.brendangregg.com/blog/2021-05-09/poor-disk-performance.html",
-    "upvotes": 52,
+    "upvotes": 67,
     "author": "latch",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27104000"
-  },
-  {
-    "title": "Automatically transcribe an interview, meeting or video",
-    "url": "https://voicedocs.com/en",
-    "upvotes": 44,
-    "author": "MajidMM",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27103827"
   },
   {
     "title": "CVE-2021-32471 – Input validation in Marvin Minsky 1967 Turing Machine",
     "url": "https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-32471",
-    "upvotes": 23,
+    "upvotes": 30,
     "author": "wsces",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27104695"
+  },
+  {
+    "title": "Using GDPR to obtain one’s data as JSON",
+    "url": "https://mazzo.li/posts/gdpr-success-story.html",
+    "upvotes": 130,
+    "author": "rostayob",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=27104587"
+  },
+  {
+    "title": "Astrobiologists have released the preliminary results of a SETI survey",
+    "url": "https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945",
+    "upvotes": 43,
+    "author": "spamalot159",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=27102119"
   },
   {
     "title": "Signadot",
     "url": "https://www.workatastartup.com/jobs/42298"
   },
   {
-    "title": "Using GDPR to obtain one’s data as JSON",
-    "url": "https://mazzo.li/posts/gdpr-success-story.html",
-    "upvotes": 116,
-    "author": "rostayob",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=27104587"
-  },
-  {
-    "title": "Astrobiologists have released the preliminary results of a SETI survey",
-    "url": "https://gizmodo.com/60-million-stars-and-not-one-alien-detected-1846813945",
-    "upvotes": 38,
-    "author": "spamalot159",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27102119"
+    "title": "Simple bank shutdown goes awry, leaving customers without account access",
+    "url": "https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown",
+    "upvotes": 229,
+    "author": "Kye",
+    "comments": 143,
+    "link": "https://news.ycombinator.com/item?id=27100611"
   },
   {
     "title": "Why I Love Coding",
     "url": "https://henrikwarne.com/2012/06/02/why-i-love-coding/",
-    "upvotes": 175,
+    "upvotes": 180,
     "author": "spideymans",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27101805"
-  },
-  {
-    "title": "Simple bank shutdown goes awry, leaving customers without account access",
-    "url": "https://www.theverge.com/2021/5/9/22427811/simple-bbva-transition-errors-bank-shutdown",
-    "upvotes": 226,
-    "author": "Kye",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=27100611"
   },
   {
     "title": "Why Aren’t SMS Interventions Designed to Boost College Success Working at Scale?",
     "url": "https://behavioralscientist.org/why-arent-text-message-interventions-designed-to-boost-college-success-working-at-scale/",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "vitabenes",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27103978"
   },
   {
-    "title": "The Hypnotic World of Degenerate Spirals",
-    "url": "https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/",
-    "upvotes": 190,
-    "author": "thetrustworthy",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27097719"
+    "title": "Automatically transcribe an interview, meeting or video",
+    "url": "https://voicedocs.com/en",
+    "upvotes": 46,
+    "author": "MajidMM",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27103827"
   },
   {
     "title": "Adding ANSI C11 C compiler to D so it can import and compile C files directly",
     "url": "https://github.com/dlang/dmd/pull/12507",
-    "upvotes": 105,
+    "upvotes": 110,
     "author": "ingve",
-    "comments": 60,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27102584"
+  },
+  {
+    "title": "Trading Pit Hand Signals",
+    "url": "https://tradingpithistory.com/",
+    "upvotes": 9,
+    "author": "ArikBe",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27094747"
+  },
+  {
+    "title": "The Hypnotic World of Degenerate Spirals",
+    "url": "https://www.dogatekin.com/blog/hypnotic-degenerate-spirals/",
+    "upvotes": 197,
+    "author": "thetrustworthy",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27097719"
+  },
+  {
+    "title": "The mortifying ordeal of pairing all day",
+    "url": "https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/",
+    "upvotes": 166,
+    "author": "tomcam",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=27101808"
   },
   {
     "title": "Windyquery: A non-blocking Python PostgreSQL query builder",
     "url": "https://pypi.org/project/windyquery/",
-    "upvotes": 48,
+    "upvotes": 52,
     "author": "asiftr",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27103049"
@@ -126,113 +142,97 @@
   {
     "title": "Evidence supports claim that SARS-CoV-2 genes can integrate with human DNA",
     "url": "https://www.sciencemag.org/news/2021/05/further-evidence-offered-claim-genes-pandemic-coronavirus-can-integrate-human-dna",
-    "upvotes": 18,
+    "upvotes": 24,
     "author": "pseudolus",
-    "comments": 9,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27104698"
-  },
-  {
-    "title": "The Ultimate Guide to Inflation",
-    "url": "https://www.lynalden.com/inflation/",
-    "upvotes": 575,
-    "author": "jger15",
-    "comments": 274,
-    "link": "https://news.ycombinator.com/item?id=27099536"
   },
   {
     "title": "Firefox Public Data Report",
     "url": "https://data.firefox.com/",
-    "upvotes": 16,
+    "upvotes": 25,
     "author": "Garbage",
-    "comments": null,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27104922"
+  },
+  {
+    "title": "The Ultimate Guide to Inflation",
+    "url": "https://www.lynalden.com/inflation/",
+    "upvotes": 581,
+    "author": "jger15",
+    "comments": 276,
+    "link": "https://news.ycombinator.com/item?id=27099536"
+  },
+  {
+    "title": "AirTag hacked for the first time by security researcher",
+    "url": "https://9to5mac.com/2021/05/09/airtag-hacked-for-the-first-time-by-security-researcher-video/",
+    "upvotes": 12,
+    "author": "stunt",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27105310"
   },
   {
     "title": "Objective-S: architecture-oriented language based on Smalltalk and Objective-C",
     "url": "http://objective.st/",
     "upvotes": 100,
     "author": "ingve",
-    "comments": 42,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27100272"
-  },
-  {
-    "title": "Trading Pit Hand Signals",
-    "url": "https://tradingpithistory.com/",
-    "upvotes": 3,
-    "author": "ArikBe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27094747"
-  },
-  {
-    "title": "US passes emergency waiver over fuel pipeline cyber-attack",
-    "url": "https://www.bbc.com/news/business-57050690",
-    "upvotes": 559,
-    "author": "selfsimilar",
-    "comments": 374,
-    "link": "https://news.ycombinator.com/item?id=27101092"
   },
   {
     "title": "The Syslog Hell",
     "url": "https://techblog.bozho.net/the-syslog-hell/",
-    "upvotes": 30,
+    "upvotes": 36,
     "author": "rdpintqogeogsaa",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27104469"
+  },
+  {
+    "title": "US passes emergency waiver over fuel pipeline cyber-attack",
+    "url": "https://www.bbc.com/news/business-57050690",
+    "upvotes": 563,
+    "author": "selfsimilar",
+    "comments": 383,
+    "link": "https://news.ycombinator.com/item?id=27101092"
+  },
+  {
+    "title": "Praise for Alpine Linux",
+    "url": "https://portal.drewdevault.com/2021/05/06/Praise-for-Alpine-Linux.gmi",
+    "upvotes": 21,
+    "author": "Tomte",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27104898"
   },
   {
     "title": "The global chip shortage is starting to have consequences",
     "url": "https://www.cnbc.com/2021/05/07/chip-shortage-is-starting-to-have-major-real-world-consequences.html",
-    "upvotes": 570,
+    "upvotes": 576,
     "author": "giuliomagnifico",
-    "comments": 655,
+    "comments": 662,
     "link": "https://news.ycombinator.com/item?id=27095558"
-  },
-  {
-    "title": "The mortifying ordeal of pairing all day",
-    "url": "https://www.simplermachines.com/the-mortifying-ordeal-of-pairing-all-day/",
-    "upvotes": 155,
-    "author": "tomcam",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=27101808"
   },
   {
     "title": "Who Is “Public” Data For?",
     "url": "https://lithub.com/who-is-public-data-really-for/",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "zverok",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27073735"
   },
   {
     "title": "The Lives of Napoleon",
     "url": "https://www.historytoday.com/archive/review/lives-napoleon",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "samclemens",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27093385"
   },
   {
     "title": "Eleven Ways of Smelling a Tree",
     "url": "https://emergencemagazine.org/essay/eleven-ways/",
-    "upvotes": 47,
+    "upvotes": 48,
     "author": "royalroad",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27098978"
-  },
-  {
-    "title": "The Contemplative Life: the monastic cowl",
-    "url": "http://vestoj.com/the-contemplative-life/",
-    "upvotes": 14,
-    "author": "one-possibility",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27098948"
-  },
-  {
-    "title": "Editorial: Creativity Lost",
-    "url": "https://aapt.scitation.org/doi/10.1119/1.4755847",
-    "upvotes": 20,
-    "author": "agarttha",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27073611"
   }
 ]
