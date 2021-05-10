@@ -1,140 +1,156 @@
 [
   {
-    "title": "Using PostgreSQL as a Data Warehouse",
-    "url": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
-    "upvotes": 83,
-    "author": "cedricd",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27109960"
-  },
-  {
     "title": "Samsung to jump into laptop processor market with Exynos chip in H2",
     "url": "https://www.kedglobal.com/newsView/ked202105090002",
-    "upvotes": 25,
+    "upvotes": 61,
     "author": "cbg0",
-    "comments": 17,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27110493"
+  },
+  {
+    "title": "Using PostgreSQL as a Data Warehouse",
+    "url": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
+    "upvotes": 97,
+    "author": "cedricd",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27109960"
   },
   {
     "title": "Beware of Applications Misusing Root Stores",
     "url": "https://blog.mozilla.org/security/2021/05/10/beware-of-applications-misusing-root-stores/",
-    "upvotes": 23,
+    "upvotes": 32,
     "author": "bzbarsky",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27110669"
   },
   {
     "title": "Tracking One Year of Malicious Tor Exit Relay Activities",
     "url": "https://nusenu.medium.com/tracking-one-year-of-malicious-tor-exit-relay-activities-part-ii-85c80875c5df",
-    "upvotes": 167,
+    "upvotes": 172,
     "author": "hacka22",
-    "comments": 86,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27108109"
+  },
+  {
+    "title": "Writing books is not really a good idea",
+    "url": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
+    "upvotes": 362,
+    "author": "ellegriffin",
+    "comments": 431,
+    "link": "https://news.ycombinator.com/item?id=27106055"
   },
   {
     "title": "'Sesame Street': From Radical Experiment to Beloved TV Mainstay",
     "url": "https://www.npr.org/2021/05/08/994738544/the-story-of-sesame-street-from-radical-experiment-to-beloved-tv-mainstay",
-    "upvotes": 45,
+    "upvotes": 57,
     "author": "pseudolus",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27094840"
   },
   {
-    "title": "Payments down 20% in my SaaS after EU introduced PSD2",
-    "url": "https://www.globalbankingandfinance.com/the-real-impact-of-psd2/",
-    "upvotes": 64,
-    "author": "rokkk",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=27110713"
+    "title": "eBPF on Windows",
+    "url": "https://github.com/microsoft/ebpf-for-windows",
+    "upvotes": 139,
+    "author": "praseodym",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=27108593"
   },
   {
     "title": "EasyPost",
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "Writing books is not really a good idea",
-    "url": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
-    "upvotes": 338,
-    "author": "ellegriffin",
-    "comments": 416,
-    "link": "https://news.ycombinator.com/item?id=27106055"
-  },
-  {
-    "title": "eBPF on Windows",
-    "url": "https://github.com/microsoft/ebpf-for-windows",
-    "upvotes": 134,
-    "author": "praseodym",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=27108593"
-  },
-  {
     "title": "Dear EU: Please Don't Ruin the Root",
     "url": "https://berthub.eu/articles/posts/dont-ruin-the-root/",
-    "upvotes": 292,
+    "upvotes": 303,
     "author": "Reventlov",
-    "comments": 134,
+    "comments": 142,
     "link": "https://news.ycombinator.com/item?id=27106448"
   },
   {
-    "title": "Game developers sharing their salaries on Twitter",
-    "url": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
-    "upvotes": 184,
-    "author": "elsewhen",
-    "comments": 210,
-    "link": "https://news.ycombinator.com/item?id=27109142"
-  },
-  {
-    "title": "OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC",
-    "url": "https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/",
-    "upvotes": 176,
-    "author": "rbanffy",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27105813"
-  },
-  {
-    "title": "Why does every advert look the same? Corporate Memphis",
-    "url": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
-    "upvotes": 96,
-    "author": "dehrmann",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=27107820"
+    "title": "",
+    "url": "https://www.redhat.com/sysadmin/5-useless-linux-commands",
+    "upvotes": 7,
+    "author": "azalemeth",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27111253"
   },
   {
     "title": "Local Register Allocator for 8086",
     "url": "https://github.com/alexfru/regal86",
-    "upvotes": 15,
+    "upvotes": 24,
     "author": "fm77",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27103946"
   },
   {
-    "title": "Perverse Downstream Consequences of Debunking",
-    "url": "https://dl.acm.org/doi/10.1145/3411764.3445642",
-    "upvotes": 41,
-    "author": "ingve",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27107175"
+    "title": "Payments down 20% in my SaaS after EU introduced PSD2",
+    "url": "https://www.globalbankingandfinance.com/the-real-impact-of-psd2/",
+    "upvotes": 70,
+    "author": "rokkk",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=27110713"
   },
   {
-    "title": "Story of a Tshirt with a Shellcode",
-    "url": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
-    "upvotes": 49,
-    "author": "0xmarcin",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27109082"
+    "title": "Why does every advert look the same? Corporate Memphis",
+    "url": "https://www.wired.co.uk/article/corporate-memphis-design-tech",
+    "upvotes": 103,
+    "author": "dehrmann",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=27107820"
+  },
+  {
+    "title": "OpenPOWER Foundation announces LibreBMC, a POWER-based, fully open-source BMC",
+    "url": "https://openpowerfoundation.org/openpower-foundation-announces-librebmc-a-power-based-fully-open-source-bmc/",
+    "upvotes": 177,
+    "author": "rbanffy",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27105813"
+  },
+  {
+    "title": "Game developers sharing their salaries on Twitter",
+    "url": "https://www.axios.com/salaries-game-developers-break-silence-8f03c4aa-216e-4043-80dc-0376c606b926.html",
+    "upvotes": 194,
+    "author": "elsewhen",
+    "comments": 236,
+    "link": "https://news.ycombinator.com/item?id=27109142"
+  },
+  {
+    "title": "Why should I put my website to sleep?",
+    "url": "https://www.nightnight.xn--q9jyb4c/details",
+    "upvotes": 18,
+    "author": "tobr",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27110263"
   },
   {
     "title": "Epidemiologist R Handbook",
     "url": "https://epirhandbook.com/",
-    "upvotes": 124,
+    "upvotes": 127,
     "author": "schultetwin",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27106489"
   },
   {
+    "title": "Perverse Downstream Consequences of Debunking",
+    "url": "https://dl.acm.org/doi/10.1145/3411764.3445642",
+    "upvotes": 45,
+    "author": "ingve",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=27107175"
+  },
+  {
+    "title": "Story of a Tshirt with a Shellcode",
+    "url": "https://github.com/marcin-chwedczuk/shellcode-tshirt",
+    "upvotes": 51,
+    "author": "0xmarcin",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27109082"
+  },
+  {
     "title": "Show HN: Django SQL Dashboard",
     "url": "https://django-sql-dashboard.datasette.io/en/latest/",
-    "upvotes": 134,
+    "upvotes": 136,
     "author": "simonw",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27107428"
@@ -142,31 +158,31 @@
   {
     "title": "Why are modern 50mm lenses so damned complicated?",
     "url": "https://www.dpreview.com/news/9236543269/why-are-modern-50mm-lenses-so-damned-complicated",
-    "upvotes": 260,
+    "upvotes": 267,
     "author": "giuliomagnifico",
-    "comments": 219,
+    "comments": 222,
     "link": "https://news.ycombinator.com/item?id=27104271"
-  },
-  {
-    "title": "Scrap for cash: Bronze Age witnessed revolution in small change across Europe",
-    "url": "https://phys.org/news/2021-05-scrap-cash-bronze-age-witnessed.html",
-    "upvotes": 61,
-    "author": "diodorus",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27102991"
   },
   {
     "title": "Pyre: A performant type-checker for Python 3",
     "url": "https://pyre-check.org",
-    "upvotes": 90,
+    "upvotes": 93,
     "author": "tosh",
-    "comments": 60,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27107647"
+  },
+  {
+    "title": "Scrap for cash: Bronze Age witnessed revolution in small change across Europe",
+    "url": "https://phys.org/news/2021-05-scrap-cash-bronze-age-witnessed.html",
+    "upvotes": 62,
+    "author": "diodorus",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27102991"
   },
   {
     "title": "Total Relighting: Learning to Relight Portraits for Background Replacement",
     "url": "https://augmentedperception.github.io/total_relighting/",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "Hard_Space",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27093875"
@@ -176,63 +192,47 @@
     "url": "https://deepmind.com/blog/article/advancing-sports-analytics-through-ai",
     "upvotes": 58,
     "author": "atg_abhishek",
-    "comments": 50,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27094550"
-  },
-  {
-    "title": "DragonflyBSD 6.0",
-    "url": "https://www.dragonflybsd.org/release60/",
-    "upvotes": 148,
-    "author": "vermaden",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27108348"
   },
   {
     "title": "The Syslog Hell",
     "url": "https://techblog.bozho.net/the-syslog-hell/",
-    "upvotes": 72,
+    "upvotes": 76,
     "author": "rdpintqogeogsaa",
-    "comments": 54,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27104469"
   },
   {
-    "title": "Royal Marines Testing Out Jet Suits [video]",
-    "url": "https://www.youtube.com/watch?v=suHOLFhbwsM",
-    "upvotes": 123,
-    "author": "daniellenewnham",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=27106021"
+    "title": "DragonflyBSD 6.0",
+    "url": "https://www.dragonflybsd.org/release60/",
+    "upvotes": 152,
+    "author": "vermaden",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27108348"
+  },
+  {
+    "title": "Engineer Who Won the Nobel Prize Twice in Physics",
+    "url": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
+    "upvotes": 129,
+    "author": "Anon84",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=27106250"
   },
   {
     "title": "Professor who harnessed power of cactuses is a top inventor",
     "url": "https://apnews.com/article/technology-33a29ac19d039ecdc876d6ac15bcf0a4",
-    "upvotes": 141,
+    "upvotes": 144,
     "author": "tareqak",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27094652"
   },
   {
-    "title": "Engineer Who Won the Nobel Prize Twice in Physics",
-    "url": "https://www.wondersofphysics.com/2021/05/two-time-nobel-pize-winner-physics.html",
-    "upvotes": 125,
-    "author": "Anon84",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=27106250"
-  },
-  {
     "title": "Advanced Situational Awareness [pdf]",
     "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf",
-    "upvotes": 222,
+    "upvotes": 230,
     "author": "graderjs",
-    "comments": 120,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=27107522"
-  },
-  {
-    "title": "Accelerating Eye Movement Research for Wellness and Accessibility",
-    "url": "https://ai.googleblog.com/2021/05/accelerating-eye-movement-research-for.html",
-    "upvotes": 14,
-    "author": "theafh",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27109571"
   }
 ]
