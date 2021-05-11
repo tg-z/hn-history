@@ -1,84 +1,108 @@
 [
   {
+    "title": "TikTok launching jobs service for Gen Z",
+    "url": "https://www.axios.com/tiktok-job-hiring-tiktok-576f3b99-602c-46ac-afed-218ddf61a9ba.html",
+    "upvotes": 26,
+    "author": "elsewhen",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27118362"
+  },
+  {
+    "title": "Amazon Sidewalk",
+    "url": "https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011",
+    "upvotes": 382,
+    "author": "encryptluks2",
+    "comments": 389,
+    "link": "https://news.ycombinator.com/item?id=27115809"
+  },
+  {
     "title": "Babel is used by millions, so why are we running out of money?",
     "url": "https://babeljs.io/blog/2021/05/10/funding-update.html",
-    "upvotes": 432,
+    "upvotes": 475,
     "author": "Ashoka_rkt",
-    "comments": 419,
+    "comments": 459,
     "link": "https://news.ycombinator.com/item?id=27114718"
+  },
+  {
+    "title": "Pprof++: A Go Profiler with Hardware Performance Monitoring",
+    "url": "https://eng.uber.com/pprof-go-profiler/",
+    "upvotes": 6,
+    "author": "vquemener",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27118541"
   },
   {
     "title": "Can I Email?",
     "url": "https://www.caniemail.com/",
-    "upvotes": 524,
+    "upvotes": 539,
     "author": "ggregoire",
-    "comments": 213,
+    "comments": 215,
     "link": "https://news.ycombinator.com/item?id=27112960"
   },
   {
     "title": "Aqueduct of Constantinople: Managing longest water channel of the ancient world",
     "url": "https://phys.org/news/2021-05-aqueduct-constantinople-longest-channel-ancient.html",
-    "upvotes": 11,
+    "upvotes": 15,
     "author": "pseudolus",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27117121"
   },
   {
     "title": "A SpaceX booster now trails only 4 space shuttles in flight experience",
     "url": "https://arstechnica.com/science/2021/05/spacex-hits-major-reuse-milestone-with-rockets-10th-flight/",
-    "upvotes": 47,
+    "upvotes": 67,
     "author": "rbanffy",
-    "comments": 19,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27117586"
   },
   {
     "title": "An intro to Zig's integer casting for C programmers",
     "url": "https://www.lagerdata.com/articles/an-intro-to-zigs-integer-casting-for-c-programmers",
-    "upvotes": 49,
+    "upvotes": 62,
     "author": "jorangreef",
-    "comments": 22,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27115551"
+  },
+  {
+    "title": "We’ll stop selling our Code Editor app for iOS soon",
+    "url": "https://panic.com/blog/the-future-of-code-editor/",
+    "upvotes": 60,
+    "author": "krzyzanowskim",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=27116203"
   },
   {
     "title": "Why you can’t buy a thermapen on Amazon",
     "url": "https://blog.thermoworks.com/thermometer/new-warning-thermoworks-website-2/",
-    "upvotes": 342,
+    "upvotes": 350,
     "author": "carabiner",
-    "comments": 224,
+    "comments": 232,
     "link": "https://news.ycombinator.com/item?id=27113222"
   },
   {
-    "title": "Amazon Sidewalk",
-    "url": "https://www.amazon.com/Amazon-Sidewalk/b?node=21328123011",
-    "upvotes": 369,
-    "author": "encryptluks2",
-    "comments": 368,
-    "link": "https://news.ycombinator.com/item?id=27115809"
-  },
-  {
-    "title": "Game theory as an engine for large-scale data analysis",
-    "url": "https://deepmind.com/blog/article/EigenGame",
-    "upvotes": 103,
-    "author": "srirangr",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27103333"
+    "title": "Voyager 1 hears the hush of interstellar plasma",
+    "url": "https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma",
+    "upvotes": 203,
+    "author": "sohkamyung",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=27113667"
   },
   {
     "title": "The Muse",
     "url": "https://jobs.lever.co/themuse/43458248-0813-4d77-aedc-ce7d1f92a77e?lever-origin=applied&lever-source%5B%5D=YC"
   },
   {
-    "title": "Voyager 1 hears the hush of interstellar plasma",
-    "url": "https://astronomycommunity.nature.com/posts/voyager-1-hears-the-hush-of-interstellar-plasma",
-    "upvotes": 195,
-    "author": "sohkamyung",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=27113667"
+    "title": "Game theory as an engine for large-scale data analysis",
+    "url": "https://deepmind.com/blog/article/EigenGame",
+    "upvotes": 107,
+    "author": "srirangr",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27103333"
   },
   {
     "title": "Swift Actors: A practical example, part 1",
     "url": "https://trycombine.com/posts/swift-actors/",
-    "upvotes": 71,
+    "upvotes": 75,
     "author": "tosh",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27104376"
@@ -86,153 +110,129 @@
   {
     "title": "Exploring the software that flies SpaceX rockets and starships",
     "url": "https://stackoverflow.blog/2021/05/10/dont-push-that-button-exploring-the-software-that-flies-spacex-starships/",
-    "upvotes": 169,
+    "upvotes": 173,
     "author": "dinosaurs",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=27115372"
-  },
-  {
-    "title": "Hydrofoiling",
-    "url": "https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling",
-    "upvotes": 79,
-    "author": "AndrewDucker",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27115356"
   },
   {
     "title": "Show HN: Improve your front end skills by practicing on real design templates",
     "url": "https://www.codewell.cc/?ref=hn",
-    "upvotes": 24,
+    "upvotes": 33,
     "author": "moemin",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27116106"
   },
   {
+    "title": "Hydrofoiling",
+    "url": "https://www.tbray.org/ongoing/When/202x/2021/05/10/Hydrofoiling",
+    "upvotes": 82,
+    "author": "AndrewDucker",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27115356"
+  },
+  {
     "title": "Nonsense Laboratory",
     "url": "https://artsexperiments.withgoogle.com/nonsense-laboratory/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "bdr",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27109830"
-  },
-  {
-    "title": "Updated Concept of “The Surgical Team”",
-    "url": "https://www.codeproject.com/Articles/5279276/The-Surgical-Team-in-XXI-Century",
-    "upvotes": 19,
-    "author": "ptr",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27110494"
-  },
-  {
-    "title": "Boeing 787s must be turned off and on every 51 days",
-    "url": "https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data",
-    "upvotes": 24,
-    "author": "ChicagoBoy11",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27117320"
-  },
-  {
-    "title": "Current RNA vaccines protect against worrying coronavirus variants",
-    "url": "https://www.nature.com/articles/d41586-021-01222-5",
-    "upvotes": 276,
-    "author": "gmays",
-    "comments": 245,
-    "link": "https://news.ycombinator.com/item?id=27112699"
-  },
-  {
-    "title": "Starting the World's First V8 Powered Tesla",
-    "url": "https://www.youtube.com/watch?v=4MOs4W-WYlM",
-    "upvotes": 6,
-    "author": "fortran77",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27118364"
-  },
-  {
-    "title": "An incomparable intellectual who fell through the cracks of history",
-    "url": "https://www.nature.com/articles/d41586-021-01248-9",
-    "upvotes": 93,
-    "author": "sohkamyung",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=27113558"
-  },
-  {
-    "title": "Atlas, a hopefully better engineering IDE",
-    "url": "http://atlasengineering.io",
-    "upvotes": 317,
-    "author": "gamabunta",
-    "comments": 115,
-    "link": "https://news.ycombinator.com/item?id=27112529"
-  },
-  {
-    "title": "Newly identified species of saber-toothed cat in North America during Miocene",
-    "url": "https://www.sciencealert.com/scientists-identify-a-giant-saber-toothed-cat-that-prowled-the-us-5-9-million-years-ago",
-    "upvotes": 37,
-    "author": "BruceEel",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27093838"
-  },
-  {
-    "title": "Unintended Instructions on x86",
-    "url": "https://github.com/preames/public-notes/blob/master/unintended-instructions.rst",
-    "upvotes": 67,
-    "author": "yagizdegirmenci",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27095029"
-  },
-  {
-    "title": "Amygdala hijack",
-    "url": "https://en.wikipedia.org/wiki/Amygdala_hijack",
-    "upvotes": 14,
-    "author": "clockworksoul",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27117464"
   },
   {
     "title": "A Misleading CDC Number",
     "url": "https://www.nytimes.com/2021/05/11/briefing/outdoor-covid-transmission-cdc-number.html",
-    "upvotes": 3,
+    "upvotes": 14,
     "author": "heshiebee",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27118384"
   },
   {
-    "title": "An app that swiftly sends CPR volunteers to heart attack sufferers in Denmark",
-    "url": "https://www.washingtonpost.com/health/an-app-that-swiftly-sends-cpr-volunteers-to-heart-attack-sufferers-has-made-a-big-differences-in-denmark-could-this-be-copied-in-the-us/2021/05/07/97c59cc6-8734-11eb-8a8b-5cf82c3dffe4_story.html",
-    "upvotes": 60,
-    "author": "helloguillecl",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27097743"
+    "title": "Updated Concept of “The Surgical Team”",
+    "url": "https://www.codeproject.com/Articles/5279276/The-Surgical-Team-in-XXI-Century",
+    "upvotes": 24,
+    "author": "ptr",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=27110494"
   },
   {
-    "title": "A game that almost died during Covid and how I made it an app",
-    "url": "https://blog.coltonbrown.com/the-game-that-almost-died-during-covid-and-how-i-made-it-an-app-fa485eed546e",
-    "upvotes": 50,
-    "author": "bdr",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27106161"
+    "title": "Starting the World's First V8 Powered Tesla [video]",
+    "url": "https://www.youtube.com/watch?v=4MOs4W-WYlM",
+    "upvotes": 13,
+    "author": "fortran77",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27118364"
   },
   {
-    "title": "A Prophet at the Barbecue: Larry McMurtry, 1936–2021",
-    "url": "https://www.thenation.com/article/culture/larry-mcmurtry-texas-bookstore/",
-    "upvotes": 39,
-    "author": "samclemens",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27102754"
+    "title": "Workplace Wellbeing Is a Scam?",
+    "url": "https://tribunemag.co.uk/2021/05/workplace-wellbeing-is-a-scam",
+    "upvotes": 144,
+    "author": "powderpig",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=27116024"
   },
   {
-    "title": "Writing books is not really a good idea",
-    "url": "https://ellegriffin.substack.com/p/creator-economy-for-fiction-authors",
-    "upvotes": 525,
-    "author": "ellegriffin",
-    "comments": 557,
-    "link": "https://news.ycombinator.com/item?id=27106055"
+    "title": "Current RNA vaccines protect against worrying coronavirus variants",
+    "url": "https://www.nature.com/articles/d41586-021-01222-5",
+    "upvotes": 283,
+    "author": "gmays",
+    "comments": 254,
+    "link": "https://news.ycombinator.com/item?id=27112699"
   },
   {
-    "title": "Using PostgreSQL as a Data Warehouse",
-    "url": "https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/",
-    "upvotes": 375,
-    "author": "cedricd",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=27109960"
+    "title": "I’m trying to understand hedonic adjustments",
+    "url": "https://www.epsilontheory.com/im-trying-to-understand-hedonic-adjustments/",
+    "upvotes": 59,
+    "author": "erentz",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=27114135"
+  },
+  {
+    "title": "Boeing 787s must be turned off and on every 51 days",
+    "url": "https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data",
+    "upvotes": 31,
+    "author": "ChicagoBoy11",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27117320"
+  },
+  {
+    "title": "Experts suggest AXA’s plan to not pay ransom will set precedent",
+    "url": "https://www.cyberscoop.com/axa-ransomware-cyber-insurance-policies/",
+    "upvotes": 67,
+    "author": "wglb",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=27113468"
+  },
+  {
+    "title": "Atlas, a hopefully better engineering IDE",
+    "url": "http://atlasengineering.io",
+    "upvotes": 323,
+    "author": "gamabunta",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=27112529"
+  },
+  {
+    "title": "Discord's new UX design is harmful to the visually impaired and colorblind",
+    "url": "https://support.discord.com/hc/en-us/community/posts/1500001018522-The-New-UX-Design-is-Harmful-to-the-Visually-Impaired-and-Colorblind",
+    "upvotes": 40,
+    "author": "Fabricio20",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27116918"
+  },
+  {
+    "title": "Amygdala hijack",
+    "url": "https://en.wikipedia.org/wiki/Amygdala_hijack",
+    "upvotes": 23,
+    "author": "clockworksoul",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27117464"
+  },
+  {
+    "title": "Unintended Instructions on x86",
+    "url": "https://github.com/preames/public-notes/blob/master/unintended-instructions.rst",
+    "upvotes": 71,
+    "author": "yagizdegirmenci",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27095029"
   }
 ]
