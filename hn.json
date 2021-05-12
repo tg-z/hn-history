@@ -1,80 +1,80 @@
 [
   {
+    "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network",
+    "url": "https://positive.security/blog/send-my",
+    "upvotes": 79,
+    "author": "kerm1t",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27130355"
+  },
+  {
+    "title": "Google Docs will now use canvas based rendering",
+    "url": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
+    "upvotes": 92,
+    "author": "lewisjoe",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=27129858"
+  },
+  {
     "title": "Erlang/OTP 24 Highlights",
     "url": "http://blog.erlang.org/My-OTP-24-Highlights/",
-    "upvotes": 203,
+    "upvotes": 222,
     "author": "nifoc",
-    "comments": 19,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27128994"
   },
   {
     "title": "Haiku OS ported and running on RISC-V",
     "url": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e",
-    "upvotes": 96,
+    "upvotes": 110,
     "author": "highspeedmobile",
-    "comments": 25,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27129305"
-  },
-  {
-    "title": "Google Docs will move to canvas based rendering instead of DOM",
-    "url": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
-    "upvotes": 55,
-    "author": "lewisjoe",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=27129858"
-  },
-  {
-    "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network",
-    "url": "https://positive.security/blog/send-my",
-    "upvotes": 24,
-    "author": "kerm1t",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27130355"
   },
   {
     "title": "Writing a Programming Book in 2021",
     "url": "https://jmtirado.net/writing-a-programming-book-in-2021/",
-    "upvotes": 38,
+    "upvotes": 45,
     "author": "wilsonfiifi",
-    "comments": 8,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27129518"
   },
   {
     "title": "Show HN: Mmm.page – Drag and drop personal website creator",
     "url": "https://build.mmm.page",
-    "upvotes": 268,
+    "upvotes": 281,
     "author": "xhfloz",
-    "comments": 72,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=27128424"
   },
   {
     "title": "Reverse Engineering an Unknown Microcontroller",
     "url": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
-    "upvotes": 133,
+    "upvotes": 141,
     "author": "dmitrygr",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27128531"
   },
   {
     "title": "My multi-decade quest for rural broadband",
     "url": "https://madned.substack.com/p/thin-pipe-part-i",
-    "upvotes": 78,
+    "upvotes": 86,
     "author": "mad_ned",
-    "comments": 32,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27128869"
   },
   {
     "title": "Using Computer Modern on the web",
     "url": "https://www.checkmyworking.com/cm-web-fonts/",
-    "upvotes": 38,
+    "upvotes": 40,
     "author": "phab",
-    "comments": 33,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27128803"
   },
   {
     "title": "The Failed Globalization of Psychedelic Drugs in the Early Modern World",
     "url": "https://www.cambridge.org/core/journals/historical-journal/article/failed-globalization-of-psychedelic-drugs-in-the-early-modern-world/6ADA9DE0F3FAC7E18591C7A96A53AA58",
-    "upvotes": 55,
+    "upvotes": 56,
     "author": "benbreen",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27118965"
@@ -86,26 +86,50 @@
   {
     "title": "Multics Public Access",
     "url": "https://ban.ai/multics/",
-    "upvotes": 46,
+    "upvotes": 52,
     "author": "nix23",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27128765"
   },
   {
     "title": "Enhancing Photorealism Enhancement",
     "url": "https://intel-isl.github.io/PhotorealismEnhancement/",
-    "upvotes": 382,
+    "upvotes": 390,
     "author": "lnyan",
-    "comments": 103,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27126092"
+  },
+  {
+    "title": "Australia Joins the Race for Supersonic Flight",
+    "url": "https://simpleflying.com/australia-supersonic-flight/",
+    "upvotes": 8,
+    "author": "prostoalex",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27130275"
+  },
+  {
+    "title": "Volvo and Daimler bet on hydrogen truck boom this decade",
+    "url": "https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/",
+    "upvotes": 32,
+    "author": "samizdis",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=27128831"
   },
   {
     "title": "Show HN: Csvbox.io – CSV import button for a web app, SaaS or API",
     "url": "https://csvbox.io",
-    "upvotes": 58,
+    "upvotes": 62,
     "author": "spreadr",
-    "comments": 25,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27128603"
+  },
+  {
+    "title": "Consumer Prices in U.S. Increase by Most Since 2009",
+    "url": "https://www.bloomberg.com/news/articles/2021-05-12/consumer-prices-in-u-s-increase-by-most-since-2009",
+    "upvotes": 58,
+    "author": "simonpure",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27129927"
   },
   {
     "title": "A Feather in Her Cap",
@@ -116,36 +140,36 @@
     "link": "https://news.ycombinator.com/item?id=27114562"
   },
   {
-    "title": "Australia Joins the Race for Supersonic Flight",
-    "url": "https://simpleflying.com/australia-supersonic-flight/",
-    "upvotes": 6,
-    "author": "prostoalex",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27130275"
+    "title": "The Importance of Humility in Software Development",
+    "url": "http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/",
+    "upvotes": 206,
+    "author": "raptorraver",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=27126939"
   },
   {
     "title": "How image search works at Dropbox",
     "url": "https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox",
-    "upvotes": 116,
+    "upvotes": 118,
     "author": "hyzyla",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27127403"
-  },
-  {
-    "title": "Consumer Prices in U.S. Increase by Most Since 2009",
-    "url": "https://www.bloomberg.com/news/articles/2021-05-12/consumer-prices-in-u-s-increase-by-most-since-2009",
-    "upvotes": 46,
-    "author": "simonpure",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27129927"
   },
   {
     "title": "Improved distributed algorithms for fundamental graph problems",
     "url": "https://dspace.mit.edu/handle/1721.1/109000",
-    "upvotes": 23,
+    "upvotes": 24,
     "author": "eternalban",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27128425"
+  },
+  {
+    "title": "Apple Robbed the Mob’s Bank",
+    "url": "https://mobiledevmemo.com/apple-robbed-the-mobs-bank/",
+    "upvotes": 24,
+    "author": "ch_sm",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27130281"
   },
   {
     "title": "Diffusion Models Beat GANs on Image Synthesis",
@@ -158,31 +182,39 @@
   {
     "title": "I could send any text message from Indian government IDs",
     "url": "https://kmskrishna.me/how-i-could-send-any-text-message-from-indian-government-ids-b61c5b8726c9",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "winchester6788",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27127703"
   },
   {
-    "title": "Apple Robbed the Mob’s Bank",
-    "url": "https://mobiledevmemo.com/apple-robbed-the-mobs-bank/",
-    "upvotes": 15,
-    "author": "ch_sm",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27130281"
+    "title": "Why do older individuals have greater control of their feelings?",
+    "url": "https://www.smithsonianmag.com/science-nature/why-do-older-individuals-have-greater-control-their-feelings-180977693/",
+    "upvotes": 45,
+    "author": "pseudolus",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=27117142"
   },
   {
     "title": "Deno 1.1",
     "url": "https://deno.com/blog/v1.10",
-    "upvotes": 222,
+    "upvotes": 227,
     "author": "caspervonb",
-    "comments": 102,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27127316"
+  },
+  {
+    "title": "Ransomware gang threatens release of Washington D.C. police records",
+    "url": "https://apnews.com/article/police-technology-government-and-politics-53e54780aa080decbb78d5b88d4ff44b",
+    "upvotes": 117,
+    "author": "danso",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=27125916"
   },
   {
     "title": "One of the World’s Longest-Running Experiments Sends Up Sprouts",
     "url": "https://www.nytimes.com/2021/05/11/science/seeds-germinated-michigan-state.html",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "elijahparker",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27125847"
@@ -190,49 +222,17 @@
   {
     "title": "Welcome to Visualizing Stanford Encyclopedia of Philosophy",
     "url": "https://www.visualizingsep.com/#",
-    "upvotes": 88,
+    "upvotes": 90,
     "author": "nabla9",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27116599"
-  },
-  {
-    "title": "Open source computer vision API",
-    "url": "https://openvisionapi.com",
-    "upvotes": 47,
-    "author": "pythops",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27127694"
-  },
-  {
-    "title": "Can you IoT an Airwick air freshener?",
-    "url": "https://jcallaghan.com/2020/03/can-you-iot-an-airwick-air-freshener/",
-    "upvotes": 30,
-    "author": "1_player",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27115450"
   },
   {
     "title": "Make a document look like it was written by a Cthulhu-worshipping madman?",
     "url": "https://tex.stackexchange.com/questions/29402/how-do-i-make-my-document-look-like-it-was-written-by-a-cthulhu-worshipping-madm",
-    "upvotes": 28,
+    "upvotes": 37,
     "author": "segfaultbuserr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27129451"
-  },
-  {
-    "title": "An obsessive scholar who rescued Iceland’s ancient literary legacy",
-    "url": "https://lithub.com/the-obsessive-scholar-who-rescued-icelands-ancient-literary-legacy/",
-    "upvotes": 87,
-    "author": "drdee",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27124852"
-  },
-  {
-    "title": "Discovery of new geologic process calls for changes to plate tectonic cycle",
-    "url": "https://phys.org/news/2021-05-discovery-geologic-plate-tectonic.html",
-    "upvotes": 5,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27130396"
   }
 ]
