@@ -2,82 +2,82 @@
   {
     "title": "Show HN: I wrote my own RTS game engine in 70k SLOC of C",
     "url": "https://github.com/eduard-permyakov/permafrost-engine",
-    "upvotes": 356,
+    "upvotes": 401,
     "author": "epermyakov",
-    "comments": 49,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27132334"
   },
   {
     "title": "Google Docs will now use canvas based rendering",
     "url": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
-    "upvotes": 653,
+    "upvotes": 668,
     "author": "lewisjoe",
-    "comments": 674,
+    "comments": 685,
     "link": "https://news.ycombinator.com/item?id=27129858"
   },
   {
     "title": "Benchmarking division and libdivide on Apple M1 and Intel AVX512",
     "url": "https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html",
-    "upvotes": 31,
+    "upvotes": 50,
     "author": "ridiculous_fish",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27133804"
   },
   {
     "title": "Flask 2.0.0 has been released",
     "url": "https://flask.palletsprojects.com/en/2.0.x/changes/#version-2-0-0",
-    "upvotes": 68,
+    "upvotes": 90,
     "author": "avyfain",
-    "comments": 14,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27132999"
   },
   {
     "title": "Houdini – CSS is now extendable with JavaScript",
     "url": "https://developer.mozilla.org/en-US/docs/Web/Houdini",
-    "upvotes": 137,
+    "upvotes": 142,
     "author": "mvolfik",
-    "comments": 79,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27131897"
-  },
-  {
-    "title": "What Is a Nuclear Microreactor?",
-    "url": "https://www.energy.gov/ne/articles/what-nuclear-microreactor",
-    "upvotes": 50,
-    "author": "rbanffy",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27133196"
   },
   {
     "title": "Docusaurus 2 Beta",
     "url": "https://docusaurus.io/blog/2021/05/12/announcing-docusaurus-two-beta",
-    "upvotes": 66,
+    "upvotes": 71,
     "author": "marche101",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27132485"
   },
   {
     "title": "Erlang/OTP 24 Highlights",
     "url": "http://blog.erlang.org/My-OTP-24-Highlights/",
-    "upvotes": 359,
+    "upvotes": 366,
     "author": "nifoc",
-    "comments": 69,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=27128994"
   },
   {
     "title": "Haiku OS ported and running on RISC-V",
     "url": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86?u=return_0e",
-    "upvotes": 224,
+    "upvotes": 228,
     "author": "highspeedmobile",
-    "comments": 54,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27129305"
   },
   {
-    "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network",
-    "url": "https://positive.security/blog/send-my",
-    "upvotes": 344,
-    "author": "kerm1t",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=27130355"
+    "title": "What Is a Nuclear Microreactor?",
+    "url": "https://www.energy.gov/ne/articles/what-nuclear-microreactor",
+    "upvotes": 60,
+    "author": "rbanffy",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27133196"
+  },
+  {
+    "title": "The disappearance of a Soviet skiing party in 1959",
+    "url": "https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved",
+    "upvotes": 22,
+    "author": "lermontov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27106863"
   },
   {
     "title": "Community Phone Company",
@@ -86,7 +86,7 @@
   {
     "title": "GitHub Graduation 2021",
     "url": "https://github.com/education/GitHubGraduation-2021",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "codecalec",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27133320"
@@ -94,15 +94,23 @@
   {
     "title": "Building a Space-Based ISP",
     "url": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/",
-    "upvotes": 78,
+    "upvotes": 82,
     "author": "dinosaurs",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27127468"
   },
   {
+    "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network",
+    "url": "https://positive.security/blog/send-my",
+    "upvotes": 347,
+    "author": "kerm1t",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=27130355"
+  },
+  {
     "title": "Vesuvius ancient eruption rescuer identified at Herculaneum, says expert",
     "url": "https://www.bbc.com/news/world-europe-57055163",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "harscoat",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27131744"
@@ -110,57 +118,49 @@
   {
     "title": "Show HN: Mmm.page – Drag and drop personal website creator",
     "url": "https://build.mmm.page",
-    "upvotes": 440,
+    "upvotes": 444,
     "author": "xhfloz",
-    "comments": 118,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=27128424"
-  },
-  {
-    "title": "The disappearance of a Soviet skiing party in 1959",
-    "url": "https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved",
-    "upvotes": 14,
-    "author": "lermontov",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27106863"
   },
   {
     "title": "The Macaroni in ‘Yankee Doodle’ Is Not What You Think",
     "url": "https://www.atlasobscura.com/articles/the-macaroni-in-yankee-doodle-is-not-what-you-think",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "adolph",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27133530"
   },
   {
     "title": "Reverse Engineering an Unknown Microcontroller",
     "url": "https://dmitry.gr/?r=05.Projects&proj=30.%20Reverse%20Engineering%20an%20Unknown%20Microcontroller",
-    "upvotes": 234,
+    "upvotes": 238,
     "author": "dmitrygr",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27128531"
   },
   {
-    "title": "Writing a Programming Book in 2021",
-    "url": "https://jmtirado.net/writing-a-programming-book-in-2021/",
-    "upvotes": 120,
-    "author": "wilsonfiifi",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27129518"
-  },
-  {
     "title": "Replit Apps",
     "url": "https://blog.replit.com/apps",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "razin",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27132979"
+  },
+  {
+    "title": "Writing a Programming Book in 2021",
+    "url": "https://jmtirado.net/writing-a-programming-book-in-2021/",
+    "upvotes": 124,
+    "author": "wilsonfiifi",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27129518"
   },
   {
     "title": "Volvo and Daimler bet on hydrogen truck boom this decade",
     "url": "https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "samizdis",
-    "comments": 246,
+    "comments": 252,
     "link": "https://news.ycombinator.com/item?id=27128831"
   },
   {
@@ -168,7 +168,7 @@
     "url": "https://csvbox.io",
     "upvotes": 126,
     "author": "spreadr",
-    "comments": 77,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=27128603"
   },
   {
@@ -182,7 +182,7 @@
   {
     "title": "The Failed Globalization of Psychedelic Drugs in the Early Modern World",
     "url": "https://www.cambridge.org/core/journals/historical-journal/article/failed-globalization-of-psychedelic-drugs-in-the-early-modern-world/6ADA9DE0F3FAC7E18591C7A96A53AA58",
-    "upvotes": 91,
+    "upvotes": 94,
     "author": "benbreen",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27118965"
@@ -190,26 +190,18 @@
   {
     "title": "Why do older individuals have greater control of their feelings?",
     "url": "https://www.smithsonianmag.com/science-nature/why-do-older-individuals-have-greater-control-their-feelings-180977693/",
-    "upvotes": 134,
+    "upvotes": 136,
     "author": "pseudolus",
-    "comments": 202,
+    "comments": 204,
     "link": "https://news.ycombinator.com/item?id=27117142"
   },
   {
     "title": "The Importance of Humility in Software Development",
     "url": "http://humbletoolsmith.com/2020/08/10/the-importance-of-humility-in-software-development/",
-    "upvotes": 261,
+    "upvotes": 262,
     "author": "raptorraver",
-    "comments": 191,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=27126939"
-  },
-  {
-    "title": "Semantic Reader: Show Reference Abstracts in Context, and More",
-    "url": "https://www.semanticscholar.org/product/semantic-reader",
-    "upvotes": 15,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27130297"
   },
   {
     "title": "Multics Public Access",
@@ -220,19 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=27128765"
   },
   {
+    "title": "Semantic Reader: Show Reference Abstracts in Context, and More",
+    "url": "https://www.semanticscholar.org/product/semantic-reader",
+    "upvotes": 15,
+    "author": "polm23",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27130297"
+  },
+  {
     "title": "How image search works at Dropbox",
     "url": "https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox",
-    "upvotes": 163,
+    "upvotes": 164,
     "author": "hyzyla",
-    "comments": 88,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27127403"
   },
   {
-    "title": "Consumer Prices in U.S. Increase by Most Since 2009",
-    "url": "https://www.bloomberg.com/news/articles/2021-05-12/consumer-prices-in-u-s-increase-by-most-since-2009",
-    "upvotes": 145,
-    "author": "simonpure",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=27129927"
+    "title": "Galois’ Last Letter",
+    "url": "http://www.neverendingbooks.org/galois-last-letter",
+    "upvotes": 16,
+    "author": "Hooke",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27125203"
   }
 ]
