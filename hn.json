@@ -1,92 +1,124 @@
 [
   {
-    "title": "Midair Collision over Denver",
-    "url": "https://avherald.com/h?article=4e74b6e5",
-    "upvotes": 50,
-    "author": "lunchbreak",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27138643"
+    "title": "Tesla no longer accepts Bitcoin due to climate impact",
+    "url": "https://m.dw.com/en/tesla-changes-stance-on-bitcoin-amid-climate-concerns/a-57515879",
+    "upvotes": 51,
+    "author": "pistoriusp",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27139348"
+  },
+  {
+    "title": "Apple Design Resources",
+    "url": "https://developer.apple.com/design/resources/",
+    "upvotes": 26,
+    "author": "jlturner",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27139170"
   },
   {
     "title": "Big list of HTTP static server one-liners",
     "url": "https://gist.github.com/willurd/5720255",
-    "upvotes": 28,
+    "upvotes": 46,
     "author": "raytracer",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27138978"
+  },
+  {
+    "title": "Midair Collision over Denver",
+    "url": "https://avherald.com/h?article=4e74b6e5",
+    "upvotes": 71,
+    "author": "lunchbreak",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27138643"
+  },
+  {
+    "title": "Google fined 100M by Italian antitrust over Google Play abuse of dominance",
+    "url": "https://www.repubblica.it/economia/2021/05/13/news/antitrust_sanzione_google-300745107",
+    "upvotes": 16,
+    "author": "luke14free",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27139363"
   },
   {
     "title": "Neural implant lets paralyzed person type by imagining writing",
     "url": "https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/",
-    "upvotes": 423,
+    "upvotes": 427,
     "author": "Engineering-MD",
-    "comments": 149,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=27134049"
-  },
-  {
-    "title": "Show HN: I wrote my own RTS game engine in C",
-    "url": "https://github.com/eduard-permyakov/permafrost-engine",
-    "upvotes": 924,
-    "author": "epermyakov",
-    "comments": 187,
-    "link": "https://news.ycombinator.com/item?id=27132334"
   },
   {
     "title": "A brief history of people losing their minds in antarctica",
     "url": "https://www.gq.com/story/insane-in-antarctica-excerpt",
-    "upvotes": 68,
+    "upvotes": 74,
     "author": "jd115",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27127999"
-  },
-  {
-    "title": "Pyodide: Python for the Browser",
-    "url": "https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/",
-    "upvotes": 60,
-    "author": "lukastyrychtr",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27127387"
   },
   {
     "title": "Rainforest",
     "url": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN"
   },
   {
+    "title": "Facebook moderator: ‘Every day was a nightmare’",
+    "url": "https://www.bbc.com/news/technology-57088382",
+    "upvotes": 7,
+    "author": "punnerud",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27139391"
+  },
+  {
     "title": "A pair of memory-allocation improvements in Linux 5.13",
     "url": "https://lwn.net/SubscriberLink/855226/72737207b5650d33/",
-    "upvotes": 69,
+    "upvotes": 74,
     "author": "chmaynard",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27137674"
   },
   {
+    "title": "How to design a sailing ship for the 21st century?",
+    "url": "https://www.lowtechmagazine.com/2021/05/how-to-design-a-sailing-ship-for-the-21st-century.html",
+    "upvotes": 56,
+    "author": "rudenoise",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=27128257"
+  },
+  {
     "title": "Managing Dotfiles with GNU Stow",
     "url": "https://alexpearce.me/2016/02/managing-dotfiles-with-stow/",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "harporoeder",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27137172"
   },
   {
-    "title": "How to design a sailing ship for the 21st century?",
-    "url": "https://www.lowtechmagazine.com/2021/05/how-to-design-a-sailing-ship-for-the-21st-century.html",
-    "upvotes": 50,
-    "author": "rudenoise",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27128257"
+    "title": "Pyodide: Python for the Browser",
+    "url": "https://lwn.net/SubscriberLink/855875/25b1611bb7e4c9a4/",
+    "upvotes": 65,
+    "author": "lukastyrychtr",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27127387"
   },
   {
     "title": "Benchmarking division and libdivide on Apple M1 and Intel AVX512",
     "url": "https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html",
-    "upvotes": 231,
+    "upvotes": 233,
     "author": "ridiculous_fish",
-    "comments": 113,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=27133804"
+  },
+  {
+    "title": "Giant sea lizard fossil shows diversity of life before asteroid hit",
+    "url": "https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/",
+    "upvotes": 15,
+    "author": "hhs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27138481"
   },
   {
     "title": "Kobra – visual programming language for machine learning",
     "url": "https://kobra.dev/",
-    "upvotes": 177,
+    "upvotes": 180,
     "author": "amrrs",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27135573"
@@ -94,47 +126,55 @@
   {
     "title": "NumWorks – An open source Graphing Calculator",
     "url": "https://www.numworks.com/",
-    "upvotes": 66,
+    "upvotes": 73,
     "author": "ivolimmen",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27126926"
   },
   {
-    "title": "Giant sea lizard fossil shows diversity of life before asteroid hit",
-    "url": "https://www.bath.ac.uk/announcements/giant-sea-lizard-fossil-shows-diversity-of-life-before-asteroid-hit/",
+    "title": "Random Walks",
+    "url": "http://pi.math.cornell.edu/~mec/Winter2009/Thompson/randomwalks.html",
     "upvotes": 13,
-    "author": "hhs",
+    "author": "lawrenceyan",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27138481"
-  },
-  {
-    "title": "Apple Design Resources",
-    "url": "https://developer.apple.com/design/resources/",
-    "upvotes": 5,
-    "author": "jlturner",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27139170"
+    "link": "https://news.ycombinator.com/item?id=27126808"
   },
   {
     "title": "WHO List of Essential Medicines",
     "url": "https://list.essentialmeds.org/",
-    "upvotes": 57,
+    "upvotes": 60,
     "author": "breck",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27136775"
+  },
+  {
+    "title": "Cerne Giant in Dorset dates from Anglo-Saxon times, analysis suggests",
+    "url": "https://www.theguardian.com/science/2021/may/12/cerne-giant-in-dorset-dates-from-anglo-saxon-times-analysis-suggests",
+    "upvotes": 5,
+    "author": "samizdis",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27127854"
+  },
+  {
+    "title": "Show HN: I wrote my own RTS game engine in C",
+    "url": "https://github.com/eduard-permyakov/permafrost-engine",
+    "upvotes": 930,
+    "author": "epermyakov",
+    "comments": 193,
+    "link": "https://news.ycombinator.com/item?id=27132334"
   },
   {
     "title": "Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue",
     "url": "https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
-    "upvotes": 366,
+    "upvotes": 378,
     "author": "kareemm",
-    "comments": 216,
+    "comments": 228,
     "link": "https://news.ycombinator.com/item?id=27136002"
   },
   {
     "title": "CP/M for OS X",
     "url": "https://github.com/TomHarte/CP-M-for-OS-X",
-    "upvotes": 113,
+    "upvotes": 115,
     "author": "bilegeek",
     "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27135421"
@@ -142,23 +182,15 @@
   {
     "title": "Fuck the Bread. The Bread Is Over",
     "url": "https://www.theparisreview.org/blog/2020/05/07/fuck-the-bread-the-bread-is-over/",
-    "upvotes": 245,
+    "upvotes": 260,
     "author": "mitchbob",
-    "comments": 91,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=27137866"
-  },
-  {
-    "title": "Random Walks",
-    "url": "http://pi.math.cornell.edu/~mec/Winter2009/Thompson/randomwalks.html",
-    "upvotes": 10,
-    "author": "lawrenceyan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27126808"
   },
   {
     "title": "Google Docs will now use canvas based rendering",
     "url": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
-    "upvotes": 1022,
+    "upvotes": 1026,
     "author": "lewisjoe",
     "comments": 868,
     "link": "https://news.ycombinator.com/item?id=27129858"
@@ -166,73 +198,41 @@
   {
     "title": "Open source mechanical Swiss watch movement",
     "url": "https://openmovement.org/",
-    "upvotes": 91,
+    "upvotes": 92,
     "author": "habi",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27127392"
   },
   {
-    "title": "Cerne Giant in Dorset dates from Anglo-Saxon times, analysis suggests",
-    "url": "https://www.theguardian.com/science/2021/may/12/cerne-giant-in-dorset-dates-from-anglo-saxon-times-analysis-suggests",
-    "upvotes": 3,
-    "author": "samizdis",
+    "title": "The resting places of giants",
+    "url": "https://romangreece.wordpress.com/2014/12/23/the-resting-places-of-giants/",
+    "upvotes": 8,
+    "author": "hedin_hiervard",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27127854"
-  },
-  {
-    "title": "JWT should not be your default for sessions",
-    "url": "https://evertpot.com/jwt-is-a-bad-default/",
-    "upvotes": 238,
-    "author": "mfbx9da4",
-    "comments": 170,
-    "link": "https://news.ycombinator.com/item?id=27136539"
+    "link": "https://news.ycombinator.com/item?id=27127813"
   },
   {
     "title": "Air Pollution Linked to Increased Mental Health Outpatient Visits",
     "url": "https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/",
-    "upvotes": 99,
+    "upvotes": 102,
     "author": "hamilyon2",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27134429"
-  },
-  {
-    "title": "Instagram, Twitter blame glitches for deleting Palestinian posts",
-    "url": "https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624",
-    "upvotes": 361,
-    "author": "tareqak",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=27134995"
-  },
-  {
-    "title": "One person's war on junk mail",
-    "url": "http://www.langston.com/Fun_People/1996/1996AEK.html",
-    "upvotes": 75,
-    "author": "_wldu",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=27134969"
-  },
-  {
-    "title": "Reverse-Engineering a CRC Algorithm",
-    "url": "https://www.cosc.canterbury.ac.nz/greg.ewing/essays/CRC-Reverse-Engineering.html",
-    "upvotes": 20,
-    "author": "_Microft",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27129437"
-  },
-  {
-    "title": "Hello, OpenPGP CA",
-    "url": "https://sequoia-pgp.org/blog/2021/05/12/202105-hello-openpgp-ca/",
-    "upvotes": 62,
-    "author": "nwalfield",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27129349"
   },
   {
     "title": "Study finds alarming levels of ‘forever chemicals’ in US mothers’ breast milk",
     "url": "https://www.theguardian.com/environment/2021/may/13/pfas-forever-chemicals-breast-milk-us-study",
-    "upvotes": 5,
+    "upvotes": 17,
     "author": "asymmetric",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27139371"
+  },
+  {
+    "title": "Instagram, Twitter blame glitches for deleting Palestinian posts",
+    "url": "https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624",
+    "upvotes": 363,
+    "author": "tareqak",
+    "comments": 154,
+    "link": "https://news.ycombinator.com/item?id=27134995"
   }
 ]
