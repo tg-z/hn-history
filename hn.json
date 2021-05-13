@@ -1,238 +1,238 @@
 [
   {
-    "title": "JWT should not be your default for sessions",
-    "url": "https://evertpot.com/jwt-is-a-bad-default/",
-    "upvotes": 100,
-    "author": "mfbx9da4",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=27136539"
-  },
-  {
     "title": "Neural implant lets paralyzed person type by imagining writing",
     "url": "https://arstechnica.com/science/2021/05/neural-implant-lets-paralyzed-person-type-by-imagining-writing/",
-    "upvotes": 283,
+    "upvotes": 300,
     "author": "Engineering-MD",
-    "comments": 116,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=27134049"
-  },
-  {
-    "title": "Managing Dotfiles with GNU Stow",
-    "url": "https://alexpearce.me/2016/02/managing-dotfiles-with-stow/",
-    "upvotes": 28,
-    "author": "harporoeder",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27137172"
   },
   {
     "title": "Show HN: I wrote my own RTS game engine in C",
     "url": "https://github.com/eduard-permyakov/permafrost-engine",
-    "upvotes": 774,
+    "upvotes": 791,
     "author": "epermyakov",
-    "comments": 142,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=27132334"
+  },
+  {
+    "title": "Managing Dotfiles with GNU Stow",
+    "url": "https://alexpearce.me/2016/02/managing-dotfiles-with-stow/",
+    "upvotes": 44,
+    "author": "harporoeder",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27137172"
   },
   {
     "title": "Google Docs will now use canvas based rendering",
     "url": "https://workspaceupdates.googleblog.com/2021/05/Google-Docs-Canvas-Based-Rendering-Update.html",
-    "upvotes": 917,
+    "upvotes": 938,
     "author": "lewisjoe",
-    "comments": 823,
+    "comments": 829,
     "link": "https://news.ycombinator.com/item?id=27129858"
+  },
+  {
+    "title": "JWT should not be your default for sessions",
+    "url": "https://evertpot.com/jwt-is-a-bad-default/",
+    "upvotes": 139,
+    "author": "mfbx9da4",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=27136539"
   },
   {
     "title": "Kobra – visual programming language for machine learning",
     "url": "https://kobra.dev/",
-    "upvotes": 98,
+    "upvotes": 112,
     "author": "amrrs",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27135573"
   },
   {
     "title": "Benchmarking division and libdivide on Apple M1 and Intel AVX512",
     "url": "https://ridiculousfish.com/blog/posts/benchmarking-libdivide-m1-avx512.html",
-    "upvotes": 188,
+    "upvotes": 193,
     "author": "ridiculous_fish",
-    "comments": 80,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=27133804"
   },
   {
     "title": "CP/M for OS X",
     "url": "https://github.com/TomHarte/CP-M-for-OS-X",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "bilegeek",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27135421"
   },
   {
     "title": "CSS Houdini",
     "url": "https://developer.mozilla.org/en-US/docs/Web/Houdini",
-    "upvotes": 235,
+    "upvotes": 239,
     "author": "mvolfik",
     "comments": 110,
     "link": "https://news.ycombinator.com/item?id=27131897"
   },
   {
-    "title": "Instagram, Twitter blame glitches for deleting Palestinian posts",
-    "url": "https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624",
-    "upvotes": 267,
-    "author": "tareqak",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=27134995"
+    "title": "Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue",
+    "url": "https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
+    "upvotes": 191,
+    "author": "kareemm",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=27136002"
+  },
+  {
+    "title": "Avoid Git LFS if possible",
+    "url": "https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/",
+    "upvotes": 98,
+    "author": "reimbar",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=27134972"
   },
   {
     "title": "Erlang/OTP 24 highlights",
     "url": "http://blog.erlang.org/My-OTP-24-Highlights/",
-    "upvotes": 415,
+    "upvotes": 420,
     "author": "nifoc",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27128994"
   },
   {
-    "title": "Uber used 50 Dutch shell companies to dodge taxes on $6B in revenue",
-    "url": "https://www.businessinsider.com.au/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
-    "upvotes": 142,
-    "author": "kareemm",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=27136002"
+    "title": "Instagram, Twitter blame glitches for deleting Palestinian posts",
+    "url": "https://www.reuters.com/article/israel-palestinians-socialmedia-idUSL8N2MU624",
+    "upvotes": 289,
+    "author": "tareqak",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=27134995"
   },
   {
     "title": "Open source mechanical Swiss watch movement",
     "url": "https://openmovement.org/",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "habi",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27127392"
   },
   {
     "title": "Air Pollution Linked to Increased Mental Health Outpatient Visits",
     "url": "https://medicine.yale.edu/news-article/air-pollution-linked-to-increased-mental-health-outpatient-visits/",
-    "upvotes": 44,
+    "upvotes": 51,
     "author": "hamilyon2",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27134429"
   },
   {
-    "title": "Haiku OS ported and running on RISC-V",
-    "url": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86",
-    "upvotes": 278,
-    "author": "highspeedmobile",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=27129305"
+    "title": "WHO List of Essential Medicines",
+    "url": "https://list.essentialmeds.org/",
+    "upvotes": 11,
+    "author": "breck",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27136775"
   },
   {
     "title": "Relationship Hero is hiring coaches – Full Time Remote",
     "url": "https://relationshiphero.com/careers?role=coach"
   },
   {
-    "title": "An analysis of Bitcoin's throughput bottlenecks",
-    "url": "https://github.com/fresheneesz/bitcoinThroughputAnalysis",
-    "upvotes": 79,
-    "author": "billytetrud",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=27127644"
-  },
-  {
-    "title": "Avoid Git LFS if possible",
-    "url": "https://gregoryszorc.com/blog/2021/05/12/why-you-shouldn%27t-use-git-lfs/",
-    "upvotes": 87,
-    "author": "reimbar",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=27134972"
-  },
-  {
-    "title": "WHO List of Essential Medicines",
-    "url": "https://list.essentialmeds.org/",
-    "upvotes": 5,
-    "author": "breck",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27136775"
+    "title": "Haiku OS ported and running on RISC-V",
+    "url": "https://discuss.haiku-os.org/t/my-haiku-risc-v-port-progress/10663/86",
+    "upvotes": 281,
+    "author": "highspeedmobile",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27129305"
   },
   {
     "title": "Hello, OpenPGP CA",
     "url": "https://sequoia-pgp.org/blog/2021/05/12/202105-hello-openpgp-ca/",
-    "upvotes": 17,
+    "upvotes": 28,
     "author": "nwalfield",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27129349"
   },
   {
-    "title": "The disappearance of a Soviet skiing party in 1959",
-    "url": "https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved",
-    "upvotes": 88,
-    "author": "lermontov",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27106863"
-  },
-  {
-    "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network",
-    "url": "https://positive.security/blog/send-my",
-    "upvotes": 437,
-    "author": "kerm1t",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=27130355"
+    "title": "An analysis of Bitcoin's throughput bottlenecks",
+    "url": "https://github.com/fresheneesz/bitcoinThroughputAnalysis",
+    "upvotes": 80,
+    "author": "billytetrud",
+    "comments": 157,
+    "link": "https://news.ycombinator.com/item?id=27127644"
   },
   {
     "title": "Network Realism: William Gibson and new forms of fiction",
     "url": "http://booktwo.org/notebook/network-realism/",
-    "upvotes": 10,
+    "upvotes": 16,
     "author": "prismatic",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27126215"
   },
   {
+    "title": "One person's war on junk mail",
+    "url": "http://www.langston.com/Fun_People/1996/1996AEK.html",
+    "upvotes": 50,
+    "author": "_wldu",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27134969"
+  },
+  {
+    "title": "The disappearance of a Soviet skiing party in 1959",
+    "url": "https://www.newyorker.com/magazine/2021/05/17/has-an-old-soviet-mystery-at-last-been-solved",
+    "upvotes": 92,
+    "author": "lermontov",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27106863"
+  },
+  {
+    "title": "Emulating AirTags to upload arbitrary data via Apple's FindMy network",
+    "url": "https://positive.security/blog/send-my",
+    "upvotes": 440,
+    "author": "kerm1t",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=27130355"
+  },
+  {
+    "title": "Reverse-Engineering a CRC Algorithm",
+    "url": "https://www.cosc.canterbury.ac.nz/greg.ewing/essays/CRC-Reverse-Engineering.html",
+    "upvotes": 3,
+    "author": "_Microft",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27129437"
+  },
+  {
     "title": "Building a Space-Based ISP",
     "url": "https://stackoverflow.blog/2021/05/11/building-a-space-based-isp/",
-    "upvotes": 116,
+    "upvotes": 118,
     "author": "dinosaurs",
-    "comments": 48,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27127468"
   },
   {
     "title": "Vesuvius ancient eruption rescuer identified at Herculaneum, says expert",
     "url": "https://www.bbc.com/news/world-europe-57055163",
-    "upvotes": 72,
+    "upvotes": 74,
     "author": "harscoat",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27131744"
   },
   {
-    "title": "My multi-decade quest for rural broadband",
-    "url": "https://madned.substack.com/p/thin-pipe-part-i",
-    "upvotes": 217,
-    "author": "mad_ned",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=27128869"
-  },
-  {
     "title": "Executive Order on Improving the Nation’s Cybersecurity",
     "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
-    "upvotes": 29,
+    "upvotes": 38,
     "author": "encryptluks2",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27136746"
   },
   {
     "title": "A Way to Manage Dotfiles",
     "url": "https://github.com/kalkayan/dotfiles",
-    "upvotes": 49,
+    "upvotes": 52,
     "author": "bminusl",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27134249"
   },
   {
     "title": "Writing a Programming Book in 2021",
     "url": "https://jmtirado.net/writing-a-programming-book-in-2021/",
-    "upvotes": 159,
+    "upvotes": 163,
     "author": "wilsonfiifi",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27129518"
-  },
-  {
-    "title": "Volvo and Daimler bet on hydrogen truck boom this decade",
-    "url": "https://arstechnica.com/cars/2021/05/volvo-and-daimler-bet-on-hydrogen-truck-boom-this-decade/",
-    "upvotes": 128,
-    "author": "samizdis",
-    "comments": 308,
-    "link": "https://news.ycombinator.com/item?id=27128831"
   }
 ]
