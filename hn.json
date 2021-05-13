@@ -1,84 +1,108 @@
 [
   {
+    "title": "BackBlaze: Privacy Update: Third-Party Tracking",
+    "url": "https://www.backblaze.com/blog/privacy-update-third-party-tracking/?date=May13",
+    "upvotes": 30,
+    "author": "busymom0",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27148593"
+  },
+  {
     "title": "Vulnerability allows cross-browser tracking in Chrome, Firefox, Safari, and Tor",
     "url": "https://fingerprintjs.com/blog/external-protocol-flooding/",
-    "upvotes": 187,
+    "upvotes": 223,
     "author": "danpinto",
-    "comments": 102,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=27145911"
   },
   {
     "title": "Notion API – public beta",
     "url": "https://developers.notion.so",
-    "upvotes": 350,
+    "upvotes": 365,
     "author": "cristinacordova",
-    "comments": 171,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=27144566"
   },
   {
     "title": "Fly’s Prometheus Metrics",
     "url": "https://fly.io/blog/measuring-fly/",
-    "upvotes": 60,
+    "upvotes": 73,
     "author": "elithrar",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27147482"
   },
   {
     "title": "Dataflow, a self-hosted Observable notebook editor",
     "url": "https://observablehq.com/@asg017/introducing-dataflow",
-    "upvotes": 123,
+    "upvotes": 131,
     "author": "tosh",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27145515"
-  },
-  {
-    "title": "A new era of personalised medicine: or how I got myself sequenced for free",
-    "url": "https://souradip.mookerj.ee/blog/free-sequencing",
-    "upvotes": 52,
-    "author": "souradip",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27146975"
   },
   {
     "title": "Colonial Pipeline Paid Hackers Nearly $5M in Ransom",
     "url": "https://www.bloomberg.com/news/articles/2021-05-13/colonial-pipeline-paid-hackers-nearly-5-million-in-ransom",
-    "upvotes": 234,
+    "upvotes": 254,
     "author": "longdefeat",
-    "comments": 256,
+    "comments": 277,
     "link": "https://news.ycombinator.com/item?id=27142407"
+  },
+  {
+    "title": "A new era of personalised medicine: or how I got myself sequenced for free",
+    "url": "https://souradip.mookerj.ee/blog/free-sequencing",
+    "upvotes": 59,
+    "author": "souradip",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27146975"
+  },
+  {
+    "title": "Bill C-10 would require YouTube, other platforms to recommend Canadian content",
+    "url": "https://www.theglobeandmail.com/politics/article-amendments-to-bill-c-10-would-require-youtube-other-platforms-to/",
+    "upvotes": 24,
+    "author": "throwawaysea",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=27147963"
   },
   {
     "title": "Enigma: GPT-2 trained on 10K Nature Papers: Can you spot the difference?",
     "url": "https://stefanzukin.com/enigma/",
-    "upvotes": 120,
+    "upvotes": 129,
     "author": "MrUssek",
-    "comments": 70,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=27144764"
   },
   {
-    "title": "Pentagon surveilling Americans without a warrant, Senator Wyden reveals",
-    "url": "https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing",
-    "upvotes": 402,
-    "author": "jbegley",
-    "comments": 150,
-    "link": "https://news.ycombinator.com/item?id=27145263"
-  },
-  {
-    "title": "What I learnt roasting 200 landing pages",
-    "url": "https://blog.roastmylandingpage.com/landing-page-roasts/",
-    "upvotes": 559,
-    "author": "deadcoder0904",
-    "comments": 206,
-    "link": "https://news.ycombinator.com/item?id=27140440"
+    "title": "By eating them, hyenas gathered 9 Neanderthal skeletons in one cave",
+    "url": "https://arstechnica.com/science/2021/05/archaeologists-found-9-neanderthal-skeletons-in-an-italian-cave/",
+    "upvotes": 27,
+    "author": "gmays",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27141556"
   },
   {
     "title": "Substack is hiring engineers to build a better business model for writing",
     "url": "https://substack.com/jobs"
   },
   {
+    "title": "Pentagon surveilling Americans without a warrant, Senator Wyden reveals",
+    "url": "https://www.vice.com/en/article/88ng8x/pentagon-americans-surveillance-without-warrant-internet-browsing",
+    "upvotes": 427,
+    "author": "jbegley",
+    "comments": 159,
+    "link": "https://news.ycombinator.com/item?id=27145263"
+  },
+  {
+    "title": "What I learnt roasting 200 landing pages",
+    "url": "https://blog.roastmylandingpage.com/landing-page-roasts/",
+    "upvotes": 569,
+    "author": "deadcoder0904",
+    "comments": 211,
+    "link": "https://news.ycombinator.com/item?id=27140440"
+  },
+  {
     "title": "Launch HN: Ditto (YC W20) – Keep product text in sync from design to production",
     "url": "item?id=27142930",
-    "upvotes": 169,
+    "upvotes": 173,
     "author": "jessouyang",
     "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27142930"
@@ -86,63 +110,47 @@
   {
     "title": "Vue 3 drops IE11 support plan",
     "url": "https://github.com/vuejs/rfcs/blob/master/active-rfcs/0038-vue3-ie11-support.md",
-    "upvotes": 334,
+    "upvotes": 340,
     "author": "simon04",
-    "comments": 257,
+    "comments": 267,
     "link": "https://news.ycombinator.com/item?id=27140836"
   },
   {
-    "title": "By eating them, hyenas gathered 9 Neanderthal skeletons in one cave",
-    "url": "https://arstechnica.com/science/2021/05/archaeologists-found-9-neanderthal-skeletons-in-an-italian-cave/",
-    "upvotes": 17,
-    "author": "gmays",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27141556"
+    "title": "How SpaceX lands Starship",
+    "url": "https://thomas-godden.medium.com/how-spacex-lands-starship-sort-of-ee96cdde650b",
+    "upvotes": 7,
+    "author": "zeristor",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27148296"
   },
   {
     "title": "\"Memory athletes\" and the techniques they use [audio]",
     "url": "https://www.bbc.co.uk/programmes/m000tmm1",
-    "upvotes": 48,
+    "upvotes": 52,
     "author": "open-source-ux",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27142663"
   },
   {
     "title": "A Recap of the Mars Terraforming Debate",
     "url": "https://nautil.us/issue/100/outsiders/should-we-terraform-mars-lets-recap",
-    "upvotes": 54,
+    "upvotes": 61,
     "author": "rbanffy",
-    "comments": 187,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=27145504"
   },
   {
     "title": "$365B wiped off cryptocurrency market after Tesla stops accepting Bitcoin",
     "url": "https://www.cnbc.com/2021/05/13/bitcoin-btc-price-falls-after-tesla-stops-car-purchases-with-crypto.html",
-    "upvotes": 248,
+    "upvotes": 268,
     "author": "awb",
-    "comments": 347,
+    "comments": 373,
     "link": "https://news.ycombinator.com/item?id=27145230"
-  },
-  {
-    "title": "Bill C-10 would require YouTube, other platforms to recommend Canadian content",
-    "url": "https://www.theglobeandmail.com/politics/article-amendments-to-bill-c-10-would-require-youtube-other-platforms-to/",
-    "upvotes": 6,
-    "author": "throwawaysea",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27147963"
-  },
-  {
-    "title": "The Art of Making Debts: Accounting for an Obsession in 19th-Century France",
-    "url": "https://publicdomainreview.org/essay/the-art-of-making-debts",
-    "upvotes": 17,
-    "author": "apollinaire",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27138824"
   },
   {
     "title": "Lets Lisp like it's 1959",
     "url": "https://www.youtube.com/watch?v=hGY3uBHVVr4",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "tosh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27141524"
@@ -150,89 +158,81 @@
   {
     "title": "Show HN: I made a platform to publish my Google Docs files as blogs",
     "url": "https://hexo.press",
-    "upvotes": 123,
+    "upvotes": 125,
     "author": "lewisjoe",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27142146"
+  },
+  {
+    "title": "The Art of Making Debts: Accounting for an Obsession in 19th-Century France",
+    "url": "https://publicdomainreview.org/essay/the-art-of-making-debts",
+    "upvotes": 19,
+    "author": "apollinaire",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27138824"
   },
   {
     "title": "Golden Handcuffs",
     "url": "https://avc.com/2021/05/golden-handcuffs-2/",
-    "upvotes": 73,
+    "upvotes": 78,
     "author": "bitsweet",
-    "comments": 130,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=27143898"
   },
   {
     "title": "Show HN: Learn Python the Right Way – free introduction to Python book",
     "url": "https://learnpythontherightway.com",
-    "upvotes": 169,
+    "upvotes": 175,
     "author": "sixhobbits",
-    "comments": 51,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27141644"
-  },
-  {
-    "title": "Three things to never build yourself: auth, notifications, payments",
-    "url": "https://www.courier.com/blog/the-three-things-to-never-build-in-your-app",
-    "upvotes": 130,
-    "author": "troygoode",
-    "comments": 138,
-    "link": "https://news.ycombinator.com/item?id=27144930"
-  },
-  {
-    "title": "The Lisperati1000 is a cyberdeck terminal dedicated to Lisp programming",
-    "url": "https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff",
-    "upvotes": 148,
-    "author": "benwen",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=27139356"
   },
   {
     "title": "Getting High-Speed Rail Wrong",
     "url": "https://pedestrianobservations.com/2021/05/12/randal-otoole-gets-high-speed-rail-wrong/",
-    "upvotes": 95,
+    "upvotes": 99,
     "author": "luu",
-    "comments": 144,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=27133954"
+  },
+  {
+    "title": "The Lisperati1000 is a cyberdeck terminal dedicated to Lisp programming",
+    "url": "https://www.hackster.io/news/the-lisperati1000-is-a-cyberdeck-terminal-dedicated-to-lisp-programming-bb564f2ffcff",
+    "upvotes": 150,
+    "author": "benwen",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27139356"
+  },
+  {
+    "title": "Three things to never build yourself: auth, notifications, payments",
+    "url": "https://www.courier.com/blog/the-three-things-to-never-build-in-your-app",
+    "upvotes": 143,
+    "author": "troygoode",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=27144930"
   },
   {
     "title": "Faster CPython Ideas – Issue Tracker for Faster CPython Project",
     "url": "https://github.com/faster-cpython/ideas",
-    "upvotes": 202,
+    "upvotes": 206,
     "author": "patrick91",
-    "comments": 68,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27140431"
-  },
-  {
-    "title": "Neural Rendering: How Low Can You Go in Terms of Input?",
-    "url": "https://www.unite.ai/neural-rendering-low-resolution-input-intel/",
-    "upvotes": 53,
-    "author": "Hard_Space",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27140515"
   },
   {
     "title": "Security researcher found Wi-Fi vulnerabilities that existed since the beginning",
     "url": "https://www.theverge.com/2021/5/12/22433134/fragattacks-wi-fi-vulnerabilities-update-security",
-    "upvotes": 181,
+    "upvotes": 183,
     "author": "teleforce",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27140251"
   },
   {
-    "title": "The Pin-Pen Merger",
-    "url": "https://www.acelinguist.com/2020/01/the-pin-pen-merger.html",
-    "upvotes": 46,
-    "author": "polm23",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27138702"
-  },
-  {
-    "title": "Things I wish someone told me about getting a promotion",
-    "url": "https://radhika.dev/mid/",
-    "upvotes": 90,
-    "author": "_ttg",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=27140505"
+    "title": "Neural Rendering: How Low Can You Go in Terms of Input?",
+    "url": "https://www.unite.ai/neural-rendering-low-resolution-input-intel/",
+    "upvotes": 55,
+    "author": "Hard_Space",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27140515"
   }
 ]
