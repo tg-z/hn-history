@@ -1,24 +1,24 @@
 [
   {
-    "title": "Modern Javascript: Everything you missed over the last 10 years",
-    "url": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
-    "upvotes": 852,
-    "author": "EntICOnc",
-    "comments": 470,
-    "link": "https://news.ycombinator.com/item?id=27165954"
-  },
-  {
     "title": "The chip shortage could lead to an era of hardware innovation",
     "url": "https://staceyoniot.com/the-chip-shortage-could-lead-to-an-era-of-hardware-innovation/",
-    "upvotes": 12,
+    "upvotes": 37,
     "author": "cofree",
-    "comments": null,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27171214"
+  },
+  {
+    "title": "Modern Javascript: Everything you missed over the last 10 years",
+    "url": "https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years",
+    "upvotes": 869,
+    "author": "EntICOnc",
+    "comments": 481,
+    "link": "https://news.ycombinator.com/item?id=27165954"
   },
   {
     "title": "Show HN: ThingsTwin – 3D House Plan Based UI for Smart Home",
     "url": "http://thingstwin.com/",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "Can0nC",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27170975"
@@ -26,23 +26,23 @@
   {
     "title": "I have a lot to say about Signal’s Cellebrite hack",
     "url": "https://cyberlaw.stanford.edu/blog/2021/05/i-have-lot-say-about-signal%E2%80%99s-cellebrite-hack",
-    "upvotes": 108,
+    "upvotes": 119,
     "author": "curmudgeon22",
-    "comments": 95,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=27170658"
   },
   {
     "title": "The True Size of Africa",
     "url": "http://kai.sub.blue/en/africa.html",
-    "upvotes": 237,
+    "upvotes": 241,
     "author": "metahost",
-    "comments": 151,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=27167604"
   },
   {
     "title": "Bibliogram – Open-source front-end for Instagram",
     "url": "https://bibliogram.art",
-    "upvotes": 159,
+    "upvotes": 166,
     "author": "commoner",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27167729"
@@ -50,42 +50,82 @@
   {
     "title": "Peak non-creepy dating pool",
     "url": "https://flowingdata.com/projects/2018/dating-pool/",
-    "upvotes": 55,
+    "upvotes": 68,
     "author": "bribri",
-    "comments": 12,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27170789"
   },
   {
     "title": "Commodore’s Assemblers: Part 1: MOS Cross-Assembler",
     "url": "https://www.pagetable.com/?p=1520",
-    "upvotes": 62,
+    "upvotes": 63,
     "author": "matt_d",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27168035"
-  },
-  {
-    "title": "Absolute wealth, relative wealth, taxes, and staying rich",
-    "url": "https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/",
-    "upvotes": 38,
-    "author": "colinprince",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27171001"
   },
   {
     "title": "The Strangeness of Our Animal Bonds",
     "url": "https://www.newyorker.com/science/elements/the-strangeness-of-our-animal-bonds",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "Vigier",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27158521"
   },
   {
+    "title": "Absolute wealth, relative wealth, taxes, and staying rich",
+    "url": "https://summation.net/2021/05/07/absolute-wealth-relative-wealth-taxes-and-staying-rich/",
+    "upvotes": 49,
+    "author": "colinprince",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27171001"
+  },
+  {
     "title": "Parsix: Parse Don't Validate",
     "url": "https://github.com/parsix/parsix",
-    "upvotes": 138,
+    "upvotes": 139,
     "author": "Iazel",
     "comments": 72,
     "link": "https://news.ycombinator.com/item?id=27166162"
+  },
+  {
+    "title": "Making Your Own Tools",
+    "url": "https://futureofcoding.org/episodes/044",
+    "upvotes": 79,
+    "author": "axiomdata316",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27167250"
+  },
+  {
+    "title": "Developing MLB’s Automated Ball/Strike System",
+    "url": "https://technology.mlblogs.com/developing-mlbs-automated-ball-strike-system-abs-d4f499deff31",
+    "upvotes": 67,
+    "author": "ingve",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27163468"
+  },
+  {
+    "title": "TIL: Tcl-inspired command language on top of D",
+    "url": "https://til-lang.github.io/til/",
+    "upvotes": 86,
+    "author": "blacksqr",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27167762"
+  },
+  {
+    "title": "MicroFPGA – A coming revolution in small electronics",
+    "url": "https://www.youtube.com/watch?v=ME_e06ApxJA",
+    "upvotes": 64,
+    "author": "peter_d_sherman",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27162358"
+  },
+  {
+    "title": "Offline-First PWA for Plotly Visualization of CSV via SQLite",
+    "url": "https://github.com/lana-k/sqliteviz",
+    "upvotes": 212,
+    "author": "lana-k",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27165192"
   },
   {
     "title": "Caproni Ca.60",
@@ -96,68 +136,20 @@
     "link": "https://news.ycombinator.com/item?id=27163260"
   },
   {
-    "title": "MicroFPGA – A coming revolution in small electronics",
-    "url": "https://www.youtube.com/watch?v=ME_e06ApxJA",
-    "upvotes": 63,
-    "author": "peter_d_sherman",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27162358"
-  },
-  {
-    "title": "Developing MLB’s Automated Ball/Strike System",
-    "url": "https://technology.mlblogs.com/developing-mlbs-automated-ball-strike-system-abs-d4f499deff31",
-    "upvotes": 64,
-    "author": "ingve",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27163468"
-  },
-  {
-    "title": "Making Your Own Tools",
-    "url": "https://futureofcoding.org/episodes/044",
-    "upvotes": 75,
-    "author": "axiomdata316",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27167250"
-  },
-  {
-    "title": "TIL: Tcl-inspired command language on top of D",
-    "url": "https://til-lang.github.io/til/",
-    "upvotes": 83,
-    "author": "blacksqr",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27167762"
-  },
-  {
-    "title": "Extracting Data from Tracking Devices",
-    "url": "https://jeffhuang.com/extracting_data_from_tracking_devices/",
-    "upvotes": 4,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27170992"
-  },
-  {
-    "title": "Offline-First PWA for Plotly Visualization of CSV via SQLite",
-    "url": "https://github.com/lana-k/sqliteviz",
-    "upvotes": 211,
-    "author": "lana-k",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27165192"
-  },
-  {
     "title": "All About Cockatoos",
     "url": "http://www.mytoos.com/main.shtml",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "rex_lupi",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27164127"
   },
   {
-    "title": "Knitting a Road with Stones and String",
-    "url": "https://www.economist.com/science-and-technology/2021/05/08/knitting-a-road-with-stones-and-string",
-    "upvotes": 11,
-    "author": "prostoalex",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27160990"
+    "title": "Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles",
+    "url": "https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182",
+    "upvotes": 107,
+    "author": "clouddrover",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27170123"
   },
   {
     "title": "Design structured diagrams, built to increase your team's trust in your docs",
@@ -168,37 +160,45 @@
     "link": "https://news.ycombinator.com/item?id=27164769"
   },
   {
-    "title": "The Day the Sun Brought Darkness",
-    "url": "https://www.nasa.gov/topics/earth/features/sun_darkness.html",
-    "upvotes": 5,
-    "author": "rmdashrfstar",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27162515"
+    "title": "Knitting a Road with Stones and String",
+    "url": "https://www.economist.com/science-and-technology/2021/05/08/knitting-a-road-with-stones-and-string",
+    "upvotes": 12,
+    "author": "prostoalex",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27160990"
+  },
+  {
+    "title": "Shirts of Peter Norvig",
+    "url": "http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig",
+    "upvotes": 167,
+    "author": "reikonomusha",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=27158680"
   },
   {
     "title": "BuildZoom",
     "url": "https://jobs.lever.co/buildzoom"
   },
   {
-    "title": "Shirts of Peter Norvig",
-    "url": "http://charlesbroskoski.com/_/view.php?id=shirts-of-peter-norvig",
-    "upvotes": 166,
-    "author": "reikonomusha",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27158680"
+    "title": "Extracting Data from Tracking Devices",
+    "url": "https://jeffhuang.com/extracting_data_from_tracking_devices/",
+    "upvotes": 6,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27170992"
   },
   {
-    "title": "Waymo AV Freaked Out by Traffic Cones, Blocks Traffic, Evades Support Vehicles",
-    "url": "https://jalopnik.com/watch-a-waymo-av-get-freaked-out-by-traffic-cones-bloc-1846897182",
-    "upvotes": 99,
-    "author": "clouddrover",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27170123"
+    "title": "The Day the Sun Brought Darkness",
+    "url": "https://www.nasa.gov/topics/earth/features/sun_darkness.html",
+    "upvotes": 7,
+    "author": "rmdashrfstar",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27162515"
   },
   {
     "title": "The Midnight Pub",
     "url": "https://midnight.pub/",
-    "upvotes": 127,
+    "upvotes": 129,
     "author": "ms123",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27163866"
@@ -206,7 +206,7 @@
   {
     "title": "Watches from the Soviet Union",
     "url": "https://www.rbth.com/longreads/soviet-watches/",
-    "upvotes": 124,
+    "upvotes": 125,
     "author": "gscott",
     "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27164417"
@@ -214,10 +214,18 @@
   {
     "title": "Was cancer less likely in a pre-industrial world?",
     "url": "https://www.nationalgeographic.com/history/article/cancer-less-likely-preindustrial-world",
-    "upvotes": 112,
+    "upvotes": 114,
     "author": "pseudolus",
-    "comments": 143,
+    "comments": 144,
     "link": "https://news.ycombinator.com/item?id=27164171"
+  },
+  {
+    "title": "ML model can classify sex from retinal photograph, clinicians can't",
+    "url": "https://rdcu.be/ckFPK",
+    "upvotes": 174,
+    "author": "jeffbee",
+    "comments": 153,
+    "link": "https://news.ycombinator.com/item?id=27165307"
   },
   {
     "title": "Lessons learned creating a real-time multiplayer Tic-Tac-Toe game with Nun DB",
@@ -226,13 +234,5 @@
     "author": "kohler1000",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27167548"
-  },
-  {
-    "title": "Drain brain: The secret life of a gutter enthusiast",
-    "url": "https://www.bbc.com/news/uk-england-london-56281464",
-    "upvotes": 17,
-    "author": "tmfi",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27164138"
   }
 ]
