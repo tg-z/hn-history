@@ -2,90 +2,106 @@
   {
     "title": "Apple Music Announces Spatial Audio and Lossless Audio",
     "url": "https://www.apple.com/newsroom/2021/05/apple-music-announces-spatial-audio-and-lossless-audio/",
-    "upvotes": 220,
+    "upvotes": 283,
     "author": "todsacerdoti",
-    "comments": 215,
+    "comments": 284,
     "link": "https://news.ycombinator.com/item?id=27182946"
   },
   {
     "title": "Why Is It So Hard to Detect Keyup Event on Linux?",
     "url": "https://blog.robertelder.org/detect-keyup-event-linux-terminal/",
-    "upvotes": 31,
+    "upvotes": 63,
     "author": "EntICOnc",
-    "comments": 5,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27172011"
   },
   {
     "title": "Ghosts of Unix past, part 3: Unfixable designs",
     "url": "https://lwn.net/Articles/414618/",
-    "upvotes": 14,
+    "upvotes": 32,
     "author": "wmanley",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27183784"
+  },
+  {
+    "title": "Monday.com Files IPO",
+    "url": "https://www.sec.gov/Archives/edgar/data/1845338/000110465921067423/tm211978-4_f1.htm",
+    "upvotes": 34,
+    "author": "k2xl",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27183401"
   },
   {
     "title": "AMD and GlobalFoundries Update: Orders Through 2024, Now Non-Exclusive",
     "url": "https://www.anandtech.com/show/16677/amd-and-globalfoundries-update-wafer-share-agreement-through-2024",
-    "upvotes": 45,
+    "upvotes": 55,
     "author": "rbanffy",
-    "comments": 9,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27182536"
-  },
-  {
-    "title": "Cosmopolitan Libc 1.0",
-    "url": "https://github.com/jart/cosmopolitan/releases/tag/1.0",
-    "upvotes": 412,
-    "author": "Orochikaku",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=27180182"
   },
   {
     "title": "Try This One Weird Trick Russian Hackers Hate",
     "url": "https://krebsonsecurity.com/2021/05/try-this-one-weird-trick-russian-hackers-hate/",
-    "upvotes": 75,
+    "upvotes": 146,
     "author": "todsacerdoti",
-    "comments": 16,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27183734"
+  },
+  {
+    "title": "Cosmopolitan Libc 1.0",
+    "url": "https://github.com/jart/cosmopolitan/releases/tag/1.0",
+    "upvotes": 427,
+    "author": "Orochikaku",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27180182"
+  },
+  {
+    "title": "Technocratic Plimsoll Line",
+    "url": "https://www.lesswrong.com/posts/AT47QboF7JeiMC25t/technocratic-plimsoll-line",
+    "upvotes": 9,
+    "author": "CapitalistCartr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27183622"
   },
   {
     "title": "How M1 Macs feel faster than Intel models: it’s about QoS",
     "url": "https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/",
-    "upvotes": 276,
+    "upvotes": 305,
     "author": "giuliomagnifico",
-    "comments": 190,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=27182244"
   },
   {
     "title": "Our vendor executed a system reboot that caused a shut down of the turnstiles",
     "url": "https://twitter.com/nyctsubway/status/1394258614475497475",
-    "upvotes": 68,
+    "upvotes": 80,
     "author": "danso",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27183001"
   },
   {
-    "title": "Umami – An alternative to Google Analytics",
-    "url": "https://github.com/mikecao/umami",
+    "title": "“Is curing patients a sustainable business model?” asks Goldman Sachs",
+    "url": "https://arstechnica.com/tech-policy/2018/04/curing-disease-not-a-sustainable-business-model-goldman-sachs-analysts-say/",
+    "upvotes": 40,
+    "author": "isomorph",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27184116"
+  },
+  {
+    "title": "Drone Racing League Creates End-to-End Cloud Production",
+    "url": "https://www.sportsvideo.org/2021/01/29/pivoting-to-virtual-races-drone-racing-league-creates-end-to-end-cloud-production/",
     "upvotes": 11,
-    "author": "sandebert",
+    "author": "stikit",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27183800"
+  },
+  {
+    "title": "Microsoft says it probed Gates over relationship with employee",
+    "url": "https://m.dw.com/en/microsoft-says-it-probed-gates-over-relationship-with-employee/a-57558340",
+    "upvotes": 4,
+    "author": "pistoriusp",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27181622"
-  },
-  {
-    "title": "Show HN: TinyStore - A minimal store for your Shopify Lite plan",
-    "url": "https://tinystore.app",
-    "upvotes": 97,
-    "author": "hapiben",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=27181307"
-  },
-  {
-    "title": "Plotting the source code “TODO” history of the most popular open source projects",
-    "url": "https://schleiss.io/plotting-source-code-todos-for-open-source-projects",
-    "upvotes": 157,
-    "author": "nreece",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=27180421"
+    "link": "https://news.ycombinator.com/item?id=27184525"
   },
   {
     "title": "Algolia",
@@ -94,145 +110,129 @@
   {
     "title": "US investigates second suspected case of mystery 'syndrome' near White House",
     "url": "https://www.cnn.com/2021/05/17/politics/us-investigates-second-case-mystery-syndrome-white-house/index.html",
-    "upvotes": 34,
+    "upvotes": 51,
     "author": "shalmanese",
-    "comments": 14,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27183698"
   },
   {
-    "title": "Jolie, the service-oriented programming language",
-    "url": "https://www.jolie-lang.org/",
-    "upvotes": 119,
-    "author": "RcrdBrt",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27180750"
+    "title": "Show HN: TinyStore - A minimal store for your Shopify Lite plan",
+    "url": "https://tinystore.app",
+    "upvotes": 102,
+    "author": "hapiben",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27181307"
+  },
+  {
+    "title": "Plotting the source code “TODO” history of the most popular open source projects",
+    "url": "https://schleiss.io/plotting-source-code-todos-for-open-source-projects",
+    "upvotes": 164,
+    "author": "nreece",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=27180421"
+  },
+  {
+    "title": "Umami – An alternative to Google Analytics",
+    "url": "https://github.com/mikecao/umami",
+    "upvotes": 19,
+    "author": "sandebert",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27181622"
   },
   {
     "title": "Dark Side of Posix APIs",
     "url": "https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "ingve",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27182112"
-  },
-  {
-    "title": "Let’s Encrypt DST Root CA X3 Expiration – September 2021",
-    "url": "https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/",
-    "upvotes": 55,
-    "author": "jorislacance",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27181374"
-  },
-  {
-    "title": "Monday.com Files IPO",
-    "url": "https://www.sec.gov/Archives/edgar/data/1845338/000110465921067423/tm211978-4_f1.htm",
-    "upvotes": 10,
-    "author": "k2xl",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27183401"
-  },
-  {
-    "title": "The PGP Problem: A Critique",
-    "url": "https://articles.59.ca/doku.php?id=pgpfan:tpp",
-    "upvotes": 64,
-    "author": "JoachimS",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27181576"
   },
   {
     "title": "Yoga and Breathing Exercises Aid Children with ADHD to Focus",
     "url": "https://neurosciencenews.com/focus-yoga-adhd-18435/",
-    "upvotes": 25,
+    "upvotes": 52,
     "author": "whereistimbo",
-    "comments": 5,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27183670"
+  },
+  {
+    "title": "Jolie, the service-oriented programming language",
+    "url": "https://www.jolie-lang.org/",
+    "upvotes": 126,
+    "author": "RcrdBrt",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27180750"
+  },
+  {
+    "title": "Let’s Encrypt DST Root CA X3 Expiration – September 2021",
+    "url": "https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/",
+    "upvotes": 60,
+    "author": "jorislacance",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27181374"
+  },
+  {
+    "title": "The PGP Problem: A Critique",
+    "url": "https://articles.59.ca/doku.php?id=pgpfan:tpp",
+    "upvotes": 69,
+    "author": "JoachimS",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27181576"
+  },
+  {
+    "title": "Can I get some reasons to use Java instead of Kotlin?",
+    "url": "https://www.reddit.com/r/java/comments/ndwz92/can_i_get_some_reasons_to_use_java_instead_of/gyd5yi5/",
+    "upvotes": 69,
+    "author": "azth",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=27183076"
   },
   {
     "title": "Launch HN: Mozart Data (YC S20) – One-stop shop for a modern data pipeline",
     "url": "item?id=27182720",
-    "upvotes": 27,
+    "upvotes": 32,
     "author": "pfduke02",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27182720"
   },
   {
     "title": "A Pixel Purse LED Cube Controlled by a Cisco 3G Modem",
     "url": "https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html",
-    "upvotes": 98,
+    "upvotes": 101,
     "author": "parsecs",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27180453"
   },
   {
-    "title": "Can I get some reasons to use Java instead of Kotlin?",
-    "url": "https://www.reddit.com/r/java/comments/ndwz92/can_i_get_some_reasons_to_use_java_instead_of/gyd5yi5/",
-    "upvotes": 54,
-    "author": "azth",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=27183076"
-  },
-  {
     "title": "The app that lets you pay to control another person's life",
     "url": "https://www.bbc.com/news/business-57085557",
-    "upvotes": 50,
+    "upvotes": 58,
     "author": "akbarnama",
-    "comments": 68,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27180993"
   },
   {
     "title": "How to use RabbitMQ in service integration",
     "url": "https://www.erlang-solutions.com/blog/how-to-use-rabbitmq-in-service-integration/",
-    "upvotes": 20,
+    "upvotes": 26,
     "author": "olikas",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27182060"
-  },
-  {
-    "title": "Feeling like a pariah, even when you’re not",
-    "url": "https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/",
-    "upvotes": 57,
-    "author": "luu",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27181243"
-  },
-  {
-    "title": "Geocode-sqlite: Geocode rows in an SQLite database table",
-    "url": "https://github.com/eyeseast/geocode-sqlite",
-    "upvotes": 114,
-    "author": "chmaynard",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27179909"
   },
   {
     "title": "Fish shell",
     "url": "http://fishshell.com/",
-    "upvotes": 85,
+    "upvotes": 102,
     "author": "gscott",
-    "comments": 50,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27180420"
   },
   {
-    "title": "The ClickHouse Community",
-    "url": "https://clickhouse.tech/blog/en/2020/the-clickhouse-community/",
-    "upvotes": 111,
-    "author": "Bimal_kumar",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=27180452"
-  },
-  {
-    "title": "Working over 55 hours a week associated with higher risk of stroke, heart attack",
-    "url": "https://www.bbc.co.uk/news/business-57139434",
-    "upvotes": 281,
-    "author": "pmoriarty",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=27180545"
-  },
-  {
-    "title": "Amazon's Sidewalk Network Is Turned on by Default. Here's How to Turn It Off",
-    "url": "https://www.inc.com/jason-aten/amazons-sidewalk-network-is-turned-on-by-default-heres-how-to-turn-it-off.html",
-    "upvotes": 70,
-    "author": "Black101",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=27182822"
+    "title": "Feeling like a pariah, even when you’re not",
+    "url": "https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/",
+    "upvotes": 62,
+    "author": "luu",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27181243"
   }
 ]
