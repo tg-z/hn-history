@@ -1,188 +1,220 @@
 [
   {
-    "title": "If M1 Macs feel faster than Intel is due to optimization of the ARM CPU QoS",
+    "title": "How M1 Macs feel faster than Intel models: it’s about QoS",
     "url": "https://eclecticlight.co/2021/05/17/how-m1-macs-feel-faster-than-intel-models-its-about-qos/",
-    "upvotes": 25,
+    "upvotes": 126,
     "author": "giuliomagnifico",
-    "comments": 4,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=27182244"
   },
   {
     "title": "Cosmopolitan Libc 1.0",
     "url": "https://github.com/jart/cosmopolitan/releases/tag/1.0",
-    "upvotes": 332,
+    "upvotes": 352,
     "author": "Orochikaku",
-    "comments": 58,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27180182"
   },
   {
     "title": "Show HN: TinyStore - A minimal store for your Shopify Lite plan",
     "url": "https://tinystore.app",
-    "upvotes": 61,
+    "upvotes": 69,
     "author": "hapiben",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27181307"
+  },
+  {
+    "title": "Plotting the source code “TODO” history of the most popular open source projects",
+    "url": "https://schleiss.io/plotting-source-code-todos-for-open-source-projects",
+    "upvotes": 116,
+    "author": "nreece",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27180421"
   },
   {
     "title": "The PGP Problem: A Critique",
     "url": "https://articles.59.ca/doku.php?id=pgpfan:tpp",
-    "upvotes": 34,
+    "upvotes": 42,
     "author": "JoachimS",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27181576"
   },
   {
-    "title": "Dark Side of Posix APIs",
-    "url": "https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html",
-    "upvotes": 10,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27182112"
+    "title": "Jolie, the service-oriented programming language",
+    "url": "https://www.jolie-lang.org/",
+    "upvotes": 96,
+    "author": "RcrdBrt",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=27180750"
+  },
+  {
+    "title": "A Pixel Purse LED Cube Controlled by a Cisco 3G Modem",
+    "url": "https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html",
+    "upvotes": 88,
+    "author": "parsecs",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27180453"
   },
   {
     "title": "Algolia",
     "url": "https://www.algolia.com/careers/developer-relations-engineer-atlanta-new-york-san-francisco-remote"
   },
   {
-    "title": "Plotting the source code “TODO” history of the most popular open source projects",
-    "url": "https://schleiss.io/plotting-source-code-todos-for-open-source-projects",
-    "upvotes": 101,
-    "author": "nreece",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=27180421"
+    "title": "Launch HN: Mozart Data (YC S20) – One-stop shop for a modern data pipeline",
+    "url": "item?id=27182720",
+    "upvotes": 3,
+    "author": "pfduke02",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27182720"
   },
   {
-    "title": "Jolie, the service-oriented programming language",
-    "url": "https://www.jolie-lang.org/",
-    "upvotes": 86,
-    "author": "RcrdBrt",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27180750"
-  },
-  {
-    "title": "A Pixel Purse LED Cube Controlled by a Cisco 3G Modem",
-    "url": "https://tomverbeure.github.io/2021/05/16/Pixel-Purse-LED-Cube.html",
-    "upvotes": 84,
-    "author": "parsecs",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27180453"
-  },
-  {
-    "title": "The app that lets you pay to control another person's life",
-    "url": "https://www.bbc.com/news/business-57085557",
-    "upvotes": 37,
-    "author": "akbarnama",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27180993"
-  },
-  {
-    "title": "Geocode-sqlite: Geocode rows in an SQLite database table",
-    "url": "https://github.com/eyeseast/geocode-sqlite",
-    "upvotes": 96,
-    "author": "chmaynard",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27179909"
+    "title": "Dark Side of Posix APIs",
+    "url": "https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html",
+    "upvotes": 19,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27182112"
   },
   {
     "title": "Let's Encrypt – DST Root CA X3 Expiration",
     "url": "https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/",
-    "upvotes": 17,
+    "upvotes": 27,
     "author": "jorislacance",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27181374"
+  },
+  {
+    "title": "Geocode-sqlite: Geocode rows in an SQLite database table",
+    "url": "https://github.com/eyeseast/geocode-sqlite",
+    "upvotes": 101,
+    "author": "chmaynard",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27179909"
   },
   {
     "title": "The ClickHouse Community",
     "url": "https://clickhouse.tech/blog/en/2020/the-clickhouse-community/",
-    "upvotes": 89,
+    "upvotes": 95,
     "author": "Bimal_kumar",
-    "comments": 37,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27180452"
   },
   {
     "title": "Feeling like a pariah",
     "url": "https://statmodeling.stat.columbia.edu/2021/05/16/feeling-like-a-pariah-even-when-youre-not/",
-    "upvotes": 25,
+    "upvotes": 32,
     "author": "luu",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27181243"
   },
   {
     "title": "Working over 55 hours a week associated with higher risk of stroke, heart attack",
     "url": "https://www.bbc.co.uk/news/business-57139434",
-    "upvotes": 170,
+    "upvotes": 198,
     "author": "pmoriarty",
-    "comments": 79,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27180545"
+  },
+  {
+    "title": "‘Journey to the Edge of Reason’ Review: Gödel’s Beautiful Mind",
+    "url": "https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883",
+    "upvotes": 25,
+    "author": "Vigier",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27180079"
   },
   {
     "title": "Which hypercube unfoldings tile space?",
     "url": "https://whuts.org/",
-    "upvotes": 64,
+    "upvotes": 73,
     "author": "kvnhn",
-    "comments": 19,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27178891"
   },
   {
     "title": "CEO behind Japan’s best-performing stock says his secret is raising salaries",
     "url": "https://www.bloomberg.com/news/articles/2021-05-16/ceo-behind-5-500-stock-gain-says-his-secret-is-raising-salaries",
-    "upvotes": 416,
+    "upvotes": 440,
     "author": "dgudkov",
-    "comments": 192,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=27178486"
   },
   {
-    "title": "‘Journey to the Edge of Reason’ Review: Gödel’s Beautiful Mind",
-    "url": "https://www.wsj.com/articles/journey-to-the-edge-of-reason-review-godels-beautiful-mind-11621003883",
-    "upvotes": 21,
-    "author": "Vigier",
+    "title": "Company Lets Celebrities Digitally Clone Their Voice So They Can Loan It Out",
+    "url": "https://www.pcmag.com/news/company-lets-celebrities-digitally-clone-their-voice-so-they-can-loan-it",
+    "upvotes": 3,
+    "author": "pulse7",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27180079"
+    "link": "https://news.ycombinator.com/item?id=27182763"
   },
   {
     "title": "The Achilles Heel of the Coronavirus",
     "url": "https://ethz.ch/en/news-and-events/eth-news/news/2021/05/the-achilles-heel-of-the-coronavirus.html",
-    "upvotes": 173,
+    "upvotes": 177,
     "author": "oumua_don17",
-    "comments": 63,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27177746"
   },
   {
     "title": "Show HN: Free open-source isolated browser for security",
     "url": "https://github.com/i5ik/ViewFinderJS",
-    "upvotes": 48,
+    "upvotes": 50,
     "author": "graderjs",
-    "comments": 25,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27179391"
   },
   {
-    "title": "The search for a perfect access control system",
-    "url": "https://goteleport.com/blog/access-controls/",
-    "upvotes": 96,
-    "author": "aberoham",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27176145"
+    "title": "Fish Shell",
+    "url": "http://fishshell.com/",
+    "upvotes": 14,
+    "author": "gscott",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27180420"
   },
   {
-    "title": "Tetris for Game Boy Gets Online Multiplayer",
-    "url": "https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/",
-    "upvotes": 72,
-    "author": "ashitlerferad",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27180264"
+    "title": "AI Mid 2021: Self Driving Car Meets Reality",
+    "url": "https://blog.piekniewski.info/2021/05/12/ai-mid-2021/",
+    "upvotes": 43,
+    "author": "tempodox",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27181081"
+  },
+  {
+    "title": "You Can’t Sacrifice Partition Tolerance",
+    "url": "https://codahale.com/you-cant-sacrifice-partition-tolerance/",
+    "upvotes": 82,
+    "author": "xk3",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27178620"
+  },
+  {
+    "title": "An Erlangen Programme to Establish the Geometric Foundations of Deep Learning",
+    "url": "https://syncedreview.com/2021/05/05/deepmind-podracer-tpu-based-rl-frameworks-deliver-exceptional-performance-at-low-cost-12/",
+    "upvotes": 4,
+    "author": "ArtWomb",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27182384"
   },
   {
     "title": "Observing my cellphone switch towers",
     "url": "https://fabiensanglard.net/lte/index.html",
-    "upvotes": 733,
+    "upvotes": 742,
     "author": "ingve",
-    "comments": 125,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=27171860"
+  },
+  {
+    "title": "Tetris for Game Boy Gets Online Multiplayer",
+    "url": "https://hackaday.com/2021/05/10/tetris-for-game-boy-gets-online-multiplayer/",
+    "upvotes": 78,
+    "author": "ashitlerferad",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27180264"
   },
   {
     "title": "SeaGlass: City-Wide IMSI-Catcher Detection",
     "url": "https://seaglass.cs.washington.edu/",
-    "upvotes": 347,
+    "upvotes": 348,
     "author": "kogir",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27173717"
@@ -190,49 +222,17 @@
   {
     "title": "Building a personal website in 2021",
     "url": "https://origami.kosmulski.org/blog/2021-05-16-building-personal-origami-website-2021",
-    "upvotes": 471,
+    "upvotes": 478,
     "author": "mkosmul",
-    "comments": 176,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=27173728"
-  },
-  {
-    "title": "You Can’t Sacrifice Partition Tolerance",
-    "url": "https://codahale.com/you-cant-sacrifice-partition-tolerance/",
-    "upvotes": 79,
-    "author": "xk3",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27178620"
   },
   {
     "title": "Half a million lines of Go",
     "url": "https://blog.khanacademy.org/half-a-million-lines-of-go/",
-    "upvotes": 308,
+    "upvotes": 317,
     "author": "nickcw",
-    "comments": 421,
+    "comments": 434,
     "link": "https://news.ycombinator.com/item?id=27173665"
-  },
-  {
-    "title": "HTML Notepad – HTML WYSIWYG editor",
-    "url": "https://html-notepad.com/",
-    "upvotes": 270,
-    "author": "Tomte",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=27174188"
-  },
-  {
-    "title": "AI Mid 2021: Self Driving Car Meets Reality",
-    "url": "https://blog.piekniewski.info/2021/05/12/ai-mid-2021/",
-    "upvotes": 29,
-    "author": "tempodox",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27181081"
-  },
-  {
-    "title": "OpenMapChest is shutting down",
-    "url": "https://www.openmapchest.org/shutting-down/",
-    "upvotes": 43,
-    "author": "cf100clunk",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27179696"
   }
 ]
