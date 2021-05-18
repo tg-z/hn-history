@@ -2,55 +2,67 @@
   {
     "title": "BPF for Storage: An Exokernel-Inspired Approach [pdf]",
     "url": "https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s07-zhong.pdf",
-    "upvotes": 11,
+    "upvotes": 22,
     "author": "ingve",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27193220"
   },
   {
-    "title": "The Graphics Gremlin – An Open Source Retro ISA Video Card",
-    "url": "https://github.com/schlae/graphics-gremlin",
-    "upvotes": 52,
-    "author": "zdw",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27171100"
+    "title": "Ask HN: Are you satisfied with Elixir or do you regret choosing Elixir?",
+    "url": "item?id=27192873",
+    "upvotes": 116,
+    "author": "sdiw",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27192873"
+  },
+  {
+    "title": "Bit-sync: synchronizing arbitrary data using rsync algorithm in pure JavaScript",
+    "url": "https://github.com/claytongulick/bit-sync",
+    "upvotes": 19,
+    "author": "ingve",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27172849"
   },
   {
     "title": "Microsoft Authenticator Chrome Extention is not from MS and is phishing",
     "url": "https://chrome.google.com/webstore/detail/microsoft-authenticator/mabdjppmcjpjploliggpbonahnjjlgkf/related?hl=en-US",
-    "upvotes": 136,
+    "upvotes": 182,
     "author": "cheph",
-    "comments": 37,
+    "comments": 61,
     "link": "https://news.ycombinator.com/item?id=27192997"
+  },
+  {
+    "title": "The Graphics Gremlin – An Open Source Retro ISA Video Card",
+    "url": "https://github.com/schlae/graphics-gremlin",
+    "upvotes": 58,
+    "author": "zdw",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27171100"
+  },
+  {
+    "title": "Plivo",
+    "url": "https://jobs.lever.co/plivo/f52a7ac6-4047-4ac7-95c0-9672fabb2d64"
   },
   {
     "title": "Terms and Conditions Game",
     "url": "https://termsandconditions.game/",
-    "upvotes": 366,
+    "upvotes": 383,
     "author": "Clewza313",
-    "comments": 61,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27191795"
-  },
-  {
-    "title": "Ask HN: Are you satisfied with Elixir or do you regret choosing Elixir?",
-    "url": "item?id=27192873",
-    "upvotes": 78,
-    "author": "sdiw",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27192873"
   },
   {
     "title": "Breakthrough in deciphering Minoan Linear A script",
     "url": "https://greekreporter.com/2021/05/13/minoan-language-linear-a-linked-to-linear-b-in-groundbreaking-new-research/",
-    "upvotes": 125,
+    "upvotes": 126,
     "author": "qsi",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27191364"
   },
   {
     "title": "Converting stroked primitives to filled primitives",
     "url": "http://w3.impa.br/~diego/projects/Neh20/",
-    "upvotes": 16,
+    "upvotes": 24,
     "author": "vg_head",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27192797"
@@ -58,142 +70,114 @@
   {
     "title": "Positions chess engines don't understand",
     "url": "https://www.chess.com/article/view/10-positions-chess-engines-just-dont-understand",
-    "upvotes": 358,
+    "upvotes": 359,
     "author": "diplodocusaur",
-    "comments": 145,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=27188854"
   },
   {
-    "title": "Bit-sync: synchronizing arbitrary data using rsync algorithm in pure JavaScript",
-    "url": "https://github.com/claytongulick/bit-sync",
-    "upvotes": 8,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27172849"
+    "title": "NetBSD 9.2",
+    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_2_released",
+    "upvotes": 58,
+    "author": "vermaden",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27191908"
   },
   {
     "title": "Vintage HP-25 Calculator Gets Wireless Charging",
     "url": "https://hackaday.com/2021/05/15/vintage-hp-25-calculator-gets-wireless-charging/",
-    "upvotes": 18,
+    "upvotes": 19,
     "author": "ashitlerferad",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27180403"
   },
   {
-    "title": "Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com",
-    "url": "http://jobs.hackclub.com/",
-    "upvotes": 196,
-    "author": "zachlatta",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=27189288"
-  },
-  {
-    "title": "NetBSD 9.2",
-    "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_2_released",
-    "upvotes": 47,
-    "author": "vermaden",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27191908"
-  },
-  {
-    "title": "Home Gardening",
-    "url": "http://www.gardening.cornell.edu/homegardening/",
-    "upvotes": 186,
-    "author": "blewboarwastake",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=27181344"
-  },
-  {
     "title": "Open source retro ISA video card",
     "url": "https://github.com/schlae/graphics-gremlin",
-    "upvotes": 36,
+    "upvotes": 39,
     "author": "jnord",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27192334"
   },
   {
-    "title": "Zeus Is Hiring a Growth Marketing Manager to Build the Future of FlexLiving",
-    "url": "item?id=27191940"
+    "title": "Show HN: Apply for a job through SSH, $ ssh jobs.hackclub.com",
+    "url": "http://jobs.hackclub.com/",
+    "upvotes": 202,
+    "author": "zachlatta",
+    "comments": 83,
+    "link": "https://news.ycombinator.com/item?id=27189288"
+  },
+  {
+    "title": "Home Gardening",
+    "url": "http://www.gardening.cornell.edu/homegardening/",
+    "upvotes": 193,
+    "author": "blewboarwastake",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=27181344"
   },
   {
     "title": "Galapagos Islands: Erosion fells Darwin’s Arch",
     "url": "https://www.bbc.com/news/world-latin-america-57153267",
-    "upvotes": 29,
+    "upvotes": 31,
     "author": "janpot",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27192044"
-  },
-  {
-    "title": "Renewable Energy Boomed In 2020",
-    "url": "https://www.statista.com/chart/24856/net-global-renewable-capacity-additions/",
-    "upvotes": 35,
-    "author": "williamsharris",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27191836"
   },
   {
     "title": "Can't Unsee",
     "url": "https://cantunsee.space/",
-    "upvotes": 272,
+    "upvotes": 283,
     "author": "rajlego",
-    "comments": 93,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=27188989"
   },
   {
-    "title": "Uber used 50 Dutch shell companies to dodge taxes",
-    "url": "https://www.businessinsider.com/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
-    "upvotes": 145,
-    "author": "bitshifta",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=27192152"
+    "title": "Renewable Energy Boomed In 2020",
+    "url": "https://www.statista.com/chart/24856/net-global-renewable-capacity-additions/",
+    "upvotes": 36,
+    "author": "williamsharris",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27191836"
   },
   {
     "title": "Kickstarting AI for Code: Introducing IBM’s Project CodeNet",
     "url": "https://research.ibm.com/blog/codenet-ai-for-code",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "T-A",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27182523"
   },
   {
     "title": "Why is the Gaza Strip blurry on Google Maps?",
     "url": "https://www.bbc.com/news/57102499",
-    "upvotes": 915,
+    "upvotes": 918,
     "author": "vanusa",
-    "comments": 512,
+    "comments": 520,
     "link": "https://news.ycombinator.com/item?id=27186675"
-  },
-  {
-    "title": "Identify a Facebook user by his phone number despite privacy settings set",
-    "url": "https://ysamm.com/?p=691",
-    "upvotes": 134,
-    "author": "throwaway888abc",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27188188"
-  },
-  {
-    "title": "Legalese – Computational Law",
-    "url": "https://legalese.com/",
-    "upvotes": 148,
-    "author": "sdeframond",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=27188130"
-  },
-  {
-    "title": "Nearly 200K Medical Records of US Military Veterans Leaked",
-    "url": "https://securethoughts.com/us-military-veterans-medical-data-leakage/",
-    "upvotes": 92,
-    "author": "avibu",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=27192055"
   },
   {
     "title": "Metric Display Standards. Best practices for presenting numbers",
     "url": "https://medium.com/salesforce-ux/metric-display-standards-54736533c81",
-    "upvotes": 52,
+    "upvotes": 57,
     "author": "kiyanwang",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27172807"
+  },
+  {
+    "title": "Nearly 200K Medical Records of US Military Veterans Leaked",
+    "url": "https://securethoughts.com/us-military-veterans-medical-data-leakage/",
+    "upvotes": 100,
+    "author": "avibu",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=27192055"
+  },
+  {
+    "title": "EU extends sanctions against Chinese, Russian, N.Korean hackers for another year",
+    "url": "https://therecord.media/eu-extends-sanctions-against-chinese-russian-and-n-korean-hackers-for-another-year/",
+    "upvotes": 4,
+    "author": "giuliomagnifico",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27193490"
   },
   {
     "title": "Map-like use of Earth’s magnetic field in sharks",
@@ -206,9 +190,9 @@
   {
     "title": "First nuclear detonation created ‘impossible’ quasicrystals",
     "url": "https://www.nature.com/articles/d41586-021-01332-0",
-    "upvotes": 89,
+    "upvotes": 91,
     "author": "sova",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27188753"
   },
   {
@@ -220,19 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=27171624"
   },
   {
+    "title": "Uber used 50 Dutch shell companies to dodge taxes",
+    "url": "https://www.businessinsider.com/uber-tax-avoidance-50-dutch-shell-companies-5-billion-revenue-2021-5",
+    "upvotes": 156,
+    "author": "bitshifta",
+    "comments": 132,
+    "link": "https://news.ycombinator.com/item?id=27192152"
+  },
+  {
     "title": "A police dog who cried drugs at every traffic stop",
     "url": "https://reason.com/2021/05/13/the-police-dog-who-cried-drugs-at-every-traffic-stop/",
-    "upvotes": 441,
+    "upvotes": 448,
     "author": "pessimizer",
-    "comments": 299,
+    "comments": 308,
     "link": "https://news.ycombinator.com/item?id=27186436"
   },
   {
     "title": "Brood X Periodical Cicadas FAQ",
     "url": "https://www.nps.gov/articles/000/cicadas-brood-x.htm",
-    "upvotes": 88,
+    "upvotes": 90,
     "author": "ag8",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27189162"
+  },
+  {
+    "title": "Launch HN: Mozart Data (YC S20) – One-stop shop for a modern data pipeline",
+    "url": "item?id=27182720",
+    "upvotes": 88,
+    "author": "pfduke02",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=27182720"
   }
 ]
