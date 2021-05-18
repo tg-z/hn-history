@@ -1,238 +1,238 @@
 [
   {
-    "title": "Hydras suggest that sleep evolved before brains",
-    "url": "https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/",
-    "upvotes": 137,
-    "author": "theafh",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=27195813"
-  },
-  {
     "title": "Companies may be punished for paying ransoms to sanctioned hackers",
     "url": "https://www.reuters.com/article/us-treasury-cyber/companies-may-be-punished-for-paying-ransoms-to-sanctioned-hackers-u-s-treasury-idUSKBN26M77U",
-    "upvotes": 118,
+    "upvotes": 167,
     "author": "ryan_j_naughton",
-    "comments": 57,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27196382"
   },
   {
-    "title": "Site Isolation in Firefox",
-    "url": "https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/",
-    "upvotes": 113,
-    "author": "arthuredelstein",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27196526"
+    "title": "Hydras suggest that sleep evolved before brains",
+    "url": "https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/",
+    "upvotes": 167,
+    "author": "theafh",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=27195813"
   },
   {
     "title": "Boosting Dropbox upload speed and improving Windows' TCP stack",
     "url": "https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed",
-    "upvotes": 29,
+    "upvotes": 80,
     "author": "el_duderino",
-    "comments": null,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27198085"
   },
   {
-    "title": "Ethereum will use around 99.95% less energy post merge",
-    "url": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
-    "upvotes": 938,
-    "author": "vishnu_ks",
-    "comments": 862,
-    "link": "https://news.ycombinator.com/item?id=27194586"
+    "title": "Site Isolation in Firefox",
+    "url": "https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/",
+    "upvotes": 156,
+    "author": "arthuredelstein",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27196526"
   },
   {
-    "title": "PlanetScale – The Database for Developers",
-    "url": "https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers",
-    "upvotes": 81,
-    "author": "samlambert",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27197873"
+    "title": "LaMDA: Google's New Conversation Technology",
+    "url": "https://blog.google/technology/ai/lamda/",
+    "upvotes": 73,
+    "author": "rnd2",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27198087"
+  },
+  {
+    "title": "Flat Data",
+    "url": "https://octo.github.com/projects/flat-data",
+    "upvotes": 75,
+    "author": "idan",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27197950"
   },
   {
     "title": "Fierce Nerds",
     "url": "http://paulgraham.com/fn.html",
-    "upvotes": 222,
+    "upvotes": 250,
     "author": "prtkgpt",
-    "comments": 251,
+    "comments": 287,
     "link": "https://news.ycombinator.com/item?id=27194284"
+  },
+  {
+    "title": "Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen",
+    "url": "https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/",
+    "upvotes": 238,
+    "author": "teleforce",
+    "comments": 312,
+    "link": "https://news.ycombinator.com/item?id=27193649"
+  },
+  {
+    "title": "The overfitted brain: Dreams evolved to assist generalization",
+    "url": "https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7",
+    "upvotes": 18,
+    "author": "hheikinh",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27198505"
   },
   {
     "title": "Keeper Tax",
     "url": "https://www.notion.so/keepertax/Come-work-with-us-98a6be20e7e44922be6291f5513af40d?p=894daaeed38e4c7989e6d718d509ab91"
   },
   {
-    "title": "Hyundai Nexo sets new world record 887.5 km travelled on single tank of hydrogen",
-    "url": "https://www.h2-view.com/story/hyundai-nexo-breaks-world-record-for-longest-distance-travelled-in-a-fcev/",
-    "upvotes": 225,
-    "author": "teleforce",
-    "comments": 298,
-    "link": "https://news.ycombinator.com/item?id=27193649"
-  },
-  {
-    "title": "Launch HN: Thryft (YC W21) – Shopify for Instagram Sellers",
-    "url": "item?id=27198319",
-    "upvotes": 10,
-    "author": "caprilynn",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27198319"
-  },
-  {
-    "title": "Uber Engineering Tricks of the Trade: Tuning JVM Memory for Large-Scale Services",
-    "url": "https://eng.uber.com/jvm-tuning-garbage-collection/",
-    "upvotes": 27,
-    "author": "commandlinefan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27197296"
-  },
-  {
-    "title": "LaMDA: Google's New Conversation Technology",
-    "url": "https://blog.google/technology/ai/lamda/",
-    "upvotes": 33,
-    "author": "rnd2",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27198087"
-  },
-  {
     "title": "Halide for iPad",
     "url": "https://lux.camera/halide-pro-camera-for-ipad/",
-    "upvotes": 64,
+    "upvotes": 86,
     "author": "uptown",
-    "comments": 19,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27196576"
   },
   {
-    "title": "Flat Data",
-    "url": "https://octo.github.com/projects/flat-data",
-    "upvotes": 27,
-    "author": "idan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27197950"
-  },
-  {
-    "title": "Google Turns Docs, Sheets and Slides into a Smart Canvas",
-    "url": "https://www.techzine.eu/news/collaboration/60293/google-workspace-turns-docs-sheets-and-slides-into-a-smart-canvas/",
-    "upvotes": 23,
-    "author": "asadlionpk",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27197782"
-  },
-  {
-    "title": "First Public Working Drafts: WebGPU and WebGPU Shading Language",
-    "url": "https://www.w3.org/blog/news/archives/9059",
-    "upvotes": 90,
-    "author": "bpierre",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27194857"
-  },
-  {
-    "title": "Forced Entrepreneurs",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637",
-    "upvotes": 85,
-    "author": "yarapavan",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27194840"
+    "title": "Ethereum will use around 99.95% less energy post merge",
+    "url": "https://blog.ethereum.org/2021/05/18/country-power-no-more/",
+    "upvotes": 1026,
+    "author": "vishnu_ks",
+    "comments": 1005,
+    "link": "https://news.ycombinator.com/item?id=27194586"
   },
   {
     "title": "AMP pages no longer get preferential treatment in Google search",
     "url": "https://plausible.io/blog/google-amp",
-    "upvotes": 228,
+    "upvotes": 264,
     "author": "ColinWright",
-    "comments": 56,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27192685"
+  },
+  {
+    "title": "Uber Engineering Tricks of the Trade: Tuning JVM Memory for Large-Scale Services",
+    "url": "https://eng.uber.com/jvm-tuning-garbage-collection/",
+    "upvotes": 47,
+    "author": "commandlinefan",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27197296"
+  },
+  {
+    "title": "Launch HN: Thryft (YC W21) – Shopify for Instagram Sellers",
+    "url": "item?id=27198319",
+    "upvotes": 21,
+    "author": "caprilynn",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27198319"
+  },
+  {
+    "title": "Google I/O 2021",
+    "url": "https://events.google.com/io/?lng=en",
+    "upvotes": 26,
+    "author": "mfrw",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27198142"
+  },
+  {
+    "title": "The tools and tech I use to run a one-woman hardware company – Thea Flowers",
+    "url": "https://blog.thea.codes/winterblooms-tech-stack/",
+    "upvotes": 7,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27199225"
+  },
+  {
+    "title": "Unveiling our new Quantum AI campus",
+    "url": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
+    "upvotes": 16,
+    "author": "asparagui",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27198357"
+  },
+  {
+    "title": "First Public Working Drafts: WebGPU and WebGPU Shading Language",
+    "url": "https://www.w3.org/blog/news/archives/9059",
+    "upvotes": 102,
+    "author": "bpierre",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=27194857"
+  },
+  {
+    "title": "Short Tutorial on Python's ChainMap",
+    "url": "https://pythonsbyte.substack.com/p/me-unchained",
+    "upvotes": 7,
+    "author": "rcshubhadeep",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27191633"
   },
   {
     "title": "Building Products at Stripe",
     "url": "https://newsletter.bringthedonuts.com/p/building-products-at-stripe",
-    "upvotes": 84,
+    "upvotes": 97,
     "author": "herbertl",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27194976"
   },
   {
-    "title": "60 years later, is it time to update the Drake equation?",
-    "url": "https://phys.org/news/2021-05-years-drake-equation.html",
-    "upvotes": 8,
-    "author": "elorant",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27197932"
+    "title": "PlanetScale – Database for Developers",
+    "url": "https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers",
+    "upvotes": 120,
+    "author": "samlambert",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27197873"
   },
   {
-    "title": "Spin-torque oscillators for WiFi band transmission and energy harvesting",
-    "url": "https://www.nature.com/articles/s41467-021-23181-1",
-    "upvotes": 57,
-    "author": "giuliomagnifico",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27194758"
+    "title": "Apple Readies MacBook Pro, MacBook Air Revamps",
+    "url": "https://www.bloomberg.com/news/articles/2021-05-18/apple-readies-macbook-pro-macbook-air-revamps-with-faster-chips",
+    "upvotes": 103,
+    "author": "jmsflknr",
+    "comments": 226,
+    "link": "https://news.ycombinator.com/item?id=27193922"
   },
   {
     "title": "It's time for a data-first front end revolution",
     "url": "https://kea.js.org/blog/2021/05/14/data-first-frontend-revolution",
-    "upvotes": 37,
+    "upvotes": 49,
     "author": "feross",
-    "comments": 21,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27195780"
+  },
+  {
+    "title": "Scarcity tactics can anger customers",
+    "url": "https://tips.ariyh.com/p/scarcity-promotions-cause-anger",
+    "upvotes": 23,
+    "author": "tdmckinlay",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27196944"
+  },
+  {
+    "title": "Forced Entrepreneurs",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2801637",
+    "upvotes": 91,
+    "author": "yarapavan",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=27194840"
+  },
+  {
+    "title": "The virtual office is here to stay",
+    "url": "https://blog.tandem.chat/the-virtual-office-is-here-to-stay/",
+    "upvotes": 10,
+    "author": "billylindeman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27198991"
   },
   {
     "title": "Kangaroos and Training Neural Networks",
     "url": "https://webcache.googleusercontent.com/search?q=cache:54bCDshgBYkJ:ftp://ftp.sas.com/pub/neural/kangaroos.txt",
-    "upvotes": 6,
+    "upvotes": 10,
     "author": "optimalsolver",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27182011"
   },
   {
+    "title": "Spin-torque oscillators for WiFi band transmission and energy harvesting",
+    "url": "https://www.nature.com/articles/s41467-021-23181-1",
+    "upvotes": 65,
+    "author": "giuliomagnifico",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=27194758"
+  },
+  {
     "title": "Circuit Synthesis for Analog Computing",
     "url": "https://blog.sigplan.org/2021/05/18/circuit-synthesis-for-analog-computing/",
-    "upvotes": 41,
+    "upvotes": 47,
     "author": "matt_d",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27194378"
-  },
-  {
-    "title": "1Password for Linux",
-    "url": "https://blog.1password.com/welcoming-linux-to-the-1password-family/",
-    "upvotes": 269,
-    "author": "grappler",
-    "comments": 182,
-    "link": "https://news.ycombinator.com/item?id=27194279"
-  },
-  {
-    "title": "Apple Readies MacBook Pro, MacBook Air Revamps",
-    "url": "https://www.bloomberg.com/news/articles/2021-05-18/apple-readies-macbook-pro-macbook-air-revamps-with-faster-chips",
-    "upvotes": 66,
-    "author": "jmsflknr",
-    "comments": 190,
-    "link": "https://news.ycombinator.com/item?id=27193922"
-  },
-  {
-    "title": "Ad block shouldn't break your checkout",
-    "url": "https://ilakovac.com/teespring-ublock-issue",
-    "upvotes": 137,
-    "author": "infomiho",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=27193974"
-  },
-  {
-    "title": "Bit-sync: synchronizing arbitrary data using rsync algorithm in pure JavaScript",
-    "url": "https://github.com/claytongulick/bit-sync",
-    "upvotes": 92,
-    "author": "ingve",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27172849"
-  },
-  {
-    "title": "Scarcity tactics can anger customers",
-    "url": "https://tips.ariyh.com/p/scarcity-promotions-cause-anger",
-    "upvotes": 9,
-    "author": "tdmckinlay",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27196944"
-  },
-  {
-    "title": "Building virtual worlds: video games and autobiographical architecture",
-    "url": "https://www.architectural-review.com/essays/building-virtual-worlds-video-games-and-autobiographical-architecture",
-    "upvotes": 8,
-    "author": "tazeko",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27182167"
   }
 ]
