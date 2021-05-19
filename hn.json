@@ -1,230 +1,214 @@
 [
   {
-    "title": "Last year, more people in San Francisco died of overdoses than of Covid-19",
-    "url": "https://www.economist.com/united-states/2021/05/15/last-year-more-people-in-san-francisco-died-of-overdoses-than-of-covid-19",
-    "upvotes": 54,
-    "author": "rblion",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27205201"
-  },
-  {
     "title": "Researchers, lawmakers want Facebook's mental health research",
     "url": "https://www.npr.org/2021/05/18/990234501/facebook-calls-links-to-depression-inconclusive-these-researchers-disagree",
-    "upvotes": 311,
+    "upvotes": 321,
     "author": "tareqak",
-    "comments": 181,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=27202570"
   },
   {
     "title": "Project Starline: Feel like you're there, together",
     "url": "https://blog.google/technology/research/project-starline/",
-    "upvotes": 1035,
+    "upvotes": 1066,
     "author": "ra7",
-    "comments": 379,
+    "comments": 389,
     "link": "https://news.ycombinator.com/item?id=27199330"
   },
   {
     "title": "Security keys are now supported for SSH Git operations",
     "url": "https://github.blog/2021-05-10-security-keys-supported-ssh-git-operations/",
-    "upvotes": 50,
+    "upvotes": 60,
     "author": "Androider",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27204695"
   },
   {
     "title": "The tools and tech I use to run a one-woman hardware company",
     "url": "https://blog.thea.codes/winterblooms-tech-stack/",
-    "upvotes": 704,
+    "upvotes": 718,
     "author": "todsacerdoti",
-    "comments": 102,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27199225"
   },
   {
     "title": "Nvidia cripples cryptocurrency mining on RTX 3080 and 3070 cards",
     "url": "https://www.bleepingcomputer.com/news/cryptocurrency/nvidia-cripples-cryptocurrency-mining-on-rtx-3080-and-3070-cards/",
-    "upvotes": 482,
+    "upvotes": 489,
     "author": "wglb",
-    "comments": 646,
+    "comments": 656,
     "link": "https://news.ycombinator.com/item?id=27199426"
-  },
-  {
-    "title": "The Textbook That Unleashed Ramanujan's Genius",
-    "url": "https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf",
-    "upvotes": 49,
-    "author": "cbracketdash",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27204366"
   },
   {
     "title": "Commander X16",
     "url": "https://www.commanderx16.com/forum/index.php?/home/",
-    "upvotes": 64,
+    "upvotes": 69,
     "author": "ibobev",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27204168"
+  },
+  {
+    "title": "The Textbook That Unleashed Ramanujan's Genius",
+    "url": "https://books.google.com/books/download/A_Synopsis_of_Elementary_Results_in_Pure.pdf?id=JLmCAAAAIAAJ&output=pdf",
+    "upvotes": 59,
+    "author": "cbracketdash",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27204366"
+  },
+  {
+    "title": "Selling Tiny Internet Projects for Fun and Profit",
+    "url": "https://tinyprojects.dev/posts/selling_tiny_internet_projects_for_fun_and_profit",
+    "upvotes": 18,
+    "author": "tinyprojects",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27193392"
+  },
+  {
+    "title": "The Mental Benefits of Being Terrible at Something",
+    "url": "https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits",
+    "upvotes": 32,
+    "author": "danboarder",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27204406"
   },
   {
     "title": "FuseSoC – Package manager and build abstraction tool for FPGA/ASIC development",
     "url": "https://github.com/olofk/fusesoc",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "pabs3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27192144"
   },
   {
-    "title": "The Mental Benefits of Being Terrible at Something",
-    "url": "https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits",
-    "upvotes": 28,
-    "author": "danboarder",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27204406"
-  },
-  {
-    "title": "Reliance Jio Impersonation Issue",
-    "url": "https://susam.in/blog/reliance-jio-impersonation-issue/",
-    "upvotes": 22,
-    "author": "susam",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27204581"
-  },
-  {
-    "title": "Movfuscator: Compile C into only mov instructions",
-    "url": "https://github.com/Battelle/movfuscator",
-    "upvotes": 99,
-    "author": "todsacerdoti",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27202801"
-  },
-  {
-    "title": "Site Isolation in Firefox",
-    "url": "https://blog.mozilla.org/security/2021/05/18/introducing-site-isolation-in-firefox/",
-    "upvotes": 405,
-    "author": "arthuredelstein",
-    "comments": 93,
-    "link": "https://news.ycombinator.com/item?id=27196526"
-  },
-  {
     "title": "The Matrix Space Beta",
     "url": "https://matrix.org/blog/2021/05/17/the-matrix-space-beta",
-    "upvotes": 196,
+    "upvotes": 203,
     "author": "fasquoika",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27200579"
   },
   {
+    "title": "Movfuscator: Compile C into only mov instructions",
+    "url": "https://github.com/Battelle/movfuscator",
+    "upvotes": 103,
+    "author": "todsacerdoti",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27202801"
+  },
+  {
     "title": "AMP pages no longer get preferential treatment in Google search",
     "url": "https://plausible.io/blog/google-amp",
-    "upvotes": 476,
+    "upvotes": 484,
     "author": "ColinWright",
-    "comments": 114,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=27192685"
   },
   {
-    "title": "Hydras suggest that sleep evolved before brains",
-    "url": "https://www.quantamagazine.org/sleep-evolved-before-brains-hydras-are-living-proof-20210518/",
-    "upvotes": 272,
-    "author": "theafh",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=27195813"
+    "title": "Reliance Jio Impersonation Issue",
+    "url": "https://susam.in/blog/reliance-jio-impersonation-issue/",
+    "upvotes": 24,
+    "author": "susam",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27204581"
   },
   {
     "title": "Definitive Guide to Ruby's C API",
     "url": "https://silverhammermba.github.io/emberb/c/",
-    "upvotes": 121,
+    "upvotes": 128,
     "author": "Lammy",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27172483"
   },
   {
     "title": "Boosting upload speed and improving Windows' TCP stack",
     "url": "https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed",
-    "upvotes": 236,
+    "upvotes": 237,
     "author": "el_duderino",
-    "comments": 99,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=27198085"
-  },
-  {
-    "title": "Abandoned and Little-Known Airfields",
-    "url": "http://airfields-freeman.com/index.htm",
-    "upvotes": 39,
-    "author": "chha",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27192626"
   },
   {
     "title": "The data model behind Notion's flexibility",
     "url": "https://www.notion.so/blog/data-model-behind-notion",
-    "upvotes": 265,
+    "upvotes": 268,
     "author": "pspeter3",
-    "comments": 95,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=27200177"
+  },
+  {
+    "title": "Abandoned and Little-Known Airfields",
+    "url": "http://airfields-freeman.com/index.htm",
+    "upvotes": 41,
+    "author": "chha",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27192626"
   },
   {
     "title": "LaMDA: Google's New Conversation Technology",
     "url": "https://blog.google/technology/ai/lamda/",
-    "upvotes": 248,
+    "upvotes": 254,
     "author": "rnd2",
-    "comments": 123,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=27198087"
-  },
-  {
-    "title": "Atomics in AArch64",
-    "url": "https://cpufun.substack.com/p/atomics-in-aarch64",
-    "upvotes": 25,
-    "author": "gok",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27191275"
   },
   {
     "title": "The overfitted brain: Dreams evolved to assist generalization",
     "url": "https://www.cell.com/patterns/fulltext/S2666-3899(21)00064-7",
-    "upvotes": 150,
+    "upvotes": 153,
     "author": "hheikinh",
     "comments": 63,
     "link": "https://news.ycombinator.com/item?id=27198505"
   },
   {
+    "title": "Atomics in AArch64",
+    "url": "https://cpufun.substack.com/p/atomics-in-aarch64",
+    "upvotes": 26,
+    "author": "gok",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27191275"
+  },
+  {
     "title": "GADTs for Dummies",
     "url": "https://wiki.haskell.org/GADTs_for_dummies",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "gbrown_",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27172843"
+  },
+  {
+    "title": "Last year, more people in San Francisco died of overdoses than of Covid-19",
+    "url": "https://www.economist.com/united-states/2021/05/15/last-year-more-people-in-san-francisco-died-of-overdoses-than-of-covid-19",
+    "upvotes": 79,
+    "author": "rblion",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27205201"
   },
   {
     "title": "Map of the Internet",
     "url": "https://www.halcyonmaps.com/map-of-the-internet-2021/",
-    "upvotes": 90,
+    "upvotes": 91,
     "author": "eatox",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27172686"
+  },
+  {
+    "title": "Flat Data",
+    "url": "https://octo.github.com/projects/flat-data",
+    "upvotes": 253,
+    "author": "idan",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=27197950"
   },
   {
     "title": "Sirum is hiring engineers for the micro-fulfillment of medicine",
     "url": "item?id=27201040"
   },
   {
-    "title": "Flat Data",
-    "url": "https://octo.github.com/projects/flat-data",
-    "upvotes": 248,
-    "author": "idan",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=27197950"
-  },
-  {
-    "title": "Unveiling Material You – Google's new design language",
-    "url": "https://material.io/blog/announcing-material-you",
-    "upvotes": 80,
-    "author": "tancik",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=27204720"
-  },
-  {
     "title": "Unveiling our new Quantum AI campus",
     "url": "https://blog.google/technology/ai/unveiling-our-new-quantum-ai-campus/",
-    "upvotes": 124,
+    "upvotes": 126,
     "author": "asparagui",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27198357"
   },
   {
@@ -232,7 +216,23 @@
     "url": "https://www.macworld.com/article/344971/adobe-drops-postscript-type1.html",
     "upvotes": 90,
     "author": "ingve",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27191972"
+  },
+  {
+    "title": "PlanetScale – Database for Developers",
+    "url": "https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers",
+    "upvotes": 255,
+    "author": "samlambert",
+    "comments": 112,
+    "link": "https://news.ycombinator.com/item?id=27197873"
+  },
+  {
+    "title": "Uber Engineering Tricks of the Trade: Tuning JVM Memory for Large-Scale Services",
+    "url": "https://eng.uber.com/jvm-tuning-garbage-collection/",
+    "upvotes": 125,
+    "author": "commandlinefan",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=27197296"
   }
 ]
