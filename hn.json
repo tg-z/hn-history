@@ -1,124 +1,140 @@
 [
   {
+    "title": "Google MUM: A new AI milestone for understanding information",
+    "url": "https://blog.google/products/search/introducing-mum/",
+    "upvotes": 16,
+    "author": "chris_f",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27215653"
+  },
+  {
     "title": "Welcome to Libera Chat",
     "url": "https://libera.chat/news/welcome-to-libera-chat",
-    "upvotes": 1039,
+    "upvotes": 1072,
     "author": "smitop",
-    "comments": 380,
+    "comments": 389,
     "link": "https://news.ycombinator.com/item?id=27207734"
   },
   {
     "title": "Internet Explorer 11",
     "url": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
-    "upvotes": 274,
+    "upvotes": 297,
     "author": "smukherjee19",
-    "comments": 141,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=27212127"
+  },
+  {
+    "title": "Ansible 4.0",
+    "url": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
+    "upvotes": 36,
+    "author": "AJAlabs",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27215477"
+  },
+  {
+    "title": "File Descriptor Limits",
+    "url": "http://0pointer.net/blog/file-descriptor-limits.html",
+    "upvotes": 17,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27215690"
   },
   {
     "title": "Improving Firefox stability on Linux",
     "url": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
-    "upvotes": 403,
+    "upvotes": 416,
     "author": "TangerineDream",
-    "comments": 147,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=27209412"
-  },
-  {
-    "title": "Sharing learnings about our image cropping algorithm",
-    "url": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
-    "upvotes": 121,
-    "author": "dsr12",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=27212270"
   },
   {
     "title": "A teenager's guide to avoiding actual work",
     "url": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
-    "upvotes": 960,
+    "upvotes": 990,
     "author": "mad_ned",
-    "comments": 177,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=27206552"
   },
   {
-    "title": "“Energy in the Future”: a time capsule of energy concerns from 1953",
-    "url": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
-    "upvotes": 29,
-    "author": "herogreen",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27214929"
-  },
-  {
-    "title": "Ansible 4.0.0 final has been released",
-    "url": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
-    "upvotes": 12,
-    "author": "AJAlabs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27215477"
-  },
-  {
-    "title": "YouTube ads in Safari: you see them now, will you see them in the future?",
-    "url": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-    "upvotes": 111,
-    "author": "taxyovio",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=27212812"
-  },
-  {
-    "title": "Squeezebox Keyboard",
-    "url": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
-    "upvotes": 180,
-    "author": "mooreds",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=27207333"
+    "title": "Sharing learnings about our image cropping algorithm",
+    "url": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
+    "upvotes": 128,
+    "author": "dsr12",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=27212270"
   },
   {
     "title": "Miss Shilling's orifice helped win the war",
     "url": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
-    "upvotes": 34,
+    "upvotes": 52,
     "author": "choult",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27214507"
+  },
+  {
+    "title": "YouTube ads in Safari: you see them now, will you see them in the future?",
+    "url": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
+    "upvotes": 119,
+    "author": "taxyovio",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=27212812"
+  },
+  {
+    "title": "“Energy in the Future”: a time capsule of energy concerns from 1953",
+    "url": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
+    "upvotes": 35,
+    "author": "herogreen",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27214929"
+  },
+  {
+    "title": "Squeezebox Keyboard",
+    "url": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
+    "upvotes": 197,
+    "author": "mooreds",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=27207333"
   },
   {
     "title": "Cover",
     "url": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca"
   },
   {
-    "title": "File Descriptor Limits",
-    "url": "http://0pointer.net/blog/file-descriptor-limits.html",
-    "upvotes": 3,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27215690"
-  },
-  {
     "title": "3D Math Primer for Graphics and Game Development",
     "url": "https://gamemath.com/",
-    "upvotes": 26,
+    "upvotes": 37,
     "author": "noch",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27214221"
+  },
+  {
+    "title": "The State of Toolchains in OpenBSD",
+    "url": "https://www.cambus.net/the-state-of-toolchains-in-openbsd/",
+    "upvotes": 15,
+    "author": "fcambus",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27206939"
   },
   {
     "title": "FTC and several states sue Frontier Communications regarding internet speeds",
     "url": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
-    "upvotes": 288,
+    "upvotes": 296,
     "author": "marc__1",
-    "comments": 122,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=27211517"
   },
   {
     "title": "Tracking the San Francisco Tech Exodus",
     "url": "https://sfciti.org/sf-tech-exodus/",
-    "upvotes": 148,
+    "upvotes": 165,
     "author": "kyleblarson",
-    "comments": 183,
+    "comments": 203,
     "link": "https://news.ycombinator.com/item?id=27212423"
   },
   {
     "title": "On Establishing a Cloud Security Program",
     "url": "https://www.marcolancini.it/2021/blog-cloud-security-roadmap/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "aburan28",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27213567"
@@ -126,113 +142,97 @@
   {
     "title": "Next-generation Deploy Previews, plus Netlify acquires FeaturePeek",
     "url": "https://www.netlify.com/blog/2021/05/19/next-generation-deploy-previews-plus-netlify-acquires-featurepeek/",
-    "upvotes": 131,
+    "upvotes": 133,
     "author": "csmajorfive",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27210460"
   },
   {
-    "title": "Previews of software updates designed for people with disabilities",
-    "url": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
-    "upvotes": 335,
-    "author": "ArmandGrillet",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=27211583"
+    "title": "Landlock merged in mainline for Linux 5.13",
+    "url": "https://landlock.io/",
+    "upvotes": 9,
+    "author": "p4bl0",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27215563"
   },
   {
     "title": "A Gentle Introduction to Ted Nelson's ZigZag Structure",
     "url": "https://www.nongnu.org/gzz/gi/gi.html",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "breck",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27210008"
   },
   {
-    "title": "The State of Toolchains in OpenBSD",
-    "url": "https://www.cambus.net/the-state-of-toolchains-in-openbsd/",
-    "upvotes": 6,
-    "author": "fcambus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27206939"
+    "title": "Previews of software updates designed for people with disabilities",
+    "url": "https://www.apple.com/newsroom/2021/05/apple-previews-powerful-software-updates-designed-for-people-with-disabilities/",
+    "upvotes": 338,
+    "author": "ArmandGrillet",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=27211583"
   },
   {
     "title": "Over the past 10 years, the LHC has found more than 50 new hadrons",
     "url": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
-    "upvotes": 93,
+    "upvotes": 99,
     "author": "graderjs",
-    "comments": 26,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27207330"
   },
   {
     "title": "The Amish as a source of tech-savvy guidance",
     "url": "https://psyche.co/ideas/to-be-more-tech-savvy-borrow-these-strategies-from-the-amish",
-    "upvotes": 139,
+    "upvotes": 142,
     "author": "choult",
-    "comments": 101,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=27207049"
+  },
+  {
+    "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story",
+    "url": "https://computerhistory.org/blog/patricias-perfect-pull/",
+    "upvotes": 5,
+    "author": "sohkamyung",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27215348"
   },
   {
     "title": "Making live repls behave",
     "url": "https://scattered-thoughts.net/writing/making-live-repls-behave/",
-    "upvotes": 12,
+    "upvotes": 16,
     "author": "MindGods",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27204953"
   },
   {
-    "title": "From apes to birds, animal species that “laugh”",
-    "url": "https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/",
-    "upvotes": 105,
-    "author": "Engineering-MD",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=27193602"
-  },
-  {
-    "title": "Merlin's Owl",
-    "url": "https://www.laphamsquarterly.org/roundtable/merlins-owl",
-    "upvotes": 10,
-    "author": "drdee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27203813"
-  },
-  {
-    "title": "Elizabeth Blackwell to Hans Sloane",
-    "url": "https://blogs.bl.uk/untoldlives/2021/05/introducing-elizabeth-blackwell-to-hans-sloane.html?_ga=2.136751731.210876210.1621440544-1810079885.1612580217",
-    "upvotes": 6,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27210572"
-  },
-  {
-    "title": "Chrome testing RSS-powered ‘Follow’ button",
-    "url": "https://9to5google.com/2021/05/19/chrome-follow-rss-feed/",
-    "upvotes": 139,
-    "author": "Breadmaker",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=27210819"
-  },
-  {
     "title": "All Hail King Pokémon",
     "url": "https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile",
-    "upvotes": 64,
+    "upvotes": 68,
     "author": "nomoreplease",
-    "comments": 44,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=27212278"
+  },
+  {
+    "title": "From apes to birds, animal species that “laugh”",
+    "url": "https://arstechnica.com/science/2021/05/from-apes-to-birds-there-are-65-animal-species-that-laugh/",
+    "upvotes": 107,
+    "author": "Engineering-MD",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=27193602"
   },
   {
     "title": "Raw keyboard handling in Unix terminals",
     "url": "https://sw.kovidgoyal.net/kitty/keyboard-protocol.html",
-    "upvotes": 96,
+    "upvotes": 99,
     "author": "drran",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27193661"
   },
   {
-    "title": "IRCv3",
-    "url": "https://ircv3.net/",
-    "upvotes": 87,
-    "author": "xvilka",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27211798"
+    "title": "Merlin's Owl",
+    "url": "https://www.laphamsquarterly.org/roundtable/merlins-owl",
+    "upvotes": 11,
+    "author": "drdee",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27203813"
   }
 ]
