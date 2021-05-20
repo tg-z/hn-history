@@ -1,48 +1,56 @@
 [
   {
-    "title": "UK Rail services to come under unified state control",
-    "url": "https://www.bbc.com/news/business-57176858.html",
-    "upvotes": 80,
-    "author": "petewailes",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27218069"
+    "title": "Ampere announces their next CPU will use custom microarchitecture instead of ARM",
+    "url": "https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores",
+    "upvotes": 17,
+    "author": "gautamcgoel",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27218275"
   },
   {
     "title": "The End of Retirement",
     "url": "https://harpers.org/archive/2014/08/the-end-of-retirement/",
-    "upvotes": 39,
+    "upvotes": 48,
     "author": "fortran77",
-    "comments": 12,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27205734"
+  },
+  {
+    "title": "UK Rail services to come under unified state control",
+    "url": "https://www.bbc.com/news/business-57176858.html",
+    "upvotes": 99,
+    "author": "petewailes",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=27218069"
+  },
+  {
+    "title": "std::latch",
+    "url": "https://en.cppreference.com/w/cpp/thread/latch",
+    "upvotes": 38,
+    "author": "nickysielicki",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27217877"
   },
   {
     "title": "Internet Explorer 11",
     "url": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
-    "upvotes": 583,
+    "upvotes": 592,
     "author": "smukherjee19",
-    "comments": 235,
+    "comments": 237,
     "link": "https://news.ycombinator.com/item?id=27212127"
   },
   {
     "title": "ByteDance: TikTok's co-founder to step down as chief executive",
     "url": "https://www.bbc.com/news/business-57181225",
-    "upvotes": 21,
+    "upvotes": 31,
     "author": "throwawaysea",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27218009"
-  },
-  {
-    "title": "std::latch",
-    "url": "https://en.cppreference.com/w/cpp/thread/latch",
-    "upvotes": 32,
-    "author": "nickysielicki",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27217877"
   },
   {
     "title": "The Array Cast – A podcast about the array programming languages",
     "url": "https://www.arraycast.com/",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "srpeck",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27209093"
@@ -50,31 +58,31 @@
   {
     "title": "File Descriptor Limits",
     "url": "http://0pointer.net/blog/file-descriptor-limits.html",
-    "upvotes": 141,
+    "upvotes": 142,
     "author": "ingve",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27215690"
   },
   {
     "title": "Building Self-Managed Teams: Stories from Riot Games",
     "url": "https://codingsans.com/blog/self-managed-teams",
-    "upvotes": 80,
+    "upvotes": 86,
     "author": "womitt",
-    "comments": 24,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27207107"
   },
   {
     "title": "Breeze Ergonomic Keyboard by Afternoon Labs",
     "url": "https://afternoonlabs.com/breeze/",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "niedzielski",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27217423"
   },
   {
     "title": "OpenFlexure Microscope, an open-source optical microscope",
     "url": "https://openflexure.org/projects/microscope/",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "fybs",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27216452"
@@ -82,23 +90,47 @@
   {
     "title": "How to look at the stack with gdb",
     "url": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
-    "upvotes": 91,
+    "upvotes": 92,
     "author": "yesenadam",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27204883"
   },
   {
+    "title": "Rethinking Search: Making Experts out of Dilettantes",
+    "url": "https://arxiv.org/abs/2105.02274",
+    "upvotes": 4,
+    "author": "ricardo81",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27207404"
+  },
+  {
     "title": "Welcome to Libera Chat",
     "url": "https://libera.chat/news/welcome-to-libera-chat",
-    "upvotes": 1246,
+    "upvotes": 1249,
     "author": "smitop",
-    "comments": 448,
+    "comments": 450,
     "link": "https://news.ycombinator.com/item?id=27207734"
+  },
+  {
+    "title": "3D Math Primer for Graphics and Game Development",
+    "url": "https://gamemath.com/",
+    "upvotes": 145,
+    "author": "noch",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27214221"
+  },
+  {
+    "title": "MUM: A new AI milestone for understanding information",
+    "url": "https://blog.google/products/search/introducing-mum/",
+    "upvotes": 184,
+    "author": "chris_f",
+    "comments": 152,
+    "link": "https://news.ycombinator.com/item?id=27215653"
   },
   {
     "title": "Experiment, powered by RSS, to allow following of creators in Chrome",
     "url": "https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html",
-    "upvotes": 16,
+    "upvotes": 17,
     "author": "ChrisArchitect",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27217283"
@@ -106,97 +138,73 @@
   {
     "title": "“Miss Shilling's Orifice” helped win the war",
     "url": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
-    "upvotes": 153,
+    "upvotes": 156,
     "author": "choult",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27214507"
   },
   {
-    "title": "3D Math Primer for Graphics and Game Development",
-    "url": "https://gamemath.com/",
-    "upvotes": 139,
-    "author": "noch",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27214221"
+    "title": "FemtoStar: Taking Aim for the Stars",
+    "url": "https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/",
+    "upvotes": 71,
+    "author": "privong",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27214158"
   },
   {
-    "title": "MUM: A new AI milestone for understanding information",
-    "url": "https://blog.google/products/search/introducing-mum/",
-    "upvotes": 182,
-    "author": "chris_f",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=27215653"
+    "title": "YouTube ads in Safari: you see them now, will you see them in the future?",
+    "url": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
+    "upvotes": 189,
+    "author": "taxyovio",
+    "comments": 202,
+    "link": "https://news.ycombinator.com/item?id=27212812"
   },
   {
     "title": "Sharing learnings about our image cropping algorithm",
     "url": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
     "upvotes": 176,
     "author": "dsr12",
-    "comments": 115,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=27212270"
-  },
-  {
-    "title": "FemtoStar: Taking Aim for the Stars",
-    "url": "https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/",
-    "upvotes": 68,
-    "author": "privong",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27214158"
-  },
-  {
-    "title": "Squeezebox Keyboard",
-    "url": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
-    "upvotes": 298,
-    "author": "mooreds",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=27207333"
-  },
-  {
-    "title": "YouTube ads in Safari: you see them now, will you see them in the future?",
-    "url": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-    "upvotes": 186,
-    "author": "taxyovio",
-    "comments": 198,
-    "link": "https://news.ycombinator.com/item?id=27212812"
   },
   {
     "title": "Facebook says I'm abusive content [video]",
     "url": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
-    "upvotes": 169,
+    "upvotes": 179,
     "author": "josephcsible",
-    "comments": 100,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=27216631"
-  },
-  {
-    "title": "Quantum Computer Datasheet [pdf]",
-    "url": "https://quantumai.google/hardware/datasheet/weber.pdf",
-    "upvotes": 22,
-    "author": "EvgeniyZh",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27205419"
-  },
-  {
-    "title": "Handling exceptions in Python like a pro",
-    "url": "https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/",
-    "upvotes": 34,
-    "author": "latrova",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27207568"
   },
   {
     "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story",
     "url": "https://computerhistory.org/blog/patricias-perfect-pull/",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "sohkamyung",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27215348"
   },
   {
+    "title": "Quantum Computer Datasheet [pdf]",
+    "url": "https://quantumai.google/hardware/datasheet/weber.pdf",
+    "upvotes": 23,
+    "author": "EvgeniyZh",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27205419"
+  },
+  {
+    "title": "A teenager's guide to avoiding actual work",
+    "url": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
+    "upvotes": 1194,
+    "author": "mad_ned",
+    "comments": 202,
+    "link": "https://news.ycombinator.com/item?id=27206552"
+  },
+  {
     "title": "Landlock merged in mainline for Linux 5.13",
     "url": "https://landlock.io/",
-    "upvotes": 79,
+    "upvotes": 81,
     "author": "p4bl0",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27215563"
   },
   {
@@ -204,35 +212,27 @@
     "url": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca"
   },
   {
-    "title": "A teenager's guide to avoiding actual work",
-    "url": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
-    "upvotes": 1186,
-    "author": "mad_ned",
-    "comments": 202,
-    "link": "https://news.ycombinator.com/item?id=27206552"
-  },
-  {
     "title": "Improving Firefox stability on Linux",
     "url": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
-    "upvotes": 517,
+    "upvotes": 520,
     "author": "TangerineDream",
-    "comments": 177,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=27209412"
-  },
-  {
-    "title": "Ansible 4.0",
-    "url": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
-    "upvotes": 140,
-    "author": "AJAlabs",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=27215477"
   },
   {
     "title": "All Hail King Pokémon",
     "url": "https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile",
     "upvotes": 76,
     "author": "nomoreplease",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27212278"
+  },
+  {
+    "title": "Ansible 4.0",
+    "url": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
+    "upvotes": 143,
+    "author": "AJAlabs",
+    "comments": 98,
+    "link": "https://news.ycombinator.com/item?id=27215477"
   }
 ]
