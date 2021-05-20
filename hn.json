@@ -1,40 +1,32 @@
 [
   {
-    "title": "Welcome to Libera Chat",
-    "url": "https://libera.chat/news/welcome-to-libera-chat",
-    "upvotes": 1183,
-    "author": "smitop",
-    "comments": 420,
-    "link": "https://news.ycombinator.com/item?id=27207734"
-  },
-  {
     "title": "Internet Explorer 11",
     "url": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
-    "upvotes": 401,
+    "upvotes": 418,
     "author": "smukherjee19",
-    "comments": 192,
+    "comments": 202,
     "link": "https://news.ycombinator.com/item?id=27212127"
-  },
-  {
-    "title": "Ansible 4.0",
-    "url": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
-    "upvotes": 98,
-    "author": "AJAlabs",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=27215477"
   },
   {
     "title": "File Descriptor Limits",
     "url": "http://0pointer.net/blog/file-descriptor-limits.html",
-    "upvotes": 84,
+    "upvotes": 87,
     "author": "ingve",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27215690"
+  },
+  {
+    "title": "Ansible 4.0",
+    "url": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
+    "upvotes": 101,
+    "author": "AJAlabs",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=27215477"
   },
   {
     "title": "Google MUM: A new AI milestone for understanding information",
     "url": "https://blog.google/products/search/introducing-mum/",
-    "upvotes": 136,
+    "upvotes": 141,
     "author": "chris_f",
     "comments": 117,
     "link": "https://news.ycombinator.com/item?id=27215653"
@@ -42,197 +34,205 @@
   {
     "title": "Improving Firefox stability on Linux",
     "url": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
-    "upvotes": 471,
+    "upvotes": 473,
     "author": "TangerineDream",
-    "comments": 162,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=27209412"
+  },
+  {
+    "title": "Building Self-Managed Teams: Stories from Riot Games",
+    "url": "https://codingsans.com/blog/self-managed-teams",
+    "upvotes": 24,
+    "author": "womitt",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27207107"
+  },
+  {
+    "title": "India's holiest river Ganges is swollen with Covid victims",
+    "url": "https://www.bbc.com/news/world-asia-india-57154564",
+    "upvotes": 24,
+    "author": "manexploitsman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27217169"
   },
   {
     "title": "FemtoStar: Taking Aim for the Stars",
     "url": "https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "privong",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27214158"
   },
   {
-    "title": "“Miss Shilling's Orifice” helped win the war",
-    "url": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
-    "upvotes": 117,
-    "author": "choult",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27214507"
-  },
-  {
-    "title": "Building Self-Managed Teams: Stories from Riot Games",
-    "url": "https://codingsans.com/blog/self-managed-teams",
-    "upvotes": 18,
-    "author": "womitt",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27207107"
-  },
-  {
     "title": "OpenFlexure Microscope, an open-source optical microscope",
     "url": "https://openflexure.org/projects/microscope/",
-    "upvotes": 14,
+    "upvotes": 19,
     "author": "fybs",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27216452"
   },
   {
-    "title": "Sharing learnings about our image cropping algorithm",
-    "url": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
-    "upvotes": 154,
-    "author": "dsr12",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=27212270"
+    "title": "“Miss Shilling's Orifice” helped win the war",
+    "url": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
+    "upvotes": 120,
+    "author": "choult",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27214507"
   },
   {
     "title": "How to look at the stack with gdb",
     "url": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
-    "upvotes": 49,
+    "upvotes": 52,
     "author": "yesenadam",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27204883"
   },
   {
+    "title": "Sharing learnings about our image cropping algorithm",
+    "url": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
+    "upvotes": 156,
+    "author": "dsr12",
+    "comments": 97,
+    "link": "https://news.ycombinator.com/item?id=27212270"
+  },
+  {
+    "title": "Welcome to Libera Chat",
+    "url": "https://libera.chat/news/welcome-to-libera-chat",
+    "upvotes": 1193,
+    "author": "smitop",
+    "comments": 430,
+    "link": "https://news.ycombinator.com/item?id=27207734"
+  },
+  {
     "title": "Landlock merged in mainline for Linux 5.13",
     "url": "https://landlock.io/",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "p4bl0",
-    "comments": 20,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27215563"
   },
   {
     "title": "YouTube ads in Safari: you see them now, will you see them in the future?",
     "url": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-    "upvotes": 164,
+    "upvotes": 166,
     "author": "taxyovio",
-    "comments": 171,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=27212812"
-  },
-  {
-    "title": "Handling exceptions in Python like a pro",
-    "url": "https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/",
-    "upvotes": 4,
-    "author": "latrova",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27207568"
   },
   {
     "title": "“Energy in the Future”: a time capsule of energy concerns from 1953",
     "url": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
-    "upvotes": 60,
+    "upvotes": 62,
     "author": "herogreen",
-    "comments": 37,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27214929"
   },
   {
-    "title": "3D Math Primer for Graphics and Game Development",
-    "url": "https://gamemath.com/",
-    "upvotes": 90,
-    "author": "noch",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27214221"
+    "title": "Louis Rossmann videos “reported as abusive” and banned from Facebook",
+    "url": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
+    "upvotes": 63,
+    "author": "josephcsible",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27216631"
   },
   {
     "title": "Squeezebox Keyboard",
     "url": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
-    "upvotes": 241,
+    "upvotes": 245,
     "author": "mooreds",
-    "comments": 94,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=27207333"
   },
   {
-    "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story",
-    "url": "https://computerhistory.org/blog/patricias-perfect-pull/",
-    "upvotes": 34,
-    "author": "sohkamyung",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27215348"
+    "title": "3D Math Primer for Graphics and Game Development",
+    "url": "https://gamemath.com/",
+    "upvotes": 93,
+    "author": "noch",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27214221"
   },
   {
     "title": "Cover",
     "url": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca"
   },
   {
-    "title": "Louis Rossmann videos “reported as abusive” and banned from Facebook",
-    "url": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
-    "upvotes": 43,
-    "author": "josephcsible",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27216631"
+    "title": "Handling exceptions in Python like a pro",
+    "url": "https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/",
+    "upvotes": 6,
+    "author": "latrova",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27207568"
+  },
+  {
+    "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story",
+    "url": "https://computerhistory.org/blog/patricias-perfect-pull/",
+    "upvotes": 37,
+    "author": "sohkamyung",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27215348"
   },
   {
     "title": "Nikola Tesla invention from 100 years ago suddenly makes more sense today",
     "url": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
-    "upvotes": 106,
+    "upvotes": 112,
     "author": "hirundo",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27215894"
-  },
-  {
-    "title": "A teenager's guide to avoiding actual work",
-    "url": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
-    "upvotes": 1111,
-    "author": "mad_ned",
-    "comments": 196,
-    "link": "https://news.ycombinator.com/item?id=27206552"
   },
   {
     "title": "As Texas Went Dark, the State Paid Natural-Gas Companies to Go Offline",
     "url": "https://www.wsj.com/articles/as-texas-went-dark-the-state-paid-natural-gas-companies-to-go-offline-11620385201",
-    "upvotes": 32,
+    "upvotes": 38,
     "author": "hourislate",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27216479"
   },
   {
+    "title": "A teenager's guide to avoiding actual work",
+    "url": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
+    "upvotes": 1114,
+    "author": "mad_ned",
+    "comments": 196,
+    "link": "https://news.ycombinator.com/item?id=27206552"
+  },
+  {
     "title": "FTC and several states sue Frontier Communications regarding internet speeds",
     "url": "https://www.reuters.com/article/ftc-frontier-communications-speed/update-1-u-s-sues-frontier-communications-regarding-internet-speeds-filing-idUSL2N2N62E4",
-    "upvotes": 314,
+    "upvotes": 316,
     "author": "marc__1",
-    "comments": 127,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=27211517"
   },
   {
     "title": "Making live repls behave",
     "url": "https://scattered-thoughts.net/writing/making-live-repls-behave/",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "MindGods",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27204953"
+  },
+  {
+    "title": "A Gentle Introduction to Ted Nelson's ZigZag Structure",
+    "url": "https://www.nongnu.org/gzz/gi/gi.html",
+    "upvotes": 83,
+    "author": "breck",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27210008"
+  },
+  {
+    "title": "Over the past 10 years, the LHC has found more than 50 new hadrons",
+    "url": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
+    "upvotes": 119,
+    "author": "graderjs",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=27207330"
   },
   {
     "title": "On Establishing a Cloud Security Program",
     "url": "https://www.marcolancini.it/2021/blog-cloud-security-roadmap/",
     "upvotes": 47,
     "author": "aburan28",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27213567"
-  },
-  {
-    "title": "A Gentle Introduction to Ted Nelson's ZigZag Structure",
-    "url": "https://www.nongnu.org/gzz/gi/gi.html",
-    "upvotes": 82,
-    "author": "breck",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27210008"
-  },
-  {
-    "title": "Over the past 10 years, the LHC has found more than 50 new hadrons",
-    "url": "https://home.cern/news/news/physics/59-new-hadrons-and-counting",
-    "upvotes": 116,
-    "author": "graderjs",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27207330"
-  },
-  {
-    "title": "Tracking the San Francisco Tech Exodus",
-    "url": "https://sfciti.org/sf-tech-exodus/",
-    "upvotes": 204,
-    "author": "kyleblarson",
-    "comments": 252,
-    "link": "https://news.ycombinator.com/item?id=27212423"
   }
 ]
