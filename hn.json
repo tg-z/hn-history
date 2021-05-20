@@ -2,71 +2,71 @@
   {
     "title": "Internet Explorer 11",
     "url": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
-    "upvotes": 452,
+    "upvotes": 474,
     "author": "smukherjee19",
-    "comments": 213,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=27212127"
   },
   {
     "title": "Marriott Files Lawsuit Against Unknown Robocalls Perpetrators",
     "url": "https://www.nasdaq.com/articles/marriott-files-lawsuit-against-unknown-perpetrators-responsible-for-fraudulent-robocalls",
-    "upvotes": 19,
+    "upvotes": 30,
     "author": "iou",
-    "comments": 5,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27216946"
-  },
-  {
-    "title": "File Descriptor Limits",
-    "url": "http://0pointer.net/blog/file-descriptor-limits.html",
-    "upvotes": 95,
-    "author": "ingve",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27215690"
   },
   {
     "title": "Ansible 4.0",
     "url": "https://groups.google.com/g/ansible-devel/c/AeF2En1RGI8",
-    "upvotes": 116,
+    "upvotes": 120,
     "author": "AJAlabs",
-    "comments": 80,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=27215477"
+  },
+  {
+    "title": "File Descriptor Limits",
+    "url": "http://0pointer.net/blog/file-descriptor-limits.html",
+    "upvotes": 100,
+    "author": "ingve",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27215690"
+  },
+  {
+    "title": "Google MUM: A new AI milestone for understanding information",
+    "url": "https://blog.google/products/search/introducing-mum/",
+    "upvotes": 160,
+    "author": "chris_f",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=27215653"
   },
   {
     "title": "Improving Firefox stability on Linux",
     "url": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
-    "upvotes": 484,
+    "upvotes": 487,
     "author": "TangerineDream",
-    "comments": 167,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=27209412"
   },
   {
     "title": "Building Self-Managed Teams: Stories from Riot Games",
     "url": "https://codingsans.com/blog/self-managed-teams",
-    "upvotes": 35,
+    "upvotes": 39,
     "author": "womitt",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27207107"
   },
   {
-    "title": "Google MUM: A new AI milestone for understanding information",
-    "url": "https://blog.google/products/search/introducing-mum/",
-    "upvotes": 151,
-    "author": "chris_f",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=27215653"
-  },
-  {
-    "title": "India's holiest river Ganges is swollen with Covid victims",
-    "url": "https://www.bbc.com/news/world-asia-india-57154564",
-    "upvotes": 68,
-    "author": "manexploitsman",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=27217169"
+    "title": "Google Revives RSS",
+    "url": "https://techcrunch.com/2021/05/19/undead-again-google-brings-back-rss/",
+    "upvotes": 30,
+    "author": "Garbage",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27217347"
   },
   {
     "title": "FemtoStar: Taking Aim for the Stars",
     "url": "https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/",
-    "upvotes": 45,
+    "upvotes": 50,
     "author": "privong",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27214158"
@@ -74,89 +74,105 @@
   {
     "title": "How to look at the stack with gdb",
     "url": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
-    "upvotes": 58,
+    "upvotes": 62,
     "author": "yesenadam",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27204883"
+  },
+  {
+    "title": "OpenFlexure Microscope, an open-source optical microscope",
+    "url": "https://openflexure.org/projects/microscope/",
+    "upvotes": 22,
+    "author": "fybs",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27216452"
   },
   {
     "title": "“Miss Shilling's Orifice” helped win the war",
     "url": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
-    "upvotes": 128,
+    "upvotes": 134,
     "author": "choult",
-    "comments": 31,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27214507"
   },
   {
-    "title": "Sharing learnings about our image cropping algorithm",
-    "url": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
-    "upvotes": 157,
-    "author": "dsr12",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=27212270"
+    "title": "Louis Rossmann videos “reported as abusive” and banned from Facebook",
+    "url": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
+    "upvotes": 111,
+    "author": "josephcsible",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=27216631"
   },
   {
     "title": "Welcome to Libera Chat",
     "url": "https://libera.chat/news/welcome-to-libera-chat",
-    "upvotes": 1199,
+    "upvotes": 1204,
     "author": "smitop",
     "comments": 437,
     "link": "https://news.ycombinator.com/item?id=27207734"
   },
   {
-    "title": "Louis Rossmann videos “reported as abusive” and banned from Facebook",
-    "url": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
-    "upvotes": 92,
-    "author": "josephcsible",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=27216631"
-  },
-  {
-    "title": "OpenFlexure Microscope, an open-source optical microscope",
-    "url": "https://openflexure.org/projects/microscope/",
-    "upvotes": 20,
-    "author": "fybs",
+    "title": "Quantum Computer Datasheet [pdf]",
+    "url": "https://quantumai.google/hardware/datasheet/weber.pdf",
+    "upvotes": 8,
+    "author": "EvgeniyZh",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27216452"
+    "link": "https://news.ycombinator.com/item?id=27205419"
   },
   {
-    "title": "YouTube ads in Safari: you see them now, will you see them in the future?",
-    "url": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-    "upvotes": 170,
-    "author": "taxyovio",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=27212812"
+    "title": "Sharing learnings about our image cropping algorithm",
+    "url": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
+    "upvotes": 159,
+    "author": "dsr12",
+    "comments": 103,
+    "link": "https://news.ycombinator.com/item?id=27212270"
+  },
+  {
+    "title": "Breeze Ergonomic Keyboard by Afternoon Labs",
+    "url": "https://afternoonlabs.com/breeze/",
+    "upvotes": 5,
+    "author": "niedzielski",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27217423"
   },
   {
     "title": "3D Math Primer for Graphics and Game Development",
     "url": "https://gamemath.com/",
-    "upvotes": 103,
+    "upvotes": 109,
     "author": "noch",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27214221"
   },
   {
+    "title": "YouTube ads in Safari: you see them now, will you see them in the future?",
+    "url": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
+    "upvotes": 173,
+    "author": "taxyovio",
+    "comments": 180,
+    "link": "https://news.ycombinator.com/item?id=27212812"
+  },
+  {
     "title": "Squeezebox Keyboard",
     "url": "https://peterlyons.com/problog/2021/04/squeezebox-keyboard/",
-    "upvotes": 255,
+    "upvotes": 261,
     "author": "mooreds",
-    "comments": 95,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27207333"
   },
   {
     "title": "Landlock merged in mainline for Linux 5.13",
     "url": "https://landlock.io/",
-    "upvotes": 63,
+    "upvotes": 64,
     "author": "p4bl0",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27215563"
   },
   {
     "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story",
     "url": "https://computerhistory.org/blog/patricias-perfect-pull/",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "sohkamyung",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27215348"
   },
   {
@@ -164,65 +180,49 @@
     "url": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca"
   },
   {
-    "title": "Quantum Computer Datasheet [pdf]",
-    "url": "https://quantumai.google/hardware/datasheet/weber.pdf",
-    "upvotes": 3,
-    "author": "EvgeniyZh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27205419"
-  },
-  {
-    "title": "Google Revives RSS",
-    "url": "https://techcrunch.com/2021/05/19/undead-again-google-brings-back-rss/",
-    "upvotes": 9,
-    "author": "Garbage",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27217347"
-  },
-  {
-    "title": "“Energy in the Future”: a time capsule of energy concerns from 1953",
-    "url": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
-    "upvotes": 64,
-    "author": "herogreen",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27214929"
+    "title": "India's holiest river Ganges is swollen with Covid victims",
+    "url": "https://www.bbc.com/news/world-asia-india-57154564",
+    "upvotes": 82,
+    "author": "manexploitsman",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27217169"
   },
   {
     "title": "A teenager's guide to avoiding actual work",
     "url": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
-    "upvotes": 1125,
+    "upvotes": 1135,
     "author": "mad_ned",
     "comments": 196,
     "link": "https://news.ycombinator.com/item?id=27206552"
   },
   {
-    "title": "Nikola Tesla invention from 100 years ago suddenly makes more sense today",
-    "url": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
-    "upvotes": 120,
-    "author": "hirundo",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27215894"
-  },
-  {
     "title": "As Texas Went Dark, the State Paid Natural-Gas Companies to Go Offline",
     "url": "https://www.wsj.com/articles/as-texas-went-dark-the-state-paid-natural-gas-companies-to-go-offline-11620385201",
-    "upvotes": 48,
+    "upvotes": 57,
     "author": "hourislate",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27216479"
   },
   {
-    "title": "Handling exceptions in Python like a pro",
-    "url": "https://blog.guilatrova.dev/handling-exceptions-in-python-like-a-pro/",
-    "upvotes": 9,
-    "author": "latrova",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27207568"
+    "title": "“Energy in the Future”: a time capsule of energy concerns from 1953",
+    "url": "https://www.resilience.org/stories/2021-05-17/the-most-colossal-planning-failure-in-human-history/",
+    "upvotes": 65,
+    "author": "herogreen",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27214929"
+  },
+  {
+    "title": "Nikola Tesla invention from 100 years ago suddenly makes more sense today",
+    "url": "https://www.cnet.com/news/nikola-tesla-invention-from-100-years-ago-suddenly-makes-more-sense-today/",
+    "upvotes": 127,
+    "author": "hirundo",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27215894"
   },
   {
     "title": "Making live repls behave",
     "url": "https://scattered-thoughts.net/writing/making-live-repls-behave/",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "MindGods",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27204953"
