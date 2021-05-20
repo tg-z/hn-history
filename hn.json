@@ -2,39 +2,31 @@
   {
     "title": "Ampere announces their next CPU will use custom microarchitecture instead of ARM",
     "url": "https://www.anandtech.com/show/16684/ampere-roadmap-full-custom-cores",
-    "upvotes": 51,
+    "upvotes": 62,
     "author": "gautamcgoel",
-    "comments": 22,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27218275"
   },
   {
     "title": "Internet Explorer 11",
     "url": "https://blogs.windows.com/windowsexperience/2021/05/19/the-future-of-internet-explorer-on-windows-10-is-in-microsoft-edge/",
-    "upvotes": 606,
+    "upvotes": 614,
     "author": "smukherjee19",
-    "comments": 241,
+    "comments": 244,
     "link": "https://news.ycombinator.com/item?id=27212127"
   },
   {
     "title": "ByteDance: TikTok's co-founder to step down as chief executive",
     "url": "https://www.bbc.com/news/business-57181225",
-    "upvotes": 39,
+    "upvotes": 43,
     "author": "throwawaysea",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27218009"
-  },
-  {
-    "title": "The End of Retirement",
-    "url": "https://harpers.org/archive/2014/08/the-end-of-retirement/",
-    "upvotes": 62,
-    "author": "fortran77",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27205734"
   },
   {
     "title": "The Array Cast – A podcast about the array programming languages",
     "url": "https://www.arraycast.com/",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "srpeck",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27209093"
@@ -42,7 +34,7 @@
   {
     "title": "File Descriptor Limits",
     "url": "http://0pointer.net/blog/file-descriptor-limits.html",
-    "upvotes": 148,
+    "upvotes": 151,
     "author": "ingve",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27215690"
@@ -50,9 +42,9 @@
   {
     "title": "Building Self-Managed Teams: Stories from Riot Games",
     "url": "https://codingsans.com/blog/self-managed-teams",
-    "upvotes": 93,
+    "upvotes": 96,
     "author": "womitt",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27207107"
   },
   {
@@ -60,21 +52,13 @@
     "url": "https://arxiv.org/abs/2105.02274",
     "upvotes": 12,
     "author": "ricardo81",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27207404"
-  },
-  {
-    "title": "Breeze Ergonomic Keyboard by Afternoon Labs",
-    "url": "https://afternoonlabs.com/breeze/",
-    "upvotes": 34,
-    "author": "niedzielski",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=27217423"
   },
   {
     "title": "OpenFlexure Microscope, an open-source optical microscope",
     "url": "https://openflexure.org/projects/microscope/",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "fybs",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27216452"
@@ -82,7 +66,7 @@
   {
     "title": "How to look at the stack with gdb",
     "url": "https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "yesenadam",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27204883"
@@ -90,31 +74,31 @@
   {
     "title": "Welcome to Libera Chat",
     "url": "https://libera.chat/news/welcome-to-libera-chat",
-    "upvotes": 1256,
+    "upvotes": 1262,
     "author": "smitop",
-    "comments": 452,
+    "comments": 453,
     "link": "https://news.ycombinator.com/item?id=27207734"
   },
   {
     "title": "MUM: A new AI milestone for understanding information",
     "url": "https://blog.google/products/search/introducing-mum/",
-    "upvotes": 188,
+    "upvotes": 192,
     "author": "chris_f",
-    "comments": 153,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=27215653"
   },
   {
     "title": "“Miss Shilling's Orifice” helped win the war",
     "url": "https://www.damninteresting.com/how-miss-shillings-orifice-helped-win-the-war/",
-    "upvotes": 161,
+    "upvotes": 166,
     "author": "choult",
-    "comments": 49,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27214507"
   },
   {
     "title": "3D Math Primer for Graphics and Game Development",
     "url": "https://gamemath.com/",
-    "upvotes": 149,
+    "upvotes": 152,
     "author": "noch",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27214221"
@@ -122,117 +106,133 @@
   {
     "title": "YouTube ads in Safari: you see them now, will you see them in the future?",
     "url": "https://adguard.com/en/blog/youtube-ads-in-safari-explained.html",
-    "upvotes": 194,
+    "upvotes": 197,
     "author": "taxyovio",
-    "comments": 206,
+    "comments": 210,
     "link": "https://news.ycombinator.com/item?id=27212812"
-  },
-  {
-    "title": "Experiment, powered by RSS, to allow following of creators in Chrome",
-    "url": "https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html",
-    "upvotes": 20,
-    "author": "ChrisArchitect",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27217283"
   },
   {
     "title": "Sharing learnings about our image cropping algorithm",
     "url": "https://blog.twitter.com/engineering/en_us/topics/insights/2021/sharing-learnings-about-our-image-cropping-algorithm.html",
-    "upvotes": 177,
+    "upvotes": 178,
     "author": "dsr12",
-    "comments": 117,
+    "comments": 118,
     "link": "https://news.ycombinator.com/item?id=27212270"
   },
   {
-    "title": "Facebook says I'm abusive content [video]",
-    "url": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
-    "upvotes": 187,
-    "author": "josephcsible",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=27216631"
+    "title": "The End of Retirement",
+    "url": "https://harpers.org/archive/2014/08/the-end-of-retirement/",
+    "upvotes": 67,
+    "author": "fortran77",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=27205734"
   },
   {
-    "title": "UK Rail services to come under unified state control",
-    "url": "https://www.bbc.com/news/business-57176858.html",
-    "upvotes": 115,
-    "author": "petewailes",
-    "comments": 123,
-    "link": "https://news.ycombinator.com/item?id=27218069"
+    "title": "Experiment, powered by RSS, to allow following of creators in Chrome",
+    "url": "https://blog.chromium.org/2021/05/an-experiment-in-helping-users-and-web.html",
+    "upvotes": 21,
+    "author": "ChrisArchitect",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27217283"
   },
   {
     "title": "FemtoStar: Taking Aim for the Stars",
     "url": "https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/",
-    "upvotes": 75,
+    "upvotes": 80,
     "author": "privong",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27214158"
+  },
+  {
+    "title": "Facebook says I'm abusive content [video]",
+    "url": "https://www.youtube.com/watch?v=HfXK0Y9xHBI",
+    "upvotes": 194,
+    "author": "josephcsible",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=27216631"
+  },
+  {
+    "title": "A Cold Heaven: Graham Greene’s God",
+    "url": "https://www.thenation.com/article/culture/graham-greene-unquiet-englishman/",
+    "upvotes": 3,
+    "author": "pepys",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27209536"
+  },
+  {
+    "title": "Saying Good Bye to Hey.com",
+    "url": "https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/",
+    "upvotes": 54,
+    "author": "tachyons",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27218295"
   },
   {
     "title": "Patricia’s Perfect Pull: A Crystal Grower’s Story",
     "url": "https://computerhistory.org/blog/patricias-perfect-pull/",
-    "upvotes": 62,
+    "upvotes": 63,
     "author": "sohkamyung",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27215348"
   },
   {
-    "title": "Saying Good Bye to Hey.com",
-    "url": "https://vishnugopal.com/2021/05/20/saying-goodbye-to-hey-com/",
-    "upvotes": 40,
-    "author": "tachyons",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27218295"
-  },
-  {
     "title": "A teenager's guide to avoiding actual work",
     "url": "https://madned.substack.com/p/a-teenagers-guide-to-avoiding-actual",
-    "upvotes": 1204,
+    "upvotes": 1210,
     "author": "mad_ned",
-    "comments": 203,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=27206552"
   },
   {
-    "title": "Landlock merged in mainline for Linux 5.13",
-    "url": "https://landlock.io/",
-    "upvotes": 84,
-    "author": "p4bl0",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27215563"
+    "title": "UK Rail services to come under unified state control",
+    "url": "https://www.bbc.com/news/business-57176858.html",
+    "upvotes": 120,
+    "author": "petewailes",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=27218069"
   },
   {
     "title": "Quantum Computer Datasheet [pdf]",
     "url": "https://quantumai.google/hardware/datasheet/weber.pdf",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "EvgeniyZh",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27205419"
   },
   {
+    "title": "Landlock merged in mainline for Linux 5.13",
+    "url": "https://landlock.io/",
+    "upvotes": 86,
+    "author": "p4bl0",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27215563"
+  },
+  {
     "title": "Improving Firefox stability on Linux",
     "url": "https://hacks.mozilla.org/2021/05/improving-firefox-stability-on-linux/",
-    "upvotes": 527,
+    "upvotes": 531,
     "author": "TangerineDream",
-    "comments": 179,
+    "comments": 183,
     "link": "https://news.ycombinator.com/item?id=27209412"
   },
   {
-    "title": "std::latch",
-    "url": "https://en.cppreference.com/w/cpp/thread/latch",
-    "upvotes": 45,
-    "author": "nickysielicki",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27217877"
+    "title": "All Hail King Pokémon",
+    "url": "https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile",
+    "upvotes": 77,
+    "author": "nomoreplease",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=27212278"
   },
   {
     "title": "Cover",
     "url": "https://jobs.lever.co/cover-2/49bab031-bd9e-4ca6-a558-b80e206f10ca"
   },
   {
-    "title": "All Hail King Pokémon",
-    "url": "https://www.inputmag.com/features/king-pokemon-cards-charizards-gary-haase-profile",
-    "upvotes": 76,
-    "author": "nomoreplease",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27212278"
+    "title": "std::latch",
+    "url": "https://en.cppreference.com/w/cpp/thread/latch",
+    "upvotes": 47,
+    "author": "nickysielicki",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27217877"
   }
 ]
