@@ -2,63 +2,71 @@
   {
     "title": "Animated GIF that uses 360MB of memory on x86, on Apple Silicon it takes 35.51GB",
     "url": "https://twitter.com/ccgus/status/1395145361136644098",
-    "upvotes": 261,
+    "upvotes": 275,
     "author": "zdw",
-    "comments": 88,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27230427"
-  },
-  {
-    "title": "Now your car is a cybersecurity risk, too",
-    "url": "https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/",
-    "upvotes": 27,
-    "author": "giuliomagnifico",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27231471"
   },
   {
     "title": "Are Angels More Likely Than VCs to Drive Entrepreneurial Experimentation? [pdf]",
     "url": "https://static1.squarespace.com/static/5835e608414fb5a615f828bb/t/5ff3cac7dc8f8e0b7122ff58/1609812690849/AmirSariri_JMP.pdf",
-    "upvotes": 43,
+    "upvotes": 46,
     "author": "georgecmu",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27230774"
   },
   {
     "title": "Extreme HTTP Performance Tuning",
     "url": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
-    "upvotes": 674,
+    "upvotes": 695,
     "author": "talawahtech",
-    "comments": 99,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27226382"
   },
   {
     "title": "Sublime Text 4",
     "url": "https://www.sublimetext.com/blog/articles/sublime-text-4",
-    "upvotes": 682,
+    "upvotes": 725,
     "author": "ascom",
-    "comments": 292,
+    "comments": 310,
     "link": "https://news.ycombinator.com/item?id=27230042"
   },
   {
     "title": "An Interactive Guide to the Fourier Transform",
     "url": "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/",
-    "upvotes": 120,
+    "upvotes": 125,
     "author": "parsecs",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27229836"
+  },
+  {
+    "title": "The Belugas Have Landed",
+    "url": "https://www.hakaimagazine.com/news/the-belugas-have-landed/",
+    "upvotes": 8,
+    "author": "Hooke",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27216457"
+  },
+  {
+    "title": "Now your car is a cybersecurity risk, too",
+    "url": "https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/",
+    "upvotes": 47,
+    "author": "giuliomagnifico",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27231471"
   },
   {
     "title": "The Strange Story of Dagobert, the “DuckTales” Bandit",
     "url": "https://www.newyorker.com/news/dispatch/the-strange-story-of-dagobert-the-ducktales-bandit",
-    "upvotes": 79,
+    "upvotes": 88,
     "author": "frb",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27193099"
   },
   {
     "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code",
     "url": "https://ionescu007.github.io/SimpleVisor/",
-    "upvotes": 137,
+    "upvotes": 139,
     "author": "belter",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27227683"
@@ -66,7 +74,7 @@
   {
     "title": "Spintronics: Build Mechanical Circuits",
     "url": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
-    "upvotes": 360,
+    "upvotes": 364,
     "author": "mcp_",
     "comments": 82,
     "link": "https://news.ycombinator.com/item?id=27222457"
@@ -74,31 +82,15 @@
   {
     "title": "DOS SMB Client Performance",
     "url": "http://www.os2museum.com/wp/dos-smb-client-performance/",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "zdw",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27230190"
-  },
-  {
-    "title": "The Right Angle: On Izaak Walton’s “The Compleat Angler”",
-    "url": "https://newcriterion.com/issues/2021/6/the-right-angle",
-    "upvotes": 10,
-    "author": "miobrien",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27220787"
-  },
-  {
-    "title": "The Belugas Have Landed",
-    "url": "https://www.hakaimagazine.com/news/the-belugas-have-landed/",
-    "upvotes": 4,
-    "author": "Hooke",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27216457"
   },
   {
     "title": "Why RISC-V doesn't yet support KVM",
     "url": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
-    "upvotes": 164,
+    "upvotes": 168,
     "author": "lukastyrychtr",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27226625"
@@ -106,47 +98,63 @@
   {
     "title": "Maxwell’s Demon Continues to Startle Scientists",
     "url": "https://nautil.us/blog/how-maxwells-demon-continues-to-startle-scientists",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "dnetesn",
-    "comments": 44,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27207604"
+  },
+  {
+    "title": "The Right Angle: On Izaak Walton’s “The Compleat Angler”",
+    "url": "https://newcriterion.com/issues/2021/6/the-right-angle",
+    "upvotes": 11,
+    "author": "miobrien",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27220787"
+  },
+  {
+    "title": "Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go",
+    "url": "https://github.com/rodrigo-brito/ninjabot",
+    "upvotes": 55,
+    "author": "rodrigobrito",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27229436"
   },
   {
     "title": "First-Time Buyer Lorenz Curves",
     "url": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
     "upvotes": 117,
     "author": "luu",
-    "comments": 10,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27213882"
-  },
-  {
-    "title": "Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go",
-    "url": "https://github.com/rodrigo-brito/ninjabot",
-    "upvotes": 50,
-    "author": "rodrigobrito",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27229436"
   },
   {
     "title": "Show HN: I wrote a book about UI [pdf]",
     "url": "https://fifty.user-interface.io/50_ui_tips.pdf",
-    "upvotes": 98,
+    "upvotes": 115,
     "author": "Akcium",
-    "comments": 42,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27210022"
   },
   {
     "title": "Setting up a Raspberry Pi with 2 Network Interfaces as a simple router",
     "url": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
-    "upvotes": 94,
+    "upvotes": 95,
     "author": "geerlingguy",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27225789"
+  },
+  {
+    "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\"",
+    "url": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
+    "upvotes": 619,
+    "author": "tosh",
+    "comments": 351,
+    "link": "https://news.ycombinator.com/item?id=27220657"
   },
   {
     "title": "SimuLand, a lab environment to simulate attacker tradecraft",
     "url": "https://www.microsoft.com/security/blog/2021/05/20/simuland-understand-adversary-tradecraft-and-improve-detection-strategies/",
-    "upvotes": 78,
+    "upvotes": 79,
     "author": "rmason",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27227751"
@@ -160,79 +168,71 @@
     "link": "https://news.ycombinator.com/item?id=27207610"
   },
   {
-    "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\"",
-    "url": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
-    "upvotes": 618,
-    "author": "tosh",
-    "comments": 348,
-    "link": "https://news.ycombinator.com/item?id=27220657"
-  },
-  {
-    "title": "What to do about GPU packages on PyPI?",
-    "url": "https://discuss.python.org/t/what-to-do-about-gpus-and-the-built-distributions-that-support-them/7125",
-    "upvotes": 91,
-    "author": "polm23",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=27205586"
-  },
-  {
     "title": "Europe fell in love with long pepper before black pepper",
     "url": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
-    "upvotes": 77,
+    "upvotes": 79,
     "author": "Petiver",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27216924"
   },
   {
     "title": "A brief introduction to esoteric programming languages",
     "url": "https://www.hillelwayne.com/talks/esolangs/",
-    "upvotes": 121,
+    "upvotes": 124,
     "author": "henrik_w",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27206055"
   },
   {
     "title": "The anus is an evolutionary marvel",
     "url": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
-    "upvotes": 202,
+    "upvotes": 207,
     "author": "danso",
-    "comments": 130,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=27228550"
+  },
+  {
+    "title": "What to do about GPU packages on PyPI?",
+    "url": "https://discuss.python.org/t/what-to-do-about-gpus-and-the-built-distributions-that-support-them/7125",
+    "upvotes": 93,
+    "author": "polm23",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=27205586"
   },
   {
     "title": "Holes in the WiFi",
     "url": "https://lwn.net/Articles/856044/",
-    "upvotes": 59,
+    "upvotes": 63,
     "author": "signa11",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27229171"
+  },
+  {
+    "title": "Show HN: Tool that turns your images into plotter-like line drawings",
+    "url": "https://javier.xyz/pintr/",
+    "upvotes": 347,
+    "author": "javierbyte",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27224094"
   },
   {
     "title": "Rainforest",
     "url": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN"
   },
   {
-    "title": "Show HN: Tool that turns your images into plotter-like line drawings",
-    "url": "https://javier.xyz/pintr/",
-    "upvotes": 344,
-    "author": "javierbyte",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=27224094"
+    "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission",
+    "url": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+    "upvotes": 290,
+    "author": "paultgriffiths",
+    "comments": 265,
+    "link": "https://news.ycombinator.com/item?id=27226751"
   },
   {
     "title": "Launch HN: YSplit (YC W19) – Automatically split and pay any bill",
     "url": "item?id=27222985",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "tonikami",
     "comments": 77,
     "link": "https://news.ycombinator.com/item?id=27222985"
-  },
-  {
-    "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission",
-    "url": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
-    "upvotes": 284,
-    "author": "paultgriffiths",
-    "comments": 264,
-    "link": "https://news.ycombinator.com/item?id=27226751"
   }
 ]
