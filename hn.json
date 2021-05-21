@@ -2,74 +2,98 @@
   {
     "title": "Sublime Text 4",
     "url": "https://www.sublimetext.com/blog/articles/sublime-text-4",
-    "upvotes": 273,
+    "upvotes": 340,
     "author": "ascom",
-    "comments": 120,
+    "comments": 151,
     "link": "https://news.ycombinator.com/item?id=27230042"
+  },
+  {
+    "title": "Animated GIF that uses 360MB of memory on x86, on Apple Silicon it takes 35.51GB",
+    "url": "https://twitter.com/ccgus/status/1395145361136644098",
+    "upvotes": 37,
+    "author": "zdw",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27230427"
   },
   {
     "title": "An Interactive Guide to the Fourier Transform",
     "url": "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/",
-    "upvotes": 38,
+    "upvotes": 54,
     "author": "parsecs",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27229836"
   },
   {
     "title": "Extreme HTTP Performance Tuning",
     "url": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
-    "upvotes": 539,
+    "upvotes": 552,
     "author": "talawahtech",
-    "comments": 72,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27226382"
   },
   {
     "title": "DOS SMB Client Performance",
     "url": "http://www.os2museum.com/wp/dos-smb-client-performance/",
-    "upvotes": 19,
+    "upvotes": 26,
     "author": "zdw",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27230190"
+  },
+  {
+    "title": "The Strange Story of Dagobert, the “DuckTales” Bandit",
+    "url": "https://www.newyorker.com/news/dispatch/the-strange-story-of-dagobert-the-ducktales-bandit",
+    "upvotes": 39,
+    "author": "frb",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27193099"
   },
   {
     "title": "SimpleVisor – Intel VT-x hypervisor in 500 lines of C code",
     "url": "https://ionescu007.github.io/SimpleVisor/",
-    "upvotes": 110,
+    "upvotes": 114,
     "author": "belter",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27227683"
   },
   {
     "title": "Show HN: Tool that turns your images into plotter-like line drawings",
     "url": "https://javier.xyz/pintr/",
-    "upvotes": 294,
+    "upvotes": 302,
     "author": "javierbyte",
-    "comments": 47,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27224094"
-  },
-  {
-    "title": "The Strange Story of Dagobert, the “DuckTales” Bandit",
-    "url": "https://www.newyorker.com/news/dispatch/the-strange-story-of-dagobert-the-ducktales-bandit",
-    "upvotes": 31,
-    "author": "frb",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27193099"
   },
   {
     "title": "Spintronics: Build Mechanical Circuits",
     "url": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
-    "upvotes": 316,
+    "upvotes": 324,
     "author": "mcp_",
-    "comments": 71,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=27222457"
+  },
+  {
+    "title": "Maxwell’s Demon Continues to Startle Scientists",
+    "url": "https://nautil.us/blog/how-maxwells-demon-continues-to-startle-scientists",
+    "upvotes": 38,
+    "author": "dnetesn",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=27207604"
   },
   {
     "title": "First-Time Buyer Lorenz Curves",
     "url": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "luu",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27213882"
+  },
+  {
+    "title": "Why RISC-V doesn't yet support KVM",
+    "url": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
+    "upvotes": 131,
+    "author": "lukastyrychtr",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27226625"
   },
   {
     "title": "SimuLand, a lab environment to simulate attacker tradecraft",
@@ -80,159 +104,135 @@
     "link": "https://news.ycombinator.com/item?id=27227751"
   },
   {
-    "title": "Why RISC-V doesn't yet support KVM",
-    "url": "https://lwn.net/SubscriberLink/856685/10206d3c9d10daf2/",
-    "upvotes": 129,
-    "author": "lukastyrychtr",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27226625"
-  },
-  {
     "title": "Rare extragalactic objects are now easier to spot",
     "url": "https://phys.org/news/2021-05-quasars-rare-extragalactic-easier.html",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "dnetesn",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27207610"
   },
   {
     "title": "CRISPR Editing in Primates",
     "url": "https://blogs.sciencemag.org/pipeline/archives/2021/05/20/crispr-editing-in-primates",
-    "upvotes": 152,
+    "upvotes": 158,
     "author": "jwcooper",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27223340"
   },
   {
-    "title": "Maxwell’s Demon Continues to Startle Scientists",
-    "url": "https://nautil.us/blog/how-maxwells-demon-continues-to-startle-scientists",
-    "upvotes": 29,
-    "author": "dnetesn",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27207604"
-  },
-  {
-    "title": "Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go",
-    "url": "https://github.com/rodrigo-brito/ninjabot",
-    "upvotes": 23,
-    "author": "rodrigobrito",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27229436"
-  },
-  {
-    "title": "“No Keening Carried on Nowadays”",
-    "url": "https://www.laphamsquarterly.org/roundtable/no-keening-carried-nowadays",
-    "upvotes": 7,
-    "author": "tintinnabula",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27216376"
-  },
-  {
-    "title": "Holes in the WiFi",
-    "url": "https://lwn.net/Articles/856044/",
-    "upvotes": 36,
-    "author": "signa11",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27229171"
-  },
-  {
     "title": "Setting up a Raspberry Pi with 2 Network Interfaces as a simple router",
     "url": "https://www.jeffgeerling.com/blog/2021/setting-raspberry-pi-2-network-interfaces-very-simple-router",
-    "upvotes": 64,
+    "upvotes": 72,
     "author": "geerlingguy",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27225789"
   },
   {
-    "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\"",
-    "url": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
-    "upvotes": 584,
-    "author": "tosh",
-    "comments": 327,
-    "link": "https://news.ycombinator.com/item?id=27220657"
+    "title": "Specification for Spoken Presentation in HTML",
+    "url": "https://www.w3.org/TR/spoken-html/",
+    "upvotes": 8,
+    "author": "bryanrasmussen",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27219205"
   },
   {
     "title": "Ant parasites that prolong the life of their host",
     "url": "https://www.theatlantic.com/science/archive/2021/05/ant-tapeworm/618919/",
-    "upvotes": 117,
+    "upvotes": 124,
     "author": "Vaslo",
-    "comments": 63,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27209086"
+  },
+  {
+    "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\"",
+    "url": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
+    "upvotes": 589,
+    "author": "tosh",
+    "comments": 328,
+    "link": "https://news.ycombinator.com/item?id=27220657"
+  },
+  {
+    "title": "Europe fell in love with long pepper before black pepper",
+    "url": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
+    "upvotes": 57,
+    "author": "Petiver",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27216924"
   },
   {
     "title": "The anus is an evolutionary marvel",
     "url": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
-    "upvotes": 147,
+    "upvotes": 157,
     "author": "danso",
-    "comments": 101,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=27228550"
+  },
+  {
+    "title": "Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go",
+    "url": "https://github.com/rodrigo-brito/ninjabot",
+    "upvotes": 28,
+    "author": "rodrigobrito",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27229436"
   },
   {
     "title": "Rainforest",
     "url": "https://jobs.lever.co/rainforest?lever-origin=applied&lever-source%5B%5D=HN"
   },
   {
-    "title": "Europe fell in love with long pepper before black pepper",
-    "url": "https://www.atlasobscura.com/articles/long-pepper-better-than-black-pepper",
-    "upvotes": 54,
-    "author": "Petiver",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27216924"
-  },
-  {
-    "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission",
-    "url": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
-    "upvotes": 253,
-    "author": "paultgriffiths",
-    "comments": 213,
-    "link": "https://news.ycombinator.com/item?id=27226751"
-  },
-  {
-    "title": "Specification for Spoken Presentation in HTML",
-    "url": "https://www.w3.org/TR/spoken-html/",
-    "upvotes": 3,
-    "author": "bryanrasmussen",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27219205"
+    "title": "Holes in the WiFi",
+    "url": "https://lwn.net/Articles/856044/",
+    "upvotes": 38,
+    "author": "signa11",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27229171"
   },
   {
     "title": "A brief introduction to esoteric programming languages",
     "url": "https://www.hillelwayne.com/talks/esolangs/",
-    "upvotes": 97,
+    "upvotes": 100,
     "author": "henrik_w",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27206055"
+  },
+  {
+    "title": "Face masks effectively limit the probability of SARS-CoV-2 transmission",
+    "url": "https://science.sciencemag.org/content/early/2021/05/19/science.abg6296",
+    "upvotes": 257,
+    "author": "paultgriffiths",
+    "comments": 225,
+    "link": "https://news.ycombinator.com/item?id=27226751"
+  },
+  {
+    "title": "“No Keening Carried on Nowadays”",
+    "url": "https://www.laphamsquarterly.org/roundtable/no-keening-carried-nowadays",
+    "upvotes": 9,
+    "author": "tintinnabula",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27216376"
+  },
+  {
+    "title": "Physicists identify the engine powering black hole energy beams",
+    "url": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
+    "upvotes": 130,
+    "author": "theafh",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=27223520"
   },
   {
     "title": "Undefined behavior in C is a reading error",
     "url": "https://www.yodaiken.com/2021/05/19/undefined-behavior-in-c-is-a-reading-error/",
-    "upvotes": 165,
+    "upvotes": 168,
     "author": "zdw",
-    "comments": 340,
+    "comments": 345,
     "link": "https://news.ycombinator.com/item?id=27221552"
   },
   {
     "title": "WebContainers: Run Node.js natively in the browser",
     "url": "https://blog.stackblitz.com/posts/introducing-webcontainers/",
-    "upvotes": 312,
+    "upvotes": 323,
     "author": "bpierre",
-    "comments": 174,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=27223012"
-  },
-  {
-    "title": "America’s Dead Souls",
-    "url": "https://www.theparisreview.org/blog/2021/05/17/americas-dead-souls/",
-    "upvotes": 113,
-    "author": "ctoth",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=27191329"
-  },
-  {
-    "title": "Physicists identify the engine powering black hole energy beams",
-    "url": "https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/",
-    "upvotes": 127,
-    "author": "theafh",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=27223520"
   }
 ]
