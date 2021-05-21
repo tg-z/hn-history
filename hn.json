@@ -1,56 +1,48 @@
 [
   {
-    "title": "Google has launched this free course on CSS",
+    "title": "Learn CSS",
     "url": "https://web.dev/learn/css/",
-    "upvotes": 202,
+    "upvotes": 246,
     "author": "markodenic",
-    "comments": 49,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27233019"
   },
   {
     "title": "Animated GIF that uses 360MB of memory on x86, on Apple Silicon it takes 35.51GB",
     "url": "https://twitter.com/ccgus/status/1395145361136644098",
-    "upvotes": 432,
+    "upvotes": 443,
     "author": "zdw",
     "comments": 217,
     "link": "https://news.ycombinator.com/item?id=27230427"
   },
   {
+    "title": "Linux 5.13 Reverts and Fixes the Problematic University of Minnesota Patches",
+    "url": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-UMN-Fixes",
+    "upvotes": 46,
+    "author": "varbhat",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27233229"
+  },
+  {
     "title": "An Interactive Guide to the Fourier Transform",
     "url": "https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/",
-    "upvotes": 196,
+    "upvotes": 204,
     "author": "parsecs",
-    "comments": 36,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27229836"
   },
   {
     "title": "Sublime Text 4",
     "url": "https://www.sublimetext.com/blog/articles/sublime-text-4",
-    "upvotes": 1006,
+    "upvotes": 1036,
     "author": "ascom",
-    "comments": 441,
+    "comments": 451,
     "link": "https://news.ycombinator.com/item?id=27230042"
-  },
-  {
-    "title": "Linux 5.13 Reverts and Fixes the Problematic University of Minnesota Patches",
-    "url": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-UMN-Fixes",
-    "upvotes": 30,
-    "author": "varbhat",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27233229"
-  },
-  {
-    "title": "Companies excluding Coloradans from remote jobs to avoid sharing salary ranges",
-    "url": "https://www.reddit.com/r/Denver/comments/nh7s8f/but_not_in_colorado/",
-    "upvotes": 154,
-    "author": "NCFZ",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=27233073"
   },
   {
     "title": "Quadratic Method: Detailed Explanation",
     "url": "https://www.poshenloh.com/quadraticdetail/",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "aleyan",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27220927"
@@ -58,17 +50,17 @@
   {
     "title": "Show HN: I wrote a book about UI [pdf]",
     "url": "https://fifty.user-interface.io/50_ui_tips.pdf",
-    "upvotes": 229,
+    "upvotes": 238,
     "author": "Akcium",
-    "comments": 93,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=27210022"
   },
   {
     "title": "The Strange Story of Dagobert, the “DuckTales” Bandit",
     "url": "https://www.newyorker.com/news/dispatch/the-strange-story-of-dagobert-the-ducktales-bandit",
-    "upvotes": 138,
+    "upvotes": 144,
     "author": "frb",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27193099"
   },
   {
@@ -76,33 +68,41 @@
     "url": "https://www.ycombinator.com/companies/circle-medical/jobs/DcHMahZUa-fullstack-engineer"
   },
   {
+    "title": "Earth Species: Roadmaps towards decoding non-human languages",
+    "url": "https://github.com/earthspecies/project",
+    "upvotes": 21,
+    "author": "polm23",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27232047"
+  },
+  {
     "title": "CSIRO's Data61 Dismantles SeL4 Team",
     "url": "https://twitter.com/GernotHeiser/status/1395517697689931780",
-    "upvotes": 71,
+    "upvotes": 79,
     "author": "zekrioca",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27232401"
   },
   {
-    "title": "Earth Species: Roadmaps towards decoding non-human languages",
-    "url": "https://github.com/earthspecies/project",
-    "upvotes": 19,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27232047"
+    "title": "Companies excluding Coloradans from remote jobs to avoid sharing salary ranges",
+    "url": "https://www.reddit.com/r/Denver/comments/nh7s8f/but_not_in_colorado/",
+    "upvotes": 179,
+    "author": "NCFZ",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=27233073"
   },
   {
     "title": "Spintronics: Build Mechanical Circuits",
     "url": "https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits",
-    "upvotes": 390,
+    "upvotes": 394,
     "author": "mcp_",
-    "comments": 93,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=27222457"
   },
   {
     "title": "Are Angels More Likely Than VCs to Drive Entrepreneurial Experimentation? [pdf]",
     "url": "https://static1.squarespace.com/static/5835e608414fb5a615f828bb/t/5ff3cac7dc8f8e0b7122ff58/1609812690849/AmirSariri_JMP.pdf",
-    "upvotes": 69,
+    "upvotes": 70,
     "author": "georgecmu",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27230774"
@@ -110,18 +110,50 @@
   {
     "title": "The Belugas Have Landed",
     "url": "https://www.hakaimagazine.com/news/the-belugas-have-landed/",
-    "upvotes": 20,
+    "upvotes": 21,
     "author": "Hooke",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27216457"
   },
   {
     "title": "Extreme HTTP Performance Tuning",
     "url": "https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/",
-    "upvotes": 783,
+    "upvotes": 786,
     "author": "talawahtech",
-    "comments": 125,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=27226382"
+  },
+  {
+    "title": "Millions of electric cars are coming. What happens to all the dead batteries?",
+    "url": "https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries",
+    "upvotes": 112,
+    "author": "rbanffy",
+    "comments": 189,
+    "link": "https://news.ycombinator.com/item?id=27232178"
+  },
+  {
+    "title": "The 9.9 Percent Is the New American Aristocracy",
+    "url": "https://www.theatlantic.com/magazine/archive/2018/06/the-birth-of-a-new-american-aristocracy/559130/",
+    "upvotes": 18,
+    "author": "GranularRecipe",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27233436"
+  },
+  {
+    "title": "DOS SMB Client Performance",
+    "url": "http://www.os2museum.com/wp/dos-smb-client-performance/",
+    "upvotes": 58,
+    "author": "zdw",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27230190"
+  },
+  {
+    "title": "Now your car is a cybersecurity risk, too",
+    "url": "https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/",
+    "upvotes": 110,
+    "author": "giuliomagnifico",
+    "comments": 130,
+    "link": "https://news.ycombinator.com/item?id=27231471"
   },
   {
     "title": "Taking the Measure of a Forest",
@@ -132,65 +164,17 @@
     "link": "https://news.ycombinator.com/item?id=27222379"
   },
   {
-    "title": "DOS SMB Client Performance",
-    "url": "http://www.os2museum.com/wp/dos-smb-client-performance/",
-    "upvotes": 57,
-    "author": "zdw",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27230190"
-  },
-  {
-    "title": "Now your car is a cybersecurity risk, too",
-    "url": "https://www.eetimes.com/now-your-car-is-a-cybersecurity-risk-too/",
-    "upvotes": 100,
-    "author": "giuliomagnifico",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=27231471"
-  },
-  {
-    "title": "Millions of electric cars are coming. What happens to all the dead batteries?",
-    "url": "https://www.sciencemag.org/news/2021/05/millions-electric-cars-are-coming-what-happens-all-dead-batteries",
-    "upvotes": 102,
-    "author": "rbanffy",
-    "comments": 175,
-    "link": "https://news.ycombinator.com/item?id=27232178"
-  },
-  {
-    "title": "First-Time Buyer Lorenz Curves",
-    "url": "https://doodles.mountainmath.ca/blog/2020/09/28/first-time-buyer-lorenz-curves/",
-    "upvotes": 136,
-    "author": "luu",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27213882"
-  },
-  {
     "title": "Show HN: Ninjabot – A fast cryptocurrency bot implemented in Go",
     "url": "https://github.com/rodrigo-brito/ninjabot",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "rodrigobrito",
-    "comments": 41,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27229436"
-  },
-  {
-    "title": "The 9.9 Percent Is the New American Aristocracy",
-    "url": "https://www.theatlantic.com/magazine/archive/2018/06/the-birth-of-a-new-american-aristocracy/559130/",
-    "upvotes": 10,
-    "author": "GranularRecipe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27233436"
-  },
-  {
-    "title": "Maxwell’s Demon Continues to Startle Scientists",
-    "url": "https://nautil.us/blog/how-maxwells-demon-continues-to-startle-scientists",
-    "upvotes": 85,
-    "author": "dnetesn",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=27207604"
   },
   {
     "title": "Before the iPhone, I worked on a few games for what were called \"feature phones\"",
     "url": "https://twitter.com/id_aa_carmack/status/1395089205986988043",
-    "upvotes": 643,
+    "upvotes": 644,
     "author": "tosh",
     "comments": 370,
     "link": "https://news.ycombinator.com/item?id=27220657"
@@ -204,25 +188,41 @@
     "link": "https://news.ycombinator.com/item?id=27207610"
   },
   {
+    "title": "Maxwell’s Demon Continues to Startle Scientists",
+    "url": "https://nautil.us/blog/how-maxwells-demon-continues-to-startle-scientists",
+    "upvotes": 88,
+    "author": "dnetesn",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=27207604"
+  },
+  {
     "title": "The Right Angle: On Izaak Walton’s “The Compleat Angler”",
     "url": "https://newcriterion.com/issues/2021/6/the-right-angle",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "miobrien",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27220787"
   },
   {
+    "title": "Designing Domain Events",
+    "url": "https://medium.com/casaone-engineering/designing-domain-events-5efc6e25da52",
+    "upvotes": 3,
+    "author": "endeepak",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27233807"
+  },
+  {
     "title": "The anus is an evolutionary marvel",
     "url": "https://www.theatlantic.com/science/archive/2021/05/evolution-butts/618915/",
-    "upvotes": 255,
+    "upvotes": 260,
     "author": "danso",
-    "comments": 170,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=27228550"
   },
   {
     "title": "Holes in the WiFi",
     "url": "https://lwn.net/Articles/856044/",
-    "upvotes": 83,
+    "upvotes": 85,
     "author": "signa11",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27229171"
@@ -230,7 +230,7 @@
   {
     "title": "Show HN: Tool that turns your images into plotter-like line drawings",
     "url": "https://javier.xyz/pintr/",
-    "upvotes": 366,
+    "upvotes": 370,
     "author": "javierbyte",
     "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27224094"
