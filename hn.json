@@ -1,222 +1,166 @@
 [
   {
-    "title": "Show HN: Inflation-adjusted Hacker News",
-    "url": "https://instruments.digital/inflation-adjusted-hn/",
-    "upvotes": 265,
-    "author": "Aaronmacaron",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=27249082"
-  },
-  {
     "title": "Freesound just reached 500K Creative Commons sounds",
     "url": "https://blog.freesound.org/?p=1340",
-    "upvotes": 189,
+    "upvotes": 224,
     "author": "diibv",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27232297"
   },
   {
     "title": "An early look at Postgres 14: Performance and monitoring Improvements",
     "url": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
-    "upvotes": 249,
+    "upvotes": 268,
     "author": "bananaoomarang",
-    "comments": 121,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=27247621"
+  },
+  {
+    "title": "My Road to Erlang",
+    "url": "https://prog21.dadgum.com/22.html",
+    "upvotes": 23,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27250619"
   },
   {
     "title": "An Introduction to Knowledge Graphs",
     "url": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
-    "upvotes": 79,
+    "upvotes": 91,
     "author": "umangkeshri",
-    "comments": 19,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27245696"
   },
   {
     "title": "KolibriOS",
     "url": "http://www.kolibrios.org/en/",
-    "upvotes": 114,
+    "upvotes": 132,
     "author": "luke2m",
-    "comments": 27,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27249075"
+  },
+  {
+    "title": "Show HN: Inflation-adjusted Hacker News",
+    "url": "https://instruments.digital/inflation-adjusted-hn/",
+    "upvotes": 283,
+    "author": "Aaronmacaron",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=27249082"
   },
   {
     "title": "Show HN: I hate adding updating to my apps, so I created Pakkly",
     "url": "https://pakkly.com",
-    "upvotes": 40,
+    "upvotes": 54,
     "author": "enatik",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27249413"
   },
   {
     "title": "Initial Stress-Derived Noun",
     "url": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
-    "upvotes": 155,
+    "upvotes": 163,
     "author": "richardw",
-    "comments": 95,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=27245450"
-  },
-  {
-    "title": "Cornell researchers see atoms at record resolution",
-    "url": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
-    "upvotes": 97,
-    "author": "filoeleven",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27247605"
-  },
-  {
-    "title": "Changing your SSH server's listen address every 30 seconds based on TOTP",
-    "url": "https://github.com/mikroskeem/tosh",
-    "upvotes": 99,
-    "author": "Avamander",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=27249555"
   },
   {
     "title": "C++20: Building a Thread-Pool with Coroutines",
     "url": "https://blog.eiler.eu/posts/20210512/",
-    "upvotes": 24,
+    "upvotes": 32,
     "author": "MichaEiler",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27234044"
+  },
+  {
+    "title": "Cornell researchers see atoms at record resolution",
+    "url": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
+    "upvotes": 103,
+    "author": "filoeleven",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27247605"
   },
   {
     "title": "Common data model mistakes made by startups",
     "url": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
-    "upvotes": 74,
+    "upvotes": 78,
     "author": "ReginaDeiPirati",
-    "comments": 33,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27248093"
   },
   {
-    "title": "Show HN: Query C++ codebases using SQLite",
+    "title": "Why the Bronte sisters may have died so young",
+    "url": "https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920",
+    "upvotes": 15,
+    "author": "lermontov",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27242753"
+  },
+  {
+    "title": "Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP",
+    "url": "https://github.com/mikroskeem/tosh",
+    "upvotes": 110,
+    "author": "Avamander",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=27249555"
+  },
+  {
+    "title": "Floppinux – An Embedded Linux on a Single Floppy",
+    "url": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
+    "upvotes": 86,
+    "author": "todsacerdoti",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27247612"
+  },
+  {
+    "title": "Show HN: ClangQL – Query C++ codebases using SQLite",
     "url": "https://github.com/frabert/ClangQL",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "frabert",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27248960"
   },
   {
-    "title": "Floppinux – An Embedded Linux on a Single Floppy",
-    "url": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
-    "upvotes": 78,
-    "author": "todsacerdoti",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27247612"
-  },
-  {
-    "title": "Why the Bronte sisters died so young",
-    "url": "https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920",
-    "upvotes": 9,
-    "author": "lermontov",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27242753"
-  },
-  {
-    "title": "What’s your API’s “Time To 200”?",
-    "url": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
-    "upvotes": 125,
-    "author": "edent",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=27232552"
+    "title": "Sixth grader expelled after Zoom provided possibly inaccurate IP address",
+    "url": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
+    "upvotes": 59,
+    "author": "WarOnPrivacy",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27250068"
   },
   {
     "title": "GiveCampus",
     "url": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
   },
   {
-    "title": "Nvidia DatasetGAN, Efficient Labeled Data for AI Training",
-    "url": "https://nv-tlabs.github.io/datasetGAN/",
+    "title": "Generate RSS feeds with grep",
+    "url": "https://www.romanzolotarev.com/rssg.html",
     "upvotes": 42,
+    "author": "Tomte",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27248383"
+  },
+  {
+    "title": "What’s your API’s “Time To 200”?",
+    "url": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
+    "upvotes": 131,
+    "author": "edent",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=27232552"
+  },
+  {
+    "title": "DatasetGAN: Efficient Labeled Data for AI Training",
+    "url": "https://nv-tlabs.github.io/datasetGAN/",
+    "upvotes": 45,
     "author": "alok-g",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27248747"
   },
   {
-    "title": "How to Get Rich without Being Lucky",
-    "url": "https://nav.al/rich",
-    "upvotes": 176,
-    "author": "Jaxtek",
-    "comments": 289,
-    "link": "https://news.ycombinator.com/item?id=27245680"
-  },
-  {
-    "title": "useStateMachine: A ½kb state machine hook for React",
-    "url": "https://github.com/cassiozen/useStateMachine",
-    "upvotes": 199,
-    "author": "nkjoep",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=27231269"
-  },
-  {
-    "title": "My thoughts about the Principal role",
-    "url": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
-    "upvotes": 145,
-    "author": "antonmry",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=27231521"
-  },
-  {
-    "title": "Antibody levels highly predictive of immune protection from symptomatic Covid",
-    "url": "https://www.nature.com/articles/s41591-021-01377-8",
-    "upvotes": 56,
-    "author": "georgecmu",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=27248406"
-  },
-  {
-    "title": "Generate RSS feeds with grep",
-    "url": "https://www.romanzolotarev.com/rssg.html",
-    "upvotes": 34,
-    "author": "Tomte",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27248383"
-  },
-  {
-    "title": "Making a “MiniKanren” using Z3Py",
-    "url": "https://www.philipzucker.com/minikanren-z3py/",
-    "upvotes": 39,
-    "author": "philzook",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27247386"
-  },
-  {
-    "title": "Rust heads into the kernel?",
-    "url": "https://lwn.net/Articles/853423/",
-    "upvotes": 159,
-    "author": "h1x",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=27248059"
-  },
-  {
-    "title": "Plotinus: A searchable command palette in every modern GTK+ application",
-    "url": "https://github.com/p-e-w/plotinus",
-    "upvotes": 118,
-    "author": "ingve",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27245310"
-  },
-  {
-    "title": "6th Grader Expelled After Zoom Provided Possibly Inaccurate IP Address",
-    "url": "https://www.ajc.com/news/gwinnett-student-challenges-suspension-over-zoom-bombing-allegations/UMQAYE3COVAB3DE4M2Q6QPHVCI/",
-    "upvotes": 34,
-    "author": "WarOnPrivacy",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27250068"
-  },
-  {
-    "title": "Should Google just become a VC fund?",
-    "url": "https://carter.sprigings.com/google-vc-fund",
-    "upvotes": 28,
-    "author": "likecarter",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27249758"
-  },
-  {
-    "title": "Contrary to Popular Lore, Ancient Greek Armies Relied on Foreign Mercenaries",
-    "url": "https://www.smithsonianmag.com/smart-news/contrary-popular-lore-ancient-greek-armies-relied-foreign-mercenaries-180977752/",
-    "upvotes": 38,
+    "title": "Isotope study hints ancient Greeks used foreign fighters in key battle",
+    "url": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+    "upvotes": 44,
     "author": "pseudolus",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27232416"
   },
   {
@@ -224,15 +168,71 @@
     "url": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
     "upvotes": 32,
     "author": "gbrown_",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27231978"
   },
   {
-    "title": "Working at a startup is overrated, both financially and emotionally",
-    "url": "https://every.to/napkin-math/you-probably-shouldn-t-work-at-a-startup-9387b632-345c-4a22-bac0-3cb92f0eecf1##",
-    "upvotes": 506,
-    "author": "dshipper",
-    "comments": 325,
-    "link": "https://news.ycombinator.com/item?id=27245090"
+    "title": "My thoughts about the Principal role",
+    "url": "https://www.galiglobal.com/blog/2021/20210313-The-principal-role.html",
+    "upvotes": 148,
+    "author": "antonmry",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=27231521"
+  },
+  {
+    "title": "The Architecture of Uber’s API Gateway",
+    "url": "https://eng.uber.com/architecture-api-gateway/",
+    "upvotes": 4,
+    "author": "zerop",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27245058"
+  },
+  {
+    "title": "How to get rich without being lucky",
+    "url": "https://nav.al/rich",
+    "upvotes": 187,
+    "author": "Jaxtek",
+    "comments": 303,
+    "link": "https://news.ycombinator.com/item?id=27245680"
+  },
+  {
+    "title": "useStateMachine: A ½ kb state machine hook for React",
+    "url": "https://github.com/cassiozen/useStateMachine",
+    "upvotes": 206,
+    "author": "nkjoep",
+    "comments": 81,
+    "link": "https://news.ycombinator.com/item?id=27231269"
+  },
+  {
+    "title": "Plotinus: A searchable command palette in every modern GTK+ application",
+    "url": "https://github.com/p-e-w/plotinus",
+    "upvotes": 122,
+    "author": "ingve",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27245310"
+  },
+  {
+    "title": "Antibody levels highly predictive of immune protection from symptomatic Covid",
+    "url": "https://www.nature.com/articles/s41591-021-01377-8",
+    "upvotes": 64,
+    "author": "georgecmu",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=27248406"
+  },
+  {
+    "title": "Ask HN: Are there software companies with a good life/work balance?",
+    "url": "item?id=27250546",
+    "upvotes": 19,
+    "author": "dotbob",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27250546"
+  },
+  {
+    "title": "Making a “MiniKanren” using Z3Py",
+    "url": "https://www.philipzucker.com/minikanren-z3py/",
+    "upvotes": 42,
+    "author": "philzook",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27247386"
   }
 ]
