@@ -2,63 +2,87 @@
   {
     "title": "One man’s fight for the right to repair broken MacBooks",
     "url": "https://columbianewsservice.com/2021/05/21/one-mans-fight-for-the-right-to-repair-broken-macbooks/",
-    "upvotes": 674,
+    "upvotes": 704,
     "author": "anandaverma18",
-    "comments": 298,
+    "comments": 317,
     "link": "https://news.ycombinator.com/item?id=27254719"
   },
   {
     "title": "Teardown of a PC Power Supply",
     "url": "https://www.righto.com/2021/05/teardown-of-pc-power-supply.html",
-    "upvotes": 138,
+    "upvotes": 152,
     "author": "parsecs",
-    "comments": 63,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27256515"
-  },
-  {
-    "title": "The Limits to Blockchain Scalability",
-    "url": "https://vitalik.ca/general/2021/05/23/scaling.html",
-    "upvotes": 115,
-    "author": "bpierre",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=27257641"
   },
   {
     "title": "Why I prefer making useless stuff",
     "url": "https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html",
-    "upvotes": 116,
+    "upvotes": 131,
     "author": "azhenley",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27256867"
   },
   {
     "title": "Dorodango: the Japanese art of making shiny mud balls",
     "url": "https://www.laurenceking.com/blog/2019/09/26/dorodango-blog/",
-    "upvotes": 157,
+    "upvotes": 164,
     "author": "mhb",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27255755"
   },
   {
+    "title": "Rustc_codegen_GCC can now run libcore’s tests and pass most of them",
+    "url": "https://blog.antoyo.xyz/rustc_codegen_gcc-run-core-tests",
+    "upvotes": 5,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27258522"
+  },
+  {
     "title": "Teach Yourself Demoscene in 14 Days",
     "url": "https://github.com/psenough/teach_yourself_demoscene_in_14_days",
-    "upvotes": 269,
+    "upvotes": 277,
     "author": "HugoDaniel",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27254838"
   },
   {
     "title": "I open sourced a game I just released on Steam, written in Lua",
     "url": "https://github.com/a327ex/SNKRX",
-    "upvotes": 333,
+    "upvotes": 342,
     "author": "adnzzzzZ",
-    "comments": 65,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=27254177"
+  },
+  {
+    "title": "The Limits to Blockchain Scalability",
+    "url": "https://vitalik.ca/general/2021/05/23/scaling.html",
+    "upvotes": 140,
+    "author": "bpierre",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=27257641"
+  },
+  {
+    "title": "Monads Schmonads: Functional Input Without Tears",
+    "url": "https://billwadge.wordpress.com/2021/05/22/monads-schmonads-functional-input-without-tears-pyfl/",
+    "upvotes": 14,
+    "author": "herodotus",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27248505"
+  },
+  {
+    "title": "ESA advances its plan for satellites around the Moon",
+    "url": "https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html",
+    "upvotes": 63,
+    "author": "marsokod",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27255524"
   },
   {
     "title": "Neural Network Enabled Filmmaking",
     "url": "https://www.flawlessai.com/",
-    "upvotes": 17,
+    "upvotes": 21,
     "author": "doener",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27257658"
@@ -66,67 +90,67 @@
   {
     "title": "C++ Workflow: C++ Parallel Computing and Asynchronous Networking Engine",
     "url": "https://github.com/sogou/workflow",
-    "upvotes": 43,
+    "upvotes": 44,
     "author": "Barenboim",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27256686"
   },
   {
-    "title": "ESA advances its plan for satellites around the Moon",
-    "url": "https://www.moondaily.com/m/reports/ESA_advances_its_plan_for_satellites_around_the_Moon_999.html",
-    "upvotes": 61,
-    "author": "marsokod",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27255524"
-  },
-  {
-    "title": "Saying Goodbye to Typo CI",
-    "url": "https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci",
-    "upvotes": 79,
-    "author": "robin_reala",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27255727"
-  },
-  {
-    "title": "Belarus 'diverts Ryanair flight to arrest journalist', opposition says",
-    "url": "https://www.bbc.co.uk/news/world-europe-57219860",
-    "upvotes": 466,
-    "author": "cjnicholls",
-    "comments": 452,
-    "link": "https://news.ycombinator.com/item?id=27255561"
+    "title": "Save 500€/Year Switching from Mailchimp to Open Source Mailtrain and AWS SES",
+    "url": "https://carlchenet.com/how-to-save-up-to-500e-year-switching-from-mailchimp-to-open-source-mailtrain-and-aws-ses/",
+    "upvotes": 3,
+    "author": "edward",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27258502"
   },
   {
     "title": "The Muse",
     "url": "https://jobs.lever.co/themuse/f7bfe873-0ff0-487b-8544-1c57c898c996?lever-origin=applied&lever-source%5B%5D=YC"
   },
   {
+    "title": "Belarus 'diverts Ryanair flight to arrest journalist', opposition says",
+    "url": "https://www.bbc.co.uk/news/world-europe-57219860",
+    "upvotes": 497,
+    "author": "cjnicholls",
+    "comments": 472,
+    "link": "https://news.ycombinator.com/item?id=27255561"
+  },
+  {
+    "title": "Saying Goodbye to Typo CI",
+    "url": "https://mikerogers.io/2021/05/23/saying-goodbye-to-typo-ci",
+    "upvotes": 80,
+    "author": "robin_reala",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=27255727"
+  },
+  {
     "title": "Tim Cook’s Fortnite trial testimony was unexpectedly revealing",
     "url": "https://www.theverge.com/2021/5/22/22448139/tim-cook-epic-fortnite-trial-testimony-privacy-iap-antitrust",
-    "upvotes": 258,
+    "upvotes": 264,
     "author": "rjzzleep",
-    "comments": 478,
+    "comments": 494,
     "link": "https://news.ycombinator.com/item?id=27253467"
   },
   {
     "title": "Show HN: A simple blogging platform I built out of frustration with other tools",
     "url": "https://www.dynablogger.com/",
-    "upvotes": 134,
+    "upvotes": 141,
     "author": "SkyLinx",
     "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27254670"
   },
   {
-    "title": "Monads Schmonads: Functional Input Without Tears",
-    "url": "https://billwadge.wordpress.com/2021/05/22/monads-schmonads-functional-input-without-tears-pyfl/",
+    "title": "Cray-2 Memories [pdf]",
+    "url": "http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf",
     "upvotes": 7,
-    "author": "herodotus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27248505"
+    "author": "pinewurst",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27257924"
   },
   {
     "title": "Show HN: Wg-easy] Easy to setup, all-in-one WireGuard and Management Web UI",
     "url": "https://github.com/WeeJeWel/wg-easy/blob/master/README.md",
-    "upvotes": 51,
+    "upvotes": 53,
     "author": "weejewel",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27256178"
@@ -134,105 +158,81 @@
   {
     "title": "Show HN: CandyGraph, a flexible, fast-by-default WebGL plotting library",
     "url": "https://github.com/wwwtyro/candygraph",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "wwwtyro",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27256262"
   },
   {
     "title": "Atomic Gardening",
     "url": "https://en.wikipedia.org/wiki/Atomic_gardening",
-    "upvotes": 131,
+    "upvotes": 137,
     "author": "jeffwass",
-    "comments": 64,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27232581"
   },
   {
-    "title": "Show HN: CRM for Your Job Search",
-    "url": "https://www.kiter.app/#/",
-    "upvotes": 20,
-    "author": "pbmango",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27256776"
+    "title": "CPU Bugs",
+    "url": "https://danluu.com/cpu-bugs/",
+    "upvotes": 4,
+    "author": "for_xyz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27244941"
   },
   {
     "title": "Show HN: Direct manipulation flowchart editor without the mouse",
     "url": "https://www.knotend.com",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "escot",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27256861"
   },
   {
     "title": "Reverse engineering an AI spaceship game at DEF CON CTF",
     "url": "https://thume.ca/2020/08/15/ropshipai/",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "allenleein",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27253938"
   },
   {
+    "title": "Show HN: CRM for Your Job Search",
+    "url": "https://www.kiter.app/#/",
+    "upvotes": 22,
+    "author": "pbmango",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27256776"
+  },
+  {
+    "title": "Compensate for Rockchip calendar deviation on November 31st",
+    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716",
+    "upvotes": 275,
+    "author": "zdw",
+    "comments": 84,
+    "link": "https://news.ycombinator.com/item?id=27252771"
+  },
+  {
     "title": "The Itch",
     "url": "https://www.newyorker.com/magazine/2008/06/30/the-itch",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "axiomdata316",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27252644"
   },
   {
-    "title": "Compensate for Rockchip calendar deviation on November 31st",
-    "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716",
-    "upvotes": 274,
-    "author": "zdw",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=27252771"
-  },
-  {
-    "title": "Cray-2 Memories [pdf]",
-    "url": "http://0x07bell.net/xYxY/Cray-2_MemoriesFINAL.pdf",
-    "upvotes": 4,
-    "author": "pinewurst",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27257924"
+    "title": "Rapid Prototyping with a $100 Inkjet Printer",
+    "url": "https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3",
+    "upvotes": 71,
+    "author": "SG16",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27254480"
   },
   {
     "title": "Triplebyte now showing profiles by default without consent",
     "url": "item?id=27255742",
-    "upvotes": 161,
+    "upvotes": 176,
     "author": "aerovistae",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27255742"
-  },
-  {
-    "title": "Rapid Prototyping with a $100 Inkjet Printer",
-    "url": "https://ygoliya.medium.com/rapid-prototyping-with-a-100-inkjet-printer-e9bf9ef1e0d3",
-    "upvotes": 67,
-    "author": "SG16",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27254480"
-  },
-  {
-    "title": "Freesound just reached 500K Creative Commons sounds",
-    "url": "https://blog.freesound.org/?p=1340",
-    "upvotes": 621,
-    "author": "diibv",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27232297"
-  },
-  {
-    "title": "Preparing your game for deterministic netcode",
-    "url": "https://yal.cc/preparing-your-game-for-deterministic-netcode/",
-    "upvotes": 99,
-    "author": "manjana",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27253890"
-  },
-  {
-    "title": "For soccer players, the less brain they use, the better for penalty kicks",
-    "url": "https://www.cbc.ca/radio/quirks/may-15-california-condor-genetics-a-strange-star-goes-supernova-don-t-think-just-kick-and-more-1.6025290/for-soccer-players-the-less-brain-they-use-the-better-for-penalty-kicks-1.6025297",
-    "upvotes": 91,
-    "author": "pseudolus",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=27254100"
   }
 ]
