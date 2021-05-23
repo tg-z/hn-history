@@ -2,70 +2,86 @@
   {
     "title": "In 2013 Rockchip engineers found that the Gregorian calendar contained flaws",
     "url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f076ef44a44d02ed91543f820c14c2c7dff53716",
-    "upvotes": 140,
+    "upvotes": 153,
     "author": "zdw",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27252771"
   },
   {
     "title": "1B$+ seller pulled from Amazon for fake reviews",
     "url": "https://www.amazon.com/stores/Aukey/Aukey/page/B4F70606-6B67-46A0-BD18-938B37E59982",
-    "upvotes": 43,
+    "upvotes": 56,
     "author": "wetpaws",
-    "comments": 25,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27253047"
   },
   {
     "title": "Freesound just reached 500K Creative Commons sounds",
     "url": "https://blog.freesound.org/?p=1340",
-    "upvotes": 502,
+    "upvotes": 504,
     "author": "diibv",
-    "comments": 53,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27232297"
-  },
-  {
-    "title": "SpaceX ISS Docking Simulator Autopilot in Elixir",
-    "url": "https://github.com/obivan/autopilot",
-    "upvotes": 36,
-    "author": "obvn",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27252639"
   },
   {
     "title": "Did a weak WiFi password lead police to our door?",
     "url": "https://www.bbc.co.uk/news/technology-57156799",
-    "upvotes": 7,
+    "upvotes": 22,
     "author": "bananapear",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27253012"
+  },
+  {
+    "title": "Facebook still ‘secretly’ tracks your iPhone",
+    "url": "https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/",
+    "upvotes": 76,
+    "author": "nwotnagrom",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27252891"
+  },
+  {
+    "title": "SpaceX ISS Docking Simulator Autopilot in Elixir",
+    "url": "https://github.com/obivan/autopilot",
+    "upvotes": 40,
+    "author": "obvn",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27252639"
   },
   {
     "title": "KolibriOS",
     "url": "http://www.kolibrios.org/en/",
-    "upvotes": 308,
+    "upvotes": 311,
     "author": "luke2m",
     "comments": 89,
     "link": "https://news.ycombinator.com/item?id=27249075"
   },
   {
-    "title": "Facebook still ‘secretly’ tracks your iPhone",
-    "url": "https://www.forbes.com/sites/zakdoffman/2021/05/22/apple-user-warning-how-to-stop-facebook-secretly-tracking-your-iphone-ipad/",
-    "upvotes": 58,
-    "author": "nwotnagrom",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27252891"
+    "title": "Asynchronous API with DynamoDB Streams",
+    "url": "https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4",
+    "upvotes": 6,
+    "author": "kiyanwang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27232637"
   },
   {
     "title": "Tosh: Changing your SSH server's listen address every 30 seconds based on TOTP",
     "url": "https://github.com/mikroskeem/tosh",
-    "upvotes": 174,
+    "upvotes": 177,
     "author": "Avamander",
-    "comments": 154,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=27249555"
   },
   {
     "title": "Zeus (YC S11) Is Hiring a Senior Product Designer to Build the Future of FlexLiving",
     "url": "item?id=27252965"
+  },
+  {
+    "title": "My Road to Erlang",
+    "url": "https://prog21.dadgum.com/22.html",
+    "upvotes": 118,
+    "author": "todsacerdoti",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27250619"
   },
   {
     "title": "Competing with Steve Jobs",
@@ -74,22 +90,6 @@
     "author": "ent101",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27231667"
-  },
-  {
-    "title": "Asynchronous API with DynamoDB Streams",
-    "url": "https://medium.com/nerd-for-tech/asynchronous-api-with-dynamodb-streams-4117776f2fa4",
-    "upvotes": 3,
-    "author": "kiyanwang",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27232637"
-  },
-  {
-    "title": "My Road to Erlang",
-    "url": "https://prog21.dadgum.com/22.html",
-    "upvotes": 117,
-    "author": "todsacerdoti",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27250619"
   },
   {
     "title": "The architecture of Uber’s API gateway",
@@ -102,122 +102,122 @@
   {
     "title": "An Introduction to Knowledge Graphs",
     "url": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
-    "upvotes": 201,
+    "upvotes": 203,
     "author": "umangkeshri",
     "comments": 60,
     "link": "https://news.ycombinator.com/item?id=27245696"
+  },
+  {
+    "title": "Video uploads now available across GitHub",
+    "url": "https://github.blog/2021-05-13-video-uploads-available-github/",
+    "upvotes": 72,
+    "author": "stikit",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27252631"
   },
   {
     "title": "Collectors who hunt down radioactive glassware",
     "url": "https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html",
     "upvotes": 62,
     "author": "dsr12",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27243670"
-  },
-  {
-    "title": "How Japanese technology shaped dance music",
-    "url": "https://www.attackmagazine.com/features/long-read/how-japanese-technology-shaped-dance-music/",
-    "upvotes": 24,
-    "author": "tomduncalf",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27244996"
-  },
-  {
-    "title": "Monetizing open-source is problematic",
-    "url": "https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic",
-    "upvotes": 326,
-    "author": "no_wizard",
-    "comments": 155,
-    "link": "https://news.ycombinator.com/item?id=27252066"
   },
   {
     "title": "AXM Paper Space Scale Models",
     "url": "https://axmpaperspacescalemodels.com/",
-    "upvotes": 14,
+    "upvotes": 16,
     "author": "arcxyz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27244726"
   },
   {
+    "title": "How Japanese technology shaped dance music",
+    "url": "https://www.attackmagazine.com/features/long-read/how-japanese-technology-shaped-dance-music/",
+    "upvotes": 27,
+    "author": "tomduncalf",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27244996"
+  },
+  {
+    "title": "Monetizing open-source is problematic",
+    "url": "https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic",
+    "upvotes": 330,
+    "author": "no_wizard",
+    "comments": 160,
+    "link": "https://news.ycombinator.com/item?id=27252066"
+  },
+  {
     "title": "C++20: Building a Thread-Pool with Coroutines",
     "url": "https://blog.eiler.eu/posts/20210512/",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "MichaEiler",
-    "comments": 38,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27234044"
   },
   {
     "title": "HAProxy 2.4",
     "url": "https://www.haproxy.com/blog/announcing-haproxy-2-4/",
-    "upvotes": 90,
+    "upvotes": 95,
     "author": "throwaway888abc",
-    "comments": 30,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27251837"
   },
   {
     "title": "An early look at Postgres 14: Performance and monitoring Improvements",
     "url": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
-    "upvotes": 399,
+    "upvotes": 401,
     "author": "bananaoomarang",
-    "comments": 200,
+    "comments": 201,
     "link": "https://news.ycombinator.com/item?id=27247621"
-  },
-  {
-    "title": "Video uploads now available across GitHub",
-    "url": "https://github.blog/2021-05-13-video-uploads-available-github/",
-    "upvotes": 67,
-    "author": "stikit",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=27252631"
   },
   {
     "title": "IncludeOS – Run your application with zero overhead",
     "url": "https://www.includeos.org/",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "turrini",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27250596"
   },
   {
-    "title": "Show HN: I hate adding updating to my apps, so I created Pakkly",
-    "url": "https://pakkly.com",
-    "upvotes": 97,
-    "author": "enatik",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27249413"
-  },
-  {
     "title": "Non-native speakers navigate the world of 'good' and 'bad' English",
     "url": "https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english",
-    "upvotes": 33,
+    "upvotes": 36,
     "author": "anotherevan",
-    "comments": 32,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27251644"
+  },
+  {
+    "title": "Show HN: I hate adding updating to my apps, so I created Pakkly",
+    "url": "https://pakkly.com",
+    "upvotes": 98,
+    "author": "enatik",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27249413"
   },
   {
     "title": "Show HN: Inflation-adjusted Hacker News",
     "url": "https://instruments.digital/inflation-adjusted-hn/",
-    "upvotes": 389,
+    "upvotes": 396,
     "author": "Aaronmacaron",
-    "comments": 108,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=27249082"
   },
   {
     "title": "Show HN: ClangQL – Query C++ codebases using SQLite",
     "url": "https://github.com/frabert/ClangQL",
-    "upvotes": 68,
+    "upvotes": 69,
     "author": "frabert",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27248960"
   },
   {
-    "title": "Commodore’s Assemblers: MOS Resident Assembler",
-    "url": "https://www.pagetable.com/?p=1522",
-    "upvotes": 10,
-    "author": "ingve",
+    "title": "Deep-learning side-channel attacks: the theory",
+    "url": "https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/",
+    "upvotes": 32,
+    "author": "ebursztein",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27244217"
+    "link": "https://news.ycombinator.com/item?id=27242188"
   },
   {
     "title": "Regex Cross­Word",
@@ -228,11 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=27244758"
   },
   {
-    "title": "Deep-learning side-channel attacks: the theory",
-    "url": "https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/",
-    "upvotes": 31,
-    "author": "ebursztein",
+    "title": "Web worker meets worker threads – threads.js",
+    "url": "https://threads.js.org/",
+    "upvotes": 8,
+    "author": "peterhunt",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27242188"
+    "link": "https://news.ycombinator.com/item?id=27252706"
   }
 ]
