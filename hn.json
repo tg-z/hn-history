@@ -2,237 +2,241 @@
   {
     "title": "Freesound just reached 500K Creative Commons sounds",
     "url": "https://blog.freesound.org/?p=1340",
-    "upvotes": 407,
+    "upvotes": 437,
     "author": "diibv",
-    "comments": 39,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27232297"
   },
   {
     "title": "An early look at Postgres 14: Performance and monitoring Improvements",
     "url": "https://pganalyze.com/blog/postgres-14-performance-monitoring",
-    "upvotes": 360,
+    "upvotes": 376,
     "author": "bananaoomarang",
-    "comments": 178,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=27247621"
   },
   {
     "title": "KolibriOS",
     "url": "http://www.kolibrios.org/en/",
-    "upvotes": 249,
+    "upvotes": 261,
     "author": "luke2m",
-    "comments": 74,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=27249075"
+  },
+  {
+    "title": "Video uploads now available across GitHub",
+    "url": "https://github.blog/2021-05-13-video-uploads-available-github/",
+    "upvotes": 7,
+    "author": "stikit",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27252631"
   },
   {
     "title": "The Architecture of Uber’s API Gateway",
     "url": "https://eng.uber.com/architecture-api-gateway/",
-    "upvotes": 76,
+    "upvotes": 86,
     "author": "zerop",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27245058"
   },
   {
     "title": "My Road to Erlang",
     "url": "https://prog21.dadgum.com/22.html",
-    "upvotes": 85,
+    "upvotes": 95,
     "author": "todsacerdoti",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27250619"
-  },
-  {
-    "title": "HAProxy 2.4",
-    "url": "https://www.haproxy.com/blog/announcing-haproxy-2-4/",
-    "upvotes": 62,
-    "author": "throwaway888abc",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27251837"
-  },
-  {
-    "title": "An Introduction to Knowledge Graphs",
-    "url": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
-    "upvotes": 167,
-    "author": "umangkeshri",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27245696"
-  },
-  {
-    "title": "Cornell researchers see atoms at record resolution",
-    "url": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
-    "upvotes": 182,
-    "author": "filoeleven",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27247605"
-  },
-  {
-    "title": "Competing with Steve Jobs",
-    "url": "https://hardcoresoftware.learningbyshipping.com/p/008-competing-with-steve-jobs-the",
-    "upvotes": 6,
-    "author": "ent101",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27231667"
   },
   {
     "title": "Collectors who hunt down radioactive glassware",
     "url": "https://www.atlasobscura.com/articles/uranium-glass-radioactive-plates-cups.html",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "dsr12",
-    "comments": 25,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27243670"
+  },
+  {
+    "title": "Cornell researchers see atoms at record resolution",
+    "url": "https://news.cornell.edu/stories/2021/05/cornell-researchers-see-atoms-record-resolution",
+    "upvotes": 190,
+    "author": "filoeleven",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27247605"
+  },
+  {
+    "title": "An Introduction to Knowledge Graphs",
+    "url": "http://ai.stanford.edu/blog/introduction-to-knowledge-graphs/",
+    "upvotes": 174,
+    "author": "umangkeshri",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=27245696"
+  },
+  {
+    "title": "HAProxy 2.4",
+    "url": "https://www.haproxy.com/blog/announcing-haproxy-2-4/",
+    "upvotes": 69,
+    "author": "throwaway888abc",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27251837"
   },
   {
     "title": "C++20: Building a Thread-Pool with Coroutines",
     "url": "https://blog.eiler.eu/posts/20210512/",
-    "upvotes": 75,
+    "upvotes": 82,
     "author": "MichaEiler",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27234044"
-  },
-  {
-    "title": "Floppinux – An Embedded Linux on a Single Floppy",
-    "url": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
-    "upvotes": 129,
-    "author": "todsacerdoti",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=27247612"
-  },
-  {
-    "title": "Monetizing Open-source is problematic",
-    "url": "https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic",
-    "upvotes": 255,
-    "author": "no_wizard",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=27252066"
   },
   {
     "title": "Common data model mistakes made by startups",
     "url": "https://www.metabase.com/learn/data-diet/analytics/data-model-mistakes.html",
-    "upvotes": 131,
+    "upvotes": 139,
     "author": "ReginaDeiPirati",
-    "comments": 64,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=27248093"
+  },
+  {
+    "title": "Floppinux – An Embedded Linux on a Single Floppy",
+    "url": "https://bits.p1x.in/floppinux-an-embedded-linux-on-a-single-floppy/",
+    "upvotes": 133,
+    "author": "todsacerdoti",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27247612"
   },
   {
     "title": "Show HN: I hate adding updating to my apps, so I created Pakkly",
     "url": "https://pakkly.com",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "enatik",
     "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27249413"
   },
   {
+    "title": "Show HN: ClangQL – Query C++ codebases using SQLite",
+    "url": "https://github.com/frabert/ClangQL",
+    "upvotes": 63,
+    "author": "frabert",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27248960"
+  },
+  {
     "title": "Show HN: Inflation-adjusted Hacker News",
     "url": "https://instruments.digital/inflation-adjusted-hn/",
-    "upvotes": 360,
+    "upvotes": 363,
     "author": "Aaronmacaron",
-    "comments": 92,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27249082"
   },
   {
-    "title": "Initial Stress-Derived Noun",
-    "url": "https://en.wikipedia.org/wiki/Initial-stress-derived_noun",
-    "upvotes": 198,
-    "author": "richardw",
-    "comments": 143,
-    "link": "https://news.ycombinator.com/item?id=27245450"
-  },
-  {
-    "title": "Show HN: ClangQL – Query C++ codebases using SQLite",
-    "url": "https://github.com/frabert/ClangQL",
-    "upvotes": 60,
-    "author": "frabert",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27248960"
+    "title": "AXM Paper Space Scale Models",
+    "url": "https://axmpaperspacescalemodels.com/",
+    "upvotes": 5,
+    "author": "arcxyz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27244726"
   },
   {
     "title": "Why the Bronte sisters may have died so young",
     "url": "https://www.yorkshirepost.co.uk/lifestyle/why-bronte-sisters-died-so-young-1757920",
-    "upvotes": 41,
+    "upvotes": 47,
     "author": "lermontov",
-    "comments": 27,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27242753"
   },
   {
     "title": "Generate RSS feeds with grep",
     "url": "https://www.romanzolotarev.com/rssg.html",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "Tomte",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27248383"
   },
   {
-    "title": "Evolutionary medicine looks to our early human ancestors",
-    "url": "https://phys.org/news/2021-05-evolutionary-medicine-early-human-ancestors.html",
-    "upvotes": 12,
-    "author": "Vigier",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27230744"
-  },
-  {
-    "title": "Regex Cross­Word",
-    "url": "https://regexcrossword.com/",
-    "upvotes": 11,
-    "author": "missy-davies",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27244758"
-  },
-  {
-    "title": "Isotope study hints ancient Greeks used foreign fighters in key battle",
-    "url": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
-    "upvotes": 55,
-    "author": "pseudolus",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27232416"
-  },
-  {
-    "title": "Deep-learning side-channel attacks: the theory",
-    "url": "https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/",
-    "upvotes": 23,
-    "author": "ebursztein",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27242188"
-  },
-  {
-    "title": "The Jame of Life",
-    "url": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
-    "upvotes": 43,
-    "author": "gbrown_",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27231978"
-  },
-  {
-    "title": "Japanese Technology Shaped Dance Music – Attack Magazine",
-    "url": "https://www.attackmagazine.com/features/long-read/how-japanese-technology-shaped-dance-music/",
-    "upvotes": 20,
-    "author": "gkanai",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27250913"
-  },
-  {
-    "title": "What’s your API’s “Time To 200”?",
-    "url": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
-    "upvotes": 148,
-    "author": "edent",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=27232552"
-  },
-  {
     "title": "Why Nonnative English Speakers Speak the Best English",
     "url": "https://www.npr.org/sections/goatsandsoda/2021/04/25/989765565/tower-of-babble-non-native-speakers-navigate-the-world-of-good-and-bad-english",
-    "upvotes": 7,
+    "upvotes": 11,
     "author": "anotherevan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27251644"
   },
   {
+    "title": "Isotope study hints ancient Greeks used foreign fighters in key battle",
+    "url": "https://www.newscientist.com/article/2277380-isotope-study-hints-ancient-greeks-used-foreign-fighters-in-key-battle/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=news",
+    "upvotes": 57,
+    "author": "pseudolus",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27232416"
+  },
+  {
+    "title": "Regex Cross­Word",
+    "url": "https://regexcrossword.com/",
+    "upvotes": 14,
+    "author": "missy-davies",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27244758"
+  },
+  {
+    "title": "IncludeOS – Run your application with zero overhead",
+    "url": "https://www.includeos.org/",
+    "upvotes": 23,
+    "author": "turrini",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27250596"
+  },
+  {
+    "title": "Deep-learning side-channel attacks: the theory",
+    "url": "https://elie.net/blog/security/hacker-guide-to-deep-learning-side-channel-attacks-the-theory/",
+    "upvotes": 26,
+    "author": "ebursztein",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27242188"
+  },
+  {
+    "title": "Monetizing Open-source is problematic",
+    "url": "https://marak.com/blog/2021-04-25-monetizing-open-source-is-problematic",
+    "upvotes": 267,
+    "author": "no_wizard",
+    "comments": 131,
+    "link": "https://news.ycombinator.com/item?id=27252066"
+  },
+  {
+    "title": "The Jame of Life",
+    "url": "https://buttondown.email/hillelwayne/archive/the-jame-of-life/",
+    "upvotes": 44,
+    "author": "gbrown_",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27231978"
+  },
+  {
+    "title": "Evolutionary medicine looks to our early human ancestors",
+    "url": "https://phys.org/news/2021-05-evolutionary-medicine-early-human-ancestors.html",
+    "upvotes": 13,
+    "author": "Vigier",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27230744"
+  },
+  {
     "title": "DatasetGAN: Efficient Labeled Data for AI Training",
     "url": "https://nv-tlabs.github.io/datasetGAN/",
-    "upvotes": 63,
+    "upvotes": 68,
     "author": "alok-g",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27248747"
   },
   {
-    "title": "GiveCampus",
-    "url": "https://jobs.lever.co/givecampus/44af3199-546a-404a-95fd-a097ef37e915"
+    "title": "What’s your API’s “Time To 200”?",
+    "url": "https://shkspr.mobi/blog/2021/05/whats-your-apis-time-to-200/",
+    "upvotes": 149,
+    "author": "edent",
+    "comments": 82,
+    "link": "https://news.ycombinator.com/item?id=27232552"
+  },
+  {
+    "title": "Japanese Technology Shaped Dance Music – Attack Magazine",
+    "url": "https://www.attackmagazine.com/features/long-read/how-japanese-technology-shaped-dance-music/",
+    "upvotes": 21,
+    "author": "gkanai",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27250913"
   }
 ]
