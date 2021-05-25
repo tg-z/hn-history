@@ -1,48 +1,48 @@
 [
   {
-    "title": "Firefox fixes 21 year old bug, will use native context menus on macOS",
-    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=34572",
-    "upvotes": 187,
-    "author": "reid",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=27273724"
-  },
-  {
     "title": "EU bans Belarusian airlines from European skies",
     "url": "https://www.bbc.com/news/world-europe-57236489",
-    "upvotes": 99,
+    "upvotes": 191,
     "author": "xendo",
-    "comments": 30,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=27273752"
   },
   {
-    "title": "RefinedC: Automating Foundational Verification of C Code with Refined Ownership",
-    "url": "https://plv.mpi-sws.org/refinedc/",
-    "upvotes": 25,
-    "author": "matt_d",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27265329"
+    "title": "Firefox fixes 21 year old bug, will use native context menus on macOS",
+    "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=34572",
+    "upvotes": 231,
+    "author": "reid",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=27273724"
   },
   {
     "title": "Ask HN: How to get started with audio programming?",
     "url": "item?id=27273706",
-    "upvotes": 69,
+    "upvotes": 89,
     "author": "Flex247A",
-    "comments": 33,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27273706"
+  },
+  {
+    "title": "RefinedC: Automating Foundational Verification of C Code with Refined Ownership",
+    "url": "https://plv.mpi-sws.org/refinedc/",
+    "upvotes": 28,
+    "author": "matt_d",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27265329"
   },
   {
     "title": "Elk OS – Audio Operating System",
     "url": "https://elk.audio/audio-os/",
-    "upvotes": 255,
+    "upvotes": 264,
     "author": "ushakov",
-    "comments": 111,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=27269589"
   },
   {
     "title": "Rf: an experimental refactoring tool for Go",
     "url": "https://pkg.go.dev/rsc.io/rf",
-    "upvotes": 201,
+    "upvotes": 206,
     "author": "robfig",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27264542"
@@ -50,46 +50,54 @@
   {
     "title": "Researchhub: GitHub for Science",
     "url": "https://www.researchhub.com/about",
-    "upvotes": 116,
+    "upvotes": 121,
     "author": "vimy",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27271366"
   },
   {
     "title": "Scientists use optogenetics to help a blind patient see again",
     "url": "https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/",
-    "upvotes": 169,
+    "upvotes": 173,
     "author": "bmau5",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27268537"
   },
   {
-    "title": "Official GraphQL: Free palestine, BLM, end the new jim crow abolish ICE",
-    "url": "https://github.com/graphql/graphiql/commit/7d0b7d477195ee240e0e9ac800a00d17eb91bac4",
+    "title": "ORBIS: The Stanford Geospatial Network Model of the Roman World",
+    "url": "https://orbis.stanford.edu/",
     "upvotes": 8,
-    "author": "ecmascript",
+    "author": "seanhandley",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27274202"
+    "link": "https://news.ycombinator.com/item?id=27273657"
+  },
+  {
+    "title": "Bird Architecture",
+    "url": "https://mitpress.mit.edu/blog/hidden-architecture-birds",
+    "upvotes": 17,
+    "author": "onemind",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27272634"
+  },
+  {
+    "title": "Drunk as a Lord: the Regency Bottle Men",
+    "url": "https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/",
+    "upvotes": 36,
+    "author": "solvent",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27272605"
   },
   {
     "title": "Flexport is hiring engineers in Amsterdam",
     "url": "https://www.flexport.com/careers"
   },
   {
-    "title": "Drunk as a Lord: the Regency Bottle Men",
-    "url": "https://about1816.wordpress.com/2021/05/23/drunk-as-a-lord-the-regency-bottle-men/",
-    "upvotes": 34,
-    "author": "solvent",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27272605"
-  },
-  {
-    "title": "Bird Architecture",
-    "url": "https://mitpress.mit.edu/blog/hidden-architecture-birds",
-    "upvotes": 10,
-    "author": "onemind",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27272634"
+    "title": "Launch HN: Curvenote (YC W21) – Collaborative writing tools for science",
+    "url": "item?id=27265380",
+    "upvotes": 94,
+    "author": "rowanc1",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27265380"
   },
   {
     "title": "Gromit-MPX Lets You Draw Anywhere on Linux Desktop Screen",
@@ -100,83 +108,83 @@
     "link": "https://news.ycombinator.com/item?id=27263037"
   },
   {
-    "title": "Launch HN: Curvenote (YC W21) – Collaborative writing tools for science",
-    "url": "item?id=27265380",
-    "upvotes": 93,
-    "author": "rowanc1",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27265380"
-  },
-  {
-    "title": "The Great Hanoi Rat Massacre of 1902 Did Not Go as Planned",
-    "url": "https://www.atlasobscura.com/articles/hanoi-rat-massacre-1902.html",
-    "upvotes": 68,
-    "author": "turtlegrids",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27264816"
-  },
-  {
     "title": "Need Something Sorted? Sleep on It",
     "url": "https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914",
-    "upvotes": 85,
+    "upvotes": 89,
     "author": "ingve",
-    "comments": 34,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27269586"
-  },
-  {
-    "title": "Italian seaside residents hit with bygone feudal tax",
-    "url": "https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html",
-    "upvotes": 33,
-    "author": "hiharryhere",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27273953"
   },
   {
     "title": "HIV mRNA Vaccines-Progress and Future Paths",
     "url": "https://pubmed.ncbi.nlm.nih.gov/33562203/",
-    "upvotes": 133,
+    "upvotes": 142,
     "author": "mmastrac",
-    "comments": 87,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27260756"
+  },
+  {
+    "title": "The Great Hanoi Rat Massacre of 1902 Did Not Go as Planned",
+    "url": "https://www.atlasobscura.com/articles/hanoi-rat-massacre-1902.html",
+    "upvotes": 70,
+    "author": "turtlegrids",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=27264816"
+  },
+  {
+    "title": "Italian seaside residents hit with bygone feudal tax",
+    "url": "https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html",
+    "upvotes": 43,
+    "author": "hiharryhere",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27273953"
   },
   {
     "title": "Than Average",
     "url": "https://thanaverage.xyz/",
-    "upvotes": 227,
+    "upvotes": 233,
     "author": "dvt",
-    "comments": 162,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=27270928"
+  },
+  {
+    "title": "Discovering Goroutine Leaks with Semgrep",
+    "url": "https://www.trailofbits.com/post/discovering-goroutine-leaks-with-semgrep",
+    "upvotes": 5,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27265197"
   },
   {
     "title": "In the Deep Sea, Animals Abound",
     "url": "http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound",
-    "upvotes": 58,
+    "upvotes": 59,
     "author": "dnetesn",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27263609"
   },
   {
     "title": "Vim Modes Transition Diagram",
     "url": "https://rawgit.com/darcyparker/1886716/raw/eab57dfe784f016085251771d65a75a471ca22d4/vimModeStateDiagram.svg",
-    "upvotes": 103,
+    "upvotes": 113,
     "author": "brobdingnagians",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27265143"
   },
   {
     "title": "DOOM Captcha",
     "url": "https://vivirenremoto.github.io/doomcaptcha/",
-    "upvotes": 533,
+    "upvotes": 547,
     "author": "jukkakoskinen",
-    "comments": 147,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=27264988"
   },
   {
     "title": "Do countries get the list of every passenger that's transiting their airspace?",
     "url": "https://travel.stackexchange.com/q/163892/101",
-    "upvotes": 103,
+    "upvotes": 115,
     "author": "beatthatflight",
-    "comments": 56,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=27272017"
   },
   {
@@ -190,49 +198,41 @@
   {
     "title": "Magic Wormhole: Get things from one computer to another, safely",
     "url": "https://github.com/magic-wormhole/magic-wormhole",
-    "upvotes": 263,
+    "upvotes": 267,
     "author": "jstanley",
-    "comments": 157,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=27262193"
+  },
+  {
+    "title": "Replit now supports every programming language in Nix",
+    "url": "https://blog.replit.com/nix",
+    "upvotes": 209,
+    "author": "bobrenjc93",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=27269292"
   },
   {
     "title": "Court Orders WhatsApp to Suspend Users Sharing Pirated Movie",
     "url": "https://torrentfreak.com/court-orders-whatsapp-to-suspend-users-sharing-pirated-movie-210524/",
-    "upvotes": 68,
+    "upvotes": 72,
     "author": "curmudgeon22",
-    "comments": 45,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27271830"
   },
   {
     "title": "France is testing free public transport",
     "url": "http://www.bbc.com/worklife/article/20210519-how-france-is-testing-free-public-transport",
-    "upvotes": 155,
+    "upvotes": 171,
     "author": "astatine",
-    "comments": 149,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=27272705"
-  },
-  {
-    "title": "Replit now supports every programming language in Nix",
-    "url": "https://blog.replit.com/nix",
-    "upvotes": 205,
-    "author": "bobrenjc93",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=27269292"
   },
   {
     "title": "Inkscape 1.1",
     "url": "https://inkscape.org/news/2021/05/24/welcome-inkscape-11/",
-    "upvotes": 352,
+    "upvotes": 366,
     "author": "RaitoBezarius",
-    "comments": 112,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=27270070"
-  },
-  {
-    "title": "Urbit: The good, the bad, and the insane",
-    "url": "https://wejn.org/2021/02/urbit-good-bad-insane/",
-    "upvotes": 201,
-    "author": "deegles",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=27268462"
   }
 ]
