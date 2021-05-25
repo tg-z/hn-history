@@ -1,48 +1,56 @@
 [
   {
-    "title": "Stripe Payment Links: Create a link. Sell anywhere in under 5 minutes",
+    "title": "Stripe Payment Links",
     "url": "https://stripe.com/payments/payment-links",
-    "upvotes": 168,
+    "upvotes": 215,
     "author": "joeyespo",
-    "comments": 63,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27280096"
   },
   {
     "title": "Siemens acquires Supplyframe, owners of Hackaday and Tindie",
     "url": "https://blog.adafruit.com/2021/05/17/siemens-acquires-supplyframe-hackaday-tindie-too/",
-    "upvotes": 123,
+    "upvotes": 133,
     "author": "kevinbowman",
-    "comments": 49,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27279043"
   },
   {
     "title": "Launch HN: Fig",
     "url": "https://fig.io?ref=hn",
-    "upvotes": 312,
+    "upvotes": 321,
     "author": "mschrage",
-    "comments": 234,
+    "comments": 242,
     "link": "https://news.ycombinator.com/item?id=27277819"
   },
   {
     "title": "Julia 1.6 addresses latency issues",
     "url": "https://lwn.net/SubscriberLink/856819/c865652ad4dc06d0/",
-    "upvotes": 66,
+    "upvotes": 71,
     "author": "leephillips",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27280174"
   },
   {
     "title": "Arm Announces New Mobile Armv9 CPU Microarchitectures",
     "url": "https://www.anandtech.com/show/16693/arm-announces-mobile-armv9-cpu-microarchitectures-cortexx2-cortexa710-cortexa510",
-    "upvotes": 173,
+    "upvotes": 178,
     "author": "seik",
-    "comments": 89,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=27276671"
+  },
+  {
+    "title": "Facebook, Twitter & Instagram can be banned in India tomorrow for non-compliance",
+    "url": "https://www.businesstoday.in/technology/news/why-facebook-twitter-instagram-could-be-banned-in-india-from-tomorrow/story/439972.html",
+    "upvotes": 18,
+    "author": "zakember",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27280815"
   },
   {
     "title": "Half-Double: New hammering technique for DRAM Rowhammer bug",
     "url": "https://security.googleblog.com/2021/05/introducing-half-double-new-hammering.html",
-    "upvotes": 71,
+    "upvotes": 77,
     "author": "fqazi",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27278540"
@@ -50,78 +58,86 @@
   {
     "title": "Immudb 1.0 – open-source, immutable database with SQL and verified timetravel",
     "url": "https://www.codenotary.com/blog/immudb-release-1-0",
-    "upvotes": 220,
+    "upvotes": 223,
     "author": "vchain-dz",
-    "comments": 88,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=27275691"
-  },
-  {
-    "title": "How Inevitable Is the Concept of Numbers?",
-    "url": "https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/",
-    "upvotes": 34,
-    "author": "perardi",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=27279913"
   },
   {
     "title": "WASM SYNTH, or, how music taught me the beauty of math",
     "url": "https://timdaub.github.io/2020/02/19/wasm-synth/",
-    "upvotes": 132,
+    "upvotes": 135,
     "author": "timdaub",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27276400"
-  },
-  {
-    "title": "Facebook, Twitter & Instagram can be banned in India tomorrow for non-compliance",
-    "url": "https://www.businesstoday.in/technology/news/why-facebook-twitter-instagram-could-be-banned-in-india-from-tomorrow/story/439972.html",
-    "upvotes": 11,
-    "author": "zakember",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27280815"
   },
   {
     "title": "Use native context menus on Mac OS",
     "url": "https://bugzilla.mozilla.org/show_bug.cgi?id=34572",
-    "upvotes": 519,
+    "upvotes": 521,
     "author": "reid",
-    "comments": 244,
+    "comments": 247,
     "link": "https://news.ycombinator.com/item?id=27273724"
+  },
+  {
+    "title": "Shel Silverstein and the Missing Piece Meets the Big O",
+    "url": "https://newsletter.butwhatfor.com/p/takeaway-tuesday-the-missing-piece",
+    "upvotes": 23,
+    "author": "stanrivers",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27272869"
   },
   {
     "title": "Mux",
     "url": "https://mux.com/jobs?hnj=stripe"
   },
   {
-    "title": "Shel Silverstein and the Missing Piece Meets the Big O",
-    "url": "https://newsletter.butwhatfor.com/p/takeaway-tuesday-the-missing-piece",
-    "upvotes": 22,
-    "author": "stanrivers",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27272869"
-  },
-  {
-    "title": "John Steinbeck’s estate urged to let the world read his shunned werewolf novel",
-    "url": "https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel",
-    "upvotes": 93,
-    "author": "benbreen",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=27277035"
-  },
-  {
     "title": "Biodiversity decline will require millions of years to recover",
     "url": "https://www.europeanscientist.com/en/environment/biodiversity-decline-will-require-millions-of-years-to-recover/",
-    "upvotes": 182,
+    "upvotes": 191,
     "author": "acdanger",
-    "comments": 135,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=27277329"
   },
   {
     "title": "Second Climacs – Emacs Implementation in Common Lisp",
     "url": "https://github.com/robert-strandh/Second-Climacs",
-    "upvotes": 63,
+    "upvotes": 66,
     "author": "xvilka",
-    "comments": 22,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27277575"
+  },
+  {
+    "title": "Magit 3.0 Released",
+    "url": "https://emacsair.me/2021/05/25/magit-3.0/",
+    "upvotes": 259,
+    "author": "mpsq",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=27274670"
+  },
+  {
+    "title": "John Steinbeck’s estate urged to let the world read his shunned werewolf novel",
+    "url": "https://www.theguardian.com/books/2021/may/22/john-steinbecks-estate-urged-to-let-the-world-read-his-shunned-werewolf-novel",
+    "upvotes": 96,
+    "author": "benbreen",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=27277035"
+  },
+  {
+    "title": "The Dark Side of Congo’s Cobalt Rush",
+    "url": "https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush",
+    "upvotes": 36,
+    "author": "GranularRecipe",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27278559"
+  },
+  {
+    "title": "Rust Is a Wave of the Future",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture",
+    "upvotes": 39,
+    "author": "zdw",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27278180"
   },
   {
     "title": "From Its Myriad Tips",
@@ -132,33 +148,9 @@
     "link": "https://news.ycombinator.com/item?id=27275146"
   },
   {
-    "title": "The Dark Side of Congo’s Cobalt Rush",
-    "url": "https://www.newyorker.com/magazine/2021/05/31/the-dark-side-of-congos-cobalt-rush",
-    "upvotes": 33,
-    "author": "GranularRecipe",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27278559"
-  },
-  {
-    "title": "Magit 3.0 Released",
-    "url": "https://emacsair.me/2021/05/25/magit-3.0/",
-    "upvotes": 253,
-    "author": "mpsq",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=27274670"
-  },
-  {
-    "title": "Google launches its third major operating system, Fuchsia",
-    "url": "https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/",
-    "upvotes": 60,
-    "author": "moh_maya",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27280567"
-  },
-  {
     "title": "ClojureScript 1.10.866 Release",
     "url": "https://clojurescript.org/news/2021-05-24-release",
-    "upvotes": 92,
+    "upvotes": 93,
     "author": "tosh",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27277482"
@@ -166,9 +158,9 @@
   {
     "title": "All Is Orwell",
     "url": "https://newcriterion.com/issues/2021/6/all-is-orwell",
-    "upvotes": 42,
+    "upvotes": 45,
     "author": "lermontov",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27267448"
   },
   {
@@ -176,16 +168,32 @@
     "url": "https://www.alias.dev/report",
     "upvotes": 269,
     "author": "mehdim",
-    "comments": 178,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=27275906"
+  },
+  {
+    "title": "YouTube Will Monetize Videos Without Paying Content Creators",
+    "url": "https://www.youtube.com/static?template=terms",
+    "upvotes": 144,
+    "author": "StandardFuture",
+    "comments": 148,
+    "link": "https://news.ycombinator.com/item?id=27280277"
   },
   {
     "title": "Peloton to invest $400M to build its first U.S. manufacturing facility in Ohio",
     "url": "https://www.cnbc.com/2021/05/24/peloton-to-invest-400-million-on-first-us-production-facility-in-ohio.html",
-    "upvotes": 119,
+    "upvotes": 124,
     "author": "jbredeche",
-    "comments": 124,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=27267931"
+  },
+  {
+    "title": "The Button Cheat Sheet",
+    "url": "https://www.buttoncheatsheet.com/",
+    "upvotes": 89,
+    "author": "tosh",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27276547"
   },
   {
     "title": "Developing mobile digital key applications with ClojureScript",
@@ -196,43 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=27276992"
   },
   {
-    "title": "The Button Cheat Sheet",
-    "url": "https://www.buttoncheatsheet.com/",
-    "upvotes": 88,
-    "author": "tosh",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27276547"
-  },
-  {
-    "title": "YouTube Will Monetize Videos Without Paying Content Creators",
-    "url": "https://www.youtube.com/static?template=terms",
-    "upvotes": 130,
-    "author": "StandardFuture",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=27280277"
-  },
-  {
-    "title": "Rust Is a Wave of the Future",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture",
-    "upvotes": 29,
-    "author": "zdw",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27278180"
+    "title": "So you want to build a generator",
+    "url": "http://www.galaxykate.com/blog/generator.html",
+    "upvotes": 31,
+    "author": "bryanrasmussen",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27273003"
   },
   {
     "title": "Italian seaside residents hit with bygone feudal tax",
     "url": "https://www.smh.com.au/world/europe/it-s-absurd-italian-seaside-residents-hit-with-bygone-feudal-tax-20210525-p57uxi.html",
-    "upvotes": 203,
+    "upvotes": 204,
     "author": "hiharryhere",
-    "comments": 179,
+    "comments": 181,
     "link": "https://news.ycombinator.com/item?id=27273953"
   },
   {
-    "title": "So you want to build a generator",
-    "url": "http://www.galaxykate.com/blog/generator.html",
-    "upvotes": 28,
-    "author": "bryanrasmussen",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27273003"
+    "title": "How Inevitable Is the Concept of Numbers?",
+    "url": "https://writings.stephenwolfram.com/2021/05/how-inevitable-is-the-concept-of-numbers/",
+    "upvotes": 42,
+    "author": "perardi",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27279913"
+  },
+  {
+    "title": "Google launches its third major operating system, Fuchsia",
+    "url": "https://arstechnica.com/gadgets/2021/05/google-launches-its-third-major-operating-system-fuchsia/",
+    "upvotes": 75,
+    "author": "moh_maya",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27280567"
   }
 ]
