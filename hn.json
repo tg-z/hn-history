@@ -1,86 +1,102 @@
 [
   {
-    "title": "Elk OS – The Audio Operating System",
+    "title": "Than Average",
+    "url": "https://thanaverage.xyz/",
+    "upvotes": 36,
+    "author": "dvt",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27270928"
+  },
+  {
+    "title": "Elk OS – Audio Operating System",
     "url": "https://elk.audio/audio-os/",
-    "upvotes": 61,
+    "upvotes": 92,
     "author": "ushakov",
-    "comments": 10,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27269589"
+  },
+  {
+    "title": "Rf: an experimental refactoring tool for Go",
+    "url": "https://pkg.go.dev/rsc.io/rf",
+    "upvotes": 41,
+    "author": "robfig",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27264542"
   },
   {
     "title": "Scientists use optogenetics to help a blind patient see again",
     "url": "https://www.statnews.com/2021/05/24/scientists-use-optogenetics-for-first-time-to-help-blind-patient-see/",
-    "upvotes": 83,
+    "upvotes": 96,
     "author": "bmau5",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27268537"
   },
   {
-    "title": "Rf is an experimental refactoring tool for go",
-    "url": "https://pkg.go.dev/rsc.io/rf",
-    "upvotes": 13,
-    "author": "robfig",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27264542"
-  },
-  {
     "title": "DOOM Captcha",
     "url": "https://vivirenremoto.github.io/doomcaptcha/",
-    "upvotes": 298,
+    "upvotes": 321,
     "author": "jukkakoskinen",
-    "comments": 92,
+    "comments": 100,
     "link": "https://news.ycombinator.com/item?id=27264988"
-  },
-  {
-    "title": "Inkscape 1.1",
-    "url": "https://inkscape.org/news/2021/05/24/welcome-inkscape-11/",
-    "upvotes": 167,
-    "author": "RaitoBezarius",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27270070"
   },
   {
     "title": "Writing Pythonic Rust",
     "url": "http://www.cmyr.net/blog/rust-python-learnings.html",
-    "upvotes": 161,
+    "upvotes": 165,
     "author": "zbentley",
-    "comments": 123,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=27267066"
   },
   {
     "title": "A journey to io_uring, AIO and modern storage devices",
     "url": "https://clickhouse.tech/blog/en/2021/reading-from-external-memory/",
-    "upvotes": 78,
+    "upvotes": 83,
     "author": "digikata",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27267007"
   },
   {
-    "title": "Evidence-Based Software Engineering based on publicly available data",
+    "title": "Inkscape 1.1",
+    "url": "https://inkscape.org/news/2021/05/24/welcome-inkscape-11/",
+    "upvotes": 193,
+    "author": "RaitoBezarius",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=27270070"
+  },
+  {
+    "title": "Evidence-based Software Engineering: based on the publicly available data",
     "url": "http://www.knosof.co.uk/ESEUR/",
-    "upvotes": 111,
+    "upvotes": 116,
     "author": "teleforce",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27266551"
   },
   {
     "title": "Why did bar ends go away from mountain bikes?",
     "url": "https://brainybiker.com/why-did-bar-ends-go-away-from-mountain-bikes-the-nostalgia-is-real/",
-    "upvotes": 121,
+    "upvotes": 126,
     "author": "de_keyboard",
-    "comments": 196,
+    "comments": 205,
     "link": "https://news.ycombinator.com/item?id=27265645"
   },
   {
-    "title": "Radioactivity May Fuel Life Deep Underground and Inside Other Worlds",
+    "title": "Radioactivity may fuel life deep underground and inside other worlds",
     "url": "https://www.quantamagazine.org/radioactivity-may-fuel-life-deep-underground-and-inside-other-worlds-20210524/",
-    "upvotes": 88,
+    "upvotes": 92,
     "author": "theafh",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27265836"
   },
   {
-    "title": "Tesorio Is Hiring a Principal Data Architect to Join Our Leadership",
+    "title": "In praise of --dry-run",
+    "url": "https://www.gresearch.co.uk/article/in-praise-of-dry-run/",
+    "upvotes": 317,
+    "author": "Smaug123",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=27263136"
+  },
+  {
+    "title": "Tesorio",
     "url": "https://www.tesorio.com/careers#job-openings"
   },
   {
@@ -92,81 +108,57 @@
     "link": "https://news.ycombinator.com/item?id=27265380"
   },
   {
-    "title": "In praise of --dry-run",
-    "url": "https://www.gresearch.co.uk/article/in-praise-of-dry-run/",
-    "upvotes": 305,
-    "author": "Smaug123",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=27263136"
-  },
-  {
     "title": "Show HN: Flashcards to learn AWS skills",
     "url": "https://cloudbite.attejuvonen.fi/",
-    "upvotes": 268,
+    "upvotes": 273,
     "author": "baobabKoodaa",
-    "comments": 85,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=27264500"
   },
   {
     "title": "Complexity is a source of income in open source ecosystems",
     "url": "https://www.r-bloggers.com/2019/07/complexity-is-a-source-of-income-in-open-source-ecosystems/",
-    "upvotes": 225,
+    "upvotes": 232,
     "author": "teleforce",
-    "comments": 142,
+    "comments": 146,
     "link": "https://news.ycombinator.com/item?id=27266485"
+  },
+  {
+    "title": "Complexities of e-mail validation logic",
+    "url": "https://www.netmeister.org/blog/email.html",
+    "upvotes": 254,
+    "author": "Tomte",
+    "comments": 339,
+    "link": "https://news.ycombinator.com/item?id=27263141"
   },
   {
     "title": "In the Deep Sea, Animals Abound",
     "url": "http://oceans.nautil.us/feature/695/in-the-deep-sea-incredible-animals-abound",
-    "upvotes": 14,
+    "upvotes": 19,
     "author": "dnetesn",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27263609"
   },
   {
-    "title": "Your e-mail validation logic is wrong",
-    "url": "https://www.netmeister.org/blog/email.html",
-    "upvotes": 249,
-    "author": "Tomte",
-    "comments": 331,
-    "link": "https://news.ycombinator.com/item?id=27263141"
-  },
-  {
     "title": "Temptation of the Apple: Dolphin on macOS M1",
     "url": "https://dolphin-emu.org/blog/2021/05/24/temptation-of-the-apple-dolphin-on-macos-m1/",
-    "upvotes": 477,
+    "upvotes": 481,
     "author": "svenpeter",
-    "comments": 317,
+    "comments": 321,
     "link": "https://news.ycombinator.com/item?id=27262960"
   },
   {
     "title": "Magic Wormhole: Get things from one computer to another, safely",
     "url": "https://github.com/magic-wormhole/magic-wormhole",
-    "upvotes": 179,
+    "upvotes": 189,
     "author": "jstanley",
-    "comments": 104,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=27262193"
-  },
-  {
-    "title": "Replit now supports every programming language in Nix",
-    "url": "https://blog.replit.com/nix",
-    "upvotes": 97,
-    "author": "bobrenjc93",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27269292"
-  },
-  {
-    "title": "Having a successful career with depression, anxiety and imposter syndrome",
-    "url": "https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/",
-    "upvotes": 23,
-    "author": "lukefreeman",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27270662"
   },
   {
     "title": "The Essence of Mathematics Through Elementary Problems",
     "url": "https://www.openbookpublishers.com/product/979",
-    "upvotes": 93,
+    "upvotes": 100,
     "author": "ArtWomb",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27254415"
@@ -174,65 +166,73 @@
   {
     "title": "My experience binding a couple of scripting engines with C++",
     "url": "https://germandiagogomez.medium.com/c-scripting-alternatives-easy-to-bind-scripting-binding-chaiscript-and-wren-into-a-small-game-174c86b0ecd7",
-    "upvotes": 58,
+    "upvotes": 61,
     "author": "germandiago",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=27262511"
   },
   {
-    "title": "Urbit: The good, the bad, and the insane",
-    "url": "https://wejn.org/2021/02/urbit-good-bad-insane/",
-    "upvotes": 156,
-    "author": "deegles",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=27268462"
+    "title": "Replit now supports every programming language in Nix",
+    "url": "https://blog.replit.com/nix",
+    "upvotes": 111,
+    "author": "bobrenjc93",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27269292"
   },
   {
     "title": "Cheese photo leads to Liverpool drug dealer's downfall",
     "url": "https://www.bbc.co.uk/news/uk-england-merseyside-57226165",
-    "upvotes": 286,
+    "upvotes": 292,
     "author": "mnw21cam",
-    "comments": 177,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=27262788"
   },
   {
-    "title": "Russia gives Google 24 hours to delete banned content",
-    "url": "https://www.reuters.com/technology/russia-gives-google-one-day-delete-banned-content-threatens-slowdown-2021-05-24/",
-    "upvotes": 29,
-    "author": "tareqak",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27270287"
-  },
-  {
-    "title": "I/O Rings: When One I/O Operation is Not Enough",
-    "url": "https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/",
-    "upvotes": 33,
-    "author": "ingve",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27265091"
+    "title": "Urbit: The good, the bad, and the insane",
+    "url": "https://wejn.org/2021/02/urbit-good-bad-insane/",
+    "upvotes": 162,
+    "author": "deegles",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=27268462"
   },
   {
     "title": "Using io_uring to make a high-performance finger server",
     "url": "https://drewdevault.com/2021/05/24/io_uring-finger-server.html",
-    "upvotes": 64,
+    "upvotes": 67,
     "author": "smlckz",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27263160"
   },
   {
-    "title": "Florida Governor Signs Bill to fine tech companies that block politicians",
-    "url": "https://www.flgov.com/2021/05/24/governor-ron-desantis-signs-bill-to-stop-the-censorship-of-floridians-by-big-tech/",
-    "upvotes": 70,
-    "author": "grappler",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=27270490"
+    "title": "I/O Rings: When One I/O Operation is Not Enough",
+    "url": "https://windows-internals.com/i-o-rings-when-one-i-o-operation-is-not-enough/",
+    "upvotes": 37,
+    "author": "ingve",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27265091"
   },
   {
-    "title": "Sen. Warren wants to bar members of Congress from trading individual stocks",
-    "url": "https://www.businessinsider.com/elizabeth-warren-ban-congress-trading-stocks-investing-tom-malinowski-nhofe-2021-5",
-    "upvotes": 11,
-    "author": "ArkanExplorer",
+    "title": "Having a successful career with depression, anxiety and imposter syndrome",
+    "url": "https://80000hours.org/podcast/episodes/depression-anxiety-imposter-syndrome/",
+    "upvotes": 33,
+    "author": "lukefreeman",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27270662"
+  },
+  {
+    "title": "Need Something Sorted? Sleep on It",
+    "url": "https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914",
+    "upvotes": 6,
+    "author": "ingve",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27270872"
+    "link": "https://news.ycombinator.com/item?id=27269586"
+  },
+  {
+    "title": "Microsoft has turned the Surface Duo into a handheld Xbox",
+    "url": "https://www.theverge.com/2021/5/24/22450941/microsoft-surface-duo-xbox-mobile-xcloud-cloud-gaming-dual-screen",
+    "upvotes": 143,
+    "author": "tosh",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=27265209"
   }
 ]
