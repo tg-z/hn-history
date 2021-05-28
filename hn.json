@@ -2,83 +2,91 @@
   {
     "title": "I quit my job to focus on SerenityOS full time",
     "url": "https://awesomekling.github.io/I-quit-my-job-to-focus-on-SerenityOS-full-time/",
-    "upvotes": 741,
+    "upvotes": 819,
     "author": "there",
-    "comments": 137,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=27317655"
   },
   {
     "title": "It's virtually impossible to read old iMessages and they take up tons of storage",
     "url": "https://keydiscussions.com/2021/05/28/apple-charges-for-storing-gigabytes-worth-of-old-imessages-you-cant-reliably-access/",
-    "upvotes": 200,
+    "upvotes": 286,
     "author": "spenvo",
-    "comments": 97,
+    "comments": 138,
     "link": "https://news.ycombinator.com/item?id=27319099"
-  },
-  {
-    "title": "Google says Rowhammer attacks are gaining range as RAM is getting denser",
-    "url": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
-    "upvotes": 154,
-    "author": "valprop1",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=27288079"
   },
   {
     "title": "The Unix Game",
     "url": "https://unixgame.io/unix50",
-    "upvotes": 62,
+    "upvotes": 81,
     "author": "salgernon",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27319540"
+  },
+  {
+    "title": "Google says Rowhammer attacks are gaining range as RAM is getting denser",
+    "url": "https://therecord.media/google-says-rowhammer-attacks-are-gaining-range-as-ram-is-getting-smaller/",
+    "upvotes": 165,
+    "author": "valprop1",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27288079"
   },
   {
     "title": "Twitter confirms Twitter Blue",
     "url": "https://twitter.com/wongmjane/status/1398022730553860102",
-    "upvotes": 329,
+    "upvotes": 339,
     "author": "0xedb",
-    "comments": 553,
+    "comments": 567,
     "link": "https://news.ycombinator.com/item?id=27316115"
   },
   {
-    "title": "Elliptic Curve Cryptography Explained",
-    "url": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
-    "upvotes": 173,
-    "author": "ptr",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27301651"
-  },
-  {
-    "title": "Overwork killed more than 745k people in a year, WHO study finds",
-    "url": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
-    "upvotes": 159,
-    "author": "user_235711",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=27319070"
+    "title": "Primates change their 'accent' to avoid conflict",
+    "url": "https://phys.org/news/2021-05-primates-accent-conflict.html",
+    "upvotes": 22,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27301260"
   },
   {
     "title": "1nm Breakthrough: TSMC, MIT and NTU Published on Nature",
     "url": "https://buzzorange.com/techorange/en/2021/05/18/1nm-tsmc-mit-ntu/",
-    "upvotes": 46,
+    "upvotes": 64,
     "author": "whitneyfus",
-    "comments": 18,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27318735"
+  },
+  {
+    "title": "Elliptic Curve Cryptography Explained",
+    "url": "https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/",
+    "upvotes": 184,
+    "author": "ptr",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27301651"
+  },
+  {
+    "title": "Ask HN: How are you using unikernels?",
+    "url": "item?id=27301210",
+    "upvotes": 44,
+    "author": "austinjp",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27301210"
   },
   {
     "title": "Alloy Automation",
     "url": "https://www.ycombinator.com/companies/alloy-automation/jobs/v3wXAAb-customer-success-manager"
   },
   {
-    "title": "Ask HN: How are you using unikernels?",
-    "url": "item?id=27301210",
-    "upvotes": 30,
-    "author": "austinjp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27301210"
+    "title": "Overwork killed more than 745k people in a year, WHO study finds",
+    "url": "https://www.npr.org/2021/05/17/997462169/thousands-of-people-are-dying-from-working-long-hours-a-new-who-study-finds",
+    "upvotes": 183,
+    "author": "user_235711",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=27319070"
   },
   {
     "title": "PostgreSQL EXPLAIN Output Explained",
     "url": "https://www.cybertec-postgresql.com/en/how-to-interpret-postgresql-explain-analyze-output/",
-    "upvotes": 125,
+    "upvotes": 131,
     "author": "PhilipTrauner",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27317024"
@@ -86,153 +94,145 @@
   {
     "title": "Anthropic AI",
     "url": "https://www.anthropic.com/",
-    "upvotes": 67,
+    "upvotes": 75,
     "author": "vulkd",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27318153"
-  },
-  {
-    "title": "Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams",
-    "url": "item?id=27317635",
-    "upvotes": 41,
-    "author": "coyleandrew",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27317635"
-  },
-  {
-    "title": "Court rules climate change “duty of care” to future generations exists",
-    "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
-    "upvotes": 116,
-    "author": "Bluestein",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=27318588"
   },
   {
     "title": "Show HN: An experimental, people-powered search engine",
     "url": "https://ninfex.com/hello",
-    "upvotes": 83,
+    "upvotes": 97,
     "author": "zeeshanqureshi",
-    "comments": 24,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27316752"
+  },
+  {
+    "title": "Launch HN: NextUX (YC S19) – Web UX editor and feedback tool for product teams",
+    "url": "item?id=27317635",
+    "upvotes": 45,
+    "author": "coyleandrew",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27317635"
   },
   {
     "title": "PID Controller: A Simple Control Loop Mechanism",
     "url": "https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism",
-    "upvotes": 30,
+    "upvotes": 38,
     "author": "vackosar",
-    "comments": 6,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27318942"
+  },
+  {
+    "title": "Court rules climate change “duty of care” to future generations exists",
+    "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2021/2021fca0560",
+    "upvotes": 136,
+    "author": "Bluestein",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=27318588"
   },
   {
     "title": "Why Russians do not smile",
     "url": "https://www.chicagomaroon.com/2002/04/12/why-russians-do-not-smile/",
-    "upvotes": 162,
+    "upvotes": 188,
     "author": "1experience",
-    "comments": 112,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=27317859"
-  },
-  {
-    "title": "Booking.com gives €28m in bonuses to three top execs; Took €65m in State aid",
-    "url": "https://nltimes.nl/2021/05/28/bookingcom-gives-eu28m-bonuses-three-top-execs-took-eu65m-state-aid",
-    "upvotes": 425,
-    "author": "jsiepkes",
-    "comments": 223,
-    "link": "https://news.ycombinator.com/item?id=27319477"
-  },
-  {
-    "title": "Primates change their 'accent' to avoid conflict",
-    "url": "https://phys.org/news/2021-05-primates-accent-conflict.html",
-    "upvotes": 4,
-    "author": "pseudolus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27301260"
-  },
-  {
-    "title": "Learn American Sign Language Fingerspelling with Machine Learning",
-    "url": "https://fingerspelling.xyz",
-    "upvotes": 36,
-    "author": "joe5150",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27308916"
   },
   {
     "title": "Y Combinator backed MMO metaverse game is a blatant scam",
     "url": "https://www.pcgamer.com/dreamworld-infinite-world-mmo-kickstarter-fiasco/",
-    "upvotes": 121,
+    "upvotes": 158,
     "author": "astlouis44",
-    "comments": 44,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=27319457"
   },
   {
-    "title": "Never mind the 1 percent: Let's talk about the 0.01 percent",
-    "url": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
-    "upvotes": 89,
-    "author": "arcanus",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=27319923"
+    "title": "Learn American Sign Language Fingerspelling with Machine Learning",
+    "url": "https://fingerspelling.xyz",
+    "upvotes": 43,
+    "author": "joe5150",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27308916"
+  },
+  {
+    "title": "Booking.com gives €28m in bonuses to three top execs; Took €65m in State aid",
+    "url": "https://nltimes.nl/2021/05/28/bookingcom-gives-eu28m-bonuses-three-top-execs-took-eu65m-state-aid",
+    "upvotes": 459,
+    "author": "jsiepkes",
+    "comments": 241,
+    "link": "https://news.ycombinator.com/item?id=27319477"
   },
   {
     "title": "Control-flow integrity in Linux 5.13",
     "url": "https://lwn.net/SubscriberLink/856514/bd36cc646fac2071/",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "chmaynard",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27299392"
   },
   {
-    "title": "US Soldiers Expose Nuclear Weapons Secrets via Flashcard Apps",
-    "url": "https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/",
-    "upvotes": 171,
-    "author": "cyberlurker",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27317946"
-  },
-  {
     "title": "LibreFoodPantry – a community building FOSS for food pantries",
     "url": "https://librefoodpantry.org/",
-    "upvotes": 36,
+    "upvotes": 41,
     "author": "jka",
-    "comments": 11,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27317709"
-  },
-  {
-    "title": "Charter charges more money for slower Internet on streets with no competition",
-    "url": "https://arstechnica.com/tech-policy/2021/05/charter-charges-more-money-for-slower-internet-on-streets-with-no-competition/",
-    "upvotes": 244,
-    "author": "CharlesW",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=27316358"
   },
   {
     "title": "Show HN: Redact – Automated deletion for your content on social networks",
     "url": "https://redact.dev/?hn",
-    "upvotes": 91,
+    "upvotes": 100,
     "author": "ds",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27303347"
+  },
+  {
+    "title": "US Soldiers Expose Nuclear Weapons Secrets via Flashcard Apps",
+    "url": "https://www.bellingcat.com/news/2021/05/28/us-soldiers-expose-nuclear-weapons-secrets-via-flashcard-apps/",
+    "upvotes": 193,
+    "author": "cyberlurker",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27317946"
+  },
+  {
+    "title": "Charter charges more money for slower Internet on streets with no competition",
+    "url": "https://arstechnica.com/tech-policy/2021/05/charter-charges-more-money-for-slower-internet-on-streets-with-no-competition/",
+    "upvotes": 257,
+    "author": "CharlesW",
+    "comments": 145,
+    "link": "https://news.ycombinator.com/item?id=27316358"
   },
   {
     "title": "Show HN: I Built Multiplayer Deathmatch Joust",
     "url": "https://joust.life/",
-    "upvotes": 211,
+    "upvotes": 217,
     "author": "jasonkester",
-    "comments": 74,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=27301879"
-  },
-  {
-    "title": "Stay Calm and Stay in the Cab",
-    "url": "https://www.youtube.com/watch?v=6KejBRUTUjA",
-    "upvotes": 28,
-    "author": "bookofjoe",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27304713"
   },
   {
     "title": "The Hostile Takeover of a Microsoft Flight Simulator Server",
     "url": "http://wired.com/story/hostile-takeover-microsoft-flight-simulator/",
-    "upvotes": 63,
+    "upvotes": 68,
     "author": "tmfi",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27300931"
+  },
+  {
+    "title": "Never mind the 1 percent: Let's talk about the 0.01 percent",
+    "url": "https://review.chicagobooth.edu/economics/2017/article/never-mind-1-percent-lets-talk-about-001-percent",
+    "upvotes": 111,
+    "author": "arcanus",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=27319923"
+  },
+  {
+    "title": "Stay Calm and Stay in the Cab",
+    "url": "https://www.youtube.com/watch?v=6KejBRUTUjA",
+    "upvotes": 30,
+    "author": "bookofjoe",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27304713"
   }
 ]
