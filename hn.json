@@ -1,238 +1,238 @@
 [
   {
+    "title": "A new ProtoBuf generator for Go",
+    "url": "https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/",
+    "upvotes": 63,
+    "author": "tanoku",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27384911"
+  },
+  {
     "title": "United Airlines will buy 15 planes from Boom Supersonic",
     "url": "https://www.cnbc.com/2021/06/03/united-will-buy-15-ultrafast-airplanes-from-start-up-boom-supersonic.html",
-    "upvotes": 277,
+    "upvotes": 436,
     "author": "throw0101a",
-    "comments": 252,
+    "comments": 359,
     "link": "https://news.ycombinator.com/item?id=27380752"
   },
   {
-    "title": "Google Joins Apple to Opt-out of Mobile Advertising IDs",
-    "url": "https://thebigtech.substack.com/p/google-limits-mobile-advertising-id-android-12",
-    "upvotes": 206,
-    "author": "devnerd239",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=27380799"
+    "title": "Slack Engineering: How a Jenkins Job Broke Our Jenkins UI",
+    "url": "https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/",
+    "upvotes": 38,
+    "author": "FraBle90",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27384701"
+  },
+  {
+    "title": "Show HN: Free 3D virtual office in the browser",
+    "url": "https://www.spot.xyz",
+    "upvotes": 38,
+    "author": "ghempton",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27384949"
+  },
+  {
+    "title": "Cocoa Touch apps",
+    "url": "https://twitter.com/techemails/status/1400270458608664577",
+    "upvotes": 92,
+    "author": "tomhoward",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27383257"
+  },
+  {
+    "title": "Patents in Open Source: the important parts of real cases",
+    "url": "https://google.github.io/opencasebook/patents/",
+    "upvotes": 11,
+    "author": "tgamblin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27385153"
   },
   {
     "title": "A Concrete Introduction to Probability",
     "url": "https://github.com/norvig/pytudes/blob/master/ipynb/Probability.ipynb",
-    "upvotes": 281,
+    "upvotes": 361,
     "author": "tosh",
-    "comments": 42,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27379366"
   },
   {
-    "title": "Algorithmic Botany",
-    "url": "http://algorithmicbotany.org/",
-    "upvotes": 89,
-    "author": "the-mitr",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27379780"
+    "title": "US Supreme Court Restricts Scope of Computer Fraud and Abuse Act [pdf]",
+    "url": "https://www.supremecourt.gov/opinions/20pdf/19-783_k53l.pdf",
+    "upvotes": 69,
+    "author": "panarky",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27382752"
   },
   {
-    "title": "Cocoa Touch Apps",
-    "url": "https://twitter.com/techemails/status/1400270458608664577",
-    "upvotes": 5,
-    "author": "tomhoward",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27383257"
-  },
-  {
-    "title": "Can Apple change ads?",
-    "url": "https://www.ben-evans.com/benedictevans/2021/5/13/apples-ads-music",
-    "upvotes": 18,
-    "author": "prostoalex",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27369708"
-  },
-  {
-    "title": "The Hunt for the Lost Phoenix Games",
-    "url": "http://www.mistys-internet.website/blog/blog/2019/02/20/the-hunt-for-the-lost-phoenix-games/",
+    "title": "Italian Artist Auctions Off an ‘Invisible Sculpture’ for $18,300",
+    "url": "https://news.artnet.com/art-world/italian-artist-auctioned-off-invisible-sculpture-18300-literally-made-nothing-1976181",
     "upvotes": 9,
-    "author": "luu",
+    "author": "ijidak",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27385358"
+  },
+  {
+    "title": "Make School",
+    "url": "https://www.make.sc/president"
+  },
+  {
+    "title": "The Human Body in Space: Distinguishing Fact from Fiction",
+    "url": "https://sitn.hms.harvard.edu/flash/2013/space-human-body/",
+    "upvotes": 28,
+    "author": "jacksonkmarley",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27367721"
+  },
+  {
+    "title": "Open Source Insights",
+    "url": "https://deps.dev/",
+    "upvotes": 13,
+    "author": "hasheddan",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27384445"
+  },
+  {
+    "title": "Camera Calibration from Scratch Using Rust",
+    "url": "https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3",
+    "upvotes": 23,
+    "author": "reteltech",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27366204"
+    "link": "https://news.ycombinator.com/item?id=27384207"
+  },
+  {
+    "title": "Tour of our 250k line Clojure codebase",
+    "url": "https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/",
+    "upvotes": 11,
+    "author": "grzm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27385208"
   },
   {
     "title": "Show HN: Assetroulette – Randomized Assets for Webdesign",
     "url": "https://assetroulette.com/",
-    "upvotes": 5,
+    "upvotes": 36,
     "author": "ilovefood",
-    "comments": null,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27382653"
+  },
+  {
+    "title": "Apple: Developer Relations",
+    "url": "https://marco.org/2021/06/03/developer-relations",
+    "upvotes": 31,
+    "author": "tosh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27385314"
+  },
+  {
+    "title": "Algorithmic Botany",
+    "url": "http://algorithmicbotany.org/",
+    "upvotes": 124,
+    "author": "the-mitr",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27379780"
+  },
+  {
+    "title": "Show HN: Mani – Place virtual sticky notes in real-world spaces",
+    "url": "https://www.mani.ai/",
+    "upvotes": 36,
+    "author": "narenkeshav",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27365797"
+  },
+  {
+    "title": "Show HN: Monte Carlo simulation for predicting project timelines",
+    "url": "https://quotes.vistimo.com",
+    "upvotes": 86,
+    "author": "diiq",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27379310"
+  },
+  {
+    "title": "Fedora co-mingles its source packages with Red Hat Enterprise Linux",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraRPMSpecsAndRHEL",
+    "upvotes": 5,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27377398"
+  },
+  {
+    "title": "Tesla files trademark paperwork for restuarant concept",
+    "url": "https://www.autonews.com/automakers-suppliers/tesla-files-trademark-paperwork-restaurant-concept",
+    "upvotes": 14,
+    "author": "rsj_hn",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27384201"
+  },
+  {
+    "title": "SmooshGate FAQ",
+    "url": "https://developers.google.com/web/updates/2018/03/smooshgate",
+    "upvotes": 8,
+    "author": "tosh",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27384466"
+  },
+  {
+    "title": "Can Apple change ads?",
+    "url": "https://www.ben-evans.com/benedictevans/2021/5/13/apples-ads-music",
+    "upvotes": 61,
+    "author": "prostoalex",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27369708"
+  },
+  {
+    "title": "Auditing Io_uring",
+    "url": "https://lwn.net/SubscriberLink/858023/1caabaef50d4946b/",
+    "upvotes": 21,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27382299"
   },
   {
     "title": "Cores that don’t count [pdf]",
     "url": "https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s01-hochschild.pdf",
-    "upvotes": 112,
+    "upvotes": 135,
     "author": "rajeevk",
-    "comments": 31,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27378624"
   },
   {
     "title": "Elementary Calculus: An Infinitesimal Approach",
     "url": "https://people.math.wisc.edu/~keisler/calc.html",
-    "upvotes": 89,
+    "upvotes": 113,
     "author": "mkl",
-    "comments": 43,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27367104"
   },
   {
-    "title": "Show HN: Monte Carlo simulation for predicting project timelines",
-    "url": "https://quotes.vistimo.com",
-    "upvotes": 50,
-    "author": "diiq",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27379310"
-  },
-  {
-    "title": "Intoxicant as Preservative and Scientific Instrument in the World of J. Petiver",
-    "url": "https://www.cambridge.org/core/blog/2021/05/10/the-intoxicant-as-preservative-and-scientific-instrument-in-the-world-of-james-petiver/",
-    "upvotes": 5,
-    "author": "drdee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27363792"
+    "title": "Breaking VeraCrypt: Obtaining and Extracting On-the-Fly Encryption Keys",
+    "url": "https://blog.elcomsoft.com/2021/06/breaking-veracrypt-obtaining-and-extracting-on-the-fly-encryption-keys/",
+    "upvotes": 23,
+    "author": "polar",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27383918"
   },
   {
     "title": "Stack Overflow sold to Prosus for $1.8B",
     "url": "https://www.wsj.com/articles/software-developer-community-stack-overflow-sold-to-tech-giant-prosus-for-1-8-billion-11622648400",
-    "upvotes": 2141,
+    "upvotes": 2185,
     "author": "DavidWilkinson",
-    "comments": 797,
+    "comments": 807,
     "link": "https://news.ycombinator.com/item?id=27370026"
   },
   {
-    "title": "Jerry",
-    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
-  },
-  {
-    "title": "Google Lighthouse V8 – Improved CLS metrics",
-    "url": "https://github.com/GoogleChrome/lighthouse/releases/tag/v8.0.0",
-    "upvotes": 89,
-    "author": "manojvivek",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=27378172"
+    "title": "The Hunt for the Lost Phoenix Games",
+    "url": "http://www.mistys-internet.website/blog/blog/2019/02/20/the-hunt-for-the-lost-phoenix-games/",
+    "upvotes": 18,
+    "author": "luu",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27366204"
   },
   {
     "title": "A Browsable Petascale Reconstruction of the Human Cortex",
     "url": "https://ai.googleblog.com/2021/06/a-browsable-petascale-reconstruction-of.html",
-    "upvotes": 69,
+    "upvotes": 98,
     "author": "phreeza",
-    "comments": 14,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27367257"
-  },
-  {
-    "title": "Modern 8bit Computer as an Art",
-    "url": "https://github.com/dmytrostriletskyi/8-bit-computer-memory-init",
-    "upvotes": 60,
-    "author": "pr0nin",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27367681"
-  },
-  {
-    "title": "The Development of Erlang",
-    "url": "https://fermatslibrary.com/s/the-development-of-erlang",
-    "upvotes": 210,
-    "author": "BerislavLopac",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=27365883"
-  },
-  {
-    "title": "Google removes its head of diversity after 2007 blog post",
-    "url": "https://www.businessinsider.com/kamau-bobb-google-diversity-head-antisemitic-blog-post-2021-6",
-    "upvotes": 217,
-    "author": "wonderwonder",
-    "comments": 430,
-    "link": "https://news.ycombinator.com/item?id=27381425"
-  },
-  {
-    "title": "Stage 3 Proposal: Array.prototype.at",
-    "url": "https://tc39.es/proposal-relative-indexing-method/",
-    "upvotes": 70,
-    "author": "bpierre",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=27367378"
-  },
-  {
-    "title": "RFC 4180: Common Format and MIME Type for CSV Files",
-    "url": "https://datatracker.ietf.org/doc/html/rfc4180",
-    "upvotes": 31,
-    "author": "tosh",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27379093"
-  },
-  {
-    "title": "Scientific Data Repositories",
-    "url": "https://www.nature.com/sdata/policies/repositories",
-    "upvotes": 93,
-    "author": "the-mitr",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27365755"
-  },
-  {
-    "title": "Amazon Ring’s neighborhood watch app is making police requests public",
-    "url": "https://www.reuters.com/technology/amazon-rings-neighborhood-watch-app-is-making-police-requests-public-2021-06-03/",
-    "upvotes": 79,
-    "author": "underscore_ku",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27379504"
-  },
-  {
-    "title": "Leaky Abstractions",
-    "url": "https://textslashplain.com/2021/06/02/leaky-abstractions/",
-    "upvotes": 414,
-    "author": "jakub_g",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=27372292"
-  },
-  {
-    "title": "Pandemic homeschoolers who are not going back",
-    "url": "https://www.wired.com/story/pandemic-homeschoolers-who-are-not-going-back/",
-    "upvotes": 78,
-    "author": "alexrustic",
-    "comments": 185,
-    "link": "https://news.ycombinator.com/item?id=27380180"
-  },
-  {
-    "title": "A stupid simple make wrapper that makes my life easier",
-    "url": "https://github.com/wurosh/cake",
-    "upvotes": 35,
-    "author": "wurosh",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27378642"
-  },
-  {
-    "title": "Generating Coherent Noise Using Fourier Transforms",
-    "url": "https://farazzshaikh.medium.com/generating-noise-using-fourier-transforms-b6ccf64afb08",
-    "upvotes": 39,
-    "author": "achat",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27365280"
-  },
-  {
-    "title": "Microsoft Teams Calls will soon include end-to-end encryption",
-    "url": "https://techplanet.today/post/microsoft-teams-calls-will-soon-include-end-to-end-encryption",
-    "upvotes": 82,
-    "author": "JassicaB4",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27379152"
-  },
-  {
-    "title": "The extraordinary story of two Pacific voyages of discovery a 1000 years apart",
-    "url": "https://www.thenewatlantis.com/publications/chasing-the-sun",
-    "upvotes": 37,
-    "author": "pseudolus",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27360411"
-  },
-  {
-    "title": "Real-time Netlisting in KiCad [video]",
-    "url": "https://fosdem.org/2021/schedule/event/realtime_netlisting/",
-    "upvotes": 64,
-    "author": "teleforce",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27367414"
   }
 ]
