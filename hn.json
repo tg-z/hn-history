@@ -1,82 +1,98 @@
 [
   {
-    "title": "The story of the Tank Man photo by its photographer, Jeff Widener",
-    "url": "http://www.jeffwidener.com/stories/2016/09/tankman/",
-    "upvotes": 134,
-    "author": "js2",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27396783"
-  },
-  {
     "title": "Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++",
     "url": "https://binji.github.io/posts/pokegb/",
-    "upvotes": 56,
+    "upvotes": 181,
     "author": "brundolf",
-    "comments": 4,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27397208"
-  },
-  {
-    "title": "Why We Should End the Data Economy",
-    "url": "https://thereboot.com/why-we-should-end-the-data-economy/",
-    "upvotes": 262,
-    "author": "oppodeldoc",
-    "comments": 212,
-    "link": "https://news.ycombinator.com/item?id=27394983"
   },
   {
     "title": "Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling",
     "url": "https://www.eejournal.com/article/we-interrupt-this-program/",
-    "upvotes": 59,
+    "upvotes": 92,
     "author": "eklitzke",
-    "comments": 16,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27396848"
-  },
-  {
-    "title": "Social virtual spaces with Elixir at Mozilla",
-    "url": "https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/",
-    "upvotes": 83,
-    "author": "thibaut_barrere",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27395861"
-  },
-  {
-    "title": "“Tank Man”",
-    "url": "https://duckduckgo.com/?q=tank+man&iax=images&ia=images",
-    "upvotes": 21,
-    "author": "Turukawa",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27397486"
-  },
-  {
-    "title": "Van Buren is a victory against overbroad interpretations of the CFAA",
-    "url": "https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security",
-    "upvotes": 60,
-    "author": "sohkamyung",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27389500"
-  },
-  {
-    "title": "An Unbelievable Demo",
-    "url": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
-    "upvotes": 1961,
-    "author": "SerCe",
-    "comments": 387,
-    "link": "https://news.ycombinator.com/item?id=27390512"
   },
   {
     "title": "Ultra-processed food targets bone quality via endochondral ossification",
     "url": "https://www.nature.com/articles/s41413-020-00127-9",
-    "upvotes": 26,
+    "upvotes": 58,
     "author": "myth_drannon",
-    "comments": 22,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27396873"
+  },
+  {
+    "title": "Van Buren is a victory against overbroad interpretations of the CFAA",
+    "url": "https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security",
+    "upvotes": 106,
+    "author": "sohkamyung",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27389500"
+  },
+  {
+    "title": "Social virtual spaces with Elixir at Mozilla",
+    "url": "https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/",
+    "upvotes": 118,
+    "author": "thibaut_barrere",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27395861"
+  },
+  {
+    "title": "Why We Should End the Data Economy",
+    "url": "https://thereboot.com/why-we-should-end-the-data-economy/",
+    "upvotes": 322,
+    "author": "oppodeldoc",
+    "comments": 272,
+    "link": "https://news.ycombinator.com/item?id=27394983"
+  },
+  {
+    "title": "There are no results for tank man",
+    "url": "https://www.bing.com/images/search?q=tank+man",
+    "upvotes": 1099,
+    "author": "rcoveson",
+    "comments": 225,
+    "link": "https://news.ycombinator.com/item?id=27395635"
+  },
+  {
+    "title": "Heroic Rat Retiring from Detecting Land Mines",
+    "url": "https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer",
+    "upvotes": 38,
+    "author": "packet_nerd",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27396803"
+  },
+  {
+    "title": "Implementing a LLVM Micro C compiler in Haskell",
+    "url": "https://blog.josephmorag.com/posts/mcc0/",
+    "upvotes": 91,
+    "author": "pcr910303",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27394857"
+  },
+  {
+    "title": "Anatomy of a Linux DNS Lookup",
+    "url": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/",
+    "upvotes": 61,
+    "author": "belter",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27396208"
+  },
+  {
+    "title": "Tour of our 250k line Clojure codebase",
+    "url": "https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/#front-end",
+    "upvotes": 26,
+    "author": "swannodette",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27385648"
   },
   {
     "title": "Haiku Monthly Activity Report – May 2021",
     "url": "https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/",
-    "upvotes": 48,
+    "upvotes": 59,
     "author": "bitigchi",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27395511"
   },
   {
@@ -84,155 +100,139 @@
     "url": "https://www.ycombinator.com/companies/truevault/jobs/oc7r6dIgO-engineering-lead"
   },
   {
-    "title": "Implementing a LLVM Micro C compiler in Haskell",
-    "url": "https://blog.josephmorag.com/posts/mcc0/",
-    "upvotes": 67,
-    "author": "pcr910303",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27394857"
-  },
-  {
-    "title": "Anatomy of a Linux DNS Lookup",
-    "url": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/",
-    "upvotes": 36,
-    "author": "belter",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27396208"
-  },
-  {
     "title": "Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control",
     "url": "http://gvv.mpi-inf.mpg.de/projects/NeuralActor/",
-    "upvotes": 119,
+    "upvotes": 130,
     "author": "Hard_Space",
-    "comments": 33,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27393047"
   },
   {
-    "title": "There are no results for tank man",
-    "url": "https://www.bing.com/images/search?q=tank+man",
-    "upvotes": 675,
-    "author": "rcoveson",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=27395635"
+    "title": "Abram Petrovich Gannibal",
+    "url": "https://en.wikipedia.org/wiki/Abram_Petrovich_Gannibal",
+    "upvotes": 7,
+    "author": "lermontov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27376318"
   },
   {
     "title": "Reimagining video infrastructure to empower YouTube",
     "url": "https://blog.youtube/inside-youtube/new-era-video-infrastructure/",
-    "upvotes": 20,
+    "upvotes": 33,
     "author": "prostoalex",
-    "comments": null,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27394362"
   },
   {
-    "title": "NASA's Juno to get a close look at Jupiter's moon Ganymede",
-    "url": "https://phys.org/news/2021-06-nasa-juno-jupiter-moon-ganymede.html",
-    "upvotes": 31,
-    "author": "dnetesn",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27392815"
+    "title": "Elijah Miller’s NEC v30 on a Pi hat",
+    "url": "https://virtuallyfun.com/wordpress/2021/06/04/elijah-millers-nec-v30-on-a-pi-hat/",
+    "upvotes": 8,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27398267"
+  },
+  {
+    "title": "The story of the Tank Man photo by its photographer",
+    "url": "http://www.jeffwidener.com/stories/2016/09/tankman/",
+    "upvotes": 382,
+    "author": "js2",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27396783"
+  },
+  {
+    "title": "An Unbelievable Demo",
+    "url": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
+    "upvotes": 2002,
+    "author": "SerCe",
+    "comments": 397,
+    "link": "https://news.ycombinator.com/item?id=27390512"
   },
   {
     "title": "Computing the number of digits of an integer even faster",
     "url": "https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/",
-    "upvotes": 70,
+    "upvotes": 75,
     "author": "vitaut",
-    "comments": 35,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27394153"
+  },
+  {
+    "title": "Few-Shot Learning in Practice: GPT-Neo & 'HuggingFace' Accelerated Inference API",
+    "url": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
+    "upvotes": 31,
+    "author": "homarp",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27395442"
   },
   {
     "title": "Booking.com to repay €65M Dutch State aid after €28M in bonuses for 3 US execs",
     "url": "https://nltimes.nl/2021/06/04/bookingcom-repay-eu65-million-state-aid-giving-eu28-million-bonuses-3-execs",
-    "upvotes": 198,
+    "upvotes": 235,
     "author": "the-dude",
-    "comments": 86,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27395172"
-  },
-  {
-    "title": "The lab-leak origin claim for Covid-19 is in the news, but it’s still fact-free",
-    "url": "https://www.latimes.com/business/story/2021-06-03/lab-leak-covid-origin",
-    "upvotes": 42,
-    "author": "johncena33",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27396685"
   },
   {
     "title": "Computer Science Logo Style: Programming Language Implementation",
     "url": "https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html",
-    "upvotes": 44,
+    "upvotes": 50,
     "author": "buescher",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27394421"
   },
   {
-    "title": "Data Cascades in Machine Learning",
-    "url": "https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html",
-    "upvotes": 29,
-    "author": "theafh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27395623"
-  },
-  {
     "title": "Using a magnetic string to fish for a lost iPhone 12 in a Berlin canal",
     "url": "https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/",
-    "upvotes": 110,
+    "upvotes": 135,
     "author": "crackercrews",
-    "comments": 79,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=27395663"
-  },
-  {
-    "title": "Few-Shot Learning in Practice: GPT-Neo & 'HuggingFace' Accelerated Inference API",
-    "url": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
-    "upvotes": 17,
-    "author": "homarp",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27395442"
-  },
-  {
-    "title": "Questions to Ask Before Adopting Usage Based Pricing",
-    "url": "https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309",
-    "upvotes": 67,
-    "author": "lamflam",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27392962"
-  },
-  {
-    "title": "Go: Fuzzing Is Beta Ready",
-    "url": "https://blog.golang.org/fuzz-beta",
-    "upvotes": 271,
-    "author": "ingve",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27391048"
-  },
-  {
-    "title": "Want a killer product? Become more opinionated",
-    "url": "https://adilaijaz.medium.com/want-a-killer-product-become-more-opinionated-dce7b12bba3e",
-    "upvotes": 222,
-    "author": "adilaijaz",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=27373825"
-  },
-  {
-    "title": "Launch HN: InBalance (YC W21) – Short-term energy market forecasting",
-    "url": "item?id=27395238",
-    "upvotes": 25,
-    "author": "Straw",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27395238"
   },
   {
     "title": "Pijul – Datacenter on Fires",
     "url": "https://pijul.org/posts/2021-06-03-on-fires/",
-    "upvotes": 48,
+    "upvotes": 68,
     "author": "pcr910303",
-    "comments": 9,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27393854"
   },
   {
-    "title": "Heroic Rat Retiring from Detecting Land Mines",
-    "url": "https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer",
-    "upvotes": 13,
-    "author": "packet_nerd",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27396803"
+    "title": "Data Cascades in Machine Learning",
+    "url": "https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html",
+    "upvotes": 37,
+    "author": "theafh",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27395623"
+  },
+  {
+    "title": "Go: Fuzzing Is Beta Ready",
+    "url": "https://blog.golang.org/fuzz-beta",
+    "upvotes": 285,
+    "author": "ingve",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=27391048"
+  },
+  {
+    "title": "AWS hired 66 former US gov officials since 2018; half are from Dept of Defense",
+    "url": "https://www.politico.com/news/2021/06/04/amazon-hiring-former-government-officials-491878",
+    "upvotes": 79,
+    "author": "fireball_blaze",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27396284"
+  },
+  {
+    "title": "Questions to Ask Before Adopting Usage Based Pricing",
+    "url": "https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309",
+    "upvotes": 74,
+    "author": "lamflam",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27392962"
+  },
+  {
+    "title": "Want a killer product? Become more opinionated",
+    "url": "https://adilaijaz.medium.com/want-a-killer-product-become-more-opinionated-dce7b12bba3e",
+    "upvotes": 232,
+    "author": "adilaijaz",
+    "comments": 141,
+    "link": "https://news.ycombinator.com/item?id=27373825"
   }
 ]
