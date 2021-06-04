@@ -1,43 +1,83 @@
 [
   {
+    "title": "The story of the Tank Man photo by its photographer, Jeff Widener",
+    "url": "http://www.jeffwidener.com/stories/2016/09/tankman/",
+    "upvotes": 134,
+    "author": "js2",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27396783"
+  },
+  {
+    "title": "Pokegb: A gameboy emulator that only plays Pokémon Blue, in 68 lines of C++",
+    "url": "https://binji.github.io/posts/pokegb/",
+    "upvotes": 56,
+    "author": "brundolf",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27397208"
+  },
+  {
     "title": "Why We Should End the Data Economy",
     "url": "https://thereboot.com/why-we-should-end-the-data-economy/",
-    "upvotes": 62,
+    "upvotes": 262,
     "author": "oppodeldoc",
-    "comments": 28,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=27394983"
   },
   {
-    "title": "Booking.com to repay €65M Dutch State aid after €28M in bonuses for 3 US execs",
-    "url": "https://nltimes.nl/2021/06/04/bookingcom-repay-eu65-million-state-aid-giving-eu28-million-bonuses-3-execs",
-    "upvotes": 41,
-    "author": "the-dude",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27395172"
+    "title": "Intel and AMD Contemplate Different Replacements for x86 Interrupt Handling",
+    "url": "https://www.eejournal.com/article/we-interrupt-this-program/",
+    "upvotes": 59,
+    "author": "eklitzke",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27396848"
+  },
+  {
+    "title": "Social virtual spaces with Elixir at Mozilla",
+    "url": "https://elixir-lang.org/blog/2021/06/02/social-virtual-spaces-with-elixir-at-mozilla/",
+    "upvotes": 83,
+    "author": "thibaut_barrere",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27395861"
+  },
+  {
+    "title": "“Tank Man”",
+    "url": "https://duckduckgo.com/?q=tank+man&iax=images&ia=images",
+    "upvotes": 21,
+    "author": "Turukawa",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27397486"
+  },
+  {
+    "title": "Van Buren is a victory against overbroad interpretations of the CFAA",
+    "url": "https://www.eff.org/deeplinks/2021/06/van-buren-victory-against-overbroad-interpretations-cfaa-protects-security",
+    "upvotes": 60,
+    "author": "sohkamyung",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27389500"
   },
   {
     "title": "An Unbelievable Demo",
     "url": "https://brendangregg.com/blog/2021-06-04/an-unbelievable-demo.html",
-    "upvotes": 1791,
+    "upvotes": 1961,
     "author": "SerCe",
-    "comments": 347,
+    "comments": 387,
     "link": "https://news.ycombinator.com/item?id=27390512"
   },
   {
-    "title": "Aaron Swartz, Vindicated",
-    "url": "https://pluralistic.net/2021/06/04/aaronsw/#cfaa",
-    "upvotes": 164,
-    "author": "samizdis",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27394974"
+    "title": "Ultra-processed food targets bone quality via endochondral ossification",
+    "url": "https://www.nature.com/articles/s41413-020-00127-9",
+    "upvotes": 26,
+    "author": "myth_drannon",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27396873"
   },
   {
-    "title": "Computing the number of digits of an integer even faster",
-    "url": "https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/",
-    "upvotes": 47,
-    "author": "vitaut",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27394153"
+    "title": "Haiku Monthly Activity Report – May 2021",
+    "url": "https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/",
+    "upvotes": 48,
+    "author": "bitigchi",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27395511"
   },
   {
     "title": "TrueVault",
@@ -46,193 +86,153 @@
   {
     "title": "Implementing a LLVM Micro C compiler in Haskell",
     "url": "https://blog.josephmorag.com/posts/mcc0/",
-    "upvotes": 18,
+    "upvotes": 67,
     "author": "pcr910303",
-    "comments": null,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27394857"
+  },
+  {
+    "title": "Anatomy of a Linux DNS Lookup",
+    "url": "https://zwischenzugs.com/2018/06/08/anatomy-of-a-linux-dns-lookup-part-i/",
+    "upvotes": 36,
+    "author": "belter",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27396208"
   },
   {
     "title": "Neural Actor: Neural Free-View Synthesis of Human Actors with Pose Control",
     "url": "http://gvv.mpi-inf.mpg.de/projects/NeuralActor/",
-    "upvotes": 95,
+    "upvotes": 119,
     "author": "Hard_Space",
-    "comments": 27,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27393047"
   },
   {
-    "title": "A virtual machine and Pascal compiler in Berkeley LOGO",
-    "url": "https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html",
-    "upvotes": 30,
-    "author": "buescher",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27394421"
+    "title": "There are no results for tank man",
+    "url": "https://www.bing.com/images/search?q=tank+man",
+    "upvotes": 675,
+    "author": "rcoveson",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=27395635"
   },
   {
-    "title": "Does the GDPR apply to companies outside of the EU?",
-    "url": "https://gdpr.eu/companies-outside-of-europe/",
-    "upvotes": 12,
-    "author": "st_goliath",
+    "title": "Reimagining video infrastructure to empower YouTube",
+    "url": "https://blog.youtube/inside-youtube/new-era-video-infrastructure/",
+    "upvotes": 20,
+    "author": "prostoalex",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27394362"
+  },
+  {
+    "title": "NASA's Juno to get a close look at Jupiter's moon Ganymede",
+    "url": "https://phys.org/news/2021-06-nasa-juno-jupiter-moon-ganymede.html",
+    "upvotes": 31,
+    "author": "dnetesn",
     "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27395121"
+    "link": "https://news.ycombinator.com/item?id=27392815"
   },
   {
-    "title": "In Response to Oversight Board, Trump Suspended for Two Years",
-    "url": "https://about.fb.com/news/2021/06/facebook-response-to-oversight-board-recommendations-trump/",
-    "upvotes": 27,
-    "author": "coloneltcb",
+    "title": "Computing the number of digits of an integer even faster",
+    "url": "https://lemire.me/blog/2021/06/03/computing-the-number-of-digits-of-an-integer-even-faster/",
+    "upvotes": 70,
+    "author": "vitaut",
     "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27395366"
+    "link": "https://news.ycombinator.com/item?id=27394153"
+  },
+  {
+    "title": "Booking.com to repay €65M Dutch State aid after €28M in bonuses for 3 US execs",
+    "url": "https://nltimes.nl/2021/06/04/bookingcom-repay-eu65-million-state-aid-giving-eu28-million-bonuses-3-execs",
+    "upvotes": 198,
+    "author": "the-dude",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=27395172"
+  },
+  {
+    "title": "The lab-leak origin claim for Covid-19 is in the news, but it’s still fact-free",
+    "url": "https://www.latimes.com/business/story/2021-06-03/lab-leak-covid-origin",
+    "upvotes": 42,
+    "author": "johncena33",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27396685"
+  },
+  {
+    "title": "Computer Science Logo Style: Programming Language Implementation",
+    "url": "https://people.eecs.berkeley.edu/~bh/v3ch5/v3ch5.html",
+    "upvotes": 44,
+    "author": "buescher",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27394421"
   },
   {
     "title": "Data Cascades in Machine Learning",
     "url": "https://ai.googleblog.com/2021/06/data-cascades-in-machine-learning.html",
-    "upvotes": 4,
+    "upvotes": 29,
     "author": "theafh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27395623"
   },
   {
-    "title": "Haiku Monthly Activity Report – May 2021",
-    "url": "https://www.haiku-os.org/blog/pulkomandy/2021-06-03-haiku_activity_report_may_2021/",
-    "upvotes": 6,
-    "author": "bitigchi",
+    "title": "Using a magnetic string to fish for a lost iPhone 12 in a Berlin canal",
+    "url": "https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/",
+    "upvotes": 110,
+    "author": "crackercrews",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=27395663"
+  },
+  {
+    "title": "Few-Shot Learning in Practice: GPT-Neo & 'HuggingFace' Accelerated Inference API",
+    "url": "https://huggingface.co/blog/few-shot-learning-gpt-neo-and-inference-api",
+    "upvotes": 17,
+    "author": "homarp",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27395511"
+    "link": "https://news.ycombinator.com/item?id=27395442"
   },
   {
     "title": "Questions to Ask Before Adopting Usage Based Pricing",
     "url": "https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309",
-    "upvotes": 48,
+    "upvotes": 67,
     "author": "lamflam",
-    "comments": 23,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27392962"
-  },
-  {
-    "title": "The rise of remote work may reshape college towns",
-    "url": "https://www.chronicle.com/article/the-rise-of-remote-work-may-reshape-college-towns-heres-how-these-campuses-are-wooing-transplants",
-    "upvotes": 118,
-    "author": "remt",
-    "comments": 130,
-    "link": "https://news.ycombinator.com/item?id=27393363"
-  },
-  {
-    "title": "Using a magnetic string to fish for a lost iPhone 12 in a Berlin canal",
-    "url": "https://riedel.wtf/iphone-12-pro-in-canal-magsafe-fishing-rod/",
-    "upvotes": 3,
-    "author": "crackercrews",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27395663"
   },
   {
     "title": "Go: Fuzzing Is Beta Ready",
     "url": "https://blog.golang.org/fuzz-beta",
-    "upvotes": 247,
+    "upvotes": 271,
     "author": "ingve",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27391048"
-  },
-  {
-    "title": "Leaked Walmart memo reveals competitive threats",
-    "url": "https://www.vox.com/recode/22423706/walmart-memo-retail-amazon-target-instacart",
-    "upvotes": 16,
-    "author": "prostoalex",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27394374"
-  },
-  {
-    "title": "Launch HN: InBalance (YC W21) – Short-term energy market forecasting",
-    "url": "item?id=27395238",
-    "upvotes": 6,
-    "author": "Straw",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27395238"
-  },
-  {
-    "title": "What Our Biggest Best-Sellers Tell Us About a Nation’s Soul",
-    "url": "https://www.newyorker.com/magazine/2021/06/07/what-our-biggest-best-sellers-tell-us-about-a-nations-soul",
-    "upvotes": 10,
-    "author": "samclemens",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27370135"
-  },
-  {
-    "title": "Firefox 89 Tab Appearance",
-    "url": "https://amitp.blogspot.com/2021/06/firefox-89-tab-appearance.html",
-    "upvotes": 157,
-    "author": "ibobev",
-    "comments": 108,
-    "link": "https://news.ycombinator.com/item?id=27392685"
   },
   {
     "title": "Want a killer product? Become more opinionated",
     "url": "https://adilaijaz.medium.com/want-a-killer-product-become-more-opinionated-dce7b12bba3e",
-    "upvotes": 187,
+    "upvotes": 222,
     "author": "adilaijaz",
-    "comments": 113,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=27373825"
   },
   {
-    "title": "Gibbard’s Theorem vs. Stable Matching",
-    "url": "https://cdsmithus.medium.com/gibbards-theorem-vs-stable-matching-22b55732ee5e",
-    "upvotes": 42,
-    "author": "gbrown_",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27378770"
+    "title": "Launch HN: InBalance (YC W21) – Short-term energy market forecasting",
+    "url": "item?id=27395238",
+    "upvotes": 25,
+    "author": "Straw",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27395238"
   },
   {
     "title": "Pijul – Datacenter on Fires",
     "url": "https://pijul.org/posts/2021-06-03-on-fires/",
-    "upvotes": 13,
+    "upvotes": 48,
     "author": "pcr910303",
-    "comments": null,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27393854"
   },
   {
-    "title": "3D Printing with a Robot Arm [video]",
-    "url": "https://www.youtube.com/watch?v=dqgT--f9so0",
-    "upvotes": 12,
-    "author": "laktak",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27379347"
-  },
-  {
-    "title": "The Query Your Database Can’t Answer",
-    "url": "https://www.confluent.io/blog/ksqldb-streaming-sql-the-query-your-database-cant-answer/",
-    "upvotes": 12,
-    "author": "mjdrogalis",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27394269"
-  },
-  {
-    "title": "A 300-Year-Old Tale of One Woman's Quest to Stop a Deadly Virus",
-    "url": "https://www.npr.org/sections/health-shots/2021/03/08/972978143/a-300-year-old-tale-of-one-womans-quest-to-stop-a-deadly-virus",
-    "upvotes": 76,
-    "author": "Vigier",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27377193"
-  },
-  {
-    "title": "Deep freezing iron-based materials makes them both magnetic and superconducting",
-    "url": "https://phys.org/news/2021-06-deep-iron-based-materials-magnetic-superconducting.html",
-    "upvotes": 105,
-    "author": "bookofjoe",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27367131"
-  },
-  {
-    "title": "Unix Shell Programming: The Next 50 Years [pdf]",
-    "url": "https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s06-greenberg.pdf",
-    "upvotes": 113,
-    "author": "signa11",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=27378444"
-  },
-  {
-    "title": "There are no results for tank man",
-    "url": "https://www.bing.com/images/search?q=tank+man",
-    "upvotes": 11,
-    "author": "rcoveson",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27395635"
+    "title": "Heroic Rat Retiring from Detecting Land Mines",
+    "url": "https://www.npr.org/2021/06/04/1003258540/after-years-of-detecting-land-mines-a-heroic-rat-is-hanging-up-his-sniffer",
+    "upvotes": 13,
+    "author": "packet_nerd",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27396803"
   }
 ]
