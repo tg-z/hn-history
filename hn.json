@@ -2,90 +2,106 @@
   {
     "title": "The G7 has reached a deal on taxing multinational companies",
     "url": "https://www.bbc.co.uk/news/world-57368247",
-    "upvotes": 685,
+    "upvotes": 729,
     "author": "ddek",
-    "comments": 604,
+    "comments": 653,
     "link": "https://news.ycombinator.com/item?id=27404018"
   },
   {
     "title": "Declassified Cold War code-breaking manual on solving 'impossible' puzzles",
     "url": "https://phys.org/news/2021-05-declassified-cold-war-code-breaking-manual.html",
-    "upvotes": 44,
+    "upvotes": 62,
     "author": "sandebert",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27403394"
+  },
+  {
+    "title": "Implementing strict three-point perspective",
+    "url": "https://pomax.github.io/three-point-perspective/",
+    "upvotes": 33,
+    "author": "TheRealPomax",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27407691"
   },
   {
     "title": "ET-Jekyll: Edward Tufte Inspired Jekyll Theme",
     "url": "https://et-jekyll.netlify.app/",
-    "upvotes": 36,
+    "upvotes": 54,
     "author": "bradley_taunt",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27407264"
   },
   {
     "title": "How I Learned Symmetric-Key Cryptanalysis",
     "url": "https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html",
-    "upvotes": 49,
+    "upvotes": 64,
     "author": "aleks224",
-    "comments": 9,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27406888"
-  },
-  {
-    "title": "Using Clang LibFuzzer coverage-guided fuzzing engine with Nim",
-    "url": "https://github.com/planetis-m/libfuzzer",
-    "upvotes": 35,
-    "author": "planetis",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27407086"
-  },
-  {
-    "title": "Implementing strict three-point perspective",
-    "url": "https://pomax.github.io/three-point-perspective/",
-    "upvotes": 13,
-    "author": "TheRealPomax",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27407691"
-  },
-  {
-    "title": "Conway's Game of Life on FPGA",
-    "url": "https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/",
-    "upvotes": 48,
-    "author": "petrohi",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27402485"
   },
   {
     "title": "Non-technical security best-practices for open source projects",
     "url": "https://git.sr.ht/~gregkh/presentation-non-tech-security",
-    "upvotes": 13,
+    "upvotes": 30,
     "author": "zdw",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27390672"
+  },
+  {
+    "title": "Show HN: Rustpad, a self-hosted online collaborative text editor in Rust",
+    "url": "https://github.com/ekzhang/rustpad",
+    "upvotes": 4,
+    "author": "ekzhang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27408326"
+  },
+  {
+    "title": "Using Clang LibFuzzer coverage-guided fuzzing engine with Nim",
+    "url": "https://github.com/planetis-m/libfuzzer",
+    "upvotes": 43,
+    "author": "planetis",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27407086"
+  },
+  {
+    "title": "Password Managers",
+    "url": "https://lock.cmpxchg8b.com/passmgrs.html",
+    "upvotes": 29,
+    "author": "arthurmorgan",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27407603"
+  },
+  {
+    "title": "Conway's Game of Life on FPGA",
+    "url": "https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/",
+    "upvotes": 59,
+    "author": "petrohi",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27402485"
   },
   {
     "title": "The modern web on a slow connection",
     "url": "https://danluu.com/web-bloat/",
-    "upvotes": 118,
+    "upvotes": 141,
     "author": "x14km2d",
-    "comments": 73,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27406132"
-  },
-  {
-    "title": "Zero to Production in Rust",
-    "url": "https://www.zero2prod.com/",
-    "upvotes": 213,
-    "author": "belter",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=27405395"
   },
   {
     "title": "The Mandelbrot Monk",
     "url": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
-    "upvotes": 113,
+    "upvotes": 120,
     "author": "rfreytag",
-    "comments": 37,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27405450"
+  },
+  {
+    "title": "Zero to Production in Rust",
+    "url": "https://www.zero2prod.com/",
+    "upvotes": 222,
+    "author": "belter",
+    "comments": 161,
+    "link": "https://news.ycombinator.com/item?id=27405395"
   },
   {
     "title": "Smarking",
@@ -94,145 +110,129 @@
   {
     "title": "Logical replication and decoding for Cloud SQL for PostgreSQL",
     "url": "https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql",
-    "upvotes": 44,
+    "upvotes": 48,
     "author": "wdb",
-    "comments": 12,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27406589"
-  },
-  {
-    "title": "Catalog of viruses from human metagenomes reveals chronic disease associations",
-    "url": "https://www.pnas.org/content/118/23/e2023202118",
-    "upvotes": 110,
-    "author": "rch",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27405597"
   },
   {
     "title": "Handsfree.js – integrate face, hand, and/or pose tracking to front end projects",
     "url": "https://github.com/midiblocks/handsfree",
-    "upvotes": 106,
+    "upvotes": 118,
     "author": "detaro",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27404196"
   },
   {
-    "title": "Amazon’s wage increase to $15 an hour also upped pay for non-Amazon workers",
-    "url": "https://www.aboutamazon.com/news/job-creation-and-investment/study-shows-amazons-wage-increase-to-15-an-hour-also-upped-pay-for-non-amazon-workers",
-    "upvotes": 155,
-    "author": "rustoo",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=27403824"
+    "title": "Catalog of viruses from human metagenomes reveals chronic disease associations",
+    "url": "https://www.pnas.org/content/118/23/e2023202118",
+    "upvotes": 116,
+    "author": "rch",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27405597"
   },
   {
     "title": "All controversial trades by Senators in the 2020 Congressional insider trading",
     "url": "https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/",
-    "upvotes": 135,
+    "upvotes": 153,
     "author": "chetangoti",
-    "comments": 43,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27406243"
   },
   {
     "title": "IconVG is a compact, binary format for simple vector graphics",
     "url": "https://github.com/google/iconvg",
-    "upvotes": 94,
+    "upvotes": 97,
     "author": "bpierre",
-    "comments": 43,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=27404301"
   },
   {
     "title": "Ftxui: C++ Functional Terminal User Interface",
     "url": "https://github.com/ArthurSonzogni/FTXUI",
-    "upvotes": 117,
+    "upvotes": 121,
     "author": "ingve",
     "comments": 52,
     "link": "https://news.ycombinator.com/item?id=27403877"
   },
   {
-    "title": "Somersham headless bodies were victims of Roman executions",
-    "url": "https://www.bbc.com/news/uk-england-cambridgeshire-57189875",
-    "upvotes": 21,
-    "author": "Thevet",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27401367"
+    "title": "Amazon’s wage increase to $15 an hour also upped pay for non-Amazon workers",
+    "url": "https://www.aboutamazon.com/news/job-creation-and-investment/study-shows-amazons-wage-increase-to-15-an-hour-also-upped-pay-for-non-amazon-workers",
+    "upvotes": 161,
+    "author": "rustoo",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=27403824"
   },
   {
     "title": "Apple, Mozilla, Google, Microsoft form group to standardize browser plug-ins",
     "url": "https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins",
-    "upvotes": 347,
+    "upvotes": 363,
     "author": "Black101",
-    "comments": 125,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=27404017"
   },
   {
-    "title": "Cory Doctorow on aaronsw and Computer Fraud and Abuse Act",
-    "url": "https://twitter.com/doctorow/status/1400839223654060037",
-    "upvotes": 21,
-    "author": "asimjalis",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27407433"
+    "title": "Somersham headless bodies were victims of Roman executions",
+    "url": "https://www.bbc.com/news/uk-england-cambridgeshire-57189875",
+    "upvotes": 24,
+    "author": "Thevet",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27401367"
   },
   {
-    "title": "If Not Overturned, Bad Copyright Decision Will Lead Many to Lose Internet Access",
-    "url": "https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet",
-    "upvotes": 189,
-    "author": "ystad",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27404442"
+    "title": "What the Aztecs can teach us about happiness and the good life",
+    "url": "https://aeon.co/ideas/what-the-aztecs-can-teach-us-about-happiness-and-the-good-life",
+    "upvotes": 6,
+    "author": "drdee",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27389556"
+  },
+  {
+    "title": "From Julia to Rust",
+    "url": "https://miguelraz.github.io/blog/juliatorust/",
+    "upvotes": 11,
+    "author": "miguelraz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27407268"
   },
   {
     "title": "Compute Shader 101 [video]",
     "url": "https://www.youtube.com/watch?v=DZRn_jNZjbw",
-    "upvotes": 136,
+    "upvotes": 147,
     "author": "raphlinus",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27396634"
-  },
-  {
-    "title": "Is Poe the most influential American writer? A new book offers evidence",
-    "url": "https://www.washingtonpost.com/entertainment/books/is-poe-really-the-most-influential-american-writer-a-new-book-offers-evidence/2021/06/02/4311f280-c2ec-11eb-93f5-ee9558eecf4b_story.html",
-    "upvotes": 50,
-    "author": "lermontov",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27401264"
   },
   {
     "title": "Show HN: Secure sensitive info while recording videos live or screen sharing",
     "url": "https://blurweb.app",
-    "upvotes": 40,
+    "upvotes": 44,
     "author": "theindianappguy",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27404228"
+  },
+  {
+    "title": "If Not Overturned, Bad Copyright Decision Will Lead Many to Lose Internet Access",
+    "url": "https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet",
+    "upvotes": 197,
+    "author": "ystad",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27404442"
   },
   {
     "title": "3,000 eggs abandoned after drone scares birds in California",
     "url": "https://abcnews.go.com/US/wireStory/3000-eggs-abandoned-drone-scares-birds-california-78090817",
-    "upvotes": 264,
+    "upvotes": 270,
     "author": "erentz",
-    "comments": 181,
+    "comments": 194,
     "link": "https://news.ycombinator.com/item?id=27403804"
   },
   {
     "title": "Learn R Through Examples",
     "url": "https://gexijin.github.io/learnR/index.html",
-    "upvotes": 120,
+    "upvotes": 123,
     "author": "diplodocusaur",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27404103"
-  },
-  {
-    "title": "Google can't pass its own page speed test",
-    "url": "https://www.reddit.com/r/dataisbeautiful/comments/ns4t1z/oc_google_cant_pass_its_own_page_speed_test/",
-    "upvotes": 310,
-    "author": "EvgeniyZh",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=27403352"
-  },
-  {
-    "title": "Ancient Indigenous forest gardens still yield bounty 150 years later",
-    "url": "https://nationalpost.com/news/canada/ancient-indigenous-forest-gardens-still-yield-bounty-150-years-later-study",
-    "upvotes": 67,
-    "author": "voisin",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27405764"
   }
 ]
