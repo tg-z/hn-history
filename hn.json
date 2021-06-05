@@ -2,59 +2,47 @@
   {
     "title": "The G7 has reached a deal on taxing multinational companies",
     "url": "https://www.bbc.co.uk/news/world-57368247",
-    "upvotes": 754,
+    "upvotes": 773,
     "author": "ddek",
-    "comments": 675,
+    "comments": 695,
     "link": "https://news.ycombinator.com/item?id=27404018"
   },
   {
     "title": "Declassified Cold War code-breaking manual on solving 'impossible' puzzles",
     "url": "https://phys.org/news/2021-05-declassified-cold-war-code-breaking-manual.html",
-    "upvotes": 75,
+    "upvotes": 92,
     "author": "sandebert",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27403394"
   },
   {
     "title": "Show HN: Rustpad, a self-hosted online collaborative text editor in Rust",
     "url": "https://github.com/ekzhang/rustpad",
-    "upvotes": 21,
+    "upvotes": 39,
     "author": "ekzhang",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27408326"
   },
   {
     "title": "Password Managers",
     "url": "https://lock.cmpxchg8b.com/passmgrs.html",
-    "upvotes": 61,
+    "upvotes": 101,
     "author": "arthurmorgan",
-    "comments": 26,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27407603"
   },
   {
     "title": "Implementing strict three-point perspective",
     "url": "https://pomax.github.io/three-point-perspective/",
-    "upvotes": 44,
+    "upvotes": 53,
     "author": "TheRealPomax",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27407691"
-  },
-  {
-    "title": "ET-Jekyll: Edward Tufte Inspired Jekyll Theme",
-    "url": "https://et-jekyll.netlify.app/",
-    "upvotes": 63,
-    "author": "bradley_taunt",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27407264"
-  },
-  {
-    "title": "Substack",
-    "url": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"
   },
   {
     "title": "Non-technical security best-practices for open source projects",
     "url": "https://git.sr.ht/~gregkh/presentation-non-tech-security",
-    "upvotes": 37,
+    "upvotes": 44,
     "author": "zdw",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27390672"
@@ -62,143 +50,179 @@
   {
     "title": "How I Learned Symmetric-Key Cryptanalysis",
     "url": "https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html",
-    "upvotes": 74,
+    "upvotes": 82,
     "author": "aleks224",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27406888"
   },
   {
-    "title": "Conway's Game of Life on FPGA",
-    "url": "https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/",
-    "upvotes": 63,
-    "author": "petrohi",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27402485"
+    "title": "Substack",
+    "url": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"
+  },
+  {
+    "title": "ET-Jekyll: Edward Tufte Inspired Jekyll Theme",
+    "url": "https://et-jekyll.netlify.app/",
+    "upvotes": 71,
+    "author": "bradley_taunt",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27407264"
   },
   {
     "title": "Using Clang LibFuzzer coverage-guided fuzzing engine with Nim",
     "url": "https://github.com/planetis-m/libfuzzer",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "planetis",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27407086"
   },
   {
-    "title": "The modern web on a slow connection",
-    "url": "https://danluu.com/web-bloat/",
-    "upvotes": 146,
-    "author": "x14km2d",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=27406132"
-  },
-  {
-    "title": "The Mandelbrot Monk",
-    "url": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
-    "upvotes": 122,
-    "author": "rfreytag",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27405450"
-  },
-  {
-    "title": "What the Aztecs can teach us about happiness and the good life",
-    "url": "https://aeon.co/ideas/what-the-aztecs-can-teach-us-about-happiness-and-the-good-life",
-    "upvotes": 17,
-    "author": "drdee",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27389556"
-  },
-  {
-    "title": "Zero to Production in Rust",
-    "url": "https://www.zero2prod.com/",
-    "upvotes": 229,
-    "author": "belter",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=27405395"
-  },
-  {
-    "title": "Logical replication and decoding for Cloud SQL for PostgreSQL",
-    "url": "https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql",
-    "upvotes": 49,
-    "author": "wdb",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27406589"
+    "title": "Conway's Game of Life on FPGA",
+    "url": "https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/",
+    "upvotes": 69,
+    "author": "petrohi",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27402485"
   },
   {
     "title": "From Julia to Rust",
     "url": "https://miguelraz.github.io/blog/juliatorust/",
-    "upvotes": 19,
+    "upvotes": 32,
     "author": "miguelraz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27407268"
   },
   {
+    "title": "What the Aztecs can teach us about happiness and the good life",
+    "url": "https://aeon.co/ideas/what-the-aztecs-can-teach-us-about-happiness-and-the-good-life",
+    "upvotes": 19,
+    "author": "drdee",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27389556"
+  },
+  {
+    "title": "The modern web on a slow connection",
+    "url": "https://danluu.com/web-bloat/",
+    "upvotes": 152,
+    "author": "x14km2d",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=27406132"
+  },
+  {
+    "title": "The Mandelbrot Monk",
+    "url": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
+    "upvotes": 127,
+    "author": "rfreytag",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27405450"
+  },
+  {
+    "title": "Logical replication and decoding for Cloud SQL for PostgreSQL",
+    "url": "https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql",
+    "upvotes": 51,
+    "author": "wdb",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27406589"
+  },
+  {
+    "title": "Zero to Production in Rust",
+    "url": "https://www.zero2prod.com/",
+    "upvotes": 237,
+    "author": "belter",
+    "comments": 176,
+    "link": "https://news.ycombinator.com/item?id=27405395"
+  },
+  {
+    "title": "The Strange Tale of the Pacific Ocean Biological Survey Program",
+    "url": "https://daily.jstor.org/strange-tale-pacific-ocean-biological-survey-program/",
+    "upvotes": 6,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27402911"
+  },
+  {
     "title": "Handsfree.js – integrate face, hand, and/or pose tracking to front end projects",
     "url": "https://github.com/midiblocks/handsfree",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "detaro",
-    "comments": 15,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27404196"
   },
   {
     "title": "Catalog of viruses from human metagenomes reveals chronic disease associations",
     "url": "https://www.pnas.org/content/118/23/e2023202118",
-    "upvotes": 120,
+    "upvotes": 126,
     "author": "rch",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27405597"
   },
   {
     "title": "All controversial trades by Senators in the 2020 Congressional insider trading",
     "url": "https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/",
-    "upvotes": 161,
+    "upvotes": 169,
     "author": "chetangoti",
-    "comments": 55,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27406243"
+  },
+  {
+    "title": "Ftxui: C++ Functional Terminal User Interface",
+    "url": "https://github.com/ArthurSonzogni/FTXUI",
+    "upvotes": 125,
+    "author": "ingve",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27403877"
+  },
+  {
+    "title": "Computer chips are mercurial: Rare miscalculations frequent at cloud hyperscale",
+    "url": "https://www.theregister.com/2021/06/04/google_chip_flaws/",
+    "upvotes": 18,
+    "author": "pasttense01",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27408398"
   },
   {
     "title": "IconVG is a compact, binary format for simple vector graphics",
     "url": "https://github.com/google/iconvg",
-    "upvotes": 99,
+    "upvotes": 101,
     "author": "bpierre",
     "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27404301"
   },
   {
-    "title": "Ftxui: C++ Functional Terminal User Interface",
-    "url": "https://github.com/ArthurSonzogni/FTXUI",
-    "upvotes": 122,
-    "author": "ingve",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=27403877"
+    "title": "Ask HN: Books for Effective Communication",
+    "url": "item?id=27408120",
+    "upvotes": 23,
+    "author": "2bor-2n",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27408120"
   },
   {
     "title": "Amazon’s wage increase to $15 an hour also upped pay for non-Amazon workers",
     "url": "https://www.aboutamazon.com/news/job-creation-and-investment/study-shows-amazons-wage-increase-to-15-an-hour-also-upped-pay-for-non-amazon-workers",
-    "upvotes": 163,
+    "upvotes": 169,
     "author": "rustoo",
-    "comments": 141,
+    "comments": 145,
     "link": "https://news.ycombinator.com/item?id=27403824"
-  },
-  {
-    "title": "Apple, Mozilla, Google, Microsoft form group to standardize browser plug-ins",
-    "url": "https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins",
-    "upvotes": 371,
-    "author": "Black101",
-    "comments": 139,
-    "link": "https://news.ycombinator.com/item?id=27404017"
   },
   {
     "title": "Somersham headless bodies were victims of Roman executions",
     "url": "https://www.bbc.com/news/uk-england-cambridgeshire-57189875",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "Thevet",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27401367"
   },
   {
+    "title": "Apple, Mozilla, Google, Microsoft form group to standardize browser plug-ins",
+    "url": "https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins",
+    "upvotes": 378,
+    "author": "Black101",
+    "comments": 142,
+    "link": "https://news.ycombinator.com/item?id=27404017"
+  },
+  {
     "title": "Compute Shader 101 [video]",
     "url": "https://www.youtube.com/watch?v=DZRn_jNZjbw",
-    "upvotes": 149,
+    "upvotes": 154,
     "author": "raphlinus",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27396634"
@@ -206,33 +230,9 @@
   {
     "title": "Show HN: Secure sensitive info while recording videos live or screen sharing",
     "url": "https://blurweb.app",
-    "upvotes": 48,
+    "upvotes": 51,
     "author": "theindianappguy",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27404228"
-  },
-  {
-    "title": "If Not Overturned, Bad Copyright Decision Will Lead Many to Lose Internet Access",
-    "url": "https://www.eff.org/deeplinks/2021/06/if-not-overturned-bad-copyright-decision-will-lead-many-americans-lose-internet",
-    "upvotes": 207,
-    "author": "ystad",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27404442"
-  },
-  {
-    "title": "Computer chips are mercurial: Rare miscalculations frequent at cloud hyperscale",
-    "url": "https://www.theregister.com/2021/06/04/google_chip_flaws/",
-    "upvotes": 6,
-    "author": "pasttense01",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27408398"
-  },
-  {
-    "title": "The Soul of Black Conservatism",
-    "url": "https://www.wsj.com/articles/the-soul-of-black-conservatism-11622226565",
-    "upvotes": 5,
-    "author": "jkuria",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27408458"
   }
 ]
