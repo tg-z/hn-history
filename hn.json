@@ -2,87 +2,95 @@
   {
     "title": "Justice Department withdraws FBI subpoena for USA Today records ID'ing readers",
     "url": "https://www.usatoday.com/story/news/politics/2021/06/05/fbi-withdraws-usa-today-subpoena-seeking-reader-identity/7561422002/",
-    "upvotes": 99,
+    "upvotes": 129,
     "author": "prostoalex",
-    "comments": 45,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27408647"
   },
   {
     "title": "G7: Rich nations back deal to tax multinationals",
     "url": "https://www.bbc.co.uk/news/world-57368247",
-    "upvotes": 841,
+    "upvotes": 856,
     "author": "ddek",
-    "comments": 725,
+    "comments": 738,
     "link": "https://news.ycombinator.com/item?id=27404018"
   },
   {
     "title": "Declassified Cold War code-breaking manual on solving 'impossible' puzzles",
     "url": "https://phys.org/news/2021-05-declassified-cold-war-code-breaking-manual.html",
-    "upvotes": 133,
+    "upvotes": 148,
     "author": "sandebert",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27403394"
+  },
+  {
+    "title": "The Woman Who Gave the Macintosh a Smile",
+    "url": "https://www.newyorker.com/culture/cultural-comment/the-woman-who-gave-the-macintosh-a-smile",
+    "upvotes": 7,
+    "author": "superfunny",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27409410"
   },
   {
     "title": "Implementing strict three-point perspective",
     "url": "https://pomax.github.io/three-point-perspective/",
-    "upvotes": 82,
+    "upvotes": 89,
     "author": "TheRealPomax",
-    "comments": 34,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27407691"
   },
   {
     "title": "El Salvador to adopt Bitcoin as legal tender",
     "url": "https://www.cnbc.com/2021/06/05/el-salvador-becomes-the-first-country-to-adopt-bitcoin-as-legal-tender-.html",
-    "upvotes": 108,
+    "upvotes": 145,
     "author": "ncpa-cpl",
-    "comments": 49,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=27408683"
+  },
+  {
+    "title": "Trans-Pacific Cable Chaos, Shifting Asian Hubs",
+    "url": "https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status",
+    "upvotes": 24,
+    "author": "walterbell",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27408679"
   },
   {
     "title": "Non-technical security best-practices for open source projects",
     "url": "https://git.sr.ht/~gregkh/presentation-non-tech-security",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "zdw",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27390672"
+  },
+  {
+    "title": "“That Won't Work ”",
+    "url": "https://meetryanflowers.com/that-wont-work/",
+    "upvotes": 6,
+    "author": "geocrasher",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27409368"
   },
   {
     "title": "How I Learned Symmetric-Key Cryptanalysis",
     "url": "https://akircanski.github.io/cryptanalysis/2021/04/27/symmetric-key-cryptanalysis-howto.html",
-    "upvotes": 107,
+    "upvotes": 108,
     "author": "aleks224",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27406888"
   },
   {
-    "title": "Trans-Pacific Cable Chaos, Shifting Asian Hubs",
-    "url": "https://blog.telegeography.com/trans-pacific-cables-asian-hubs-plcn-status",
-    "upvotes": 15,
-    "author": "walterbell",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27408679"
-  },
-  {
     "title": "ET-Jekyll: Edward Tufte-inspired Jekyll theme",
     "url": "https://et-jekyll.netlify.app/",
-    "upvotes": 86,
+    "upvotes": 96,
     "author": "bradley_taunt",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27407264"
   },
   {
-    "title": "From Julia to Rust",
-    "url": "https://miguelraz.github.io/blog/juliatorust/",
-    "upvotes": 77,
-    "author": "miguelraz",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27407268"
-  },
-  {
     "title": "Conway's Game of Life on FPGA",
     "url": "https://k155la3.blog/2020/10/09/conways-game-of-life-on-fpga/",
-    "upvotes": 82,
+    "upvotes": 87,
     "author": "petrohi",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27402485"
@@ -92,17 +100,33 @@
     "url": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"
   },
   {
-    "title": "Password Managers",
-    "url": "https://lock.cmpxchg8b.com/passmgrs.html",
-    "upvotes": 161,
-    "author": "arthurmorgan",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=27407603"
+    "title": "From Julia to Rust",
+    "url": "https://miguelraz.github.io/blog/juliatorust/",
+    "upvotes": 90,
+    "author": "miguelraz",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27407268"
+  },
+  {
+    "title": "Scaleout Metadata File Systems already store much of your data. What are they?",
+    "url": "https://jim-dowling.medium.com/scaleout-metadata-file-systems-already-store-much-of-your-data-what-are-they-a377bd4ae42",
+    "upvotes": 5,
+    "author": "jamesblonde",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27402256"
+  },
+  {
+    "title": "Daily Driver: Channelling RGB into 1-bit",
+    "url": "https://blog.gingerbeardman.com/2021/06/05/channelling-rgb-into-1bit/",
+    "upvotes": 5,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27409371"
   },
   {
     "title": "Using Clang LibFuzzer coverage-guided fuzzing engine with Nim",
     "url": "https://github.com/planetis-m/libfuzzer",
-    "upvotes": 52,
+    "upvotes": 54,
     "author": "planetis",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27407086"
@@ -110,103 +134,95 @@
   {
     "title": "The modern web on a slow connection",
     "url": "https://danluu.com/web-bloat/",
-    "upvotes": 171,
+    "upvotes": 176,
     "author": "x14km2d",
-    "comments": 111,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=27406132"
-  },
-  {
-    "title": "The Strange Tale of the Pacific Ocean Biological Survey Program",
-    "url": "https://daily.jstor.org/strange-tale-pacific-ocean-biological-survey-program/",
-    "upvotes": 19,
-    "author": "Petiver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27402911"
-  },
-  {
-    "title": "Show HN: Rustpad, a self-hosted online collaborative text editor",
-    "url": "https://github.com/ekzhang/rustpad",
-    "upvotes": 71,
-    "author": "ekzhang",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27408326"
   },
   {
     "title": "Tips for Interviewing over Zoom",
     "url": "https://dev.jimgrey.net/2021/06/03/nine-tips-for-interviewing-over-zoom/",
-    "upvotes": 48,
+    "upvotes": 53,
     "author": "mooreds",
-    "comments": 74,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=27405951"
   },
   {
-    "title": "Logical replication and decoding for Cloud SQL for PostgreSQL",
-    "url": "https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql",
-    "upvotes": 59,
-    "author": "wdb",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27406589"
+    "title": "Password Managers",
+    "url": "https://lock.cmpxchg8b.com/passmgrs.html",
+    "upvotes": 166,
+    "author": "arthurmorgan",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=27407603"
   },
   {
     "title": "Handsfree.js – integrate face, hand, and/or pose tracking to front end projects",
     "url": "https://github.com/midiblocks/handsfree",
-    "upvotes": 143,
+    "upvotes": 148,
     "author": "detaro",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27404196"
   },
   {
-    "title": "Ask HN: Books for Effective Communication",
-    "url": "item?id=27408120",
-    "upvotes": 57,
-    "author": "2bor-2n",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27408120"
+    "title": "Logical replication and decoding for Cloud SQL for PostgreSQL",
+    "url": "https://cloud.google.com/blog/products/databases/you-can-now-use-cdc-from-cloudsql-for-postgresql",
+    "upvotes": 62,
+    "author": "wdb",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27406589"
   },
   {
-    "title": "The Mandelbrot Monk",
-    "url": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
-    "upvotes": 138,
-    "author": "rfreytag",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27405450"
+    "title": "Show HN: Rustpad, a self-hosted online collaborative text editor",
+    "url": "https://github.com/ekzhang/rustpad",
+    "upvotes": 78,
+    "author": "ekzhang",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27408326"
+  },
+  {
+    "title": "The Strange Tale of the Pacific Ocean Biological Survey Program",
+    "url": "https://daily.jstor.org/strange-tale-pacific-ocean-biological-survey-program/",
+    "upvotes": 20,
+    "author": "Petiver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27402911"
   },
   {
     "title": "IconVG is a compact, binary format for simple vector graphics",
     "url": "https://github.com/google/iconvg",
-    "upvotes": 108,
+    "upvotes": 111,
     "author": "bpierre",
     "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27404301"
   },
   {
-    "title": "What the Aztecs can teach us about happiness and the good life",
-    "url": "https://aeon.co/ideas/what-the-aztecs-can-teach-us-about-happiness-and-the-good-life",
-    "upvotes": 29,
-    "author": "drdee",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27389556"
+    "title": "The Mandelbrot Monk",
+    "url": "https://users.math.yale.edu/public_html/People/frame/Fractals/MandelSet/MandelMonk/MandelMonk.html",
+    "upvotes": 143,
+    "author": "rfreytag",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27405450"
   },
   {
-    "title": "Catalog of viruses from human metagenomes reveals chronic disease associations",
-    "url": "https://www.pnas.org/content/118/23/e2023202118",
-    "upvotes": 134,
-    "author": "rch",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27405597"
+    "title": "Ask HN: Books for Effective Communication",
+    "url": "item?id=27408120",
+    "upvotes": 63,
+    "author": "2bor-2n",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27408120"
   },
   {
     "title": "Computer chips are mercurial: Rare miscalculations frequent at cloud hyperscale",
     "url": "https://www.theregister.com/2021/06/04/google_chip_flaws/",
-    "upvotes": 44,
+    "upvotes": 56,
     "author": "pasttense01",
-    "comments": 6,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27408398"
   },
   {
     "title": "All controversial trades by Senators in the 2020 Congressional insider trading",
     "url": "https://www.reddit.com/r/wallstreetbets/comments/nsvma5/i_analyzed_all_the_controversial_trades_made_by/",
-    "upvotes": 195,
+    "upvotes": 201,
     "author": "chetangoti",
     "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27406243"
@@ -214,25 +230,9 @@
   {
     "title": "Ftxui: C++ Functional Terminal User Interface",
     "url": "https://github.com/ArthurSonzogni/FTXUI",
-    "upvotes": 130,
+    "upvotes": 131,
     "author": "ingve",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27403877"
-  },
-  {
-    "title": "Apple, Mozilla, Google, Microsoft form group to standardize browser plug-ins",
-    "url": "https://appleinsider.com/articles/21/06/04/apple-mozilla-google-microsoft-form-group-to-standardize-browser-plug-ins",
-    "upvotes": 407,
-    "author": "Black101",
-    "comments": 161,
-    "link": "https://news.ycombinator.com/item?id=27404017"
-  },
-  {
-    "title": "Somersham headless bodies were victims of Roman executions",
-    "url": "https://www.bbc.com/news/uk-england-cambridgeshire-57189875",
-    "upvotes": 30,
-    "author": "Thevet",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27401367"
   }
 ]
