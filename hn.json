@@ -1,238 +1,242 @@
 [
   {
+    "title": "On 'Biweekly' and 'Bimonthly'",
+    "url": "https://www.merriam-webster.com/words-at-play/on-biweekly-and-bimonthly",
+    "upvotes": 65,
+    "author": "pajtai",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27419213"
+  },
+  {
     "title": "A New Future for Icanhazip",
     "url": "https://major.io/2021/06/06/a-new-future-for-icanhazip/",
-    "upvotes": 694,
+    "upvotes": 777,
     "author": "nkcmr",
-    "comments": 208,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=27415537"
+  },
+  {
+    "title": "Our Engineering Team Used Python's AST to Patch 100,000s of Lines of Code",
+    "url": "https://engineering.soroco.com/abstract-syntax-tree-for-patching-code-and-assessing-code-quality/",
+    "upvotes": 16,
+    "author": "sidcool",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27419237"
   },
   {
     "title": "The SaaS CTO Security Checklist Redux",
     "url": "https://www.goldfiglabs.com/guide/saas-cto-security-checklist/",
-    "upvotes": 221,
+    "upvotes": 282,
     "author": "vikrum",
-    "comments": 47,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27416736"
   },
   {
     "title": "Daniel Ellsberg: The 90-year-old whistleblower tempting prosecution",
     "url": "https://www.bbc.co.uk/news/world-us-canada-57341592",
-    "upvotes": 67,
+    "upvotes": 97,
     "author": "pmoriarty",
-    "comments": 21,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27417576"
-  },
-  {
-    "title": "The Dangers of Low Head Dams",
-    "url": "https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams",
-    "upvotes": 136,
-    "author": "paulpauper",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27417206"
-  },
-  {
-    "title": "If someone’s having to read your docs, it’s not “simple”",
-    "url": "https://justsimply.dev",
-    "upvotes": 77,
-    "author": "cercatrova",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27418577"
   },
   {
     "title": "An incomplete list of skills senior engineers need, beyond coding",
     "url": "https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f",
-    "upvotes": 493,
+    "upvotes": 563,
     "author": "kungfudoi",
-    "comments": 158,
+    "comments": 173,
     "link": "https://news.ycombinator.com/item?id=27414443"
   },
   {
     "title": "Photographer captures 'odd but exciting' crow behaviour known as anting",
     "url": "https://www.cbc.ca/news/canada/british-columbia/curious-crow-behavior-known-as-anting-looks-like-violent-dirt-bath-1.6053823",
-    "upvotes": 194,
+    "upvotes": 217,
     "author": "pgrote",
-    "comments": 49,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27416217"
+  },
+  {
+    "title": "The Dangers of Low Head Dams",
+    "url": "https://practical.engineering/blog/2019/3/16/drowning-machine-the-dangers-of-low-head-dams",
+    "upvotes": 154,
+    "author": "paulpauper",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=27417206"
+  },
+  {
+    "title": "If someone’s having to read your docs, it’s not “simple”",
+    "url": "https://justsimply.dev",
+    "upvotes": 124,
+    "author": "cercatrova",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=27418577"
+  },
+  {
+    "title": "Clever vs. Insightful Code",
+    "url": "https://www.hillelwayne.com/post/cleverness/",
+    "upvotes": 43,
+    "author": "pcr910303",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27418296"
   },
   {
     "title": "How we achieved write speeds of 1.4M rows per second",
     "url": "https://questdb.io/blog/2021/05/10/questdb-release-6-0-tsbs-benchmark",
-    "upvotes": 58,
+    "upvotes": 85,
     "author": "System_",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27411307"
   },
   {
     "title": "The Levenshtein distance in production",
     "url": "https://vishnubharathi.codes/blog/levenshtein-distance/index.html",
-    "upvotes": 17,
+    "upvotes": 36,
     "author": "williamsmj",
-    "comments": 2,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27410910"
-  },
-  {
-    "title": "Clever vs. Insightful Code",
-    "url": "https://www.hillelwayne.com/post/cleverness/",
-    "upvotes": 17,
-    "author": "pcr910303",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27418296"
-  },
-  {
-    "title": "ST3000DM001",
-    "url": "https://en.wikipedia.org/wiki/ST3000DM001",
-    "upvotes": 7,
-    "author": "userbinator",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27419072"
   },
   {
     "title": "Keep Your Identity Small",
     "url": "http://www.paulgraham.com/identity.html",
-    "upvotes": 128,
+    "upvotes": 145,
     "author": "mooreds",
-    "comments": 126,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=27417992"
   },
   {
     "title": "Science Is Shaped by Wikipedia: Evidence from a Randomized Control Trial",
     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3039505",
-    "upvotes": 21,
+    "upvotes": 40,
     "author": "nabla9",
-    "comments": 4,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27411385"
   },
   {
     "title": "Why are American workers becoming harder to find?",
     "url": "https://www.economist.com/finance-and-economics/2021/04/29/why-are-american-workers-becoming-harder-to-find",
-    "upvotes": 99,
+    "upvotes": 111,
     "author": "jaredwiener",
-    "comments": 309,
+    "comments": 361,
     "link": "https://news.ycombinator.com/item?id=27415776"
-  },
-  {
-    "title": "A growing number of governments hope to clone DARPA",
-    "url": "https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa",
-    "upvotes": 73,
-    "author": "edward",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=27416546"
   },
   {
     "title": "In Praise of Open Source Textbooks",
     "url": "item?id=27414145",
-    "upvotes": 402,
+    "upvotes": 419,
     "author": "lightveil",
-    "comments": 83,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=27414145"
+  },
+  {
+    "title": "A growing number of governments hope to clone DARPA",
+    "url": "https://www.economist.com/science-and-technology/2021/06/03/a-growing-number-of-governments-hope-to-clone-americas-darpa",
+    "upvotes": 78,
+    "author": "edward",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27416546"
+  },
+  {
+    "title": "FreeBSD from a NetBSD developer’s perspective",
+    "url": "https://washbear.neocities.org/freebsd-netbsd-user.html",
+    "upvotes": 154,
+    "author": "jayp1418",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=27415070"
+  },
+  {
+    "title": "Hundreds of fishing vessels vanishing along Argentina’s waters",
+    "url": "https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#",
+    "upvotes": 1023,
+    "author": "belter",
+    "comments": 464,
+    "link": "https://news.ycombinator.com/item?id=27412691"
   },
   {
     "title": "Making better decisions with the Brier score",
     "url": "https://datarecipes.io/posts/brier_score/",
-    "upvotes": 28,
+    "upvotes": 37,
     "author": "ergodiclife",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27417425"
   },
   {
-    "title": "FreeBSD from a NetBSD developer’s perspective",
-    "url": "https://washbear.neocities.org/freebsd-netbsd-user.html",
-    "upvotes": 146,
-    "author": "jayp1418",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=27415070"
-  },
-  {
-    "title": "Commodore’s Assemblers: HCD65",
-    "url": "https://www.pagetable.com/?p=1540",
-    "upvotes": 30,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27411314"
-  },
-  {
     "title": "Mastershot – Web based video editor",
     "url": "https://mastershot.app",
-    "upvotes": 157,
+    "upvotes": 168,
     "author": "thunderbong",
-    "comments": 44,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=27415089"
   },
   {
     "title": "Show HN: Embedded Ring Buffer C++98",
     "url": "https://github.com/Bambofy/EmbeddedRingBuffer",
-    "upvotes": 4,
+    "upvotes": 10,
     "author": "Bambo",
-    "comments": null,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27412233"
-  },
-  {
-    "title": "Hundreds of fishing vessels vanishing along Argentina’s waters",
-    "url": "https://usa.oceana.org/publications/reports/oceana-finds-hundreds-vessels-vanishing-along-argentinas-waters#",
-    "upvotes": 995,
-    "author": "belter",
-    "comments": 447,
-    "link": "https://news.ycombinator.com/item?id=27412691"
-  },
-  {
-    "title": "Capsule Challenges Vacuum Tube",
-    "url": "https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117",
-    "upvotes": 12,
-    "author": "asxd",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27418179"
   },
   {
     "title": "The right tag for the job: why you should use semantic HTML",
     "url": "https://localghost.dev/2021/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/",
-    "upvotes": 156,
+    "upvotes": 163,
     "author": "tmfi",
-    "comments": 59,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27414183"
+  },
+  {
+    "title": "Capsule Challenges Vacuum Tube",
+    "url": "https://books.google.com/books?id=YCcDAAAAMBAJ&pg=PA117",
+    "upvotes": 19,
+    "author": "asxd",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27418179"
+  },
+  {
+    "title": "The Dark Side of Notepad++: V8",
+    "url": "https://notepad-plus-plus.org/news/v8-dark-mode/",
+    "upvotes": 22,
+    "author": "tech234a",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27418171"
+  },
+  {
+    "title": "Commodore’s Assemblers: HCD65",
+    "url": "https://www.pagetable.com/?p=1540",
+    "upvotes": 32,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27411314"
   },
   {
     "title": "HN “Why Not Simply”",
     "url": "https://hn.algolia.com/?dateRange=all&page=0&prefix=true&query=%22why%20not%20simply%22&sort=byPopularity&type=comment",
-    "upvotes": 139,
+    "upvotes": 153,
     "author": "jgrahamc",
-    "comments": 73,
+    "comments": 87,
     "link": "https://news.ycombinator.com/item?id=27415725"
-  },
-  {
-    "title": "Show HN: Mlatu, a Concatenative Programming Language",
-    "url": "https://github.com/brightly-salty/mlatu",
-    "upvotes": 9,
-    "author": "brightly-salty",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27418286"
-  },
-  {
-    "title": "Gene sequencer malware injection via encoded DNA",
-    "url": "https://www.wired.com/story/malware-dna-hack/",
-    "upvotes": 43,
-    "author": "carlsborg",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27416727"
   },
   {
     "title": "Cicero used humor to charm audiences–and humiliate opponents",
     "url": "https://www.wsj.com/articles/how-to-tell-a-joke-review-a-funny-thing-happened-on-the-way-to-the-forum-11622821485",
-    "upvotes": 68,
+    "upvotes": 70,
     "author": "diodorus",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27410114"
+  },
+  {
+    "title": "Gene sequencer malware injection via encoded DNA",
+    "url": "https://www.wired.com/story/malware-dna-hack/",
+    "upvotes": 44,
+    "author": "carlsborg",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27416727"
   },
   {
     "title": "The Globalization of Venture Capital Investing",
     "url": "https://avc.com/2021/06/the-globalization-of-venture-capital-investing/",
-    "upvotes": 42,
+    "upvotes": 47,
     "author": "cwan",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27416849"
-  },
-  {
-    "title": "PocketSuite Is hiring Lead Engineers, Product Designers to enrich small business",
-    "url": "https://www.ycombinator.com/companies/pocketsuite"
   }
 ]
