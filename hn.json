@@ -1,42 +1,58 @@
 [
   {
-    "title": "Trove of Never-Before-Seen Records Reveal How the Wealthiest Avoid Income Tax",
-    "url": "https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax",
-    "upvotes": 196,
-    "author": "danso",
-    "comments": 152,
-    "link": "https://news.ycombinator.com/item?id=27432326"
-  },
-  {
     "title": "Althttpd: Simple webserver in a single C-code file by the author of SQLite",
     "url": "https://sqlite.org/althttpd/doc/trunk/althttpd.md",
-    "upvotes": 258,
+    "upvotes": 323,
     "author": "miles",
-    "comments": 96,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=27431910"
+  },
+  {
+    "title": "Terraform 1.0.0 Release",
+    "url": "https://github.com/hashicorp/terraform/releases/tag/v1.0.0",
+    "upvotes": 83,
+    "author": "cube2222",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=27433863"
   },
   {
     "title": "A Project of One’s Own",
     "url": "http://paulgraham.com/own.html",
-    "upvotes": 63,
+    "upvotes": 106,
     "author": "prtkgpt",
-    "comments": 9,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27433040"
   },
   {
-    "title": "The top-ranking HTML editor on Google is an SEO scam",
-    "url": "https://casparwre.de/blog/seo-scam/",
-    "upvotes": 1453,
-    "author": "caspii",
-    "comments": 348,
-    "link": "https://news.ycombinator.com/item?id=27427330"
+    "title": "Trove of Never-Before-Seen Records Reveal How the Wealthiest Avoid Income Tax",
+    "url": "https://www.propublica.org/article/the-secret-irs-files-trove-of-never-before-seen-records-reveal-how-the-wealthiest-avoid-income-tax",
+    "upvotes": 314,
+    "author": "danso",
+    "comments": 296,
+    "link": "https://news.ycombinator.com/item?id=27432326"
+  },
+  {
+    "title": "How the Government Set Up a Fake Bank to Launder Drug Money",
+    "url": "https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money",
+    "upvotes": 16,
+    "author": "mdeck_",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27434243"
+  },
+  {
+    "title": "Terraform v1.0 Is Out",
+    "url": "https://www.terraform.io/docs/language/v1-compatibility-promises.html",
+    "upvotes": 26,
+    "author": "weeha",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27433877"
   },
   {
     "title": "Sequoia 1.3",
     "url": "https://sequoia-pgp.org/blog/2021/06/08/202106-sequoia-1.3/",
-    "upvotes": 49,
+    "upvotes": 67,
     "author": "teythoon",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27432666"
   },
   {
@@ -44,195 +60,179 @@
     "url": "https://www.pachyderm.com/careers/#positions"
   },
   {
-    "title": "Don't Let Social Media Think for You",
-    "url": "https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you",
-    "upvotes": 62,
-    "author": "hnthrowaway2",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27432355"
+    "title": "Changes to Docker Hub Autobuilds",
+    "url": "https://www.docker.com/blog/changes-to-docker-hub-autobuilds/",
+    "upvotes": 23,
+    "author": "bnr",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27434009"
+  },
+  {
+    "title": "SeKVM verified hypervisor based on KVM",
+    "url": "https://spectrum.ieee.org/riskfactor/computing/software/safe-hypervisor",
+    "upvotes": 12,
+    "author": "cvwright",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27434073"
   },
   {
     "title": "Australian Federal Police and FBI nab underworld figures using encrypted app",
     "url": "https://www.abc.net.au/news/2021-06-08/fbi-afp-underworld-crime-bust-an0m-cash-drugs-murder/100197246",
-    "upvotes": 257,
+    "upvotes": 282,
     "author": "ferros",
-    "comments": 199,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=27430508"
-  },
-  {
-    "title": "Fastly Outage",
-    "url": "https://fastly.com/",
-    "upvotes": 998,
-    "author": "pcr0",
-    "comments": 543,
-    "link": "https://news.ycombinator.com/item?id=27432408"
-  },
-  {
-    "title": "Language Learning with Netflix",
-    "url": "https://languagelearningwithnetflix.com/",
-    "upvotes": 86,
-    "author": "skanderbm",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27420959"
   },
   {
     "title": "Anom Encrypted App Analysis",
     "url": "https://webcache.googleusercontent.com/search?q=cache:bP-g6VgD1JcJ:https://anomexposed.wordpress.com/2021/03/29/anom-encrpted-scam-exposed/+&cd=1&hl=en&ct=clnk&gl=au",
-    "upvotes": 29,
+    "upvotes": 39,
     "author": "CPAhem",
-    "comments": 9,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27432750"
   },
   {
-    "title": "The price of lithium-ion batteries has declined by 97% in the last three decades",
-    "url": "https://ourworldindata.org/battery-price-decline",
-    "upvotes": 428,
-    "author": "infodocket",
-    "comments": 276,
-    "link": "https://news.ycombinator.com/item?id=27426922"
+    "title": "Grafana v8.0 Released",
+    "url": "https://github.com/grafana/grafana/releases/tag/v8.0.0",
+    "upvotes": 19,
+    "author": "botayhard",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27433552"
+  },
+  {
+    "title": "Don't Let Social Media Think for You",
+    "url": "https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you",
+    "upvotes": 82,
+    "author": "hnthrowaway2",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27432355"
+  },
+  {
+    "title": "Language Learning with Netflix",
+    "url": "https://languagelearningwithnetflix.com/",
+    "upvotes": 104,
+    "author": "skanderbm",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=27420959"
+  },
+  {
+    "title": "Fastly Outage",
+    "url": "https://fastly.com/",
+    "upvotes": 1036,
+    "author": "pcr0",
+    "comments": 583,
+    "link": "https://news.ycombinator.com/item?id=27432408"
   },
   {
     "title": "Snowtrack – a new version control software for graphic designers and 3D artists",
     "url": "http://snowtrack.io/",
-    "upvotes": 33,
+    "upvotes": 49,
     "author": "sebastian_io",
-    "comments": 14,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27432101"
   },
   {
-    "title": "Two Hidden Instructions Discovered in Intel CPUs Enable Microcode Modification",
-    "url": "https://www.infoq.com/news/2021/04/intel-hidden-instructions/",
-    "upvotes": 401,
-    "author": "andrewnicolalde",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=27427096"
+    "title": "Pluridisciplinary evidence for burial for the La Ferrassie 8 Neandertal child",
+    "url": "https://www.nature.com/articles/s41598-020-77611-z",
+    "upvotes": 4,
+    "author": "tokai",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27434229"
   },
   {
-    "title": "Fast Radio Bursts from Extragalactic Light Sails",
-    "url": "https://lweb.cfa.harvard.edu/~loeb/LL.pdf",
-    "upvotes": 30,
-    "author": "mpweiher",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27431999"
+    "title": "PlayPhrase: Site for Searching Cinema Phrases",
+    "url": "https://www.playphrase.me",
+    "upvotes": 6,
+    "author": "NKosmatos",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27434159"
+  },
+  {
+    "title": "Tiny particles power chemical reactions – Massachusetts Institute of Technology",
+    "url": "https://news.mit.edu/2021/carbon-nanotubes-power-chemical-reactions-0607",
+    "upvotes": 6,
+    "author": "mardiyah",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27434139"
+  },
+  {
+    "title": "The top-ranking HTML editor on Google is an SEO scam",
+    "url": "https://casparwre.de/blog/seo-scam/",
+    "upvotes": 1484,
+    "author": "caspii",
+    "comments": 355,
+    "link": "https://news.ycombinator.com/item?id=27427330"
   },
   {
     "title": "Lepton – Firefox UI Fix",
     "url": "https://github.com/black7375/Firefox-UI-Fix",
-    "upvotes": 28,
+    "upvotes": 48,
     "author": "amai",
-    "comments": 4,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27420416"
   },
   {
     "title": "Apple brings Safari web browser extensions to iPhone and iPad with iOS 15",
     "url": "https://9to5mac.com/2021/06/07/apple-brings-safari-web-browser-extensions-to-iphone-and-ipad-with-ios-15/",
-    "upvotes": 24,
+    "upvotes": 52,
     "author": "laktak",
-    "comments": 3,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27433535"
+  },
+  {
+    "title": "Fast Radio Bursts from Extragalactic Light Sails",
+    "url": "https://lweb.cfa.harvard.edu/~loeb/LL.pdf",
+    "upvotes": 36,
+    "author": "mpweiher",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27431999"
+  },
+  {
+    "title": "Web Applications from the Future: A Database in the Browser",
+    "url": "https://stopa.io/post/279",
+    "upvotes": 52,
+    "author": "w1nter",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27424496"
   },
   {
     "title": "Fizzygum",
     "url": "http://fizzygum.org/",
-    "upvotes": 88,
+    "upvotes": 93,
     "author": "smusamashah",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27421401"
-  },
-  {
-    "title": "DOJ seizes $2.3M in cryptocurrency paid to the ransomware extortionists Darkside",
-    "url": "https://www.justice.gov/opa/pr/department-justice-seizes-23-million-cryptocurrency-paid-ransomware-extortionists-darkside",
-    "upvotes": 322,
-    "author": "nthitz",
-    "comments": 234,
-    "link": "https://news.ycombinator.com/item?id=27427485"
-  },
-  {
-    "title": "PGP Marks 30th Anniversary",
-    "url": "https://philzimmermann.com/EN/essays/PGP_30th/",
-    "upvotes": 137,
-    "author": "throw0101a",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27430050"
   },
   {
     "title": "FaceTime on the web requires Chrome or Edge, no mention of Firefox",
     "url": "https://www.apple.com/macos/monterey-preview/features/#footnote-3",
-    "upvotes": 173,
+    "upvotes": 198,
     "author": "latexr",
-    "comments": 56,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=27429008"
+  },
+  {
+    "title": "PGP Marks 30th Anniversary",
+    "url": "https://philzimmermann.com/EN/essays/PGP_30th/",
+    "upvotes": 149,
+    "author": "throw0101a",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27430050"
   },
   {
     "title": "Machine learning is booming in medicine, but also facing a credibility crisis",
     "url": "https://www.statnews.com/2021/06/02/machine-learning-ai-methodology-research-flaws/",
-    "upvotes": 47,
+    "upvotes": 54,
     "author": "Ice_cream_suit",
-    "comments": 53,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=27431217"
   },
   {
     "title": "TLS certificates have at least two internal representations of time",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/TLSTimeRepresentations",
-    "upvotes": 77,
+    "upvotes": 83,
     "author": "throw0101a",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27421121"
-  },
-  {
-    "title": "Why food inflation has skyrocketed out of control",
-    "url": "https://electricsheep.substack.com/p/let-them-eat-cake",
-    "upvotes": 17,
-    "author": "jger15",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27433450"
-  },
-  {
-    "title": "FoundationDB: A distributed, unbundled, transactional key value store [pdf]",
-    "url": "https://www.foundationdb.org/files/fdb-paper.pdf",
-    "upvotes": 232,
-    "author": "wwilson",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=27424605"
-  },
-  {
-    "title": "Writing a Technical Book",
-    "url": "https://andregarzia.com/2021/04/writing-a-technical-book.html",
-    "upvotes": 90,
-    "author": "thanato0s",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27412287"
-  },
-  {
-    "title": "Lab Cultures: An Interview with an Anonymous Biologist",
-    "url": "https://logicmag.io/nature/lab-cultures-an-interview-with-an-anonymous-biologist/",
-    "upvotes": 34,
-    "author": "smarm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27427593"
-  },
-  {
-    "title": "Launch HN: Quadrant Eye (YC W21) – Tackling online eye exams and at-home eyecare",
-    "url": "item?id=27423738",
-    "upvotes": 117,
-    "author": "Killakwinn",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=27423738"
-  },
-  {
-    "title": "CodePerfect 95 – A fast IDE for Go",
-    "url": "https://codeperfect95.com",
-    "upvotes": 188,
-    "author": "brhsagain",
-    "comments": 128,
-    "link": "https://news.ycombinator.com/item?id=27426981"
-  },
-  {
-    "title": "Kwan’s Hierarchy of Product Needs: The Four Levels of Product Managers",
-    "url": "https://www.heavybit.com/library/blog/kwans-hierarchy-of-product-needs-the-four-levels-of-product-managers/",
-    "upvotes": 128,
-    "author": "realtobechukwu",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27420845"
   }
 ]
