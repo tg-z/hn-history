@@ -1,124 +1,124 @@
 [
   {
-    "title": "Ohio sues Google, seeks to declare the internet company a public utility",
-    "url": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
-    "upvotes": 442,
-    "author": "infodocket",
-    "comments": 354,
-    "link": "https://news.ycombinator.com/item?id=27439010"
-  },
-  {
     "title": "Bosch opens German chip plant",
     "url": "https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/",
-    "upvotes": 61,
+    "upvotes": 99,
     "author": "nixass",
-    "comments": 8,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27441545"
+  },
+  {
+    "title": "Ohio sues Google, seeks to declare the internet company a public utility",
+    "url": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
+    "upvotes": 472,
+    "author": "infodocket",
+    "comments": 395,
+    "link": "https://news.ycombinator.com/item?id=27439010"
   },
   {
     "title": "Astro: Ship Less JavaScript",
     "url": "https://astro.build/blog/introducing-astro",
-    "upvotes": 138,
+    "upvotes": 157,
     "author": "feross",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27440553"
-  },
-  {
-    "title": "Study shows how taking short breaks may help our brains learn new skills",
-    "url": "https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains",
-    "upvotes": 61,
-    "author": "hhs",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27441175"
   },
   {
     "title": "Microsoft Patches Six Zero-Day Security Holes",
     "url": "https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/",
-    "upvotes": 88,
+    "upvotes": 101,
     "author": "parsecs",
-    "comments": 17,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27440675"
+  },
+  {
+    "title": "Study shows how taking short breaks may help our brains learn new skills",
+    "url": "https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains",
+    "upvotes": 68,
+    "author": "hhs",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27441175"
+  },
+  {
+    "title": "Introducing chrome.scripting",
+    "url": "https://developer.chrome.com/en/blog/crx-scripting-api/",
+    "upvotes": 27,
+    "author": "pentagrama",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27441898"
   },
   {
     "title": "Real-world CSS vs. CSS-in-JS performance comparison",
     "url": "https://pustelto.com/blog/css-vs-css-in-js-perf/",
-    "upvotes": 112,
+    "upvotes": 115,
     "author": "______-",
-    "comments": 94,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=27438913"
   },
   {
     "title": "Ppl: The command line address book",
     "url": "https://github.com/hendotcat/ppl",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "nomoreplease",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27440516"
   },
   {
-    "title": "Scientific Computing with Perl",
-    "url": "http://pdl.perl.org/",
-    "upvotes": 70,
-    "author": "smartmic",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27439638"
+    "title": "A Project of One’s Own",
+    "url": "http://paulgraham.com/own.html",
+    "upvotes": 515,
+    "author": "prtkgpt",
+    "comments": 272,
+    "link": "https://news.ycombinator.com/item?id=27433040"
   },
   {
-    "title": "Fedora contemplates the driverless printing future",
-    "url": "https://lwn.net/SubscriberLink/857502/485fadb4c27b4587/",
-    "upvotes": 43,
-    "author": "Tomte",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27419701"
+    "title": "How Netflix uses eBPF flow logs at scale for network insight",
+    "url": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
+    "upvotes": 251,
+    "author": "el_duderino",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=27435081"
   },
   {
     "title": "Gordian Software",
     "url": "https://jobs.ashbyhq.com/GordianSoftware/0ea0a67e-3621-4b28-ab56-3f27a956af22"
   },
   {
-    "title": "A Project of One’s Own",
-    "url": "http://paulgraham.com/own.html",
-    "upvotes": 502,
-    "author": "prtkgpt",
-    "comments": 269,
-    "link": "https://news.ycombinator.com/item?id=27433040"
+    "title": "Fedora contemplates the driverless printing future",
+    "url": "https://lwn.net/SubscriberLink/857502/485fadb4c27b4587/",
+    "upvotes": 48,
+    "author": "Tomte",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27419701"
   },
   {
-    "title": "Althttpd: Simple webserver in a single C file",
-    "url": "https://sqlite.org/althttpd/doc/trunk/althttpd.md",
-    "upvotes": 652,
-    "author": "miles",
-    "comments": 286,
-    "link": "https://news.ycombinator.com/item?id=27431910"
+    "title": "Scientific Computing with Perl",
+    "url": "http://pdl.perl.org/",
+    "upvotes": 70,
+    "author": "smartmic",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=27439638"
   },
   {
     "title": "Text Classification by Data Compression",
     "url": "https://maxhalford.github.io/blog/text-classification-by-compression/",
-    "upvotes": 34,
+    "upvotes": 37,
     "author": "Lemaxoxo",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27440093"
   },
   {
-    "title": "How Netflix uses eBPF flow logs at scale for network insight",
-    "url": "https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96",
-    "upvotes": 246,
-    "author": "el_duderino",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27435081"
-  },
-  {
-    "title": "Introducing chrome.scripting",
-    "url": "https://developer.chrome.com/en/blog/crx-scripting-api/",
-    "upvotes": 7,
-    "author": "pentagrama",
+    "title": "Bending time and space in slow motion",
+    "url": "https://petapixel.com/2021/06/07/this-guy-bends-time-and-space-in-slow-motion/",
+    "upvotes": 9,
+    "author": "giuliomagnifico",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27441898"
+    "link": "https://news.ycombinator.com/item?id=27431602"
   },
   {
     "title": "Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams",
     "url": "item?id=27435377",
-    "upvotes": 74,
+    "upvotes": 75,
     "author": "gsavit",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27435377"
@@ -126,113 +126,113 @@
   {
     "title": "Bakeware: Compile any Elixir application into a single binary",
     "url": "https://github.com/bake-bake-bake/bakeware",
-    "upvotes": 89,
+    "upvotes": 94,
     "author": "sergiomattei",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27430806"
+  },
+  {
+    "title": "Grafana 8.0",
+    "url": "https://github.com/grafana/grafana/releases/tag/v8.0.0",
+    "upvotes": 353,
+    "author": "botayhard",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27433552"
   },
   {
     "title": "The History of Nuclear Secrecy in the U.S.",
     "url": "https://inference-review.com/article/secrets",
-    "upvotes": 12,
+    "upvotes": 14,
     "author": "torritest",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27431224"
   },
   {
     "title": "Socrates’ Examined Life",
     "url": "https://antigonejournal.com/2021/06/socrates-examined-life/",
-    "upvotes": 47,
+    "upvotes": 51,
     "author": "url",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27431260"
-  },
-  {
-    "title": "Grafana 8.0",
-    "url": "https://github.com/grafana/grafana/releases/tag/v8.0.0",
-    "upvotes": 349,
-    "author": "botayhard",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27433552"
-  },
-  {
-    "title": "How the government set up a fake bank to launder drug money",
-    "url": "https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money",
-    "upvotes": 183,
-    "author": "mdeck_",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=27434243"
-  },
-  {
-    "title": "Vinix – An effort to write a modern, fast, and interesting operating system in V",
-    "url": "https://github.com/vlang/vinix",
-    "upvotes": 93,
-    "author": "letientai299",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=27432571"
   },
   {
     "title": "Apache Superset 1.1",
     "url": "https://github.com/apache/superset/tree/master/RELEASING/release-notes-1-1",
-    "upvotes": 23,
+    "upvotes": 32,
     "author": "skadamat",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27439939"
+  },
+  {
+    "title": "How the government set up a fake bank to launder drug money",
+    "url": "https://www.npr.org/sections/money/2012/11/20/165590860/episode-418-how-the-government-set-up-a-fake-bank-to-launder-drug-money",
+    "upvotes": 188,
+    "author": "mdeck_",
+    "comments": 79,
+    "link": "https://news.ycombinator.com/item?id=27434243"
   },
   {
     "title": "Terraform 1.0",
     "url": "https://github.com/hashicorp/terraform/releases/tag/v1.0.0",
-    "upvotes": 609,
+    "upvotes": 614,
     "author": "cube2222",
-    "comments": 257,
+    "comments": 258,
     "link": "https://news.ycombinator.com/item?id=27433863"
   },
   {
     "title": "To protect against weaponized drones, we must understand their key strengths",
     "url": "https://spectrum.ieee.org/robotics/military-robots/to-protect-against-weaponized-drones-we-must-understand-their-key-strengths",
-    "upvotes": 66,
+    "upvotes": 68,
     "author": "jonbaer",
-    "comments": 115,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=27437092"
-  },
-  {
-    "title": "Language learning with Netflix",
-    "url": "https://languagelearningwithnetflix.com/",
-    "upvotes": 283,
-    "author": "skanderbm",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=27420959"
   },
   {
     "title": "Don't let social media think for you",
     "url": "https://www.disgustinglyoptimistic.com/post/don-t-let-social-media-think-for-you",
-    "upvotes": 355,
+    "upvotes": 359,
     "author": "hnthrowaway2",
-    "comments": 216,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=27432355"
   },
   {
     "title": "Web Applications from the Future: A Database in the Browser",
     "url": "https://stopa.io/post/279",
-    "upvotes": 155,
+    "upvotes": 156,
     "author": "w1nter",
-    "comments": 53,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27424496"
   },
   {
     "title": "The Consciousness of Invertebrates",
     "url": "https://lithub.com/how-science-has-revealed-the-inner-consciousness-of-invertebrates",
-    "upvotes": 50,
+    "upvotes": 54,
     "author": "quercusa",
-    "comments": 28,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27437772"
+  },
+  {
+    "title": "Vinix – An effort to write a modern, fast, and interesting operating system in V",
+    "url": "https://github.com/vlang/vinix",
+    "upvotes": 94,
+    "author": "letientai299",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=27432571"
+  },
+  {
+    "title": "Althttpd: Simple webserver in a single C file",
+    "url": "https://sqlite.org/althttpd/doc/trunk/althttpd.md",
+    "upvotes": 656,
+    "author": "miles",
+    "comments": 287,
+    "link": "https://news.ycombinator.com/item?id=27431910"
   },
   {
     "title": "The Aducanumab Approval",
     "url": "https://blogs.sciencemag.org/pipeline/archives/2021/06/08/the-aducanumab-approval",
-    "upvotes": 123,
+    "upvotes": 126,
     "author": "hprotagonist",
-    "comments": 90,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=27434468"
   }
 ]
