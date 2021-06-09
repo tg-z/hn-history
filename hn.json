@@ -1,90 +1,98 @@
 [
   {
-    "title": "Vivaldi 4.0: Vivaldi Translate, Vivaldi Mail, Calendar and Feed Reader",
+    "title": "Vivaldi 4.0",
     "url": "https://vivaldi.com/blog/vivaldi-4-0/",
-    "upvotes": 85,
+    "upvotes": 118,
     "author": "0x49d1",
-    "comments": 63,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27445282"
   },
   {
     "title": "Bosch opens German chip plant",
     "url": "https://www.reuters.com/technology/bosch-opens-german-chip-plant-its-biggest-ever-investment-2021-06-07/",
-    "upvotes": 508,
+    "upvotes": 519,
     "author": "nixass",
-    "comments": 186,
+    "comments": 195,
     "link": "https://news.ycombinator.com/item?id=27441545"
   },
   {
     "title": "The pedantic checklist for changing your data model in a web application",
     "url": "https://rtpg.co/2021/06/07/changes-checklist.html",
-    "upvotes": 41,
+    "upvotes": 65,
     "author": "rtpg",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27431494"
-  },
-  {
-    "title": "I wrote a linker everyone can understand",
-    "url": "https://briancallahan.net/blog/20210609.html",
-    "upvotes": 69,
-    "author": "ingve",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27444647"
-  },
-  {
-    "title": "Lockdown.exe: Block unknown apps via Windows software restriction policy",
-    "url": "https://www.d7xtech.com/lockdown/",
-    "upvotes": 51,
-    "author": "miles",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27444646"
-  },
-  {
-    "title": "You Don’t Need Permission",
-    "url": "https://steveblank.com/2021/06/04/you-dont-need-permission/",
-    "upvotes": 121,
-    "author": "rognjen",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=27443711"
   },
   {
     "title": "novelWriter – open-source plain text editor designed for writing novels",
     "url": "https://github.com/vkbo/novelWriter",
-    "upvotes": 9,
+    "upvotes": 20,
     "author": "dragonsh",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27432022"
+  },
+  {
+    "title": "I wrote a linker everyone can understand",
+    "url": "https://briancallahan.net/blog/20210609.html",
+    "upvotes": 77,
+    "author": "ingve",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27444647"
+  },
+  {
+    "title": "You Don’t Need Permission",
+    "url": "https://steveblank.com/2021/06/04/you-dont-need-permission/",
+    "upvotes": 126,
+    "author": "rognjen",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27443711"
   },
   {
     "title": "Apple M1 support for TensorFlow 2.5 pluggable device API",
     "url": "https://developer.apple.com/metal/tensorflow-plugin/",
-    "upvotes": 195,
+    "upvotes": 198,
     "author": "dandiep",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27442475"
   },
   {
     "title": "Study shows how taking short breaks may help our brains learn new skills",
     "url": "https://www.ninds.nih.gov/News-Events/News-and-Press-Releases/Press-Releases/Study-shows-how-taking-short-breaks-may-help-our-brains",
-    "upvotes": 257,
+    "upvotes": 262,
     "author": "hhs",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27441175"
+  },
+  {
+    "title": "Lockdown.exe: Block unknown apps via Windows software restriction policy",
+    "url": "https://www.d7xtech.com/lockdown/",
+    "upvotes": 55,
+    "author": "miles",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27444646"
   },
   {
     "title": "Astro: Ship Less JavaScript",
     "url": "https://astro.build/blog/introducing-astro",
-    "upvotes": 323,
+    "upvotes": 329,
     "author": "feross",
-    "comments": 135,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=27440553"
+  },
+  {
+    "title": "Microsoft Patches Six Zero-Day Security Holes",
+    "url": "https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/",
+    "upvotes": 220,
+    "author": "parsecs",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=27440675"
   },
   {
     "title": "Why I Hate Programming Language Advocacy",
     "url": "https://www.perl.com/pub/2000/12/advocacy.html/",
-    "upvotes": 25,
+    "upvotes": 32,
     "author": "smasher164",
-    "comments": 17,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27431486"
   },
   {
@@ -92,52 +100,44 @@
     "url": "https://www.workatastartup.com/events/startup-tech-expo-summer-2021"
   },
   {
-    "title": "Microsoft Patches Six Zero-Day Security Holes",
-    "url": "https://krebsonsecurity.com/2021/06/microsoft-patches-six-zero-day-security-holes/",
-    "upvotes": 218,
-    "author": "parsecs",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27440675"
-  },
-  {
     "title": "Vizh: Visual language that takes image files as input",
     "url": "https://github.com/TartanLlama/vizh",
-    "upvotes": 70,
+    "upvotes": 73,
     "author": "ingve",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27431635"
-  },
-  {
-    "title": "Ohio sues Google, seeks to declare the internet company a public utility",
-    "url": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
-    "upvotes": 798,
-    "author": "infodocket",
-    "comments": 611,
-    "link": "https://news.ycombinator.com/item?id=27439010"
   },
   {
     "title": "A Project of One’s Own",
     "url": "http://paulgraham.com/own.html",
-    "upvotes": 622,
+    "upvotes": 626,
     "author": "prtkgpt",
     "comments": 324,
     "link": "https://news.ycombinator.com/item?id=27433040"
   },
   {
-    "title": "Fastly Summary of June 8 outage",
-    "url": "https://www.fastly.com/blog/summary-of-june-8-outage",
-    "upvotes": 83,
-    "author": "anonbutler",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=27444005"
+    "title": "Ohio sues Google, seeks to declare the internet company a public utility",
+    "url": "https://www.dispatch.com/story/news/politics/2021/06/08/ohio-sues-google-seeks-declare-search-engine-public-utility/7602213002/",
+    "upvotes": 804,
+    "author": "infodocket",
+    "comments": 624,
+    "link": "https://news.ycombinator.com/item?id=27439010"
   },
   {
     "title": "Engineering a Chess Match",
     "url": "https://blog.mbrt.dev/posts/chess-eng/",
-    "upvotes": 57,
+    "upvotes": 63,
     "author": "underdeserver",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27431924"
+  },
+  {
+    "title": "Bending time and space in slow motion",
+    "url": "https://petapixel.com/2021/06/07/this-guy-bends-time-and-space-in-slow-motion/",
+    "upvotes": 150,
+    "author": "giuliomagnifico",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27431602"
   },
   {
     "title": "Embedding Lisp in C++ – A Recipe",
@@ -148,12 +148,20 @@
     "link": "https://news.ycombinator.com/item?id=27431180"
   },
   {
-    "title": "Bending time and space in slow motion",
-    "url": "https://petapixel.com/2021/06/07/this-guy-bends-time-and-space-in-slow-motion/",
-    "upvotes": 147,
-    "author": "giuliomagnifico",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27431602"
+    "title": "The elephant vanishes: how a circus family went on the run",
+    "url": "https://www.theguardian.com/news/2021/jun/08/the-elephant-vanishes-dumba-how-a-circus-family-went-on-the-run",
+    "upvotes": 3,
+    "author": "cheese_goddess",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27432309"
+  },
+  {
+    "title": "Trying to study textbooks effectively: a year of experimentation",
+    "url": "https://www.lesswrong.com/posts/79dP94fEhGGcGmyDE/trying-to-study-textbooks-effectively-a-year-of",
+    "upvotes": 106,
+    "author": "youcould",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=27431253"
   },
   {
     "title": "Introducing chrome.scripting",
@@ -166,73 +174,65 @@
   {
     "title": "Design Issues in LLVM IR",
     "url": "https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html",
-    "upvotes": 104,
+    "upvotes": 110,
     "author": "EvgeniyZh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27430967"
-  },
-  {
-    "title": "Perl Data Language: Scientific Computing with Perl",
-    "url": "http://pdl.perl.org/",
-    "upvotes": 134,
-    "author": "smartmic",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=27439638"
-  },
-  {
-    "title": "Trying to study textbooks effectively: a year of experimentation",
-    "url": "https://www.lesswrong.com/posts/79dP94fEhGGcGmyDE/trying-to-study-textbooks-effectively-a-year-of",
-    "upvotes": 104,
-    "author": "youcould",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27431253"
   },
   {
     "title": "What the Fastly outage can teach us about writing error messages",
     "url": "https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages",
     "upvotes": 226,
     "author": "rozenmd",
-    "comments": 99,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27443519"
   },
   {
     "title": "Ppl: The command line address book",
     "url": "https://github.com/hendotcat/ppl",
-    "upvotes": 97,
+    "upvotes": 98,
     "author": "nomoreplease",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27440516"
   },
   {
+    "title": "Fastly Summary of June 8 outage",
+    "url": "https://www.fastly.com/blog/summary-of-june-8-outage",
+    "upvotes": 89,
+    "author": "anonbutler",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=27444005"
+  },
+  {
     "title": "ProPublica's tax story",
     "url": "https://savingjournalism.substack.com/p/propublicas-bombshell-bullshit-tax",
-    "upvotes": 224,
+    "upvotes": 226,
     "author": "imgabe",
-    "comments": 308,
+    "comments": 312,
     "link": "https://news.ycombinator.com/item?id=27441277"
-  },
-  {
-    "title": "Show HN: A simple JavaScript notebook in one file",
-    "url": "https://github.com/timcwinkler/javascript-notebook",
-    "upvotes": 20,
-    "author": "timcwinkler",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27444378"
-  },
-  {
-    "title": "Mechanisms in Modern Engineering Design",
-    "url": "https://mirtitles.org/2018/10/13/mechanisms-in-modern-engineering-design-artobolevsky/",
-    "upvotes": 31,
-    "author": "the-mitr",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27430958"
   },
   {
     "title": "Text Classification by Data Compression",
     "url": "https://maxhalford.github.io/blog/text-classification-by-compression/",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "Lemaxoxo",
-    "comments": 35,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27440093"
+  },
+  {
+    "title": "Launch HN: Runway (YC W21) – Easier iOS and Android app releases for teams",
+    "url": "item?id=27435377",
+    "upvotes": 88,
+    "author": "gsavit",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=27435377"
+  },
+  {
+    "title": "Mechanisms in Modern Engineering Design",
+    "url": "https://mirtitles.org/2018/10/13/mechanisms-in-modern-engineering-design-artobolevsky/",
+    "upvotes": 32,
+    "author": "the-mitr",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27430958"
   }
 ]
