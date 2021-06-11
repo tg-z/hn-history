@@ -2,15 +2,15 @@
   {
     "title": "Don't Feed the Thought Leaders",
     "url": "https://earthly.dev/blog/thought-leaders/",
-    "upvotes": 111,
+    "upvotes": 177,
     "author": "crummy",
-    "comments": 41,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27467999"
   },
   {
     "title": "Mysterious fast radio bursts come in two distinct flavours",
     "url": "https://www.nature.com/articles/d41586-021-01560-4",
-    "upvotes": 97,
+    "upvotes": 109,
     "author": "bryan0",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27466887"
@@ -18,7 +18,7 @@
   {
     "title": "Stripe Tax",
     "url": "https://stripe.com/tax",
-    "upvotes": 853,
+    "upvotes": 860,
     "author": "sirodoht",
     "comments": 335,
     "link": "https://news.ycombinator.com/item?id=27459712"
@@ -26,41 +26,49 @@
   {
     "title": "Good and Bad Elixir",
     "url": "https://keathley.io/blog/good-and-bad-elixir.html",
-    "upvotes": 270,
+    "upvotes": 274,
     "author": "todsacerdoti",
-    "comments": 121,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=27463725"
-  },
-  {
-    "title": "Privacy Analysis of FLoC",
-    "url": "https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/",
-    "upvotes": 188,
-    "author": "jonchang",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=27463794"
   },
   {
     "title": "Slick Tricks for Tricky Dicks",
     "url": "https://calpaterson.com/fraud.html",
-    "upvotes": 24,
+    "upvotes": 44,
     "author": "calpaterson",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27457450"
+  },
+  {
+    "title": "Privacy Analysis of FLoC",
+    "url": "https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/",
+    "upvotes": 196,
+    "author": "jonchang",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=27463794"
   },
   {
     "title": "Physicists measure the gravitational force between the smallest masses yet",
     "url": "https://www.scientificamerican.com/article/physicists-measure-the-gravitational-force-between-the-smallest-masses-yet/",
-    "upvotes": 71,
+    "upvotes": 77,
     "author": "alok-g",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27466151"
+  },
+  {
+    "title": "Calculus for Seven Year Olds [pdf]",
+    "url": "http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf",
+    "upvotes": 52,
+    "author": "barry-cotter",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27458227"
   },
   {
     "title": "FDA approves drug to treat smallpox",
     "url": "https://www.fda.gov/drugs/drug-safety-and-availability/fda-approves-drug-treat-smallpox",
-    "upvotes": 53,
+    "upvotes": 59,
     "author": "nacc",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27466709"
   },
   {
@@ -70,39 +78,39 @@
   {
     "title": "Will Apple Mail threaten the newsletter boom?",
     "url": "https://www.platformer.news/p/will-apple-mail-end-the-newsletter",
-    "upvotes": 132,
+    "upvotes": 136,
     "author": "danso",
-    "comments": 160,
+    "comments": 164,
     "link": "https://news.ycombinator.com/item?id=27448240"
   },
   {
     "title": "Software is eating the car",
     "url": "https://spectrum.ieee.org/cars-that-think/transportation/advanced-cars/software-eating-car",
-    "upvotes": 217,
+    "upvotes": 221,
     "author": "avonmach",
-    "comments": 417,
+    "comments": 422,
     "link": "https://news.ycombinator.com/item?id=27462263"
+  },
+  {
+    "title": "The work-from-home future is destroying bosses' brains",
+    "url": "https://ez.substack.com/p/the-work-from-home-future-is-destroying",
+    "upvotes": 320,
+    "author": "zikduruqe",
+    "comments": 274,
+    "link": "https://news.ycombinator.com/item?id=27461970"
   },
   {
     "title": "The Double Exploitation of Deepfake Porn",
     "url": "https://thewalrus.ca/the-double-exploitation-of-deepfake-porn/",
-    "upvotes": 4,
+    "upvotes": 9,
     "author": "gk1",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27468667"
-  },
-  {
-    "title": "Calculus for Seven Year Olds [pdf]",
-    "url": "http://mathman.biz/materials/Calculus%20By%20and%20For%20Young%20People%20Worksheets.pdf",
-    "upvotes": 40,
-    "author": "barry-cotter",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27458227"
   },
   {
     "title": "Try APL",
     "url": "https://tryapl.org",
-    "upvotes": 330,
+    "upvotes": 333,
     "author": "tosh",
     "comments": 190,
     "link": "https://news.ycombinator.com/item?id=27460887"
@@ -110,98 +118,90 @@
   {
     "title": "Raspberry Pi WiFi to ethernet bridge",
     "url": "https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/",
-    "upvotes": 116,
+    "upvotes": 122,
     "author": "dasl",
-    "comments": 51,
+    "comments": 52,
     "link": "https://news.ycombinator.com/item?id=27464907"
-  },
-  {
-    "title": "The work-from-home future is destroying bosses' brains",
-    "url": "https://ez.substack.com/p/the-work-from-home-future-is-destroying",
-    "upvotes": 296,
-    "author": "zikduruqe",
-    "comments": 265,
-    "link": "https://news.ycombinator.com/item?id=27461970"
-  },
-  {
-    "title": "The Amateur Photographers of Midcentury São Paulo",
-    "url": "https://www.theparisreview.org/blog/2021/05/21/the-amateur-photographers-of-midcentury-sao-paulo/",
-    "upvotes": 23,
-    "author": "tintinnabula",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27455231"
   },
   {
     "title": "Launch HN: Okay (YC W20) – Analytics for engineering teams",
     "url": "item?id=27461564",
-    "upvotes": 93,
+    "upvotes": 94,
     "author": "tonioab",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27461564"
   },
   {
-    "title": "Using aligned word vectors for instant translations with Python and Rust",
-    "url": "https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations",
-    "upvotes": 77,
-    "author": "beau",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27465287"
-  },
-  {
-    "title": "A robot to replace the need for farmers to go inside the grain bin",
-    "url": "https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin",
-    "upvotes": 145,
-    "author": "ryansouza",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=27462200"
-  },
-  {
-    "title": "Chrome abandons 'simplified domain experiment' in omnibar",
-    "url": "https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75",
-    "upvotes": 125,
-    "author": "uncertainrhymes",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27467215"
-  },
-  {
     "title": "“Crunch” Open Source Texture Compression Library vs. U.S. Patent",
     "url": "https://richg42.blogspot.com/2012/07/the-saga-of-crunch.html",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "pabs3",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27467730"
   },
   {
+    "title": "The Amateur Photographers of Midcentury São Paulo",
+    "url": "https://www.theparisreview.org/blog/2021/05/21/the-amateur-photographers-of-midcentury-sao-paulo/",
+    "upvotes": 25,
+    "author": "tintinnabula",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27455231"
+  },
+  {
+    "title": "Dinocrates, Alexander the Great and the inspiration behind Mount Rushmore",
+    "url": "https://neoskosmos.com/en/147872/dinocrates-and-mount-rushmore/",
+    "upvotes": 4,
+    "author": "diodorus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27455500"
+  },
+  {
+    "title": "Using aligned word vectors for instant translations with Python and Rust",
+    "url": "https://instantdomainsearch.com/engineering/how-to-use-fasttext-for-instant-translations",
+    "upvotes": 79,
+    "author": "beau",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27465287"
+  },
+  {
+    "title": "Chrome abandons 'simplified domain experiment' in omnibar",
+    "url": "https://bugs.chromium.org/p/chromium/issues/detail?id=1090393#c75",
+    "upvotes": 136,
+    "author": "uncertainrhymes",
+    "comments": 58,
+    "link": "https://news.ycombinator.com/item?id=27467215"
+  },
+  {
+    "title": "A robot to replace the need for farmers to go inside the grain bin",
+    "url": "https://www.agweb.com/news/business/technology/robot-replace-need-farmers-go-inside-grain-bin",
+    "upvotes": 147,
+    "author": "ryansouza",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=27462200"
+  },
+  {
     "title": "The Prison Cell of Ludger Sylbaris",
     "url": "https://www.atlasobscura.com/places/the-prison-cell-of-ludger-sylbaris-saint-pierre-martinique",
-    "upvotes": 27,
+    "upvotes": 28,
     "author": "tjalfi",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27454070"
   },
   {
-    "title": "AWS Frankfurt Status: Engineers are still not able to enter the affected part",
-    "url": "https://status.aws.amazon.com/#EU_block",
-    "upvotes": 44,
-    "author": "jabo",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27466678"
+    "title": "Rqlite 6.0: the evolution of a distributed database design",
+    "url": "https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/",
+    "upvotes": 171,
+    "author": "otoolep",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27460022"
   },
   {
     "title": "The Fermi-Pasta-Ulam-Tsingou problem: A foray into the beautifully simple",
     "url": "https://3quarksdaily.com/3quarksdaily/2020/01/the-fermi-pasta-ulam-tsingou-problem-a-foray-into-the-beautifully-simple-and-the-simply-beautiful.html",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "Anon84",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27465837"
-  },
-  {
-    "title": "Rqlite 6.0: the evolution of a distributed database design",
-    "url": "https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/",
-    "upvotes": 170,
-    "author": "otoolep",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27460022"
   },
   {
     "title": "Using Argo to Train Predictive Models at FlightAware",
@@ -212,27 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=27464445"
   },
   {
-    "title": "Link shorteners: the long and short of why you shouldn’t use them",
-    "url": "https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/",
-    "upvotes": 212,
-    "author": "edent",
-    "comments": 133,
-    "link": "https://news.ycombinator.com/item?id=27462261"
+    "title": "Airbnb Support Is Shit",
+    "url": "item?id=27468549",
+    "upvotes": 12,
+    "author": "realjohng",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27468549"
   },
   {
-    "title": "Heart inflammation cases in young men higher than expected after mRNA vaccines",
-    "url": "https://www.reuters.com/world/us/cdc-heart-inflammation-cases-ages-16-24-higher-than-expected-after-mrna-covid-19-2021-06-10/",
-    "upvotes": 398,
-    "author": "smaili",
-    "comments": 285,
-    "link": "https://news.ycombinator.com/item?id=27463732"
+    "title": "Link shorteners: the long and short of why you shouldn’t use them",
+    "url": "https://gcs.civilservice.gov.uk/blog/link-shorteners-the-long-and-short-of-why-you-shouldnt-use-them/",
+    "upvotes": 216,
+    "author": "edent",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=27462261"
   },
   {
     "title": "My startup journey",
     "url": "https://johnjianwang.medium.com/my-startup-journey-dcf86a38676d",
-    "upvotes": 133,
+    "upvotes": 135,
     "author": "mkx",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27462194"
   }
 ]
