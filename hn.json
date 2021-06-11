@@ -1,16 +1,8 @@
 [
   {
-    "title": "Microsoft will end Windows 10 support in 2025",
-    "url": "https://winaero.com/microsoft-will-end-windows-10-support-in-2025/",
-    "upvotes": 43,
-    "author": "behnamoh",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27476032"
-  },
-  {
     "title": "ALiEn – a GPU-accelerated artificial life simulation program",
     "url": "https://alien-project.org/",
-    "upvotes": 538,
+    "upvotes": 559,
     "author": "tosh",
     "comments": 108,
     "link": "https://news.ycombinator.com/item?id=27472224"
@@ -18,41 +10,49 @@
   {
     "title": "Zero downtime Postgres migration, done right",
     "url": "https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/",
-    "upvotes": 122,
+    "upvotes": 130,
     "author": "rigaspapas",
-    "comments": 47,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27473788"
+  },
+  {
+    "title": "Microsoft will end Windows 10 support in 2025",
+    "url": "https://winaero.com/microsoft-will-end-windows-10-support-in-2025/",
+    "upvotes": 76,
+    "author": "behnamoh",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=27476032"
   },
   {
     "title": "NVMe is not a hard disk",
     "url": "https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html",
-    "upvotes": 113,
+    "upvotes": 118,
     "author": "omnibrain",
-    "comments": 91,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=27474082"
-  },
-  {
-    "title": "Launch HN: Slingshow (YC W20) – Easily build custom virtual events and webinars",
-    "url": "item?id=27474808",
-    "upvotes": 47,
-    "author": "nilaymodi123",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27474808"
   },
   {
     "title": "Wildland – open data management protocol",
     "url": "https://wildland.io/",
-    "upvotes": 84,
+    "upvotes": 86,
     "author": "omnibrain",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27473180"
+  },
+  {
+    "title": "Launch HN: Slingshow (YC W20) – Easily build custom virtual events and webinars",
+    "url": "item?id=27474808",
+    "upvotes": 48,
+    "author": "nilaymodi123",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27474808"
   },
   {
     "title": "OpenRGB: Open-source RGB lighting control",
     "url": "https://openrgb.org/",
-    "upvotes": 127,
+    "upvotes": 131,
     "author": "pabs3",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27457696"
   },
   {
@@ -62,23 +62,31 @@
   {
     "title": "New York Senate Passes Right to Repair Bill",
     "url": "https://www.ifixit.com/News/50722/victory-new-york-senate-passes-landmark-right-to-repair-bill",
-    "upvotes": 393,
+    "upvotes": 398,
     "author": "tk75x",
     "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27472083"
   },
   {
+    "title": "Surprising Shared Word Etymologies",
+    "url": "https://www.danielde.dev/blog/surprising-shared-word-etymologies/",
+    "upvotes": 17,
+    "author": "DanielDe",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27475193"
+  },
+  {
     "title": "The NSA Instruction",
     "url": "https://vaibhavsagar.com/blog/2019/09/08/popcount/",
-    "upvotes": 183,
+    "upvotes": 184,
     "author": "cjg",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27470529"
   },
   {
     "title": "Wapp – A Web-Application Framework for Tcl",
     "url": "https://wapp.tcl.tk/home/doc/trunk/README.md",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "Tomte",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27472473"
@@ -86,7 +94,7 @@
   {
     "title": "Fractalrabbit: Simulate realistic trajectory data from sporadic reporting",
     "url": "https://github.com/NationalSecurityAgency/fractalrabbit",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "danso",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27446524"
@@ -94,7 +102,7 @@
   {
     "title": "OpenHistoricalMap",
     "url": "https://www.openhistoricalmap.org/",
-    "upvotes": 293,
+    "upvotes": 294,
     "author": "Tijdreiziger",
     "comments": 80,
     "link": "https://news.ycombinator.com/item?id=27469715"
@@ -102,57 +110,49 @@
   {
     "title": "The U.S. Government’s Failed Attempt to Forge Unity Through Currency",
     "url": "https://www.smithsonianmag.com/history/free-silver-movements-failed-attempt-forge-unity-through-currency-180977966/",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "samizdis",
-    "comments": 28,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27472475"
-  },
-  {
-    "title": "The Teaching of Arithmetic I: The Story of an experiment",
-    "url": "http://www.inference.org.uk/sanjoy/benezet/1.html",
-    "upvotes": 16,
-    "author": "barry-cotter",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27458135"
   },
   {
     "title": "Kopia – Fast and Secure Open-Source Backup",
     "url": "https://kopia.io/",
-    "upvotes": 57,
+    "upvotes": 64,
     "author": "chetangoti",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27471945"
   },
   {
-    "title": "Surprising Shared Word Etymologies",
-    "url": "https://www.danielde.dev/blog/surprising-shared-word-etymologies/",
-    "upvotes": 9,
-    "author": "DanielDe",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27475193"
-  },
-  {
-    "title": "Legislation would unmask third-party sellers, but Amazon is fighting it",
-    "url": "https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/",
-    "upvotes": 31,
-    "author": "ProAm",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27475291"
+    "title": "The Teaching of Arithmetic I: The Story of an experiment",
+    "url": "http://www.inference.org.uk/sanjoy/benezet/1.html",
+    "upvotes": 17,
+    "author": "barry-cotter",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27458135"
   },
   {
     "title": "How to average floating point numbers",
     "url": "https://www.nu42.com/2015/03/how-you-average-numbers.html",
-    "upvotes": 102,
+    "upvotes": 103,
     "author": "dolmen",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27470323"
+  },
+  {
+    "title": "Legislation would unmask third-party sellers, but Amazon is fighting it",
+    "url": "https://arstechnica.com/tech-policy/2021/06/amazon-ebay-fight-legislation-that-would-unmask-third-party-sellers/",
+    "upvotes": 36,
+    "author": "ProAm",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27475291"
   },
   {
     "title": "The Colors We Share [video]",
     "url": "https://www.youtube.com/watch?v=xiWWldiUKPw",
     "upvotes": 43,
     "author": "brudgers",
-    "comments": 14,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27456062"
   },
   {
@@ -160,8 +160,24 @@
     "url": "https://acoup.blog/2021/06/11/collections-the-queens-latin-or-who-were-the-romans-part-i-beginnings-and-legends/",
     "upvotes": 93,
     "author": "parsecs",
-    "comments": 70,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=27469724"
+  },
+  {
+    "title": "Plan2Scene: Converting Floorplans to 3D Scenes",
+    "url": "https://3dlg-hcvc.github.io/plan2scene/",
+    "upvotes": 136,
+    "author": "homarp",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27470136"
+  },
+  {
+    "title": "Third member of U.S. FDA advisory panel resigns over Alzheimer’s drug approval",
+    "url": "https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/",
+    "upvotes": 184,
+    "author": "mrfusion",
+    "comments": 142,
+    "link": "https://news.ycombinator.com/item?id=27472107"
   },
   {
     "title": "Changes to Chrome OS’s release cycle",
@@ -172,67 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=27474354"
   },
   {
-    "title": "Third member of U.S. FDA advisory panel resigns over Alzheimer’s drug approval",
-    "url": "https://www.reuters.com/world/us/third-member-us-fda-advisory-panel-resigns-over-alzheimers-drug-approval-2021-06-10/",
-    "upvotes": 177,
-    "author": "mrfusion",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=27472107"
-  },
-  {
     "title": "Linux-Kernel: Printk",
     "url": "https://lwn.net/Articles/857148/",
-    "upvotes": 65,
+    "upvotes": 66,
     "author": "signa11",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27471141"
   },
   {
-    "title": "Plan2Scene: Converting Floorplans to 3D Scenes",
-    "url": "https://3dlg-hcvc.github.io/plan2scene/",
-    "upvotes": 134,
-    "author": "homarp",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27470136"
-  },
-  {
-    "title": "EA got hacked and games source code leaked including new game Battlefield 2042",
-    "url": "https://www.bbc.com/news/technology-57431987",
-    "upvotes": 169,
-    "author": "NmAmDa",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=27468766"
-  },
-  {
-    "title": "Big Dice Games Acquires Risus: The Anything RPG",
-    "url": "https://rolltop-indigo.blogspot.com/2021/06/big-dice-games-acquires-risus-anything.html",
-    "upvotes": 7,
-    "author": "BerislavLopac",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27458958"
+    "title": "Hackers Used Slack to Break into EA Games",
+    "url": "https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack",
+    "upvotes": 22,
+    "author": "danso",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27473038"
   },
   {
     "title": "Mathematics Cheat Sheet [pdf]",
     "url": "https://ourway.keybase.pub/mathematics_cheat_sheet.pdf",
-    "upvotes": 189,
+    "upvotes": 193,
     "author": "weatherlight",
-    "comments": 55,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27468908"
-  },
-  {
-    "title": "Congress Is Going to Throw the Kitchen Sink at Big Tech",
-    "url": "https://bigtechnology.substack.com/p/congress-is-going-to-throw-the-kitchen",
-    "upvotes": 71,
-    "author": "kantrowitz",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=27473907"
   },
   {
     "title": "Why Can’t I Sleep?",
     "url": "https://www.ucsf.edu/magazine/why-cant-i-sleep",
-    "upvotes": 133,
+    "upvotes": 140,
     "author": "giuliomagnifico",
-    "comments": 212,
+    "comments": 220,
     "link": "https://news.ycombinator.com/item?id=27458974"
+  },
+  {
+    "title": "NASA hacked because of unauthorized Raspberry Pi connected to its network",
+    "url": "https://www.zdnet.com/article/nasa-hacked-because-of-unauthorized-raspberry-pi-connected-to-its-network/",
+    "upvotes": 6,
+    "author": "Brajeshwar",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27476283"
+  },
+  {
+    "title": "GNU Coding Standards: Writing Robust Programs",
+    "url": "https://www.gnu.org/prep/standards/standards.html#Semantics",
+    "upvotes": 99,
+    "author": "mpsq",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=27459169"
   }
 ]
