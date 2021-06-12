@@ -2,41 +2,57 @@
   {
     "title": "How to Win at Risk Every Time by Using Systems Thinking",
     "url": "https://thesystemisdown.substack.com/p/how-to-win-at-risk-every-time-by",
-    "upvotes": 182,
+    "upvotes": 212,
     "author": "AndyMPatton",
-    "comments": 100,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=27484288"
+  },
+  {
+    "title": "Translating Quake 3 into Rust",
+    "url": "https://immunant.com/blog/2020/01/quake3/",
+    "upvotes": 25,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27485813"
   },
   {
     "title": "May 2021 Coordinated Inauthentic Behavior Report",
     "url": "https://about.fb.com/news/2021/06/may-2021-coordinated-inauthentic-behavior-report/",
-    "upvotes": 18,
+    "upvotes": 34,
     "author": "rainhacker",
-    "comments": 3,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27485580"
   },
   {
     "title": "D3 v7 Released",
     "url": "https://github.com/d3/d3/releases/tag/v7.0.0",
-    "upvotes": 47,
+    "upvotes": 73,
     "author": "cltsang",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27485123"
   },
   {
     "title": "Do You Really Need Redis? How to Get Away with Just PostgreSQL",
     "url": "https://spin.atomicobject.com/2021/02/04/redis-postgresql/",
-    "upvotes": 525,
+    "upvotes": 558,
     "author": "hyzyla",
-    "comments": 311,
+    "comments": 331,
     "link": "https://news.ycombinator.com/item?id=27482243"
+  },
+  {
+    "title": "The Modern Mathematics of Deep Learning",
+    "url": "https://arxiv.org/abs/2105.04026",
+    "upvotes": 24,
+    "author": "tims457",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27485574"
   },
   {
     "title": "Burnout from an Organizational Perspective",
     "url": "https://ssir.org/articles/entry/burnout_from_an_organizational_perspective",
-    "upvotes": 22,
+    "upvotes": 39,
     "author": "rustoo",
-    "comments": null,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27485270"
   },
   {
@@ -44,195 +60,179 @@
     "url": "item?id=27485767"
   },
   {
+    "title": "How to Think Clearly",
+    "url": "https://psyche.co/guides/how-to-think-clearly-to-improve-understanding-and-communication",
+    "upvotes": 20,
+    "author": "prostoalex",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27474487"
+  },
+  {
     "title": "A popular household fern may be the first known eusocial plant",
     "url": "http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/",
-    "upvotes": 103,
+    "upvotes": 113,
     "author": "pseudolus",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27483442"
   },
   {
     "title": "SSH quoting",
     "url": "https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html",
-    "upvotes": 143,
+    "upvotes": 159,
     "author": "pabs3",
-    "comments": 39,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27483077"
-  },
-  {
-    "title": "Evolution of code deployment tools at Mixpanel",
-    "url": "https://engineering.mixpanel.com/evolution-of-code-deployment-tools-at-mixpanel-210b99926cd4",
-    "upvotes": 31,
-    "author": "i0exception",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27484710"
   },
   {
     "title": "LinearMouse – A minimal app to get rid of scrolling acceleration on macOS",
     "url": "https://linearmouse.lujjjh.com/",
-    "upvotes": 18,
+    "upvotes": 25,
     "author": "lujjjh",
-    "comments": 6,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27485051"
   },
   {
     "title": "NymphCast – Open-source Chromecast Alternative",
     "url": "https://github.com/MayaPosch/NymphCast/",
-    "upvotes": 156,
+    "upvotes": 167,
     "author": "nedp",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27482699"
-  },
-  {
-    "title": "Electron vs. Qt for a new open-source project? Looking for Advice.",
-    "url": "https://www.zynath.com/articles/bin-finder-2/",
-    "upvotes": 22,
-    "author": "x0054",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27485193"
-  },
-  {
-    "title": "Etymology of the Word “Lord”",
-    "url": "https://www.etymonline.com/word/lord",
-    "upvotes": 27,
-    "author": "jasim",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27483876"
-  },
-  {
-    "title": "Show HN: LANDrop – A cross-platform AirDrop-like file transfer tool",
-    "url": "https://landrop.app/",
-    "upvotes": 198,
-    "author": "yvbbrjdr",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=27481465"
   },
   {
     "title": "Particle seen switching between matter and antimatter at CERN",
     "url": "https://newatlas.com/physics/charm-meson-particle-matter-antimatter/",
-    "upvotes": 19,
+    "upvotes": 35,
     "author": "birriel",
-    "comments": null,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27483949"
   },
   {
-    "title": "How Fighter Jets Lock On, and How the Targets Know",
-    "url": "https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272",
-    "upvotes": 218,
-    "author": "ushakov",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=27483412"
+    "title": "Evolution of code deployment tools at Mixpanel",
+    "url": "https://engineering.mixpanel.com/evolution-of-code-deployment-tools-at-mixpanel-210b99926cd4",
+    "upvotes": 34,
+    "author": "i0exception",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27484710"
+  },
+  {
+    "title": "Silent Data Corruptions at Scale",
+    "url": "http://muratbuffalo.blogspot.com/2021/06/silent-data-corruptions-at-scale.html",
+    "upvotes": 25,
+    "author": "zdw",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27484866"
+  },
+  {
+    "title": "Etymology of the Word “Lord”",
+    "url": "https://www.etymonline.com/word/lord",
+    "upvotes": 32,
+    "author": "jasim",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27483876"
+  },
+  {
+    "title": "Scientists Find Second ‘Short Sleep’ Gene",
+    "url": "https://www.ucsf.edu/news/2019/08/415261/after-10-year-search-scientists-find-second-short-sleep-gene",
+    "upvotes": 6,
+    "author": "fybs",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27485288"
+  },
+  {
+    "title": "Detectives Just Used DNA to Solve a 1956 Double Homicide",
+    "url": "https://www.npr.org/2021/06/12/1005690930/detectives-just-used-dna-to-solve-a-1956-double-homicide-they-may-have-made-hist",
+    "upvotes": 5,
+    "author": "yskchu",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27485475"
+  },
+  {
+    "title": "Show HN: LANDrop – A cross-platform AirDrop-like file transfer tool",
+    "url": "https://landrop.app/",
+    "upvotes": 205,
+    "author": "yvbbrjdr",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=27481465"
   },
   {
     "title": "The SO_LINGER page, or: why is my TCP not reliable",
     "url": "https://blog.netherlabs.nl/articles/2009/01/18/the-ultimate-so_linger-page-or-why-is-my-tcp-not-reliable",
-    "upvotes": 20,
+    "upvotes": 28,
     "author": "bluestreak",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27484100"
   },
   {
+    "title": "How Fighter Jets Lock On, and How the Targets Know",
+    "url": "https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272",
+    "upvotes": 236,
+    "author": "ushakov",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=27483412"
+  },
+  {
     "title": "The art of Front end Engineering",
     "url": "https://narative.co/articles/the-art-of-frontend-engineering",
-    "upvotes": 22,
+    "upvotes": 30,
     "author": "kintalo",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27484706"
-  },
-  {
-    "title": "Silent Data Corruptions at Scale",
-    "url": "http://muratbuffalo.blogspot.com/2021/06/silent-data-corruptions-at-scale.html",
-    "upvotes": 17,
-    "author": "zdw",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27484866"
-  },
-  {
-    "title": "Refinement Culture",
-    "url": "https://paulskallas.substack.com/p/refinement-culture",
-    "upvotes": 81,
-    "author": "ptr",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27483207"
   },
   {
     "title": "The Weird Science of Edgar Allan Poe",
     "url": "https://www.theatlantic.com/magazine/archive/2021/07/john-tresch-edgar-allan-poe-science/619014/",
-    "upvotes": 25,
+    "upvotes": 28,
     "author": "pseudolus",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27471462"
   },
   {
-    "title": "News Entropy",
-    "url": "https://ssrn.com/abstract=3820449",
-    "upvotes": 8,
-    "author": "Naa4",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27483833"
+    "title": "Refinement Culture",
+    "url": "https://paulskallas.substack.com/p/refinement-culture",
+    "upvotes": 90,
+    "author": "ptr",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27483207"
   },
   {
     "title": "Ask HN: Tools you have made for yourself?",
     "url": "item?id=27482397",
-    "upvotes": 48,
+    "upvotes": 68,
     "author": "themantri",
-    "comments": 43,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27482397"
+  },
+  {
+    "title": "News Entropy",
+    "url": "https://ssrn.com/abstract=3820449",
+    "upvotes": 13,
+    "author": "Naa4",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27483833"
   },
   {
     "title": "Ask HN: Would it be educational to map error messages to common mistakes?",
     "url": "item?id=27471331",
-    "upvotes": 12,
+    "upvotes": 17,
     "author": "melvinroest",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27471331"
+  },
+  {
+    "title": "Few people know that Google voluntarily removes some search results",
+    "url": "https://twitter.com/kashhill/status/1402986015107653647",
+    "upvotes": 690,
+    "author": "danso",
+    "comments": 276,
+    "link": "https://news.ycombinator.com/item?id=27477797"
   },
   {
     "title": "A Mycological Foray: A new look at John Cage and his mushroom obsession",
     "url": "https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/",
     "upvotes": 40,
     "author": "hooboy",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27481830"
-  },
-  {
-    "title": "The PsychDOS Desktop Environment",
-    "url": "https://psychoslinux.gitlab.io/DOS/INDEX.HTM",
-    "upvotes": 102,
-    "author": "marttt",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27481705"
-  },
-  {
-    "title": "Few people know that Google voluntarily removes some search results",
-    "url": "https://twitter.com/kashhill/status/1402986015107653647",
-    "upvotes": 686,
-    "author": "danso",
-    "comments": 272,
-    "link": "https://news.ycombinator.com/item?id=27477797"
-  },
-  {
-    "title": "Reverse Engineering Bumble’s API",
-    "url": "https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87",
-    "upvotes": 114,
-    "author": "stevekemp",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27481272"
-  },
-  {
-    "title": "1992: Silverwolf",
-    "url": "https://if50.substack.com/p/1992-silverwolf",
-    "upvotes": 39,
-    "author": "JohnHammersley",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27482235"
-  },
-  {
-    "title": "Beware of Tight Feedback Loops",
-    "url": "https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/",
-    "upvotes": 75,
-    "author": "ZephyrBlu",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27482067"
   }
 ]
