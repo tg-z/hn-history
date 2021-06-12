@@ -2,39 +2,63 @@
   {
     "title": "Do You Really Need Redis? How to Get Away with Just PostgreSQL",
     "url": "https://spin.atomicobject.com/2021/02/04/redis-postgresql/",
-    "upvotes": 198,
+    "upvotes": 213,
     "author": "hyzyla",
-    "comments": 128,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=27482243"
   },
   {
     "title": "NymphCast – open-source Chromecast Alternative",
     "url": "https://github.com/MayaPosch/NymphCast/",
-    "upvotes": 48,
+    "upvotes": 63,
     "author": "nedp",
-    "comments": 4,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27482699"
+  },
+  {
+    "title": "How Fighter Jets Lock on",
+    "url": "https://gizmodo.com/how-fighter-jets-lock-on-and-how-the-targets-know-1644871272",
+    "upvotes": 7,
+    "author": "ushakov",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27483412"
   },
   {
     "title": "Few people know that Google voluntarily removes some search results",
     "url": "https://twitter.com/kashhill/status/1402986015107653647",
-    "upvotes": 625,
+    "upvotes": 631,
     "author": "danso",
-    "comments": 248,
+    "comments": 249,
     "link": "https://news.ycombinator.com/item?id=27477797"
+  },
+  {
+    "title": "SSH quoting",
+    "url": "https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html",
+    "upvotes": 18,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27483077"
   },
   {
     "title": "Show HN: LANDrop – A cross-platform AirDrop-like file transfer tool",
     "url": "https://landrop.app/",
-    "upvotes": 96,
+    "upvotes": 102,
     "author": "yvbbrjdr",
-    "comments": 36,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27481465"
+  },
+  {
+    "title": "A popular household fern may be the first known eusocial plant",
+    "url": "http://blog.pnas.org/2021/06/a-popular-household-fern-may-be-the-first-known-eusocial-plant/",
+    "upvotes": 4,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27483442"
   },
   {
     "title": "Finding a CPU Design Bug in the Xbox 360",
     "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
-    "upvotes": 158,
+    "upvotes": 163,
     "author": "salgernon",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27480448"
@@ -42,74 +66,82 @@
   {
     "title": "Containers are tents",
     "url": "https://increment.com/containers/containers-vs-vms/",
-    "upvotes": 116,
+    "upvotes": 118,
     "author": "vmarsy",
-    "comments": 51,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27480496"
-  },
-  {
-    "title": "The PsychDOS Desktop Environment",
-    "url": "https://psychoslinux.gitlab.io/DOS/INDEX.HTM",
-    "upvotes": 59,
-    "author": "marttt",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27481705"
   },
   {
     "title": "Beware of Tight Feedback Loops",
     "url": "https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/",
-    "upvotes": 26,
+    "upvotes": 30,
     "author": "ZephyrBlu",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27482067"
   },
   {
+    "title": "The PsychDOS Desktop Environment",
+    "url": "https://psychoslinux.gitlab.io/DOS/INDEX.HTM",
+    "upvotes": 60,
+    "author": "marttt",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27481705"
+  },
+  {
     "title": "Reverse Engineering Bumble’s API",
     "url": "https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "stevekemp",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27481272"
   },
   {
+    "title": "Hilbert's Paradox of the Grand Hotel",
+    "url": "https://en.wikipedia.org/wiki/Hilbert%27s_paradox_of_the_Grand_Hotel",
+    "upvotes": 3,
+    "author": "belter",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27482910"
+  },
+  {
     "title": "Fitting a FORTH in 512 bytes",
     "url": "https://niedzejkob.p4.team/bootstrap/miniforth/",
-    "upvotes": 163,
+    "upvotes": 164,
     "author": "jpegqs",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27468698"
   },
   {
-    "title": "SSH quoting",
-    "url": "https://www.chiark.greenend.org.uk/~cjwatson/blog/ssh-quoting.html",
+    "title": "Refinement Culture",
+    "url": "https://paulskallas.substack.com/p/refinement-culture",
     "upvotes": 3,
-    "author": "pabs3",
+    "author": "ptr",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27483077"
+    "link": "https://news.ycombinator.com/item?id=27483207"
+  },
+  {
+    "title": "Europe is now a corporate also-ran. Can it recover its footing?",
+    "url": "https://www.economist.com/briefing/2021/06/05/once-a-corporate-heavyweight-europe-is-now-an-also-ran-can-it-recover-its-footing",
+    "upvotes": 148,
+    "author": "N1H1L",
+    "comments": 572,
+    "link": "https://news.ycombinator.com/item?id=27479428"
+  },
+  {
+    "title": "Telautograph",
+    "url": "https://en.wikipedia.org/wiki/Telautograph",
+    "upvotes": 5,
+    "author": "nanna",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27483165"
   },
   {
     "title": "Responsive images",
     "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images",
     "upvotes": 37,
     "author": "Tomte",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27472051"
-  },
-  {
-    "title": "Europe is now a corporate also-ran. Can it recover its footing?",
-    "url": "https://www.economist.com/briefing/2021/06/05/once-a-corporate-heavyweight-europe-is-now-an-also-ran-can-it-recover-its-footing",
-    "upvotes": 145,
-    "author": "N1H1L",
-    "comments": 531,
-    "link": "https://news.ycombinator.com/item?id=27479428"
-  },
-  {
-    "title": "The Crown Estate",
-    "url": "https://www.dw.com/en/the-crown-estate-the-mysterious-property-empire-behind-queen-elizabeth-ii/a-57821897",
-    "upvotes": 17,
-    "author": "samizdis",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27458421"
   },
   {
     "title": "A Mycological Foray: A new look at John Cage and his mushroom obsession",
@@ -120,33 +152,49 @@
     "link": "https://news.ycombinator.com/item?id=27481830"
   },
   {
-    "title": "'I was completely inside': Lobster diver swallowed by humpback whale",
-    "url": "https://capecodtimes.com/story/news/2021/06/11/humpback-whale-catches-michael-packard-lobster-driver-mouth-proviencetown-cape-cod/7653838002/",
-    "upvotes": 330,
-    "author": "tpmx",
-    "comments": 105,
-    "link": "https://news.ycombinator.com/item?id=27479712"
-  },
-  {
-    "title": "Surprising Shared Word Etymologies",
-    "url": "https://www.danielde.dev/blog/surprising-shared-word-etymologies/",
-    "upvotes": 209,
-    "author": "DanielDe",
-    "comments": 124,
-    "link": "https://news.ycombinator.com/item?id=27475193"
-  },
-  {
     "title": "Dinomania",
     "url": "https://www.nybooks.com/articles/1993/08/12/dinomania/",
-    "upvotes": 6,
+    "upvotes": 7,
     "author": "howsilly",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27481912"
   },
   {
+    "title": "The Crown Estate",
+    "url": "https://www.dw.com/en/the-crown-estate-the-mysterious-property-empire-behind-queen-elizabeth-ii/a-57821897",
+    "upvotes": 19,
+    "author": "samizdis",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27458421"
+  },
+  {
+    "title": "1992: Silverwolf",
+    "url": "https://if50.substack.com/p/1992-silverwolf",
+    "upvotes": 3,
+    "author": "JohnHammersley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27482235"
+  },
+  {
+    "title": "Surprising Shared Word Etymologies",
+    "url": "https://www.danielde.dev/blog/surprising-shared-word-etymologies/",
+    "upvotes": 211,
+    "author": "DanielDe",
+    "comments": 125,
+    "link": "https://news.ycombinator.com/item?id=27475193"
+  },
+  {
+    "title": "'I was completely inside': Lobster diver swallowed by humpback whale",
+    "url": "https://capecodtimes.com/story/news/2021/06/11/humpback-whale-catches-michael-packard-lobster-driver-mouth-proviencetown-cape-cod/7653838002/",
+    "upvotes": 333,
+    "author": "tpmx",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=27479712"
+  },
+  {
     "title": "Guix: Unifying provisioning, deployment, and management in the age of containers",
     "url": "https://archive.fosdem.org/2020/schedule/event/guix/",
-    "upvotes": 137,
+    "upvotes": 139,
     "author": "teleforce",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27477230"
@@ -156,7 +204,7 @@
     "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723",
     "upvotes": 88,
     "author": "bretpiatt",
-    "comments": 54,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27479731"
   },
   {
@@ -170,73 +218,25 @@
   {
     "title": "Desertification in Romania",
     "url": "https://www.geographyrealm.com/desertification-in-romania/",
-    "upvotes": 92,
+    "upvotes": 95,
     "author": "jxub",
-    "comments": 27,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27478660"
-  },
-  {
-    "title": "Trace fossils, the most inconspicuous bite-sized window into ancient worlds",
-    "url": "https://arstechnica.com/?p=1767257",
-    "upvotes": 8,
-    "author": "feross",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27472161"
   },
   {
     "title": "It’s time to break up the Ivy League cartel",
     "url": "https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education",
-    "upvotes": 269,
+    "upvotes": 273,
     "author": "hecubus",
-    "comments": 271,
+    "comments": 275,
     "link": "https://news.ycombinator.com/item?id=27478647"
   },
   {
     "title": "Show HN: A flow based data processing editor",
     "url": "https://datablocks.pro/",
-    "upvotes": 164,
+    "upvotes": 168,
     "author": "moklick",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27459664"
-  },
-  {
-    "title": "ALiEn – a GPU-accelerated artificial life simulation program",
-    "url": "https://alien-project.org/",
-    "upvotes": 766,
-    "author": "tosh",
-    "comments": 185,
-    "link": "https://news.ycombinator.com/item?id=27472224"
-  },
-  {
-    "title": "Britain’s destruction and concealment of colonial records",
-    "url": "https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256",
-    "upvotes": 108,
-    "author": "hhs",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27479809"
-  },
-  {
-    "title": "The strange case of Charles Kellogg, nature singer",
-    "url": "https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music",
-    "upvotes": 32,
-    "author": "newest",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27479840"
-  },
-  {
-    "title": "J. Kenji López-Alt is Seattle’s reluctant powerful food influencer",
-    "url": "https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/",
-    "upvotes": 249,
-    "author": "unpredict",
-    "comments": 142,
-    "link": "https://news.ycombinator.com/item?id=27478493"
-  },
-  {
-    "title": "Lesser Known Terminal Editors",
-    "url": "https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors",
-    "upvotes": 48,
-    "author": "Fudgel",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27481277"
   }
 ]
