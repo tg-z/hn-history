@@ -1,131 +1,139 @@
 [
   {
+    "title": "Do you need Redis? how to get away with just Postgres",
+    "url": "https://spin.atomicobject.com/2021/02/04/redis-postgresql/",
+    "upvotes": 13,
+    "author": "hyzyla",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27482243"
+  },
+  {
     "title": "Few people know that Google voluntarily removes some search results",
     "url": "https://twitter.com/kashhill/status/1402986015107653647",
-    "upvotes": 549,
+    "upvotes": 560,
     "author": "danso",
-    "comments": 232,
+    "comments": 233,
     "link": "https://news.ycombinator.com/item?id=27477797"
   },
   {
     "title": "Finding a CPU Design Bug in the Xbox 360",
     "url": "https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/",
-    "upvotes": 116,
+    "upvotes": 121,
     "author": "salgernon",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27480448"
   },
   {
     "title": "Reverse Engineering Bumble’s API",
     "url": "https://blog.securityevaluators.com/reverse-engineering-bumbles-api-a2a0d39b3a87",
-    "upvotes": 45,
+    "upvotes": 52,
     "author": "stevekemp",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27481272"
   },
   {
     "title": "Containers Are Tents",
     "url": "https://increment.com/containers/containers-vs-vms/",
-    "upvotes": 75,
+    "upvotes": 78,
     "author": "vmarsy",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27480496"
   },
   {
     "title": "Show HN: LANDrop – A cross-platform AirDrop-like file transfer tool",
     "url": "https://landrop.app/",
-    "upvotes": 26,
+    "upvotes": 32,
     "author": "yvbbrjdr",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27481465"
-  },
-  {
-    "title": "Fitting a FORTH in 512 bytes",
-    "url": "https://niedzejkob.p4.team/bootstrap/miniforth/",
-    "upvotes": 131,
-    "author": "jpegqs",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27468698"
-  },
-  {
-    "title": "Death by Pokémon Go: the economic and human cost of using apps while driving",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723",
-    "upvotes": 77,
-    "author": "bretpiatt",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27479731"
-  },
-  {
-    "title": "A Mycological Foray: A new look at John Cage and his mushroom obsession",
-    "url": "https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/",
-    "upvotes": 6,
-    "author": "hooboy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27481830"
-  },
-  {
-    "title": "Europe is now a corporate also-ran. Can it recover its footing?",
-    "url": "https://www.economist.com/briefing/2021/06/05/once-a-corporate-heavyweight-europe-is-now-an-also-ran-can-it-recover-its-footing",
-    "upvotes": 94,
-    "author": "N1H1L",
-    "comments": 233,
-    "link": "https://news.ycombinator.com/item?id=27479428"
-  },
-  {
-    "title": "'I was completely inside': Lobster diver swallowed by humpback whale",
-    "url": "https://capecodtimes.com/story/news/2021/06/11/humpback-whale-catches-michael-packard-lobster-driver-mouth-proviencetown-cape-cod/7653838002/",
-    "upvotes": 272,
-    "author": "tpmx",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=27479712"
-  },
-  {
-    "title": "Lesser Known Terminal Editors",
-    "url": "https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors",
-    "upvotes": 29,
-    "author": "Fudgel",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27481277"
   },
   {
     "title": "The PsychDOS Desktop Environment",
     "url": "https://psychoslinux.gitlab.io/DOS/INDEX.HTM",
-    "upvotes": 8,
+    "upvotes": 13,
     "author": "marttt",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27481705"
   },
   {
-    "title": "Surprising Shared Word Etymologies",
-    "url": "https://www.danielde.dev/blog/surprising-shared-word-etymologies/",
-    "upvotes": 186,
-    "author": "DanielDe",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=27475193"
+    "title": "Fitting a FORTH in 512 bytes",
+    "url": "https://niedzejkob.p4.team/bootstrap/miniforth/",
+    "upvotes": 136,
+    "author": "jpegqs",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27468698"
   },
   {
-    "title": "Guix: Unifying provisioning, deployment, and management in the age of containers",
-    "url": "https://archive.fosdem.org/2020/schedule/event/guix/",
-    "upvotes": 114,
-    "author": "teleforce",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27477230"
+    "title": "A Mycological Foray: A new look at John Cage and his mushroom obsession",
+    "url": "https://glasstire.com/2020/07/11/a-mycological-foray-a-new-look-at-john-cage-and-his-mushroom-obsession/",
+    "upvotes": 8,
+    "author": "hooboy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27481830"
+  },
+  {
+    "title": "Death by Pokémon Go: the economic and human cost of using apps while driving",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3073723",
+    "upvotes": 80,
+    "author": "bretpiatt",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27479731"
+  },
+  {
+    "title": "Europe is now a corporate also-ran. Can it recover its footing?",
+    "url": "https://www.economist.com/briefing/2021/06/05/once-a-corporate-heavyweight-europe-is-now-an-also-ran-can-it-recover-its-footing",
+    "upvotes": 100,
+    "author": "N1H1L",
+    "comments": 259,
+    "link": "https://news.ycombinator.com/item?id=27479428"
+  },
+  {
+    "title": "'I was completely inside': Lobster diver swallowed by humpback whale",
+    "url": "https://capecodtimes.com/story/news/2021/06/11/humpback-whale-catches-michael-packard-lobster-driver-mouth-proviencetown-cape-cod/7653838002/",
+    "upvotes": 279,
+    "author": "tpmx",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=27479712"
+  },
+  {
+    "title": "The MiniDisc: the failure of a forgotten format",
+    "url": "https://bootcamp.uxdesign.cc/the-minidisc-the-failure-of-a-gorgotten-format-fdb691f6987f",
+    "upvotes": 6,
+    "author": "ecliptik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27469891"
+  },
+  {
+    "title": "Surprising Shared Word Etymologies",
+    "url": "https://www.danielde.dev/blog/surprising-shared-word-etymologies/",
+    "upvotes": 189,
+    "author": "DanielDe",
+    "comments": 105,
+    "link": "https://news.ycombinator.com/item?id=27475193"
   },
   {
     "title": "Responsive Images",
     "url": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "Tomte",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27472051"
   },
   {
-    "title": "The strange case of Charles Kellogg, nature singer",
-    "url": "https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music",
-    "upvotes": 26,
-    "author": "newest",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27479840"
+    "title": "Lesser Known Terminal Editors",
+    "url": "https://codeberg.org/CoopCoding/Lesser-Known-Terminal-Editors",
+    "upvotes": 30,
+    "author": "Fudgel",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=27481277"
+  },
+  {
+    "title": "Guix: Unifying provisioning, deployment, and management in the age of containers",
+    "url": "https://archive.fosdem.org/2020/schedule/event/guix/",
+    "upvotes": 115,
+    "author": "teleforce",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27477230"
   },
   {
     "title": "Launch HN: Slingshow (YC W20) – Easily build custom virtual events and webinars",
@@ -136,9 +144,17 @@
     "link": "https://news.ycombinator.com/item?id=27474808"
   },
   {
+    "title": "The strange case of Charles Kellogg, nature singer",
+    "url": "https://tedgioia.substack.com/p/the-man-who-put-out-fires-with-music",
+    "upvotes": 26,
+    "author": "newest",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27479840"
+  },
+  {
     "title": "Britain’s destruction and concealment of colonial records",
     "url": "https://www.tandfonline.com/doi/full/10.1080/03086534.2017.1294256",
-    "upvotes": 72,
+    "upvotes": 78,
     "author": "hhs",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27479809"
@@ -146,15 +162,15 @@
   {
     "title": "It’s time to break up the Ivy League cartel",
     "url": "https://www.chronicle.com/article/how-meritocracy-became-trickle-down-education",
-    "upvotes": 233,
+    "upvotes": 239,
     "author": "hecubus",
-    "comments": 230,
+    "comments": 235,
     "link": "https://news.ycombinator.com/item?id=27478647"
   },
   {
     "title": "J. Kenji López-Alt is Seattle’s reluctant powerful food influencer",
     "url": "https://www.seattletimes.com/life/food-drink/j-kenji-lopez-alt-is-seattles-most-powerful-food-influencer-and-its-most-reluctant-one/",
-    "upvotes": 234,
+    "upvotes": 238,
     "author": "unpredict",
     "comments": 126,
     "link": "https://news.ycombinator.com/item?id=27478493"
@@ -162,15 +178,19 @@
   {
     "title": "Show HN: A flow based data processing editor",
     "url": "https://datablocks.pro/",
-    "upvotes": 147,
+    "upvotes": 149,
     "author": "moklick",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27459664"
+  },
+  {
+    "title": "Rescale",
+    "url": "https://jobs.lever.co/rescale"
   },
   {
     "title": "Desertification in Romania",
     "url": "https://www.geographyrealm.com/desertification-in-romania/",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "jxub",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27478660"
@@ -178,61 +198,41 @@
   {
     "title": "ALiEn – a GPU-accelerated artificial life simulation program",
     "url": "https://alien-project.org/",
-    "upvotes": 754,
+    "upvotes": 757,
     "author": "tosh",
     "comments": 169,
     "link": "https://news.ycombinator.com/item?id=27472224"
   },
   {
-    "title": "Rescale",
-    "url": "https://jobs.lever.co/rescale"
-  },
-  {
     "title": "BuzzFeed News Has Won Its First Pulitzer Prize",
     "url": "https://www.buzzfeednews.com/article/davidmack/pulitzer-prize-buzzfeed-news-won-china-detention-camps",
-    "upvotes": 69,
+    "upvotes": 76,
     "author": "eganist",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27480666"
   },
   {
-    "title": "The World’s Northernmost Town",
-    "url": "https://www.scientificamerican.com/article/the-worlds-northernmost-town-is-changing-dramatically/",
-    "upvotes": 38,
-    "author": "sni",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27479739"
-  },
-  {
     "title": "Everything but the Stench",
     "url": "https://www.laphamsquarterly.org/roundtable/everything-stench",
-    "upvotes": 15,
+    "upvotes": 16,
     "author": "the-archivist",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27479701"
   },
   {
+    "title": "The World’s Northernmost Town",
+    "url": "https://www.scientificamerican.com/article/the-worlds-northernmost-town-is-changing-dramatically/",
+    "upvotes": 39,
+    "author": "sni",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27479739"
+  },
+  {
     "title": "Hackers used Slack to break into EA Games",
     "url": "https://www.vice.com/en/article/7kvkqb/how-ea-games-was-hacked-slack",
-    "upvotes": 319,
+    "upvotes": 323,
     "author": "danso",
     "comments": 184,
     "link": "https://news.ycombinator.com/item?id=27473038"
-  },
-  {
-    "title": "Zero downtime Postgres migration, done right",
-    "url": "https://engineering.theblueground.com/blog/zero-downtime-postgres-migration-done-right/",
-    "upvotes": 344,
-    "author": "rigaspapas",
-    "comments": 119,
-    "link": "https://news.ycombinator.com/item?id=27473788"
-  },
-  {
-    "title": "NVMe is not a hard disk",
-    "url": "https://blog.koehntopp.info/2021/05/25/nvme-is-not-a-hard-disk.html",
-    "upvotes": 226,
-    "author": "omnibrain",
-    "comments": 180,
-    "link": "https://news.ycombinator.com/item?id=27474082"
   }
 ]
