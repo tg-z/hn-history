@@ -2,237 +2,237 @@
   {
     "title": "The Elephant at WWDC",
     "url": "https://eclecticlight.co/2021/06/13/last-week-on-my-mac-the-elephant-at-wwdc/",
-    "upvotes": 36,
+    "upvotes": 67,
     "author": "ingve",
-    "comments": 7,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27492268"
   },
   {
     "title": "Rust 1.x seems to not always be backward compatible in practice",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/Rust1BackwardIncompatibility",
-    "upvotes": 69,
+    "upvotes": 83,
     "author": "sdht0",
-    "comments": 44,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27491512"
+  },
+  {
+    "title": "Doing something is better than doing nothing for most people – study",
+    "url": "https://news.virginia.edu/content/doing-something-better-doing-nothing-most-people-study-shows",
+    "upvotes": 15,
+    "author": "looperhacks",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27492352"
   },
   {
     "title": "Git for Computer Scientists",
     "url": "https://eagain.net/articles/git-for-computer-scientists/",
-    "upvotes": 76,
+    "upvotes": 85,
     "author": "thanato0s",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27491286"
-  },
-  {
-    "title": "Remote workers work longer, not more efficiently",
-    "url": "https://www.economist.com/business/2021/06/10/remote-workers-work-longer-not-more-efficiently",
-    "upvotes": 11,
-    "author": "Cutlets",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27492263"
   },
   {
     "title": "How to Handle Secrets on the Command Line",
     "url": "https://smallstep.com/blog/command-line-secrets/",
-    "upvotes": 139,
+    "upvotes": 152,
     "author": "tempodox",
-    "comments": 30,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27490885"
   },
   {
-    "title": "I Miss the Old Internet",
-    "url": "https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/",
-    "upvotes": 159,
-    "author": "sanmak",
-    "comments": 161,
-    "link": "https://news.ycombinator.com/item?id=27491537"
+    "title": "Remote workers work longer, not more efficiently",
+    "url": "https://www.economist.com/business/2021/06/10/remote-workers-work-longer-not-more-efficiently",
+    "upvotes": 40,
+    "author": "Cutlets",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27492263"
+  },
+  {
+    "title": "Why I have zero faith in crypto venture capitalists",
+    "url": "https://bennettftomlin.com/2021/06/12/why-i-have-zero-faith-in-crypto-venture-capitalists/",
+    "upvotes": 67,
+    "author": "shoto_io",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27492616"
   },
   {
     "title": "Goodbye Freenode",
     "url": "https://nedbatchelder.com/blog/202106/goodbye_freenode.html",
-    "upvotes": 52,
+    "upvotes": 76,
     "author": "Foxboron",
-    "comments": 10,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27491967"
+  },
+  {
+    "title": "My first Z80 assembly language program",
+    "url": "https://nanochess.org/notebook.html",
+    "upvotes": 16,
+    "author": "elvis70",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27483439"
   },
   {
     "title": "Show HN: I made a generator of art – Suprematism",
     "url": "https://tool.graphics/suprematism",
-    "upvotes": 7,
+    "upvotes": 16,
     "author": "andronov04",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27492244"
-  },
-  {
-    "title": "I want to learn D3. I don’t want to learn Observable. Is that ok?",
-    "url": "https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2",
-    "upvotes": 68,
-    "author": "throwawaybutwhy",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27490892"
   },
   {
     "title": "Clerky",
     "url": "https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN"
   },
   {
+    "title": "I Miss the Old Internet",
+    "url": "https://www.sffworld.com/forum/threads/i-miss-the-old-internet.57195/",
+    "upvotes": 171,
+    "author": "sanmak",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=27491537"
+  },
+  {
     "title": "Taildrop was kind of easy",
     "url": "https://tailscale.com/blog/2021-06-taildrop-was-easy/",
-    "upvotes": 272,
+    "upvotes": 280,
     "author": "tptacek",
-    "comments": 94,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=27480281"
+  },
+  {
+    "title": "Show HN: I curate HN stories which didn't reach the front page",
+    "url": "item?id=27492255",
+    "upvotes": 36,
+    "author": "bengtan",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27492255"
   },
   {
     "title": "Code 'meaning-making' helps creating more nuanced software",
     "url": "https://psytechread.substack.com/p/understanding-the-meaning-we-make",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "ricvolpe",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27483061"
   },
   {
+    "title": "I want to learn D3. I don’t want to learn Observable. Is that ok?",
+    "url": "https://talk.observablehq.com/t/i-want-to-learn-d3-i-don-t-want-to-learn-observable-is-that-ok/1957/2",
+    "upvotes": 77,
+    "author": "throwawaybutwhy",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=27490892"
+  },
+  {
     "title": "The Schindler of Japan, Chihune Sugihara",
     "url": "https://www.tokyoweekender.com/2021/06/chiune-sugihara-japanese-schindler/",
-    "upvotes": 193,
+    "upvotes": 196,
     "author": "se4u",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27489187"
   },
   {
-    "title": "Gemini is Useless",
-    "url": "https://alex.flounder.online/gemlog/2021-01-08-useless.gmi",
-    "upvotes": 111,
-    "author": "Melchizedek",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=27490769"
-  },
-  {
     "title": "So You Want to Write a Book?",
     "url": "https://press.ed2592.xyz/author/chapter-1/",
-    "upvotes": 34,
+    "upvotes": 39,
     "author": "ed2592",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27490988"
-  },
-  {
-    "title": "My first Z80 assembly language program",
-    "url": "https://nanochess.org/notebook.html",
-    "upvotes": 7,
-    "author": "elvis70",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27483439"
-  },
-  {
-    "title": "Ask HN: I curate HN stories which didn't reach the front page. Feedback please",
-    "url": "item?id=27492255",
-    "upvotes": 22,
-    "author": "bengtan",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27492255"
   },
   {
     "title": "Programmer's Resignation from 1985",
     "url": "https://pastes.glitchwrks.com/L88HFhJs",
-    "upvotes": 233,
+    "upvotes": 240,
     "author": "systems_glitch",
-    "comments": 84,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=27488224"
-  },
-  {
-    "title": "Animal Testing Is Exploitative and Largely Ineffective",
-    "url": "https://www.erichgrunewald.com/posts/animal-testing-is-exploitative-and-largely-ineffective/",
-    "upvotes": 81,
-    "author": "erwald",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=27491498"
   },
   {
     "title": "A US socialite who gave it all up to become a Carmelite nun",
     "url": "https://www.bbc.com/news/world-us-canada-57399288",
-    "upvotes": 132,
+    "upvotes": 135,
     "author": "pepys",
-    "comments": 107,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=27469193"
   },
   {
     "title": "Glue: The Dark Matter of Software",
     "url": "https://blog.metaobject.com/2021/06/glue-dark-matter-of-software.html",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "mpweiher",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27482832"
+  },
+  {
+    "title": "Everyone and no one belongs to New York",
+    "url": "https://www.newstatesman.com/New-york-Thomas-Dyja-Craig-Taylor-review",
+    "upvotes": 41,
+    "author": "samclemens",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=27477424"
   },
   {
     "title": "Reducing Python String Memory Use in Apache Arrow 0.12",
     "url": "https://arrow.apache.org/blog/2019/02/05/python-string-memory-0.12/",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "polm23",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27468692"
   },
   {
-    "title": "Everyone and no one belongs to New York",
-    "url": "https://www.newstatesman.com/New-york-Thomas-Dyja-Craig-Taylor-review",
-    "upvotes": 37,
-    "author": "samclemens",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27477424"
-  },
-  {
-    "title": "Researchers learn about what they ate in medieval Sicily from cooking pots",
-    "url": "https://www.medievalists.net/2021/06/researchers-learn-about-what-they-ate-in-medieval-sicily-from-cooking-pots/",
-    "upvotes": 8,
-    "author": "Vigier",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27481626"
+    "title": "Summary: Never Eat Alone by Keith Ferrazzi with Tahl Raz",
+    "url": "https://www.chestergrant.com/never-eat-alone-by-keith-ferrazzi-with-tahl-raz",
+    "upvotes": 4,
+    "author": "chegra",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27492119"
   },
   {
     "title": "A cinematic approach to drug resistance",
     "url": "https://news.harvard.edu/gazette/story/2016/09/a-cinematic-approach-to-drug-resistance/",
-    "upvotes": 14,
+    "upvotes": 17,
     "author": "ColinWright",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27483954"
   },
   {
-    "title": "Hilton's 1967 plan for a space hotel",
-    "url": "https://edition.cnn.com/travel/article/hilton-hotel-on-moon-scn-cmd/index.html",
-    "upvotes": 70,
-    "author": "ZeljkoS",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=27482846"
+    "title": "Researchers learn about what they ate in medieval Sicily from cooking pots",
+    "url": "https://www.medievalists.net/2021/06/researchers-learn-about-what-they-ate-in-medieval-sicily-from-cooking-pots/",
+    "upvotes": 9,
+    "author": "Vigier",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27481626"
+  },
+  {
+    "title": "Gemini is Useless",
+    "url": "https://alex.flounder.online/gemlog/2021-01-08-useless.gmi",
+    "upvotes": 114,
+    "author": "Melchizedek",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=27490769"
+  },
+  {
+    "title": "Animal Testing Is Exploitative and Largely Ineffective",
+    "url": "https://www.erichgrunewald.com/posts/animal-testing-is-exploitative-and-largely-ineffective/",
+    "upvotes": 89,
+    "author": "erwald",
+    "comments": 118,
+    "link": "https://news.ycombinator.com/item?id=27491498"
   },
   {
     "title": "The Enterprise Eats Software",
     "url": "https://jessitron.com/2021/06/12/the-enterprise-eats-software/",
-    "upvotes": 69,
+    "upvotes": 74,
     "author": "zdw",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27489448"
-  },
-  {
-    "title": "Negotiating ransoms: when to play and when to fold",
-    "url": "https://zetter.substack.com/p/negotiating-ransoms-when-to-play",
-    "upvotes": 31,
-    "author": "tmfi",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27481870"
-  },
-  {
-    "title": "Babylon and the Square Root of 2",
-    "url": "https://johncarlosbaez.wordpress.com/2011/12/02/babylon-and-the-square-root-of-2/",
-    "upvotes": 68,
-    "author": "fortran77",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27489051"
   },
   {
     "title": "Modern Python Developer's Toolkit",
     "url": "https://pycon.switowski.com/",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "grigy",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27489685"
   }
 ]
