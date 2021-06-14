@@ -2,66 +2,74 @@
   {
     "title": "Doom Running on an IKEA Lamp [video]",
     "url": "https://www.youtube.com/watch?v=7ybybf4tJWw",
-    "upvotes": 537,
+    "upvotes": 562,
     "author": "kregasaurusrex",
-    "comments": 135,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=27498789"
   },
   {
     "title": "Untapped potential in Rust's type system",
     "url": "https://www.jakobmeier.ch/blogging/Untapped-Rust.html",
-    "upvotes": 65,
+    "upvotes": 79,
     "author": "lukastyrychtr",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27490596"
   },
   {
     "title": "Gooey: Turn almost any Python command line program into a GUI application",
     "url": "https://github.com/chriskiehl/Gooey",
-    "upvotes": 129,
+    "upvotes": 150,
     "author": "sandebert",
-    "comments": 30,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27490291"
   },
   {
     "title": "'Positive deviants': Why rebellious workers spark great ideas",
     "url": "https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas",
-    "upvotes": 166,
+    "upvotes": 177,
     "author": "sonabinu",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27498862"
+  },
+  {
+    "title": "Bentley Railbike",
+    "url": "http://rrbike.freeservers.com/main.htm",
+    "upvotes": 24,
+    "author": "Kaibeezy",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27500787"
   },
   {
     "title": "Alternative: A community software search engine",
     "url": "https://alternative-a.com/en/blog/v3release",
-    "upvotes": 32,
+    "upvotes": 36,
     "author": "D2man",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27500177"
+  },
+  {
+    "title": "Open Source OpenGL ES 3.1 on Mali GPUs with Panfrost",
+    "url": "https://www.collabora.com/news-and-blog/blog/2021/06/11/open-source-opengl-es-3.1-on-mali-gpus-with-panfrost/",
+    "upvotes": 86,
+    "author": "CameronNemo",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27499263"
   },
   {
     "title": "How to Make Tetris in ClojureScript",
     "url": "https://shaunlebron.github.io/t3tr0s-slides",
-    "upvotes": 66,
+    "upvotes": 72,
     "author": "simongray",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27499904"
   },
   {
-    "title": "Bentley Railbike",
-    "url": "http://rrbike.freeservers.com/main.htm",
-    "upvotes": 12,
-    "author": "Kaibeezy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27500787"
-  },
-  {
-    "title": "Open Source OpenGL ES 3.1 on Mali GPUs with Panfrost",
-    "url": "https://www.collabora.com/news-and-blog/blog/2021/06/11/open-source-opengl-es-3.1-on-mali-gpus-with-panfrost/",
-    "upvotes": 80,
-    "author": "CameronNemo",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27499263"
+    "title": "Up for Grabs",
+    "url": "https://up-for-grabs.net/",
+    "upvotes": 118,
+    "author": "fybs",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27498602"
   },
   {
     "title": "Filtering out newsletter signup forms embedded in web articles",
@@ -72,57 +80,57 @@
     "link": "https://news.ycombinator.com/item?id=27500502"
   },
   {
-    "title": "Up for Grabs",
-    "url": "https://up-for-grabs.net/",
-    "upvotes": 113,
-    "author": "fybs",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27498602"
-  },
-  {
     "title": "Ancient Greek accents in ten rules",
     "url": "https://antigonejournal.com/2021/06/greek-accents-ten-rules/",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "amanuensis",
-    "comments": 17,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27499323"
-  },
-  {
-    "title": "The global chip shortage is creating a new problem: More fake components",
-    "url": "https://www.zdnet.com/article/the-global-chip-shortage-is-creating-a-new-problem-more-fake-components-as-fraudsters-cash-in/",
-    "upvotes": 23,
-    "author": "ageofzfarm",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27500872"
   },
   {
     "title": "Tricks of Trench Warfare",
     "url": "https://gru.gq/2020/02/12/forgotten-tricks-of-trench-warfare/",
-    "upvotes": 67,
+    "upvotes": 73,
     "author": "Tomte",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27499279"
   },
   {
-    "title": "Be aware of Chrome's new table layout engine",
-    "url": "https://tablesng.com/",
-    "upvotes": 6,
-    "author": "duncans",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27500953"
+    "title": "Mary Catherine Bateson: Systems Thinker",
+    "url": "https://www.edge.org/conversation/mary-catherine-bateson",
+    "upvotes": 8,
+    "author": "the-mitr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27491148"
   },
   {
     "title": "Playing the piano taught me math",
     "url": "https://xiaoyunyang.medium.com/how-playing-the-piano-taught-me-math-8917f84a4326",
-    "upvotes": 41,
+    "upvotes": 48,
     "author": "danboarder",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27499271"
+  },
+  {
+    "title": "Swiss narrowly reject tax hike to fight climate change",
+    "url": "https://apnews.com/article/government-and-politics-europe-climate-climate-change-environment-and-nature-057e14f0b5fd91eca8c5ba85aca31014",
+    "upvotes": 31,
+    "author": "velmu",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27500992"
+  },
+  {
+    "title": "The global chip shortage is creating a new problem: More fake components",
+    "url": "https://www.zdnet.com/article/the-global-chip-shortage-is-creating-a-new-problem-more-fake-components-as-fraudsters-cash-in/",
+    "upvotes": 31,
+    "author": "ageofzfarm",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27500872"
   },
   {
     "title": "The Rise and Fall of Planet Hollywood",
     "url": "https://www.esquire.com/entertainment/a36439327/planet-hollywood-origin-story-history-interview/",
-    "upvotes": 50,
+    "upvotes": 53,
     "author": "bryanrasmussen",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27481993"
@@ -130,47 +138,39 @@
   {
     "title": "An Omega-3 that’s poison for cancer tumors",
     "url": "https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/",
-    "upvotes": 202,
+    "upvotes": 211,
     "author": "elorant",
-    "comments": 56,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=27496712"
-  },
-  {
-    "title": "Pitch doctoring should be the biggest scandal in sports",
-    "url": "https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover",
-    "upvotes": 148,
-    "author": "SheinhardtWigCo",
-    "comments": 148,
-    "link": "https://news.ycombinator.com/item?id=27496095"
   },
   {
     "title": "Cuda.jl v3.3: union types, debug info, graph APIs",
     "url": "https://juliagpu.org/post/2021-06-10-cuda_3.3/",
-    "upvotes": 136,
+    "upvotes": 139,
     "author": "ViralBShah",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27496679"
   },
   {
-    "title": "Swiss narrowly reject tax hike to fight climate change",
-    "url": "https://apnews.com/article/government-and-politics-europe-climate-climate-change-environment-and-nature-057e14f0b5fd91eca8c5ba85aca31014",
-    "upvotes": 16,
-    "author": "velmu",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27500992"
+    "title": "Pitch doctoring should be the biggest scandal in sports",
+    "url": "https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover",
+    "upvotes": 153,
+    "author": "SheinhardtWigCo",
+    "comments": 153,
+    "link": "https://news.ycombinator.com/item?id=27496095"
   },
   {
     "title": "Launching the Libre Tech Shop",
     "url": "https://abhas.io/libretechshop/",
-    "upvotes": 51,
+    "upvotes": 55,
     "author": "proxygeek",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27490049"
   },
   {
     "title": "Analysing bird songs with Wigner transform",
     "url": "https://soundshader.github.io/hss/gallery/wigner",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "gbh444g",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27498543"
@@ -182,10 +182,42 @@
   {
     "title": "Ness – Deploy web sites to your AWS account",
     "url": "https://ness.sh/",
-    "upvotes": 58,
+    "upvotes": 61,
     "author": "reimertz",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27491390"
+  },
+  {
+    "title": "Why IBM Is Suing GlobalFoundries over Chip Roadmap Failures",
+    "url": "https://www.nextplatform.com/2021/06/10/why-ibm-is-suing-globalfoundries-over-chip-roadmap-failures/",
+    "upvotes": 13,
+    "author": "rbanffy",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27501054"
+  },
+  {
+    "title": "The future of data storage is still magnetic tape",
+    "url": "https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape",
+    "upvotes": 86,
+    "author": "Bluestein",
+    "comments": 77,
+    "link": "https://news.ycombinator.com/item?id=27491445"
+  },
+  {
+    "title": "Show HN: The simplest geohash implementation under the sun",
+    "url": "https://mro.name/g/u154",
+    "upvotes": 8,
+    "author": "mro_name",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27499881"
+  },
+  {
+    "title": "Supernumerary Robotic Limbs",
+    "url": "http://darbelofflab.mit.edu/robotics-research/supernumerary-robotic-limbs-srl/",
+    "upvotes": 66,
+    "author": "MaysonL",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=27486845"
   },
   {
     "title": "Ojai-Geeky-Too-LA",
@@ -196,43 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=27469040"
   },
   {
-    "title": "Why IBM Is Suing GlobalFoundries over Chip Roadmap Failures",
-    "url": "https://www.nextplatform.com/2021/06/10/why-ibm-is-suing-globalfoundries-over-chip-roadmap-failures/",
-    "upvotes": 5,
-    "author": "rbanffy",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27501054"
-  },
-  {
-    "title": "The future of data storage is still magnetic tape",
-    "url": "https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape",
-    "upvotes": 83,
-    "author": "Bluestein",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=27491445"
-  },
-  {
-    "title": "Supernumerary Robotic Limbs",
-    "url": "http://darbelofflab.mit.edu/robotics-research/supernumerary-robotic-limbs-srl/",
-    "upvotes": 63,
-    "author": "MaysonL",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27486845"
-  },
-  {
     "title": "An Italian village where the houses have eyes",
     "url": "https://www.atlasobscura.com/articles/aliano-houses-with-eyes",
-    "upvotes": 45,
+    "upvotes": 47,
     "author": "samizdis",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27483820"
-  },
-  {
-    "title": "Show HN: The simplest geohash implementation under the sun",
-    "url": "https://mro.name/g/u154",
-    "upvotes": 7,
-    "author": "mro_name",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27499881"
   }
 ]
