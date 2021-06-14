@@ -2,55 +2,71 @@
   {
     "title": "Doom Running on an IKEA Lamp [video]",
     "url": "https://www.youtube.com/watch?v=7ybybf4tJWw",
-    "upvotes": 454,
+    "upvotes": 474,
     "author": "kregasaurusrex",
-    "comments": 115,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=27498789"
   },
   {
     "title": "'Positive deviants': Why rebellious workers spark great ideas",
     "url": "https://www.bbc.com/worklife/article/20210528-positive-deviants-why-rebellious-workers-spark-gr-ideas",
-    "upvotes": 143,
+    "upvotes": 147,
     "author": "sonabinu",
-    "comments": 42,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27498862"
   },
   {
     "title": "Gooey: Turn almost any Python command line program into a GUI application",
     "url": "https://github.com/chriskiehl/Gooey",
-    "upvotes": 71,
+    "upvotes": 80,
     "author": "sandebert",
-    "comments": 19,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27490291"
-  },
-  {
-    "title": "Alternative: A community software search engine",
-    "url": "https://alternative-a.com/en/blog/v3release",
-    "upvotes": 17,
-    "author": "D2man",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27500177"
-  },
-  {
-    "title": "Open Source OpenGL ES 3.1 on Mali GPUs with Panfrost",
-    "url": "https://www.collabora.com/news-and-blog/blog/2021/06/11/open-source-opengl-es-3.1-on-mali-gpus-with-panfrost/",
-    "upvotes": 73,
-    "author": "CameronNemo",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27499263"
   },
   {
     "title": "How to Make Tetris in ClojureScript",
     "url": "https://shaunlebron.github.io/t3tr0s-slides",
-    "upvotes": 34,
+    "upvotes": 48,
     "author": "simongray",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27499904"
   },
   {
+    "title": "Open Source OpenGL ES 3.1 on Mali GPUs with Panfrost",
+    "url": "https://www.collabora.com/news-and-blog/blog/2021/06/11/open-source-opengl-es-3.1-on-mali-gpus-with-panfrost/",
+    "upvotes": 76,
+    "author": "CameronNemo",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27499263"
+  },
+  {
+    "title": "Alternative: A community software search engine",
+    "url": "https://alternative-a.com/en/blog/v3release",
+    "upvotes": 19,
+    "author": "D2man",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27500177"
+  },
+  {
+    "title": "Untapped potential in Rust's type system",
+    "url": "https://www.jakobmeier.ch/blogging/Untapped-Rust.html",
+    "upvotes": 20,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27490596"
+  },
+  {
+    "title": "Filtering out newsletter signup forms embedded in web articles",
+    "url": "https://www.fivefilters.org/2021/newsletter-signup-forms/",
+    "upvotes": 18,
+    "author": "k1m",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27500502"
+  },
+  {
     "title": "Up for Grabs",
     "url": "https://up-for-grabs.net/",
-    "upvotes": 96,
+    "upvotes": 100,
     "author": "fybs",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27498602"
@@ -58,47 +74,31 @@
   {
     "title": "Ancient Greek accents in ten rules",
     "url": "https://antigonejournal.com/2021/06/greek-accents-ten-rules/",
-    "upvotes": 62,
+    "upvotes": 64,
     "author": "amanuensis",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27499323"
-  },
-  {
-    "title": "Filtering out newsletter signup forms embedded in web articles",
-    "url": "https://www.fivefilters.org/2021/newsletter-signup-forms/",
-    "upvotes": 13,
-    "author": "k1m",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27500502"
-  },
-  {
-    "title": "Untapped potential in Rust's type system",
-    "url": "https://www.jakobmeier.ch/blogging/Untapped-Rust.html",
-    "upvotes": 11,
-    "author": "lukastyrychtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27490596"
-  },
-  {
-    "title": "Playing the piano taught me math",
-    "url": "https://xiaoyunyang.medium.com/how-playing-the-piano-taught-me-math-8917f84a4326",
-    "upvotes": 34,
-    "author": "danboarder",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27499271"
   },
   {
     "title": "Tricks of Trench Warfare",
     "url": "https://gru.gq/2020/02/12/forgotten-tricks-of-trench-warfare/",
-    "upvotes": 54,
+    "upvotes": 57,
     "author": "Tomte",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27499279"
   },
   {
+    "title": "Playing the piano taught me math",
+    "url": "https://xiaoyunyang.medium.com/how-playing-the-piano-taught-me-math-8917f84a4326",
+    "upvotes": 36,
+    "author": "danboarder",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27499271"
+  },
+  {
     "title": "The Rise and Fall of Planet Hollywood",
     "url": "https://www.esquire.com/entertainment/a36439327/planet-hollywood-origin-story-history-interview/",
-    "upvotes": 41,
+    "upvotes": 42,
     "author": "bryanrasmussen",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27481993"
@@ -106,23 +106,23 @@
   {
     "title": "An Omega-3 that’s poison for cancer tumors",
     "url": "https://scitechdaily.com/an-omega-3-thats-poison-for-cancer-tumors/",
-    "upvotes": 186,
+    "upvotes": 191,
     "author": "elorant",
-    "comments": 43,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27496712"
   },
   {
     "title": "Pitch doctoring should be the biggest scandal in sports",
     "url": "https://www.si.com/mlb/2021/06/04/sticky-stuff-is-the-new-steroids-daily-cover",
-    "upvotes": 141,
+    "upvotes": 142,
     "author": "SheinhardtWigCo",
-    "comments": 135,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=27496095"
   },
   {
     "title": "Cuda.jl v3.3: union types, debug info, graph APIs",
     "url": "https://juliagpu.org/post/2021-06-10-cuda_3.3/",
-    "upvotes": 129,
+    "upvotes": 132,
     "author": "ViralBShah",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27496679"
@@ -130,15 +130,15 @@
   {
     "title": "Analysing bird songs with Wigner transform",
     "url": "https://soundshader.github.io/hss/gallery/wigner",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "gbh444g",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27498543"
   },
   {
     "title": "Launching the Libre Tech Shop",
     "url": "https://abhas.io/libretechshop/",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "proxygeek",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27490049"
@@ -146,61 +146,77 @@
   {
     "title": "Ness – Deploy web sites to your AWS account",
     "url": "https://ness.sh/",
-    "upvotes": 52,
+    "upvotes": 55,
     "author": "reimertz",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27491390"
   },
   {
     "title": "Could face and voice recognition become the new 'phrenology'?",
     "url": "https://www.cbc.ca/radio/spark/could-face-and-voice-recognition-become-the-new-phrenology-1.6046992",
-    "upvotes": 112,
+    "upvotes": 113,
     "author": "pseudolus",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27491631"
-  },
-  {
-    "title": "Scientists remotely controlled the social behavior of mice with light",
-    "url": "https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light",
-    "upvotes": 15,
-    "author": "lnyan",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27498711"
   },
   {
     "title": "Jerry",
     "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
   },
   {
-    "title": "Linux on Chromebooks just might get me through a masters in computer science",
-    "url": "https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/",
-    "upvotes": 161,
-    "author": "every",
-    "comments": 144,
-    "link": "https://news.ycombinator.com/item?id=27496595"
+    "title": "The global chip shortage is creating a new problem: More fake components",
+    "url": "https://www.zdnet.com/article/the-global-chip-shortage-is-creating-a-new-problem-more-fake-components-as-fraudsters-cash-in/",
+    "upvotes": 4,
+    "author": "ageofzfarm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27500872"
   },
   {
-    "title": "An Italian village where the houses have eyes",
-    "url": "https://www.atlasobscura.com/articles/aliano-houses-with-eyes",
-    "upvotes": 39,
-    "author": "samizdis",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27483820"
+    "title": "Show HN: The simplest geohash implementation under the sun",
+    "url": "https://mro.name/g/u154",
+    "upvotes": 6,
+    "author": "mro_name",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27499881"
+  },
+  {
+    "title": "Scientists remotely controlled the social behavior of mice with light",
+    "url": "https://www.sciencenews.org/article/optogenetics-social-behavior-brains-mice-light",
+    "upvotes": 17,
+    "author": "lnyan",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27498711"
+  },
+  {
+    "title": "Linux on Chromebooks just might get me through a masters in computer science",
+    "url": "https://www.aboutchromebooks.com/news/linux-on-chromebooks-just-might-get-me-through-a-masters-in-computer-science/",
+    "upvotes": 164,
+    "author": "every",
+    "comments": 147,
+    "link": "https://news.ycombinator.com/item?id=27496595"
   },
   {
     "title": "All Programming Is Web Programming",
     "url": "https://blog.codinghorror.com/all-programming-is-web-programming/",
-    "upvotes": 14,
+    "upvotes": 18,
     "author": "fx18011",
-    "comments": 8,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27500414"
+  },
+  {
+    "title": "An Italian village where the houses have eyes",
+    "url": "https://www.atlasobscura.com/articles/aliano-houses-with-eyes",
+    "upvotes": 42,
+    "author": "samizdis",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27483820"
   },
   {
     "title": "The future of data storage is still magnetic tape",
     "url": "https://spectrum.ieee.org/computing/hardware/why-the-future-of-data-storage-is-still-magnetic-tape",
     "upvotes": 79,
     "author": "Bluestein",
-    "comments": 73,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27491445"
   },
   {
@@ -218,21 +234,5 @@
     "author": "Tomte",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27499282"
-  },
-  {
-    "title": "Show HN: The simplest geohash implementation under the sun",
-    "url": "https://mro.name/g/u154",
-    "upvotes": 4,
-    "author": "mro_name",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27499881"
-  },
-  {
-    "title": "Dynamic scientific visualizations in the browser for Python users",
-    "url": "https://xcorr.net/2021/06/02/dynamic-scientific-visualizations-in-the-browser-for-python-users/",
-    "upvotes": 47,
-    "author": "EntICOnc",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27470013"
   }
 ]
