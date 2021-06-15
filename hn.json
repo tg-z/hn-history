@@ -2,49 +2,57 @@
   {
     "title": "Avoid News, Part 2: What the Stock Market Taught Me about News",
     "url": "http://www.bayesianinvestor.com/blog/index.php/2021/06/13/avoid-news-part-2-what-the-stock-market-taught-me-about-news/",
-    "upvotes": 79,
+    "upvotes": 90,
     "author": "Ariarule",
-    "comments": 26,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27510448"
+  },
+  {
+    "title": "Universities Have Formed a Company That Looks a Lot Like a Patent Troll",
+    "url": "https://www.eff.org/deeplinks/2021/06/15-universities-have-formed-company-looks-lot-patent-troll",
+    "upvotes": 21,
+    "author": "polm23",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27510836"
   },
   {
     "title": "U.S. Supreme Court revives LinkedIn bid to shield personal data",
     "url": "https://www.reuters.com/technology/us-supreme-court-revives-linkedin-bid-shield-personal-data-2021-06-14/",
-    "upvotes": 102,
+    "upvotes": 105,
     "author": "anfilt",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27510103"
   },
   {
     "title": "Freenode commits suicide, is no longer a serious IRC network",
     "url": "https://www.devever.net/~hl/freenode_suicide",
-    "upvotes": 68,
+    "upvotes": 104,
     "author": "OberstKrueger",
-    "comments": 12,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27510824"
   },
   {
     "title": "Stripe Identity",
     "url": "https://stripe.com/identity",
-    "upvotes": 891,
+    "upvotes": 900,
     "author": "thomaspark",
-    "comments": 468,
+    "comments": 470,
     "link": "https://news.ycombinator.com/item?id=27502993"
   },
   {
     "title": "Linux with “memory folios”: got a 7% performance boost when compiling the kernel",
     "url": "https://lore.kernel.org/lkml/20210614201435.1379188-1-willy@infradead.org/",
-    "upvotes": 73,
+    "upvotes": 76,
     "author": "marcodiego",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27509944"
   },
   {
     "title": "You can legally get and run WordPerfect for free",
     "url": "https://liam-on-linux.livejournal.com/80768.html",
-    "upvotes": 109,
+    "upvotes": 111,
     "author": "lproven",
-    "comments": 80,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27509629"
   },
   {
@@ -52,53 +60,45 @@
     "url": "https://azartiz.com/?2021-06-13T20:25:16.558Z",
     "upvotes": 240,
     "author": "oblib",
-    "comments": 134,
+    "comments": 136,
     "link": "https://news.ycombinator.com/item?id=27507045"
   },
   {
     "title": "NOAA Weather Radio Outages",
     "url": "https://www.weather.gov/nwr/outages",
-    "upvotes": 18,
+    "upvotes": 22,
     "author": "MaciejR",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27510485"
   },
   {
+    "title": "Fully Homomorphic Encryption",
+    "url": "https://github.com/google/fully-homomorphic-encryption",
+    "upvotes": 8,
+    "author": "gone35",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27510902"
+  },
+  {
     "title": "Show HN: I made a community sourced fitness routine database",
     "url": "https://routinedb.com/routines",
-    "upvotes": 329,
+    "upvotes": 333,
     "author": "sitesuniverse",
-    "comments": 167,
+    "comments": 169,
     "link": "https://news.ycombinator.com/item?id=27503597"
   },
   {
     "title": "Why I Love Lucy Maud",
     "url": "https://www.berfrois.com/2021/06/love-maud/",
-    "upvotes": 38,
+    "upvotes": 39,
     "author": "portobello",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27509300"
   },
   {
-    "title": "Fully Homomorphic Encryption",
-    "url": "https://github.com/google/fully-homomorphic-encryption",
-    "upvotes": 3,
-    "author": "gone35",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27510902"
-  },
-  {
-    "title": "It’s hard work to make ordering groceries online so easy",
-    "url": "https://www.nytimes.com/2021/06/04/business/online-groceries-pickers-instacart.html",
-    "upvotes": 38,
-    "author": "helloworld",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27498091"
-  },
-  {
     "title": "Main is usually a function, so when is it not?",
     "url": "https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html",
-    "upvotes": 194,
+    "upvotes": 195,
     "author": "ColinWright",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27504254"
@@ -106,7 +106,7 @@
   {
     "title": "Untapped potential in Rust's type system",
     "url": "https://www.jakobmeier.ch/blogging/Untapped-Rust.html",
-    "upvotes": 19,
+    "upvotes": 21,
     "author": "valand",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27498355"
@@ -114,7 +114,7 @@
   {
     "title": "Ripgrep 13.0",
     "url": "https://github.com/BurntSushi/ripgrep/releases/tag/13.0.0",
-    "upvotes": 434,
+    "upvotes": 437,
     "author": "mfrw",
     "comments": 106,
     "link": "https://news.ycombinator.com/item?id=27491583"
@@ -122,10 +122,38 @@
   {
     "title": "Genetic diseases that puzzle lab scientists worked on by quantitative biologists",
     "url": "https://nautil.us/issue/102/hidden-truths/data-crunchers-to-the-rescue",
-    "upvotes": 11,
+    "upvotes": 12,
     "author": "rbanffy",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27480269"
+  },
+  {
+    "title": "Fidenza",
+    "url": "https://tylerxhobbs.com/fidenza",
+    "upvotes": 13,
+    "author": "bdr",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27494863"
+  },
+  {
+    "title": "Launch HN: Revery.AI (YC S21) Scalable deep learning-based virtual dressing room",
+    "url": "item?id=27504190",
+    "upvotes": 74,
+    "author": "mchong6",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27504190"
+  },
+  {
+    "title": "Mux",
+    "url": "https://mux.com/jobs?hnj=stripe"
+  },
+  {
+    "title": "Practical Reed-Solomon for Programmers",
+    "url": "https://berthub.eu/articles/posts/reed-solomon-for-programmers/",
+    "upvotes": 208,
+    "author": "heydenberk",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=27491219"
   },
   {
     "title": "Show HN: Gelidum – My Python library to freeze objects",
@@ -136,72 +164,60 @@
     "link": "https://news.ycombinator.com/item?id=27507524"
   },
   {
-    "title": "Launch HN: Revery.AI (YC S21) Scalable deep learning-based virtual dressing room",
-    "url": "item?id=27504190",
-    "upvotes": 73,
-    "author": "mchong6",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27504190"
-  },
-  {
-    "title": "Fidenza",
-    "url": "https://tylerxhobbs.com/fidenza",
-    "upvotes": 10,
-    "author": "bdr",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27494863"
-  },
-  {
-    "title": "Mux",
-    "url": "https://mux.com/jobs?hnj=stripe"
-  },
-  {
-    "title": "Practical Reed-Solomon for Programmers",
-    "url": "https://berthub.eu/articles/posts/reed-solomon-for-programmers/",
-    "upvotes": 206,
-    "author": "heydenberk",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27491219"
-  },
-  {
     "title": "Baseball's dirty little secret is out – we decided to experiment",
     "url": "https://www.thescore.com/mlb/news/2180019",
-    "upvotes": 111,
+    "upvotes": 114,
     "author": "doublerebel",
-    "comments": 33,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27509258"
   },
   {
     "title": "Adventures in Fuzzing Matrix’s Encryption",
     "url": "https://matrix.org/blog/2021/06/14/adventures-in-fuzzing-libolm",
-    "upvotes": 85,
+    "upvotes": 86,
     "author": "Arathorn",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27505901"
   },
   {
-    "title": "Reality Winner, NSA contractor in leak case, out of prison",
-    "url": "https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb",
-    "upvotes": 220,
-    "author": "SmkyMt",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=27506609"
-  },
-  {
     "title": "How to get yourself to do things",
     "url": "https://www.raptitude.com/2015/03/how-to-get-yourself-to-do-things/",
-    "upvotes": 165,
+    "upvotes": 171,
     "author": "gofiggy",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27495535"
   },
   {
     "title": "Day One, the Journaling App, Joins Automattic",
     "url": "https://wordpress.com/blog/2021/06/14/day-one-the-journaling-app-joins-automattic/",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "nsriv",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27507698"
+  },
+  {
+    "title": "Reality Winner, NSA contractor in leak case, out of prison",
+    "url": "https://apnews.com/article/government-and-politics-europe-80600704e46e10ec53e85590d1d3fefb",
+    "upvotes": 224,
+    "author": "SmkyMt",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=27506609"
+  },
+  {
+    "title": "Myths in cycling: wider tires are slower",
+    "url": "https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/",
+    "upvotes": 247,
+    "author": "jmilloy",
+    "comments": 218,
+    "link": "https://news.ycombinator.com/item?id=27506550"
+  },
+  {
+    "title": "It’s hard work to make ordering groceries online so easy",
+    "url": "https://www.nytimes.com/2021/06/04/business/online-groceries-pickers-instacart.html",
+    "upvotes": 41,
+    "author": "helloworld",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27498091"
   },
   {
     "title": "The Historian and the Murderer",
@@ -212,27 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=27499449"
   },
   {
-    "title": "Myths in cycling: wider tires are slower",
-    "url": "https://www.renehersecycles.com/12-myths-in-cycling-1-wider-tires-are-slower/",
-    "upvotes": 245,
-    "author": "jmilloy",
-    "comments": 217,
-    "link": "https://news.ycombinator.com/item?id=27506550"
-  },
-  {
     "title": "The Electrification of Everything",
     "url": "https://www.wsj.com/articles/electrification-of-everything-11620843173",
     "upvotes": 75,
     "author": "elorant",
-    "comments": 222,
+    "comments": 229,
     "link": "https://news.ycombinator.com/item?id=27486950"
-  },
-  {
-    "title": "Show HN: Generate a free visual sitemap by crawling any website",
-    "url": "https://rarchy.com/sitemaps/visual-sitemap-generator",
-    "upvotes": 10,
-    "author": "owor",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27509682"
   }
 ]
