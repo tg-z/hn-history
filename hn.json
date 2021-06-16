@@ -2,39 +2,39 @@
   {
     "title": "GitHub – nushell/nushell: A new type of shell",
     "url": "https://github.com/nushell/nushell",
-    "upvotes": 259,
+    "upvotes": 274,
     "author": "axiomdata316",
-    "comments": 113,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=27525031"
-  },
-  {
-    "title": "Utopia, a visual design tool for React, with code as the source of truth",
-    "url": "https://utopia.app/",
-    "upvotes": 516,
-    "author": "rheeseyb",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=27516212"
-  },
-  {
-    "title": "Researchers fear a scenario in which smart speakers feed sleepers subliminal ads",
-    "url": "https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams",
-    "upvotes": 44,
-    "author": "lnyan",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27525266"
   },
   {
     "title": "Google Messages end-to-end encryption is now out of beta",
     "url": "https://9to5google.com/2021/06/15/google-messages-encryption/",
-    "upvotes": 12,
+    "upvotes": 19,
     "author": "teleforce",
-    "comments": 15,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27525894"
+  },
+  {
+    "title": "Researchers fear a scenario in which smart speakers feed sleepers subliminal ads",
+    "url": "https://www.sciencemag.org/news/2021/06/are-advertisers-coming-your-dreams",
+    "upvotes": 61,
+    "author": "lnyan",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=27525266"
+  },
+  {
+    "title": "Utopia, a visual design tool for React, with code as the source of truth",
+    "url": "https://utopia.app/",
+    "upvotes": 527,
+    "author": "rheeseyb",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=27516212"
   },
   {
     "title": "Unreliability at Scale",
     "url": "https://blog.dshr.org/2021/06/unreliability-at-scale.html?m=1",
-    "upvotes": 72,
+    "upvotes": 76,
     "author": "mooreds",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27524641"
@@ -42,55 +42,63 @@
   {
     "title": "A boy, his brain, and a decades-long medical controversy",
     "url": "https://www.wired.com/story/a-boy-his-brain-and-a-decades-long-medical-controversy/",
-    "upvotes": 107,
+    "upvotes": 113,
     "author": "meanie",
-    "comments": 66,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27509586"
   },
   {
     "title": "Advanced console.log Tips and Tricks",
     "url": "https://medium.com/nmc-techblog/advanced-console-log-tips-tricks-fa3762930bca",
-    "upvotes": 140,
+    "upvotes": 149,
     "author": "sidcool",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27499335"
   },
   {
     "title": "Show HN: Influence, a Go-inspired 1-minute board game",
     "url": "http://cintrest.com/influence/",
-    "upvotes": 267,
+    "upvotes": 272,
     "author": "jawslouis",
-    "comments": 80,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27520884"
   },
   {
     "title": "Fsspec: Filesystem Interfaces for Python",
     "url": "https://filesystem-spec.readthedocs.io/en/latest/index.html",
-    "upvotes": 102,
+    "upvotes": 105,
     "author": "gilad",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27523377"
+  },
+  {
+    "title": "Code in ARM Assembly: Registers Explained",
+    "url": "https://eclecticlight.co/2021/06/16/code-in-arm-assembly-registers-explained/",
+    "upvotes": 3,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27526155"
   },
   {
     "title": "Equilibrium Effects of Pay Transparency",
     "url": "https://www.nber.org/papers/w28903",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "jandrewrogers",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27508426"
   },
   {
     "title": "EFF Browser Tracker Simulator",
     "url": "https://firstpartysimulator.org/",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "anigbrowl",
-    "comments": 34,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27523834"
   },
   {
     "title": "Pacific islanders likely found Antarctica first: study",
     "url": "https://phys.org/news/2021-06-pacific-islanders-antarctica.html",
-    "upvotes": 71,
+    "upvotes": 74,
     "author": "pseudolus",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27501286"
@@ -98,110 +106,126 @@
   {
     "title": "How Indian Zoroastrians helped shape modern Iran",
     "url": "https://lareviewofbooks.org/article/how-an-indian-religious-minority-shaped-modern-iran/",
-    "upvotes": 184,
+    "upvotes": 189,
     "author": "Thevet",
-    "comments": 110,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=27500262"
   },
   {
     "title": "Johnny Knoxville’s Last Rodeo",
     "url": "https://www.gq.com/story/johnny-knoxvilles-last-rodeo/",
-    "upvotes": 199,
+    "upvotes": 203,
     "author": "spunker540",
     "comments": 106,
     "link": "https://news.ycombinator.com/item?id=27520806"
   },
   {
-    "title": "Ask HN: How to get back in employment market after working on side projects?",
-    "url": "item?id=27501316",
-    "upvotes": 80,
-    "author": "logicallee",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=27501316"
-  },
-  {
     "title": "Operation Midnight Climax: How the CIA Dosed S.F. Citizens with LSD",
     "url": "https://www.sfweekly.com/news/operation-midnight-climax-how-the-cia-dosed-s-f-citizens-with-lsd/",
-    "upvotes": 157,
+    "upvotes": 160,
     "author": "pmoriarty",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=27520016"
-  },
-  {
-    "title": "How to Be a Stoic",
-    "url": "https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic",
-    "upvotes": 56,
-    "author": "one2three4",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27524805"
-  },
-  {
-    "title": "A pencil sharpener that creates a never-ending pencil",
-    "url": "https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/",
-    "upvotes": 129,
-    "author": "wholeness",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=27520795"
-  },
-  {
-    "title": "Modulinos in Bash",
-    "url": "https://blog.dnmfarrell.com/post/modulinos-in-bash/",
-    "upvotes": 21,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27524749"
-  },
-  {
-    "title": "The Lost Prince of Yacht Rock",
-    "url": "https://narratively.com/the-lost-prince-of-yacht-rock/",
-    "upvotes": 28,
-    "author": "furtively",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27509566"
   },
   {
     "title": "The mice that roared: how eight tiny countries took on foreign fishing fleets",
     "url": "https://www.theguardian.com/world/2021/jun/16/the-mice-that-roared-how-eight-tiny-countries-took-on-foreign-fishing-fleets",
-    "upvotes": 8,
+    "upvotes": 15,
     "author": "vijayr02",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27526038"
   },
   {
+    "title": "Ask HN: How to get back in employment market after working on side projects?",
+    "url": "item?id=27501316",
+    "upvotes": 83,
+    "author": "logicallee",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27501316"
+  },
+  {
+    "title": "Community Interaction and Conflict on the Web",
+    "url": "https://snap.stanford.edu/conflict/",
+    "upvotes": 3,
+    "author": "bshanks",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27515369"
+  },
+  {
+    "title": "How to Be a Stoic",
+    "url": "https://www.newyorker.com/magazine/2016/12/19/how-to-be-a-stoic",
+    "upvotes": 58,
+    "author": "one2three4",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27524805"
+  },
+  {
+    "title": "A pencil sharpener that creates a never-ending pencil",
+    "url": "https://www.spoon-tamago.com/2015/04/01/tsunago-sharpener-never-ending-pencil/",
+    "upvotes": 134,
+    "author": "wholeness",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27520795"
+  },
+  {
+    "title": "Scaling Relational SQL Databases",
+    "url": "https://stribny.name/blog/2020/07/scaling-relational-sql-databases/",
+    "upvotes": 11,
+    "author": "feross",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27505267"
+  },
+  {
+    "title": "The Lost Prince of Yacht Rock",
+    "url": "https://narratively.com/the-lost-prince-of-yacht-rock/",
+    "upvotes": 31,
+    "author": "furtively",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27509566"
+  },
+  {
+    "title": "Modulinos in Bash",
+    "url": "https://blog.dnmfarrell.com/post/modulinos-in-bash/",
+    "upvotes": 23,
+    "author": "todsacerdoti",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27524749"
+  },
+  {
     "title": "On Comments in Code",
     "url": "https://henrikwarne.com/2021/06/15/on-comments-in-code/",
-    "upvotes": 148,
+    "upvotes": 151,
     "author": "nikbackm",
-    "comments": 193,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=27519445"
   },
   {
     "title": "Shortage of air conditioner parts expected this summer",
     "url": "https://www.kswo.com/2021/05/28/shortage-of-air-conditioner-parts-expected-this-summer/",
-    "upvotes": 71,
+    "upvotes": 73,
     "author": "cratermoon",
-    "comments": 100,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27524107"
+  },
+  {
+    "title": "IBM unveils first quantum computer in Germany",
+    "url": "https://www.dw.com/en/ibm-unveils-first-quantum-computer-in-germany/a-57909494",
+    "upvotes": 5,
+    "author": "qwertox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27525763"
   },
   {
     "title": "Launch HN: Axolo (YC W21) – Faster pull requests and code reviews",
     "url": "item?id=27515468",
     "upvotes": 82,
     "author": "arthurcoudouy",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27515468"
   },
   {
     "title": "Reverie Labs",
     "url": "https://jobs.lever.co/reverielabs/d4599250-a05d-4d31-9810-12330b3c73e5"
-  },
-  {
-    "title": "Scaling Relational SQL Databases",
-    "url": "https://stribny.name/blog/2020/07/scaling-relational-sql-databases/",
-    "upvotes": 9,
-    "author": "feross",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27505267"
   },
   {
     "title": "Building a WebAuthn Click Farm",
@@ -210,29 +234,5 @@
     "author": "jsnell",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27500326"
-  },
-  {
-    "title": "The Triumph of Mutabilitie",
-    "url": "https://www.nybooks.com/articles/2021/07/01/spenser-faerie-queen-triumph-mutabilitie",
-    "upvotes": 9,
-    "author": "pepys",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27506126"
-  },
-  {
-    "title": "The 88x31 GIF Collection",
-    "url": "http://cyber.dabamos.de/88x31/",
-    "upvotes": 449,
-    "author": "kaeruct",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=27500624"
-  },
-  {
-    "title": "Show HN: fcp – A significantly faster alternative to cp",
-    "url": "https://github.com/Svetlitski/fcp",
-    "upvotes": 40,
-    "author": "Svetlitski",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27523014"
   }
 ]
