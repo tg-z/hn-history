@@ -2,23 +2,31 @@
   {
     "title": "Wayfinder – a relaxing 'art game' in the browser",
     "url": "https://wayfinder.nfb.ca/",
-    "upvotes": 194,
+    "upvotes": 236,
     "author": "vnglst",
-    "comments": 38,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27532068"
+  },
+  {
+    "title": "Today We’re Eating the Winners of the 1948 Chicken of Tomorrow Contest",
+    "url": "https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/",
+    "upvotes": 48,
+    "author": "vikrum",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27533174"
   },
   {
     "title": "Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness",
     "url": "https://eprint.iacr.org/2021/819",
-    "upvotes": 298,
+    "upvotes": 323,
     "author": "anonymfus",
-    "comments": 67,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27529768"
   },
   {
     "title": "PyWhat: Identify Anything",
     "url": "https://github.com/bee-san/pyWhat",
-    "upvotes": 136,
+    "upvotes": 158,
     "author": "trueduke",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27526017"
@@ -26,75 +34,91 @@
   {
     "title": "Apple's iCloud+ “VPN”",
     "url": "https://www.metzdowd.com/pipermail/cryptography/2021-June/037144.html",
-    "upvotes": 728,
+    "upvotes": 747,
     "author": "n1000",
-    "comments": 309,
+    "comments": 322,
     "link": "https://news.ycombinator.com/item?id=27527559"
   },
   {
-    "title": "Kids need freedom, too",
-    "url": "https://www.persuasion.community/p/kids-need-freedom-too",
-    "upvotes": 157,
-    "author": "jseliger",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=27530365"
+    "title": "Bear plus snowflake equals polar bear",
+    "url": "https://andysalerno.com/posts/weird-emojis/",
+    "upvotes": 35,
+    "author": "soopurman",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27529697"
   },
   {
     "title": "Cortex",
     "url": "https://www.workatastartup.com/jobs/29595"
   },
   {
+    "title": "Kids need freedom, too",
+    "url": "https://www.persuasion.community/p/kids-need-freedom-too",
+    "upvotes": 178,
+    "author": "jseliger",
+    "comments": 177,
+    "link": "https://news.ycombinator.com/item?id=27530365"
+  },
+  {
     "title": "Zero-downtime schema migrations in Postgres using views",
     "url": "https://fabianlindfors.se/blog/schema-migrations-in-postgres/",
-    "upvotes": 54,
+    "upvotes": 70,
     "author": "fabianlindfors",
-    "comments": 15,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27531934"
   },
   {
-    "title": "Today We’re Eating the Winners of the 1948 Chicken of Tomorrow Contest",
-    "url": "https://modernfarmer.com/2014/05/today-eating-winners-1948-chicken-tomorrow-contest/",
-    "upvotes": 12,
-    "author": "vikrum",
+    "title": "A Beginner’s Guide to Miles Davis",
+    "url": "https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/",
+    "upvotes": 14,
+    "author": "tintinnabula",
     "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27533174"
+    "link": "https://news.ycombinator.com/item?id=27525047"
   },
   {
-    "title": "Why you should not use",
-    "url": "https://tomassetti.me/why-you-should-not-use-flex-yacc-and-bison/",
-    "upvotes": 21,
-    "author": "quickthrower2",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27532605"
-  },
-  {
-    "title": "A transistorized shift register box, built in 1965 for Apollo testing",
-    "url": "https://www.righto.com/2021/06/inside-transistorized-shift-register.html",
-    "upvotes": 54,
-    "author": "parsecs",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27531379"
+    "title": "Asymmetries in Fundraising",
+    "url": "https://blog.aaronkharris.com/asymmetries-in-fundraising",
+    "upvotes": 12,
+    "author": "akharris",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27516013"
   },
   {
     "title": "How does one get hired by a top cybercrime gang?",
     "url": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
-    "upvotes": 149,
+    "upvotes": 157,
     "author": "wyldfire",
-    "comments": 70,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=27529049"
   },
   {
     "title": "Execute Docker Containers as QEMU MicroVMs",
     "url": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
-    "upvotes": 98,
+    "upvotes": 105,
     "author": "DarkPlayer",
-    "comments": 37,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27530074"
+  },
+  {
+    "title": "A transistorized shift register box, built in 1965 for Apollo testing",
+    "url": "https://www.righto.com/2021/06/inside-transistorized-shift-register.html",
+    "upvotes": 58,
+    "author": "parsecs",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27531379"
+  },
+  {
+    "title": "Grobid: Machine learning for extracting information from scholarly documents",
+    "url": "https://github.com/kermitt2/grobid",
+    "upvotes": 19,
+    "author": "polm23",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27527028"
   },
   {
     "title": "Mu's Neighborhood",
     "url": "http://akkartik.name/post/neighborhood",
-    "upvotes": 36,
+    "upvotes": 40,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27531610"
@@ -102,135 +126,111 @@
   {
     "title": "If you think psychological science is bad, imagine how bad it was in 1999",
     "url": "https://statmodeling.stat.columbia.edu/2021/06/16/wow-just-wow-if-you-think-psychological-science-as-bad-in-the-2010-2015-era-you-cant-imagine-how-bad-it-was-back-in-1999/",
-    "upvotes": 212,
+    "upvotes": 224,
     "author": "ruaraidh",
-    "comments": 165,
+    "comments": 172,
     "link": "https://news.ycombinator.com/item?id=27529119"
   },
   {
     "title": "When pop history bombs: a response to Malcolm Gladwell",
     "url": "https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/",
-    "upvotes": 145,
+    "upvotes": 150,
     "author": "diodorus",
-    "comments": 112,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=27506171"
   },
   {
-    "title": "Grobid: Machine learning for extracting information from scholarly documents",
-    "url": "https://github.com/kermitt2/grobid",
-    "upvotes": 10,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27527028"
-  },
-  {
-    "title": "Asymmetries in Fundraising",
-    "url": "https://blog.aaronkharris.com/asymmetries-in-fundraising",
-    "upvotes": 5,
-    "author": "akharris",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27516013"
-  },
-  {
-    "title": "Thinking Like Transformers",
-    "url": "https://arxiv.org/abs/2106.06981",
-    "upvotes": 133,
-    "author": "ArtWomb",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27528004"
-  },
-  {
-    "title": "Sponsored-By Proposal",
-    "url": "https://blog.liw.fi/posts/2021/05/26/sponsored-by/",
-    "upvotes": 20,
-    "author": "edward",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27531628"
-  },
-  {
-    "title": "Show HN: Create image mosaics with Polyfoto",
-    "url": "https://github.com/shanedrabing/polyfoto",
-    "upvotes": 19,
-    "author": "sdrabing",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27503415"
+    "title": "How to track users for analytics in a privacy-first, cookie-less future",
+    "url": "https://www.narrator.ai/blog/how-to-track-users-for-analytics-in-a-privacy-first-cookie-less-future/",
+    "upvotes": 9,
+    "author": "mattjstar",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27533299"
   },
   {
     "title": "Facebook will start putting ads in Oculus Quest apps",
     "url": "https://www.theverge.com/2021/6/16/22535511/facebook-ads-oculus-quest-vr-apps",
-    "upvotes": 71,
+    "upvotes": 97,
     "author": "marc__1",
-    "comments": 53,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=27532243"
+  },
+  {
+    "title": "Thinking Like Transformers",
+    "url": "https://arxiv.org/abs/2106.06981",
+    "upvotes": 136,
+    "author": "ArtWomb",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=27528004"
   },
   {
     "title": "Launch HN: Svix (YC W21) – Webhooks as a Service",
     "url": "item?id=27528202",
-    "upvotes": 76,
+    "upvotes": 77,
     "author": "tasn",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27528202"
+  },
+  {
+    "title": "Show HN: Create image mosaics with Polyfoto",
+    "url": "https://github.com/shanedrabing/polyfoto",
+    "upvotes": 23,
+    "author": "sdrabing",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27503415"
   },
   {
     "title": "Archaeologists discover and crack a thousand-year-old chicken egg",
     "url": "https://www.smithsonianmag.com/smart-news/intact-1000-year-old-chicken-egg-found-israel-180977970/",
-    "upvotes": 35,
+    "upvotes": 39,
     "author": "drdee",
-    "comments": 16,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27508106"
-  },
-  {
-    "title": "Why I no longer contribute to Racket",
-    "url": "https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html",
-    "upvotes": 270,
-    "author": "velcrovan",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=27531508"
-  },
-  {
-    "title": "People of SHA",
-    "url": "https://code.sgo.to/2021/06/14/sha256.html",
-    "upvotes": 4,
-    "author": "sgoto",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27510196"
-  },
-  {
-    "title": "Bear plus snowflake equals polar bear",
-    "url": "https://andysalerno.com/posts/weird-emojis/",
-    "upvotes": 4,
-    "author": "soopurman",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27529697"
   },
   {
     "title": "I Read the Entire Cybersecurity Executive Order; Here's What You Need to Know",
     "url": "https://lastweekasavciso.substack.com/p/i-read-the-entire-cybersecurity-executive",
-    "upvotes": 90,
+    "upvotes": 100,
     "author": "mooreds",
-    "comments": 50,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27527703"
   },
   {
-    "title": "California’s drought may have helped solve the mystery of a 1965 plane crash",
-    "url": "https://www.theguardian.com/us-news/2021/jun/15/folsom-lake-plane-crash-california-drought",
-    "upvotes": 48,
-    "author": "Thevet",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27516124"
+    "title": "Sponsored-By Proposal",
+    "url": "https://blog.liw.fi/posts/2021/05/26/sponsored-by/",
+    "upvotes": 24,
+    "author": "edward",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27531628"
   },
   {
     "title": "A Visualization of Galactic Settlement",
     "url": "https://www.centauri-dreams.org/2021/06/14/a-visualization-of-galactic-settlement/",
-    "upvotes": 155,
+    "upvotes": 158,
     "author": "the-mitr",
     "comments": 101,
     "link": "https://news.ycombinator.com/item?id=27527384"
   },
   {
+    "title": "California’s drought may have helped solve the mystery of a 1965 plane crash",
+    "url": "https://www.theguardian.com/us-news/2021/jun/15/folsom-lake-plane-crash-california-drought",
+    "upvotes": 51,
+    "author": "Thevet",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27516124"
+  },
+  {
+    "title": "Why I no longer contribute to Racket",
+    "url": "https://beautifulracket.com/appendix/why-i-no-longer-contribute-to-racket.html",
+    "upvotes": 301,
+    "author": "velcrovan",
+    "comments": 140,
+    "link": "https://news.ycombinator.com/item?id=27531508"
+  },
+  {
     "title": "A Star Is Born",
     "url": "https://www.laphamsquarterly.org/roundtable/star-born",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "benbreen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27510287"
