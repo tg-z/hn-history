@@ -2,15 +2,15 @@
   {
     "title": "The most copied StackOverflow snippet of all time is flawed",
     "url": "https://programming.guide/worlds-most-copied-so-snippet.html",
-    "upvotes": 394,
+    "upvotes": 410,
     "author": "vinnyglennon",
-    "comments": 171,
+    "comments": 180,
     "link": "https://news.ycombinator.com/item?id=27533684"
   },
   {
     "title": "Wayfinder – a relaxing 'art game' in the browser",
     "url": "https://wayfinder.nfb.ca/",
-    "upvotes": 445,
+    "upvotes": 456,
     "author": "vnglst",
     "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27532068"
@@ -18,39 +18,39 @@
   {
     "title": "Note Taking in 2021",
     "url": "http://blog.dornea.nu/2021/06/13/note-taking-in-2021/",
-    "upvotes": 87,
+    "upvotes": 92,
     "author": "cyneox",
-    "comments": 35,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27513008"
+  },
+  {
+    "title": "Stripe Reader",
+    "url": "https://stripe.com/terminal/stripe-reader",
+    "upvotes": 69,
+    "author": "lachyg",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27534156"
   },
   {
     "title": "Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness",
     "url": "https://eprint.iacr.org/2021/819",
-    "upvotes": 414,
+    "upvotes": 417,
     "author": "anonymfus",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=27529768"
   },
   {
     "title": "Bear plus snowflake equals polar bear",
     "url": "https://andysalerno.com/posts/weird-emojis/",
-    "upvotes": 231,
+    "upvotes": 237,
     "author": "soopurman",
-    "comments": 60,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27529697"
-  },
-  {
-    "title": "Stripe Reader",
-    "url": "https://stripe.com/terminal/stripe-reader",
-    "upvotes": 61,
-    "author": "lachyg",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=27534156"
   },
   {
     "title": "A Beginner’s Guide to Miles Davis",
     "url": "https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/",
-    "upvotes": 147,
+    "upvotes": 151,
     "author": "tintinnabula",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27525047"
@@ -58,31 +58,31 @@
   {
     "title": "4-day workweek boosted workers' productivity by 40%, Microsoft Japan says",
     "url": "https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40",
-    "upvotes": 331,
+    "upvotes": 344,
     "author": "evo_9",
-    "comments": 110,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=27533755"
-  },
-  {
-    "title": "How to Boost Self Esteem and Stop Procrastinating",
-    "url": "https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination",
-    "upvotes": 102,
-    "author": "CommitLock",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27533988"
   },
   {
     "title": "Kids need freedom, too",
     "url": "https://www.persuasion.community/p/kids-need-freedom-too",
-    "upvotes": 301,
+    "upvotes": 310,
     "author": "jseliger",
-    "comments": 282,
+    "comments": 287,
     "link": "https://news.ycombinator.com/item?id=27530365"
+  },
+  {
+    "title": "How to Boost Self Esteem and Stop Procrastinating",
+    "url": "https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination",
+    "upvotes": 110,
+    "author": "CommitLock",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27533988"
   },
   {
     "title": "PyWhat: Identify Anything",
     "url": "https://github.com/bee-san/pyWhat",
-    "upvotes": 243,
+    "upvotes": 247,
     "author": "trueduke",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27526017"
@@ -90,7 +90,7 @@
   {
     "title": "Why I Support the Haskell Foundation",
     "url": "https://cdsmithus.medium.com/why-i-support-the-haskell-foundation-1ac3cda1f82f",
-    "upvotes": 22,
+    "upvotes": 27,
     "author": "cdsmith",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27535299"
@@ -98,66 +98,94 @@
   {
     "title": "Differential Dataflow for Mere Mortals",
     "url": "https://github.com/jamii/dida",
-    "upvotes": 58,
+    "upvotes": 64,
     "author": "luu",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27512224"
   },
   {
-    "title": "Representing SHA-256 Hashes as Avatars",
-    "url": "https://francoisbest.com/posts/2021/hashvatars",
-    "upvotes": 63,
-    "author": "flurly",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27534379"
+    "title": "A bare metal physical implementation of WASM. That's right, a WebAssembly CPU",
+    "url": "https://github.com/lastmjs/wasm-metal",
+    "upvotes": 51,
+    "author": "Kinrany",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27534572"
   },
   {
     "title": "Zero-downtime schema migrations in Postgres using views",
     "url": "https://fabianlindfors.se/blog/schema-migrations-in-postgres/",
-    "upvotes": 128,
+    "upvotes": 131,
     "author": "fabianlindfors",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=27531934"
   },
   {
-    "title": "My EC2 Wishlist",
-    "url": "http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html",
-    "upvotes": 90,
-    "author": "cperciva",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27524106"
-  },
-  {
-    "title": "Typed Pipes in Every Shell",
-    "url": "http://joeyh.name/blog/entry/typed_pipes_in_every_shell/",
-    "upvotes": 27,
-    "author": "zdw",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27535357"
-  },
-  {
     "title": "The UK’s pursuit of the perfect pitch changed football",
     "url": "https://www.theguardian.com/football/2021/jun/15/silicon-valley-of-turf-uk-perfect-football-pitch",
-    "upvotes": 32,
+    "upvotes": 35,
     "author": "you-bet",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27521984"
   },
   {
-    "title": "How does one get hired by a top cybercrime gang?",
-    "url": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
-    "upvotes": 207,
-    "author": "wyldfire",
-    "comments": 126,
-    "link": "https://news.ycombinator.com/item?id=27529049"
+    "title": "Representing SHA-256 Hashes as Avatars",
+    "url": "https://francoisbest.com/posts/2021/hashvatars",
+    "upvotes": 64,
+    "author": "flurly",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27534379"
+  },
+  {
+    "title": "My EC2 Wishlist",
+    "url": "http://www.daemonology.net/blog/2021-06-16-My-EC2-wishlist.html",
+    "upvotes": 92,
+    "author": "cperciva",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=27524106"
   },
   {
     "title": "What happened in the impact crater the day it did in the dinos",
     "url": "https://arstechnica.com/science/2019/09/heres-what-happened-in-the-impact-crater-the-day-it-did-in-the-dinos/",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "Tomte",
-    "comments": 6,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27526936"
+  },
+  {
+    "title": "How does one get hired by a top cybercrime gang?",
+    "url": "https://krebsonsecurity.com/2021/06/how-does-one-get-hired-by-a-top-cybercrime-gang/",
+    "upvotes": 210,
+    "author": "wyldfire",
+    "comments": 127,
+    "link": "https://news.ycombinator.com/item?id=27529049"
+  },
+  {
+    "title": "Cortex",
+    "url": "https://www.workatastartup.com/jobs/29595"
+  },
+  {
+    "title": "Improv Wi-Fi: Open Standard for Setting Up Wi-Fi via Bluetooth LE",
+    "url": "https://www.improv-wifi.com/",
+    "upvotes": 35,
+    "author": "balloob",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27534448"
+  },
+  {
+    "title": "Typed Pipes in Every Shell",
+    "url": "http://joeyh.name/blog/entry/typed_pipes_in_every_shell/",
+    "upvotes": 29,
+    "author": "zdw",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27535357"
+  },
+  {
+    "title": "When pop history bombs: a response to Malcolm Gladwell",
+    "url": "https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/",
+    "upvotes": 225,
+    "author": "diodorus",
+    "comments": 188,
+    "link": "https://news.ycombinator.com/item?id=27506171"
   },
   {
     "title": "Manufacturing next-generation electronics like they are T-Shirts",
@@ -168,32 +196,36 @@
     "link": "https://news.ycombinator.com/item?id=27526020"
   },
   {
-    "title": "Cortex",
-    "url": "https://www.workatastartup.com/jobs/29595"
+    "title": "Saving books by keeping them expensive",
+    "url": "https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html",
+    "upvotes": 32,
+    "author": "TheTrotters",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27517895"
   },
   {
-    "title": "A bare metal physical implementation of WASM. That's right, a WebAssembly CPU",
-    "url": "https://github.com/lastmjs/wasm-metal",
-    "upvotes": 43,
-    "author": "Kinrany",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27534572"
+    "title": "Launch HN: Svix (YC W21) – Webhooks as a Service",
+    "url": "item?id=27528202",
+    "upvotes": 97,
+    "author": "tasn",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27528202"
   },
   {
-    "title": "When pop history bombs: a response to Malcolm Gladwell",
-    "url": "https://lareviewofbooks.org/article/when-pop-history-bombs-a-response-to-malcolm-gladwells-love-letter-to-american-air-power/",
-    "upvotes": 222,
-    "author": "diodorus",
-    "comments": 186,
-    "link": "https://news.ycombinator.com/item?id=27506171"
+    "title": "Execute Docker Containers as QEMU MicroVMs",
+    "url": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
+    "upvotes": 146,
+    "author": "DarkPlayer",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27530074"
   },
   {
-    "title": "Improv Wi-Fi: Open Standard for Setting Up Wi-Fi via Bluetooth LE",
-    "url": "https://www.improv-wifi.com/",
-    "upvotes": 33,
-    "author": "balloob",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27534448"
+    "title": "Asymmetries in Fundraising",
+    "url": "https://blog.aaronkharris.com/asymmetries-in-fundraising",
+    "upvotes": 50,
+    "author": "akharris",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27516013"
   },
   {
     "title": "4K Aliasing",
@@ -202,37 +234,5 @@
     "author": "SerCe",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27526035"
-  },
-  {
-    "title": "Launch HN: Svix (YC W21) – Webhooks as a Service",
-    "url": "item?id=27528202",
-    "upvotes": 97,
-    "author": "tasn",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27528202"
-  },
-  {
-    "title": "Execute Docker Containers as QEMU MicroVMs",
-    "url": "https://mergeboard.com/blog/2-qemu-microvm-docker/",
-    "upvotes": 145,
-    "author": "DarkPlayer",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=27530074"
-  },
-  {
-    "title": "Asymmetries in Fundraising",
-    "url": "https://blog.aaronkharris.com/asymmetries-in-fundraising",
-    "upvotes": 49,
-    "author": "akharris",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27516013"
-  },
-  {
-    "title": "Saving books by keeping them expensive",
-    "url": "https://themillions.com/2011/09/the-german-solution-saving-books-by-keeping-them-expensive.html",
-    "upvotes": 28,
-    "author": "TheTrotters",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27517895"
   }
 ]
