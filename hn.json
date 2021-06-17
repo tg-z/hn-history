@@ -1,76 +1,76 @@
 [
   {
-    "title": "Apology",
-    "url": "https://felleisen.org/matthias/Thoughts/Apology.html",
-    "upvotes": 43,
-    "author": "tiagoleifert",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27544797"
-  },
-  {
     "title": "I wrote a children's book / illustrated guide to Apache Kafka",
     "url": "https://gentlydownthe.stream/",
-    "upvotes": 580,
+    "upvotes": 645,
     "author": "mitchum_",
-    "comments": 108,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=27541339"
   },
   {
     "title": "Rethinking Triplebyte",
     "url": "https://triplebyte.com/blog/rethinking-triplebyte",
-    "upvotes": 196,
+    "upvotes": 215,
     "author": "Harj",
-    "comments": 187,
+    "comments": 214,
     "link": "https://news.ycombinator.com/item?id=27541676"
   },
   {
     "title": "Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers",
     "url": "https://github.com/organicmaps/organicmaps",
-    "upvotes": 79,
+    "upvotes": 99,
     "author": "yewenjie",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27543012"
   },
   {
-    "title": "The Hair Dryer Incident",
-    "url": "http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/",
-    "upvotes": 203,
-    "author": "bschne",
-    "comments": 135,
-    "link": "https://news.ycombinator.com/item?id=27542217"
-  },
-  {
     "title": "Start Your Own ISP",
     "url": "https://startyourownisp.com/",
-    "upvotes": 352,
+    "upvotes": 367,
     "author": "maxwell",
     "comments": 104,
     "link": "https://news.ycombinator.com/item?id=27539165"
   },
   {
+    "title": "The Hair Dryer Incident",
+    "url": "http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/",
+    "upvotes": 219,
+    "author": "bschne",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=27542217"
+  },
+  {
+    "title": "Biochemical Pathway Maps",
+    "url": "http://biochemical-pathways.com",
+    "upvotes": 15,
+    "author": "exar0815",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27544894"
+  },
+  {
     "title": "Io_uring is not an event system",
     "url": "https://despairlabs.com/posts/2021-06-16-io-uring-is-not-an-event-system/",
-    "upvotes": 210,
+    "upvotes": 215,
     "author": "ot",
     "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27540248"
+  },
+  {
+    "title": "The collapse of the IRON stable coin",
+    "url": "https://irony-97882.medium.com/the-melting-of-iron-89469b01e083",
+    "upvotes": 271,
+    "author": "parsimoniousplb",
+    "comments": 293,
+    "link": "https://news.ycombinator.com/item?id=27539368"
   },
   {
     "title": "Draftbit",
     "url": "https://www.ycombinator.com/companies/draftbit/jobs/Fj0Gn7Y8I-senior-software-engineer"
   },
   {
-    "title": "The collapse of the IRON stable coin",
-    "url": "https://irony-97882.medium.com/the-melting-of-iron-89469b01e083",
-    "upvotes": 253,
-    "author": "parsimoniousplb",
-    "comments": 279,
-    "link": "https://news.ycombinator.com/item?id=27539368"
-  },
-  {
     "title": "CaribouLite: Turn any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR",
     "url": "https://github.com/cariboulabs/cariboulite",
-    "upvotes": 158,
+    "upvotes": 165,
     "author": "todsacerdoti",
     "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27539834"
@@ -78,161 +78,161 @@
   {
     "title": "Nuitka: a Python compiler written in Python",
     "url": "https://github.com/Nuitka/Nuitka",
-    "upvotes": 429,
+    "upvotes": 433,
     "author": "stunt",
-    "comments": 156,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=27537819"
   },
   {
     "title": "In Argentina, cheap government-issued netbooks sparked a musical Renaissance",
     "url": "https://restofworld.org/2021/argentina-netbooks-music/",
-    "upvotes": 193,
+    "upvotes": 197,
     "author": "truth_",
-    "comments": 90,
+    "comments": 99,
     "link": "https://news.ycombinator.com/item?id=27539219"
+  },
+  {
+    "title": "On Depression and Founders",
+    "url": "https://startupstrats.substack.com/p/dont-kill-yourself",
+    "upvotes": 46,
+    "author": "jdbiggs",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27543543"
   },
   {
     "title": "How Notion pulled itself back from the brink of failure",
     "url": "https://www.figma.com/blog/design-on-a-deadline-how-notion-pulled-itself-back-from-the-brink-of-failure/",
-    "upvotes": 80,
+    "upvotes": 89,
     "author": "corentin88",
-    "comments": 85,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27540471"
+  },
+  {
+    "title": "Six ways to make async Rust easier",
+    "url": "https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/",
+    "upvotes": 46,
+    "author": "gbrown_",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27542504"
   },
   {
     "title": "Cool URIs don't change",
     "url": "https://www.w3.org/Provider/Style/URI.html",
-    "upvotes": 274,
+    "upvotes": 275,
     "author": "Tomte",
-    "comments": 125,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=27537840"
   },
   {
-    "title": "Amazon Appstore will reduce its developer revenue cut",
-    "url": "https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/",
-    "upvotes": 195,
-    "author": "WaitWaitWha",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=27541614"
-  },
-  {
-    "title": "Syria’s exam-related Internet shutdowns",
-    "url": "https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/",
-    "upvotes": 100,
-    "author": "jgrahamc",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=27538443"
+    "title": "PHP has been removed in macOS Monterey",
+    "url": "https://developer.apple.com/forums/thread/681907",
+    "upvotes": 363,
+    "author": "ingve",
+    "comments": 335,
+    "link": "https://news.ycombinator.com/item?id=27537040"
   },
   {
     "title": "General Fusion to build demonstration plant in UK",
     "url": "https://www.bbc.co.uk/news/science-environment-57512229",
-    "upvotes": 101,
+    "upvotes": 104,
     "author": "hanoz",
-    "comments": 138,
+    "comments": 140,
     "link": "https://news.ycombinator.com/item?id=27539987"
   },
   {
     "title": "Exploring performance differences between Amazon Aurora and vanilla MySQL",
     "url": "https://plaid.com/blog/exploring-performance-differences-between-amazon-aurora-and-vanilla-mysql",
-    "upvotes": 78,
+    "upvotes": 81,
     "author": "bjacokes",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27540560"
   },
   {
-    "title": "On Depression and Founders",
-    "url": "https://startupstrats.substack.com/p/dont-kill-yourself",
-    "upvotes": 35,
-    "author": "jdbiggs",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27543543"
+    "title": "Amazon Appstore will reduce its developer revenue cut",
+    "url": "https://www.aftvnews.com/amazon-appstore-will-reduce-developer-revenue-cut-from-30-to-20-and-give-10-in-free-aws-credit/",
+    "upvotes": 199,
+    "author": "WaitWaitWha",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=27541614"
   },
   {
-    "title": "PHP has been removed in macOS Monterey",
-    "url": "https://developer.apple.com/forums/thread/681907",
-    "upvotes": 355,
-    "author": "ingve",
-    "comments": 328,
-    "link": "https://news.ycombinator.com/item?id=27537040"
+    "title": "Uefa warns teams could be fined if they move drinks at news conferences",
+    "url": "https://www.bbc.com/sport/football/57517337",
+    "upvotes": 4,
+    "author": "aliasEli",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27545022"
+  },
+  {
+    "title": "Syria’s exam-related Internet shutdowns",
+    "url": "https://blog.cloudflare.com/syria-exam-related-internet-shutdowns/",
+    "upvotes": 101,
+    "author": "jgrahamc",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=27538443"
   },
   {
     "title": "Still Farther South: Poe and Pym’s Suggestive Symmetries",
     "url": "https://publicdomainreview.org/essay/still-farther-south",
-    "upvotes": 7,
+    "upvotes": 9,
     "author": "drdee",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27530206"
   },
   {
-    "title": "Mind reading technology: helmet aims to unlock brain's secrets",
-    "url": "https://www.bloomberg.com/news/features/2021-06-16/braintree-founder-s-helmet-size-hospital-aims-to-mine-mind-data",
-    "upvotes": 30,
-    "author": "carride",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27529176"
-  },
-  {
     "title": "Remembering the time it rained 6k pounds of marijuana on Yosemite",
     "url": "https://activenorcal.com/remembering-the-time-it-rained-6000-pounds-of-marijuana-on-yosemite/",
-    "upvotes": 57,
+    "upvotes": 66,
     "author": "kyleblarson",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27533494"
-  },
-  {
-    "title": "U.S. Fed accepts $756B in daily reverse repo operation",
-    "url": "https://www.reuters.com/article/usa-fed-reverse-repo/u-s-fed-accepts-755-8-bln-in-daily-reverse-repo-operation-ny-fed-idUSAQN04ASM9",
-    "upvotes": 150,
-    "author": "dgellow",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=27542721"
-  },
-  {
-    "title": "Six ways to make async Rust easier",
-    "url": "https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/",
-    "upvotes": 38,
-    "author": "gbrown_",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27542504"
   },
   {
     "title": "Textual: a Python text user interface with Rich as the renderer",
     "url": "https://github.com/willmcgugan/textual",
-    "upvotes": 94,
+    "upvotes": 96,
     "author": "trueduke",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27526031"
   },
   {
-    "title": "A Historical Look at the VAX: Microprocessor Economics",
-    "url": "https://www.realworldtech.com/vax-cpu-economics/",
-    "upvotes": 36,
-    "author": "lordgrenville",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27527140"
+    "title": "Mind reading technology: helmet aims to unlock brain's secrets",
+    "url": "https://www.bloomberg.com/news/features/2021-06-16/braintree-founder-s-helmet-size-hospital-aims-to-mine-mind-data",
+    "upvotes": 32,
+    "author": "carride",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27529176"
+  },
+  {
+    "title": "U.S. Fed accepts $756B in daily reverse repo operation",
+    "url": "https://www.reuters.com/article/usa-fed-reverse-repo/u-s-fed-accepts-755-8-bln-in-daily-reverse-repo-operation-ny-fed-idUSAQN04ASM9",
+    "upvotes": 158,
+    "author": "dgellow",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=27542721"
   },
   {
     "title": "Spatial Audio",
     "url": "https://lefsetz.com/wordpress/2021/06/11/spatial-audio/",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "obiefernandez",
-    "comments": 70,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=27522237"
+  },
+  {
+    "title": "A Historical Look at the VAX: Microprocessor Economics",
+    "url": "https://www.realworldtech.com/vax-cpu-economics/",
+    "upvotes": 39,
+    "author": "lordgrenville",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27527140"
   },
   {
     "title": "1931: Kurt Gödel shows limits of math, logic, computing, AI",
     "url": "https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html",
-    "upvotes": 258,
+    "upvotes": 266,
     "author": "hardmaru",
-    "comments": 154,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=27536974"
-  },
-  {
-    "title": "The elemental strangeness of foxes",
-    "url": "https://www.plough.com/en/topics/justice/environment/the-elemental-strangeness-of-foxes",
-    "upvotes": 45,
-    "author": "swibbler",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27521970"
   }
 ]
