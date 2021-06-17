@@ -1,88 +1,88 @@
 [
   {
-    "title": "Cool URIs don't change",
-    "url": "https://www.w3.org/Provider/Style/URI.html",
-    "upvotes": 39,
-    "author": "Tomte",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27537840"
-  },
-  {
     "title": "Python compiler written in Python to make standalone executables",
     "url": "https://github.com/Nuitka/Nuitka",
-    "upvotes": 39,
+    "upvotes": 75,
     "author": "stunt",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27537819"
+  },
+  {
+    "title": "Cool URIs don't change",
+    "url": "https://www.w3.org/Provider/Style/URI.html",
+    "upvotes": 52,
+    "author": "Tomte",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=27537840"
   },
   {
     "title": "1931: Kurt Gödel shows limits of math, logic, computing, AI",
     "url": "https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html",
-    "upvotes": 114,
+    "upvotes": 121,
     "author": "hardmaru",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27536974"
   },
   {
     "title": "Microsoft Ubuntu repositories are broken because of space issues",
     "url": "https://github.com/dotnet/core/issues/6381",
-    "upvotes": 57,
+    "upvotes": 75,
     "author": "NiekvdMaas",
-    "comments": 18,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27537112"
-  },
-  {
-    "title": "Show HN: GraphCDN, the GraphQL CDN with edge caching and analytics",
-    "url": "https://graphcdn.io/blog/announcing-graphcdn",
-    "upvotes": 111,
-    "author": "mxstbr",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27536878"
   },
   {
     "title": "The evolution of Smalltalk: from Smalltalk-72 through Squeak",
     "url": "https://dl.acm.org/doi/10.1145/3386335",
-    "upvotes": 9,
+    "upvotes": 15,
     "author": "tosh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27537913"
   },
   {
+    "title": "Show HN: GraphCDN, the GraphQL CDN with edge caching and analytics",
+    "url": "https://graphcdn.io/blog/announcing-graphcdn",
+    "upvotes": 120,
+    "author": "mxstbr",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=27536878"
+  },
+  {
     "title": "The most copied StackOverflow snippet of all time is flawed",
     "url": "https://programming.guide/worlds-most-copied-so-snippet.html",
-    "upvotes": 571,
+    "upvotes": 574,
     "author": "vinnyglennon",
-    "comments": 257,
+    "comments": 261,
     "link": "https://news.ycombinator.com/item?id=27533684"
   },
   {
     "title": "PHP has been removed in macOS Monterey",
     "url": "https://developer.apple.com/forums/thread/681907",
-    "upvotes": 92,
+    "upvotes": 106,
     "author": "ingve",
-    "comments": 89,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27537040"
   },
   {
     "title": "The High Cost of Keyword Search",
     "url": "https://blog.zir-ai.com/the-high-cost-of-keyword-search",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "svcrunch",
-    "comments": 10,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27523283"
   },
   {
     "title": "Bear plus snowflake equals polar bear",
     "url": "https://andysalerno.com/posts/weird-emojis/",
-    "upvotes": 330,
+    "upvotes": 335,
     "author": "soopurman",
-    "comments": 103,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27529697"
   },
   {
     "title": "How I Automated My Dotfiles Screenshots",
     "url": "https://blog.albingroen.com/posts/how-i-automated-my-dotfiles-screenshots",
-    "upvotes": 8,
+    "upvotes": 11,
     "author": "albingroen",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27537536"
@@ -90,79 +90,95 @@
   {
     "title": "Stripe Reader",
     "url": "https://stripe.com/terminal/stripe-reader",
-    "upvotes": 147,
+    "upvotes": 149,
     "author": "lachyg",
-    "comments": 87,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27534156"
-  },
-  {
-    "title": "A Hole in the Head: A History of Trepanation",
-    "url": "https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/",
-    "upvotes": 39,
-    "author": "fortran77",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27536156"
-  },
-  {
-    "title": "Note Taking in 2021",
-    "url": "http://blog.dornea.nu/2021/06/13/note-taking-in-2021/",
-    "upvotes": 185,
-    "author": "cyneox",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=27513008"
   },
   {
     "title": "A Beginner’s Guide to Miles Davis",
     "url": "https://samenright.com/2021/06/06/a-beginners-guide-to-miles-davis/",
-    "upvotes": 226,
+    "upvotes": 230,
     "author": "tintinnabula",
-    "comments": 81,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=27525047"
+  },
+  {
+    "title": "A Hole in the Head: A History of Trepanation",
+    "url": "https://thereader.mitpress.mit.edu/hole-in-the-head-trepanation/",
+    "upvotes": 40,
+    "author": "fortran77",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27536156"
   },
   {
     "title": "How to Boost Self Esteem and Stop Procrastinating",
     "url": "https://neuralshifter.com/posts/boost-self-esteem-stop-procrastination",
-    "upvotes": 193,
+    "upvotes": 198,
     "author": "CommitLock",
-    "comments": 94,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27533988"
+  },
+  {
+    "title": "Note Taking in 2021",
+    "url": "http://blog.dornea.nu/2021/06/13/note-taking-in-2021/",
+    "upvotes": 187,
+    "author": "cyneox",
+    "comments": 113,
+    "link": "https://news.ycombinator.com/item?id=27513008"
   },
   {
     "title": "Ask HN: What is your “sales stack”?",
     "url": "item?id=27525819",
-    "upvotes": 32,
+    "upvotes": 40,
     "author": "oliverx0",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27525819"
   },
   {
     "title": "4-day workweek boosted workers' productivity by 40%, Microsoft Japan says",
     "url": "https://www.npr.org/2019/11/04/776163853/microsoft-japan-says-4-day-workweek-boosted-workers-productivity-by-40",
-    "upvotes": 473,
+    "upvotes": 480,
     "author": "evo_9",
-    "comments": 160,
+    "comments": 162,
     "link": "https://news.ycombinator.com/item?id=27533755"
   },
   {
     "title": "Spatial Audio",
     "url": "https://lefsetz.com/wordpress/2021/06/11/spatial-audio/",
-    "upvotes": 12,
+    "upvotes": 13,
     "author": "obiefernandez",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27522237"
   },
   {
     "title": "Why I Support the Haskell Foundation",
     "url": "https://cdsmithus.medium.com/why-i-support-the-haskell-foundation-1ac3cda1f82f",
-    "upvotes": 73,
+    "upvotes": 77,
     "author": "cdsmith",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27535299"
+  },
+  {
+    "title": "China Launches First Crew to Live on New Space Station",
+    "url": "https://www.npr.org/2021/06/17/1007471106/china-launches-first-crew-to-live-on-new-space-station",
+    "upvotes": 7,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27538171"
+  },
+  {
+    "title": "A Survey of Transformers",
+    "url": "https://papers.labml.ai/paper/2106.04554",
+    "upvotes": 21,
+    "author": "vpj",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27524971"
   },
   {
     "title": "Differential Dataflow for Mere Mortals",
     "url": "https://github.com/jamii/dida",
-    "upvotes": 105,
+    "upvotes": 107,
     "author": "luu",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27512224"
@@ -170,7 +186,7 @@
   {
     "title": "A bare metal physical implementation of WASM. That's right, a WebAssembly CPU",
     "url": "https://github.com/lastmjs/wasm-metal",
-    "upvotes": 104,
+    "upvotes": 106,
     "author": "Kinrany",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27534572"
@@ -178,7 +194,7 @@
   {
     "title": "Wayfinder – a relaxing 'art game' in the browser",
     "url": "https://wayfinder.nfb.ca/",
-    "upvotes": 578,
+    "upvotes": 583,
     "author": "vnglst",
     "comments": 114,
     "link": "https://news.ycombinator.com/item?id=27532068"
@@ -188,24 +204,24 @@
     "url": "https://www.bigmessowires.com/2021/06/01/when-a-space-is-not-a-space/",
     "upvotes": 14,
     "author": "erickhill",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27516943"
-  },
-  {
-    "title": "A Survey of Transformers",
-    "url": "https://papers.labml.ai/paper/2106.04554",
-    "upvotes": 18,
-    "author": "vpj",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27524971"
   },
   {
     "title": "Representing SHA-256 Hashes as Avatars",
     "url": "https://francoisbest.com/posts/2021/hashvatars",
-    "upvotes": 105,
+    "upvotes": 106,
     "author": "flurly",
     "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27534379"
+  },
+  {
+    "title": "Improv Wi-Fi: Open Standard for Setting Up Wi-Fi via Bluetooth LE",
+    "url": "https://www.improv-wifi.com/",
+    "upvotes": 63,
+    "author": "balloob",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27534448"
   },
   {
     "title": "My EC2 Wishlist",
@@ -216,23 +232,11 @@
     "link": "https://news.ycombinator.com/item?id=27524106"
   },
   {
-    "title": "Improv Wi-Fi: Open Standard for Setting Up Wi-Fi via Bluetooth LE",
-    "url": "https://www.improv-wifi.com/",
-    "upvotes": 61,
-    "author": "balloob",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27534448"
-  },
-  {
     "title": "Cryptanalysis of GPRS Encryption Algorithms GEA-1 suggest intentional weakness",
     "url": "https://eprint.iacr.org/2021/819",
-    "upvotes": 451,
+    "upvotes": 455,
     "author": "anonymfus",
     "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27529768"
-  },
-  {
-    "title": "Cortex",
-    "url": "https://www.workatastartup.com/jobs/29595"
   }
 ]
