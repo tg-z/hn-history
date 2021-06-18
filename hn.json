@@ -1,64 +1,80 @@
 [
   {
+    "title": "TDD from the Factorio Team",
+    "url": "https://factorio.com/blog/post/fff-366",
+    "upvotes": 5,
+    "author": "sorahn",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27549143"
+  },
+  {
     "title": "How many flies are in my apartment?",
     "url": "https://saml98.github.io/jekyll/update/2021/06/13/flies.html",
-    "upvotes": 43,
+    "upvotes": 61,
     "author": "maverickleopard",
-    "comments": 17,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27535573"
+  },
+  {
+    "title": "Instant realtime GraphQL with built-in authorization for SQL Server",
+    "url": "https://github.com/hasura/graphql-engine/blob/master/architecture/sql-server.md",
+    "upvotes": 5,
+    "author": "tango12",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27549164"
   },
   {
     "title": "Internal competition can often be the most dangerous kind",
     "url": "https://madned.substack.com/p/the-enemy-within",
-    "upvotes": 174,
+    "upvotes": 178,
     "author": "mad_ned",
-    "comments": 98,
+    "comments": 101,
     "link": "https://news.ycombinator.com/item?id=27534145"
-  },
-  {
-    "title": "Your product is a joke: lessons from improv to build better product",
-    "url": "https://www.eesel.app/blog/your-product-is-a-joke",
-    "upvotes": 101,
-    "author": "amoghs",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27539726"
   },
   {
     "title": "The Document Culture of Amazon",
     "url": "https://www.justingarrison.com/blog/2021-03-15-the-document-culture-of-amazon/",
-    "upvotes": 269,
+    "upvotes": 282,
     "author": "ecliptik",
-    "comments": 113,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=27545331"
+  },
+  {
+    "title": "Your product is a joke: lessons from improv to build better product",
+    "url": "https://www.eesel.app/blog/your-product-is-a-joke",
+    "upvotes": 104,
+    "author": "amoghs",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27539726"
   },
   {
     "title": "Organicmaps: Android and iOS offline maps app for travelers, tourists, hikers",
     "url": "https://github.com/organicmaps/organicmaps",
-    "upvotes": 304,
+    "upvotes": 306,
     "author": "yewenjie",
-    "comments": 87,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=27543012"
-  },
-  {
-    "title": "I wrote a children's book / illustrated guide to Apache Kafka",
-    "url": "https://gentlydownthe.stream/",
-    "upvotes": 1466,
-    "author": "mitchum_",
-    "comments": 197,
-    "link": "https://news.ycombinator.com/item?id=27541339"
   },
   {
     "title": "There is no “us” in team",
     "url": "https://www.sicpers.info/2021/06/there-is-no-us-in-team/",
-    "upvotes": 58,
+    "upvotes": 64,
     "author": "williamsmj",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27547422"
+  },
+  {
+    "title": "I wrote a children's book / illustrated guide to Apache Kafka",
+    "url": "https://gentlydownthe.stream/",
+    "upvotes": 1480,
+    "author": "mitchum_",
+    "comments": 198,
+    "link": "https://news.ycombinator.com/item?id=27541339"
   },
   {
     "title": "Biochemical Pathway Maps",
     "url": "http://biochemical-pathways.com",
-    "upvotes": 194,
+    "upvotes": 199,
     "author": "exar0815",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27544894"
@@ -66,173 +82,157 @@
   {
     "title": "HBO Max accidentally sent an integration email test to users",
     "url": "https://twitter.com/internetofshit/status/1405682888545349635",
-    "upvotes": 373,
+    "upvotes": 379,
     "author": "minimaxir",
-    "comments": 238,
+    "comments": 244,
     "link": "https://news.ycombinator.com/item?id=27546017"
-  },
-  {
-    "title": "Designing a URL-based query syntax for GraphQL",
-    "url": "https://blog.logrocket.com/designing-url-based-query-syntax-graphql/",
-    "upvotes": 31,
-    "author": "leoloso",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27547337"
-  },
-  {
-    "title": "DenoDB",
-    "url": "https://github.com/eveningkid/denodb",
-    "upvotes": 164,
-    "author": "0xedb",
-    "comments": 116,
-    "link": "https://news.ycombinator.com/item?id=27546705"
-  },
-  {
-    "title": "Liquidity of Skill",
-    "url": "https://thesephist.com/posts/liquidity/",
-    "upvotes": 26,
-    "author": "thesephist",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27534786"
   },
   {
     "title": "Orange Health",
     "url": "https://www.orangehealth.in/jobs/sr.-product-manager-%2F-product-owner"
   },
   {
+    "title": "Designing a URL-based query syntax for GraphQL",
+    "url": "https://blog.logrocket.com/designing-url-based-query-syntax-graphql/",
+    "upvotes": 32,
+    "author": "leoloso",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27547337"
+  },
+  {
+    "title": "Liquidity of Skill",
+    "url": "https://thesephist.com/posts/liquidity/",
+    "upvotes": 30,
+    "author": "thesephist",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27534786"
+  },
+  {
     "title": "I Treated My Unhealthy Gaming Obsession with More Games",
     "url": "https://www.wired.com/story/i-treated-my-unhealthy-gaming-obsession-with-more-games/",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "valprop1",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27527200"
   },
   {
     "title": "On Depression and Founders",
     "url": "https://startupstrats.substack.com/p/dont-kill-yourself",
-    "upvotes": 183,
+    "upvotes": 188,
     "author": "jdbiggs",
-    "comments": 104,
+    "comments": 107,
     "link": "https://news.ycombinator.com/item?id=27543543"
   },
   {
     "title": "Useful and useless code comments",
     "url": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
-    "upvotes": 78,
+    "upvotes": 81,
     "author": "jerodsanto",
-    "comments": 115,
+    "comments": 117,
     "link": "https://news.ycombinator.com/item?id=27542319"
   },
   {
-    "title": "What's Happened to the National Trust",
-    "url": "https://andrewhowells.substack.com/p/whats-happened-to-the-national-trust",
-    "upvotes": 19,
-    "author": "thezipster",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27548405"
-  },
-  {
-    "title": "Commodore 64 and Raspberry Pi 4 = Synth6581",
-    "url": "https://www.raspberrypi.org/blog/commodore-64-raspberry-pi-4-synth6581/",
-    "upvotes": 16,
-    "author": "fangorn",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27548688"
+    "title": "DenoDB",
+    "url": "https://github.com/eveningkid/denodb",
+    "upvotes": 167,
+    "author": "0xedb",
+    "comments": 120,
+    "link": "https://news.ycombinator.com/item?id=27546705"
   },
   {
     "title": "Selfish vs. selfless: self-promotion in communities",
     "url": "https://thebootstrappedfounder.com/selfish-vs-selfless-self-promotion-in-communities/",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "arvidkahl",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27539823"
   },
   {
+    "title": "Commodore 64 and Raspberry Pi 4 = Synth6581",
+    "url": "https://www.raspberrypi.org/blog/commodore-64-raspberry-pi-4-synth6581/",
+    "upvotes": 18,
+    "author": "fangorn",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27548688"
+  },
+  {
     "title": "The Siberian unicorn lived at the same time as modern humans",
     "url": "https://www.nhm.ac.uk/discover/news/2018/november/the-siberian-unicorn-lived-at-the-same-time-as-modern-humans.html",
-    "upvotes": 49,
+    "upvotes": 50,
     "author": "Vigier",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27524312"
   },
   {
     "title": "Ribosome – A simple generic code generation tool",
     "url": "http://sustrik.github.io/ribosome/",
-    "upvotes": 48,
+    "upvotes": 49,
     "author": "cocoflunchy",
-    "comments": 9,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27527378"
   },
   {
     "title": "The Hair Dryer Incident",
     "url": "http://quotulatiousness.ca/blog/2016/02/02/qotd-the-hair-dryer-incident/",
-    "upvotes": 331,
+    "upvotes": 334,
     "author": "bschne",
-    "comments": 236,
+    "comments": 238,
     "link": "https://news.ycombinator.com/item?id=27542217"
-  },
-  {
-    "title": "Thirty Tesla crashes linked to assisted driving system under investigation in US",
-    "url": "https://www.theguardian.com/technology/2021/jun/18/thirty-tesla-crashes-linked-to-assisted-driving-system-under-investigation-in-us",
-    "upvotes": 74,
-    "author": "mindracer",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=27547596"
   },
   {
     "title": "Six ways to make async Rust easier",
     "url": "https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/",
-    "upvotes": 132,
+    "upvotes": 136,
     "author": "gbrown_",
-    "comments": 41,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27542504"
+  },
+  {
+    "title": "Thirty Tesla crashes linked to assisted driving system under investigation in US",
+    "url": "https://www.theguardian.com/technology/2021/jun/18/thirty-tesla-crashes-linked-to-assisted-driving-system-under-investigation-in-us",
+    "upvotes": 79,
+    "author": "mindracer",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=27547596"
   },
   {
     "title": "1931: Kurt Gödel shows limits of math, logic, computing, AI",
     "url": "https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html",
-    "upvotes": 311,
+    "upvotes": 312,
     "author": "hardmaru",
     "comments": 193,
     "link": "https://news.ycombinator.com/item?id=27536974"
   },
   {
-    "title": "HK's Apple Daily raided by 500 officers over national security law",
-    "url": "https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-newspaper-says-police-arrest-five-directors-2021-06-16",
-    "upvotes": 330,
-    "author": "awb",
-    "comments": 177,
-    "link": "https://news.ycombinator.com/item?id=27546138"
+    "title": "Remembering the time it rained 6k pounds of marijuana on Yosemite",
+    "url": "https://activenorcal.com/remembering-the-time-it-rained-6000-pounds-of-marijuana-on-yosemite/",
+    "upvotes": 130,
+    "author": "kyleblarson",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=27533494"
   },
   {
     "title": "Rethinking Triplebyte",
     "url": "https://triplebyte.com/blog/rethinking-triplebyte",
     "upvotes": 386,
     "author": "Harj",
-    "comments": 396,
+    "comments": 397,
     "link": "https://news.ycombinator.com/item?id=27541676"
   },
   {
-    "title": "Remembering the time it rained 6k pounds of marijuana on Yosemite",
-    "url": "https://activenorcal.com/remembering-the-time-it-rained-6000-pounds-of-marijuana-on-yosemite/",
-    "upvotes": 127,
-    "author": "kyleblarson",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27533494"
+    "title": "HK's Apple Daily raided by 500 officers over national security law",
+    "url": "https://www.reuters.com/world/asia-pacific/hong-kongs-apple-daily-newspaper-says-police-arrest-five-directors-2021-06-16",
+    "upvotes": 337,
+    "author": "awb",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=27546138"
   },
   {
     "title": "Start Your Own ISP",
     "url": "https://startyourownisp.com/",
-    "upvotes": 540,
+    "upvotes": 546,
     "author": "maxwell",
     "comments": 142,
     "link": "https://news.ycombinator.com/item?id=27539165"
-  },
-  {
-    "title": "Spatial Audio",
-    "url": "https://lefsetz.com/wordpress/2021/06/11/spatial-audio/",
-    "upvotes": 121,
-    "author": "obiefernandez",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=27522237"
   }
 ]
