@@ -2,57 +2,65 @@
   {
     "title": "Safari 15 on Mac OS, a user interface mess",
     "url": "https://morrick.me/archives/9368",
-    "upvotes": 51,
+    "upvotes": 95,
     "author": "freediver",
-    "comments": 10,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27559832"
   },
   {
     "title": "Spectre Mitigations Murder Userspace Performance",
     "url": "https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html",
-    "upvotes": 35,
+    "upvotes": 54,
     "author": "hasheddan",
-    "comments": 11,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27559795"
+  },
+  {
+    "title": "North Carolina tells retired engineer he can't talk about engineering",
+    "url": "https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/",
+    "upvotes": 92,
+    "author": "tomohawk",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27559804"
+  },
+  {
+    "title": "State of the Windows: How many layers of UI inconsistencies are in Windows 10?",
+    "url": "https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/",
+    "upvotes": 360,
+    "author": "spideymans",
+    "comments": 226,
+    "link": "https://news.ycombinator.com/item?id=27556754"
   },
   {
     "title": "Maddy: Composable all-in-one mail server",
     "url": "https://maddy.email/",
-    "upvotes": 207,
+    "upvotes": 218,
     "author": "todsacerdoti",
-    "comments": 82,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=27557542"
   },
   {
     "title": "A Tour of Safe Tracing GC Designs in Rust",
     "url": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/",
-    "upvotes": 26,
+    "upvotes": 32,
     "author": "belter",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27559239"
   },
   {
-    "title": "State of the Windows: How many layers of UI inconsistencies are in Windows 10?",
-    "url": "https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/",
-    "upvotes": 345,
-    "author": "spideymans",
-    "comments": 219,
-    "link": "https://news.ycombinator.com/item?id=27556754"
-  },
-  {
-    "title": "North Carolina tells retired engineer he can't talk about engineering",
-    "url": "https://ij.org/press-release/north-carolina-board-tells-retired-engineer-he-cant-talk-about-engineering/",
-    "upvotes": 35,
-    "author": "tomohawk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27559804"
+    "title": "Ask HN: Why Poetry did not become a mainstream package manager for Python?",
+    "url": "item?id=27559655",
+    "upvotes": 42,
+    "author": "rcshubhadeep",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27559655"
   },
   {
     "title": "CatMeows: A Publicly-Available Dataset of Cat Vocalizations",
     "url": "https://zenodo.org/record/4008297",
-    "upvotes": 252,
+    "upvotes": 255,
     "author": "diplodocusaur",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27556544"
   },
   {
@@ -60,57 +68,49 @@
     "url": "https://www.ycombinator.com/companies/avenue/jobs/G2sPjRf-software-engineer"
   },
   {
-    "title": "Massachusetts health notifications app installed without users’ knowledge",
-    "url": "https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true",
-    "upvotes": 472,
-    "author": "ulucs",
-    "comments": 217,
-    "link": "https://news.ycombinator.com/item?id=27558500"
-  },
-  {
     "title": "The inventor of the black box was told to drop the idea",
     "url": "https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks",
-    "upvotes": 144,
+    "upvotes": 146,
     "author": "sohkamyung",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27557124"
   },
   {
-    "title": "Ask HN: Why Poetry did not become a mainstream package manager for Python?",
-    "url": "item?id=27559655",
-    "upvotes": 28,
-    "author": "rcshubhadeep",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27559655"
+    "title": "Massachusetts health notifications app installed without users’ knowledge",
+    "url": "https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true",
+    "upvotes": 480,
+    "author": "ulucs",
+    "comments": 230,
+    "link": "https://news.ycombinator.com/item?id=27558500"
   },
   {
     "title": "A Provenance-aware Memory Object Model for C [pdf]",
     "url": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2676.pdf",
-    "upvotes": 32,
+    "upvotes": 33,
     "author": "signa11",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27549074"
-  },
-  {
-    "title": "The Irreplaceable Art of Translation",
-    "url": "https://www.prospectmagazine.co.uk/arts-and-books/the-irreplaceable-art-of-translation",
-    "upvotes": 14,
-    "author": "Vigier",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27541356"
   },
   {
     "title": "Advancing AI theory with first-principles understanding of deep neural networks",
     "url": "https://ai.facebook.com/blog/advancing-ai-theory-with-a-first-principles-understanding-of-deep-neural-networks/",
-    "upvotes": 19,
+    "upvotes": 24,
     "author": "pcaversaccio",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27559017"
+  },
+  {
+    "title": "The Irreplaceable Art of Translation",
+    "url": "https://www.prospectmagazine.co.uk/arts-and-books/the-irreplaceable-art-of-translation",
+    "upvotes": 15,
+    "author": "Vigier",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27541356"
   },
   {
     "title": "Why our “wandering brains” are wired to love art and nature",
     "url": "https://www.salon.com/2021/06/15/why-our-wandering-brains-are-wired-to-love-art-and-nature/",
-    "upvotes": 71,
+    "upvotes": 76,
     "author": "simonebrunozzi",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27526418"
@@ -118,23 +118,23 @@
   {
     "title": "AMD Is Working on Its Own Hybrid x86 CPU",
     "url": "https://www.extremetech.com/computing/323713-amd-is-working-on-its-own-hybrid-x86-cpu-patent-filing",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "GordonS",
-    "comments": 7,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27559515"
   },
   {
     "title": "Minimum Viable Self",
     "url": "https://kneelingbus.substack.com/p/162-minimum-viable-self",
-    "upvotes": 143,
+    "upvotes": 144,
     "author": "silt",
-    "comments": 59,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=27556092"
   },
   {
     "title": "Where Are Pixels? – A Deep Learning Perspective",
     "url": "https://ppwwyyxx.com/blog/2021/Where-are-Pixels/",
-    "upvotes": 60,
+    "upvotes": 63,
     "author": "thinxer",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27536525"
@@ -142,63 +142,63 @@
   {
     "title": "Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager",
     "url": "item?id=27550255",
-    "upvotes": 131,
+    "upvotes": 132,
     "author": "cadillion",
-    "comments": 124,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=27550255"
   },
   {
-    "title": "In 1850, Ignaz Semmelweis saved lives with three words: wash your hands",
-    "url": "https://www.pbs.org/newshour/health/ignaz-semmelweis-doctor-prescribed-hand-washing",
-    "upvotes": 92,
-    "author": "Hooke",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27541409"
+    "title": "Voltage, Amps, Resistance and LEDs",
+    "url": "https://blog.demofox.org/2021/06/15/voltage-amps-resistance-and-leds-ohms-law/",
+    "upvotes": 3,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27525615"
   },
   {
     "title": "When Graphs Are a Matter of Life and Death",
     "url": "https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death",
-    "upvotes": 70,
+    "upvotes": 72,
     "author": "pseudolus",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27556862"
   },
   {
     "title": "Adafruit interviews Siemens re SupplyFrame, the future of Hackaday, Tindie",
     "url": "https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/",
-    "upvotes": 86,
+    "upvotes": 90,
     "author": "ptorrone",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27556552"
   },
   {
     "title": "Troubled teens left traumatised by tough love camps",
     "url": "https://www.bbc.com/news/world-us-canada-57442175",
-    "upvotes": 257,
+    "upvotes": 264,
     "author": "Renaud",
-    "comments": 143,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=27557516"
+  },
+  {
+    "title": "BBC Programme Index: 9M listings and 221k playable programmes",
+    "url": "https://genome.ch.bbc.co.uk/",
+    "upvotes": 100,
+    "author": "timthorn",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=27555918"
   },
   {
     "title": "I Have No Group, and I Must Scream",
     "url": "https://bastian.rieck.me/blog/posts/2021/groups/",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "Topolomancer",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27536475"
   },
   {
-    "title": "BBC Programme Index: 9M listings and 221k playable programmes",
-    "url": "https://genome.ch.bbc.co.uk/",
-    "upvotes": 97,
-    "author": "timthorn",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27555918"
-  },
-  {
     "title": "Saying Goodbye to Android 2.3 Gingerbread",
     "url": "https://shatteredpixel.com/blog/saying-goodbye-to-android-2.3-gingerbread.html",
-    "upvotes": 87,
+    "upvotes": 88,
     "author": "JoshTriplett",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27556282"
@@ -208,8 +208,24 @@
     "url": "https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html",
     "upvotes": 63,
     "author": "axiomdata316",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27556077"
+  },
+  {
+    "title": "The Global Chessboard",
+    "url": "https://unchartedterritories.tomaspueyo.com/p/world-chessboard",
+    "upvotes": 68,
+    "author": "enigmatic02",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27556675"
+  },
+  {
+    "title": "Starlink dishes go into “thermal shutdown” once they hit 122° Fahrenheit",
+    "url": "https://arstechnica.com/information-technology/2021/06/starlink-dish-overheats-in-arizona-sun-knocking-user-offline-for-7-hours/",
+    "upvotes": 289,
+    "author": "lakis",
+    "comments": 459,
+    "link": "https://news.ycombinator.com/item?id=27526074"
   },
   {
     "title": "Estimating the Prevalence of Surveillance Cameras with Street View Data",
@@ -218,21 +234,5 @@
     "author": "giuliomagnifico",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27536424"
-  },
-  {
-    "title": "The Global Chessboard",
-    "url": "https://unchartedterritories.tomaspueyo.com/p/world-chessboard",
-    "upvotes": 64,
-    "author": "enigmatic02",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27556675"
-  },
-  {
-    "title": "Starlink dishes go into “thermal shutdown” once they hit 122° Fahrenheit",
-    "url": "https://arstechnica.com/information-technology/2021/06/starlink-dish-overheats-in-arizona-sun-knocking-user-offline-for-7-hours/",
-    "upvotes": 286,
-    "author": "lakis",
-    "comments": 454,
-    "link": "https://news.ycombinator.com/item?id=27526074"
   }
 ]
