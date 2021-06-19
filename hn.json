@@ -2,79 +2,87 @@
   {
     "title": "Google and Massachusetts have installed an app without consent or notification",
     "url": "https://play.google.com/store/apps/details?id=gov.ma.covid19.exposurenotifications.v3&showAllReviews=true",
-    "upvotes": 292,
+    "upvotes": 336,
     "author": "ulucs",
-    "comments": 139,
+    "comments": 158,
     "link": "https://news.ycombinator.com/item?id=27558500"
   },
   {
     "title": "Maddy: Composable all-in-one mail server",
     "url": "https://maddy.email/",
-    "upvotes": 145,
+    "upvotes": 157,
     "author": "todsacerdoti",
-    "comments": 62,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27557542"
   },
   {
     "title": "State of the Windows: How many layers of UI inconsistencies are in Windows 10?",
     "url": "https://ntdotdev.wordpress.com/2021/02/06/state-of-the-windows-how-many-layers-of-ui-inconsistencies-are-in-windows-10/",
-    "upvotes": 252,
+    "upvotes": 267,
     "author": "spideymans",
-    "comments": 150,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=27556754"
   },
   {
     "title": "CatMeows: A Publicly-Available Dataset of Cat Vocalizations",
     "url": "https://zenodo.org/record/4008297",
-    "upvotes": 218,
+    "upvotes": 224,
     "author": "diplodocusaur",
-    "comments": 51,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27556544"
+  },
+  {
+    "title": "The inventor of the black box was told to drop the idea",
+    "url": "https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks",
+    "upvotes": 111,
+    "author": "sohkamyung",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=27557124"
   },
   {
     "title": "Starlink dishes go into “thermal shutdown” once they hit 122° Fahrenheit",
     "url": "https://arstechnica.com/information-technology/2021/06/starlink-dish-overheats-in-arizona-sun-knocking-user-offline-for-7-hours/",
-    "upvotes": 257,
+    "upvotes": 259,
     "author": "lakis",
-    "comments": 430,
+    "comments": 432,
     "link": "https://news.ycombinator.com/item?id=27526074"
   },
   {
     "title": "SNES – Super Mario World Widescreen",
     "url": "https://github.com/VitorVilela7/wide-snes",
-    "upvotes": 372,
+    "upvotes": 378,
     "author": "gtonioli",
-    "comments": 46,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27554765"
-  },
-  {
-    "title": "The inventor of the black box was told to drop the idea",
-    "url": "https://spectrum.ieee.org/tech-history/space-age/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks",
-    "upvotes": 98,
-    "author": "sohkamyung",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27557124"
   },
   {
     "title": "I Have No Group, and I Must Scream",
     "url": "https://bastian.rieck.me/blog/posts/2021/groups/",
-    "upvotes": 7,
+    "upvotes": 15,
     "author": "Topolomancer",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27536475"
+  },
+  {
+    "title": "A Provenance-aware Memory Object Model for C [pdf]",
+    "url": "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2676.pdf",
+    "upvotes": 5,
+    "author": "signa11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27549074"
   },
   {
     "title": "Why our “wandering brains” are wired to love art and nature",
     "url": "https://www.salon.com/2021/06/15/why-our-wandering-brains-are-wired-to-love-art-and-nature/",
-    "upvotes": 55,
+    "upvotes": 58,
     "author": "simonebrunozzi",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27526418"
   },
   {
     "title": "Where Are Pixels? – A Deep Learning Perspective",
     "url": "https://ppwwyyxx.com/blog/2021/Where-are-Pixels/",
-    "upvotes": 45,
+    "upvotes": 48,
     "author": "thinxer",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27536525"
@@ -82,10 +90,18 @@
   {
     "title": "Minimum Viable Self",
     "url": "https://kneelingbus.substack.com/p/162-minimum-viable-self",
-    "upvotes": 128,
+    "upvotes": 130,
     "author": "silt",
-    "comments": 56,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27556092"
+  },
+  {
+    "title": "Verkle Trees",
+    "url": "https://vitalik.ca/general/2021/06/18/verkle.html",
+    "upvotes": 197,
+    "author": "felixbraun",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27554404"
   },
   {
     "title": "Mars helicopter employs advanced control techniques to survive in-flight anomaly",
@@ -96,28 +112,20 @@
     "link": "https://news.ycombinator.com/item?id=27553718"
   },
   {
-    "title": "Verkle Trees",
-    "url": "https://vitalik.ca/general/2021/06/18/verkle.html",
-    "upvotes": 189,
-    "author": "felixbraun",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27554404"
+    "title": "Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager",
+    "url": "item?id=27550255",
+    "upvotes": 121,
+    "author": "cadillion",
+    "comments": 122,
+    "link": "https://news.ycombinator.com/item?id=27550255"
   },
   {
     "title": "Troubled teens left traumatised by tough love camps",
     "url": "https://www.bbc.com/news/world-us-canada-57442175",
-    "upvotes": 215,
+    "upvotes": 221,
     "author": "Renaud",
-    "comments": 112,
+    "comments": 120,
     "link": "https://news.ycombinator.com/item?id=27557516"
-  },
-  {
-    "title": "Launch HN: Hedgehog (YC S21) – Cryptocurrency Portfolio Manager",
-    "url": "item?id=27550255",
-    "upvotes": 119,
-    "author": "cadillion",
-    "comments": 122,
-    "link": "https://news.ycombinator.com/item?id=27550255"
   },
   {
     "title": "When Graphs Are a Matter of Life and Death",
@@ -128,6 +136,14 @@
     "link": "https://news.ycombinator.com/item?id=27556862"
   },
   {
+    "title": "In 1850, Ignaz Semmelweis saved lives with three words: wash your hands",
+    "url": "https://www.pbs.org/newshour/health/ignaz-semmelweis-doctor-prescribed-hand-washing",
+    "upvotes": 76,
+    "author": "Hooke",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27541409"
+  },
+  {
     "title": "BBC Programme Index: 9M listings and 221k playable programmes",
     "url": "https://genome.ch.bbc.co.uk/",
     "upvotes": 86,
@@ -136,52 +152,36 @@
     "link": "https://news.ycombinator.com/item?id=27555918"
   },
   {
-    "title": "In 1850, Ignaz Semmelweis saved lives with three words: wash your hands",
-    "url": "https://www.pbs.org/newshour/health/ignaz-semmelweis-doctor-prescribed-hand-washing",
-    "upvotes": 71,
-    "author": "Hooke",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27541409"
+    "title": "Can programming be liberated from the von Neumann style?",
+    "url": "https://dl.acm.org/doi/10.1145/359576.359579",
+    "upvotes": 147,
+    "author": "tosh",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=27554355"
   },
   {
     "title": "AugLy – A data augmentations library that supports audio, image, text and video",
     "url": "https://github.com/facebookresearch/AugLy",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "pcaversaccio",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27548874"
   },
   {
-    "title": "Can programming be liberated from the von Neumann style?",
-    "url": "https://dl.acm.org/doi/10.1145/359576.359579",
-    "upvotes": 144,
-    "author": "tosh",
-    "comments": 89,
-    "link": "https://news.ycombinator.com/item?id=27554355"
-  },
-  {
     "title": "Adafruit interviews Siemens re SupplyFrame, the future of Hackaday, Tindie",
     "url": "https://blog.adafruit.com/2021/06/18/adafruit-interviews-siemens-supplyframe-the-future-of-hackaday-tindie-and-more/",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "ptorrone",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27556552"
   },
   {
-    "title": "Human Rapamycin Longevity Clinical Trials Begin",
-    "url": "https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/",
-    "upvotes": 156,
-    "author": "deegles",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=27556564"
-  },
-  {
-    "title": "America’s weirdest guidebooks were funded by the government",
-    "url": "https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html",
-    "upvotes": 56,
-    "author": "axiomdata316",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27556077"
+    "title": "Saying Goodbye to Android 2.3 Gingerbread",
+    "url": "https://shatteredpixel.com/blog/saying-goodbye-to-android-2.3-gingerbread.html",
+    "upvotes": 71,
+    "author": "JoshTriplett",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27556282"
   },
   {
     "title": "Jerry",
@@ -190,49 +190,49 @@
   {
     "title": "Estimating the Prevalence of Surveillance Cameras with Street View Data",
     "url": "https://arxiv.org/abs/2105.01764",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "giuliomagnifico",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27536424"
   },
   {
-    "title": "Saying Goodbye to Android 2.3 Gingerbread",
-    "url": "https://shatteredpixel.com/blog/saying-goodbye-to-android-2.3-gingerbread.html",
-    "upvotes": 64,
-    "author": "JoshTriplett",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27556282"
+    "title": "America’s weirdest guidebooks were funded by the government",
+    "url": "https://www.nytimes.com/2021/06/15/books/review/republic-of-detours-scott-borchert.html",
+    "upvotes": 56,
+    "author": "axiomdata316",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=27556077"
   },
   {
     "title": "Kazakhstan’s forest is the birthplace of modern apples",
     "url": "http://www.bbc.com/travel/story/20181120-the-birthplace-of-the-modern-apple",
-    "upvotes": 96,
+    "upvotes": 99,
     "author": "teleforce",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27547342"
   },
   {
-    "title": "Chasing After Wind: Reframing the Book of Ecclesiastes",
-    "url": "https://www.laphamsquarterly.org/roundtable/chasing-after-wind",
-    "upvotes": 21,
-    "author": "benbreen",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27543271"
+    "title": "Human Rapamycin Longevity Clinical Trials Begin",
+    "url": "https://www.lifespan.io/news/pearl-is-funded-rapamycin-longevity-clinical-trials-begin/",
+    "upvotes": 157,
+    "author": "deegles",
+    "comments": 116,
+    "link": "https://news.ycombinator.com/item?id=27556564"
   },
   {
     "title": "The Global Chessboard",
     "url": "https://unchartedterritories.tomaspueyo.com/p/world-chessboard",
-    "upvotes": 43,
+    "upvotes": 49,
     "author": "enigmatic02",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27556675"
   },
   {
-    "title": "The Science of the Squeezable, Poppable Vegan Egg Yolk",
-    "url": "https://www.vice.com/en/article/7kv4xy/the-science-of-the-squeezable-poppable-vegan-egg-yolk",
-    "upvotes": 10,
-    "author": "danso",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27543971"
+    "title": "Chasing After Wind: Reframing the Book of Ecclesiastes",
+    "url": "https://www.laphamsquarterly.org/roundtable/chasing-after-wind",
+    "upvotes": 22,
+    "author": "benbreen",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27543271"
   }
 ]
