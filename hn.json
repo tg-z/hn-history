@@ -2,39 +2,55 @@
   {
     "title": "LDtk: A modern and open-source 2D level editor",
     "url": "https://deepnight.itch.io/ldtk",
-    "upvotes": 98,
+    "upvotes": 128,
     "author": "polm23",
-    "comments": 11,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27570556"
   },
   {
-    "title": "Internet in a Box",
-    "url": "http://internet-in-a-box.org/",
-    "upvotes": 366,
-    "author": "thunderbong",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=27568332"
-  },
-  {
-    "title": "Show HN: AES67 Stream Monitor – An app to monitor audio over IP streams",
-    "url": "https://aes67.app/",
-    "upvotes": 40,
-    "author": "phlhar",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27570320"
+    "title": "Could Mitochondria Be the Key to a Healthy Brain?",
+    "url": "https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/",
+    "upvotes": 20,
+    "author": "LinuxBender",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27571818"
   },
   {
     "title": "Watchy: Open-source E-Paper Watch with ESP32",
     "url": "https://watchy.sqfmi.com/",
-    "upvotes": 14,
+    "upvotes": 35,
     "author": "lnyan",
-    "comments": 6,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27571322"
+  },
+  {
+    "title": "Internet in a Box",
+    "url": "http://internet-in-a-box.org/",
+    "upvotes": 389,
+    "author": "thunderbong",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=27568332"
+  },
+  {
+    "title": "Julia: Faster than Fortran, cleaner than Numpy",
+    "url": "https://www.matecdev.com/posts/numpy-julia-fortran.html",
+    "upvotes": 27,
+    "author": "cs702",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27571019"
+  },
+  {
+    "title": "Show HN: AES67 Stream Monitor – An app to monitor audio over IP streams",
+    "url": "https://aes67.app/",
+    "upvotes": 45,
+    "author": "phlhar",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27570320"
   },
   {
     "title": "GAN Prior Embedded Network for Blind Face Restoration in the Wild",
     "url": "https://github.com/yangxy/GPEN",
-    "upvotes": 9,
+    "upvotes": 20,
     "author": "Brajeshwar",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27571283"
@@ -44,100 +60,140 @@
     "url": "item?id=27571850"
   },
   {
-    "title": "Zsync: Differential file downloading over HTTP using the rsync algorithm",
-    "url": "http://zsync.moria.org.uk/",
-    "upvotes": 90,
-    "author": "gjvc",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27569146"
-  },
-  {
     "title": "Show HN: Find Your Hacker News Doppelgänger",
     "url": "https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py",
-    "upvotes": 127,
+    "upvotes": 135,
     "author": "gk1",
-    "comments": 118,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=27568709"
+  },
+  {
+    "title": "Zsync: Differential file downloading over HTTP using the rsync algorithm",
+    "url": "http://zsync.moria.org.uk/",
+    "upvotes": 101,
+    "author": "gjvc",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27569146"
   },
   {
     "title": "AltStore – An alternative app store for non-jailbroken iOS devices",
     "url": "https://altstore.io/",
-    "upvotes": 197,
+    "upvotes": 204,
     "author": "murkle",
-    "comments": 96,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=27568379"
   },
   {
     "title": "Postgres to TypeScript Interfaces and Enums",
     "url": "https://github.com/vramework/schemats",
-    "upvotes": 32,
+    "upvotes": 40,
     "author": "yasserf",
-    "comments": 19,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27570058"
   },
   {
     "title": "Unitree’s Go1 Robot Dog Looks Pretty Great, Costs Just $2700",
     "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700",
-    "upvotes": 42,
+    "upvotes": 49,
     "author": "ketamine__",
-    "comments": 47,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=27569631"
+  },
+  {
+    "title": "So Long Autodesk Shotgun",
+    "url": "https://thejackjam.medium.com/so-long-autodesk-shotgun-32fb3da74f55",
+    "upvotes": 20,
+    "author": "aprdm",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27570731"
   },
   {
     "title": "Gjf – A tool to fix invalid GeoJSON objects",
     "url": "https://github.com/yazeed44/gjf",
-    "upvotes": 30,
+    "upvotes": 35,
     "author": "alohaclient",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27569646"
   },
   {
     "title": "Americans Are Keeping Their Cars Longer, as Vehicle Age Hits 12 Years",
     "url": "https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640",
-    "upvotes": 46,
+    "upvotes": 70,
     "author": "prostoalex",
-    "comments": 116,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=27570691"
   },
   {
     "title": "Stonks Are What You Can Get Away With: NFTs and Financial Nihilism",
     "url": "https://blog.evjang.com/2021/06/nft.html",
-    "upvotes": 65,
+    "upvotes": 75,
     "author": "headalgorithm",
-    "comments": 90,
+    "comments": 115,
     "link": "https://news.ycombinator.com/item?id=27568811"
   },
   {
     "title": "Is Julia Really Fast?",
     "url": "https://medium.com/codex/is-julia-really-fast-12cd7caef96b",
-    "upvotes": 53,
+    "upvotes": 66,
     "author": "leephillips",
-    "comments": 20,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27570591"
   },
   {
-    "title": "A Mysterious Crater’s Age May Add Clues to the Dinosaur Extinction",
-    "url": "https://www.nytimes.com/2021/06/18/science/boltysh-crater-dinosaurs.html",
-    "upvotes": 10,
-    "author": "v77",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27555195"
-  },
-  {
-    "title": "Common Lisp Books",
-    "url": "https://lisp-lang.org/books/",
-    "upvotes": 70,
-    "author": "katzeilla",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27569839"
+    "title": "Think before you join Amazon",
+    "url": "https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon",
+    "upvotes": 433,
+    "author": "bobjones334",
+    "comments": 259,
+    "link": "https://news.ycombinator.com/item?id=27569594"
   },
   {
     "title": "Do software engineers have leverage?",
     "url": "item?id=27569539",
-    "upvotes": 69,
+    "upvotes": 88,
     "author": "5444r1f4tg",
-    "comments": 69,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=27569539"
+  },
+  {
+    "title": "Common Lisp Books",
+    "url": "https://lisp-lang.org/books/",
+    "upvotes": 74,
+    "author": "katzeilla",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27569839"
+  },
+  {
+    "title": "A Mysterious Crater’s Age May Add Clues to the Dinosaur Extinction",
+    "url": "https://www.nytimes.com/2021/06/18/science/boltysh-crater-dinosaurs.html",
+    "upvotes": 11,
+    "author": "v77",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27555195"
+  },
+  {
+    "title": "My performance benchmarking workflow",
+    "url": "http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html",
+    "upvotes": 15,
+    "author": "ingve",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27570316"
+  },
+  {
+    "title": "Quick Analysis for the SSID Format String Bug",
+    "url": "https://blog.chichou.me/2021/06/20/quick-analysis-wifid/",
+    "upvotes": 46,
+    "author": "ingve",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27569068"
+  },
+  {
+    "title": "The Power and Poetry of Random Digits",
+    "url": "https://www.wsj.com/articles/the-rhyme-and-reason-of-randomness-11623359589",
+    "upvotes": 9,
+    "author": "jkuria",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27566206"
   },
   {
     "title": "The Historian and the Murderer",
@@ -148,91 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=27547726"
   },
   {
-    "title": "Think before you join Amazon",
-    "url": "https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon",
-    "upvotes": 371,
-    "author": "bobjones334",
-    "comments": 237,
-    "link": "https://news.ycombinator.com/item?id=27569594"
-  },
-  {
-    "title": "My performance benchmarking workflow",
-    "url": "http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html",
-    "upvotes": 12,
-    "author": "ingve",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27570316"
-  },
-  {
-    "title": "Soviets Once Denied a Deadly Anthrax Lab Leak. U.S. Scientists Backed the Story",
-    "url": "https://www.nytimes.com/2021/06/20/world/europe/anthrax-lab-leak-soviet-covid.html",
-    "upvotes": 23,
-    "author": "johncena33",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27571056"
-  },
-  {
     "title": "Seeding by Ceding",
     "url": "https://mackenzie-scott.medium.com/seeding-by-ceding-ea6de642bf",
-    "upvotes": 61,
+    "upvotes": 63,
     "author": "RyanShook",
     "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27569521"
   },
   {
-    "title": "Quick Analysis for the SSID Format String Bug",
-    "url": "https://blog.chichou.me/2021/06/20/quick-analysis-wifid/",
-    "upvotes": 41,
-    "author": "ingve",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27569068"
-  },
-  {
-    "title": "The Power and Poetry of Random Digits",
-    "url": "https://www.wsj.com/articles/the-rhyme-and-reason-of-randomness-11623359589",
-    "upvotes": 6,
-    "author": "jkuria",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27566206"
-  },
-  {
     "title": "Brain imaging before and after Covid-19 in UK Biobank",
     "url": "https://www.medrxiv.org/content/10.1101/2021.06.11.21258690v1",
-    "upvotes": 98,
+    "upvotes": 104,
     "author": "Enfi",
-    "comments": 116,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=27569772"
-  },
-  {
-    "title": "So Long Autodesk Shotgun",
-    "url": "https://thejackjam.medium.com/so-long-autodesk-shotgun-32fb3da74f55",
-    "upvotes": 7,
-    "author": "aprdm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27570731"
-  },
-  {
-    "title": "4-day workweeks can boost happiness and productivity",
-    "url": "https://www.theatlantic.com/family/archive/2021/06/four-day-workweek/619222/",
-    "upvotes": 151,
-    "author": "philmcp",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=27569802"
   },
   {
     "title": "Make me a sandwich",
     "url": "https://chrismorgan.info/blog/make-me-a-sandwich/",
-    "upvotes": 40,
+    "upvotes": 43,
     "author": "chrismorgan",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27547327"
   },
   {
-    "title": "Polygon: L2 or Not L2?",
-    "url": "https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2",
-    "upvotes": 86,
-    "author": "adlrocha",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27567897"
+    "title": "Vinix, a new OS written in V, now runs mlibc and bash",
+    "url": "https://twitter.com/v_language/status/1406345730722340876",
+    "upvotes": 12,
+    "author": "amedvednikov",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27571786"
   }
 ]
