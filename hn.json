@@ -1,88 +1,72 @@
 [
   {
-    "title": "Insurance is like gambling, don't overdo it",
-    "url": "https://blog.viktomas.com/posts/insurance/",
-    "upvotes": 36,
-    "author": "vicek22",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27567708"
-  },
-  {
     "title": "Polygon: L2 or Not L2?",
     "url": "https://adlrocha.substack.com/p/adlrocha-polygon-l2-or-not-l2",
-    "upvotes": 5,
+    "upvotes": 17,
     "author": "adlrocha",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27567897"
+  },
+  {
+    "title": "Insurance is like gambling, don't overdo it",
+    "url": "https://blog.viktomas.com/posts/insurance/",
+    "upvotes": 57,
+    "author": "vicek22",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27567708"
   },
   {
     "title": "Renoise – A DAW with a tracker-like interface",
     "url": "https://www.renoise.com/",
-    "upvotes": 160,
+    "upvotes": 170,
     "author": "1_player",
-    "comments": 58,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27565392"
   },
   {
     "title": "Show HN: Hacker News-ish stock news, from 40+ sources",
     "url": "https://steez.news",
-    "upvotes": 121,
+    "upvotes": 125,
     "author": "mjmasia",
-    "comments": 44,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27556061"
-  },
-  {
-    "title": "Licenses alone do not govern behavior in open source",
-    "url": "https://michaelweinberg.org/blog/2021/06/17/licenses-and-social-norms/",
-    "upvotes": 51,
-    "author": "zdw",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=27553724"
   },
   {
     "title": "New Machine Learning Gems for Ruby",
     "url": "https://ankane.org/new-ml-gems",
-    "upvotes": 118,
+    "upvotes": 121,
     "author": "thunderbong",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27526332"
-  },
-  {
-    "title": "How hard did Steve Jobs work?",
-    "url": "https://www.quora.com/How-hard-did-Steve-Jobs-work-Did-this-change-over-time?share=1",
-    "upvotes": 20,
-    "author": "gws",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27567958"
   },
   {
     "title": "Life as a public school teacher in the San Francisco Bay Area in 2021",
     "url": "http://adamcadre.ac/calendar/202105m.html",
-    "upvotes": 439,
+    "upvotes": 450,
     "author": "rossvor",
-    "comments": 531,
+    "comments": 541,
     "link": "https://news.ycombinator.com/item?id=27560440"
   },
   {
     "title": "How I Found a Vulnerability to Hack iCloud Accounts and How Apple Reacted to It",
     "url": "https://thezerohack.com/apple-vulnerability-bug-bounty",
-    "upvotes": 159,
+    "upvotes": 183,
     "author": "alexcos",
-    "comments": 28,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27564236"
   },
   {
     "title": "Mathematicians welcome computer-assisted proof in ‘grand unification’ theory",
     "url": "https://www.nature.com/articles/d41586-021-01627-2",
-    "upvotes": 306,
+    "upvotes": 309,
     "author": "Wxc2jjJmST9XWWL",
-    "comments": 108,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=27559917"
   },
   {
     "title": "I'm Peter Roberts, immigration attorney who does work for YC startups. AMA",
     "url": "item?id=27560781",
-    "upvotes": 257,
+    "upvotes": 260,
     "author": "proberts",
     "comments": 217,
     "link": "https://news.ycombinator.com/item?id=27560781"
@@ -90,131 +74,131 @@
   {
     "title": "Korea revokes approvals for 1,700 communication equipment, devices",
     "url": "http://www.koreaherald.com/view.php?ud=20210617000953",
-    "upvotes": 76,
+    "upvotes": 82,
     "author": "FridayoLeary",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27565097"
+  },
+  {
+    "title": "The Birth and Death of JavaScript",
+    "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
+    "upvotes": 40,
+    "author": "NilsIRL",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27538040"
+  },
+  {
+    "title": "Licenses alone do not govern behavior in open source",
+    "url": "https://michaelweinberg.org/blog/2021/06/17/licenses-and-social-norms/",
+    "upvotes": 58,
+    "author": "zdw",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=27553724"
+  },
+  {
+    "title": "Joining CSV and JSON data with an in-memory SQLite database",
+    "url": "https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/",
+    "upvotes": 53,
+    "author": "edward",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27565482"
+  },
+  {
+    "title": "Newly discovered Vigilante malware outs software pirates and blocks them",
+    "url": "https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/",
+    "upvotes": 147,
+    "author": "pseudolus",
+    "comments": 107,
+    "link": "https://news.ycombinator.com/item?id=27559290"
+  },
+  {
+    "title": "ASCIIFlow Diagram Tool",
+    "url": "https://asciiflow.com/",
+    "upvotes": 200,
+    "author": "bshanks",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27536253"
   },
   {
     "title": "Nina Paley's MysticSymbolic",
     "url": "https://www.mysticsymbolic.art/",
     "upvotes": 7,
     "author": "abetusk",
-    "comments": 2,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27536823"
-  },
-  {
-    "title": "The Birth and Death of JavaScript",
-    "url": "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript",
-    "upvotes": 36,
-    "author": "NilsIRL",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27538040"
-  },
-  {
-    "title": "Joining CSV and JSON data with an in-memory SQLite database",
-    "url": "https://simonwillison.net/2021/Jun/19/sqlite-utils-memory/",
-    "upvotes": 43,
-    "author": "edward",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27565482"
-  },
-  {
-    "title": "ASCIIFlow Diagram Tool",
-    "url": "https://asciiflow.com/",
-    "upvotes": 196,
-    "author": "bshanks",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27536253"
   },
   {
     "title": "Rest In Peace, John. I was lucky to know you so deeply",
     "url": "https://peewee.com/2021/06/18/rest-in-peace-john-paragon/",
-    "upvotes": 236,
+    "upvotes": 237,
     "author": "MilnerRoute",
-    "comments": 33,
+    "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27556351"
-  },
-  {
-    "title": "Newly discovered Vigilante malware outs software pirates and blocks them",
-    "url": "https://arstechnica.com/gadgets/2021/06/newly-discovered-vigilante-malware-outs-software-pirates-and-blocks-them/",
-    "upvotes": 144,
-    "author": "pseudolus",
-    "comments": 107,
-    "link": "https://news.ycombinator.com/item?id=27559290"
   },
   {
     "title": "A Brief, Incomplete, and Mostly Wrong History of Programming Languages",
     "url": "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html",
-    "upvotes": 25,
+    "upvotes": 29,
     "author": "mkr-hn",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27559618"
   },
   {
     "title": "Coober Pedy, the Australian mining town where residents live underground",
     "url": "https://www.businessinsider.com/inside-coober-pedy-australias-underground-town-2016-1",
-    "upvotes": 153,
+    "upvotes": 155,
     "author": "tomhoward",
-    "comments": 79,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=27560574"
   },
   {
     "title": "Designing a better strcpy",
     "url": "https://saagarjha.com/blog/2020/04/12/designing-a-better-strcpy/",
-    "upvotes": 107,
+    "upvotes": 109,
     "author": "signa11",
-    "comments": 86,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=27537900"
   },
   {
-    "title": "Deep reinforcement learning will transform manufacturing as we know it",
-    "url": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
-    "upvotes": 50,
-    "author": "apsec112",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27557856"
+    "title": "Reinforcement Learning: Theory and Algorithms",
+    "url": "https://rltheorybook.github.io/",
+    "upvotes": 28,
+    "author": "Anon84",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27565421"
   },
   {
     "title": "Casu Martzu",
     "url": "https://en.wikipedia.org/wiki/Casu_martzu",
     "upvotes": 199,
     "author": "nojs",
-    "comments": 152,
+    "comments": 154,
     "link": "https://news.ycombinator.com/item?id=27560251"
+  },
+  {
+    "title": "Deep reinforcement learning will transform manufacturing as we know it",
+    "url": "https://techcrunch.com/2021/06/17/deep-reinforcement-learning-will-transform-manufacturing-as-we-know-it/",
+    "upvotes": 51,
+    "author": "apsec112",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27557856"
   },
   {
     "title": "Community Phone Company",
     "url": "https://www.ycombinator.com/companies/community-phone-company/jobs/6psvnZD-digital-marketing-specialist"
   },
   {
-    "title": "Reinforcement Learning: Theory and Algorithms",
-    "url": "https://rltheorybook.github.io/",
-    "upvotes": 22,
-    "author": "Anon84",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27565421"
-  },
-  {
     "title": "A compact quantum-computer that fits in 19-inch server racks",
     "url": "https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.2.020343",
     "upvotes": 29,
     "author": "giuliomagnifico",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27548561"
-  },
-  {
-    "title": "As Money Launderers Buy Dalís, U.S. Looks at Lifting the Veil on Art Sales",
-    "url": "https://www.nytimes.com/2021/06/19/arts/design/money-laundering-art-market.html",
-    "upvotes": 26,
-    "author": "mariojv",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27567039"
   },
   {
     "title": "Spectre mitigations murder userspace performance",
     "url": "https://robert.ocallahan.org/2021/06/spectre-mitigations-murder-userspace.html",
-    "upvotes": 359,
+    "upvotes": 361,
     "author": "hasheddan",
     "comments": 255,
     "link": "https://news.ycombinator.com/item?id=27559795"
@@ -222,17 +206,33 @@
   {
     "title": "Ask HN: What huge mistake did you make early in your career?",
     "url": "item?id=27548204",
-    "upvotes": 205,
+    "upvotes": 217,
     "author": "jamestimmins",
-    "comments": 321,
+    "comments": 335,
     "link": "https://news.ycombinator.com/item?id=27548204"
   },
   {
     "title": "Taking students from schematic to silicon in one semester",
     "url": "https://people.eecs.berkeley.edu/~pister/publications/2018/BurnettTapeoutClassISCAS2018.pdf",
-    "upvotes": 132,
+    "upvotes": 133,
     "author": "teleforce",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27560368"
+  },
+  {
+    "title": "As Money Launderers Buy Dalís, U.S. Looks at Lifting the Veil on Art Sales",
+    "url": "https://www.nytimes.com/2021/06/19/arts/design/money-laundering-art-market.html",
+    "upvotes": 28,
+    "author": "mariojv",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27567039"
+  },
+  {
+    "title": "U.S. senators propose 25% tax credit for semiconductor manufacturing",
+    "url": "https://www.reuters.com/article/ctech-us-usa-semiconductors-congress-idCAKCN2DT29F-OCATC",
+    "upvotes": 341,
+    "author": "elorant",
+    "comments": 338,
+    "link": "https://news.ycombinator.com/item?id=27561238"
   }
 ]
