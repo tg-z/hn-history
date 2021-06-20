@@ -2,39 +2,47 @@
   {
     "title": "A dwarf planet coming within 11 au of the sun over the next 10 years",
     "url": "https://groups.io/g/mpml/topic/83645454#36493",
-    "upvotes": 83,
+    "upvotes": 118,
     "author": "MKais",
-    "comments": 14,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27572746"
   },
   {
     "title": "What every programmer should know about SSDs",
     "url": "https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html",
-    "upvotes": 61,
+    "upvotes": 86,
     "author": "sprachspiel",
-    "comments": 6,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27572218"
   },
   {
     "title": "Could Mitochondria Be the Key to a Healthy Brain?",
     "url": "https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/",
-    "upvotes": 73,
+    "upvotes": 85,
     "author": "LinuxBender",
-    "comments": 42,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27571818"
   },
   {
     "title": "LDtk: A modern and open-source 2D level editor",
     "url": "https://deepnight.itch.io/ldtk",
-    "upvotes": 179,
+    "upvotes": 190,
     "author": "polm23",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27570556"
+  },
+  {
+    "title": "From NAND to Raytracer: Raytracing on the Hack Computer",
+    "url": "https://blog.alexqua.ch/posts/from-nand-to-raytracer/",
+    "upvotes": 32,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27549225"
   },
   {
     "title": "Watchy: Open-source E-Paper Watch with ESP32",
     "url": "https://watchy.sqfmi.com/",
-    "upvotes": 73,
+    "upvotes": 79,
     "author": "lnyan",
     "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27571322"
@@ -42,31 +50,23 @@
   {
     "title": "Internet in a Box",
     "url": "http://internet-in-a-box.org/",
-    "upvotes": 440,
+    "upvotes": 449,
     "author": "thunderbong",
-    "comments": 100,
+    "comments": 104,
     "link": "https://news.ycombinator.com/item?id=27568332"
-  },
-  {
-    "title": "From NAND to Raytracer: Raytracing on the Hack Computer",
-    "url": "https://blog.alexqua.ch/posts/from-nand-to-raytracer/",
-    "upvotes": 16,
-    "author": "lukastyrychtr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27549225"
   },
   {
     "title": "Hire-to-fire at Amazon India?",
     "url": "https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon",
-    "upvotes": 564,
+    "upvotes": 601,
     "author": "bobjones334",
-    "comments": 329,
+    "comments": 348,
     "link": "https://news.ycombinator.com/item?id=27569594"
   },
   {
     "title": "Show HN: AES67 Stream Monitor – An app to monitor audio over IP streams",
     "url": "https://aes67.app/",
-    "upvotes": 53,
+    "upvotes": 58,
     "author": "phlhar",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27570320"
@@ -74,10 +74,18 @@
   {
     "title": "Show HN: Find Your Hacker News Doppelgänger",
     "url": "https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py",
-    "upvotes": 153,
+    "upvotes": 160,
     "author": "gk1",
-    "comments": 146,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=27568709"
+  },
+  {
+    "title": "AltStore – An alternative app store for non-jailbroken iOS devices",
+    "url": "https://altstore.io/",
+    "upvotes": 234,
+    "author": "murkle",
+    "comments": 146,
+    "link": "https://news.ycombinator.com/item?id=27568379"
   },
   {
     "title": "Fly.io (YC W20) Is Hiring Site Reliability Engineers",
@@ -86,71 +94,55 @@
   {
     "title": "Zsync: Differential file downloading over HTTP using the rsync algorithm",
     "url": "http://zsync.moria.org.uk/",
-    "upvotes": 112,
+    "upvotes": 118,
     "author": "gjvc",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27569146"
   },
   {
-    "title": "AltStore – An alternative app store for non-jailbroken iOS devices",
-    "url": "https://altstore.io/",
-    "upvotes": 229,
-    "author": "murkle",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=27568379"
+    "title": "1989 Yugo GVL: Performance Testing",
+    "url": "https://www.edmunds.com/car-reviews/long-term-road-test/1989-yugo-gvl/performance/1989-yugo-gvl-performance-testing-will-it-survive.html",
+    "upvotes": 6,
+    "author": "luu",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27554087"
   },
   {
     "title": "Postgres to TypeScript Interfaces and Enums",
     "url": "https://github.com/vramework/schemats",
-    "upvotes": 58,
+    "upvotes": 62,
     "author": "yasserf",
-    "comments": 42,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27570058"
-  },
-  {
-    "title": "Bee-friendly urban wildflower meadows prove a hit with German city dwellers",
-    "url": "https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers",
-    "upvotes": 38,
-    "author": "rapnie",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27572355"
-  },
-  {
-    "title": "The Censored: Bret Weinstein",
-    "url": "https://taibbi.substack.com/p/meet-the-censored-bret-weinstein",
-    "upvotes": 20,
-    "author": "throwkeep",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27573009"
-  },
-  {
-    "title": "So Long Autodesk Shotgun",
-    "url": "https://thejackjam.medium.com/so-long-autodesk-shotgun-32fb3da74f55",
-    "upvotes": 51,
-    "author": "aprdm",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27570731"
   },
   {
     "title": "Insurance is like gambling, don't overdo it",
     "url": "https://blog.viktomas.com/posts/insurance/",
-    "upvotes": 120,
+    "upvotes": 133,
     "author": "vicek22",
-    "comments": 139,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=27567708"
   },
   {
-    "title": "Unitree’s Go1 Robot Dog Looks Pretty Great, Costs Just $2700",
-    "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700",
-    "upvotes": 61,
-    "author": "ketamine__",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=27569631"
+    "title": "So Long Autodesk Shotgun",
+    "url": "https://thejackjam.medium.com/so-long-autodesk-shotgun-32fb3da74f55",
+    "upvotes": 55,
+    "author": "aprdm",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27570731"
+  },
+  {
+    "title": "Bee-friendly urban wildflower meadows prove a hit with German city dwellers",
+    "url": "https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers",
+    "upvotes": 43,
+    "author": "rapnie",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27572355"
   },
   {
     "title": "GAN Prior Embedded Network for Blind Face Restoration in the Wild",
     "url": "https://github.com/yangxy/GPEN",
-    "upvotes": 27,
+    "upvotes": 30,
     "author": "Brajeshwar",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27571283"
@@ -158,42 +150,66 @@
   {
     "title": "Julia: Faster than Fortran, cleaner than Numpy",
     "url": "https://www.matecdev.com/posts/numpy-julia-fortran.html",
-    "upvotes": 92,
+    "upvotes": 105,
     "author": "cs702",
-    "comments": 102,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=27571019"
   },
   {
     "title": "Father's Day",
     "url": "https://www.davidgodman.org/fathers-day/",
-    "upvotes": 5,
+    "upvotes": 6,
     "author": "dang",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27572650"
   },
   {
     "title": "Stonks Are What You Can Get Away With: NFTs and Financial Nihilism",
     "url": "https://blog.evjang.com/2021/06/nft.html",
-    "upvotes": 89,
+    "upvotes": 96,
     "author": "headalgorithm",
-    "comments": 150,
+    "comments": 156,
     "link": "https://news.ycombinator.com/item?id=27568811"
   },
   {
     "title": "Licenses alone do not govern behavior in open source",
     "url": "https://michaelweinberg.org/blog/2021/06/17/licenses-and-social-norms/",
-    "upvotes": 70,
+    "upvotes": 75,
     "author": "zdw",
-    "comments": 94,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=27553724"
+  },
+  {
+    "title": "Unitree’s Go1 Robot Dog Looks Pretty Great, Costs Just $2700",
+    "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700",
+    "upvotes": 65,
+    "author": "ketamine__",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=27569631"
   },
   {
     "title": "Americans Are Keeping Their Cars Longer, as Vehicle Age Hits 12 Years",
     "url": "https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640",
-    "upvotes": 92,
+    "upvotes": 101,
     "author": "prostoalex",
-    "comments": 252,
+    "comments": 269,
     "link": "https://news.ycombinator.com/item?id=27570691"
+  },
+  {
+    "title": "You won’t live to see a 128bit CPU",
+    "url": "https://blog.cloudware.bg/en/you-wont-live-to-see-a-128bit-cpu/",
+    "upvotes": 3,
+    "author": "indigodaddy",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27572663"
+  },
+  {
+    "title": "Is Julia Really Fast?",
+    "url": "https://medium.com/codex/is-julia-really-fast-12cd7caef96b",
+    "upvotes": 107,
+    "author": "leephillips",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=27570591"
   },
   {
     "title": "Show HN: Higher Order Sketch-Based Graph Anomaly Detection",
@@ -204,17 +220,9 @@
     "link": "https://news.ycombinator.com/item?id=27549162"
   },
   {
-    "title": "Is Julia Really Fast?",
-    "url": "https://medium.com/codex/is-julia-really-fast-12cd7caef96b",
-    "upvotes": 97,
-    "author": "leephillips",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27570591"
-  },
-  {
     "title": "My performance benchmarking workflow",
     "url": "http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html",
-    "upvotes": 19,
+    "upvotes": 20,
     "author": "ingve",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27570316"
@@ -222,17 +230,9 @@
   {
     "title": "A Mysterious Crater’s Age May Add Clues to the Dinosaur Extinction",
     "url": "https://www.nytimes.com/2021/06/18/science/boltysh-crater-dinosaurs.html",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "v77",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27555195"
-  },
-  {
-    "title": "Gjf – A tool to fix invalid GeoJSON objects",
-    "url": "https://github.com/yazeed44/gjf",
-    "upvotes": 37,
-    "author": "alohaclient",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27569646"
   }
 ]
