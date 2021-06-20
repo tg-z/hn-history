@@ -1,48 +1,48 @@
 [
   {
+    "title": "A dwarf planet coming within 11 au of the sun over the next 10 years",
+    "url": "https://groups.io/g/mpml/topic/83645454#36493",
+    "upvotes": 36,
+    "author": "MKais",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27572746"
+  },
+  {
     "title": "Could Mitochondria Be the Key to a Healthy Brain?",
     "url": "https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/",
-    "upvotes": 53,
+    "upvotes": 61,
     "author": "LinuxBender",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27571818"
   },
   {
     "title": "LDtk: A modern and open-source 2D level editor",
     "url": "https://deepnight.itch.io/ldtk",
-    "upvotes": 162,
+    "upvotes": 171,
     "author": "polm23",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27570556"
   },
   {
+    "title": "What every programmer should know about SSDs",
+    "url": "https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html",
+    "upvotes": 26,
+    "author": "sprachspiel",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27572218"
+  },
+  {
     "title": "Watchy: Open-source E-Paper Watch with ESP32",
     "url": "https://watchy.sqfmi.com/",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "lnyan",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27571322"
   },
   {
-    "title": "Julia: Faster than Fortran, cleaner than Numpy",
-    "url": "https://www.matecdev.com/posts/numpy-julia-fortran.html",
-    "upvotes": 79,
-    "author": "cs702",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=27571019"
-  },
-  {
-    "title": "What Every Programmer Should Know About SSDs",
-    "url": "https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html",
-    "upvotes": 14,
-    "author": "sprachspiel",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27572218"
-  },
-  {
     "title": "Internet in a Box",
     "url": "http://internet-in-a-box.org/",
-    "upvotes": 417,
+    "upvotes": 424,
     "author": "thunderbong",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=27568332"
@@ -52,16 +52,24 @@
     "url": "https://aes67.app/",
     "upvotes": 50,
     "author": "phlhar",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27570320"
   },
   {
     "title": "Hire-to-fire at Amazon India?",
     "url": "https://leetcode.com/discuss/compensation/1281540/amazon-lethal-for-career-think-100-times-before-you-join-amazon",
-    "upvotes": 495,
+    "upvotes": 512,
     "author": "bobjones334",
-    "comments": 296,
+    "comments": 306,
     "link": "https://news.ycombinator.com/item?id=27569594"
+  },
+  {
+    "title": "Julia: Faster than Fortran, cleaner than Numpy",
+    "url": "https://www.matecdev.com/posts/numpy-julia-fortran.html",
+    "upvotes": 84,
+    "author": "cs702",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=27571019"
   },
   {
     "title": "Fly.io (YC W20) Is Hiring Site Reliability Engineers",
@@ -70,55 +78,39 @@
   {
     "title": "Show HN: Find Your Hacker News Doppelgänger",
     "url": "https://share.streamlit.io/pinecone-io/playground/hacker_news/src/server.py",
-    "upvotes": 147,
+    "upvotes": 149,
     "author": "gk1",
-    "comments": 139,
+    "comments": 143,
     "link": "https://news.ycombinator.com/item?id=27568709"
   },
   {
     "title": "Zsync: Differential file downloading over HTTP using the rsync algorithm",
     "url": "http://zsync.moria.org.uk/",
-    "upvotes": 108,
+    "upvotes": 110,
     "author": "gjvc",
-    "comments": 18,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27569146"
-  },
-  {
-    "title": "Postgres to TypeScript Interfaces and Enums",
-    "url": "https://github.com/vramework/schemats",
-    "upvotes": 54,
-    "author": "yasserf",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27570058"
   },
   {
     "title": "AltStore – An alternative app store for non-jailbroken iOS devices",
     "url": "https://altstore.io/",
-    "upvotes": 219,
+    "upvotes": 225,
     "author": "murkle",
-    "comments": 129,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=27568379"
   },
   {
-    "title": "GAN Prior Embedded Network for Blind Face Restoration in the Wild",
-    "url": "https://github.com/yangxy/GPEN",
-    "upvotes": 25,
-    "author": "Brajeshwar",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27571283"
-  },
-  {
-    "title": "Unitree’s Go1 Robot Dog Looks Pretty Great, Costs Just $2700",
-    "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700",
+    "title": "Postgres to TypeScript Interfaces and Enums",
+    "url": "https://github.com/vramework/schemats",
     "upvotes": 56,
-    "author": "ketamine__",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=27569631"
+    "author": "yasserf",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27570058"
   },
   {
     "title": "Bee-friendly urban wildflower meadows prove a hit with German city dwellers",
     "url": "https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers",
-    "upvotes": 16,
+    "upvotes": 24,
     "author": "rapnie",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27572355"
@@ -126,26 +118,66 @@
   {
     "title": "So Long Autodesk Shotgun",
     "url": "https://thejackjam.medium.com/so-long-autodesk-shotgun-32fb3da74f55",
-    "upvotes": 37,
+    "upvotes": 43,
     "author": "aprdm",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27570731"
   },
   {
-    "title": "Many companies want remote workers, except from Colorado",
-    "url": "https://www.wsj.com/articles/many-companies-want-remote-workersexcept-from-colorado-11623937649",
-    "upvotes": 79,
-    "author": "KoftaBob",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=27569407"
+    "title": "Insurance is like gambling, don't overdo it",
+    "url": "https://blog.viktomas.com/posts/insurance/",
+    "upvotes": 110,
+    "author": "vicek22",
+    "comments": 135,
+    "link": "https://news.ycombinator.com/item?id=27567708"
+  },
+  {
+    "title": "Father's Day",
+    "url": "https://www.davidgodman.org/fathers-day/",
+    "upvotes": 3,
+    "author": "dang",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27572650"
+  },
+  {
+    "title": "GAN Prior Embedded Network for Blind Face Restoration in the Wild",
+    "url": "https://github.com/yangxy/GPEN",
+    "upvotes": 25,
+    "author": "Brajeshwar",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27571283"
+  },
+  {
+    "title": "From NAND to Raytracer: Raytracing on the Hack Computer",
+    "url": "https://blog.alexqua.ch/posts/from-nand-to-raytracer/",
+    "upvotes": 4,
+    "author": "lukastyrychtr",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27549225"
+  },
+  {
+    "title": "Unitree’s Go1 Robot Dog Looks Pretty Great, Costs Just $2700",
+    "url": "https://spectrum.ieee.org/automaton/robotics/robotics-hardware/unitrees-go1-robot-dog-looks-pretty-great-costs-just-usd-2700",
+    "upvotes": 57,
+    "author": "ketamine__",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27569631"
   },
   {
     "title": "Stonks Are What You Can Get Away With: NFTs and Financial Nihilism",
     "url": "https://blog.evjang.com/2021/06/nft.html",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "headalgorithm",
-    "comments": 137,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=27568811"
+  },
+  {
+    "title": "Licenses alone do not govern behavior in open source",
+    "url": "https://michaelweinberg.org/blog/2021/06/17/licenses-and-social-norms/",
+    "upvotes": 70,
+    "author": "zdw",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=27553724"
   },
   {
     "title": "Gjf – A tool to fix invalid GeoJSON objects",
@@ -166,73 +198,41 @@
   {
     "title": "Americans Are Keeping Their Cars Longer, as Vehicle Age Hits 12 Years",
     "url": "https://www.wsj.com/articles/average-u-s-vehicle-age-hits-record-12-years-11623680640",
-    "upvotes": 79,
+    "upvotes": 82,
     "author": "prostoalex",
-    "comments": 224,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=27570691"
   },
   {
     "title": "Is Julia Really Fast?",
     "url": "https://medium.com/codex/is-julia-really-fast-12cd7caef96b",
-    "upvotes": 90,
+    "upvotes": 93,
     "author": "leephillips",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27570591"
+  },
+  {
+    "title": "A Mysterious Crater’s Age May Add Clues to the Dinosaur Extinction",
+    "url": "https://www.nytimes.com/2021/06/18/science/boltysh-crater-dinosaurs.html",
+    "upvotes": 13,
+    "author": "v77",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27555195"
   },
   {
     "title": "Common Lisp Books",
     "url": "https://lisp-lang.org/books/",
-    "upvotes": 83,
+    "upvotes": 86,
     "author": "katzeilla",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27569839"
   },
   {
-    "title": "Do software engineers have leverage?",
-    "url": "item?id=27569539",
-    "upvotes": 116,
-    "author": "5444r1f4tg",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=27569539"
-  },
-  {
     "title": "Quick Analysis for the SSID Format String Bug",
     "url": "https://blog.chichou.me/2021/06/20/quick-analysis-wifid/",
-    "upvotes": 53,
+    "upvotes": 55,
     "author": "ingve",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27569068"
-  },
-  {
-    "title": "A Mysterious Crater’s Age May Add Clues to the Dinosaur Extinction",
-    "url": "https://www.nytimes.com/2021/06/18/science/boltysh-crater-dinosaurs.html",
-    "upvotes": 12,
-    "author": "v77",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27555195"
-  },
-  {
-    "title": "My performance benchmarking workflow",
-    "url": "http://blog.vmsplice.net/2021/06/my-performance-benchmarking-workflow.html",
-    "upvotes": 17,
-    "author": "ingve",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27570316"
-  },
-  {
-    "title": "Low Code No Code: How to Ride This Wave",
-    "url": "https://interconnected.blog/low-code-no-code-part-ii-how-to-ride-this-wave/",
-    "upvotes": 6,
-    "author": "ceohockey60",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27572327"
-  },
-  {
-    "title": "Make me a sandwich",
-    "url": "https://chrismorgan.info/blog/make-me-a-sandwich/",
-    "upvotes": 48,
-    "author": "chrismorgan",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27547327"
   }
 ]
