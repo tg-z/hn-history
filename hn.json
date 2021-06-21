@@ -1,64 +1,72 @@
 [
   {
+    "title": "Yggdrasil – an open source fully end-to-end encrypted IPv6 network",
+    "url": "https://github.com/yggdrasil-network/yggdrasil-go",
+    "upvotes": 25,
+    "author": "dragonsh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27577201"
+  },
+  {
     "title": "A dwarf planet coming within 11 AU of the sun over the next 10 years",
     "url": "https://groups.io/g/mpml/topic/83645454#36493",
-    "upvotes": 495,
+    "upvotes": 507,
     "author": "MKais",
-    "comments": 257,
+    "comments": 270,
     "link": "https://news.ycombinator.com/item?id=27572746"
   },
   {
     "title": "Nixos-unstable’s ISO_minimal.x86_64-Linux is 100% reproducible",
     "url": "https://discourse.nixos.org/t/nixos-unstable-s-iso-minimal-x86-64-linux-is-100-reproducible/13723",
-    "upvotes": 574,
+    "upvotes": 598,
     "author": "todsacerdoti",
-    "comments": 169,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=27573393"
   },
   {
     "title": "The “API Mandate” memo at Amazon",
     "url": "https://chrislaing.net/blog/the-memo/",
-    "upvotes": 193,
+    "upvotes": 211,
     "author": "laingc",
-    "comments": 60,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=27566676"
   },
   {
     "title": "USC professor’s DIY online teaching hack to engage students goes viral",
     "url": "https://news.usc.edu/174170/emily-nix-usc-professors-diy-online-teaching-hack/",
-    "upvotes": 132,
+    "upvotes": 147,
     "author": "grzm",
-    "comments": 23,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27575635"
   },
   {
     "title": "Japan's government plans to encourage 4-day workweek, but experts split",
     "url": "https://mainichi.jp/english/articles/20210619/p2g/00m/0na/014000c",
-    "upvotes": 629,
+    "upvotes": 648,
     "author": "m3at",
-    "comments": 301,
+    "comments": 313,
     "link": "https://news.ycombinator.com/item?id=27575580"
-  },
-  {
-    "title": "Mindat.org, the largest open database of minerals, rocks, and meteorites",
-    "url": "https://www.mindat.org/",
-    "upvotes": 94,
-    "author": "cdepman",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27575453"
   },
   {
     "title": "Finding the Bottom Turtle",
     "url": "https://blog.dave.tf/post/finding-bottom-turtle/",
-    "upvotes": 59,
+    "upvotes": 66,
     "author": "zdw",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27575849"
+  },
+  {
+    "title": "Mindat.org, the largest open database of minerals, rocks, and meteorites",
+    "url": "https://www.mindat.org/",
+    "upvotes": 101,
+    "author": "cdepman",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27575453"
   },
   {
     "title": "Enthusiastic amateurs advance science as they hunt for exotic mushrooms",
     "url": "https://www.npr.org/2021/06/20/1006352654/enthusiastic-amateurs-advance-science-as-they-hunt-for-exotic-mushrooms",
-    "upvotes": 34,
+    "upvotes": 38,
     "author": "jdnier",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27576169"
@@ -66,39 +74,55 @@
   {
     "title": "What every programmer should know about SSDs",
     "url": "https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html",
-    "upvotes": 356,
+    "upvotes": 366,
     "author": "sprachspiel",
-    "comments": 129,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=27572218"
   },
   {
     "title": "Bee-friendly urban wildflower meadows prove a hit with German city dwellers",
     "url": "https://www.theguardian.com/environment/2021/jun/20/bee-friendly-urban-wildflower-meadows-prove-a-hit-with-german-city-dwellers",
-    "upvotes": 245,
+    "upvotes": 254,
     "author": "rapnie",
-    "comments": 71,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=27572355"
+  },
+  {
+    "title": "The Lazarus heist: How North Korea almost pulled off a billion-dollar hack",
+    "url": "https://www.bbc.com/news/stories-57520169",
+    "upvotes": 41,
+    "author": "pseudolus",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27575916"
+  },
+  {
+    "title": "Turn your old, cracked Android phone into a backup server",
+    "url": "https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i",
+    "upvotes": 42,
+    "author": "thunderbong",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27576120"
+  },
+  {
+    "title": "JPEG XL would be Turing-complete",
+    "url": "https://dbohdan.com/wiki/jpeg-xl?",
+    "upvotes": 22,
+    "author": "networked",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27559748"
   },
   {
     "title": "A comparison between Rustam and Arjuna",
     "url": "https://blogs.bl.uk/asian-and-african/2021/05/a-comparison-between-rustam-and-arjuna.html",
-    "upvotes": 7,
+    "upvotes": 13,
     "author": "drdee",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27567544"
   },
   {
-    "title": "The Lazarus heist: How North Korea almost pulled off a billion-dollar hack",
-    "url": "https://www.bbc.com/news/stories-57520169",
-    "upvotes": 34,
-    "author": "pseudolus",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27575916"
-  },
-  {
     "title": "Zero-Knowledge Proofs",
     "url": "https://zkp.science/",
-    "upvotes": 168,
+    "upvotes": 177,
     "author": "eruleman",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27573910"
@@ -106,133 +130,109 @@
   {
     "title": "The Ice-V: a simple, compact RISC-V RV32I implementation in Silice",
     "url": "https://github.com/sylefeb/Silice/tree/draft/projects/ice-v",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "kqr2",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27575174"
   },
   {
-    "title": "Turn your old, cracked Android phone into a backup server",
-    "url": "https://www.hannahtech.co/post/turn-your-old-cracked-android-phone-into-a-backup-server-urbackup-linux-deploy-tutorial-part-i",
-    "upvotes": 30,
-    "author": "thunderbong",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27576120"
+    "title": "Policies that make the poor less poor",
+    "url": "https://www.eclogiselle.com/p/policies-that-make-poor-less-poor.html",
+    "upvotes": 118,
+    "author": "DoreenMichele",
+    "comments": 138,
+    "link": "https://news.ycombinator.com/item?id=27575872"
+  },
+  {
+    "title": "Don't Piss Off Bradley, the Parts Seller Keeping Atari Machines Alive",
+    "url": "https://www.vice.com/en/article/7kvkx9/dont-piss-off-bradley-the-parts-seller-keeping-atari-machines-alive",
+    "upvotes": 51,
+    "author": "zdw",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27575732"
+  },
+  {
+    "title": "If the Moon Were Only 1 Pixel",
+    "url": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
+    "upvotes": 198,
+    "author": "_Microft",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27573172"
   },
   {
     "title": "What it was like to be peer reviewed in the 1860s",
     "url": "https://physicstoday.scitation.org/do/10.1063/PT.5.9098/full/",
-    "upvotes": 19,
+    "upvotes": 23,
     "author": "azhenley",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27575955"
   },
   {
-    "title": "If the Moon Were Only 1 Pixel",
-    "url": "https://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html",
-    "upvotes": 194,
-    "author": "_Microft",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=27573172"
+    "title": "OrganicMaps is Android and iOS offline maps for travel without trackers or ads",
+    "url": "https://organicmaps.app/",
+    "upvotes": 8,
+    "author": "wertik13",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27576882"
   },
   {
-    "title": "Mitochondria may contribute to neurological and psychiatric disorders: research",
-    "url": "https://www.scientificamerican.com/article/could-mitochondria-be-the-key-to-a-healthy-brain/",
-    "upvotes": 212,
-    "author": "LinuxBender",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=27571818"
+    "title": "How does 'kubectl exec' work?",
+    "url": "https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter",
+    "upvotes": 43,
+    "author": "arkadiyt",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27575590"
+  },
+  {
+    "title": "Gramps – Free Genealogy Software",
+    "url": "https://gramps-project.org",
+    "upvotes": 94,
+    "author": "danboarder",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27574273"
+  },
+  {
+    "title": "Free Stuff for Developers",
+    "url": "https://freestuff.dev/",
+    "upvotes": 80,
+    "author": "hilmanski",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27575617"
   },
   {
     "title": "Upgrading Precursor’s TRNG",
     "url": "https://www.bunniestudios.com/blog/?p=6094",
     "upvotes": 8,
     "author": "pabs3",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27576305"
-  },
-  {
-    "title": "Don't Piss Off Bradley, the Parts Seller Keeping Atari Machines Alive",
-    "url": "https://www.vice.com/en/article/7kvkx9/dont-piss-off-bradley-the-parts-seller-keeping-atari-machines-alive",
-    "upvotes": 42,
-    "author": "zdw",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27575732"
-  },
-  {
-    "title": "How does 'kubectl exec' work?",
-    "url": "https://erkanerol.github.io/post/how-kubectl-exec-works/#.YMh9R3cvFUs.twitter",
-    "upvotes": 39,
-    "author": "arkadiyt",
     "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27575590"
-  },
-  {
-    "title": "Gramps – Free Genealogy Software",
-    "url": "https://gramps-project.org",
-    "upvotes": 89,
-    "author": "danboarder",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27574273"
-  },
-  {
-    "title": "Free Stuff for Developers",
-    "url": "https://freestuff.dev/",
-    "upvotes": 69,
-    "author": "hilmanski",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27575617"
+    "link": "https://news.ycombinator.com/item?id=27576305"
   },
   {
     "title": "Modernizing the DOM Tree in Microsoft Edge",
     "url": "https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "jasim",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27576613"
-  },
-  {
-    "title": "Policies that make the poor less poor",
-    "url": "https://www.eclogiselle.com/p/policies-that-make-poor-less-poor.html",
-    "upvotes": 115,
-    "author": "DoreenMichele",
-    "comments": 124,
-    "link": "https://news.ycombinator.com/item?id=27575872"
-  },
-  {
-    "title": "Our journey from office-centric to remote-first",
-    "url": "https://www.docker.com/blog/our-journey-from-office-centric-to-remote-first/",
-    "upvotes": 79,
-    "author": "kiyanwang",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27572741"
   },
   {
     "title": "Smarking",
     "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"
   },
   {
-    "title": "New York congressman puts forward federal right-to-repair bill",
-    "url": "https://www.theregister.com/2021/06/18/first_federal_right_to_repair_bill/",
-    "upvotes": 59,
-    "author": "LinuxBender",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27575933"
-  },
-  {
-    "title": "From NAND to Raytracer: Raytracing on the Hack Computer",
-    "url": "https://blog.alexqua.ch/posts/from-nand-to-raytracer/",
-    "upvotes": 106,
-    "author": "lukastyrychtr",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27549225"
-  },
-  {
     "title": "The Soap Bubble Trope",
     "url": "https://daily.jstor.org/the-soap-bubble-trope/",
-    "upvotes": 6,
+    "upvotes": 8,
     "author": "prismatic",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27557650"
+  },
+  {
+    "title": "Our journey from office-centric to remote-first",
+    "url": "https://www.docker.com/blog/our-journey-from-office-centric-to-remote-first/",
+    "upvotes": 81,
+    "author": "kiyanwang",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27572741"
   }
 ]
