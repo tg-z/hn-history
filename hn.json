@@ -2,49 +2,57 @@
   {
     "title": "Rhizome – A pedagogical example of a JIT for Ruby, implemented in Ruby",
     "url": "https://github.com/chrisseaton/rhizome",
-    "upvotes": 177,
+    "upvotes": 185,
     "author": "thunderbong",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27581257"
   },
   {
-    "title": "A reference counting bug which leads to local privilege escalation in io_uring",
-    "url": "https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a",
-    "upvotes": 43,
-    "author": "todsacerdoti",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27582396"
+    "title": "Apple is building the metaverse substrate",
+    "url": "https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html",
+    "upvotes": 137,
+    "author": "grork",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=27582568"
   },
   {
     "title": "A History of The Rochester, NY Camera and Lens Companies",
     "url": "http://www.nwmangum.com/Kodak/Rochester.html",
     "upvotes": 47,
     "author": "brudgers",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27567341"
   },
   {
-    "title": "Apple is building the metaverse substrate",
-    "url": "https://www.codevoid.net/ruminations/2021/06/20/wwdc-2021-apple-metaverse-plain-sight.html",
-    "upvotes": 118,
-    "author": "grork",
-    "comments": 103,
-    "link": "https://news.ycombinator.com/item?id=27582568"
+    "title": "A reference counting bug which leads to local privilege escalation in io_uring",
+    "url": "https://flattsecurity.medium.com/cve-2021-20226-a-reference-counting-bug-which-leads-to-local-privilege-escalation-in-io-uring-e946bd69177a",
+    "upvotes": 47,
+    "author": "todsacerdoti",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27582396"
+  },
+  {
+    "title": "Andrej Karpathy",
+    "url": "https://www.youtube.com/watch?v=NSDTZQdo6H8",
+    "upvotes": 75,
+    "author": "vpj",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27580744"
   },
   {
     "title": "Git undo: We can do better",
     "url": "https://blog.waleedkhan.name/git-undo/",
-    "upvotes": 474,
+    "upvotes": 484,
     "author": "arxanas",
-    "comments": 301,
+    "comments": 311,
     "link": "https://news.ycombinator.com/item?id=27579701"
   },
   {
     "title": "Internal Amazon documents shed light on how company pressures out office workers",
     "url": "https://www.seattletimes.com/business/amazon/internal-amazon-documents-shed-light-on-how-company-pressures-out-6-of-office-workers/",
-    "upvotes": 248,
+    "upvotes": 280,
     "author": "flowerlad",
-    "comments": 158,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=27581797"
   },
   {
@@ -52,49 +60,33 @@
     "url": "https://www.ycombinator.com/companies/bright/jobs/XvqoCpD-impact-driven-software-backend-engineer"
   },
   {
-    "title": "Andrej Karpathy",
-    "url": "https://www.youtube.com/watch?v=NSDTZQdo6H8",
-    "upvotes": 67,
-    "author": "vpj",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27580744"
-  },
-  {
     "title": "Ask HN: I was hit with a patent troll lawsuit, how do I deal with it?",
     "url": "item?id=27579693",
-    "upvotes": 586,
+    "upvotes": 599,
     "author": "jblake",
-    "comments": 233,
+    "comments": 239,
     "link": "https://news.ycombinator.com/item?id=27579693"
   },
   {
     "title": "Fluid Paint",
     "url": "https://david.li/paint/",
-    "upvotes": 470,
+    "upvotes": 474,
     "author": "pjerem",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27577460"
   },
   {
     "title": "Yggdrasil – Early-stage implementation of an end-to-end encrypted IPv6 network",
     "url": "https://github.com/yggdrasil-network/yggdrasil-go",
-    "upvotes": 393,
+    "upvotes": 394,
     "author": "dragonsh",
     "comments": 92,
     "link": "https://news.ycombinator.com/item?id=27577201"
   },
   {
-    "title": "Pfizer to Pay $2.3B for Largest Health Care Fraud Settlement in Its History",
-    "url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-health-care-fraud-settlement-its-history",
-    "upvotes": 22,
-    "author": "sahin",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27584618"
-  },
-  {
     "title": "LibreCellular",
     "url": "https://librecellular.org/",
-    "upvotes": 314,
+    "upvotes": 323,
     "author": "pabs3",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27577525"
@@ -102,31 +94,39 @@
   {
     "title": "Accidentally exponential behavior in Spark",
     "url": "https://heap.io/blog/accidentally-exponential-behavior-in-spark",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "drob",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27582645"
+  },
+  {
+    "title": "All music used by government services must feature Quebec artists",
+    "url": "https://www.cbc.ca/news/canada/montreal/only-quebec-music-culture-ministry-1.6073135",
+    "upvotes": 6,
+    "author": "elsewhen",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27584082"
   },
   {
     "title": "Rhode island makes financial literacy classes required for high school students",
     "url": "https://themorningnews.com/news/2021/06/17/this-public-high-school-is-brainwashing-its-students-to-set-a-monthly-budget/",
-    "upvotes": 138,
+    "upvotes": 149,
     "author": "gmays",
-    "comments": 123,
+    "comments": 127,
     "link": "https://news.ycombinator.com/item?id=27581359"
   },
   {
     "title": "Hey, There's a Second Brain in Your Gut And now scientists know how it works",
     "url": "https://www.popularmechanics.com/science/health/a34934637/gut-brain-science/",
-    "upvotes": 42,
+    "upvotes": 51,
     "author": "truth_",
-    "comments": 13,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27583629"
   },
   {
     "title": "Dostoevsky and His Demons",
     "url": "https://www.nybooks.com/articles/2021/07/01/dostoevsky-and-his-demons/",
-    "upvotes": 32,
+    "upvotes": 40,
     "author": "lermontov",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27557582"
@@ -134,31 +134,47 @@
   {
     "title": "Towing a Tesla at 70 MPH replenishes battery at fast charger rates",
     "url": "https://insideevs.com/news/514727/tesla-towing-70mph-fast-charging/",
-    "upvotes": 58,
+    "upvotes": 74,
     "author": "danboarder",
-    "comments": 83,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27578900"
+  },
+  {
+    "title": "My experiments with sprouting legumes",
+    "url": "https://www.upgrademyfood.com/sprouting-legumes/",
+    "upvotes": 47,
+    "author": "koolhead17",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27568804"
   },
   {
     "title": "Machine Learning Cohorts: A Synthesis",
     "url": "https://github.com/dynamicwebpaige/kaggle-survey-spelunking/blob/main/README.md",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "polm23",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27569693"
   },
   {
-    "title": "My experiments with sprouting legumes",
-    "url": "https://www.upgrademyfood.com/sprouting-legumes/",
-    "upvotes": 41,
-    "author": "koolhead17",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27568804"
+    "title": "Pfizer to Pay $2.3B for Largest Health Care Fraud Settlement in Its History",
+    "url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-health-care-fraud-settlement-its-history",
+    "upvotes": 37,
+    "author": "sahin",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27584618"
+  },
+  {
+    "title": "Path Tracing Quake in Blender",
+    "url": "http://matthewearl.github.io/2021/06/20/quake-blender/",
+    "upvotes": 116,
+    "author": "kipi",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27571873"
   },
   {
     "title": "Fine-Tuning Transformers for NLP",
     "url": "https://www.assemblyai.com/blog/fine-tuning-transformers-for-nlp",
-    "upvotes": 50,
+    "upvotes": 52,
     "author": "dylanbfox",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27579702"
@@ -166,7 +182,7 @@
   {
     "title": "Column – High-performance, columnar, in-memory store with bitmap indexing in Go",
     "url": "https://github.com/kelindar/column",
-    "upvotes": 139,
+    "upvotes": 142,
     "author": "ngaut",
     "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27577193"
@@ -174,7 +190,7 @@
   {
     "title": "SLSA, an End-to-End Framework for Supply Chain Integrity",
     "url": "https://security.googleblog.com/2021/06/introducing-slsa-end-to-end-framework.html",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "rbinv",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27573618"
@@ -182,57 +198,41 @@
   {
     "title": "Plotly.py 5.0",
     "url": "https://community.plotly.com/t/introducing-plotly-py-5-0-0-a-new-federated-jupyter-extension-icicle-charts-and-bar-chart-patterns/54039",
-    "upvotes": 60,
+    "upvotes": 65,
     "author": "nicolaskruchten",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27581336"
   },
   {
-    "title": "Path Tracing Quake in Blender",
-    "url": "http://matthewearl.github.io/2021/06/20/quake-blender/",
-    "upvotes": 109,
-    "author": "kipi",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27571873"
+    "title": "Ask HN: A good Linux laptop below 1000€",
+    "url": "item?id=27584974",
+    "upvotes": 5,
+    "author": "csunbird",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27584974"
   },
   {
     "title": "The mind of a murderer: the power and limits of forensic psychiatry",
     "url": "https://www.theguardian.com/society/2021/jun/17/inside-the-mind-of-murderer-power-and-limits-of-forensic-psychiatry-crime-prison",
-    "upvotes": 40,
+    "upvotes": 41,
     "author": "axiomdata316",
-    "comments": 18,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27555928"
+  },
+  {
+    "title": "Name and Shame: LoanStreet",
+    "url": "https://old.reddit.com/r/cscareerquestions/comments/o3jpfc/name_and_shame_loanstreet_ny_cheated_me_out_of/",
+    "upvotes": 21,
+    "author": "IMAYousaf",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27583959"
   },
   {
     "title": "Reading Grossman's “Stalingrad” and ”Life and Fate”",
     "url": "https://adamtooze.substack.com/p/chartbook-21",
-    "upvotes": 86,
+    "upvotes": 87,
     "author": "mathgenius",
-    "comments": 45,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27568340"
-  },
-  {
-    "title": "JPEG XL",
-    "url": "https://jpegxl.info",
-    "upvotes": 332,
-    "author": "tosh",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=27577328"
-  },
-  {
-    "title": "Ask HN: How to learn proper systems programming?",
-    "url": "item?id=27577514",
-    "upvotes": 276,
-    "author": "systems_learn",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=27577514"
-  },
-  {
-    "title": "National Collegiate Athletic Association vs. Alston [pdf]",
-    "url": "https://www.supremecourt.gov/opinions/20pdf/20-512_gfbh.pdf",
-    "upvotes": 74,
-    "author": "thestoicattack",
-    "comments": 78,
-    "link": "https://news.ycombinator.com/item?id=27580558"
   }
 ]
