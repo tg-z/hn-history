@@ -2,41 +2,57 @@
   {
     "title": "What's Inside the EU Green Pass QR Code?",
     "url": "https://gir.st/blog/greenpass.html",
-    "upvotes": 166,
+    "upvotes": 235,
     "author": "zaik",
-    "comments": 107,
+    "comments": 176,
     "link": "https://news.ycombinator.com/item?id=27589913"
+  },
+  {
+    "title": "Elfcat: Visualize ELF Binaries",
+    "url": "https://github.com/ruslashev/elfcat",
+    "upvotes": 25,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27590508"
+  },
+  {
+    "title": "Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool",
+    "url": "https://github.com/d-edge/fasm",
+    "upvotes": 21,
+    "author": "aloisdg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27590583"
   },
   {
     "title": "Your CPU May Have Slowed Down on Wednesday",
     "url": "https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html",
-    "upvotes": 333,
+    "upvotes": 364,
     "author": "superkuh",
-    "comments": 164,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=27588258"
   },
   {
     "title": "Pocketlang",
     "url": "https://github.com/ThakeeNathees/pocketlang",
-    "upvotes": 105,
+    "upvotes": 119,
     "author": "tsujp",
-    "comments": 14,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27588842"
   },
   {
     "title": "Hyundai acquires stake in Boston Dynamics for $880M",
     "url": "https://finbold.com/hyundai-acquires-controlling-stake-in-u-s-robotics-firm-boston-dynamics-for-880-million/",
-    "upvotes": 132,
+    "upvotes": 149,
     "author": "sidcool",
-    "comments": 51,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27588047"
   },
   {
     "title": "U.S. Commerce Department rescinds TikTok, WeChat prohibited transactions list",
     "url": "https://www.reuters.com/technology/us-commerce-department-rescinds-tiktok-wechat-prohibited-transactions-list-2021-06-21/",
-    "upvotes": 22,
+    "upvotes": 31,
     "author": "shivbhatt",
-    "comments": 15,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27589490"
   },
   {
@@ -46,193 +62,177 @@
   {
     "title": "The Fine Art of Combining Harmonics",
     "url": "https://whatmusicreallyis.com/research/harmonicomb/",
-    "upvotes": 59,
+    "upvotes": 62,
     "author": "flabber",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27588673"
   },
   {
     "title": "Alpha-Gal Syndrome",
     "url": "https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608",
-    "upvotes": 136,
+    "upvotes": 147,
     "author": "x14km2d",
-    "comments": 63,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=27587520"
   },
   {
     "title": "Who owns the German DAX? [pdf]",
     "url": "https://www.dirk.org/wp-content/uploads/2021/06/DAX-Study-2020-Investoren-der-Deutschland-AG-8_0.pdf",
-    "upvotes": 34,
+    "upvotes": 39,
     "author": "doener",
-    "comments": 18,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27589155"
   },
   {
     "title": "Silice: A language for hardcoding Algorithms into FPGA hardware",
     "url": "https://github.com/sylefeb/Silice",
-    "upvotes": 22,
+    "upvotes": 29,
     "author": "mleonhard",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27589298"
   },
   {
-    "title": "Kats: One stop shop for time series analysis in Python",
-    "url": "https://facebookresearch.github.io/Kats/",
-    "upvotes": 177,
-    "author": "babak_ap",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27585711"
-  },
-  {
-    "title": "Once Dataset: One Million Scenes for Autonomous Driving",
-    "url": "https://once-for-auto-driving.github.io/index.html",
-    "upvotes": 55,
-    "author": "lnyan",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27587316"
-  },
-  {
-    "title": "SproutLife – Evolving version of Conway’s Game of Life",
-    "url": "https://github.com/ShprAlex/SproutLife",
-    "upvotes": 132,
-    "author": "MichaelMoser123",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27585953"
-  },
-  {
-    "title": "A popular algorithm to predict sepsis misses most cases and sends false alarms",
-    "url": "https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/",
-    "upvotes": 55,
-    "author": "hhs",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27587442"
-  },
-  {
-    "title": "Monte Carlo Counterfactual Regret Minimization with Kuhn Poker",
+    "title": "Regret Minimization in Games with Incomplete Information",
     "url": "https://nn.labml.ai/cfr/index.html",
-    "upvotes": 4,
+    "upvotes": 14,
     "author": "vpj",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27589717"
   },
   {
-    "title": "UK Testing Emergency Alerts",
-    "url": "https://www.gov.uk/alerts",
-    "upvotes": 34,
-    "author": "bennyp101",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27589873"
+    "title": "Attack Surface Analyzer helps you analyze your OS's security configuration",
+    "url": "https://github.com/Microsoft/AttackSurfaceAnalyzer",
+    "upvotes": 11,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27589916"
+  },
+  {
+    "title": "Kats: One stop shop for time series analysis in Python",
+    "url": "https://facebookresearch.github.io/Kats/",
+    "upvotes": 183,
+    "author": "babak_ap",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27585711"
+  },
+  {
+    "title": "Once Dataset: One Million Scenes for Autonomous Driving",
+    "url": "https://once-for-auto-driving.github.io/index.html",
+    "upvotes": 62,
+    "author": "lnyan",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27587316"
+  },
+  {
+    "title": "A popular algorithm to predict sepsis misses most cases and sends false alarms",
+    "url": "https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/",
+    "upvotes": 61,
+    "author": "hhs",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27587442"
   },
   {
     "title": "Tour of the server room in the Airbus 350",
     "url": "https://www.youtube.com/watch?v=241-5DZyons",
-    "upvotes": 152,
+    "upvotes": 174,
     "author": "wildrice",
-    "comments": 55,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=27588747"
   },
   {
-    "title": "Redis server side if-modified-since caching pattern using lua",
-    "url": "https://blog.r4um.net/2021/redis-mtime-getset/",
-    "upvotes": 20,
-    "author": "r4um",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27588671"
+    "title": "Cargo Is Piling Up Everywhere, and It's Making Inflation Worse",
+    "url": "https://www.npr.org/2021/06/21/1007938067/cargo-is-piling-up-everywhere-and-its-making-inflation-worse",
+    "upvotes": 97,
+    "author": "paulpauper",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=27586978"
+  },
+  {
+    "title": "SproutLife – Evolving version of Conway’s Game of Life",
+    "url": "https://github.com/ShprAlex/SproutLife",
+    "upvotes": 135,
+    "author": "MichaelMoser123",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27585953"
+  },
+  {
+    "title": "UK Testing Emergency Alerts",
+    "url": "https://www.gov.uk/alerts",
+    "upvotes": 46,
+    "author": "bennyp101",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27589873"
   },
   {
     "title": "Positions of Two NATO Ships Were Falsified Near Russian Black Sea Naval Base",
     "url": "https://news.usni.org/2021/06/21/positions-of-two-nato-ships-were-falsified-near-russian-black-sea-naval-base",
-    "upvotes": 35,
+    "upvotes": 43,
     "author": "Nokinside",
-    "comments": 8,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27589549"
+  },
+  {
+    "title": "Redis server side if-modified-since caching pattern using lua",
+    "url": "https://blog.r4um.net/2021/redis-mtime-getset/",
+    "upvotes": 24,
+    "author": "r4um",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27588671"
+  },
+  {
+    "title": "Ask HN: 90s programmers, what did you expect the future of tech to look like?",
+    "url": "item?id=27585956",
+    "upvotes": 98,
+    "author": "Dracophoenix",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=27585956"
   },
   {
     "title": "A Public Registry for AWS CloudFormation",
     "url": "https://aws.amazon.com/blogs/aws/introducing-a-public-registry-for-aws-cloudformation/",
     "upvotes": 57,
     "author": "gmays",
-    "comments": 8,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27586160"
   },
   {
-    "title": "Google’s Messaging Mess: A Timeline",
-    "url": "https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline",
-    "upvotes": 190,
-    "author": "0xedb",
-    "comments": 131,
-    "link": "https://news.ycombinator.com/item?id=27587911"
+    "title": "Free Software and Freakonomics",
+    "url": "https://sambhav.saggis.com/en/blog/2021-06-21-free-software-and-freakonomics",
+    "upvotes": 48,
+    "author": "smbv",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27586970"
   },
   {
     "title": "Rootless Sniffing",
     "url": "https://lude.rs/h4ck1ng/rootless_sniffing.html",
-    "upvotes": 30,
+    "upvotes": 33,
     "author": "g3ol4d0",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27588199"
   },
   {
-    "title": "Australia opposes Great Barrier Reef ′in danger′ listing",
-    "url": "https://www.dw.com/en/australia-opposes-great-barrier-reef-in-danger-listing/a-57987254",
-    "upvotes": 79,
-    "author": "Tomte",
-    "comments": 95,
-    "link": "https://news.ycombinator.com/item?id=27589476"
-  },
-  {
-    "title": "Free Software and Freakonomics",
-    "url": "https://sambhav.saggis.com/en/blog/2021-06-21-free-software-and-freakonomics",
-    "upvotes": 40,
-    "author": "smbv",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27586970"
-  },
-  {
     "title": "How the Next Layer of the Internet Is Going to Be Standardised",
     "url": "https://www.mnot.net/blog/2021/06/21/standards-competition-governance",
-    "upvotes": 46,
+    "upvotes": 51,
     "author": "kennu",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27586081"
   },
   {
-    "title": "Over 200 Patent Judges Were Improperly Appointed, Supreme Court Says",
+    "title": "Supreme Court Says Over 200 Patent Judges Were Improperly Appointed",
     "url": "https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html",
-    "upvotes": 138,
+    "upvotes": 151,
     "author": "pseudolus",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27587361"
   },
   {
-    "title": "GAN Theft Auto",
+    "title": "GAN Theft Auto [video]",
     "url": "https://www.youtube.com/watch?v=udPY5rQVoW0",
-    "upvotes": 335,
+    "upvotes": 346,
     "author": "ALittleLight",
-    "comments": 78,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27559106"
-  },
-  {
-    "title": "Political trolling twice as popular as positivity, study suggests",
-    "url": "https://www.bbc.com/news/technology-57558028",
-    "upvotes": 173,
-    "author": "pseudolus",
-    "comments": 124,
-    "link": "https://news.ycombinator.com/item?id=27587109"
-  },
-  {
-    "title": "Upgrade Your SSH Key to Ed25519",
-    "url": "https://medium.com/risan/upgrade-your-ssh-key-to-ed25519-c6e8d60d3c54",
-    "upvotes": 58,
-    "author": "doener",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27588819"
-  },
-  {
-    "title": "Show HN: PlanetTypeScript, Aggregator of all things TypeScript",
-    "url": "http://www.planettypescript.com/",
-    "upvotes": 3,
-    "author": "dade",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27589080"
   }
 ]
