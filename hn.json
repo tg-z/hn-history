@@ -1,140 +1,188 @@
 [
   {
-    "title": "What's Inside the EU Green Pass QR Code?",
-    "url": "https://gir.st/blog/greenpass.html",
-    "upvotes": 497,
-    "author": "zaik",
-    "comments": 398,
-    "link": "https://news.ycombinator.com/item?id=27589913"
+    "title": "A from-scratch tour of Bitcoin in Python",
+    "url": "https://karpathy.github.io/2021/06/21/blockchain/",
+    "upvotes": 65,
+    "author": "yigitdemirag",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27593772"
   },
   {
-    "title": "Onboarding to Elixir",
-    "url": "https://underjord.io/onboarding-to-elixir.html",
-    "upvotes": 113,
-    "author": "lawik",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27591079"
+    "title": "Introducing Brave Search beta",
+    "url": "https://search.brave.com/",
+    "upvotes": 172,
+    "author": "vmullin",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=27593360"
+  },
+  {
+    "title": "Decentralized Identifiers",
+    "url": "https://www.w3.org/TR/did-core/",
+    "upvotes": 26,
+    "author": "mooreds",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27593406"
+  },
+  {
+    "title": "SiFive P550 Core Sets New Standard as Highest Performance RISC-V Processor IP",
+    "url": "https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest",
+    "upvotes": 49,
+    "author": "andrewnc",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27592187"
   },
   {
     "title": "Your CPU may have slowed down on Wednesday",
     "url": "https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html",
-    "upvotes": 532,
+    "upvotes": 574,
     "author": "superkuh",
-    "comments": 299,
+    "comments": 323,
     "link": "https://news.ycombinator.com/item?id=27588258"
+  },
+  {
+    "title": "Poll Everywhere",
+    "url": "https://www.polleverywhere.com/jobs#full-stack-engineer"
+  },
+  {
+    "title": "Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool",
+    "url": "https://github.com/d-edge/fasm",
+    "upvotes": 93,
+    "author": "aloisdg",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27590583"
+  },
+  {
+    "title": "Show HN: I wrote a book about Python",
+    "url": "https://pragprog.com/titles/dmpython/intuitive-python/",
+    "upvotes": 27,
+    "author": "dmuller",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27592822"
   },
   {
     "title": "SimCities and SimCrises",
     "url": "http://molleindustria.org/GamesForCities/",
-    "upvotes": 10,
+    "upvotes": 48,
     "author": "rrherr",
-    "comments": null,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27593081"
   },
   {
     "title": "Elfcat: Visualize ELF Binaries",
     "url": "https://github.com/ruslashev/elfcat",
-    "upvotes": 100,
+    "upvotes": 113,
     "author": "todsacerdoti",
-    "comments": 10,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27590508"
-  },
-  {
-    "title": "Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool",
-    "url": "https://github.com/d-edge/fasm",
-    "upvotes": 81,
-    "author": "aloisdg",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27590583"
   },
   {
     "title": "CSP bypass: How one Chrome XSS bug took 2.5 years and an HTML spec change to fix",
     "url": "https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix",
-    "upvotes": 23,
+    "upvotes": 33,
     "author": "weinzierl",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27591657"
-  },
-  {
-    "title": "Ask HN: It finally happened to me, how do you deal with burnout?",
-    "url": "item?id=27593136",
-    "upvotes": 27,
-    "author": "astrea",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27593136"
   },
   {
     "title": "Hyundai acquires controlling stake in Boston Dynamics for $880M",
     "url": "https://finbold.com/hyundai-acquires-controlling-stake-in-u-s-robotics-firm-boston-dynamics-for-880-million/",
-    "upvotes": 253,
+    "upvotes": 276,
     "author": "sidcool",
-    "comments": 98,
+    "comments": 110,
     "link": "https://news.ycombinator.com/item?id=27588047"
   },
   {
-    "title": "Attack Surface Analyzer helps you analyze your OS's security configuration",
-    "url": "https://github.com/Microsoft/AttackSurfaceAnalyzer",
-    "upvotes": 62,
-    "author": "Tomte",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27589916"
-  },
-  {
-    "title": "SiFive P550 Core Sets New Standard as Highest Performance RISC-V Processor IP",
-    "url": "https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest",
-    "upvotes": 22,
-    "author": "andrewnc",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27592187"
-  },
-  {
-    "title": "Pocketlang",
-    "url": "https://github.com/ThakeeNathees/pocketlang",
-    "upvotes": 169,
-    "author": "tsujp",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27588842"
-  },
-  {
-    "title": "Instamenu",
-    "url": "https://www.ycombinator.com/companies/instamenu/jobs/KqO4MW1-founding-full-stack-engineer"
-  },
-  {
-    "title": "Ask HN: Anyone built a biz with no-code tools? SaaS, productized service etc.?",
-    "url": "item?id=27593073",
-    "upvotes": 16,
-    "author": "akudha",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27593073"
-  },
-  {
-    "title": "Alpha-Gal Syndrome",
-    "url": "https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608",
-    "upvotes": 195,
-    "author": "x14km2d",
-    "comments": 113,
-    "link": "https://news.ycombinator.com/item?id=27587520"
+    "title": "What's Inside the EU Green Pass QR Code?",
+    "url": "https://gir.st/blog/greenpass.html",
+    "upvotes": 544,
+    "author": "zaik",
+    "comments": 426,
+    "link": "https://news.ycombinator.com/item?id=27589913"
   },
   {
     "title": "ML Beyond Curve Fitting: An Intro to Causal Inference and Do-Calculus",
     "url": "https://www.inference.vc/untitled/",
-    "upvotes": 4,
+    "upvotes": 17,
     "author": "lnyan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27577467"
   },
   {
+    "title": "Ask HN: Anyone built a biz with no-code tools? SaaS, productized service etc.?",
+    "url": "item?id=27593073",
+    "upvotes": 46,
+    "author": "akudha",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27593073"
+  },
+  {
+    "title": "Attack Surface Analyzer helps you analyze your OS's security configuration",
+    "url": "https://github.com/Microsoft/AttackSurfaceAnalyzer",
+    "upvotes": 72,
+    "author": "Tomte",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27589916"
+  },
+  {
+    "title": "Onboarding to Elixir",
+    "url": "https://underjord.io/onboarding-to-elixir.html",
+    "upvotes": 133,
+    "author": "lawik",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=27591079"
+  },
+  {
+    "title": "Pocketlang",
+    "url": "https://github.com/ThakeeNathees/pocketlang",
+    "upvotes": 176,
+    "author": "tsujp",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=27588842"
+  },
+  {
+    "title": "Show HN: Then – Understand how you spend your time and what influences your mood",
+    "url": "https://pupishi.com/then",
+    "upvotes": 19,
+    "author": "alexpotrivaev",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27592876"
+  },
+  {
+    "title": "Supreme Court says over 200 patent judges were improperly appointed",
+    "url": "https://www.nytimes.com/2021/06/21/us/politics/supreme-court-patent-judges.html",
+    "upvotes": 184,
+    "author": "pseudolus",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27587361"
+  },
+  {
+    "title": "Alpha-Gal Syndrome",
+    "url": "https://www.mayoclinic.org/diseases-conditions/alpha-gal-syndrome/symptoms-causes/syc-20428608",
+    "upvotes": 206,
+    "author": "x14km2d",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=27587520"
+  },
+  {
+    "title": "Earth Has a 27.5M-Year 'Heartbeat', but We Don't Know What Causes It",
+    "url": "https://www.sciencealert.com/our-planet-has-a-27-5-million-year-old-pulse-says-study-we-don-t-know-what-causes-it",
+    "upvotes": 31,
+    "author": "CarCooler",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27593021"
+  },
+  {
     "title": "Regret Minimization in Games with Incomplete Information",
     "url": "https://nn.labml.ai/cfr/index.html",
-    "upvotes": 53,
+    "upvotes": 60,
     "author": "vpj",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27589717"
   },
   {
     "title": "The Fine Art of Combining Harmonics",
     "url": "https://whatmusicreallyis.com/research/harmonicomb/",
-    "upvotes": 91,
+    "upvotes": 101,
     "author": "flabber",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27588673"
@@ -142,97 +190,49 @@
   {
     "title": "When an Eel Climbs a Ramp to Eat Squid from a Clamp, That’s a Moray",
     "url": "https://www.nytimes.com/2021/06/22/science/moray-eels-eat-land.html",
-    "upvotes": 47,
+    "upvotes": 66,
     "author": "aranchelk",
-    "comments": 19,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27592081"
   },
   {
     "title": "Silice: A language for hardcoding Algorithms into FPGA hardware",
     "url": "https://github.com/sylefeb/Silice",
-    "upvotes": 57,
+    "upvotes": 64,
     "author": "mleonhard",
-    "comments": 12,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27589298"
+  },
+  {
+    "title": "Intel to Adopt SiFive's New High-Performance P550 RISC-V Cores with 7nm Platform",
+    "url": "https://www.tomshardware.com/news/intel-to-adopt-sifives-new-high-performance-p550-risc-v-cores",
+    "upvotes": 58,
+    "author": "ItsTotallyOn",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27591218"
+  },
+  {
+    "title": "A popular algorithm to predict sepsis misses most cases and sends false alarms",
+    "url": "https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/",
+    "upvotes": 106,
+    "author": "hhs",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=27587442"
   },
   {
     "title": "Firecode: A collection traversal library for Firestore",
     "url": "https://github.com/kafkas/firecode",
-    "upvotes": 24,
+    "upvotes": 31,
     "author": "anarkafkas",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27591828"
   },
   {
     "title": "Bumble closes to give 'burnt-out' staff a week's break",
     "url": "https://www.bbc.co.uk/news/business-57562230",
-    "upvotes": 131,
+    "upvotes": 148,
     "author": "dustinmoris",
-    "comments": 172,
+    "comments": 197,
     "link": "https://news.ycombinator.com/item?id=27590697"
-  },
-  {
-    "title": "A popular algorithm to predict sepsis misses most cases and sends false alarms",
-    "url": "https://www.statnews.com/2021/06/21/epic-sepsis-prediction-tool/",
-    "upvotes": 102,
-    "author": "hhs",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27587442"
-  },
-  {
-    "title": "Cargo Is Piling Up Everywhere, and It's Making Inflation Worse",
-    "url": "https://www.npr.org/2021/06/21/1007938067/cargo-is-piling-up-everywhere-and-its-making-inflation-worse",
-    "upvotes": 170,
-    "author": "paulpauper",
-    "comments": 157,
-    "link": "https://news.ycombinator.com/item?id=27586978"
-  },
-  {
-    "title": "Intel to Adopt SiFive's New High-Performance P550 RISC-V Cores with 7nm Platform",
-    "url": "https://www.tomshardware.com/news/intel-to-adopt-sifives-new-high-performance-p550-risc-v-cores",
-    "upvotes": 41,
-    "author": "ItsTotallyOn",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27591218"
-  },
-  {
-    "title": "Amazon destroying millions of items of unsold stock in one of its UK warehouses",
-    "url": "https://www.itv.com/news/2021-06-21/amazon-destroying-millions-of-items-of-unsold-stock-in-one-of-its-uk-warehouses-every-year-itv-news-investigation-finds",
-    "upvotes": 112,
-    "author": "pedro-guimaraes",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=27591690"
-  },
-  {
-    "title": "Once Dataset: One Million Scenes for Autonomous Driving",
-    "url": "https://once-for-auto-driving.github.io/index.html",
-    "upvotes": 84,
-    "author": "lnyan",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27587316"
-  },
-  {
-    "title": "Earth Has a 27.5M-Year 'Heartbeat', but We Don't Know What Causes It",
-    "url": "https://www.sciencealert.com/our-planet-has-a-27-5-million-year-old-pulse-says-study-we-don-t-know-what-causes-it",
-    "upvotes": 9,
-    "author": "CarCooler",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27593021"
-  },
-  {
-    "title": "Tour of the server room in the Airbus 350",
-    "url": "https://www.youtube.com/watch?v=241-5DZyons",
-    "upvotes": 254,
-    "author": "wildrice",
-    "comments": 140,
-    "link": "https://news.ycombinator.com/item?id=27588747"
-  },
-  {
-    "title": "Redis server side if-modified-since caching pattern using lua",
-    "url": "https://blog.r4um.net/2021/redis-mtime-getset/",
-    "upvotes": 41,
-    "author": "r4um",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27588671"
   }
 ]
