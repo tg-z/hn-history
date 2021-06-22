@@ -2,66 +2,74 @@
   {
     "title": "A from-scratch tour of Bitcoin in Python",
     "url": "https://karpathy.github.io/2021/06/21/blockchain/",
-    "upvotes": 582,
+    "upvotes": 601,
     "author": "yigitdemirag",
-    "comments": 192,
+    "comments": 196,
     "link": "https://news.ycombinator.com/item?id=27593772"
   },
   {
-    "title": "Intel restructures and creates new business units and leadership roles",
-    "url": "https://www.intel.com/content/www/us/en/newsroom/news/intel-makes-changes-strengthen-execution-innovation-critical-business-areas.html",
-    "upvotes": 68,
-    "author": "mroche",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27597327"
+    "title": "Racing Game in ClojureScript",
+    "url": "https://github.com/ertugrulcetin/racing-game-cljs",
+    "upvotes": 37,
+    "author": "winkywooster",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27597987"
   },
   {
     "title": "Brave Search beta",
     "url": "https://search.brave.com/",
-    "upvotes": 428,
+    "upvotes": 448,
     "author": "vmullin",
-    "comments": 331,
+    "comments": 355,
     "link": "https://news.ycombinator.com/item?id=27593360"
+  },
+  {
+    "title": "The “self-made” myth: Why hard work isn’t enough to reach the top",
+    "url": "https://thehustle.co/self-made-myth-luck-versus-hard-work/",
+    "upvotes": 21,
+    "author": "paulpauper",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27598341"
   },
   {
     "title": "What is ranked-choice voting and why is New York using it?",
     "url": "https://www.npr.org/2021/06/22/1008807504/ranked-choice-voting-new-york-city-mayors-race",
-    "upvotes": 133,
+    "upvotes": 151,
     "author": "elsewhen",
-    "comments": 130,
+    "comments": 188,
     "link": "https://news.ycombinator.com/item?id=27597662"
   },
   {
     "title": "Regularization is all you need: simple neural nets can excel on tabular data",
     "url": "https://arxiv.org/abs/2106.11189",
-    "upvotes": 109,
+    "upvotes": 112,
     "author": "tracyhenry",
-    "comments": 43,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27595309"
-  },
-  {
-    "title": "Racing Game in ClojureScript",
-    "url": "https://github.com/ertugrulcetin/racing-game-cljs",
-    "upvotes": 13,
-    "author": "winkywooster",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27597987"
   },
   {
     "title": "Reply of the Zaporozhian Cossacks",
     "url": "https://en.wikipedia.org/wiki/Reply_of_the_Zaporozhian_Cossacks",
-    "upvotes": 84,
+    "upvotes": 91,
     "author": "slater",
-    "comments": 37,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27595429"
   },
   {
-    "title": "Ignore the Kingman at your own peril",
-    "url": "https://taborsky.cz/posts/2021/kingman-formula/",
-    "upvotes": 15,
-    "author": "mrsnuggles",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27592369"
+    "title": "Effects of cat ownership on the gut microbiota of owners",
+    "url": "https://doi.org/10.1371/journal.pone.0253133",
+    "upvotes": 9,
+    "author": "mleonhard",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27598292"
+  },
+  {
+    "title": "Decentralized Identifiers",
+    "url": "https://www.w3.org/TR/did-core/",
+    "upvotes": 143,
+    "author": "mooreds",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=27593406"
   },
   {
     "title": "Crosby, Stills, Nash and Young’s lost album, Human Highway",
@@ -76,92 +84,76 @@
     "url": "https://www.safebutler.com/careers"
   },
   {
-    "title": "Decentralized Identifiers",
-    "url": "https://www.w3.org/TR/did-core/",
-    "upvotes": 141,
-    "author": "mooreds",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=27593406"
-  },
-  {
     "title": "Browsers Decode Images Differently",
     "url": "https://bien.ee/image-decoding-differences-between-browsers/",
-    "upvotes": 63,
+    "upvotes": 70,
     "author": "askonomm",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27574055"
   },
   {
     "title": "SiFive P550 Core: High-Performance RISC-V Processor",
     "url": "https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest",
-    "upvotes": 145,
+    "upvotes": 148,
     "author": "andrewnc",
-    "comments": 45,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27592187"
-  },
-  {
-    "title": "My favourite C++ footgun",
-    "url": "https://dustri.org/b/my-favourite-c-footgun.html",
-    "upvotes": 99,
-    "author": "pabs3",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=27577601"
-  },
-  {
-    "title": "Alan Turing's biggest fan remains the real enigma",
-    "url": "https://www.westword.com/news/alan-turing-enigma-british-codebreaker-homeland-security-colorado-11996659",
-    "upvotes": 17,
-    "author": "Hooke",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27572408"
   },
   {
     "title": "The Silence Barrier [pdf]",
     "url": "http://www.arvindguptatoys.com/arvindgupta/jppsilencebarrier.pdf",
-    "upvotes": 9,
+    "upvotes": 11,
     "author": "NiceWayToDoIT",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27577842"
   },
   {
+    "title": "Alan Turing's biggest fan remains the real enigma",
+    "url": "https://www.westword.com/news/alan-turing-enigma-british-codebreaker-homeland-security-colorado-11996659",
+    "upvotes": 21,
+    "author": "Hooke",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27572408"
+  },
+  {
+    "title": "My favourite C++ footgun",
+    "url": "https://dustri.org/b/my-favourite-c-footgun.html",
+    "upvotes": 103,
+    "author": "pabs3",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=27577601"
+  },
+  {
+    "title": "Roamkasten – a practical how-to guide to optimize Zettelkasten in Roam Research",
+    "url": "https://www.thrivinghenry.com/writings/roamkasten-a-practical-how-to-guide-to-optimize-zettelkasten-in-roam-research",
+    "upvotes": 7,
+    "author": "e19293001",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27586671"
+  },
+  {
     "title": "Elfcat: Visualize ELF Binaries",
     "url": "https://github.com/ruslashev/elfcat",
-    "upvotes": 167,
+    "upvotes": 171,
     "author": "todsacerdoti",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27590508"
   },
   {
-    "title": "Show HN: I wrote a book about Python",
-    "url": "https://pragprog.com/titles/dmpython/intuitive-python/",
-    "upvotes": 116,
-    "author": "dmuller",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27592822"
-  },
-  {
     "title": "The Most Dangerous Censorship",
     "url": "https://edwardsnowden.substack.com/p/on-censorship-pt-1",
-    "upvotes": 185,
+    "upvotes": 196,
     "author": "0xedb",
-    "comments": 178,
+    "comments": 197,
     "link": "https://news.ycombinator.com/item?id=27595902"
   },
   {
-    "title": "Show HN: Then – Understand how you spend your time and what influences your mood",
-    "url": "https://pupishi.com/then",
-    "upvotes": 73,
-    "author": "alexpotrivaev",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27592876"
-  },
-  {
-    "title": "Curiosity Damned the Cat",
-    "url": "https://edwardfeser.blogspot.com/2021/06/curiosity-damned-cat.html",
-    "upvotes": 9,
-    "author": "danielam",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27594742"
+    "title": "Show HN: I wrote a book about Python",
+    "url": "https://pragprog.com/titles/dmpython/intuitive-python/",
+    "upvotes": 120,
+    "author": "dmuller",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27592822"
   },
   {
     "title": "ML Beyond Curve Fitting: An Intro to Causal Inference and Do-Calculus",
@@ -172,36 +164,52 @@
     "link": "https://news.ycombinator.com/item?id=27577467"
   },
   {
-    "title": "Saffron as an Antidepressant",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6266642/",
-    "upvotes": 108,
-    "author": "gdubs",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=27596125"
+    "title": "Show HN: Then – Understand how you spend your time and what influences your mood",
+    "url": "https://pupishi.com/then",
+    "upvotes": 76,
+    "author": "alexpotrivaev",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27592876"
   },
   {
-    "title": "Show HN: I made a new kind of Bible app",
-    "url": "https://sparkbible.com",
-    "upvotes": 206,
-    "author": "theoblank",
-    "comments": 161,
-    "link": "https://news.ycombinator.com/item?id=27592473"
+    "title": "Curiosity Damned the Cat",
+    "url": "https://edwardfeser.blogspot.com/2021/06/curiosity-damned-cat.html",
+    "upvotes": 11,
+    "author": "danielam",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27594742"
   },
   {
     "title": "The Fine Art of Combining Harmonics",
     "url": "https://whatmusicreallyis.com/research/harmonicomb/",
-    "upvotes": 130,
+    "upvotes": 133,
     "author": "flabber",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27588673"
+  },
+  {
+    "title": "Show HN: I made a new kind of Bible app",
+    "url": "https://sparkbible.com",
+    "upvotes": 215,
+    "author": "theoblank",
+    "comments": 170,
+    "link": "https://news.ycombinator.com/item?id=27592473"
   },
   {
     "title": "Pocketlang",
     "url": "https://github.com/ThakeeNathees/pocketlang",
     "upvotes": 210,
     "author": "tsujp",
-    "comments": 52,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27588842"
+  },
+  {
+    "title": "Ask HN: Feeling guilty for doing the bare minimum at work",
+    "url": "item?id=27593462",
+    "upvotes": 352,
+    "author": "awaythrown1",
+    "comments": 230,
+    "link": "https://news.ycombinator.com/item?id=27593462"
   },
   {
     "title": "Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool",
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=27590583"
   },
   {
+    "title": "Why is AI hard and physics simple?",
+    "url": "https://arxiv.org/abs/2104.00008",
+    "upvotes": 46,
+    "author": "bigdict",
+    "comments": 53,
+    "link": "https://news.ycombinator.com/item?id=27595879"
+  },
+  {
     "title": "Attack Surface Analyzer helps you analyze your OS's security configuration",
     "url": "https://github.com/Microsoft/AttackSurfaceAnalyzer",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "Tomte",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27589916"
-  },
-  {
-    "title": "Ask HN: Feeling guilty for doing the bare minimum at work",
-    "url": "item?id=27593462",
-    "upvotes": 337,
-    "author": "awaythrown1",
-    "comments": 221,
-    "link": "https://news.ycombinator.com/item?id=27593462"
-  },
-  {
-    "title": "Why is AI hard and physics simple?",
-    "url": "https://arxiv.org/abs/2104.00008",
-    "upvotes": 42,
-    "author": "bigdict",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=27595879"
   }
 ]
