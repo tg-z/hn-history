@@ -2,91 +2,91 @@
   {
     "title": "A from-scratch tour of Bitcoin in Python",
     "url": "https://karpathy.github.io/2021/06/21/blockchain/",
-    "upvotes": 280,
+    "upvotes": 300,
     "author": "yigitdemirag",
-    "comments": 85,
+    "comments": 94,
     "link": "https://news.ycombinator.com/item?id=27593772"
-  },
-  {
-    "title": "Decentralized Identifiers",
-    "url": "https://www.w3.org/TR/did-core/",
-    "upvotes": 91,
-    "author": "mooreds",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27593406"
   },
   {
     "title": "Regularization Is All You Need: Simple Neural Nets Can Excel on Tabular Data",
     "url": "https://arxiv.org/abs/2106.11189",
-    "upvotes": 16,
+    "upvotes": 30,
     "author": "tracyhenry",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27595309"
   },
   {
     "title": "Types of Propaganda, Propaganda Techniques, and Propaganda Strategies",
     "url": "http://factmyth.com/types-of-propaganda-propaganda-techniques-and-propaganda-stratigies/",
-    "upvotes": 11,
+    "upvotes": 30,
     "author": "jhabdas",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27595043"
   },
   {
+    "title": "Decentralized Identifiers",
+    "url": "https://www.w3.org/TR/did-core/",
+    "upvotes": 96,
+    "author": "mooreds",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27593406"
+  },
+  {
     "title": "SiFive P550 Core: High-Performance RISC-V Processor",
     "url": "https://www.sifive.com/press/sifive-performance-p550-core-sets-new-standard-as-highest",
-    "upvotes": 90,
+    "upvotes": 95,
     "author": "andrewnc",
-    "comments": 21,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27592187"
   },
   {
     "title": "Show HN: I wrote a book about Python",
     "url": "https://pragprog.com/titles/dmpython/intuitive-python/",
-    "upvotes": 70,
+    "upvotes": 71,
     "author": "dmuller",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27592822"
   },
   {
     "title": "Your CPU may have slowed down on Wednesday",
     "url": "https://travisdowns.github.io/blog/2021/06/17/rip-zero-opt.html",
-    "upvotes": 632,
+    "upvotes": 636,
     "author": "superkuh",
-    "comments": 375,
+    "comments": 387,
     "link": "https://news.ycombinator.com/item?id=27588258"
   },
   {
     "title": "Elfcat: Visualize ELF Binaries",
     "url": "https://github.com/ruslashev/elfcat",
-    "upvotes": 139,
+    "upvotes": 143,
     "author": "todsacerdoti",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27590508"
   },
   {
-    "title": "Introducing Brave Search beta",
-    "url": "https://search.brave.com/",
-    "upvotes": 288,
-    "author": "vmullin",
-    "comments": 243,
-    "link": "https://news.ycombinator.com/item?id=27593360"
+    "title": "Show HN: Then – Understand how you spend your time and what influences your mood",
+    "url": "https://pupishi.com/then",
+    "upvotes": 47,
+    "author": "alexpotrivaev",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27592876"
   },
   {
     "title": "Poll Everywhere",
     "url": "https://www.polleverywhere.com/jobs#full-stack-engineer"
   },
   {
-    "title": "Show HN: Then – Understand how you spend your time and what influences your mood",
-    "url": "https://pupishi.com/then",
-    "upvotes": 43,
-    "author": "alexpotrivaev",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27592876"
+    "title": "Introducing Brave Search beta",
+    "url": "https://search.brave.com/",
+    "upvotes": 293,
+    "author": "vmullin",
+    "comments": 248,
+    "link": "https://news.ycombinator.com/item?id=27593360"
   },
   {
     "title": "Fasm, a F# to Jitted ASM/IL disassembler as a dotnet tool",
     "url": "https://github.com/d-edge/fasm",
-    "upvotes": 98,
+    "upvotes": 99,
     "author": "aloisdg",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27590583"
@@ -94,7 +94,7 @@
   {
     "title": "CSP bypass: How one Chrome XSS bug took 2.5 years and an HTML spec change to fix",
     "url": "https://portswigger.net/daily-swig/csp-bypass-how-one-chrome-xss-bug-took-2-5-years-and-an-html-spec-change-to-fix",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "weinzierl",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27591657"
@@ -102,71 +102,71 @@
   {
     "title": "Hyundai acquires controlling stake in Boston Dynamics for $880M",
     "url": "https://finbold.com/hyundai-acquires-controlling-stake-in-u-s-robotics-firm-boston-dynamics-for-880-million/",
-    "upvotes": 329,
+    "upvotes": 335,
     "author": "sidcool",
-    "comments": 124,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=27588047"
   },
   {
-    "title": "PSA: Add dark mode to your sites, or at least let the browsers do it for you",
-    "url": "https://blog.okikio.dev/psa-add-dark-mode-to-your-sites-or-at-least-let-the-browsers-do-it-for-you",
-    "upvotes": 40,
-    "author": "smusamashah",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27592257"
+    "title": "Ask HN: Feeling guilty for doing the bare minimum at work",
+    "url": "item?id=27593462",
+    "upvotes": 157,
+    "author": "awaythrown1",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=27593462"
+  },
+  {
+    "title": "Americans Are Pretty Skeptical That Hard Work Will Pay Off",
+    "url": "https://www.theatlantic.com/business/archive/2017/04/hard-work-mobility/522207/",
+    "upvotes": 44,
+    "author": "paulpauper",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27594718"
   },
   {
     "title": "ML Beyond Curve Fitting: An Intro to Causal Inference and Do-Calculus",
     "url": "https://www.inference.vc/untitled/",
-    "upvotes": 38,
+    "upvotes": 40,
     "author": "lnyan",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27577467"
   },
   {
-    "title": "Ask HN: Feeling guilty for doing the bare minimum at work",
-    "url": "item?id=27593462",
-    "upvotes": 135,
-    "author": "awaythrown1",
-    "comments": 81,
-    "link": "https://news.ycombinator.com/item?id=27593462"
-  },
-  {
     "title": "Tracy Austin Broke My Heart",
     "url": "https://sites.psu.edu/kingsel/files/2016/08/DFW-How-Tracy-Austin-Broke-My-Heart-1994-1lctx91.pdf",
-    "upvotes": 10,
+    "upvotes": 12,
     "author": "thomasjbevan",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27576950"
   },
   {
-    "title": "Ask HN: Anyone built a business with no-code tools?",
-    "url": "item?id=27593073",
-    "upvotes": 84,
-    "author": "akudha",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27593073"
-  },
-  {
     "title": "What's Inside the EU Green Pass QR Code?",
     "url": "https://gir.st/blog/greenpass.html",
-    "upvotes": 573,
+    "upvotes": 576,
     "author": "zaik",
-    "comments": 454,
+    "comments": 457,
     "link": "https://news.ycombinator.com/item?id=27589913"
+  },
+  {
+    "title": "Ask HN: Anyone built a business with no-code tools?",
+    "url": "item?id=27593073",
+    "upvotes": 89,
+    "author": "akudha",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27593073"
   },
   {
     "title": "Attack Surface Analyzer helps you analyze your OS's security configuration",
     "url": "https://github.com/Microsoft/AttackSurfaceAnalyzer",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "Tomte",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27589916"
   },
   {
     "title": "Pocketlang",
     "url": "https://github.com/ThakeeNathees/pocketlang",
-    "upvotes": 186,
+    "upvotes": 188,
     "author": "tsujp",
     "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27588842"
@@ -174,65 +174,65 @@
   {
     "title": "Onboarding to Elixir",
     "url": "https://underjord.io/onboarding-to-elixir.html",
-    "upvotes": 150,
+    "upvotes": 157,
     "author": "lawik",
-    "comments": 73,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27591079"
   },
   {
     "title": "SimCities and SimCrises",
     "url": "http://molleindustria.org/GamesForCities/",
-    "upvotes": 73,
+    "upvotes": 79,
     "author": "rrherr",
-    "comments": 46,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27593081"
   },
   {
     "title": "Show HN: I made a new kind of Bible app",
     "url": "https://sparkbible.com",
-    "upvotes": 94,
+    "upvotes": 109,
     "author": "theoblank",
-    "comments": 70,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27592473"
-  },
-  {
-    "title": "Earth Has a 27.5M-Year 'Heartbeat', but We Don't Know What Causes It",
-    "url": "https://www.sciencealert.com/our-planet-has-a-27-5-million-year-old-pulse-says-study-we-don-t-know-what-causes-it",
-    "upvotes": 62,
-    "author": "CarCooler",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27593021"
   },
   {
     "title": "The Fine Art of Combining Harmonics",
     "url": "https://whatmusicreallyis.com/research/harmonicomb/",
-    "upvotes": 112,
+    "upvotes": 113,
     "author": "flabber",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27588673"
+  },
+  {
+    "title": "The Backblaze Rebrand Reveal",
+    "url": "https://www.backblaze.com/blog/the-rebrand-reveal/",
+    "upvotes": 41,
+    "author": "TangerineDream",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27593453"
+  },
+  {
+    "title": "Earth Has a 27.5M-Year 'Heartbeat', but We Don't Know What Causes It",
+    "url": "https://www.sciencealert.com/our-planet-has-a-27-5-million-year-old-pulse-says-study-we-don-t-know-what-causes-it",
+    "upvotes": 64,
+    "author": "CarCooler",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27593021"
   },
   {
     "title": "Regret Minimization in Games with Incomplete Information",
     "url": "https://nn.labml.ai/cfr/index.html",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "vpj",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27589717"
-  },
-  {
-    "title": "Americans Are Pretty Skeptical That Hard Work Will Pay Off",
-    "url": "https://www.theatlantic.com/business/archive/2017/04/hard-work-mobility/522207/",
-    "upvotes": 21,
-    "author": "paulpauper",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27594718"
   },
   {
     "title": "Silice: A language for hardcoding Algorithms into FPGA hardware",
     "url": "https://github.com/sylefeb/Silice",
-    "upvotes": 77,
+    "upvotes": 79,
     "author": "mleonhard",
-    "comments": 17,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27589298"
   }
 ]
