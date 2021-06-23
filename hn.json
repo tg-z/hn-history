@@ -1,83 +1,91 @@
 [
   {
+    "title": "New Elixir 1.12 – The developer’s point of view",
+    "url": "https://bartoszgorka.com/elixir-1-12-released",
+    "upvotes": 51,
+    "author": "clessg",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27605215"
+  },
+  {
     "title": "Costa Rica Has Run on 100% Renewable Electricity for 299 Days",
     "url": "https://www.under30experiences.com/blog/costa-rica-has-run-on-100-renewable-energy-for-299-days",
-    "upvotes": 112,
+    "upvotes": 238,
     "author": "Knajjars",
-    "comments": 40,
+    "comments": 81,
     "link": "https://news.ycombinator.com/item?id=27604809"
   },
   {
     "title": "Patent Trolling’s twin: Copyright trolling",
     "url": "https://austinmeyer.com/now-copyright-trolling/",
-    "upvotes": 99,
+    "upvotes": 119,
     "author": "Stevvo",
-    "comments": 25,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27589559"
   },
   {
     "title": "Show HN: Multiverse.plus – what if blogging was more collage-like and colorful?",
     "url": "https://multiverse.plus/",
-    "upvotes": 45,
+    "upvotes": 72,
     "author": "kickscondor",
-    "comments": 11,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27599470"
   },
   {
     "title": "Architecture of the Playstation",
     "url": "https://www.copetti.org/writings/consoles/playstation/",
-    "upvotes": 157,
+    "upvotes": 177,
     "author": "biwasa",
-    "comments": 41,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27576902"
+  },
+  {
+    "title": "A list of privacy-friendly Google Analytics alternatives",
+    "url": "https://creativerly.com/google-analytics-alternatives/",
+    "upvotes": 30,
+    "author": "philipptemmel",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27604673"
   },
   {
     "title": "I made 56874 calls to explore the telephone network. Here’s what I found",
     "url": "https://shufflingbytes.com/posts/wardialing-finnish-freephones/",
-    "upvotes": 141,
+    "upvotes": 165,
     "author": "ValtteriL",
-    "comments": 80,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=27602383"
   },
   {
     "title": "Plover is a free, open-source stenography engine",
     "url": "https://www.openstenoproject.org/plover/",
-    "upvotes": 92,
+    "upvotes": 103,
     "author": "smitty1e",
-    "comments": 80,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27602077"
+  },
+  {
+    "title": "Code in ARM Assembly: Working with Pointers",
+    "url": "https://eclecticlight.co/2021/06/21/code-in-arm-assembly-working-with-pointers/",
+    "upvotes": 21,
+    "author": "ingve",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27577030"
   },
   {
     "title": "Building telemetry for tea a.k.a. Tealemetry",
     "url": "https://blog.benjojo.co.uk/post/tealemetry-IOT-tea-coaster",
-    "upvotes": 41,
+    "upvotes": 45,
     "author": "zdw",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27574944"
   },
   {
     "title": "NimConf 2021",
     "url": "https://conf.nim-lang.org/",
-    "upvotes": 33,
+    "upvotes": 58,
     "author": "pietroppeter",
-    "comments": 4,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27604798"
-  },
-  {
-    "title": "Going Beyond Ada 2022",
-    "url": "https://blog.adacore.com/going-beyond-ada-2022",
-    "upvotes": 97,
-    "author": "pjmlp",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27576959"
-  },
-  {
-    "title": "Code in ARM Assembly: Working with Pointers",
-    "url": "https://eclecticlight.co/2021/06/21/code-in-arm-assembly-working-with-pointers/",
-    "upvotes": 10,
-    "author": "ingve",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27577030"
   },
   {
     "title": "GiveCampus",
@@ -86,87 +94,111 @@
   {
     "title": "Instructions Show How Cops Use GrayKey to Brute Force iPhones",
     "url": "https://www.vice.com/en/article/k7835w/how-to-brute-force-iphones-graykey",
-    "upvotes": 62,
+    "upvotes": 81,
     "author": "elorant",
-    "comments": 43,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27603747"
   },
   {
-    "title": "A list of privacy-friendly Google Analytics alternatives",
-    "url": "https://creativerly.com/google-analytics-alternatives/",
-    "upvotes": 9,
-    "author": "philipptemmel",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27604673"
-  },
-  {
-    "title": "HTML Data List Element",
-    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist",
-    "upvotes": 130,
-    "author": "edward",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=27602699"
+    "title": "Going Beyond Ada 2022",
+    "url": "https://blog.adacore.com/going-beyond-ada-2022",
+    "upvotes": 99,
+    "author": "pjmlp",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27576959"
   },
   {
     "title": "Hosted Monitoring: Evaluating InfluxDB Cloud and Grafana Cloud",
     "url": "https://pqvst.com/2021/06/22/hosted-monitoring-evaluating-influx-and-grafana/",
-    "upvotes": 56,
+    "upvotes": 61,
     "author": "pqvst",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27602519"
   },
   {
+    "title": "HTML Data List Element",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist",
+    "upvotes": 140,
+    "author": "edward",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=27602699"
+  },
+  {
     "title": "The Rise of the $10M Disc Golf Celebrity",
     "url": "https://www.theringer.com/features/2021/6/21/22542839/disc-golf-niche-sports-million-dollar-endorsement-deals",
-    "upvotes": 131,
+    "upvotes": 141,
     "author": "axiomdata316",
-    "comments": 83,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27599734"
   },
   {
     "title": "Welcome to Nomehenge, Home to Alaska’s Soviet-Era Antennas",
     "url": "https://www.atlasobscura.com/articles/alaska-soviet-history-nomehenge",
-    "upvotes": 31,
+    "upvotes": 37,
     "author": "fortran77",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27576395"
+  },
+  {
+    "title": "URLs: It's Complicated",
+    "url": "https://www.netmeister.org/blog/urls.html",
+    "upvotes": 7,
+    "author": "salutonmundo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27588306"
   },
   {
     "title": "Details of Yesterday's Bunny CDN Outage",
     "url": "https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "aSig",
-    "comments": 59,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27602395"
   },
   {
     "title": "TeXmacs 2.1",
     "url": "https://www.texmacs.org/tmweb/home/videos.en.html",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "amichail",
-    "comments": 30,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27603069"
   },
   {
     "title": "How to Think about Pleasure",
     "url": "https://psyche.co/guides/from-hedonism-to-humanism-philosophys-defence-of-pleasure",
-    "upvotes": 117,
+    "upvotes": 123,
     "author": "nkjoep",
-    "comments": 44,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27577615"
+  },
+  {
+    "title": "PipeWire Under the Hood",
+    "url": "https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html",
+    "upvotes": 36,
+    "author": "BelenusMordred",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27602655"
   },
   {
     "title": "New network of European sleeper trains planned",
     "url": "https://www.theguardian.com/travel/2021/jun/22/new-network-of-european-sleeper-overnight-trains-planned",
-    "upvotes": 88,
+    "upvotes": 105,
     "author": "YeGoblynQueenne",
-    "comments": 66,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=27602629"
+  },
+  {
+    "title": "The ongoing witch-hunt for sex workers in Sweden",
+    "url": "https://www.reddit.com/r/SexWorkers/comments/n11oqk/the_ongoing_witchhunt_for_fssw_in_sweden_the/",
+    "upvotes": 83,
+    "author": "barry-cotter",
+    "comments": 91,
+    "link": "https://news.ycombinator.com/item?id=27604543"
   },
   {
     "title": "The Walkman a.k.a. Vbug 1.5 robot",
     "url": "http://grant.solarbotics.net/walkman.htm",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "rayrag",
     "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27589448"
@@ -174,65 +206,33 @@
   {
     "title": "A from-scratch tour of Bitcoin in Python",
     "url": "https://karpathy.github.io/2021/06/21/blockchain/",
-    "upvotes": 1102,
+    "upvotes": 1110,
     "author": "yigitdemirag",
-    "comments": 256,
+    "comments": 257,
     "link": "https://news.ycombinator.com/item?id=27593772"
   },
   {
-    "title": "PipeWire Under the Hood",
-    "url": "https://venam.nixers.net/blog/unix/2021/06/23/pipewire-under-the-hood.html",
-    "upvotes": 28,
-    "author": "BelenusMordred",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27602655"
+    "title": "Russian jets and ships target British warship",
+    "url": "https://www.bbc.com/news/world-europe-57583363",
+    "upvotes": 15,
+    "author": "tosh",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27605170"
   },
   {
     "title": "What Is Voter Satisfaction Efficiency?",
     "url": "http://electionscience.github.io/vse-sim/VSE/",
-    "upvotes": 116,
+    "upvotes": 119,
     "author": "cosmojg",
-    "comments": 59,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27599684"
-  },
-  {
-    "title": "Wikidata",
-    "url": "https://www.wikidata.org/wiki/Wikidata:Introduction",
-    "upvotes": 155,
-    "author": "tosh",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27602520"
-  },
-  {
-    "title": "IBM 5110 Emulator in JavaScript",
-    "url": "https://norbertkehrer.github.io/ibm_5110/emu5110.html",
-    "upvotes": 53,
-    "author": "throwitaway1235",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27600653"
   },
   {
     "title": "Archaeologists recreated three common kinds of Paleolithic cave lighting",
     "url": "https://arstechnica.com/science/2021/06/archaeologists-recreated-three-common-kinds-of-paleolithic-cave-lighting/",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "_Microft",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27568245"
-  },
-  {
-    "title": "The Teamsters announce coordinated nationwide project to unionize Amazon",
-    "url": "https://www.vice.com/en/article/akg7pp/the-teamsters-announce-coordinated-nationwide-project-to-unionize-amazon",
-    "upvotes": 365,
-    "author": "cratermoon",
-    "comments": 279,
-    "link": "https://news.ycombinator.com/item?id=27599253"
-  },
-  {
-    "title": "Brave Search beta",
-    "url": "https://search.brave.com/",
-    "upvotes": 785,
-    "author": "vmullin",
-    "comments": 604,
-    "link": "https://news.ycombinator.com/item?id=27593360"
   }
 ]
