@@ -1,74 +1,82 @@
 [
   {
-    "title": "A16Z Crypto Fund III",
-    "url": "https://a16z.com/2021/06/24/crypto-fund-iii/",
-    "upvotes": 24,
-    "author": "TimJRobinson",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27617143"
+    "title": "NASA Can't Figure Out What's Causing Computer Issues on the Hubble Telescope",
+    "url": "https://www.npr.org/2021/06/23/1009567351/hubble-trouble-nasa-cant-figure-out-whats-causing-computer-issues-on-the-telesco",
+    "upvotes": 38,
+    "author": "fortran77",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27617256"
   },
   {
     "title": "Writing ARM64 Code for Apple Platforms",
     "url": "https://developer.apple.com/documentation/xcode/writing-arm64-code-for-apple-platforms",
-    "upvotes": 74,
+    "upvotes": 85,
     "author": "ingve",
-    "comments": null,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27616018"
   },
   {
-    "title": "Bash PS1 Generator",
-    "url": "http://bashrcgenerator.com/",
-    "upvotes": 108,
-    "author": "nailer",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=27615516"
+    "title": "Canada: Hundreds of unmarked graves found at residential school",
+    "url": "https://www.bbc.com/news/world-us-canada-57592243",
+    "upvotes": 25,
+    "author": "akbarnama",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27617693"
   },
   {
     "title": "Laravel Transporter",
     "url": "https://www.juststeveking.uk/introducing-laravel-transporter/",
-    "upvotes": 6,
+    "upvotes": 15,
     "author": "mooreds",
-    "comments": 2,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27617196"
+  },
+  {
+    "title": "Bash PS1 Generator",
+    "url": "http://bashrcgenerator.com/",
+    "upvotes": 130,
+    "author": "nailer",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=27615516"
   },
   {
     "title": "Treesheets: cross-platform, free-form data organizer app",
     "url": "http://strlen.com/treesheets/",
-    "upvotes": 195,
+    "upvotes": 211,
     "author": "open-source-ux",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27614912"
   },
   {
-    "title": "Recreating the Missing Pieces of the Night Watch with the Help of AI",
-    "url": "https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/night-watch-the-missing-pieces",
-    "upvotes": 66,
-    "author": "BjoernKW",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27615507"
-  },
-  {
-    "title": "Show HN: 3dasd – open-source DIY room-scale 3D scanner",
-    "url": "https://3dasd.com/",
-    "upvotes": 107,
-    "author": "dvoros",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27614874"
+    "title": "Row level security available in BigQuery",
+    "url": "https://cloud.google.com/bigquery/docs/row-level-security-intro",
+    "upvotes": 10,
+    "author": "santhoshkumar3",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27617466"
   },
   {
     "title": "Effective immediately: You need a drone license before you fly in the US",
     "url": "https://dpreview.com/news/4668719994/faa-releases-trust-free-online-training-required-for-recreational-pilots-to-fly-legally",
-    "upvotes": 33,
+    "upvotes": 66,
     "author": "asix66",
-    "comments": 13,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27617127"
+  },
+  {
+    "title": "Canonical Offering Blender Support",
+    "url": "https://www.blender.org/press/canonical-offering-blender-support/",
+    "upvotes": 6,
+    "author": "asicsp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27617670"
   },
   {
     "title": "US ranks last among 46 countries in trust in media",
     "url": "https://www.poynter.org/ethics-trust/2021/us-ranks-last-among-46-countries-in-trust-in-media-reuters-institute-report-finds/",
-    "upvotes": 41,
+    "upvotes": 84,
     "author": "hirundo",
-    "comments": 27,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=27617011"
   },
   {
@@ -76,43 +84,51 @@
     "url": "https://www.workatastartup.com/jobs/43782"
   },
   {
+    "title": "Recreating the Missing Pieces of the Night Watch with the Help of AI",
+    "url": "https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/night-watch-the-missing-pieces",
+    "upvotes": 72,
+    "author": "BjoernKW",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27615507"
+  },
+  {
+    "title": "Show HN: 3dasd – open-source DIY room-scale 3D scanner",
+    "url": "https://3dasd.com/",
+    "upvotes": 112,
+    "author": "dvoros",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=27614874"
+  },
+  {
+    "title": "No evidence that chance meetings in office boosts innovation",
+    "url": "https://www.nytimes.com/2021/06/23/upshot/remote-work-innovation-office.html",
+    "upvotes": 108,
+    "author": "remt",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27616212"
+  },
+  {
     "title": "Introduction to Locality-Sensitive Hashing",
     "url": "http://tylerneylon.com/a/lsh1/",
-    "upvotes": 163,
+    "upvotes": 166,
     "author": "polm23",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27614381"
   },
   {
-    "title": "Police Have Been Quitting in Droves in the Last Year",
-    "url": "https://www.nytimes.com/2021/06/24/us/police-resignations-protests-asheville.html",
-    "upvotes": 65,
-    "author": "prostoalex",
-    "comments": 75,
-    "link": "https://news.ycombinator.com/item?id=27616880"
-  },
-  {
     "title": "How YouTube’s rules are used to silence human rights activists",
     "url": "https://www.technologyreview.com/2021/06/24/1027048/youtube-xinjiang-censorship-human-rights-atajurt/",
-    "upvotes": 159,
+    "upvotes": 179,
     "author": "headalgorithm",
-    "comments": 86,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=27615849"
-  },
-  {
-    "title": "No evidence that chance meetings in office boosts innovation",
-    "url": "https://www.nytimes.com/2021/06/23/upshot/remote-work-innovation-office.html",
-    "upvotes": 72,
-    "author": "remt",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27616212"
   },
   {
     "title": "‘Vegan spider silk’ provides sustainable alternative to single-use plastics",
     "url": "https://www.cam.ac.uk/research/news/vegan-spider-silk-provides-sustainable-alternative-to-single-use-plastics",
-    "upvotes": 76,
+    "upvotes": 81,
     "author": "montalbano",
-    "comments": 54,
+    "comments": 60,
     "link": "https://news.ycombinator.com/item?id=27614580"
   },
   {
@@ -124,17 +140,9 @@
     "link": "https://news.ycombinator.com/item?id=27610300"
   },
   {
-    "title": "Google will consider lowering Play Store cut to 15% for certain apps",
-    "url": "https://android-developers.googleblog.com/2021/06/continuing-to-boost-developer-success.html",
-    "upvotes": 88,
-    "author": "Pandabob",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=27614855"
-  },
-  {
     "title": "Acorn Archimedes A3020 – Refurb and Mods",
     "url": "https://retrohax.net/acorn-archimedes-a3020-refurb-and-mods/",
-    "upvotes": 55,
+    "upvotes": 58,
     "author": "sohkamyung",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27588738"
@@ -142,97 +150,89 @@
   {
     "title": "Show HN: Freeciv-Web",
     "url": "https://www.freecivweb.org/?2021",
-    "upvotes": 110,
+    "upvotes": 115,
     "author": "roschdal",
     "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27614434"
   },
   {
+    "title": "Google will consider lowering Play Store cut to 15% for certain apps",
+    "url": "https://android-developers.googleblog.com/2021/06/continuing-to-boost-developer-success.html",
+    "upvotes": 92,
+    "author": "Pandabob",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27614855"
+  },
+  {
+    "title": "The Dawn of Haiku OS",
+    "url": "https://spectrum.ieee.org/computing/software/the-dawn-of-haiku-os",
+    "upvotes": 5,
+    "author": "bitigchi",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27616822"
+  },
+  {
     "title": "Subclassing in Python: Redux",
     "url": "https://hynek.me/articles/python-subclassing-redux/",
-    "upvotes": 46,
+    "upvotes": 51,
     "author": "hprotagonist",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27594733"
   },
   {
+    "title": "Maybe you don't need Rust and WASM to speed up your JavaScript",
+    "url": "https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html",
+    "upvotes": 4,
+    "author": "zbentley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27616656"
+  },
+  {
     "title": "Stress Does Turn Hair Gray, and It’s Reversible",
     "url": "https://www.cuimc.columbia.edu/news/its-true-stress-does-turn-hair-gray-and-its-reversible",
-    "upvotes": 261,
+    "upvotes": 276,
     "author": "fraqed",
-    "comments": 92,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=27615683"
   },
   {
     "title": "Messaging app Signal not in compliance with new rules, say officials in India",
     "url": "https://www.hindustantimes.com/india-news/messaging-application-signal-not-in-compliance-with-new-rules-say-officials-101624508925464.html",
-    "upvotes": 49,
+    "upvotes": 62,
     "author": "inian",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27615966"
-  },
-  {
-    "title": "Hospitals are selling treasure troves of medical data – what could go wrong?",
-    "url": "https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research",
-    "upvotes": 72,
-    "author": "uniqueid",
     "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27615700"
-  },
-  {
-    "title": "Half of UK university students think degree is poor value for money",
-    "url": "https://www.theguardian.com/education/2021/jun/24/half-of-uk-university-students-think-degree-is-poor-value-for-money",
-    "upvotes": 41,
-    "author": "mocko",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27617051"
-  },
-  {
-    "title": "Hacker deleted all of NewsBlur’s Mongo data and is now holding the data hostage",
-    "url": "https://newsblur.com/",
-    "upvotes": 405,
-    "author": "jepler",
-    "comments": 280,
-    "link": "https://news.ycombinator.com/item?id=27613217"
-  },
-  {
-    "title": "The Mystery of the Blend",
-    "url": "http://web.archive.org/web/20160304093204/http://www.atmind.nl/blender/mystery_ot_blend.html",
-    "upvotes": 4,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27601998"
-  },
-  {
-    "title": "Toxoplasmosis: The Cat Poop Parasite That's Probably in Your Brain",
-    "url": "https://interestingengineering.com/toxoplasmosis-the-cat-poop-parasite-probably-in-your-brain",
-    "upvotes": 55,
-    "author": "NicoJuicy",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27615857"
+    "link": "https://news.ycombinator.com/item?id=27615966"
   },
   {
     "title": "The Chinese content farms behind Factory TikTok",
     "url": "https://restofworld.org/2021/the-chinese-content-farms-behind-factory-tiktok/",
-    "upvotes": 8,
+    "upvotes": 14,
     "author": "gbseventeen3331",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27616992"
   },
   {
-    "title": "The Stirring of a Thousand Bells, Colin McPhee",
-    "url": "https://returnofanative.com/stories/the-stirring-of-a-thousand-bells-colin-mcphee/",
-    "upvotes": 6,
-    "author": "tintinnabula",
+    "title": "The Mystery of the Blend",
+    "url": "http://web.archive.org/web/20160304093204/http://www.atmind.nl/blender/mystery_ot_blend.html",
+    "upvotes": 5,
+    "author": "Tomte",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27597569"
+    "link": "https://news.ycombinator.com/item?id=27601998"
   },
   {
-    "title": "Climate watchdog says Britain lacks a strategy to meet its goals",
-    "url": "https://www.nytimes.com/2021/06/24/business/energy-environment/britain-climate-goals.html",
-    "upvotes": 24,
-    "author": "CapitalistCartr",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27616358"
+    "title": "Hospitals are selling treasure troves of medical data – what could go wrong?",
+    "url": "https://www.theverge.com/2021/6/23/22547397/medical-records-health-data-hospitals-research",
+    "upvotes": 79,
+    "author": "uniqueid",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27615700"
+  },
+  {
+    "title": "Toxoplasmosis: The Cat Poop Parasite That's Probably in Your Brain",
+    "url": "https://interestingengineering.com/toxoplasmosis-the-cat-poop-parasite-probably-in-your-brain",
+    "upvotes": 65,
+    "author": "NicoJuicy",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27615857"
   }
 ]
