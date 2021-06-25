@@ -1,91 +1,99 @@
 [
   {
-    "title": "Bflat: C# as you know it but with Go-like tooling",
-    "url": "https://github.com/MichalStrehovsky/bflat",
-    "upvotes": 135,
-    "author": "tate",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27634456"
-  },
-  {
     "title": "User Inyerface – A worst-practice UI experiment",
     "url": "https://userinyerface.com/",
-    "upvotes": 48,
+    "upvotes": 124,
     "author": "andyjih_",
-    "comments": 12,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27635310"
+  },
+  {
+    "title": "Bflat: C# as you know it but with Go-like tooling",
+    "url": "https://github.com/MichalStrehovsky/bflat",
+    "upvotes": 149,
+    "author": "tate",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27634456"
   },
   {
     "title": "Disproportionate amount of bad online behaviour stems from psychological issues",
     "url": "https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/",
-    "upvotes": 59,
+    "upvotes": 82,
     "author": "SkyMarshal",
-    "comments": 28,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27607203"
   },
   {
     "title": "Group Video Calls",
     "url": "https://telegram.org/blog/group-video-calls",
-    "upvotes": 38,
+    "upvotes": 59,
     "author": "jhabdas",
-    "comments": 7,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27635101"
   },
   {
     "title": "Hierarchical Structures in PostgreSQL",
     "url": "https://hoverbear.org/blog/postgresql-hierarchical-structures/",
-    "upvotes": 151,
+    "upvotes": 155,
     "author": "belter",
-    "comments": 29,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27631765"
+  },
+  {
+    "title": "Chemical Space Is Big. Really Big.",
+    "url": "https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article",
+    "upvotes": 19,
+    "author": "optimalsolver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27634549"
   },
   {
     "title": "Rally, a novel privacy-first data sharing platform",
     "url": "https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/",
-    "upvotes": 196,
+    "upvotes": 198,
     "author": "TangerineDream",
-    "comments": 130,
+    "comments": 133,
     "link": "https://news.ycombinator.com/item?id=27629188"
   },
   {
     "title": "Querying Parquet with Precision Using DuckDB",
     "url": "https://duckdb.org/2021/06/25/querying-parquet.html",
-    "upvotes": 23,
+    "upvotes": 28,
     "author": "mytherin",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27634840"
-  },
-  {
-    "title": "A coronavirus epidemic hit 20k years ago, new study finds",
-    "url": "https://www.nytimes.com/2021/06/24/science/ancient-coronavirus-epidemic.html",
-    "upvotes": 111,
-    "author": "gumby",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=27618883"
-  },
-  {
-    "title": "Open Source Farming Robot",
-    "url": "https://farm.bot/",
-    "upvotes": 309,
-    "author": "antoinec",
-    "comments": 165,
-    "link": "https://news.ycombinator.com/item?id=27628101"
   },
   {
     "title": "Where did my 256 GB go? Mobile storage Analysis [pdf]",
     "url": "https://dl.acm.org/doi/pdf/10.1145/3460095",
-    "upvotes": 56,
+    "upvotes": 61,
     "author": "riyakhanna1983",
-    "comments": 42,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27631950"
+  },
+  {
+    "title": "Open Source Farming Robot",
+    "url": "https://farm.bot/",
+    "upvotes": 320,
+    "author": "antoinec",
+    "comments": 174,
+    "link": "https://news.ycombinator.com/item?id=27628101"
   },
   {
     "title": "AWS acquires Wickr",
     "url": "https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/",
-    "upvotes": 86,
+    "upvotes": 94,
     "author": "ramimac",
-    "comments": 79,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=27631324"
+  },
+  {
+    "title": "A coronavirus epidemic hit 20k years ago, new study finds",
+    "url": "https://www.nytimes.com/2021/06/24/science/ancient-coronavirus-epidemic.html",
+    "upvotes": 116,
+    "author": "gumby",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=27618883"
   },
   {
     "title": "Jitx",
@@ -94,145 +102,137 @@
   {
     "title": "The Future of Games is an Instant Flash to the past",
     "url": "https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/",
-    "upvotes": 158,
+    "upvotes": 166,
     "author": "meheleventyone",
-    "comments": 123,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=27629340"
-  },
-  {
-    "title": "YoreComputer: Pages selected at random from old British computer mags",
-    "url": "https://twitter.com/yorecomputer",
-    "upvotes": 32,
-    "author": "diaphanous",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27633381"
-  },
-  {
-    "title": "Hacker reveals smart meters are spilling secrets about the Texas snowstorm",
-    "url": "https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/",
-    "upvotes": 220,
-    "author": "certifiedloud",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=27630651"
-  },
-  {
-    "title": "Show HN: Machine learning automation from creating to using models in production",
-    "url": "https://github.com/nidhaloff/igel/tree/v0.4.0",
-    "upvotes": 42,
-    "author": "nidhaloff",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27603212"
-  },
-  {
-    "title": "I was let go for refusing to deploy a dark pattern",
-    "url": "https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv",
-    "upvotes": 410,
-    "author": "codingclaws",
-    "comments": 343,
-    "link": "https://news.ycombinator.com/item?id=27629543"
   },
   {
     "title": "Show HN: SirenDNS – A Watchtower for Your Domains",
     "url": "https://sirendns.com",
-    "upvotes": 32,
+    "upvotes": 38,
     "author": "pressurewave",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27629770"
   },
   {
-    "title": "Go 1.17 is deprecating the traditional use of 'go get'",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet",
-    "upvotes": 219,
-    "author": "nitinreddy88",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=27630625"
+    "title": "A man whose software ate the world",
+    "url": "https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world",
+    "upvotes": 16,
+    "author": "jger15",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27634319"
+  },
+  {
+    "title": "YoreComputer: Pages selected at random from old British computer mags",
+    "url": "https://twitter.com/yorecomputer",
+    "upvotes": 35,
+    "author": "diaphanous",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27633381"
+  },
+  {
+    "title": "Hacker reveals smart meters are spilling secrets about the Texas snowstorm",
+    "url": "https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/",
+    "upvotes": 225,
+    "author": "certifiedloud",
+    "comments": 158,
+    "link": "https://news.ycombinator.com/item?id=27630651"
+  },
+  {
+    "title": "I was let go for refusing to deploy a dark pattern",
+    "url": "https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv",
+    "upvotes": 429,
+    "author": "codingclaws",
+    "comments": 362,
+    "link": "https://news.ycombinator.com/item?id=27629543"
+  },
+  {
+    "title": "The End of Marae – my attempt to build the AR cloud",
+    "url": "http://scriber.tech/Marae.html",
+    "upvotes": 24,
+    "author": "realiswhatyoufe",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27606094"
+  },
+  {
+    "title": "Show HN: Machine learning automation from creating to using models in production",
+    "url": "https://github.com/nidhaloff/igel/tree/v0.4.0",
+    "upvotes": 45,
+    "author": "nidhaloff",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27603212"
   },
   {
     "title": "Blood test that finds 50 types of cancer is accurate enough to be rolled out",
     "url": "https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out",
-    "upvotes": 465,
+    "upvotes": 480,
     "author": "kieranmaine",
-    "comments": 320,
+    "comments": 335,
     "link": "https://news.ycombinator.com/item?id=27628740"
   },
   {
-    "title": "A man whose software ate the world",
-    "url": "https://www.thepullrequest.com/p/the-man-whose-software-ate-the-world",
-    "upvotes": 6,
-    "author": "jger15",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27634319"
+    "title": "Programming Paradigms for Dummies: What Every Programmer Should Know",
+    "url": "https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
+    "upvotes": 11,
+    "author": "pedrodelfino",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27633811"
   },
   {
     "title": "Star Citizen Progress Tracker v1.0",
     "url": "https://robertsspaceindustries.com/roadmap/progress-tracker/teams",
-    "upvotes": 145,
+    "upvotes": 147,
     "author": "doener",
-    "comments": 187,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=27628957"
+  },
+  {
+    "title": "Go 1.17 is deprecating the traditional use of 'go get'",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet",
+    "upvotes": 222,
+    "author": "nitinreddy88",
+    "comments": 181,
+    "link": "https://news.ycombinator.com/item?id=27630625"
   },
   {
     "title": "Why Did Congress Just Vote to Break Up Big Tech? – Big by Matt Stoller",
     "url": "https://mattstoller.substack.com/p/why-did-congress-just-vote-to-break",
-    "upvotes": 36,
+    "upvotes": 53,
     "author": "Jerry2",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27634314"
-  },
-  {
-    "title": "AWS BugBust",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/",
-    "upvotes": 136,
-    "author": "belter",
-    "comments": 94,
-    "link": "https://news.ycombinator.com/item?id=27631116"
   },
   {
     "title": "Ask HN: In Emacs, is there an alternative to GPG encryption in Org Mode?",
     "url": "item?id=27630755",
-    "upvotes": 56,
+    "upvotes": 59,
     "author": "timetosleep",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27630755"
   },
   {
     "title": "Sonatype Lift – a unified code analysis platform",
     "url": "https://www.infoq.com/news/2021/06/Sonatype-lift-code-analysis",
-    "upvotes": 27,
+    "upvotes": 32,
     "author": "santhoshkumar3",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27617744"
+  },
+  {
+    "title": "AWS BugBust",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/",
+    "upvotes": 141,
+    "author": "belter",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=27631116"
   },
   {
     "title": "“Please don't waste maintainers' time on your KPI grabbing patches”",
     "url": "https://lkml.org/lkml/2021/6/18/153",
-    "upvotes": 438,
+    "upvotes": 453,
     "author": "belter",
-    "comments": 207,
+    "comments": 212,
     "link": "https://news.ycombinator.com/item?id=27629366"
-  },
-  {
-    "title": "The Miami condo collapse is a devastating reminder of America's landfill problem",
-    "url": "https://theweek.com/feature/opinion/1001964/the-miami-condo-collapse-is-a-devastating-reminder-of-americas-landfill",
-    "upvotes": 10,
-    "author": "fortran77",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27635039"
-  },
-  {
-    "title": "Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground”",
-    "url": "https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound",
-    "upvotes": 119,
-    "author": "prismatic",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27627552"
-  },
-  {
-    "title": "Programming Paradigms for Dummies: What Every Programmer Should Know",
-    "url": "https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf",
-    "upvotes": 6,
-    "author": "pedrodelfino",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27633811"
   }
 ]
