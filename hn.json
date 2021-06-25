@@ -1,238 +1,238 @@
 [
   {
-    "title": "AWS BugBust",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/",
-    "upvotes": 111,
-    "author": "belter",
-    "comments": 79,
-    "link": "https://news.ycombinator.com/item?id=27631116"
+    "title": "C# as you know it but with Go-like tooling",
+    "url": "https://github.com/MichalStrehovsky/bflat",
+    "upvotes": 40,
+    "author": "tate",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27634456"
   },
   {
     "title": "Hierarchical Structures in PostgreSQL",
     "url": "https://hoverbear.org/blog/postgresql-hierarchical-structures/",
-    "upvotes": 89,
+    "upvotes": 118,
     "author": "belter",
-    "comments": 16,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27631765"
+  },
+  {
+    "title": "AWS BugBust",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/",
+    "upvotes": 121,
+    "author": "belter",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=27631116"
   },
   {
     "title": "Rally, a novel privacy-first data sharing platform",
     "url": "https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/",
-    "upvotes": 177,
+    "upvotes": 180,
     "author": "TangerineDream",
-    "comments": 93,
+    "comments": 112,
     "link": "https://news.ycombinator.com/item?id=27629188"
   },
   {
     "title": "A coronavirus epidemic hit 20k years ago, new study finds",
     "url": "https://www.nytimes.com/2021/06/24/science/ancient-coronavirus-epidemic.html",
-    "upvotes": 53,
+    "upvotes": 74,
     "author": "gumby",
-    "comments": 8,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27618883"
+  },
+  {
+    "title": "What's the most significant hack in history?",
+    "url": "https://gizmodo.com/whats-the-most-significant-hack-in-history-1847032937",
+    "upvotes": 10,
+    "author": "giuliomagnifico",
+    "comments": 11,
+    "link": "https://news.ycombinator.com/item?id=27614129"
   },
   {
     "title": "Open Source Farming Robot",
     "url": "https://farm.bot/",
-    "upvotes": 268,
+    "upvotes": 283,
     "author": "antoinec",
-    "comments": 144,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=27628101"
   },
   {
-    "title": "YoreComputer: Pages selected at random from old British computer mags",
-    "url": "https://twitter.com/yorecomputer",
-    "upvotes": 23,
-    "author": "diaphanous",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27633381"
-  },
-  {
-    "title": "The Future of Games is an Instant Flash to the past",
-    "url": "https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/",
-    "upvotes": 137,
-    "author": "meheleventyone",
-    "comments": 97,
-    "link": "https://news.ycombinator.com/item?id=27629340"
+    "title": "Where did my 256 GB go? Mobile storage Analysis",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3460095",
+    "upvotes": 32,
+    "author": "riyakhanna1983",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27631950"
   },
   {
     "title": "Jitx",
     "url": "https://www.jitx.com/careers"
   },
   {
-    "title": "Microsoft's Introduction to Rust Video Course",
-    "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#",
-    "upvotes": 112,
-    "author": "adamnemecek",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27632108"
+    "title": "MS Teams Switches from AngularJS to React, Ditches Electron.",
+    "url": "https://twitter.com/rishmsft/status/1408085784016539653",
+    "upvotes": 53,
+    "author": "po1nter",
+    "comments": 39,
+    "link": "https://news.ycombinator.com/item?id=27633756"
   },
   {
-    "title": "Nvidia Canvas",
-    "url": "https://www.nvidia.com/en-gb/studio/canvas/",
-    "upvotes": 531,
-    "author": "forgingahead",
-    "comments": 160,
-    "link": "https://news.ycombinator.com/item?id=27626610"
+    "title": "AWS acquires Wickr",
+    "url": "https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/",
+    "upvotes": 66,
+    "author": "ramimac",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27631324"
   },
   {
-    "title": "Slamming political rivals may be the most effective way to go viral",
-    "url": "https://www.cam.ac.uk/stories/viralpolitics",
-    "upvotes": 86,
-    "author": "hhs",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=27631961"
+    "title": "YoreComputer: Pages selected at random from old British computer mags",
+    "url": "https://twitter.com/yorecomputer",
+    "upvotes": 28,
+    "author": "diaphanous",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27633381"
   },
   {
-    "title": "Go 1.17 is deprecating the traditional use of 'go get'",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet",
-    "upvotes": 186,
-    "author": "nitinreddy88",
-    "comments": 147,
-    "link": "https://news.ycombinator.com/item?id=27630625"
+    "title": "The Future of Games is an Instant Flash to the past",
+    "url": "https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/",
+    "upvotes": 144,
+    "author": "meheleventyone",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=27629340"
   },
   {
     "title": "Star Citizen Progress Tracker v1.0",
     "url": "https://robertsspaceindustries.com/roadmap/progress-tracker/teams",
-    "upvotes": 125,
+    "upvotes": 132,
     "author": "doener",
-    "comments": 162,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=27628957"
-  },
-  {
-    "title": "AWS has acquired Wickr",
-    "url": "https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/",
-    "upvotes": 53,
-    "author": "ramimac",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27631324"
   },
   {
     "title": "Show HN: Machine learning automation from creating to using models in production",
     "url": "https://github.com/nidhaloff/igel/tree/v0.4.0",
-    "upvotes": 31,
+    "upvotes": 35,
     "author": "nidhaloff",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27603212"
+  },
+  {
+    "title": "Microsoft's Introduction to Rust Video Course",
+    "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#",
+    "upvotes": 127,
+    "author": "adamnemecek",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27632108"
+  },
+  {
+    "title": "Go 1.17 is deprecating the traditional use of 'go get'",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet",
+    "upvotes": 198,
+    "author": "nitinreddy88",
+    "comments": 156,
+    "link": "https://news.ycombinator.com/item?id=27630625"
   },
   {
     "title": "Hacker reveals smart meters are spilling secrets about the Texas snowstorm",
     "url": "https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/",
-    "upvotes": 188,
+    "upvotes": 195,
     "author": "certifiedloud",
-    "comments": 124,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=27630651"
-  },
-  {
-    "title": "Where did my 256 GB go? Mobile storage Analysis",
-    "url": "https://dl.acm.org/doi/pdf/10.1145/3460095",
-    "upvotes": 22,
-    "author": "riyakhanna1983",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27631950"
   },
   {
     "title": "I was let go for refusing to deploy a dark pattern",
     "url": "https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv",
-    "upvotes": 343,
+    "upvotes": 363,
     "author": "codingclaws",
-    "comments": 250,
+    "comments": 277,
     "link": "https://news.ycombinator.com/item?id=27629543"
   },
   {
-    "title": "Ask HN: In Emacs, is there an alternative to GPG encryption in Org Mode?",
-    "url": "item?id=27630755",
-    "upvotes": 45,
-    "author": "timetosleep",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27630755"
+    "title": "Slamming political rivals may be the most effective way to go viral",
+    "url": "https://www.cam.ac.uk/stories/viralpolitics",
+    "upvotes": 92,
+    "author": "hhs",
+    "comments": 88,
+    "link": "https://news.ycombinator.com/item?id=27631961"
   },
   {
     "title": "Blood test that finds 50 types of cancer is accurate enough to be rolled out",
     "url": "https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out",
-    "upvotes": 405,
+    "upvotes": 428,
     "author": "kieranmaine",
-    "comments": 290,
+    "comments": 299,
     "link": "https://news.ycombinator.com/item?id=27628740"
   },
   {
-    "title": "MS Teams Switches from AngularJS to React, Ditches Electron.",
-    "url": "https://twitter.com/rishmsft/status/1408085784016539653",
-    "upvotes": 19,
-    "author": "po1nter",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27633756"
+    "title": "Ask HN: In Emacs, is there an alternative to GPG encryption in Org Mode?",
+    "url": "item?id=27630755",
+    "upvotes": 52,
+    "author": "timetosleep",
+    "comments": 26,
+    "link": "https://news.ycombinator.com/item?id=27630755"
   },
   {
     "title": "Sonatype Lift – a unified code analysis platform",
     "url": "https://www.infoq.com/news/2021/06/Sonatype-lift-code-analysis",
-    "upvotes": 21,
+    "upvotes": 24,
     "author": "santhoshkumar3",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27617744"
   },
   {
-    "title": "Linux Kernel maintainer to Huawei: Don't waste maintainers time",
-    "url": "https://lkml.org/lkml/2021/6/18/153",
-    "upvotes": 387,
-    "author": "belter",
-    "comments": 171,
-    "link": "https://news.ycombinator.com/item?id=27629366"
-  },
-  {
     "title": "WD My Book users wake up to find their data deleted",
     "url": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
-    "upvotes": 1202,
+    "upvotes": 1209,
     "author": "bjelkeman-again",
-    "comments": 610,
+    "comments": 620,
     "link": "https://news.ycombinator.com/item?id=27624735"
   },
   {
-    "title": "NATO is looking to connect with startups",
-    "url": "https://sifted.eu/articles/nato-war-startups/",
-    "upvotes": 88,
-    "author": "rjmunro",
-    "comments": 80,
-    "link": "https://news.ycombinator.com/item?id=27629132"
+    "title": "Linux Kernel maintainer to Huawei: Don't waste maintainers time",
+    "url": "https://lkml.org/lkml/2021/6/18/153",
+    "upvotes": 400,
+    "author": "belter",
+    "comments": 184,
+    "link": "https://news.ycombinator.com/item?id=27629366"
   },
   {
     "title": "Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground”",
     "url": "https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound",
-    "upvotes": 109,
+    "upvotes": 111,
     "author": "prismatic",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27627552"
   },
   {
-    "title": "Private Gmail and Docs alternatives: Proton, Skiff, and more",
-    "url": "https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives",
-    "upvotes": 96,
-    "author": "janjones",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=27630397"
+    "title": "Nvidia Canvas",
+    "url": "https://www.nvidia.com/en-gb/studio/canvas/",
+    "upvotes": 538,
+    "author": "forgingahead",
+    "comments": 165,
+    "link": "https://news.ycombinator.com/item?id=27626610"
   },
   {
-    "title": "Moving from Hey to Fastmail",
-    "url": "https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail",
-    "upvotes": 95,
-    "author": "0xfacfac",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=27631243"
+    "title": "Private Gmail and Docs alternatives: Proton, Skiff, and more",
+    "url": "https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives",
+    "upvotes": 103,
+    "author": "janjones",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=27630397"
   },
   {
     "title": "New type of ancient human discovered in Israel",
     "url": "https://www.bbc.com/news/science-environment-57586315",
-    "upvotes": 102,
+    "upvotes": 106,
     "author": "tomerbd",
     "comments": 85,
     "link": "https://news.ycombinator.com/item?id=27627052"
   },
   {
-    "title": "As the Pandemic Recedes, Millions of Workers Are Saying 'I Quit'",
-    "url": "https://www.npr.org/2021/06/24/1007914455/as-the-pandemic-recedes-millions-of-workers-are-saying-i-quit",
-    "upvotes": 289,
-    "author": "pseudolus",
-    "comments": 240,
-    "link": "https://news.ycombinator.com/item?id=27629094"
+    "title": "Moving from Hey to Fastmail",
+    "url": "https://blog.francocorrea.com/posts/moving-from-hey-to-fastmail",
+    "upvotes": 107,
+    "author": "0xfacfac",
+    "comments": 34,
+    "link": "https://news.ycombinator.com/item?id=27631243"
   }
 ]
