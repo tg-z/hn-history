@@ -1,74 +1,82 @@
 [
   {
-    "title": "C# as you know it but with Go-like tooling",
+    "title": "Bflat: C# as you know it but with Go-like tooling",
     "url": "https://github.com/MichalStrehovsky/bflat",
-    "upvotes": 68,
+    "upvotes": 102,
     "author": "tate",
-    "comments": 18,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27634456"
   },
   {
     "title": "Hierarchical Structures in PostgreSQL",
     "url": "https://hoverbear.org/blog/postgresql-hierarchical-structures/",
-    "upvotes": 128,
+    "upvotes": 139,
     "author": "belter",
-    "comments": 23,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27631765"
   },
   {
-    "title": "AWS BugBust",
-    "url": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/",
-    "upvotes": 127,
-    "author": "belter",
-    "comments": 91,
-    "link": "https://news.ycombinator.com/item?id=27631116"
+    "title": "Disproportionate amount of bad online behaviour stems from psychological issues",
+    "url": "https://unherd.com/2021/06/are-twitter-trolls-mentally-ill/",
+    "upvotes": 17,
+    "author": "SkyMarshal",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27607203"
   },
   {
-    "title": "What's the most significant hack in history?",
-    "url": "https://gizmodo.com/whats-the-most-significant-hack-in-history-1847032937",
-    "upvotes": 18,
-    "author": "giuliomagnifico",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27614129"
+    "title": "Group Video Calls",
+    "url": "https://telegram.org/blog/group-video-calls",
+    "upvotes": 6,
+    "author": "jhabdas",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27635101"
   },
   {
     "title": "Rally, a novel privacy-first data sharing platform",
     "url": "https://blog.mozilla.org/en/mozilla/take-control-over-your-data-with-rally-a-novel-privacy-first-data-sharing-platform/",
-    "upvotes": 185,
+    "upvotes": 191,
     "author": "TangerineDream",
-    "comments": 114,
+    "comments": 124,
     "link": "https://news.ycombinator.com/item?id=27629188"
   },
   {
     "title": "A coronavirus epidemic hit 20k years ago, new study finds",
     "url": "https://www.nytimes.com/2021/06/24/science/ancient-coronavirus-epidemic.html",
-    "upvotes": 82,
+    "upvotes": 96,
     "author": "gumby",
-    "comments": 49,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27618883"
   },
   {
     "title": "Open Source Farming Robot",
     "url": "https://farm.bot/",
-    "upvotes": 291,
+    "upvotes": 299,
     "author": "antoinec",
-    "comments": 153,
+    "comments": 160,
     "link": "https://news.ycombinator.com/item?id=27628101"
+  },
+  {
+    "title": "Querying Parquet with Precision Using DuckDB",
+    "url": "https://duckdb.org/2021/06/25/querying-parquet.html",
+    "upvotes": 11,
+    "author": "mytherin",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27634840"
   },
   {
     "title": "Where did my 256 GB go? Mobile storage Analysis",
     "url": "https://dl.acm.org/doi/pdf/10.1145/3460095",
-    "upvotes": 40,
+    "upvotes": 47,
     "author": "riyakhanna1983",
-    "comments": 19,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27631950"
   },
   {
     "title": "AWS acquires Wickr",
     "url": "https://aws.amazon.com/blogs/security/aws-welcomes-wickr-to-the-team/",
-    "upvotes": 70,
+    "upvotes": 75,
     "author": "ramimac",
-    "comments": 67,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=27631324"
   },
   {
@@ -76,20 +84,36 @@
     "url": "https://www.jitx.com/careers"
   },
   {
+    "title": "Ask HN: LinkedIn suggesting I connect with my infertility doctor",
+    "url": "item?id=27634920",
+    "upvotes": 28,
+    "author": "throwaway_97532",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27634920"
+  },
+  {
     "title": "The Future of Games is an Instant Flash to the past",
     "url": "https://www.fortressofdoors.com/the-future-of-games-is-an-instant-flash-to-the-past/",
-    "upvotes": 148,
+    "upvotes": 153,
     "author": "meheleventyone",
-    "comments": 115,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=27629340"
   },
   {
     "title": "Star Citizen Progress Tracker v1.0",
     "url": "https://robertsspaceindustries.com/roadmap/progress-tracker/teams",
-    "upvotes": 134,
+    "upvotes": 141,
     "author": "doener",
-    "comments": 174,
+    "comments": 185,
     "link": "https://news.ycombinator.com/item?id=27628957"
+  },
+  {
+    "title": "Microsoft's Introduction to Rust Video Course",
+    "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#",
+    "upvotes": 147,
+    "author": "adamnemecek",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27632108"
   },
   {
     "title": "YoreComputer: Pages selected at random from old British computer mags",
@@ -100,81 +124,73 @@
     "link": "https://news.ycombinator.com/item?id=27633381"
   },
   {
-    "title": "Microsoft's Introduction to Rust Video Course",
-    "url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x#",
-    "upvotes": 139,
-    "author": "adamnemecek",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27632108"
-  },
-  {
     "title": "Show HN: Machine learning automation from creating to using models in production",
     "url": "https://github.com/nidhaloff/igel/tree/v0.4.0",
-    "upvotes": 37,
+    "upvotes": 39,
     "author": "nidhaloff",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27603212"
   },
   {
-    "title": "Go 1.17 is deprecating the traditional use of 'go get'",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet",
-    "upvotes": 207,
-    "author": "nitinreddy88",
-    "comments": 163,
-    "link": "https://news.ycombinator.com/item?id=27630625"
-  },
-  {
     "title": "Hacker reveals smart meters are spilling secrets about the Texas snowstorm",
     "url": "https://www.dailydot.com/debug/hacker-smart-meter-texas-snowstorm/",
-    "upvotes": 204,
+    "upvotes": 212,
     "author": "certifiedloud",
-    "comments": 145,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=27630651"
   },
   {
     "title": "I was let go for refusing to deploy a dark pattern",
     "url": "https://www.peachesnstink.com/p/6pJoCuczOj8cxCUQDMlfQv",
-    "upvotes": 379,
+    "upvotes": 395,
     "author": "codingclaws",
-    "comments": 298,
+    "comments": 319,
     "link": "https://news.ycombinator.com/item?id=27629543"
-  },
-  {
-    "title": "Slamming political rivals may be the most effective way to go viral",
-    "url": "https://www.cam.ac.uk/stories/viralpolitics",
-    "upvotes": 94,
-    "author": "hhs",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=27631961"
   },
   {
     "title": "Blood test that finds 50 types of cancer is accurate enough to be rolled out",
     "url": "https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out",
-    "upvotes": 435,
+    "upvotes": 449,
     "author": "kieranmaine",
-    "comments": 302,
+    "comments": 309,
     "link": "https://news.ycombinator.com/item?id=27628740"
+  },
+  {
+    "title": "Go 1.17 is deprecating the traditional use of 'go get'",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet",
+    "upvotes": 210,
+    "author": "nitinreddy88",
+    "comments": 173,
+    "link": "https://news.ycombinator.com/item?id=27630625"
+  },
+  {
+    "title": "AWS BugBust",
+    "url": "https://aws.amazon.com/about-aws/whats-new/2021/06/aws-announces-aws-bugbust/",
+    "upvotes": 133,
+    "author": "belter",
+    "comments": 94,
+    "link": "https://news.ycombinator.com/item?id=27631116"
   },
   {
     "title": "Ask HN: In Emacs, is there an alternative to GPG encryption in Org Mode?",
     "url": "item?id=27630755",
     "upvotes": 54,
     "author": "timetosleep",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27630755"
   },
   {
-    "title": "WD My Book users wake up to find their data deleted",
-    "url": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
-    "upvotes": 1213,
-    "author": "bjelkeman-again",
-    "comments": 626,
-    "link": "https://news.ycombinator.com/item?id=27624735"
+    "title": "Slamming political rivals may be the most effective way to go viral",
+    "url": "https://www.cam.ac.uk/stories/viralpolitics",
+    "upvotes": 94,
+    "author": "hhs",
+    "comments": 95,
+    "link": "https://news.ycombinator.com/item?id=27631961"
   },
   {
     "title": "Sonatype Lift – a unified code analysis platform",
     "url": "https://www.infoq.com/news/2021/06/Sonatype-lift-code-analysis",
-    "upvotes": 24,
+    "upvotes": 25,
     "author": "santhoshkumar3",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27617744"
@@ -182,57 +198,41 @@
   {
     "title": "“Please don't waste maintainers' time on your KPI grabbing patches”",
     "url": "https://lkml.org/lkml/2021/6/18/153",
-    "upvotes": 411,
+    "upvotes": 431,
     "author": "belter",
-    "comments": 188,
+    "comments": 198,
     "link": "https://news.ycombinator.com/item?id=27629366"
-  },
-  {
-    "title": "Show HN: DNS-powered website with no back end",
-    "url": "https://companydirectory.uk/barclays.co.uk/contact-information",
-    "upvotes": 65,
-    "author": "elliottinvent",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=27598164"
   },
   {
     "title": "Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground”",
     "url": "https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound",
-    "upvotes": 111,
+    "upvotes": 115,
     "author": "prismatic",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27627552"
   },
   {
+    "title": "Show HN: DNS-powered website with no back end",
+    "url": "https://companydirectory.uk/barclays.co.uk/contact-information",
+    "upvotes": 66,
+    "author": "elliottinvent",
+    "comments": 64,
+    "link": "https://news.ycombinator.com/item?id=27598164"
+  },
+  {
     "title": "Nvidia Canvas",
     "url": "https://www.nvidia.com/en-gb/studio/canvas/",
-    "upvotes": 540,
+    "upvotes": 542,
     "author": "forgingahead",
     "comments": 166,
     "link": "https://news.ycombinator.com/item?id=27626610"
   },
   {
-    "title": "Private Gmail and Docs alternatives: Proton, Skiff, and more",
-    "url": "https://www.fastcompany.com/90649563/google-gmail-docs-drive-privacy-alternatives",
-    "upvotes": 107,
-    "author": "janjones",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=27630397"
-  },
-  {
     "title": "New type of ancient human discovered in Israel",
     "url": "https://www.bbc.com/news/science-environment-57586315",
-    "upvotes": 106,
+    "upvotes": 112,
     "author": "tomerbd",
-    "comments": 86,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=27627052"
-  },
-  {
-    "title": "NATO is looking to connect with startups",
-    "url": "https://sifted.eu/articles/nato-war-startups/",
-    "upvotes": 93,
-    "author": "rjmunro",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=27629132"
   }
 ]
