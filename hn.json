@@ -1,40 +1,56 @@
 [
   {
+    "title": "Can Northvolt solve Europe’s impending electric car battery problem?",
+    "url": "https://sifted.eu/articles/northvolt-raise/",
+    "upvotes": 13,
+    "author": "imartin2k",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27628919"
+  },
+  {
     "title": "WD My Book users wake up to find their data deleted",
     "url": "https://arstechnica.com/gadgets/2021/06/mass-data-wipe-in-my-book-devices-prompts-warning-from-western-digital/",
-    "upvotes": 860,
+    "upvotes": 906,
     "author": "bjelkeman-again",
-    "comments": 468,
+    "comments": 488,
     "link": "https://news.ycombinator.com/item?id=27624735"
   },
   {
     "title": "Nvidia Canvas",
     "url": "https://www.nvidia.com/en-gb/studio/canvas/",
-    "upvotes": 290,
+    "upvotes": 300,
     "author": "forgingahead",
-    "comments": 83,
+    "comments": 85,
     "link": "https://news.ycombinator.com/item?id=27626610"
-  },
-  {
-    "title": "Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground”",
-    "url": "https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound",
-    "upvotes": 52,
-    "author": "prismatic",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27627552"
   },
   {
     "title": "Open Source Farming Robot",
     "url": "https://farm.bot/",
-    "upvotes": 25,
+    "upvotes": 48,
     "author": "antoinec",
-    "comments": 4,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27628101"
+  },
+  {
+    "title": "Lewis Carroll’s Illustrations for “Alice’s Adventures Under Ground”",
+    "url": "https://publicdomainreview.org/collection/carroll-illustrations-for-alice-undergound",
+    "upvotes": 57,
+    "author": "prismatic",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27627552"
+  },
+  {
+    "title": "Blood test that finds 50 types of cancer is accurate enough to be rolled out",
+    "url": "https://www.theguardian.com/society/2021/jun/25/blood-test-that-finds-50-types-of-cancer-is-accurate-enough-to-be-rolled-out",
+    "upvotes": 39,
+    "author": "kieranmaine",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27628740"
   },
   {
     "title": "Twilio, Asana to List on Long Term Stock Exchange",
     "url": "https://www.wsj.com/articles/twilio-asana-to-list-on-long-term-stock-exchange-as-esg-push-continues-11624565701",
-    "upvotes": 234,
+    "upvotes": 236,
     "author": "rayshan",
     "comments": 112,
     "link": "https://news.ycombinator.com/item?id=27623605"
@@ -42,39 +58,39 @@
   {
     "title": "OpenTrees: A data visualisation of publicly maintained trees around the world",
     "url": "https://github.com/stevage/opentrees",
-    "upvotes": 73,
+    "upvotes": 81,
     "author": "breck",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27626467"
   },
   {
     "title": "New type of ancient human discovered in Israel",
     "url": "https://www.bbc.com/news/science-environment-57586315",
-    "upvotes": 41,
+    "upvotes": 48,
     "author": "tomerbd",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27627052"
-  },
-  {
-    "title": "The Base45 Data Encoding",
-    "url": "https://datatracker.ietf.org/doc/draft-faltstrom-base45/",
-    "upvotes": 47,
-    "author": "b5",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27603173"
   },
   {
     "title": "QUIC at Snapchat",
     "url": "https://eng.snap.com/quic-at-snap",
-    "upvotes": 91,
+    "upvotes": 96,
     "author": "samk-snap",
-    "comments": 26,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27626394"
+  },
+  {
+    "title": "The Base45 Data Encoding",
+    "url": "https://datatracker.ietf.org/doc/draft-faltstrom-base45/",
+    "upvotes": 54,
+    "author": "b5",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27603173"
   },
   {
     "title": "EvalAI: An Open-Source Alternative to Kaggle",
     "url": "https://eval.ai/",
-    "upvotes": 92,
+    "upvotes": 94,
     "author": "optimalsolver",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27625511"
@@ -82,47 +98,39 @@
   {
     "title": "Crazy Clock",
     "url": "https://www.tindie.com/products/nsayer/crazy-clock/",
-    "upvotes": 255,
+    "upvotes": 260,
     "author": "cbsks",
-    "comments": 72,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27622789"
-  },
-  {
-    "title": "Ask HN: Technical Summer Reading List",
-    "url": "item?id=27628296",
-    "upvotes": 28,
-    "author": "grilledcheez",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27628296"
   },
   {
     "title": "Fun and dystopia with AI-based code generation using GPT-J-6B",
     "url": "https://minimaxir.com/2021/06/gpt-j-6b/",
-    "upvotes": 155,
+    "upvotes": 157,
     "author": "minimaxir",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27621114"
   },
   {
+    "title": "Ask HN: Technical Summer Reading List",
+    "url": "item?id=27628296",
+    "upvotes": 40,
+    "author": "grilledcheez",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27628296"
+  },
+  {
     "title": "Cupcake - A Rust library for lattice-based additive homomorphic encryption",
     "url": "https://github.com/facebookresearch/Cupcake",
-    "upvotes": 67,
+    "upvotes": 70,
     "author": "Karrot_Kream",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27589010"
   },
   {
-    "title": "Micro APIs for Everyday Use",
-    "url": "https://blog.m3o.com/2021/06/24/micro-apis-for-everyday-use.html",
-    "upvotes": 239,
-    "author": "friendly_chap",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=27619015"
-  },
-  {
     "title": "The Next Backblaze Storage Pod",
     "url": "https://www.backblaze.com/blog/next-backblaze-storage-pod/",
-    "upvotes": 235,
+    "upvotes": 236,
     "author": "TangerineDream",
     "comments": 104,
     "link": "https://news.ycombinator.com/item?id=27619672"
@@ -130,41 +138,33 @@
   {
     "title": "The rich, weird, and frustrating world of Depression-era travel guides",
     "url": "https://www.theatlantic.com/culture/archive/2021/06/new-deal-american-guides-federal-writers-project/619255/",
-    "upvotes": 85,
+    "upvotes": 90,
     "author": "samizdis",
-    "comments": 19,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27603228"
-  },
-  {
-    "title": "GPBoost: Combining Tree-Boosting with Gaussian Process and Mixed Effects Models",
-    "url": "https://github.com/fabsig/GPBoost",
-    "upvotes": 20,
-    "author": "laichzeit0",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27603613"
   },
   {
     "title": "Tiny Acquisitions",
     "url": "https://tinyacquisitions.com",
-    "upvotes": 311,
+    "upvotes": 320,
     "author": "mcone",
     "comments": 134,
     "link": "https://news.ycombinator.com/item?id=27624411"
   },
   {
-    "title": "Joan Didion’s Long View",
-    "url": "https://www.thenation.com/article/culture/joan-didion-tell-you-what-mean-review/",
-    "upvotes": 28,
-    "author": "colluder",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27593828"
+    "title": "GPBoost: Combining Tree-Boosting with Gaussian Process and Mixed Effects Models",
+    "url": "https://github.com/fabsig/GPBoost",
+    "upvotes": 21,
+    "author": "laichzeit0",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27603613"
   },
   {
     "title": "Stop using your work laptop or phone for personal stuff, because I know you are",
     "url": "https://www.zdnet.com/article/stop-using-your-work-laptop-or-phone-for-personal-stuff-because-i-know-you-are/",
-    "upvotes": 297,
+    "upvotes": 300,
     "author": "manikandarajs",
-    "comments": 354,
+    "comments": 363,
     "link": "https://news.ycombinator.com/item?id=27622988"
   },
   {
@@ -176,12 +176,12 @@
     "link": "https://news.ycombinator.com/item?id=27620299"
   },
   {
-    "title": "James Hutton's Theory of the Earth",
-    "url": "https://inference-review.com/article/a-theory-of-the-earth",
-    "upvotes": 8,
-    "author": "chmaynard",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27580586"
+    "title": "Joan Didion’s Long View",
+    "url": "https://www.thenation.com/article/culture/joan-didion-tell-you-what-mean-review/",
+    "upvotes": 28,
+    "author": "colluder",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27593828"
   },
   {
     "title": "Smoothstep Integral",
@@ -192,26 +192,6 @@
     "link": "https://news.ycombinator.com/item?id=27588977"
   },
   {
-    "title": "Four Stories from the Russian Arctic",
-    "url": "https://www.newyorker.com/culture/photo-booth/four-stories-from-the-russian-arctic",
-    "upvotes": 36,
-    "author": "lermontov",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27601103"
-  },
-  {
-    "title": "AtoB",
-    "url": "https://careers.atob.com/"
-  },
-  {
-    "title": "Developing Games on Linux: An Interview with Little Red Dog Games",
-    "url": "https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with",
-    "upvotes": 324,
-    "author": "nixcraft",
-    "comments": 169,
-    "link": "https://news.ycombinator.com/item?id=27619977"
-  },
-  {
     "title": "Show HN: 3dasd – open-source DIY room-scale 3D scanner",
     "url": "https://3dasd.com/",
     "upvotes": 213,
@@ -220,19 +200,39 @@
     "link": "https://news.ycombinator.com/item?id=27614874"
   },
   {
+    "title": "Developing Games on Linux: An Interview with Little Red Dog Games",
+    "url": "https://blog.system76.com/post/654884924769370112/developing-games-on-linux-an-interview-with",
+    "upvotes": 327,
+    "author": "nixcraft",
+    "comments": 172,
+    "link": "https://news.ycombinator.com/item?id=27619977"
+  },
+  {
+    "title": "AtoB",
+    "url": "https://careers.atob.com/"
+  },
+  {
+    "title": "James Hutton's Theory of the Earth",
+    "url": "https://inference-review.com/article/a-theory-of-the-earth",
+    "upvotes": 9,
+    "author": "chmaynard",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27580586"
+  },
+  {
+    "title": "Four Stories from the Russian Arctic",
+    "url": "https://www.newyorker.com/culture/photo-booth/four-stories-from-the-russian-arctic",
+    "upvotes": 37,
+    "author": "lermontov",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27601103"
+  },
+  {
     "title": "We Don't Know, But Let's Try It",
     "url": "http://bostonreview.net/class-inequality-politics-philosophy-religion/simon-torracinta-we-dont-know-lets-try-it",
-    "upvotes": 76,
+    "upvotes": 78,
     "author": "samclemens",
     "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27600750"
-  },
-  {
-    "title": "Google turned me into a serial killer",
-    "url": "https://hristo-georgiev.com/google-turned-me-into-a-serial-killer",
-    "upvotes": 764,
-    "author": "Kaizeras",
-    "comments": 278,
-    "link": "https://news.ycombinator.com/item?id=27622100"
   }
 ]
