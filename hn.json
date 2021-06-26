@@ -1,238 +1,238 @@
 [
   {
+    "title": "Immutability is not enough",
+    "url": "https://codewords.recurse.com/issues/six/immutability-is-not-enough",
+    "upvotes": 20,
+    "author": "jt2190",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27642263"
+  },
+  {
     "title": "Parse, Don't Validate",
     "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
-    "upvotes": 221,
+    "upvotes": 238,
     "author": "melse",
-    "comments": 108,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=27639890"
+  },
+  {
+    "title": "Reddit’s disrespectful design",
+    "url": "https://ognjen.io/reddits-disrespectful-design/",
+    "upvotes": 403,
+    "author": "rognjen",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=27641366"
   },
   {
     "title": "Understanding thread stack sizes and how alpine is different",
     "url": "https://ariadne.space/2021/06/25/understanding-thread-stack-sizes-and-how-alpine-is-different/",
-    "upvotes": 54,
+    "upvotes": 63,
     "author": "notacoward",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27641081"
   },
   {
     "title": "Teaching open-source software in North Korea",
     "url": "https://izbicki.me/blog/teaching-open-source-in-north-korea.html",
-    "upvotes": 71,
+    "upvotes": 82,
     "author": "jackpirate",
-    "comments": 23,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27620228"
   },
   {
-    "title": "Whatever Happened to UI Affordances?",
-    "url": "https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/",
-    "upvotes": 74,
-    "author": "pimterry",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27640943"
-  },
-  {
-    "title": "Reddit’s disrespectful design",
-    "url": "https://ognjen.io/reddits-disrespectful-design/",
-    "upvotes": 250,
-    "author": "rognjen",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=27641366"
-  },
-  {
-    "title": "The Making of the Kosher Phone",
-    "url": "http://blog.assafnativ.com/2014/03/the-making-of-kosher-phone.html",
-    "upvotes": 36,
-    "author": "grlass",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27641076"
+    "title": "Run fewer, better A/B tests",
+    "url": "https://edoconti.medium.com/offline-policy-evaluation-run-fewer-better-a-b-tests-60ce8f93fa15",
+    "upvotes": 5,
+    "author": "econti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27642296"
   },
   {
     "title": "Immutability Changes Everything",
     "url": "https://queue.acm.org/detail.cfm?id=2884038",
-    "upvotes": 107,
+    "upvotes": 116,
     "author": "Garbage",
-    "comments": 56,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27640308"
   },
   {
     "title": "The Queen’s Latin or Who Were the Romans, Part II: Citizens and Allies",
     "url": "https://acoup.blog/2021/06/25/collections-the-queens-latin-or-who-were-the-romans-part-ii-citizens-and-allies/",
-    "upvotes": 68,
+    "upvotes": 76,
     "author": "parsecs",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27627376"
   },
   {
-    "title": "Cloudproxy – hide your scrapers IP behind the cloud",
-    "url": "https://github.com/claffin/cloudproxy",
-    "upvotes": 101,
-    "author": "todsacerdoti",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=27640217"
+    "title": "The Making of the Kosher Phone",
+    "url": "http://blog.assafnativ.com/2014/03/the-making-of-kosher-phone.html",
+    "upvotes": 39,
+    "author": "grlass",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27641076"
   },
   {
     "title": "Quantum microscope can examine cells in unprecedented detail",
     "url": "https://www.newscientist.com/article/2280216-quantum-microscope-can-examine-cells-in-unprecedented-detail/",
-    "upvotes": 61,
+    "upvotes": 67,
     "author": "pps",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27640737"
   },
   {
-    "title": "Functors and Monads for People Who Have Read Too Many “Tutorials”",
-    "url": "http://www.jerf.org/iri/post/2958",
-    "upvotes": 295,
-    "author": "zdw",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=27637779"
+    "title": "Cloudproxy – hide your scrapers IP behind the cloud",
+    "url": "https://github.com/claffin/cloudproxy",
+    "upvotes": 109,
+    "author": "todsacerdoti",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=27640217"
+  },
+  {
+    "title": "Why I sometimes like to write my own number crunching code",
+    "url": "https://dragan.rocks/articles/21/Pimp-my-Clojure-number-crunching",
+    "upvotes": 12,
+    "author": "dragandj",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27632413"
   },
   {
     "title": "Signadot",
     "url": "https://www.workatastartup.com/jobs/42298"
   },
   {
+    "title": "Whatever Happened to UI Affordances?",
+    "url": "https://shkspr.mobi/blog/2021/06/whatever-happened-to-ui-affordances/",
+    "upvotes": 90,
+    "author": "pimterry",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=27640943"
+  },
+  {
     "title": "Desert plants are struggling in higher heat",
     "url": "https://www.scientificamerican.com/article/unexpected-desert-plants-are-struggling-in-higher-heat/",
-    "upvotes": 20,
+    "upvotes": 29,
     "author": "LinuxBender",
-    "comments": 6,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27641880"
-  },
-  {
-    "title": "Why I sometimes like to write my own number crunching code",
-    "url": "https://dragan.rocks/articles/21/Pimp-my-Clojure-number-crunching",
-    "upvotes": 7,
-    "author": "dragandj",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27632413"
-  },
-  {
-    "title": "Microsoft admits to signing rootkit malware in supply-chain fiasco",
-    "url": "https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/",
-    "upvotes": 168,
-    "author": "shp0ngle",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=27640553"
-  },
-  {
-    "title": "Microsoft Teams 2 will use half the memory, dropping Electron for Edge Webview2",
-    "url": "https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/",
-    "upvotes": 123,
-    "author": "riffraff",
-    "comments": 112,
-    "link": "https://news.ycombinator.com/item?id=27641010"
   },
   {
     "title": "Using Paper for Everyday Tasks",
     "url": "https://christine.website/blog/gtd-on-paper-2021-06-13",
-    "upvotes": 99,
+    "upvotes": 107,
     "author": "mayiplease",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27639875"
+  },
+  {
+    "title": "Microsoft Teams 2 will use half the memory, dropping Electron for Edge Webview2",
+    "url": "https://tomtalks.blog/2021/06/microsoft-teams-2-0-will-use-half-the-memory-dropping-electron-for-edge-webview2/",
+    "upvotes": 148,
+    "author": "riffraff",
+    "comments": 144,
+    "link": "https://news.ycombinator.com/item?id=27641010"
   },
   {
     "title": "Why we don’t understand heavier-than-air flight",
     "url": "https://www.ribbonfarm.com/2021/04/08/heres-why-we-dont-understand-heavier-than-air-flight/",
-    "upvotes": 62,
+    "upvotes": 77,
     "author": "sillybilly",
-    "comments": 55,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27639869"
+  },
+  {
+    "title": "Microsoft admits to signing rootkit malware in supply-chain fiasco",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/",
+    "upvotes": 185,
+    "author": "shp0ngle",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=27640553"
   },
   {
     "title": "Patching until the COWs come home",
     "url": "https://lwn.net/Articles/849638/",
-    "upvotes": 59,
+    "upvotes": 64,
     "author": "alex_hirner",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27640088"
-  },
-  {
-    "title": "How to Use Ada to Insulate Software from Hardware Updates",
-    "url": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates",
-    "upvotes": 41,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27640215"
-  },
-  {
-    "title": "‘Dragon Man’ skull may be new species, shaking up human family tree",
-    "url": "https://www.nationalgeographic.com/science/article/dragon-man-fossil-skull-may-represent-new-human-species-in-china",
-    "upvotes": 140,
-    "author": "pseudolus",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=27638218"
   },
   {
     "title": "Intel to Create RISC-V Dev Platform with SiFive P550 Cores on 7nm in 2022",
     "url": "https://www.anandtech.com/show/16780/intel-to-create-riscv-development-platform-with-sifive-p550-cores-on-7nm-in-2022",
-    "upvotes": 84,
+    "upvotes": 90,
     "author": "rbanffy",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27628764"
+  },
+  {
+    "title": "How to Use Ada to Insulate Software from Hardware Updates",
+    "url": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates",
+    "upvotes": 43,
+    "author": "Tomte",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27640215"
+  },
+  {
+    "title": "Siberian cave hosted Neanderthals, Denisovans, and modern humans",
+    "url": "https://www.sciencemag.org/news/2021/06/ancient-siberian-cave-hosted-neanderthals-denisovans-and-modern-humans-possibly-same",
+    "upvotes": 54,
+    "author": "benbreen",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27627598"
+  },
+  {
+    "title": "The internet eats up less energy than you might think",
+    "url": "https://www.nytimes.com/2021/06/24/technology/computer-energy-use-study.html",
+    "upvotes": 53,
+    "author": "ctoth",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=27623215"
+  },
+  {
+    "title": "‘Dragon Man’ skull may be new species, shaking up human family tree",
+    "url": "https://www.nationalgeographic.com/science/article/dragon-man-fossil-skull-may-represent-new-human-species-in-china",
+    "upvotes": 145,
+    "author": "pseudolus",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=27638218"
   },
   {
     "title": "Solve software problems by adding more",
     "url": "https://dilumn.github.io/programming/2021/06/26/Solve-software-problems-by-adding-more/",
-    "upvotes": 39,
+    "upvotes": 41,
     "author": "dilumn",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27639710"
   },
   {
-    "title": "The internet eats up less energy than you might think",
-    "url": "https://www.nytimes.com/2021/06/24/technology/computer-energy-use-study.html",
-    "upvotes": 50,
-    "author": "ctoth",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27623215"
+    "title": "Lamport Clock",
+    "url": "https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html",
+    "upvotes": 69,
+    "author": "signa11",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27628553"
   },
   {
     "title": "One bee has cloned itself millions of times over the past three decades",
     "url": "https://www.livescience.com/bee-creates-perfect-clone-army.html",
-    "upvotes": 174,
+    "upvotes": 188,
     "author": "awb",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27639823"
   },
   {
-    "title": "Siberian cave hosted Neanderthals, Denisovans, and modern humans",
-    "url": "https://www.sciencemag.org/news/2021/06/ancient-siberian-cave-hosted-neanderthals-denisovans-and-modern-humans-possibly-same",
-    "upvotes": 45,
-    "author": "benbreen",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27627598"
-  },
-  {
     "title": "US Fed Official Calls Tether a ‘Challenge’ to Financial Stability",
     "url": "https://www.nasdaq.com/articles/us-fed-official-calls-tether-a-challenge-to-financial-stability-2021-06-25",
-    "upvotes": 146,
+    "upvotes": 161,
     "author": "matheusmoreira",
-    "comments": 178,
+    "comments": 190,
     "link": "https://news.ycombinator.com/item?id=27640002"
-  },
-  {
-    "title": "How to outsource marketing for your side project",
-    "url": "item?id=27634540",
-    "upvotes": 83,
-    "author": "dmrschmidt",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27634540"
   },
   {
     "title": "Robots could take place of pupils who cannot attend school in person",
     "url": "https://www.bristolpost.co.uk/news/bristol-news/robots-could-take-place-pupils-5571363",
-    "upvotes": 7,
+    "upvotes": 10,
     "author": "vitabenes",
-    "comments": 2,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27640868"
-  },
-  {
-    "title": "Neotron Pico: powered by the Raspberry Pi Pico, in a micro-ATX form-factor",
-    "url": "https://github.com/Neotron-Compute/Neotron-Pico",
-    "upvotes": 58,
-    "author": "sohkamyung",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27627631"
   }
 ]
