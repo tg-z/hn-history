@@ -2,47 +2,63 @@
   {
     "title": "Parse, Don't Validate",
     "url": "https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/",
-    "upvotes": 63,
+    "upvotes": 79,
     "author": "melse",
-    "comments": 25,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27639890"
   },
   {
     "title": "Federal Reserve official: Tether is a risk to financial stability",
     "url": "https://www.nasdaq.com/articles/us-fed-official-calls-tether-a-challenge-to-financial-stability-2021-06-25",
-    "upvotes": 46,
+    "upvotes": 60,
     "author": "matheusmoreira",
-    "comments": 21,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27640002"
   },
   {
     "title": "User Inyerface – A worst-practice UI experiment",
     "url": "https://userinyerface.com/",
-    "upvotes": 799,
+    "upvotes": 807,
     "author": "andyjih_",
-    "comments": 180,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=27635310"
   },
   {
     "title": "Immutability Changes Everything",
     "url": "https://queue.acm.org/detail.cfm?id=2884038",
-    "upvotes": 8,
+    "upvotes": 16,
     "author": "Garbage",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27640308"
   },
   {
     "title": "Using Paper for Everyday Tasks",
     "url": "https://christine.website/blog/gtd-on-paper-2021-06-13",
-    "upvotes": 50,
+    "upvotes": 57,
     "author": "mayiplease",
-    "comments": 31,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27639875"
+  },
+  {
+    "title": "Patching until the COWs come home",
+    "url": "https://lwn.net/Articles/849638/",
+    "upvotes": 21,
+    "author": "alex_hirner",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27640088"
+  },
+  {
+    "title": "Why we don’t understand heavier-than-air flight",
+    "url": "https://www.ribbonfarm.com/2021/04/08/heres-why-we-dont-understand-heavier-than-air-flight/",
+    "upvotes": 30,
+    "author": "sillybilly",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27639869"
   },
   {
     "title": "Functors and Monads for People Who Have Read Too Many “Tutorials”",
     "url": "http://www.jerf.org/iri/post/2958",
-    "upvotes": 220,
+    "upvotes": 228,
     "author": "zdw",
     "comments": 128,
     "link": "https://news.ycombinator.com/item?id=27637779"
@@ -50,50 +66,34 @@
   {
     "title": "One bee has cloned itself millions of times over the past three decades",
     "url": "https://www.livescience.com/bee-creates-perfect-clone-army.html",
-    "upvotes": 79,
+    "upvotes": 87,
     "author": "awb",
-    "comments": 5,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27639823"
   },
   {
-    "title": "Why we don’t understand heavier-than-air flight",
-    "url": "https://www.ribbonfarm.com/2021/04/08/heres-why-we-dont-understand-heavier-than-air-flight/",
-    "upvotes": 22,
-    "author": "sillybilly",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27639869"
-  },
-  {
-    "title": "Patching until the COWs come home",
-    "url": "https://lwn.net/Articles/849638/",
-    "upvotes": 17,
-    "author": "alex_hirner",
+    "title": "Solve software problems by adding more",
+    "url": "https://dilumn.github.io/programming/2021/06/26/Solve-software-problems-by-adding-more/",
+    "upvotes": 9,
+    "author": "dilumn",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27640088"
+    "link": "https://news.ycombinator.com/item?id=27639710"
   },
   {
     "title": "Cloudproxy – hide your scrapers IP behind the cloud",
     "url": "https://github.com/claffin/cloudproxy",
-    "upvotes": 8,
+    "upvotes": 15,
     "author": "todsacerdoti",
-    "comments": 4,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27640217"
   },
   {
     "title": "‘Dragon Man’ skull may be new species, shaking up human family tree",
     "url": "https://www.nationalgeographic.com/science/article/dragon-man-fossil-skull-may-represent-new-human-species-in-china",
-    "upvotes": 111,
+    "upvotes": 113,
     "author": "pseudolus",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27638218"
-  },
-  {
-    "title": "How to Use Ada to Insulate Software from Hardware Updates",
-    "url": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates",
-    "upvotes": 6,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27640215"
   },
   {
     "title": "Neotron Pico: powered by the Raspberry Pi Pico, in a micro-ATX form-factor",
@@ -106,10 +106,18 @@
   {
     "title": "Lamport Clock",
     "url": "https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html",
-    "upvotes": 26,
+    "upvotes": 31,
     "author": "signa11",
-    "comments": 7,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27628553"
+  },
+  {
+    "title": "How to Use Ada to Insulate Software from Hardware Updates",
+    "url": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21167036/adacore-how-to-use-ada-to-insulate-software-from-hardware-updates",
+    "upvotes": 7,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27640215"
   },
   {
     "title": "Siberian cave hosted Neanderthals, Denisovans, and modern humans",
@@ -120,57 +128,57 @@
     "link": "https://news.ycombinator.com/item?id=27627598"
   },
   {
-    "title": "The internet eats up less energy than you might think",
-    "url": "https://www.nytimes.com/2021/06/24/technology/computer-energy-use-study.html",
-    "upvotes": 15,
-    "author": "ctoth",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27623215"
-  },
-  {
     "title": "Intel to Create RISC-V Dev Platform with SiFive P550 Cores on 7nm in 2022",
     "url": "https://www.anandtech.com/show/16780/intel-to-create-riscv-development-platform-with-sifive-p550-cores-on-7nm-in-2022",
-    "upvotes": 51,
+    "upvotes": 56,
     "author": "rbanffy",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27628764"
+  },
+  {
+    "title": "The internet eats up less energy than you might think",
+    "url": "https://www.nytimes.com/2021/06/24/technology/computer-energy-use-study.html",
+    "upvotes": 18,
+    "author": "ctoth",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27623215"
   },
   {
     "title": "Goodbye C++, Hello C",
     "url": "https://momentsingraphics.de/ToyRenderer1KeepItSimple.html",
-    "upvotes": 163,
+    "upvotes": 167,
     "author": "khoobid_shoma",
-    "comments": 100,
+    "comments": 106,
     "link": "https://news.ycombinator.com/item?id=27637266"
+  },
+  {
+    "title": "How to outsource marketing for your side project",
+    "url": "item?id=27634540",
+    "upvotes": 38,
+    "author": "dmrschmidt",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27634540"
+  },
+  {
+    "title": "Deep Scatterplots",
+    "url": "http://creatingdata.us/techne/deep_scatterplots/#",
+    "upvotes": 18,
+    "author": "polm23",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27625172"
   },
   {
     "title": "Tiny crystal films could make night vision an everyday reality",
     "url": "https://theconversation.com/seeing-the-invisible-tiny-crystal-films-could-make-night-vision-an-everyday-reality-162615",
-    "upvotes": 13,
+    "upvotes": 15,
     "author": "dance-me",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27639903"
   },
   {
-    "title": "How to outsource marketing for your side project",
-    "url": "item?id=27634540",
-    "upvotes": 32,
-    "author": "dmrschmidt",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27634540"
-  },
-  {
-    "title": "Correctly implementing a spinlock in Modern C++",
-    "url": "https://rigtorp.se/spinlock/",
-    "upvotes": 98,
-    "author": "symisc_devel",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=27637287"
-  },
-  {
     "title": "Exceptional Naming",
     "url": "https://kevlinhenney.medium.com/exceptional-naming-6e3c8f5bffac",
-    "upvotes": 7,
+    "upvotes": 11,
     "author": "firstbase",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27639802"
@@ -178,42 +186,42 @@
   {
     "title": "DUR: The Debian User Repository",
     "url": "https://dur.hunterwittenborn.com/",
-    "upvotes": 53,
+    "upvotes": 59,
     "author": "luke2m",
-    "comments": 43,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27638107"
+  },
+  {
+    "title": "Microsoft admits to signing rootkit malware in supply-chain fiasco",
+    "url": "https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/",
+    "upvotes": 6,
+    "author": "shp0ngle",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27640553"
+  },
+  {
+    "title": "Correctly implementing a spinlock in Modern C++",
+    "url": "https://rigtorp.se/spinlock/",
+    "upvotes": 98,
+    "author": "symisc_devel",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=27637287"
   },
   {
     "title": "Chemical space is really big",
     "url": "https://www.chemistryworld.com/opinion/chemical-space-is-big-really-big/7899.article",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "optimalsolver",
-    "comments": 61,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=27634549"
   },
   {
     "title": "Gloss3D – an open source 3D Modeler for Linux and Windows",
     "url": "http://www.gloss3d.net/",
-    "upvotes": 55,
+    "upvotes": 57,
     "author": "app4soft",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27637787"
-  },
-  {
-    "title": "Deep Scatterplots",
-    "url": "http://creatingdata.us/techne/deep_scatterplots/#",
-    "upvotes": 13,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27625172"
-  },
-  {
-    "title": "A bear case for social audio",
-    "url": "https://elevis.io",
-    "upvotes": 12,
-    "author": "artfulhippo",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27639669"
   },
   {
     "title": "OneSignal",
@@ -222,17 +230,9 @@
   {
     "title": "Sorry, we replaced that old technology, “see-through glass”",
     "url": "https://twitter.com/RunDaltonRun/status/1408507323031592964",
-    "upvotes": 523,
+    "upvotes": 539,
     "author": "dmart",
-    "comments": 307,
+    "comments": 312,
     "link": "https://news.ycombinator.com/item?id=27636773"
-  },
-  {
-    "title": "The Death of Alpha on NT",
-    "url": "https://www.itprotoday.com/compute-engines/death-alpha-nt",
-    "upvotes": 56,
-    "author": "xattt",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27603531"
   }
 ]
