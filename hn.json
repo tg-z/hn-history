@@ -1,80 +1,92 @@
 [
   {
+    "title": "Vegetables have become far less nutritious",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/",
+    "upvotes": 120,
+    "author": "johndcook",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=27654787"
+  },
+  {
+    "title": "Windows 11 will create heaps of needless trash",
+    "url": "https://nbailey.ca/post/win11-will-create-trash/",
+    "upvotes": 29,
+    "author": "yabones",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27655069"
+  },
+  {
     "title": "Let's code a TCP/IP stack",
     "url": "https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
-    "upvotes": 78,
+    "upvotes": 104,
     "author": "peter_d_sherman",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27654182"
   },
   {
     "title": "Unison Programming Language",
     "url": "https://www.unisonweb.org/",
-    "upvotes": 231,
+    "upvotes": 243,
     "author": "gautamcgoel",
-    "comments": 70,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27652677"
   },
   {
-    "title": "x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming",
-    "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-    "upvotes": 47,
-    "author": "peter_d_sherman",
+    "title": "Typed Programs Don't Leak Data",
+    "url": "https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html",
+    "upvotes": 16,
+    "author": "todsacerdoti",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27654257"
+    "link": "https://news.ycombinator.com/item?id=27654807"
   },
   {
-    "title": "The Broken Promise of Retirement",
-    "url": "https://www.nybooks.com/articles/2021/07/01/broken-promise-of-retirement/",
-    "upvotes": 35,
-    "author": "bryanrasmussen",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27654047"
-  },
-  {
-    "title": "Ask HN: Good books/courses to learn networking essentials for web developers?",
-    "url": "item?id=27650775",
-    "upvotes": 169,
-    "author": "giulianopz",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=27650775"
-  },
-  {
-    "title": "Vegetables have become far less nutritious",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/",
-    "upvotes": 31,
-    "author": "johndcook",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27654787"
+    "title": "Substack",
+    "url": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"
   },
   {
     "title": "Onivim 2 is a retro-futuristic modal editor",
     "url": "https://v2.onivim.io",
-    "upvotes": 21,
+    "upvotes": 35,
     "author": "niedzielski",
-    "comments": 4,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27627275"
   },
   {
-    "title": "Roblox on Linux with recent Wine 6.11",
-    "url": "https://roblox.fandom.com/wiki/Roblox_on_Linux",
-    "upvotes": 148,
-    "author": "homarp",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=27651224"
+    "title": "x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming",
+    "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
+    "upvotes": 60,
+    "author": "peter_d_sherman",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27654257"
+  },
+  {
+    "title": "Ask HN: Good books/courses to learn networking essentials for web developers?",
+    "url": "item?id=27650775",
+    "upvotes": 186,
+    "author": "giulianopz",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27650775"
   },
   {
     "title": "Mathematically inspired typefaces",
     "url": "https://www.nytimes.com/2021/06/25/science/puzzles-fonts-math-demaine.html",
-    "upvotes": 34,
+    "upvotes": 42,
     "author": "sohkamyung",
-    "comments": 5,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27629183"
+  },
+  {
+    "title": "Roblox on Linux with recent Wine 6.11",
+    "url": "https://roblox.fandom.com/wiki/Roblox_on_Linux",
+    "upvotes": 149,
+    "author": "homarp",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27651224"
   },
   {
     "title": "Mumble: Open-Source, Low Latency, High Quality Voice Chat",
     "url": "https://www.mumble.info/",
-    "upvotes": 477,
+    "upvotes": 482,
     "author": "danboarder",
     "comments": 220,
     "link": "https://news.ycombinator.com/item?id=27648915"
@@ -82,157 +94,145 @@
   {
     "title": "Windows 11, Amazon, and Uncomfortable Questions",
     "url": "https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html",
-    "upvotes": 339,
+    "upvotes": 348,
     "author": "ingve",
-    "comments": 180,
+    "comments": 187,
     "link": "https://news.ycombinator.com/item?id=27651983"
-  },
-  {
-    "title": "Turbo Rascal Syntax Error",
-    "url": "https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/",
-    "upvotes": 72,
-    "author": "ibobev",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27651963"
-  },
-  {
-    "title": "Navattic",
-    "url": "https://www.ycombinator.com/companies/navattic/jobs/3re77Gz5G-founding-engineer"
-  },
-  {
-    "title": "The economics of dollar stores",
-    "url": "https://thehustle.co/the-economics-of-dollar-stores",
-    "upvotes": 203,
-    "author": "pseudolus",
-    "comments": 158,
-    "link": "https://news.ycombinator.com/item?id=27650477"
   },
   {
     "title": "Classified Ministry of Defence documents found at bus stop",
     "url": "https://www.bbc.com/news/uk-57624942",
-    "upvotes": 55,
+    "upvotes": 59,
     "author": "georgecmu",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27651828"
   },
   {
-    "title": "Typed Programs Don't Leak Data",
-    "url": "https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html",
-    "upvotes": 3,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27654807"
+    "title": "The economics of dollar stores",
+    "url": "https://thehustle.co/the-economics-of-dollar-stores",
+    "upvotes": 212,
+    "author": "pseudolus",
+    "comments": 163,
+    "link": "https://news.ycombinator.com/item?id=27650477"
+  },
+  {
+    "title": "Turbo Rascal Syntax Error",
+    "url": "https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/",
+    "upvotes": 75,
+    "author": "ibobev",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27651963"
   },
   {
     "title": "Why wood has gotten so dang expensive",
     "url": "https://constructionphysics.substack.com/p/lumber-price-faq",
-    "upvotes": 159,
+    "upvotes": 168,
     "author": "Whitespace",
-    "comments": 76,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27652178"
   },
   {
     "title": "A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT",
     "url": "https://arxiv.org/abs/2106.12684",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "belter",
-    "comments": 34,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27650879"
-  },
-  {
-    "title": "Schools Are Spying on Students – But Students Can Fight Back",
-    "url": "https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back",
-    "upvotes": 34,
-    "author": "sonograph",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27654178"
   },
   {
     "title": "Focus vs Coordination",
     "url": "https://camhashemi.com/posts/focus-vs-coordination/",
-    "upvotes": 50,
+    "upvotes": 57,
     "author": "1penny42cents",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27640414"
   },
   {
+    "title": "Schools Are Spying on Students – But Students Can Fight Back",
+    "url": "https://www.eff.org/press/releases/schools-are-spying-students-students-can-fight-back",
+    "upvotes": 43,
+    "author": "sonograph",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27654178"
+  },
+  {
+    "title": "The Sandia Cooler",
+    "url": "https://ip.sandia.gov/technology.do/techID=66",
+    "upvotes": 62,
+    "author": "RichardHeart",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=27651687"
+  },
+  {
+    "title": "Michelin Puts Puffy Sails on Cargo Ships",
+    "url": "https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter",
+    "upvotes": 189,
+    "author": "rmason",
+    "comments": 100,
+    "link": "https://news.ycombinator.com/item?id=27649099"
+  },
+  {
+    "title": "The Broken Promise of Retirement",
+    "url": "https://www.nybooks.com/articles/2021/07/01/broken-promise-of-retirement/",
+    "upvotes": 45,
+    "author": "bryanrasmussen",
+    "comments": 50,
+    "link": "https://news.ycombinator.com/item?id=27654047"
+  },
+  {
+    "title": "Avoiding Complexity with Systemd",
+    "url": "https://mgdm.net/weblog/systemd/",
+    "upvotes": 249,
+    "author": "irl_",
+    "comments": 253,
+    "link": "https://news.ycombinator.com/item?id=27649342"
+  },
+  {
     "title": "Duenos Inscription",
     "url": "https://en.wikipedia.org/wiki/Duenos_inscription",
-    "upvotes": 9,
+    "upvotes": 10,
     "author": "benbreen",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27647524"
   },
   {
-    "title": "Michelin Puts Puffy Sails on Cargo Ships",
-    "url": "https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter",
-    "upvotes": 187,
-    "author": "rmason",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=27649099"
-  },
-  {
-    "title": "The Sandia Cooler",
-    "url": "https://ip.sandia.gov/technology.do/techID=66",
-    "upvotes": 58,
-    "author": "RichardHeart",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27651687"
-  },
-  {
-    "title": "Avoiding Complexity with Systemd",
-    "url": "https://mgdm.net/weblog/systemd/",
-    "upvotes": 246,
-    "author": "irl_",
-    "comments": 244,
-    "link": "https://news.ycombinator.com/item?id=27649342"
-  },
-  {
     "title": "Sir, Please Step Away from the ASR-33",
     "url": "https://queue.acm.org/detail.cfm?id=1871406",
-    "upvotes": 126,
+    "upvotes": 128,
     "author": "pcr910303",
-    "comments": 222,
+    "comments": 223,
     "link": "https://news.ycombinator.com/item?id=27649431"
+  },
+  {
+    "title": "Interactive Periodic Table",
+    "url": "https://ptable.com/#Properties",
+    "upvotes": 72,
+    "author": "solarized",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27650576"
   },
   {
     "title": "Citing a serious flight test incident, FAA slows Boeing 777X certification",
     "url": "https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/",
-    "upvotes": 99,
+    "upvotes": 103,
     "author": "donohoe",
-    "comments": 60,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27652615"
-  },
-  {
-    "title": "World’s smallest, best acoustic amplifier emerges from 50-year-old hypothesis",
-    "url": "https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html",
-    "upvotes": 213,
-    "author": "skunkworker",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27648809"
-  },
-  {
-    "title": "Ask HN: How to Learn How to Sell?",
-    "url": "item?id=27653357",
-    "upvotes": 61,
-    "author": "giansegato",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27653357"
   },
   {
     "title": "Setup AWS Cloudwatch Monitoring and Alerts Using Bash Scripts",
     "url": "https://themythicalengineer.com/setup-aws-cloudwatch-monitoring-and-alarms.html",
-    "upvotes": 20,
+    "upvotes": 22,
     "author": "sks147",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27652092"
   },
   {
-    "title": "Cuba′s Covid vaccine rivals Pfizer, Moderna",
-    "url": "https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365",
-    "upvotes": 244,
-    "author": "colinprince",
-    "comments": 181,
-    "link": "https://news.ycombinator.com/item?id=27653868"
+    "title": "The EU’s disputed system of geographical indications is taking over the planet",
+    "url": "https://www.politico.eu/article/europe-eats-trumps-lunch/",
+    "upvotes": 57,
+    "author": "Tomte",
+    "comments": 175,
+    "link": "https://news.ycombinator.com/item?id=27649937"
   }
 ]
