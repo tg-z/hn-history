@@ -2,95 +2,95 @@
   {
     "title": "Mumble: Open-Source, Low Latency, High Quality Voice Chat",
     "url": "https://www.mumble.info/",
-    "upvotes": 201,
+    "upvotes": 227,
     "author": "danboarder",
-    "comments": 110,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=27648915"
-  },
-  {
-    "title": "ISP announces 86% slowdown “in line with others”",
-    "url": "https://doctorow.medium.com/isp-announces-86-slowdown-in-line-with-others-d0884df51fc1",
-    "upvotes": 50,
-    "author": "smackay",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27650016"
   },
   {
     "title": "I spent 5 years writing my own operating system",
     "url": "https://github.com/halfer53/winix",
-    "upvotes": 705,
+    "upvotes": 714,
     "author": "halfer53",
-    "comments": 87,
+    "comments": 92,
     "link": "https://news.ycombinator.com/item?id=27647079"
-  },
-  {
-    "title": "Sir, Please Step Away from the Terminal: Moving Away from the Tyranny of ASCII",
-    "url": "https://queue.acm.org/detail.cfm?id=1871406",
-    "upvotes": 40,
-    "author": "pcr910303",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27649431"
   },
   {
     "title": "A Proven Correct C Compiler",
     "url": "https://github.com/AbsInt/CompCert",
-    "upvotes": 121,
+    "upvotes": 128,
     "author": "mbrodersen",
-    "comments": 42,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27648735"
   },
   {
     "title": "Tiddlywiki with Roam Research like functionality",
     "url": "https://rr-tw5.github.io/",
-    "upvotes": 28,
+    "upvotes": 31,
     "author": "thunderbong",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27649667"
   },
   {
     "title": "Avoiding Complexity with Systemd",
     "url": "https://mgdm.net/weblog/systemd/",
-    "upvotes": 62,
+    "upvotes": 75,
     "author": "irl_",
-    "comments": 20,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27649342"
   },
   {
-    "title": "World’s smallest, best acoustic amplifier emerges from 50-year-old hypothesis",
-    "url": "https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html",
-    "upvotes": 88,
-    "author": "skunkworker",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27648809"
+    "title": "Sir, Please Step Away from the Terminal: Moving Away from the Tyranny of ASCII",
+    "url": "https://queue.acm.org/detail.cfm?id=1871406",
+    "upvotes": 44,
+    "author": "pcr910303",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=27649431"
   },
   {
     "title": "Michelin Puts Puffy Sails on Cargo Ships – Boosts Fuel Efficiency 20%",
     "url": "https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter",
-    "upvotes": 45,
+    "upvotes": 56,
     "author": "rmason",
-    "comments": 17,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27649099"
+  },
+  {
+    "title": "World’s smallest, best acoustic amplifier emerges from 50-year-old hypothesis",
+    "url": "https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html",
+    "upvotes": 91,
+    "author": "skunkworker",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27648809"
   },
   {
     "title": "Secure Messaging, Anywhere",
     "url": "https://briarproject.org/",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "Tomte",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27649123"
   },
   {
     "title": "OpenSmalltalk – cross-platform virtual machine for Squeak, Pharo, Cuis, Newspeak",
     "url": "https://opensmalltalk.org/",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "pabs3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27648568"
   },
   {
+    "title": "The EU’s disputed system of geographical indications is taking over the planet",
+    "url": "https://www.politico.eu/article/europe-eats-trumps-lunch/",
+    "upvotes": 7,
+    "author": "Tomte",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27649937"
+  },
+  {
     "title": "Guerrilla guide to CNC machining, mold making, and resin casting",
     "url": "https://lcamtuf.coredump.cx/gcnc/",
-    "upvotes": 204,
+    "upvotes": 212,
     "author": "Tomte",
     "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27645605"
@@ -98,15 +98,23 @@
   {
     "title": "Notes on streaming large API responses",
     "url": "https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/",
-    "upvotes": 58,
+    "upvotes": 62,
     "author": "simonw",
-    "comments": 22,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27632949"
+  },
+  {
+    "title": "What is simplicity in programming and why does it matter?",
+    "url": "https://blog.jakubholy.net/2021/simplicity/",
+    "upvotes": 20,
+    "author": "holyjak",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27639810"
   },
   {
     "title": "Mathematicians Explore Mirror Link Between Two Geometric Worlds",
     "url": "https://www.quantamagazine.org/mathematicians-explore-mirror-link-between-two-geometric-worlds-20180409/",
-    "upvotes": 11,
+    "upvotes": 13,
     "author": "nsoonhui",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27649283"
@@ -114,34 +122,26 @@
   {
     "title": "Crash-Only Software",
     "url": "https://www.usenix.org/legacy/events/hotos03/tech/full_papers/candea/candea.pdf",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "rdpintqogeogsaa",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27639629"
   },
   {
-    "title": "How Math Might Reveal Quantum Gravity",
-    "url": "https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/",
-    "upvotes": 52,
-    "author": "doctoboggan",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27647651"
-  },
-  {
     "title": "Why did we ever think a student's first programming language didn't matter?",
     "url": "https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext",
-    "upvotes": 117,
+    "upvotes": 120,
     "author": "azhenley",
-    "comments": 188,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=27646814"
   },
   {
-    "title": "What is simplicity in programming and why does it matter?",
-    "url": "https://blog.jakubholy.net/2021/simplicity/",
-    "upvotes": 17,
-    "author": "holyjak",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27639810"
+    "title": "How Math Might Reveal Quantum Gravity",
+    "url": "https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/",
+    "upvotes": 53,
+    "author": "doctoboggan",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27647651"
   },
   {
     "title": "The school for sysadmins who can’t timesync good",
@@ -152,87 +152,87 @@
     "link": "https://news.ycombinator.com/item?id=27646652"
   },
   {
-    "title": "Telehack – Simulation of a Stylized Arpanet/Usenet Circa 1985-1990",
-    "url": "https://telehack.com/",
-    "upvotes": 9,
-    "author": "ecliptik",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27649547"
-  },
-  {
-    "title": "Why do recipe writers lie about how long it takes to caramelize onions?",
-    "url": "https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html",
-    "upvotes": 91,
-    "author": "tosh",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=27632835"
-  },
-  {
-    "title": "CRISPR gene-editing breakthrough opens door to treating broad array of diseases",
-    "url": "https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it",
-    "upvotes": 515,
-    "author": "hassanahmad",
-    "comments": 193,
-    "link": "https://news.ycombinator.com/item?id=27643517"
-  },
-  {
     "title": "Puppy Linux on Wayland, Sort Of",
     "url": "https://forum.puppylinux.com/viewtopic.php?f=40&t=2967",
-    "upvotes": 16,
+    "upvotes": 21,
     "author": "dimkr1",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27648960"
   },
   {
+    "title": "Why do recipe writers lie about how long it takes to caramelize onions?",
+    "url": "https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html",
+    "upvotes": 96,
+    "author": "tosh",
+    "comments": 73,
+    "link": "https://news.ycombinator.com/item?id=27632835"
+  },
+  {
+    "title": "CRISPR gene-editing breakthrough opens door to treating broad array of diseases",
+    "url": "https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it",
+    "upvotes": 516,
+    "author": "hassanahmad",
+    "comments": 196,
+    "link": "https://news.ycombinator.com/item?id=27643517"
+  },
+  {
     "title": "A side project story: octave.im",
     "url": "https://frantic.im/octave/",
-    "upvotes": 19,
+    "upvotes": 22,
     "author": "pcr910303",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27648935"
   },
   {
-    "title": "Crazy Conclusions in Early Childhood",
-    "url": "https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html",
-    "upvotes": 81,
-    "author": "DoreenMichele",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=27648477"
+    "title": "Telehack – Simulation of a Stylized Arpanet/Usenet Circa 1985-1990",
+    "url": "https://telehack.com/",
+    "upvotes": 10,
+    "author": "ecliptik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27649547"
   },
   {
-    "title": "Rescale",
-    "url": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
+    "title": "Crazy Conclusions in Early Childhood",
+    "url": "https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html",
+    "upvotes": 86,
+    "author": "DoreenMichele",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27648477"
   },
   {
     "title": "So you want to build a house more efficiently",
     "url": "https://austinvernon.eth.link/blog/construction.html",
     "upvotes": 405,
     "author": "srl",
-    "comments": 389,
+    "comments": 390,
     "link": "https://news.ycombinator.com/item?id=27644334"
   },
   {
     "title": "ATM NFC Hack",
     "url": "https://www.wired.com/story/atm-hack-nfc-bugs-point-of-sale/",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "r3mc0",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27627973"
   },
   {
+    "title": "Rescale",
+    "url": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
+  },
+  {
     "title": "The Evolution of the Unix System Architecture",
     "url": "https://www.spinellis.gr/blog/20210618/index.html",
-    "upvotes": 25,
+    "upvotes": 28,
     "author": "chubot",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27648248"
   },
   {
-    "title": "Advancing Bridge Inspection",
-    "url": "https://insideunmannedsystems.com/advancing%E2%80%A8-bridge-inspection/",
-    "upvotes": 24,
-    "author": "notagain",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27639855"
+    "title": "No Space Left to Run: China's Transnational Repression of Uyghurs",
+    "url": "https://uhrp.org/report/no-space-left-to-run-chinas-transnational-repression-of-uyghurs/",
+    "upvotes": 90,
+    "author": "giuliomagnifico",
+    "comments": 33,
+    "link": "https://news.ycombinator.com/item?id=27649304"
   }
 ]
