@@ -2,57 +2,65 @@
   {
     "title": "Mumble: Open-Source, Low Latency, High Quality Voice Chat",
     "url": "https://www.mumble.info/",
-    "upvotes": 296,
+    "upvotes": 314,
     "author": "danboarder",
-    "comments": 157,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=27648915"
   },
   {
     "title": "A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT",
     "url": "https://arxiv.org/abs/2106.12684",
-    "upvotes": 15,
+    "upvotes": 19,
     "author": "belter",
-    "comments": null,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27650879"
+  },
+  {
+    "title": "Roblox on Linux with recent Wine 6.11",
+    "url": "https://roblox.fandom.com/wiki/Roblox_on_Linux",
+    "upvotes": 15,
+    "author": "homarp",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27651224"
   },
   {
     "title": "I spent 5 years writing my own operating system",
     "url": "https://github.com/halfer53/winix",
-    "upvotes": 768,
+    "upvotes": 776,
     "author": "halfer53",
-    "comments": 115,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=27647079"
   },
   {
     "title": "Avoiding Complexity with Systemd",
     "url": "https://mgdm.net/weblog/systemd/",
-    "upvotes": 117,
+    "upvotes": 128,
     "author": "irl_",
-    "comments": 71,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=27649342"
   },
   {
     "title": "Michelin Puts Puffy Sails on Cargo Ships",
     "url": "https://spectrum.ieee.org/energywise/green-tech/wind/michelin-puffy-sails-cargo-ships-improve-fuel-economy#.YNezQMYEw4I.twitter",
-    "upvotes": 97,
+    "upvotes": 101,
     "author": "rmason",
-    "comments": 54,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27649099"
   },
   {
     "title": "Tiddlywiki with Roam Research like functionality",
     "url": "https://rr-tw5.github.io/",
-    "upvotes": 49,
+    "upvotes": 53,
     "author": "thunderbong",
-    "comments": 24,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27649667"
   },
   {
     "title": "A Proven Correct C Compiler",
     "url": "https://github.com/AbsInt/CompCert",
-    "upvotes": 149,
+    "upvotes": 152,
     "author": "mbrodersen",
-    "comments": 73,
+    "comments": 77,
     "link": "https://news.ycombinator.com/item?id=27648735"
   },
   {
@@ -60,33 +68,33 @@
     "url": "https://jobs.lever.co/clerky/295375d9-c3d9-4ec8-99e0-bc5ac6232a64?lever-origin=applied&lever-source%5B%5D=HN"
   },
   {
-    "title": "To move forward with programming languages we need to break free of ASCII",
-    "url": "https://queue.acm.org/detail.cfm?id=1871406",
-    "upvotes": 61,
-    "author": "pcr910303",
-    "comments": 83,
-    "link": "https://news.ycombinator.com/item?id=27649431"
-  },
-  {
     "title": "Why do recipe writers lie about how long it takes to caramelize onions?",
     "url": "https://slate.com/human-interest/2012/05/how-to-cook-onions-why-recipe-writers-lie-and-lie-about-how-long-they-take-to-caramelize.html",
-    "upvotes": 136,
+    "upvotes": 153,
     "author": "tosh",
-    "comments": 107,
+    "comments": 116,
     "link": "https://news.ycombinator.com/item?id=27632835"
+  },
+  {
+    "title": "To move forward with programming languages we need to break free of ASCII",
+    "url": "https://queue.acm.org/detail.cfm?id=1871406",
+    "upvotes": 62,
+    "author": "pcr910303",
+    "comments": 93,
+    "link": "https://news.ycombinator.com/item?id=27649431"
   },
   {
     "title": "World’s smallest, best acoustic amplifier emerges from 50-year-old hypothesis",
     "url": "https://www.sandia.gov/news/publications/labnews/articles/2021/06-18/acoustic.html",
-    "upvotes": 118,
+    "upvotes": 124,
     "author": "skunkworker",
-    "comments": 20,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27648809"
   },
   {
     "title": "Secure Messaging, Anywhere",
     "url": "https://briarproject.org/",
-    "upvotes": 73,
+    "upvotes": 74,
     "author": "Tomte",
     "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27649123"
@@ -94,26 +102,42 @@
   {
     "title": "Mathematicians Explore Mirror Link Between Two Geometric Worlds",
     "url": "https://www.quantamagazine.org/mathematicians-explore-mirror-link-between-two-geometric-worlds-20180409/",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "nsoonhui",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27649283"
+  },
+  {
+    "title": "What is simplicity in programming and why does it matter?",
+    "url": "https://blog.jakubholy.net/2021/simplicity/",
+    "upvotes": 36,
+    "author": "holyjak",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27639810"
+  },
+  {
+    "title": "Telehack – Simulation of a Stylized Arpanet/Usenet Circa 1985-1990",
+    "url": "https://telehack.com/",
+    "upvotes": 24,
+    "author": "ecliptik",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27649547"
   },
   {
     "title": "OpenSmalltalk – cross-platform virtual machine for Squeak, Pharo, Cuis, Newspeak",
     "url": "https://opensmalltalk.org/",
-    "upvotes": 65,
+    "upvotes": 68,
     "author": "pabs3",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27648568"
   },
   {
-    "title": "State of Software Security: open-source Edition",
-    "url": "https://www.veracode.com/blog/research/announcing-state-software-security-v11-open-source-edition",
-    "upvotes": 10,
-    "author": "giuliomagnifico",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27650548"
+    "title": "Notes on streaming large API responses",
+    "url": "https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/",
+    "upvotes": 82,
+    "author": "simonw",
+    "comments": 37,
+    "link": "https://news.ycombinator.com/item?id=27632949"
   },
   {
     "title": "Lexss: Bypassing Lexical Parsing Security Controls",
@@ -124,68 +148,52 @@
     "link": "https://news.ycombinator.com/item?id=27628498"
   },
   {
-    "title": "Andreessen on Crypto",
-    "url": "https://marginalrevolution.com/marginalrevolution/2021/06/andreessen-on-crypto.html",
-    "upvotes": 26,
-    "author": "smitty1e",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27650745"
-  },
-  {
-    "title": "What is simplicity in programming and why does it matter?",
-    "url": "https://blog.jakubholy.net/2021/simplicity/",
-    "upvotes": 34,
-    "author": "holyjak",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27639810"
+    "title": "State of Software Security: open-source Edition",
+    "url": "https://www.veracode.com/blog/research/announcing-state-software-security-v11-open-source-edition",
+    "upvotes": 10,
+    "author": "giuliomagnifico",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27650548"
   },
   {
     "title": "A Name Resolver for the Distributed Web",
     "url": "https://blog.cloudflare.com/cloudflare-distributed-web-resolver/",
-    "upvotes": 16,
+    "upvotes": 19,
     "author": "warenhor",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27641323"
   },
   {
-    "title": "Telehack – Simulation of a Stylized Arpanet/Usenet Circa 1985-1990",
-    "url": "https://telehack.com/",
-    "upvotes": 21,
-    "author": "ecliptik",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27649547"
-  },
-  {
-    "title": "Notes on streaming large API responses",
-    "url": "https://simonwillison.net/2021/Jun/25/streaming-large-api-responses/",
-    "upvotes": 77,
-    "author": "simonw",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27632949"
-  },
-  {
     "title": "Why did we ever think a student's first programming language didn't matter?",
     "url": "https://m-cacm.acm.org/blogs/blog-cacm/253393-why-did-we-ever-think-the-first-programming-language-didnt-matter/fulltext",
-    "upvotes": 136,
+    "upvotes": 141,
     "author": "azhenley",
     "comments": 219,
     "link": "https://news.ycombinator.com/item?id=27646814"
   },
   {
+    "title": "Startup leaders need to learn how to build companies ready for crisis",
+    "url": "https://techcrunch.com/2021/06/26/startup-leaders-need-to-learn-how-to-build-companies-ready-for-crisis/",
+    "upvotes": 5,
+    "author": "matsz",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27651255"
+  },
+  {
     "title": "ISP announces 86% slowdown “in line with others”",
     "url": "https://doctorow.medium.com/isp-announces-86-slowdown-in-line-with-others-d0884df51fc1",
-    "upvotes": 82,
+    "upvotes": 94,
     "author": "smackay",
-    "comments": 81,
+    "comments": 90,
     "link": "https://news.ycombinator.com/item?id=27650016"
   },
   {
-    "title": "The Economics of Dollar Stores",
-    "url": "https://thehustle.co/the-economics-of-dollar-stores",
-    "upvotes": 59,
-    "author": "pseudolus",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27650477"
+    "title": "Crazy Conclusions in Early Childhood",
+    "url": "https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html",
+    "upvotes": 110,
+    "author": "DoreenMichele",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27648477"
   },
   {
     "title": "Crash-Only Software",
@@ -196,43 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=27639629"
   },
   {
-    "title": "Crazy Conclusions in Early Childhood",
-    "url": "https://raisingfutureadults.blogspot.com/2021/06/crazeh-conclusions-in-early-childhood.html",
-    "upvotes": 106,
-    "author": "DoreenMichele",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=27648477"
-  },
-  {
     "title": "The school for sysadmins who can’t timesync good",
     "url": "https://libertysys.com.au/2016/09/the-school-for-sysadmins-who-cant-timesync-good-and-wanna-learn-to-do-other-stuff-good-too-part-1-the-problem-with-ntp/",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "zdw",
     "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27646652"
   },
   {
+    "title": "CRISPR gene-editing breakthrough opens door to treating broad array of diseases",
+    "url": "https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it",
+    "upvotes": 532,
+    "author": "hassanahmad",
+    "comments": 206,
+    "link": "https://news.ycombinator.com/item?id=27643517"
+  },
+  {
     "title": "How Math Might Reveal Quantum Gravity",
     "url": "https://www.quantamagazine.org/nathan-seiberg-on-how-math-might-reveal-quantum-gravity-20210624/",
-    "upvotes": 56,
+    "upvotes": 57,
     "author": "doctoboggan",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27647651"
   },
   {
-    "title": "CRISPR gene-editing breakthrough opens door to treating broad array of diseases",
-    "url": "https://www.npr.org/sections/health-shots/2021/06/26/1009817539/he-inherited-a-devastating-disease-a-crispr-gene-editing-breakthrough-stopped-it",
-    "upvotes": 530,
-    "author": "hassanahmad",
-    "comments": 203,
-    "link": "https://news.ycombinator.com/item?id=27643517"
-  },
-  {
-    "title": "Exceptional Naming",
-    "url": "https://kevlinhenney.medium.com/exceptional-naming-6e3c8f5bffac",
-    "upvotes": 50,
-    "author": "firstbase",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27639802"
+    "title": "The Economics of Dollar Stores",
+    "url": "https://thehustle.co/the-economics-of-dollar-stores",
+    "upvotes": 69,
+    "author": "pseudolus",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=27650477"
   }
 ]
