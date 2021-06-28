@@ -1,75 +1,83 @@
 [
   {
-    "title": "The 'Fuck You' Pattern",
-    "url": "https://cedwards.xyz/the-fuck-you-pattern/",
-    "upvotes": 786,
-    "author": "c7DJTLrn",
-    "comments": 357,
-    "link": "https://news.ycombinator.com/item?id=27666455"
-  },
-  {
     "title": "Judge dismisses FTC antitrust complaint against Facebook",
     "url": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
-    "upvotes": 174,
+    "upvotes": 203,
     "author": "ChrisArchitect",
-    "comments": 94,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=27666439"
   },
   {
     "title": "Groundbreaking new bridge design could transform rail crossings across the UK",
     "url": "https://www.railadvent.co.uk/2021/06/groundbreaking-new-bridge-design-could-transform-rail-crossings-across-the-uk.html",
-    "upvotes": 37,
+    "upvotes": 50,
     "author": "sefrost",
-    "comments": 18,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27649533"
   },
   {
     "title": "Temporal: Getting started with JavaScript's new date time API",
     "url": "https://2ality.com/2021/06/temporal-api.html",
-    "upvotes": 269,
+    "upvotes": 276,
     "author": "Amorymeltzer",
-    "comments": 130,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=27661667"
   },
   {
     "title": "Nvidia Vid2vid-Cameo Demo",
     "url": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
-    "upvotes": 53,
+    "upvotes": 57,
     "author": "jonbaer",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27666493"
   },
   {
     "title": "Biohackers take aim at big pharma’s stranglehold on insulin",
     "url": "https://www.freethink.com/shows/just-might-work/how-to-make-insulin",
-    "upvotes": 292,
+    "upvotes": 306,
     "author": "HiroProtagonist",
-    "comments": 264,
+    "comments": 270,
     "link": "https://news.ycombinator.com/item?id=27661637"
   },
   {
     "title": "Nullfs: A virtual black hole file system that behaves like /dev/null",
     "url": "https://github.com/abbbi/nullfsvfs",
-    "upvotes": 32,
+    "upvotes": 39,
     "author": "signa11",
-    "comments": 19,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27641017"
   },
   {
     "title": "The slow rise of robots in the data center",
     "url": "https://www.datacenterdynamics.com/en/analysis/caves-of-steel/",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "vanburen",
-    "comments": 45,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27640907"
   },
   {
     "title": "YouTube reinstates Right Wing Watch",
     "url": "https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286",
-    "upvotes": 27,
+    "upvotes": 59,
     "author": "ortusdux",
-    "comments": 11,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27668935"
+  },
+  {
+    "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp",
+    "url": "https://github.com/codr7/whirlog",
+    "upvotes": 36,
+    "author": "codr7",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27657164"
+  },
+  {
+    "title": "The 'Fuck You' Pattern",
+    "url": "https://cedwards.xyz/the-fuck-you-pattern/",
+    "upvotes": 824,
+    "author": "c7DJTLrn",
+    "comments": 378,
+    "link": "https://news.ycombinator.com/item?id=27666455"
   },
   {
     "title": "SIRUM (YC W15) is hiring to make access to medicine more equitable",
@@ -78,15 +86,15 @@
   {
     "title": "This Chemical Does Not Exist",
     "url": "https://www.thischemicaldoesnotexist.com/",
-    "upvotes": 83,
+    "upvotes": 90,
     "author": "optimalsolver",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27663200"
   },
   {
     "title": "Show HN: Art Generator Neoplasticism",
     "url": "https://github.com/andronov04/mondrian-art",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "andronov004",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27665594"
@@ -94,145 +102,137 @@
   {
     "title": "Show HN: The Sample – newsletters curated for you with machine learning",
     "url": "https://sample.findka.com/?ref=showhn",
-    "upvotes": 44,
+    "upvotes": 47,
     "author": "jacobobryant",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27664020"
   },
   {
-    "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp",
-    "url": "https://github.com/codr7/whirlog",
-    "upvotes": 29,
-    "author": "codr7",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27657164"
-  },
-  {
     "title": "Show HN: Optery – See the private info data brokers are posting about you online",
     "url": "https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/",
-    "upvotes": 62,
+    "upvotes": 71,
     "author": "beyondd",
-    "comments": 32,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27662114"
   },
   {
-    "title": "SafeDollar ‘stablecoin’ drops to $0 following DeFi exploit on Polygon",
-    "url": "https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/",
-    "upvotes": 438,
-    "author": "awb",
-    "comments": 458,
-    "link": "https://news.ycombinator.com/item?id=27664911"
+    "title": "Prefix Sums and Their Applications",
+    "url": "https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf",
+    "upvotes": 6,
+    "author": "tosh",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27650259"
+  },
+  {
+    "title": "The Sears Tele-Games Pinball Breakaway",
+    "url": "https://nicole.express/2021/pinball-in-your-house.html",
+    "upvotes": 5,
+    "author": "zdw",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27646724"
+  },
+  {
+    "title": "A little-known Soviet mission to rescue a dead space station",
+    "url": "https://arstechnica.com/science/2014/09/the-little-known-soviet-mission-to-rescue-a-dead-space-station/",
+    "upvotes": 10,
+    "author": "Svetlitski",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27639472"
   },
   {
     "title": "Watermark: Along the California Aqueduct",
     "url": "https://placesjournal.org/article/watermark-along-the-california-aqueduct/",
-    "upvotes": 18,
+    "upvotes": 22,
     "author": "samclemens",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27637422"
   },
   {
-    "title": "An announcement about the comment section",
-    "url": "https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section",
-    "upvotes": 93,
-    "author": "raphlinus",
-    "comments": 127,
-    "link": "https://news.ycombinator.com/item?id=27665584"
-  },
-  {
     "title": "China releases videos of its Zhurong Mars rover",
     "url": "https://www.bbc.com/news/science-environment-57628653",
-    "upvotes": 194,
+    "upvotes": 199,
     "author": "pseudolus",
-    "comments": 120,
+    "comments": 125,
     "link": "https://news.ycombinator.com/item?id=27660107"
   },
   {
     "title": "Amazon is using algorithms with little human intervention to fire Flex workers",
     "url": "https://arstechnica.com/tech-policy/2021/06/amazon-is-firing-flex-workers-using-algorithms-with-little-human-intervention/",
-    "upvotes": 147,
+    "upvotes": 162,
     "author": "carride",
-    "comments": 156,
+    "comments": 163,
     "link": "https://news.ycombinator.com/item?id=27664467"
   },
   {
-    "title": "Dear Google: Public domain compositions exist",
-    "url": "https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist",
-    "upvotes": 613,
-    "author": "mod50ack",
-    "comments": 176,
-    "link": "https://news.ycombinator.com/item?id=27659690"
+    "title": "An announcement about the comment section",
+    "url": "https://blogs.sciencemag.org/pipeline/archives/2021/06/28/an-announcement-about-the-comment-section",
+    "upvotes": 100,
+    "author": "raphlinus",
+    "comments": 134,
+    "link": "https://news.ycombinator.com/item?id=27665584"
   },
   {
-    "title": "Subdomains for IPFS",
-    "url": "https://ipds.io/",
-    "upvotes": 101,
-    "author": "dumitruflorin",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27660253"
-  },
-  {
-    "title": "Lambda Calculus Examples",
-    "url": "https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/lambda-calculus-handout.pdf",
-    "upvotes": 122,
-    "author": "alphanumeric0",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27648871"
+    "title": "SafeDollar ‘stablecoin’ drops to $0 following DeFi exploit on Polygon",
+    "url": "https://cryptoslate.com/safedollar-stablecoin-drops-to-0-following-248000-defi-exploit-on-polygon/",
+    "upvotes": 447,
+    "author": "awb",
+    "comments": 478,
+    "link": "https://news.ycombinator.com/item?id=27664911"
   },
   {
     "title": "Re-counting the cognitive history of numerals",
     "url": "https://thereader.mitpress.mit.edu/recounting-cognitive-history-of-numerals/",
-    "upvotes": 26,
+    "upvotes": 29,
     "author": "anarbadalov",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27656696"
   },
   {
+    "title": "Dear Google: Public domain compositions exist",
+    "url": "https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist",
+    "upvotes": 617,
+    "author": "mod50ack",
+    "comments": 178,
+    "link": "https://news.ycombinator.com/item?id=27659690"
+  },
+  {
+    "title": "Subdomains for IPFS",
+    "url": "https://ipds.io/",
+    "upvotes": 105,
+    "author": "dumitruflorin",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27660253"
+  },
+  {
+    "title": "Lambda Calculus Examples",
+    "url": "https://www.ics.uci.edu/~lopes/teaching/inf212W12/readings/lambda-calculus-handout.pdf",
+    "upvotes": 124,
+    "author": "alphanumeric0",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27648871"
+  },
+  {
     "title": "A Plea for Lean Software",
     "url": "https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf",
-    "upvotes": 128,
+    "upvotes": 130,
     "author": "dvfjsdhgfv",
     "comments": 129,
     "link": "https://news.ycombinator.com/item?id=27661559"
   },
   {
-    "title": "The free lunch is over: a fundamental turn toward concurrency in software",
-    "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-    "upvotes": 106,
-    "author": "pcr910303",
-    "comments": 88,
-    "link": "https://news.ycombinator.com/item?id=27649343"
-  },
-  {
     "title": "Intel to disable TSX by default on more CPUs with new microcode",
     "url": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-TSX-Off-New-Microcode",
-    "upvotes": 103,
+    "upvotes": 109,
     "author": "pella",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27664856"
   },
   {
     "title": "JavaScript Is Weird",
     "url": "https://jsisweird.com/",
-    "upvotes": 346,
+    "upvotes": 348,
     "author": "robin_reala",
-    "comments": 323,
+    "comments": 330,
     "link": "https://news.ycombinator.com/item?id=27659590"
-  },
-  {
-    "title": "Ask HN: You have one shot to redesign the Internet – what do you change?",
-    "url": "item?id=27663618",
-    "upvotes": 108,
-    "author": "lowercasename",
-    "comments": 222,
-    "link": "https://news.ycombinator.com/item?id=27663618"
-  },
-  {
-    "title": "Show HN: Anki alternative with integrated notes and import/export",
-    "url": "https://get21stnight.com/",
-    "upvotes": 97,
-    "author": "klevertree",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=27662266"
   }
 ]
