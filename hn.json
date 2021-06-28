@@ -1,51 +1,67 @@
 [
   {
-    "title": "Problems with math rendering on the web",
-    "url": "https://danilafe.com/blog/math_rendering_is_wrong/",
-    "upvotes": 49,
-    "author": "uuuuuuuuuuuu",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27656446"
-  },
-  {
     "title": "Let's code a TCP/IP stack",
     "url": "https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
-    "upvotes": 241,
+    "upvotes": 251,
     "author": "peter_d_sherman",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27654182"
+  },
+  {
+    "title": "Problems with math rendering on the web",
+    "url": "https://danilafe.com/blog/math_rendering_is_wrong/",
+    "upvotes": 52,
+    "author": "uuuuuuuuuuuu",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27656446"
   },
   {
     "title": "Unison Programming Language",
     "url": "https://www.unisonweb.org/",
-    "upvotes": 307,
+    "upvotes": 313,
     "author": "gautamcgoel",
-    "comments": 96,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=27652677"
-  },
-  {
-    "title": "The parallel universe of FireWire hubs",
-    "url": "https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html",
-    "upvotes": 30,
-    "author": "classichasclass",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27656462"
   },
   {
     "title": "x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming",
     "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-    "upvotes": 146,
+    "upvotes": 154,
     "author": "peter_d_sherman",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27654257"
+  },
+  {
+    "title": "The parallel universe of FireWire hubs",
+    "url": "https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html",
+    "upvotes": 35,
+    "author": "classichasclass",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27656462"
+  },
+  {
+    "title": "Garage Door Monitor",
+    "url": "https://github.com/casspop/ohd",
+    "upvotes": 15,
+    "author": "zapbeeb",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27639537"
   },
   {
     "title": "Ask HN: Good books/courses to learn networking essentials for web developers?",
     "url": "item?id=27650775",
-    "upvotes": 284,
+    "upvotes": 288,
     "author": "giulianopz",
     "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27650775"
+  },
+  {
+    "title": "Onivim 2 is a retro-futuristic modal editor",
+    "url": "https://v2.onivim.io",
+    "upvotes": 140,
+    "author": "niedzielski",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=27627275"
   },
   {
     "title": "The wonderful world of Surreal numbers",
@@ -56,75 +72,59 @@
     "link": "https://news.ycombinator.com/item?id=27640999"
   },
   {
-    "title": "Onivim 2 is a retro-futuristic modal editor",
-    "url": "https://v2.onivim.io",
-    "upvotes": 136,
-    "author": "niedzielski",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=27627275"
-  },
-  {
-    "title": "BLisp: A Statically Typed Lisp Like Language",
-    "url": "https://ytakano.github.io/blisp/",
-    "upvotes": 35,
-    "author": "agentofuser",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27640984"
-  },
-  {
     "title": "Binance banned from doing business in UK",
     "url": "https://www.bloomberg.com/news/articles/2021-06-27/u-k-financial-regulator-bars-crypto-exchange-binance",
-    "upvotes": 206,
+    "upvotes": 215,
     "author": "Osiris30",
-    "comments": 161,
+    "comments": 166,
     "link": "https://news.ycombinator.com/item?id=27651730"
-  },
-  {
-    "title": "Typed Programs Don't Leak Data",
-    "url": "https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html",
-    "upvotes": 74,
-    "author": "todsacerdoti",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27654807"
-  },
-  {
-    "title": "Reverse-engineering the Final Fantasy: Theatrhythm track format",
-    "url": "https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md",
-    "upvotes": 51,
-    "author": "mpiroot",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27654966"
-  },
-  {
-    "title": "Challenges in the diagnosis of magnesium status",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/",
-    "upvotes": 459,
-    "author": "johndcook",
-    "comments": 306,
-    "link": "https://news.ycombinator.com/item?id=27654787"
-  },
-  {
-    "title": "Garage Door Monitor",
-    "url": "https://github.com/casspop/ohd",
-    "upvotes": 9,
-    "author": "zapbeeb",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27639537"
   },
   {
     "title": "A rediscovered lost memoir about John Locke",
     "url": "https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous",
-    "upvotes": 13,
+    "upvotes": 16,
     "author": "pepys",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27649211"
   },
   {
+    "title": "Typed Programs Don't Leak Data",
+    "url": "https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html",
+    "upvotes": 75,
+    "author": "todsacerdoti",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27654807"
+  },
+  {
+    "title": "BLisp: A Statically Typed Lisp Like Language",
+    "url": "https://ytakano.github.io/blisp/",
+    "upvotes": 36,
+    "author": "agentofuser",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27640984"
+  },
+  {
+    "title": "Reverse-engineering the Final Fantasy: Theatrhythm track format",
+    "url": "https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md",
+    "upvotes": 53,
+    "author": "mpiroot",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27654966"
+  },
+  {
+    "title": "Challenges in the diagnosis of magnesium status",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163803/",
+    "upvotes": 462,
+    "author": "johndcook",
+    "comments": 311,
+    "link": "https://news.ycombinator.com/item?id=27654787"
+  },
+  {
     "title": "Classified Ministry of Defence documents found at bus stop",
     "url": "https://www.bbc.com/news/uk-57624942",
-    "upvotes": 112,
+    "upvotes": 115,
     "author": "georgecmu",
-    "comments": 46,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27651828"
   },
   {
@@ -134,49 +134,49 @@
   {
     "title": "Privacy for Students: Surveillance Self-Defense",
     "url": "https://ssd.eff.org/en/module/privacy-students",
-    "upvotes": 147,
+    "upvotes": 150,
     "author": "sonograph",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27654178"
   },
   {
     "title": "Roblox on Linux with recent Wine 6.11",
     "url": "https://roblox.fandom.com/wiki/Roblox_on_Linux",
-    "upvotes": 167,
+    "upvotes": 168,
     "author": "homarp",
     "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27651224"
   },
   {
+    "title": "Canada to make online hate speech a crime punishable by fine",
+    "url": "https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213",
+    "upvotes": 109,
+    "author": "elorant",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=27656344"
+  },
+  {
+    "title": "Life in the Stacks: A Love Letter to Browsing",
+    "url": "https://thewalrus.ca/life-in-the-stacks-a-love-letter-to-browsing/",
+    "upvotes": 3,
+    "author": "pseudolus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27640794"
+  },
+  {
     "title": "I made Ben Eater's 8-bit breadboard computer Emulator in C++",
     "url": "https://github.com/0xhh/TinyE8",
-    "upvotes": 18,
+    "upvotes": 20,
     "author": "0xhh",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27640045"
   },
   {
-    "title": "Canada to make online hate speech a crime punishable by fine",
-    "url": "https://gizmodo.com/canada-to-make-online-hate-speech-a-crime-punishable-by-1847163213",
-    "upvotes": 91,
-    "author": "elorant",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=27656344"
-  },
-  {
-    "title": "Ask HN: How to learn how to sell?",
-    "url": "item?id=27653357",
-    "upvotes": 135,
-    "author": "giansegato",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=27653357"
-  },
-  {
     "title": "Windows 11, Amazon, and Uncomfortable Questions",
     "url": "https://commonsware.com/blog/2021/06/26/windows-11-amazon-uncomfortable-questions.html",
-    "upvotes": 414,
+    "upvotes": 419,
     "author": "ingve",
-    "comments": 220,
+    "comments": 221,
     "link": "https://news.ycombinator.com/item?id=27651983"
   },
   {
@@ -188,51 +188,51 @@
     "link": "https://news.ycombinator.com/item?id=27653628"
   },
   {
-    "title": "Why wood has gotten so dang expensive",
-    "url": "https://constructionphysics.substack.com/p/lumber-price-faq",
-    "upvotes": 239,
-    "author": "Whitespace",
-    "comments": 129,
-    "link": "https://news.ycombinator.com/item?id=27652178"
-  },
-  {
     "title": "Citing a serious flight test incident, FAA slows Boeing 777X certification",
     "url": "https://www.seattletimes.com/business/boeing-aerospace/citing-a-serious-flight-test-incident-and-lack-of-design-maturity-faa-slows-boeing-777x-certification/",
-    "upvotes": 148,
+    "upvotes": 150,
     "author": "donohoe",
-    "comments": 110,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=27652615"
   },
   {
     "title": "A Pure HTTP/3 Alternative to MQTT-over-QUIC in Resource-Constrained IoT",
     "url": "https://arxiv.org/abs/2106.12684",
-    "upvotes": 100,
+    "upvotes": 101,
     "author": "belter",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27650879"
   },
   {
-    "title": "Turbo Rascal Syntax Error",
-    "url": "https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/",
-    "upvotes": 92,
-    "author": "ibobev",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27651963"
+    "title": "Why wood has gotten so dang expensive",
+    "url": "https://constructionphysics.substack.com/p/lumber-price-faq",
+    "upvotes": 243,
+    "author": "Whitespace",
+    "comments": 129,
+    "link": "https://news.ycombinator.com/item?id=27652178"
+  },
+  {
+    "title": "Ask HN: How to learn how to sell?",
+    "url": "item?id=27653357",
+    "upvotes": 138,
+    "author": "giansegato",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27653357"
   },
   {
     "title": "Cuba′s Covid vaccine rivals Pfizer, Moderna",
     "url": "https://www.dw.com/en/cubas-covid-vaccine-rivals-biontech-pfizer-moderna/a-58052365",
-    "upvotes": 339,
+    "upvotes": 349,
     "author": "colinprince",
-    "comments": 284,
+    "comments": 290,
     "link": "https://news.ycombinator.com/item?id=27653868"
   },
   {
-    "title": "Mathematically inspired typefaces",
-    "url": "https://www.nytimes.com/2021/06/25/science/puzzles-fonts-math-demaine.html",
-    "upvotes": 61,
-    "author": "sohkamyung",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27629183"
+    "title": "Turbo Rascal Syntax Error",
+    "url": "https://lemonspawn.com/turbo-rascal-syntax-error-expected-but-begin/",
+    "upvotes": 94,
+    "author": "ibobev",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27651963"
   }
 ]
