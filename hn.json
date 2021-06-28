@@ -2,79 +2,103 @@
   {
     "title": "JavaScript Is Weird",
     "url": "https://jsisweird.com/",
-    "upvotes": 14,
+    "upvotes": 59,
     "author": "robin_reala",
-    "comments": null,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27659590"
   },
   {
-    "title": "Why Computing Students Should Contribute to Open Source Software Projects",
-    "url": "https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext",
-    "upvotes": 93,
-    "author": "sidcool",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=27658722"
+    "title": "Dear Google: Public domain compositions exist",
+    "url": "https://blog.dbmiller.org/2021-06-28-dear-google-public-domain-compositions-exist",
+    "upvotes": 30,
+    "author": "mod50ack",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27659690"
   },
   {
     "title": "FCA bans largest crypto-currency exchange Binance",
     "url": "https://www.bbc.com/news/business-57632831",
-    "upvotes": 138,
+    "upvotes": 152,
     "author": "lakis",
-    "comments": 48,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27658145"
   },
   {
     "title": "Why mimicking a device is becoming almost impossible",
     "url": "https://multilogin.com/why-mimicking-a-device-is-almost-impossible/",
-    "upvotes": 94,
+    "upvotes": 99,
     "author": "zdw",
-    "comments": 39,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27648719"
+  },
+  {
+    "title": "Why Computing Students Should Contribute to Open Source Software Projects",
+    "url": "https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext",
+    "upvotes": 100,
+    "author": "sidcool",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=27658722"
   },
   {
     "title": "Mexican billionaire Salinas says his banking business may embrace Bitcoin",
     "url": "https://www.reuters.com/business/finance/mexican-billionaire-salinas-says-his-banking-business-may-embrace-bitcoin-2021-06-28/",
-    "upvotes": 55,
+    "upvotes": 62,
     "author": "shivbhatt",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27658583"
   },
   {
     "title": "Dr. Software – Refactoring from OOP to FP [pdf]",
     "url": "https://bitgloss.ro/dr-software.pdf",
-    "upvotes": 37,
+    "upvotes": 43,
     "author": "dragosslujeru",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27658689"
   },
   {
+    "title": "Data-oriented design or why you might be shooting yourself in the foot with OOP",
+    "url": "https://gamesfromwithin.com/data-oriented-design",
+    "upvotes": 67,
+    "author": "tempodox",
+    "comments": 52,
+    "link": "https://news.ycombinator.com/item?id=27658706"
+  },
+  {
     "title": "Sriracha sauce hits $150M+/Y with no sales team, no trademark and $0 in ad spend",
     "url": "https://twitter.com/TrungTPhan/status/1409185044501987340",
-    "upvotes": 176,
+    "upvotes": 191,
     "author": "dsr12",
-    "comments": 117,
+    "comments": 126,
     "link": "https://news.ycombinator.com/item?id=27658471"
   },
   {
     "title": "Let's code a TCP/IP stack",
     "url": "https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/",
-    "upvotes": 371,
+    "upvotes": 375,
     "author": "peter_d_sherman",
-    "comments": 40,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27654182"
+  },
+  {
+    "title": "Teaching Machines: the history of personalized learning",
+    "url": "https://mitpress.mit.edu/books/teaching-machines",
+    "upvotes": 5,
+    "author": "adrian_mrd",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27639682"
   },
   {
     "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software",
     "url": "http://www.gotw.ca/publications/concurrency-ddj.htm",
-    "upvotes": 9,
+    "upvotes": 12,
     "author": "pcr910303",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27649343"
   },
   {
     "title": "Early Van Gogh sketches discovered in a book",
     "url": "https://www.theartnewspaper.com/blog/van-gogh-found-tucked-into-a-novel",
-    "upvotes": 62,
+    "upvotes": 66,
     "author": "brudgers",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27647452"
@@ -82,31 +106,23 @@
   {
     "title": "Unicode sorting is hard and why browsers added special emoji matching to regexp",
     "url": "https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching",
-    "upvotes": 68,
+    "upvotes": 71,
     "author": "todsacerdoti",
     "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27657473"
   },
   {
-    "title": "Data-oriented design or why you might be shooting yourself in the foot with OOP",
-    "url": "https://gamesfromwithin.com/data-oriented-design",
-    "upvotes": 58,
-    "author": "tempodox",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27658706"
-  },
-  {
     "title": "Problems with math rendering on the web",
     "url": "https://danilafe.com/blog/math_rendering_is_wrong/",
-    "upvotes": 106,
+    "upvotes": 108,
     "author": "uuuuuuuuuuuu",
-    "comments": 63,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27656446"
   },
   {
     "title": "x86 Bare Metal Examples: Minimal operating systems, learn x86 system programming",
     "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-    "upvotes": 229,
+    "upvotes": 230,
     "author": "peter_d_sherman",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27654257"
@@ -114,31 +130,23 @@
   {
     "title": "Tips for Better Signup / Login UX",
     "url": "https://learnui.design/blog/tips-signup-login-ux.html",
-    "upvotes": 72,
+    "upvotes": 76,
     "author": "mooreds",
-    "comments": 25,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27655328"
-  },
-  {
-    "title": "Microsoft Build 2021: My Tiny Little Summary",
-    "url": "https://patrickwu.space/2021/06/03/build-2021/",
-    "upvotes": 48,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27657723"
   },
   {
     "title": "A Declaration of the Independence of Cyberspace",
     "url": "https://www.eff.org/cyberspace-independence",
-    "upvotes": 61,
+    "upvotes": 65,
     "author": "Anon84",
-    "comments": 30,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27657311"
   },
   {
     "title": "Garage Door Monitor",
     "url": "https://github.com/casspop/ohd",
-    "upvotes": 57,
+    "upvotes": 58,
     "author": "zapbeeb",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27639537"
@@ -146,23 +154,15 @@
   {
     "title": "I made Ben Eater's 8-bit breadboard computer Emulator in C++",
     "url": "https://github.com/0xhh/TinyE8",
-    "upvotes": 74,
+    "upvotes": 79,
     "author": "0xhh",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27640045"
   },
   {
-    "title": "Trish Rothgeb coined ‘third wave’ and is looking toward coffee’s future",
-    "url": "https://www.latimes.com/food/story/2019-10-04/third-wave-coffee-trish-rothgeb",
-    "upvotes": 8,
-    "author": "sytelus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27639173"
-  },
-  {
     "title": "Cardiac: CARDboard Illustrative Aid to Computation",
     "url": "https://www.cs.drexel.edu/~bls96/museum/cardiac.html",
-    "upvotes": 25,
+    "upvotes": 27,
     "author": "blewboarwastake",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27657294"
@@ -170,69 +170,73 @@
   {
     "title": "The parallel universe of FireWire hubs",
     "url": "https://oldvcr.blogspot.com/2021/06/the-parallel-universe-of-firewire-hubs.html",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "classichasclass",
-    "comments": 41,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27656462"
+  },
+  {
+    "title": "Trish Rothgeb coined ‘third wave’ and is looking toward coffee’s future",
+    "url": "https://www.latimes.com/food/story/2019-10-04/third-wave-coffee-trish-rothgeb",
+    "upvotes": 9,
+    "author": "sytelus",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27639173"
   },
   {
     "title": "BLisp: A Statically Typed Lisp Like Language",
     "url": "https://ytakano.github.io/blisp/",
-    "upvotes": 89,
+    "upvotes": 92,
     "author": "agentofuser",
-    "comments": 31,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27640984"
+  },
+  {
+    "title": "Microsoft Build 2021: My Tiny Little Summary",
+    "url": "https://patrickwu.space/2021/06/03/build-2021/",
+    "upvotes": 51,
+    "author": "todsacerdoti",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27657723"
   },
   {
     "title": "A rediscovered lost memoir about John Locke",
     "url": "https://www.theguardian.com/books/2021/jun/24/lost-memoir-paints-revered-philosopher-john-locke-as-vain-lazy-and-pompous",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "pepys",
-    "comments": 25,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27649211"
   },
   {
     "title": "Surreal numbers",
     "url": "https://ianopolous.peergos.me/maths/surreal",
-    "upvotes": 86,
+    "upvotes": 88,
     "author": "signa11",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27640999"
   },
   {
-    "title": "Typed Programs Don't Leak Data",
-    "url": "https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html",
-    "upvotes": 113,
-    "author": "todsacerdoti",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27654807"
-  },
-  {
     "title": "Onivim 2 is a retro-futuristic modal editor",
     "url": "https://v2.onivim.io",
-    "upvotes": 182,
+    "upvotes": 184,
     "author": "niedzielski",
     "comments": 103,
     "link": "https://news.ycombinator.com/item?id=27627275"
   },
   {
-    "title": "Reverse-engineering the Final Fantasy: Theatrhythm track format",
-    "url": "https://gitlab.com/mpiroot/rideau/-/blob/master/re/re.md",
-    "upvotes": 79,
-    "author": "mpiroot",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27654966"
+    "title": "Typed Programs Don't Leak Data",
+    "url": "https://dodisturb.me/posts/2021-06-27-Typed-Programs-Dont-Leak-Data.html",
+    "upvotes": 114,
+    "author": "todsacerdoti",
+    "comments": 48,
+    "link": "https://news.ycombinator.com/item?id=27654807"
   },
   {
     "title": "Life in the Stacks: A Love Letter to Browsing",
     "url": "https://thewalrus.ca/life-in-the-stacks-a-love-letter-to-browsing/",
-    "upvotes": 25,
+    "upvotes": 26,
     "author": "pseudolus",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27640794"
-  },
-  {
-    "title": "Substack",
-    "url": "https://jobs.lever.co/substackinc/5b1f2f5c-3809-4278-b93d-379433a34d81"
   }
 ]
