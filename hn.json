@@ -2,50 +2,58 @@
   {
     "title": "GitHub Copilot: your AI pair programmer",
     "url": "https://copilot.github.com/",
-    "upvotes": 940,
+    "upvotes": 1026,
     "author": "todsacerdoti",
-    "comments": 499,
+    "comments": 536,
     "link": "https://news.ycombinator.com/item?id=27676266"
   },
   {
     "title": "How to Work Hard",
     "url": "http://paulgraham.com/hwh.html",
-    "upvotes": 412,
+    "upvotes": 448,
     "author": "razin",
-    "comments": 482,
+    "comments": 504,
     "link": "https://news.ycombinator.com/item?id=27675603"
   },
   {
     "title": "Stepping Back from Speaking",
     "url": "https://martinfowler.com/articles/202106-reducing-speaking.html",
-    "upvotes": 141,
+    "upvotes": 158,
     "author": "alfredbez",
-    "comments": 32,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27677001"
+  },
+  {
+    "title": "An EPYC escape: Case-study of a KVM breakout",
+    "url": "https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html",
+    "upvotes": 35,
+    "author": "headalgorithm",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27678535"
   },
   {
     "title": "MIT and Harvard agree to transfer edX to ed-tech firm 2U",
     "url": "https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629",
-    "upvotes": 265,
+    "upvotes": 279,
     "author": "rolandm",
-    "comments": 125,
+    "comments": 128,
     "link": "https://news.ycombinator.com/item?id=27674413"
-  },
-  {
-    "title": "Google Compute Engine VM takeover via DHCP flood",
-    "url": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
-    "upvotes": 341,
-    "author": "ithkuil",
-    "comments": 106,
-    "link": "https://news.ycombinator.com/item?id=27673933"
   },
   {
     "title": "The Unlikely Survival of the 1,081 Year-Old Redwood El Palo Alto",
     "url": "https://www.nytimes.com/2021/06/26/us/palo-alto-redwood.html",
-    "upvotes": 30,
+    "upvotes": 45,
     "author": "igonvalue",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27647551"
+  },
+  {
+    "title": "Google Compute Engine VM takeover via DHCP flood",
+    "url": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
+    "upvotes": 348,
+    "author": "ithkuil",
+    "comments": 109,
+    "link": "https://news.ycombinator.com/item?id=27673933"
   },
   {
     "title": "ReadMe",
@@ -54,185 +62,177 @@
   {
     "title": "Pfizer and Moderna vaccines may produce lasting immunity",
     "url": "https://www.nature.com/articles/s41586-021-03738-2",
-    "upvotes": 62,
+    "upvotes": 97,
     "author": "jcarpio",
-    "comments": 37,
+    "comments": 75,
     "link": "https://news.ycombinator.com/item?id=27677875"
-  },
-  {
-    "title": "My approach to taking notes in meetings",
-    "url": "https://blog.witful.com/how-i-take-notes-in-meetings/",
-    "upvotes": 43,
-    "author": "tylertreat",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27664419"
-  },
-  {
-    "title": "An EPYC escape: Case-study of a KVM breakout",
-    "url": "https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html",
-    "upvotes": 8,
-    "author": "headalgorithm",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27678535"
   },
   {
     "title": "Physicists confirm two cases of “elusive” black hole/neutron star mergers",
     "url": "https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/",
-    "upvotes": 33,
+    "upvotes": 40,
     "author": "wglb",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27676066"
   },
   {
-    "title": "Economics of Innovation: Detailed Reading List",
-    "url": "http://matt-clancy.com/economics-of-innovation-detailed-reading-list/",
+    "title": "My approach to taking notes in meetings",
+    "url": "https://blog.witful.com/how-i-take-notes-in-meetings/",
     "upvotes": 47,
-    "author": "necrodome",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27659956"
+    "author": "tylertreat",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27664419"
   },
   {
     "title": "Concrete: The material that's 'too vast to imagine'",
     "url": "https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age",
-    "upvotes": 90,
+    "upvotes": 95,
     "author": "DrNuke",
-    "comments": 146,
+    "comments": 155,
     "link": "https://news.ycombinator.com/item?id=27674270"
+  },
+  {
+    "title": "Economics of Innovation: Detailed Reading List",
+    "url": "http://matt-clancy.com/economics-of-innovation-detailed-reading-list/",
+    "upvotes": 51,
+    "author": "necrodome",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27659956"
   },
   {
     "title": "Bring back menus, QR codes are terrible",
     "url": "https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss",
-    "upvotes": 414,
+    "upvotes": 427,
     "author": "prostoalex",
-    "comments": 567,
+    "comments": 587,
     "link": "https://news.ycombinator.com/item?id=27671392"
   },
   {
     "title": "Wiretrustee: WireGuard-Based Mesh Network",
     "url": "https://github.com/wiretrustee/wiretrustee",
-    "upvotes": 250,
+    "upvotes": 257,
     "author": "j1elo",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27672715"
   },
   {
-    "title": "Virtual DOM is pure overhead",
-    "url": "https://svelte.dev/blog/virtual-dom-is-pure-overhead",
-    "upvotes": 272,
-    "author": "rob",
-    "comments": 192,
-    "link": "https://news.ycombinator.com/item?id=27675371"
-  },
-  {
-    "title": "Walmart unveils low-price analog insulin amid rising diabetes drug costs",
-    "url": "https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html",
-    "upvotes": 72,
-    "author": "shivbhatt",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=27676666"
-  },
-  {
-    "title": "New LinkedIn Data Leak Leaves 700M Users Exposed",
-    "url": "https://restoreprivacy.com/linkedin-data-leak-700-million-users/",
-    "upvotes": 309,
-    "author": "gargs",
-    "comments": 111,
-    "link": "https://news.ycombinator.com/item?id=27674393"
-  },
-  {
-    "title": "The Connection Machines CM-1 and CM-2",
-    "url": "https://tamikothiel.com/cm/",
-    "upvotes": 48,
-    "author": "voxadam",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27675086"
-  },
-  {
     "title": "Making geospatial joins interactive at scale",
     "url": "https://www.omnisci.com/blog/making-geospatial-joins-interactive-at-scale",
-    "upvotes": 10,
+    "upvotes": 15,
     "author": "tmostak",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27650943"
   },
   {
-    "title": "Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS",
-    "url": "https://pawelurbanek.com/ipfs-ethereum-blog",
-    "upvotes": 142,
-    "author": "pawurb",
-    "comments": 74,
-    "link": "https://news.ycombinator.com/item?id=27673223"
+    "title": "Walmart unveils low-price analog insulin amid rising diabetes drug costs",
+    "url": "https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html",
+    "upvotes": 91,
+    "author": "shivbhatt",
+    "comments": 56,
+    "link": "https://news.ycombinator.com/item?id=27676666"
   },
   {
     "title": "Parsing C Types in Tcl",
     "url": "https://wiki.tcl-lang.org/page/Parsing+C+Types",
-    "upvotes": 16,
+    "upvotes": 18,
     "author": "blacksqr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27677291"
   },
   {
-    "title": "Hackers exploited 0-day, not 2018 bug, to mass-wipe My Book Live devices",
-    "url": "https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices",
-    "upvotes": 184,
-    "author": "oldgradstudent",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=27674871"
+    "title": "New LinkedIn Data Leak Leaves 700M Users Exposed",
+    "url": "https://restoreprivacy.com/linkedin-data-leak-700-million-users/",
+    "upvotes": 322,
+    "author": "gargs",
+    "comments": 114,
+    "link": "https://news.ycombinator.com/item?id=27674393"
   },
   {
-    "title": "Kubernetes a black hole of unpredictable spend, according to new report",
-    "url": "https://www.theregister.com/2021/06/29/kubernetes_spend_report/",
-    "upvotes": 24,
-    "author": "eminemence",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27678324"
+    "title": "The Connection Machines CM-1 and CM-2",
+    "url": "https://tamikothiel.com/cm/",
+    "upvotes": 50,
+    "author": "voxadam",
+    "comments": 36,
+    "link": "https://news.ycombinator.com/item?id=27675086"
   },
   {
-    "title": "How 1500 bytes became the MTU of the Internet",
-    "url": "https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500",
-    "upvotes": 46,
-    "author": "Jerry2",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27673945"
+    "title": "Virtual DOM is pure overhead",
+    "url": "https://svelte.dev/blog/virtual-dom-is-pure-overhead",
+    "upvotes": 276,
+    "author": "rob",
+    "comments": 201,
+    "link": "https://news.ycombinator.com/item?id=27675371"
+  },
+  {
+    "title": "Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS",
+    "url": "https://pawelurbanek.com/ipfs-ethereum-blog",
+    "upvotes": 145,
+    "author": "pawurb",
+    "comments": 75,
+    "link": "https://news.ycombinator.com/item?id=27673223"
   },
   {
     "title": "Neeva Announces Public Availability of Its Ads Free, Private Search Engine",
     "url": "https://neeva.com/blog/neeva-announces-public-availability",
-    "upvotes": 26,
+    "upvotes": 33,
     "author": "nmwnmw",
-    "comments": 5,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27675408"
+  },
+  {
+    "title": "Hackers exploited 0-day, not 2018 bug, to mass-wipe My Book Live devices",
+    "url": "https://arstechnica.com/gadgets/2021/06/hackers-exploited-0-day-not-2018-bug-to-mass-wipe-my-book-live-devices",
+    "upvotes": 193,
+    "author": "oldgradstudent",
+    "comments": 61,
+    "link": "https://news.ycombinator.com/item?id=27674871"
+  },
+  {
+    "title": "How 1500 bytes became the MTU of the Internet",
+    "url": "https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500",
+    "upvotes": 49,
+    "author": "Jerry2",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27673945"
+  },
+  {
+    "title": "A driver containing rootkit malware was certified by Microsoft – PC Gamer",
+    "url": "https://www.pcgamer.com/a-driver-containing-rootkit-malware-was-certified-by-microsoft/",
+    "upvotes": 19,
+    "author": "djrogers",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27678210"
+  },
+  {
+    "title": "Kubernetes a black hole of unpredictable spend, according to new report",
+    "url": "https://www.theregister.com/2021/06/29/kubernetes_spend_report/",
+    "upvotes": 37,
+    "author": "eminemence",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27678324"
   },
   {
     "title": "Sonoluminescence",
     "url": "https://en.wikipedia.org/wiki/Sonoluminescence",
-    "upvotes": 56,
+    "upvotes": 58,
     "author": "thunderbong",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27649681"
   },
   {
+    "title": "I Still Use Plain Text for Everything.",
+    "url": "https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840",
+    "upvotes": 7,
+    "author": "behnamoh",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27679050"
+  },
+  {
     "title": "ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM",
     "url": "https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/",
-    "upvotes": 117,
+    "upvotes": 118,
     "author": "sjmulder",
     "comments": 78,
     "link": "https://news.ycombinator.com/item?id=27672711"
-  },
-  {
-    "title": "I loved jQuery, and still do",
-    "url": "https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html",
-    "upvotes": 107,
-    "author": "notoriousarun",
-    "comments": 96,
-    "link": "https://news.ycombinator.com/item?id=27676550"
-  },
-  {
-    "title": "A driver containing rootkit malware was certified by Microsoft – PC Gamer",
-    "url": "https://www.pcgamer.com/a-driver-containing-rootkit-malware-was-certified-by-microsoft/",
-    "upvotes": 10,
-    "author": "djrogers",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27678210"
   }
 ]
