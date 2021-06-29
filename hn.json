@@ -1,100 +1,100 @@
 [
   {
+    "title": "Wiretrustee: WireGuard-Based Mesh Network",
+    "url": "https://github.com/wiretrustee/wiretrustee",
+    "upvotes": 46,
+    "author": "j1elo",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27672715"
+  },
+  {
     "title": "ARM64EC: Building Native and Interoperable Apps for Windows 11 on ARM",
     "url": "https://blogs.windows.com/windowsdeveloper/2021/06/28/announcing-arm64ec-building-native-and-interoperable-apps-for-windows-11-on-arm/",
-    "upvotes": 27,
+    "upvotes": 38,
     "author": "sjmulder",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27672711"
   },
   {
     "title": "A Docker footgun led to a vandal deleting NewsBlur's MongoDB database",
     "url": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
-    "upvotes": 339,
+    "upvotes": 350,
     "author": "ecliptik",
-    "comments": 141,
+    "comments": 148,
     "link": "https://news.ycombinator.com/item?id=27670058"
-  },
-  {
-    "title": "Wiretrustee: WireGuard-Based Mesh Network",
-    "url": "https://github.com/wiretrustee/wiretrustee",
-    "upvotes": 21,
-    "author": "j1elo",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27672715"
-  },
-  {
-    "title": "Judge dismisses FTC antitrust complaint against Facebook",
-    "url": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
-    "upvotes": 361,
-    "author": "ChrisArchitect",
-    "comments": 182,
-    "link": "https://news.ycombinator.com/item?id=27666439"
   },
   {
     "title": "Our plans to improve navigation on GOV.UK",
     "url": "https://gds.blog.gov.uk/2021/05/17/our-plans-to-improve-navigation-on-gov-uk/",
-    "upvotes": 25,
+    "upvotes": 38,
     "author": "open-source-ux",
-    "comments": 13,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27672100"
+  },
+  {
+    "title": "Judge dismisses FTC antitrust complaint against Facebook",
+    "url": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
+    "upvotes": 367,
+    "author": "ChrisArchitect",
+    "comments": 185,
+    "link": "https://news.ycombinator.com/item?id=27666439"
+  },
+  {
+    "title": "Why Specs Matter",
+    "url": "https://web.archive.org/web/20051016203842/http://diveintomark.org/archives/2004/08/16/specs",
+    "upvotes": 3,
+    "author": "Tomte",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27673181"
   },
   {
     "title": "Building a DIY Smart Doorbell",
     "url": "https://buzzert.net/posts/2021-05-09-doorbell",
-    "upvotes": 58,
+    "upvotes": 67,
     "author": "buzzert",
-    "comments": 29,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27669924"
   },
   {
-    "title": "Protein found in robins’ eyes has all the hallmarks of a magnetoreceptor",
-    "url": "https://www.the-scientist.com/news-opinion/new-study-fuels-debate-about-source-of-birds-magnetic-sense-68917",
-    "upvotes": 81,
-    "author": "rehto21",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27650064"
+    "title": "DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields",
+    "url": "https://depthoraclenerf.github.io/",
+    "upvotes": 20,
+    "author": "Hard_Space",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27658661"
   },
   {
     "title": "Spline",
     "url": "https://www.ycombinator.com/companies/spline/jobs/vS70rg1DB-senior-engineer-3d-computer-graphics"
   },
   {
-    "title": "The Next Car You Buy Should Be Electric",
-    "url": "https://lehtimaeki.medium.com/the-next-car-you-buy-should-be-electric-c6980ad616b2",
-    "upvotes": 8,
-    "author": "pietrofmaggi",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27672531"
-  },
-  {
-    "title": "DONeRF: Towards Real-Time Rendering of Compact Neural Radiance Fields",
-    "url": "https://depthoraclenerf.github.io/",
-    "upvotes": 14,
-    "author": "Hard_Space",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27658661"
+    "title": "Protein found in robins’ eyes has all the hallmarks of a magnetoreceptor",
+    "url": "https://www.the-scientist.com/news-opinion/new-study-fuels-debate-about-source-of-birds-magnetic-sense-68917",
+    "upvotes": 92,
+    "author": "rehto21",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27650064"
   },
   {
     "title": "Curated Code CAD",
     "url": "https://learn.cadhub.xyz/blog/curated-code-cad/",
-    "upvotes": 50,
+    "upvotes": 56,
     "author": "zimpenfish",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27649270"
   },
   {
     "title": "Tiny Treeshaker: JavaScript tree shaking in 200 lines of code",
     "url": "https://github.com/magicmark/tiny-treeshaker",
-    "upvotes": 36,
+    "upvotes": 38,
     "author": "markl42",
-    "comments": 15,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27670859"
   },
   {
     "title": "The Limits of Optimization",
     "url": "https://theconvivialsociety.substack.com/p/the-limits-of-optimization",
-    "upvotes": 16,
+    "upvotes": 20,
     "author": "longdefeat",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27671502"
@@ -102,95 +102,103 @@
   {
     "title": "Confessions of a serial startup software developer",
     "url": "https://betterprogramming.pub/dont-write-code-for-a-startup-1eead038c372",
-    "upvotes": 91,
+    "upvotes": 101,
     "author": "kiyanwang",
-    "comments": 38,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27650453"
-  },
-  {
-    "title": "Nvidia Vid2vid-Cameo Demo",
-    "url": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
-    "upvotes": 128,
-    "author": "jonbaer",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27666493"
   },
   {
     "title": "Why the African genome project is so useful",
     "url": "https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful",
-    "upvotes": 35,
+    "upvotes": 40,
     "author": "jkuria",
-    "comments": 15,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27670615"
   },
   {
     "title": "We moderns are status-drunk",
     "url": "https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html",
-    "upvotes": 62,
+    "upvotes": 70,
     "author": "Tycho",
-    "comments": 21,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27666709"
+  },
+  {
+    "title": "Nvidia Vid2vid-Cameo Demo",
+    "url": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
+    "upvotes": 130,
+    "author": "jonbaer",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27666493"
   },
   {
     "title": "Facit Homes, Wikihouse, and the Plywood Frame",
     "url": "https://constructionphysics.substack.com/p/facit-homes-wikihouse-and-the-plywood",
-    "upvotes": 26,
+    "upvotes": 31,
     "author": "colinprince",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27666320"
-  },
-  {
-    "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp",
-    "url": "https://github.com/codr7/whirlog",
-    "upvotes": 90,
-    "author": "codr7",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27657164"
   },
   {
     "title": "London Taxi Company LEVC unveils e-Camper range-extender electric camper",
     "url": "https://www.drivingelectric.com/levc/40669/levc-unveils-e-camper-range-extender-electric-camper",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "teleforce",
-    "comments": 3,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27671585"
   },
   {
     "title": "The Intelligent Forest",
     "url": "https://www.noemamag.com/the-intelligent-forest",
-    "upvotes": 31,
+    "upvotes": 33,
     "author": "axiomdata316",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27671027"
   },
   {
-    "title": "Duolingo S-1 IPO",
-    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm",
-    "upvotes": 167,
-    "author": "marc__1",
-    "comments": 120,
-    "link": "https://news.ycombinator.com/item?id=27668370"
+    "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp",
+    "url": "https://github.com/codr7/whirlog",
+    "upvotes": 93,
+    "author": "codr7",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27657164"
   },
   {
     "title": "Miki. A lightweight wiki for team documentation with instant test drive",
     "url": "https://miki.mimix.io/",
-    "upvotes": 23,
+    "upvotes": 28,
     "author": "mimixco",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27651006"
   },
   {
+    "title": "Duolingo S-1 IPO",
+    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm",
+    "upvotes": 174,
+    "author": "marc__1",
+    "comments": 128,
+    "link": "https://news.ycombinator.com/item?id=27668370"
+  },
+  {
+    "title": "Adding React Native Apps to F-Droid",
+    "url": "https://f-droid.org/en/2020/10/14/adding-react-native-app-to-f-droid.html",
+    "upvotes": 4,
+    "author": "kaeruct",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27649487"
+  },
+  {
     "title": "The slow rise of robots in the data center",
     "url": "https://www.datacenterdynamics.com/en/analysis/caves-of-steel/",
-    "upvotes": 96,
+    "upvotes": 98,
     "author": "vanburen",
-    "comments": 68,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27640907"
   },
   {
     "title": "Make your cluster SWIM",
     "url": "https://bartoszsypytkowski.com/make-your-cluster-swim/",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "yagizdegirmenci",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27669412"
@@ -198,23 +206,23 @@
   {
     "title": "Prefix Sums and Their Applications",
     "url": "https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf",
-    "upvotes": 46,
+    "upvotes": 47,
     "author": "tosh",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27650259"
   },
   {
-    "title": "How We Made Our Maps 10x Faster",
-    "url": "https://medium.com/opendoor-labs/how-we-made-our-maps-10x-faster-e2fa1eaebc65",
-    "upvotes": 7,
-    "author": "sidcool",
+    "title": "Doing old things better vs. doing brand new things",
+    "url": "https://cdixon.org/2020/10/19/doing-old-things-better-vs-doing-brand-new-things",
+    "upvotes": 4,
+    "author": "deadcoder0904",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27672576"
+    "link": "https://news.ycombinator.com/item?id=27672160"
   },
   {
     "title": "Nullfs: A virtual black hole file system that behaves like /dev/null",
     "url": "https://github.com/abbbi/nullfsvfs",
-    "upvotes": 86,
+    "upvotes": 89,
     "author": "signa11",
     "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27641017"
@@ -222,17 +230,9 @@
   {
     "title": "Temporal: Getting started with JavaScript's new date time API",
     "url": "https://2ality.com/2021/06/temporal-api.html",
-    "upvotes": 348,
+    "upvotes": 352,
     "author": "Amorymeltzer",
-    "comments": 164,
+    "comments": 171,
     "link": "https://news.ycombinator.com/item?id=27661667"
-  },
-  {
-    "title": "Computer Security and the Internet: Tools and Jewels",
-    "url": "https://people.scs.carleton.ca/~paulv/toolsjewels.html",
-    "upvotes": 30,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27648770"
   }
 ]
