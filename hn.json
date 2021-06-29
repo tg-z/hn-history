@@ -2,74 +2,74 @@
   {
     "title": "Mexico marijuana: Top court decriminalises recreational use of cannabis",
     "url": "https://www.bbc.co.uk/news/world-latin-america-57645016",
-    "upvotes": 171,
+    "upvotes": 198,
     "author": "pmoriarty",
-    "comments": 51,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27670360"
   },
   {
     "title": "A Docker footgun led to a vandal deleting NewsBlur's MongoDB database",
     "url": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
-    "upvotes": 101,
+    "upvotes": 116,
     "author": "ecliptik",
-    "comments": 35,
+    "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27670058"
   },
   {
     "title": "Judge dismisses FTC antitrust complaint against Facebook",
     "url": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
-    "upvotes": 297,
+    "upvotes": 303,
     "author": "ChrisArchitect",
-    "comments": 155,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=27666439"
   },
   {
     "title": "See the Highest-Resolution Atomic Image Ever Captured",
     "url": "https://www.scientificamerican.com/article/see-the-highest-resolution-atomic-image-ever-captured/",
-    "upvotes": 17,
+    "upvotes": 22,
     "author": "pseudolus",
-    "comments": 2,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27670852"
-  },
-  {
-    "title": "Duolingo S-1 IPO",
-    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm",
-    "upvotes": 72,
-    "author": "marc__1",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27668370"
   },
   {
     "title": "Two days before condo collapse, a pool contractor photographed damage in garage",
     "url": "https://www.miamiherald.com/news/local/community/miami-dade/miami-beach/article252421658.html",
-    "upvotes": 53,
+    "upvotes": 76,
     "author": "cratermoon",
-    "comments": 27,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27670660"
+  },
+  {
+    "title": "Duolingo S-1 IPO",
+    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm",
+    "upvotes": 80,
+    "author": "marc__1",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27668370"
   },
   {
     "title": "Temporal: Getting started with JavaScript's new date time API",
     "url": "https://2ality.com/2021/06/temporal-api.html",
-    "upvotes": 313,
+    "upvotes": 320,
     "author": "Amorymeltzer",
     "comments": 152,
     "link": "https://news.ycombinator.com/item?id=27661667"
   },
   {
-    "title": "Biohackers take aim at big pharma’s stranglehold on insulin",
-    "url": "https://www.freethink.com/shows/just-might-work/how-to-make-insulin",
-    "upvotes": 373,
-    "author": "HiroProtagonist",
-    "comments": 309,
-    "link": "https://news.ycombinator.com/item?id=27661637"
-  },
-  {
     "title": "Nvidia Vid2vid-Cameo Demo",
     "url": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "jonbaer",
-    "comments": 29,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27666493"
+  },
+  {
+    "title": "Biohackers take aim at big pharma’s stranglehold on insulin",
+    "url": "https://www.freethink.com/shows/just-might-work/how-to-make-insulin",
+    "upvotes": 376,
+    "author": "HiroProtagonist",
+    "comments": 312,
+    "link": "https://news.ycombinator.com/item?id=27661637"
   },
   {
     "title": "Jerry",
@@ -78,74 +78,82 @@
   {
     "title": "Nullfs: A virtual black hole file system that behaves like /dev/null",
     "url": "https://github.com/abbbi/nullfsvfs",
-    "upvotes": 61,
+    "upvotes": 64,
     "author": "signa11",
-    "comments": 35,
+    "comments": 36,
     "link": "https://news.ycombinator.com/item?id=27641017"
+  },
+  {
+    "title": "Confessions of a serial startup software developer",
+    "url": "https://betterprogramming.pub/dont-write-code-for-a-startup-1eead038c372",
+    "upvotes": 38,
+    "author": "kiyanwang",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27650453"
+  },
+  {
+    "title": "Tiny Treeshaker: JavaScript tree shaking in 200 lines of code",
+    "url": "https://github.com/magicmark/tiny-treeshaker",
+    "upvotes": 5,
+    "author": "markl42",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27670859"
+  },
+  {
+    "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp",
+    "url": "https://github.com/codr7/whirlog",
+    "upvotes": 69,
+    "author": "codr7",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27657164"
   },
   {
     "title": "Protein found in robins’ eyes has all the hallmarks of a magnetoreceptor",
     "url": "https://www.the-scientist.com/news-opinion/new-study-fuels-debate-about-source-of-birds-magnetic-sense-68917",
     "upvotes": 12,
     "author": "rehto21",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27650064"
-  },
-  {
-    "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp",
-    "url": "https://github.com/codr7/whirlog",
-    "upvotes": 67,
-    "author": "codr7",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27657164"
-  },
-  {
-    "title": "A little-known Soviet mission to rescue a dead space station",
-    "url": "https://arstechnica.com/science/2014/09/the-little-known-soviet-mission-to-rescue-a-dead-space-station/",
-    "upvotes": 43,
-    "author": "Svetlitski",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27639472"
   },
   {
     "title": "The Sears Tele-Games Pinball Breakaway",
     "url": "https://nicole.express/2021/pinball-in-your-house.html",
     "upvotes": 30,
     "author": "zdw",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27646724"
   },
   {
-    "title": "Make your cluster SWIM",
-    "url": "https://bartoszsypytkowski.com/make-your-cluster-swim/",
-    "upvotes": 11,
-    "author": "yagizdegirmenci",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27669412"
+    "title": "The slow rise of robots in the data center",
+    "url": "https://www.datacenterdynamics.com/en/analysis/caves-of-steel/",
+    "upvotes": 85,
+    "author": "vanburen",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27640907"
   },
   {
     "title": "Prefix Sums and Their Applications",
     "url": "https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf",
-    "upvotes": 28,
+    "upvotes": 30,
     "author": "tosh",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27650259"
   },
   {
-    "title": "Confessions of a serial startup software developer",
-    "url": "https://betterprogramming.pub/dont-write-code-for-a-startup-1eead038c372",
-    "upvotes": 32,
-    "author": "kiyanwang",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27650453"
+    "title": "Make your cluster SWIM",
+    "url": "https://bartoszsypytkowski.com/make-your-cluster-swim/",
+    "upvotes": 13,
+    "author": "yagizdegirmenci",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27669412"
   },
   {
-    "title": "The slow rise of robots in the data center",
-    "url": "https://www.datacenterdynamics.com/en/analysis/caves-of-steel/",
-    "upvotes": 84,
-    "author": "vanburen",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=27640907"
+    "title": "A little-known Soviet mission to rescue a dead space station",
+    "url": "https://arstechnica.com/science/2014/09/the-little-known-soviet-mission-to-rescue-a-dead-space-station/",
+    "upvotes": 45,
+    "author": "Svetlitski",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27639472"
   },
   {
     "title": "This Chemical Does Not Exist",
@@ -156,36 +164,52 @@
     "link": "https://news.ycombinator.com/item?id=27663200"
   },
   {
+    "title": "The 'Fuck You' Pattern",
+    "url": "https://cedwards.xyz/the-fuck-you-pattern/",
+    "upvotes": 965,
+    "author": "c7DJTLrn",
+    "comments": 460,
+    "link": "https://news.ycombinator.com/item?id=27666455"
+  },
+  {
     "title": "Computer Security and the Internet: Tools and Jewels",
     "url": "https://people.scs.carleton.ca/~paulv/toolsjewels.html",
-    "upvotes": 16,
+    "upvotes": 17,
     "author": "todsacerdoti",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27648770"
   },
   {
-    "title": "The 'Fuck You' Pattern",
-    "url": "https://cedwards.xyz/the-fuck-you-pattern/",
-    "upvotes": 956,
-    "author": "c7DJTLrn",
-    "comments": 450,
-    "link": "https://news.ycombinator.com/item?id=27666455"
-  },
-  {
     "title": "YouTube reinstates Right Wing Watch",
     "url": "https://www.nbcnews.com/tech/tech-news/youtube-reinstates-channel-devoted-exposing-conservative-extremism-rcna1286",
-    "upvotes": 121,
+    "upvotes": 124,
     "author": "ortusdux",
-    "comments": 147,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=27668935"
+  },
+  {
+    "title": "Groundbreaking new bridge design could transform rail crossings across the UK",
+    "url": "https://www.railadvent.co.uk/2021/06/groundbreaking-new-bridge-design-could-transform-rail-crossings-across-the-uk.html",
+    "upvotes": 72,
+    "author": "sefrost",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27649533"
   },
   {
     "title": "Simple test reveals if your mental images are more vivid than other people's",
     "url": "https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s",
-    "upvotes": 83,
+    "upvotes": 88,
     "author": "smusamashah",
-    "comments": 36,
+    "comments": 38,
     "link": "https://news.ycombinator.com/item?id=27669211"
+  },
+  {
+    "title": "Show HN: Optery – See the private info data brokers are posting about you online",
+    "url": "https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/",
+    "upvotes": 92,
+    "author": "beyondd",
+    "comments": 66,
+    "link": "https://news.ycombinator.com/item?id=27662114"
   },
   {
     "title": "Show HN: The Sample – newsletters curated for you with machine learning",
@@ -204,35 +228,11 @@
     "link": "https://news.ycombinator.com/item?id=27666709"
   },
   {
-    "title": "Groundbreaking new bridge design could transform rail crossings across the UK",
-    "url": "https://www.railadvent.co.uk/2021/06/groundbreaking-new-bridge-design-could-transform-rail-crossings-across-the-uk.html",
-    "upvotes": 71,
-    "author": "sefrost",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=27649533"
-  },
-  {
     "title": "A Plea for Lean Software",
     "url": "https://blog.frantovo.cz/s/1576/Niklaus%20Wirth%20-%20A%20Plea%20for%20Lean%20Software%20-%20OCR.pdf",
     "upvotes": 139,
     "author": "dvfjsdhgfv",
     "comments": 131,
     "link": "https://news.ycombinator.com/item?id=27661559"
-  },
-  {
-    "title": "Show HN: Optery – See the private info data brokers are posting about you online",
-    "url": "https://www.optery.com/introducing-optery-remove-yourself-from-150-people-search-sites-like-truthfinder-mylife-radaris-socialcatfish-spokeo-whitepages/",
-    "upvotes": 90,
-    "author": "beyondd",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=27662114"
-  },
-  {
-    "title": "Watermark: Along the California Aqueduct",
-    "url": "https://placesjournal.org/article/watermark-along-the-california-aqueduct/",
-    "upvotes": 25,
-    "author": "samclemens",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27637422"
   }
 ]
