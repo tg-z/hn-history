@@ -2,41 +2,49 @@
   {
     "title": "GitHub Copilot: your AI pair programmer",
     "url": "https://copilot.github.com/",
-    "upvotes": 1549,
+    "upvotes": 1637,
     "author": "todsacerdoti",
-    "comments": 754,
+    "comments": 787,
     "link": "https://news.ycombinator.com/item?id=27676266"
   },
   {
     "title": "How to Work Hard",
     "url": "http://paulgraham.com/hwh.html",
-    "upvotes": 666,
+    "upvotes": 694,
     "author": "razin",
-    "comments": 681,
+    "comments": 717,
     "link": "https://news.ycombinator.com/item?id=27675603"
   },
   {
     "title": "Stepping Back from Speaking",
     "url": "https://martinfowler.com/articles/202106-reducing-speaking.html",
-    "upvotes": 271,
+    "upvotes": 291,
     "author": "alfredbez",
-    "comments": 67,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27677001"
   },
   {
     "title": "An EPYC escape: Case-study of a KVM breakout",
     "url": "https://googleprojectzero.blogspot.com/2021/06/an-epyc-escape-case-study-of-kvm.html",
-    "upvotes": 132,
+    "upvotes": 143,
     "author": "headalgorithm",
-    "comments": 19,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27678535"
+  },
+  {
+    "title": "Starlink Requires $30B Investment",
+    "url": "https://www.reuters.com/article/telecoms-mobileworld-starlink/update-2-musk-says-may-need-30-bln-to-keep-starlink-in-orbit-idUSL2N2OB1OE",
+    "upvotes": 18,
+    "author": "11thEarlOfMar",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27681327"
   },
   {
     "title": "Off the Grid Messenger",
     "url": "https://github.com/TrevorAttema/OTGMessenger",
-    "upvotes": 42,
+    "upvotes": 59,
     "author": "velmu",
-    "comments": 18,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27659105"
   },
   {
@@ -46,39 +54,47 @@
   {
     "title": "MIT and Harvard agree to transfer edX to ed-tech firm 2U",
     "url": "https://news.mit.edu/2021/mit-harvard-transfer-edx-2u-0629",
-    "upvotes": 331,
+    "upvotes": 343,
     "author": "rolandm",
-    "comments": 151,
+    "comments": 152,
     "link": "https://news.ycombinator.com/item?id=27674413"
   },
   {
     "title": "Ohio GOP ends attempt to ban municipal broadband after protest from residents",
     "url": "https://arstechnica.com/tech-policy/2021/06/ohio-gop-ends-attempt-to-ban-municipal-broadband-after-protest-from-residents/",
-    "upvotes": 116,
+    "upvotes": 153,
     "author": "pseudolus",
-    "comments": 48,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=27680569"
   },
   {
     "title": "Google Compute Engine VM takeover via DHCP flood",
     "url": "https://github.com/irsl/gcp-dhcp-takeover-code-exec",
-    "upvotes": 416,
+    "upvotes": 421,
     "author": "ithkuil",
-    "comments": 133,
+    "comments": 137,
     "link": "https://news.ycombinator.com/item?id=27673933"
   },
   {
     "title": "Electronic lottery tickets as micropayments",
     "url": "https://fermatslibrary.com/s/electronic-lottery-tickets-as-micropayments",
-    "upvotes": 34,
+    "upvotes": 40,
     "author": "mrleinad",
-    "comments": 13,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27680047"
+  },
+  {
+    "title": "Naumachia",
+    "url": "https://en.wikipedia.org/wiki/Naumachia",
+    "upvotes": 16,
+    "author": "diodorus",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27649237"
   },
   {
     "title": "The Unlikely Survival of the 1,081 Year-Old Redwood El Palo Alto",
     "url": "https://www.nytimes.com/2021/06/26/us/palo-alto-redwood.html",
-    "upvotes": 82,
+    "upvotes": 86,
     "author": "igonvalue",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27647551"
@@ -86,23 +102,15 @@
   {
     "title": "My approach to taking notes in meetings",
     "url": "https://blog.witful.com/how-i-take-notes-in-meetings/",
-    "upvotes": 95,
+    "upvotes": 98,
     "author": "tylertreat",
-    "comments": 39,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27664419"
-  },
-  {
-    "title": "Naumachia",
-    "url": "https://en.wikipedia.org/wiki/Naumachia",
-    "upvotes": 11,
-    "author": "diodorus",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27649237"
   },
   {
     "title": "Rainbow Color Map Still Considered Harmful",
     "url": "https://raw.githubusercontent.com/djoshea/matlab-utils/master/libs/perceptuallyImprovedColormaps/Rainbow%20Color%20Map%20-Still-%20Considered%20Harmful.pdf",
-    "upvotes": 33,
+    "upvotes": 35,
     "author": "Tomte",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27658923"
@@ -110,7 +118,7 @@
   {
     "title": "Physicists confirm two cases of “elusive” black hole/neutron star mergers",
     "url": "https://arstechnica.com/science/2021/06/physicists-confirm-two-cases-of-elusive-black-hole-neutron-star-mergers/",
-    "upvotes": 66,
+    "upvotes": 69,
     "author": "wglb",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27676066"
@@ -118,47 +126,71 @@
   {
     "title": "Concrete: The material that's 'too vast to imagine'",
     "url": "https://www.bbc.com/future/article/20210628-concrete-the-material-that-defines-our-age",
-    "upvotes": 119,
+    "upvotes": 125,
     "author": "DrNuke",
-    "comments": 200,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=27674270"
   },
   {
     "title": "I still use plain text for everything.",
     "url": "https://lifehacker.com/i-still-use-plain-text-for-everything-and-i-love-it-1758380840",
-    "upvotes": 75,
+    "upvotes": 94,
     "author": "behnamoh",
-    "comments": 84,
+    "comments": 97,
     "link": "https://news.ycombinator.com/item?id=27679050"
+  },
+  {
+    "title": "Windows 11 Will Leave Millions of PCs Behind, & MS Is Struggling to Explain Why",
+    "url": "https://www.theverge.com/2021/6/29/22555371/microsoft-windows-11-cpu-support-hardware-requirements-tpm-response",
+    "upvotes": 15,
+    "author": "FridayoLeary",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27681892"
+  },
+  {
+    "title": "Portable nuclear reactor program sparks controversy",
+    "url": "https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy",
+    "upvotes": 47,
+    "author": "howaboutnope",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=27674305"
   },
   {
     "title": "Wiretrustee: WireGuard-Based Mesh Network",
     "url": "https://github.com/wiretrustee/wiretrustee",
-    "upvotes": 297,
+    "upvotes": 299,
     "author": "j1elo",
     "comments": 71,
     "link": "https://news.ycombinator.com/item?id=27672715"
   },
   {
-    "title": "Portable nuclear reactor program sparks controversy",
-    "url": "https://www.nationaldefensemagazine.org/articles/2021/6/28/portable-nuclear-reactor-program-sparks-controversy",
-    "upvotes": 44,
-    "author": "howaboutnope",
-    "comments": 68,
-    "link": "https://news.ycombinator.com/item?id=27674305"
+    "title": "Incremental Note-Taking",
+    "url": "https://thesephist.com/posts/inc/",
+    "upvotes": 5,
+    "author": "thesephist",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27667538"
   },
   {
     "title": "Neeva Announces Public Availability of Its Ads Free, Private Search Engine",
     "url": "https://neeva.com/blog/neeva-announces-public-availability",
-    "upvotes": 90,
+    "upvotes": 97,
     "author": "nmwnmw",
-    "comments": 46,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27675408"
+  },
+  {
+    "title": "What mRNA Is Good For, and What It Maybe Isn’t",
+    "url": "https://blogs.sciencemag.org/pipeline/archives/2021/06/29/what-mrna-is-good-for-and-what-it-maybe-isnt",
+    "upvotes": 5,
+    "author": "jseliger",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27681418"
   },
   {
     "title": "Economics of Innovation: Detailed Reading List",
     "url": "http://matt-clancy.com/economics-of-innovation-detailed-reading-list/",
-    "upvotes": 71,
+    "upvotes": 72,
     "author": "necrodome",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27659956"
@@ -166,7 +198,7 @@
   {
     "title": "Parsing C Types in Tcl",
     "url": "https://wiki.tcl-lang.org/page/Parsing+C+Types",
-    "upvotes": 31,
+    "upvotes": 32,
     "author": "blacksqr",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27677291"
@@ -174,23 +206,23 @@
   {
     "title": "Walmart unveils low-price analog insulin amid rising diabetes drug costs",
     "url": "https://www.cnbc.com/2021/06/29/walmart-unveils-low-price-analog-insulin-amid-rising-diabetes-drug-costs.html",
-    "upvotes": 171,
+    "upvotes": 183,
     "author": "shivbhatt",
-    "comments": 134,
+    "comments": 153,
     "link": "https://news.ycombinator.com/item?id=27676666"
   },
   {
     "title": "Maps Of Matter",
     "url": "https://futureofmatter.com/maps_of_matter.html",
-    "upvotes": 81,
+    "upvotes": 82,
     "author": "optimalsolver",
-    "comments": 56,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27673753"
   },
   {
     "title": "Making geospatial joins interactive at scale",
     "url": "https://www.omnisci.com/blog/making-geospatial-joins-interactive-at-scale",
-    "upvotes": 26,
+    "upvotes": 28,
     "author": "tmostak",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27650943"
@@ -198,41 +230,9 @@
   {
     "title": "Building Permanent and Censorship-Resistant Blog with Ethereum ENS and IPFS",
     "url": "https://pawelurbanek.com/ipfs-ethereum-blog",
-    "upvotes": 171,
+    "upvotes": 176,
     "author": "pawurb",
-    "comments": 94,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=27673223"
-  },
-  {
-    "title": "New LinkedIn Data Leak Leaves 700M Users Exposed",
-    "url": "https://restoreprivacy.com/linkedin-data-leak-700-million-users/",
-    "upvotes": 396,
-    "author": "gargs",
-    "comments": 141,
-    "link": "https://news.ycombinator.com/item?id=27674393"
-  },
-  {
-    "title": "How 1500 bytes became the MTU of the Internet",
-    "url": "https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500",
-    "upvotes": 82,
-    "author": "Jerry2",
-    "comments": 27,
-    "link": "https://news.ycombinator.com/item?id=27673945"
-  },
-  {
-    "title": "I loved jQuery, and still do",
-    "url": "https://withblue.ink/2019/04/12/i-loved-jquery-and-still-do.html",
-    "upvotes": 160,
-    "author": "notoriousarun",
-    "comments": 156,
-    "link": "https://news.ycombinator.com/item?id=27676550"
-  },
-  {
-    "title": "Kubernetes a black hole of unpredictable spend, according to new report",
-    "url": "https://www.theregister.com/2021/06/29/kubernetes_spend_report/",
-    "upvotes": 97,
-    "author": "eminemence",
-    "comments": 51,
-    "link": "https://news.ycombinator.com/item?id=27678324"
   }
 ]
