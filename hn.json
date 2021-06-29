@@ -2,123 +2,119 @@
   {
     "title": "A Docker footgun led to a vandal deleting NewsBlur's MongoDB database",
     "url": "https://blog.newsblur.com/2021/06/28/story-of-a-hacking/",
-    "upvotes": 247,
+    "upvotes": 281,
     "author": "ecliptik",
-    "comments": 101,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=27670058"
   },
   {
     "title": "Judge dismisses FTC antitrust complaint against Facebook",
     "url": "https://www.cnbc.com/2021/06/28/judge-dismisses-ftc-antitrust-complaint-against-facebook.html",
-    "upvotes": 336,
+    "upvotes": 345,
     "author": "ChrisArchitect",
-    "comments": 172,
+    "comments": 179,
     "link": "https://news.ycombinator.com/item?id=27666439"
   },
   {
     "title": "Building a DIY Smart Doorbell",
     "url": "https://buzzert.net/posts/2021-05-09-doorbell",
-    "upvotes": 26,
+    "upvotes": 37,
     "author": "buzzert",
-    "comments": 8,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27669924"
   },
   {
     "title": "Protein found in robins’ eyes has all the hallmarks of a magnetoreceptor",
     "url": "https://www.the-scientist.com/news-opinion/new-study-fuels-debate-about-source-of-birds-magnetic-sense-68917",
-    "upvotes": 56,
+    "upvotes": 65,
     "author": "rehto21",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27650064"
-  },
-  {
-    "title": "Shorting Bitcoin",
-    "url": "https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin",
-    "upvotes": 90,
-    "author": "zdw",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27670281"
-  },
-  {
-    "title": "Tiny Treeshaker: JavaScript tree shaking in 200 lines of code",
-    "url": "https://github.com/magicmark/tiny-treeshaker",
-    "upvotes": 27,
-    "author": "markl42",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27670859"
   },
   {
     "title": "Curated Code CAD",
     "url": "https://learn.cadhub.xyz/blog/curated-code-cad/",
-    "upvotes": 26,
+    "upvotes": 35,
     "author": "zimpenfish",
-    "comments": 3,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27649270"
   },
   {
-    "title": "Duolingo S-1 IPO",
-    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm",
-    "upvotes": 148,
-    "author": "marc__1",
-    "comments": 87,
-    "link": "https://news.ycombinator.com/item?id=27668370"
+    "title": "Tiny Treeshaker: JavaScript tree shaking in 200 lines of code",
+    "url": "https://github.com/magicmark/tiny-treeshaker",
+    "upvotes": 29,
+    "author": "markl42",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27670859"
   },
   {
     "title": "The Intelligent Forest",
     "url": "https://www.noemamag.com/the-intelligent-forest",
-    "upvotes": 21,
+    "upvotes": 25,
     "author": "axiomdata316",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27671027"
-  },
-  {
-    "title": "Nvidia Vid2vid-Cameo Demo",
-    "url": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
-    "upvotes": 118,
-    "author": "jonbaer",
-    "comments": 41,
-    "link": "https://news.ycombinator.com/item?id=27666493"
-  },
-  {
-    "title": "Confessions of a serial startup software developer",
-    "url": "https://betterprogramming.pub/dont-write-code-for-a-startup-1eead038c372",
-    "upvotes": 64,
-    "author": "kiyanwang",
-    "comments": 30,
-    "link": "https://news.ycombinator.com/item?id=27650453"
   },
   {
     "title": "The Limits of Optimization",
     "url": "https://theconvivialsociety.substack.com/p/the-limits-of-optimization",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "longdefeat",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27671502"
   },
   {
-    "title": "The Parity Bitcoin client, written in Rust",
-    "url": "https://github.com/paritytech/parity-bitcoin",
-    "upvotes": 8,
-    "author": "guiambros",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27671398"
+    "title": "Nvidia Vid2vid-Cameo Demo",
+    "url": "http://nvidia-research-mingyuliu.com/vid2vid-cameo/",
+    "upvotes": 123,
+    "author": "jonbaer",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27666493"
+  },
+  {
+    "title": "Confessions of a serial startup software developer",
+    "url": "https://betterprogramming.pub/dont-write-code-for-a-startup-1eead038c372",
+    "upvotes": 71,
+    "author": "kiyanwang",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=27650453"
+  },
+  {
+    "title": "Duolingo S-1 IPO",
+    "url": "https://www.sec.gov/Archives/edgar/data/1562088/000162828021013065/duolingos-1.htm",
+    "upvotes": 152,
+    "author": "marc__1",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=27668370"
   },
   {
     "title": "Why the African genome project is so useful",
     "url": "https://www.economist.com/leaders/2021/06/26/why-the-african-genome-project-is-so-useful",
-    "upvotes": 26,
+    "upvotes": 30,
     "author": "jkuria",
-    "comments": 6,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27670615"
   },
   {
-    "title": "Jerry",
-    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
+    "title": "Shorting Bitcoin",
+    "url": "https://www.tbray.org/ongoing/When/202x/2021/06/26/Shorting-Bitcoin",
+    "upvotes": 123,
+    "author": "zdw",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=27670281"
+  },
+  {
+    "title": "Facit Homes, Wikihouse, and the Plywood Frame",
+    "url": "https://constructionphysics.substack.com/p/facit-homes-wikihouse-and-the-plywood",
+    "upvotes": 16,
+    "author": "colinprince",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27666320"
   },
   {
     "title": "Show HN: Minimal versioned log structured relational DB in Common Lisp",
     "url": "https://github.com/codr7/whirlog",
-    "upvotes": 81,
+    "upvotes": 83,
     "author": "codr7",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27657164"
@@ -126,63 +122,51 @@
   {
     "title": "We moderns are status-drunk",
     "url": "https://www.overcomingbias.com/2021/06/our-big-wealth-status-mistake.html",
-    "upvotes": 38,
+    "upvotes": 46,
     "author": "Tycho",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27666709"
+  },
+  {
+    "title": "Jerry",
+    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
   },
   {
     "title": "The slow rise of robots in the data center",
     "url": "https://www.datacenterdynamics.com/en/analysis/caves-of-steel/",
-    "upvotes": 91,
+    "upvotes": 95,
     "author": "vanburen",
-    "comments": 64,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27640907"
-  },
-  {
-    "title": "Miki. A lightweight wiki for team documentation with instant test drive",
-    "url": "https://miki.mimix.io/",
-    "upvotes": 16,
-    "author": "mimixco",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27651006"
-  },
-  {
-    "title": "This Chemical Does Not Exist",
-    "url": "https://www.thischemicaldoesnotexist.com/",
-    "upvotes": 123,
-    "author": "optimalsolver",
-    "comments": 73,
-    "link": "https://news.ycombinator.com/item?id=27663200"
   },
   {
     "title": "Nullfs: A virtual black hole file system that behaves like /dev/null",
     "url": "https://github.com/abbbi/nullfsvfs",
-    "upvotes": 75,
+    "upvotes": 78,
     "author": "signa11",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27641017"
   },
   {
-    "title": "Bring back menus QR codes are terrible",
-    "url": "https://slate.com/human-interest/2021/06/bring-back-menus-end-qr-codes.html?via=rss",
-    "upvotes": 55,
-    "author": "prostoalex",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=27671392"
+    "title": "This Chemical Does Not Exist",
+    "url": "https://www.thischemicaldoesnotexist.com/",
+    "upvotes": 124,
+    "author": "optimalsolver",
+    "comments": 74,
+    "link": "https://news.ycombinator.com/item?id=27663200"
   },
   {
     "title": "Ask HN: Do you Self-host your database?",
     "url": "item?id=27671376",
-    "upvotes": 20,
+    "upvotes": 30,
     "author": "vira28",
-    "comments": 16,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27671376"
   },
   {
     "title": "Prefix Sums and Their Applications",
     "url": "https://www.cs.cmu.edu/~guyb/papers/Ble93.pdf",
-    "upvotes": 39,
+    "upvotes": 40,
     "author": "tosh",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27650259"
@@ -196,12 +180,36 @@
     "link": "https://news.ycombinator.com/item?id=27669412"
   },
   {
+    "title": "Miki. A lightweight wiki for team documentation with instant test drive",
+    "url": "https://miki.mimix.io/",
+    "upvotes": 17,
+    "author": "mimixco",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27651006"
+  },
+  {
     "title": "Mexico's Supreme Court has decriminalised the private use of cannabis by adults",
     "url": "https://www.bbc.co.uk/news/world-latin-america-57645016",
-    "upvotes": 301,
+    "upvotes": 318,
     "author": "pmoriarty",
-    "comments": 179,
+    "comments": 197,
     "link": "https://news.ycombinator.com/item?id=27670360"
+  },
+  {
+    "title": "Temporal: Getting started with JavaScript's new date time API",
+    "url": "https://2ality.com/2021/06/temporal-api.html",
+    "upvotes": 342,
+    "author": "Amorymeltzer",
+    "comments": 162,
+    "link": "https://news.ycombinator.com/item?id=27661667"
+  },
+  {
+    "title": "The 'Fuck You' Pattern",
+    "url": "https://cedwards.xyz/the-fuck-you-pattern/",
+    "upvotes": 1067,
+    "author": "c7DJTLrn",
+    "comments": 513,
+    "link": "https://news.ycombinator.com/item?id=27666455"
   },
   {
     "title": "Computer Security and the Internet: Tools and Jewels",
@@ -212,27 +220,19 @@
     "link": "https://news.ycombinator.com/item?id=27648770"
   },
   {
-    "title": "Groundbreaking new bridge design could transform rail crossings across the UK",
-    "url": "https://www.railadvent.co.uk/2021/06/groundbreaking-new-bridge-design-could-transform-rail-crossings-across-the-uk.html",
-    "upvotes": 81,
-    "author": "sefrost",
-    "comments": 69,
-    "link": "https://news.ycombinator.com/item?id=27649533"
+    "title": "Show HN: The Sample – newsletters curated for you with machine learning",
+    "url": "https://sample.findka.com/?ref=showhn",
+    "upvotes": 64,
+    "author": "jacobobryant",
+    "comments": 27,
+    "link": "https://news.ycombinator.com/item?id=27664020"
   },
   {
-    "title": "The 'Fuck You' Pattern",
-    "url": "https://cedwards.xyz/the-fuck-you-pattern/",
-    "upvotes": 1057,
-    "author": "c7DJTLrn",
-    "comments": 507,
-    "link": "https://news.ycombinator.com/item?id=27666455"
-  },
-  {
-    "title": "Temporal: Getting started with JavaScript's new date time API",
-    "url": "https://2ality.com/2021/06/temporal-api.html",
-    "upvotes": 339,
-    "author": "Amorymeltzer",
-    "comments": 162,
-    "link": "https://news.ycombinator.com/item?id=27661667"
+    "title": "Simple test reveals if your mental images are more vivid than other people's",
+    "url": "https://www.sciencealert.com/this-simple-test-reveals-if-your-mental-images-are-more-vivid-than-other-people-s",
+    "upvotes": 128,
+    "author": "smusamashah",
+    "comments": 70,
+    "link": "https://news.ycombinator.com/item?id=27669211"
   }
 ]
