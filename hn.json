@@ -2,90 +2,98 @@
   {
     "title": "Abandoning GitHub",
     "url": "https://thelig.ht/abandoning-github/",
-    "upvotes": 151,
+    "upvotes": 238,
     "author": "janvdberg",
-    "comments": 64,
+    "comments": 122,
     "link": "https://news.ycombinator.com/item?id=27724042"
   },
   {
     "title": "Steve Jobs in Kyoto",
     "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/",
-    "upvotes": 119,
+    "upvotes": 145,
     "author": "DanielleMolloy",
-    "comments": 32,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27697386"
   },
   {
     "title": "Wav2vec Overview: Semi and Unsupervised Speech Recognition",
     "url": "https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition",
-    "upvotes": 94,
+    "upvotes": 98,
     "author": "vackosar",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27722333"
+  },
+  {
+    "title": "Show HN: atto – The new BASIC computer that runs in the browser",
+    "url": "https://jamesl.me/atto/",
+    "upvotes": 12,
+    "author": "James-Livesey",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27724236"
   },
   {
     "title": "How to add eBPF observability to your product",
     "url": "https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html",
-    "upvotes": 65,
+    "upvotes": 71,
     "author": "mrry",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27722947"
   },
   {
-    "title": "GitHub scraped your code. And they plan to charge you",
-    "url": "https://twitter.com/bphogan/status/1411097686854488067",
-    "upvotes": 61,
-    "author": "nocture",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27724008"
-  },
-  {
-    "title": "Will we ever fly supersonically over land?",
-    "url": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
-    "upvotes": 10,
-    "author": "agronaut",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27723988"
-  },
-  {
-    "title": "What did ancient languages sound like?",
-    "url": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
-    "upvotes": 89,
-    "author": "mewithoutyou",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=27721748"
-  },
-  {
-    "title": "Show HN: atto – The new BASIC computer that runs in the browser",
-    "url": "https://jamesl.me/atto/",
-    "upvotes": 4,
-    "author": "James-Livesey",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27724236"
-  },
-  {
     "title": "How not to break a search engine",
     "url": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
-    "upvotes": 5,
+    "upvotes": 10,
     "author": "akpa1",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27724224"
   },
   {
-    "title": "Tiny FORTH from scratch in 1 week",
-    "url": "https://www.thanassis.space/miniforth.html",
-    "upvotes": 38,
-    "author": "ttsiodras",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27722807"
+    "title": "Will we ever fly supersonically over land?",
+    "url": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
+    "upvotes": 13,
+    "author": "agronaut",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27723988"
+  },
+  {
+    "title": "GitHub scraped your code. And they plan to charge you",
+    "url": "https://twitter.com/bphogan/status/1411097686854488067",
+    "upvotes": 89,
+    "author": "nocture",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=27724008"
+  },
+  {
+    "title": "What did ancient languages sound like?",
+    "url": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
+    "upvotes": 94,
+    "author": "mewithoutyou",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27721748"
+  },
+  {
+    "title": "How Databases handle 10M devices in high-cardinality benchmarks",
+    "url": "https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/",
+    "upvotes": 5,
+    "author": "elorant",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27724460"
   },
   {
     "title": "WASM to PS Compiler",
     "url": "https://github.com/no-defun-allowed/wasm2ps",
-    "upvotes": 31,
+    "upvotes": 35,
     "author": "lokedhs",
-    "comments": 8,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27709002"
+  },
+  {
+    "title": "Tiny FORTH from scratch in 1 week",
+    "url": "https://www.thanassis.space/miniforth.html",
+    "upvotes": 43,
+    "author": "ttsiodras",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27722807"
   },
   {
     "title": "Finley",
@@ -94,15 +102,31 @@
   {
     "title": "Using sqlite3 as a notekeeping document graph",
     "url": "https://epilys.github.io/bibliothecula/notekeeping.html",
-    "upvotes": 248,
+    "upvotes": 251,
     "author": "harporoeder",
-    "comments": 23,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27702084"
+  },
+  {
+    "title": "The Metaverse: A brave, new virtual world",
+    "url": "https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4",
+    "upvotes": 7,
+    "author": "laurex",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27723460"
+  },
+  {
+    "title": "Analysis of how often GitHub Copilot copy-pastes",
+    "url": "https://docs.github.com/en/github/copilot/research-recitation",
+    "upvotes": 7,
+    "author": "azhenley",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27723710"
   },
   {
     "title": "We don’t have unprofitable customers, just unhappy accidents",
     "url": "https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/",
-    "upvotes": 27,
+    "upvotes": 29,
     "author": "mostlyghostly",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27722963"
@@ -110,17 +134,17 @@
   {
     "title": "Apple and Intel first to use TSMC 3nm",
     "url": "https://www.electronicsweekly.com/uncategorised/apple-intel-first-use-tsmc-3nm-2021-07/",
-    "upvotes": 216,
+    "upvotes": 220,
     "author": "walterbell",
-    "comments": 151,
+    "comments": 157,
     "link": "https://news.ycombinator.com/item?id=27720140"
   },
   {
     "title": "Using government guidelines to police content: state censorship?",
     "url": "https://taibbi.substack.com/p/a-case-of-intellectual-capture-on",
-    "upvotes": 73,
+    "upvotes": 78,
     "author": "curmudgeon22",
-    "comments": 40,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27723333"
   },
   {
@@ -134,7 +158,7 @@
   {
     "title": "API Improvement Proposals",
     "url": "https://google.aip.dev/",
-    "upvotes": 45,
+    "upvotes": 49,
     "author": "bshanks",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27716756"
@@ -142,7 +166,7 @@
   {
     "title": "The ‘flow state’: Where creative work thrives",
     "url": "https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative",
-    "upvotes": 89,
+    "upvotes": 90,
     "author": "danboarder",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27720517"
@@ -150,89 +174,65 @@
   {
     "title": "Things I wish Git had: Commit groups",
     "url": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
-    "upvotes": 104,
+    "upvotes": 111,
     "author": "nathell",
-    "comments": 78,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=27722221"
   },
   {
     "title": "Bay Area cities want to end single-family home zoning",
     "url": "https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php",
-    "upvotes": 163,
+    "upvotes": 173,
     "author": "g8oz",
-    "comments": 199,
+    "comments": 208,
     "link": "https://news.ycombinator.com/item?id=27721643"
   },
   {
     "title": "Suppose I wanted to kill a lot of pilots",
     "url": "https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa",
-    "upvotes": 303,
+    "upvotes": 308,
     "author": "stanrivers",
-    "comments": 136,
+    "comments": 138,
     "link": "https://news.ycombinator.com/item?id=27720912"
-  },
-  {
-    "title": "Ask HN: How to stop download.cnet.com from hosting my app?",
-    "url": "item?id=27722254",
-    "upvotes": 86,
-    "author": "textman",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27722254"
-  },
-  {
-    "title": "Mystery of Intel Cpuid 21H Leaf",
-    "url": "item?id=27710539",
-    "upvotes": 6,
-    "author": "ruik",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27710539"
   },
   {
     "title": "How UMAP Works",
     "url": "https://umap-learn.readthedocs.io/en/latest/how_umap_works.html",
-    "upvotes": 37,
+    "upvotes": 42,
     "author": "tmalsburg2",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27710373"
+  },
+  {
+    "title": "Ask HN: How to stop download.cnet.com from hosting my app?",
+    "url": "item?id=27722254",
+    "upvotes": 90,
+    "author": "textman",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27722254"
   },
   {
     "title": "Kind Engineering [video]",
     "url": "https://www.usenix.org/conference/lisa21/presentation/smith",
     "upvotes": 87,
     "author": "thejokersthief",
-    "comments": 42,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27710376"
   },
   {
     "title": "Lab-grown food will soon destroy farming – and save the planet",
     "url": "https://www.theguardian.com/commentisfree/2020/jan/08/lab-grown-food-destroy-farming-save-planet",
-    "upvotes": 50,
+    "upvotes": 57,
     "author": "science4sail",
-    "comments": 11,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27723001"
   },
   {
-    "title": "Make Patterns Pop Out of Heatmaps with Seriation",
-    "url": "http://nicolas.kruchten.com/content/2018/02/seriation/",
-    "upvotes": 106,
-    "author": "ingve",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27720042"
-  },
-  {
-    "title": "US companies hit by 'colossal' cyber-attack",
-    "url": "https://www.bbc.com/news/world-us-canada-57703836",
-    "upvotes": 566,
-    "author": "sedeki",
-    "comments": 423,
-    "link": "https://news.ycombinator.com/item?id=27718529"
-  },
-  {
-    "title": "Darktable 3.6",
-    "url": "https://github.com/darktable-org/darktable/releases/tag/release-3.6.0",
-    "upvotes": 154,
-    "author": "morsch",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=27720908"
+    "title": "Mystery of Intel Cpuid 21H Leaf",
+    "url": "item?id=27710539",
+    "upvotes": 8,
+    "author": "ruik",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27710539"
   }
 ]
