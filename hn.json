@@ -2,237 +2,237 @@
   {
     "title": "The Idempotency-Key HTTP header field",
     "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
-    "upvotes": 193,
+    "upvotes": 203,
     "author": "detaro",
-    "comments": 72,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27729610"
-  },
-  {
-    "title": "Blender and the Rabbids",
-    "url": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
-    "upvotes": 218,
-    "author": "Tomte",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27729331"
   },
   {
     "title": "Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns",
     "url": "https://github.com/jdhayford/acid-tabs-extension",
-    "upvotes": 11,
+    "upvotes": 22,
     "author": "masterofnull",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27731787"
+  },
+  {
+    "title": "Blender and the Rabbids",
+    "url": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
+    "upvotes": 231,
+    "author": "Tomte",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=27729331"
   },
   {
     "title": "Write a time-series database engine from scratch",
     "url": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
-    "upvotes": 88,
+    "upvotes": 108,
     "author": "todsacerdoti",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27730854"
   },
   {
-    "title": "Single random bit flip causes error in certificate transparency log",
-    "url": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
-    "upvotes": 323,
-    "author": "shmsr",
-    "comments": 191,
-    "link": "https://news.ycombinator.com/item?id=27728287"
-  },
-  {
-    "title": "Underground fiber optics spy on humans moving above",
-    "url": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
-    "upvotes": 120,
-    "author": "mardiyah",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=27729402"
-  },
-  {
-    "title": "When static makes your C code 10 times faster",
-    "url": "https://mazzo.li/posts/c-performance-anecdote.html",
-    "upvotes": 116,
-    "author": "rostayob",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=27729377"
-  },
-  {
     "title": "Writing a SQLite clone from scratch in C",
     "url": "https://cstack.github.io/db_tutorial/",
-    "upvotes": 33,
+    "upvotes": 53,
     "author": "rubyn00bie",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27731966"
   },
   {
-    "title": "A Mindful Mobile OS",
-    "url": "https://thistooshallgrow.com/blog/mindful-mobile-os",
-    "upvotes": 15,
-    "author": "parsecs",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27724718"
+    "title": "Earth Structural Layer Cake",
+    "url": "https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/",
+    "upvotes": 14,
+    "author": "mauvehaus",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27731925"
+  },
+  {
+    "title": "Underground fiber optics spy on humans moving above",
+    "url": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
+    "upvotes": 129,
+    "author": "mardiyah",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27729402"
+  },
+  {
+    "title": "Single random bit flip causes error in certificate transparency log",
+    "url": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
+    "upvotes": 330,
+    "author": "shmsr",
+    "comments": 192,
+    "link": "https://news.ycombinator.com/item?id=27728287"
+  },
+  {
+    "title": "When static makes your C code 10 times faster",
+    "url": "https://mazzo.li/posts/c-performance-anecdote.html",
+    "upvotes": 124,
+    "author": "rostayob",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27729377"
+  },
+  {
+    "title": "Archive and genealogy of all Quake 1 bots",
+    "url": "https://github.com/Jason2Brownlee/QuakeBotArchive",
+    "upvotes": 10,
+    "author": "jasonb05",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27731909"
+  },
+  {
+    "title": "Optimizing at the CPU instruction level in the browser w. Rust and WebAssembly",
+    "url": "https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/",
+    "upvotes": 6,
+    "author": "Ameo",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27732136"
   },
   {
     "title": "Devlog – converting this WordPress site to Bedrock itself",
     "url": "https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "Wolfr_",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27731781"
-  },
-  {
-    "title": "Ways to ship software",
-    "url": "https://review.firstround.com/the-right-way-to-ship-software",
-    "upvotes": 11,
-    "author": "notoriousarun",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27720752"
   },
   {
     "title": "Flexport Is Hiring",
     "url": "https://techcrunch.com/2016/06/07/flexport/"
   },
   {
-    "title": "Ray: A Distributed Framework for Emerging AI Applications",
-    "url": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
-    "upvotes": 52,
-    "author": "mlerner",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27730807"
+    "title": "A Mindful Mobile OS",
+    "url": "https://thistooshallgrow.com/blog/mindful-mobile-os",
+    "upvotes": 20,
+    "author": "parsecs",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27724718"
   },
   {
     "title": "EU antitrust: Apple shouldn't use privacy and security to stave off competition",
     "url": "https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition",
-    "upvotes": 39,
+    "upvotes": 53,
     "author": "webmobdev",
-    "comments": 32,
+    "comments": 42,
     "link": "https://news.ycombinator.com/item?id=27731646"
   },
   {
-    "title": "Terrible Programming Features from the Past",
+    "title": "Is Alexandra Elbakyan in real trouble this time?",
+    "url": "https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time",
+    "upvotes": 17,
+    "author": "Cream-Corn-11",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27730843"
+  },
+  {
+    "title": "Ways to ship software",
+    "url": "https://review.firstround.com/the-right-way-to-ship-software",
+    "upvotes": 19,
+    "author": "notoriousarun",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27720752"
+  },
+  {
+    "title": "Ray: A Distributed Framework for Emerging AI Applications",
+    "url": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
+    "upvotes": 58,
+    "author": "mlerner",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27730807"
+  },
+  {
+    "title": "Terrible programming features from the past",
     "url": "https://medium.com/young-coder/3-terrible-programming-features-from-the-past-ee5260af1d74",
-    "upvotes": 39,
+    "upvotes": 43,
     "author": "kiyanwang",
-    "comments": 37,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27730473"
   },
   {
     "title": "Soviet Venus Images",
     "url": "http://mentallandscape.com/C_CatalogVenus.htm",
-    "upvotes": 298,
+    "upvotes": 303,
     "author": "areoform",
-    "comments": 71,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=27727717"
+  },
+  {
+    "title": "The future is in symmetrical, high-speed internet speeds",
+    "url": "https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds",
+    "upvotes": 27,
+    "author": "elorant",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27730567"
   },
   {
     "title": "Dynamic Linking Best Practices",
     "url": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
-    "upvotes": 76,
+    "upvotes": 79,
     "author": "begriffs",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27729417"
   },
   {
-    "title": "Earth Structural Layer Cake",
-    "url": "https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/",
+    "title": "macOS Privileged Access Backdoor",
+    "url": "https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/",
     "upvotes": 6,
-    "author": "mauvehaus",
+    "author": "adib",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27731925"
-  },
-  {
-    "title": "Archive and genealogy of all Quake 1 bots",
-    "url": "https://github.com/Jason2Brownlee/QuakeBotArchive",
-    "upvotes": 3,
-    "author": "jasonb05",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27731909"
+    "link": "https://news.ycombinator.com/item?id=27731684"
   },
   {
     "title": "Bryan Cantrill Interviewed at ACM Bytecast",
     "url": "https://learning.acm.org/bytecast/ep17-bryan-cantrill",
-    "upvotes": 34,
+    "upvotes": 41,
     "author": "todsacerdoti",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27729681"
   },
   {
-    "title": "Commit Often, Perfect Later, Publish Once: Git Best Practices",
+    "title": "Commit often, perfect later, publish once: Git best practices",
     "url": "https://sethrobertson.github.io/GitBestPractices/",
-    "upvotes": 219,
+    "upvotes": 223,
     "author": "hidden-spyder",
-    "comments": 87,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=27727501"
   },
   {
-    "title": "On working too hard: finding balance, and lessons learned from others",
-    "url": "https://blog.lawrencejones.dev/working-too-hard/",
-    "upvotes": 114,
-    "author": "lawrjone",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=27729987"
+    "title": "Electron tube New Automatic Computer",
+    "url": "https://ena.computer/",
+    "upvotes": 51,
+    "author": "edent",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27728483"
   },
   {
     "title": "Cross-Branch Testing",
     "url": "https://www.hillelwayne.com/post/cross-branch-testing/",
-    "upvotes": 11,
+    "upvotes": 14,
     "author": "azhenley",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27723921"
   },
   {
-    "title": "Microbes in Cow Stomachs May Help Our Plastic Problem",
+    "title": "Step by step guide for building a startup: from idea to exit",
+    "url": "https://visionxpartners.com/build-startup/",
+    "upvotes": 11,
+    "author": "GildorDorn",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27731538"
+  },
+  {
+    "title": "Microbes in cow stomachs may help our plastic problem",
     "url": "https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "shoto_io",
-    "comments": 9,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27730497"
   },
   {
-    "title": "Stop mocking your system",
-    "url": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
-    "upvotes": 58,
-    "author": "entanglement",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=27729189"
-  },
-  {
-    "title": "Social media is broken – a new report offers ways to fix it",
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it",
-    "upvotes": 87,
-    "author": "dsr12",
-    "comments": 167,
-    "link": "https://news.ycombinator.com/item?id=27729848"
-  },
-  {
-    "title": "Ask HN: Literature for mathematical optimization?",
-    "url": "item?id=27719928",
-    "upvotes": 56,
-    "author": "samuel2",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27719928"
-  },
-  {
-    "title": "AI and Communism: Narratives of AI Behind the Iron Curtain",
-    "url": "https://www.ainarratives.com/resources/ai-communism",
-    "upvotes": 67,
-    "author": "syck",
-    "comments": 71,
-    "link": "https://news.ycombinator.com/item?id=27720263"
-  },
-  {
-    "title": "The Human Family Tree, It Turns Out, Is Complicated",
-    "url": "https://nautil.us/issue/102/hidden-truths/the-human-family-tree-it-turns-out-is-complicated",
-    "upvotes": 63,
-    "author": "dnetesn",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27728635"
-  },
-  {
-    "title": "Show HN:  Ready UI – Bootstrap UI blocks",
-    "url": "https://readyui.co/",
-    "upvotes": 53,
-    "author": "rrahian",
-    "comments": 31,
-    "link": "https://news.ycombinator.com/item?id=27729010"
+    "title": "On working too hard: finding balance, and lessons learned from others",
+    "url": "https://blog.lawrencejones.dev/working-too-hard/",
+    "upvotes": 117,
+    "author": "lawrjone",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27729987"
   }
 ]
