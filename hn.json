@@ -1,124 +1,108 @@
 [
   {
-    "title": "Research recitation: A first look at rote learning in GitHub Copilot suggestions",
-    "url": "https://docs.github.com/en/github/copilot/research-recitation",
-    "upvotes": 73,
-    "author": "azhenley",
-    "comments": 36,
-    "link": "https://news.ycombinator.com/item?id=27723710"
+    "title": "70% of San Francisco residents say quality of life has declined: poll",
+    "url": "https://www.kron4.com/news/bay-area/8-out-of-10-san-franciscans-say-crime-has-gotten-worse-poll/",
+    "upvotes": 46,
+    "author": "FreeSpeech",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27724699"
   },
   {
     "title": "Show HN: Atto – BASIC computer that runs in the browser",
     "url": "https://jamesl.me/atto/",
-    "upvotes": 45,
+    "upvotes": 53,
     "author": "James-Livesey",
-    "comments": 27,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27724236"
+  },
+  {
+    "title": "Supermarket chain Coop closes 800 stores following Kaseya ransomware attack",
+    "url": "https://therecord.media/supermarket-chain-coop-closes-800-stores-following-kaseya-ransomware-attack/",
+    "upvotes": 13,
+    "author": "prostoalex",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27725576"
+  },
+  {
+    "title": "Research recitation: A first look at rote learning in GitHub Copilot suggestions",
+    "url": "https://docs.github.com/en/github/copilot/research-recitation",
+    "upvotes": 85,
+    "author": "azhenley",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27723710"
   },
   {
     "title": "How to add eBPF observability to your product",
     "url": "https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "mrry",
-    "comments": 19,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27722947"
-  },
-  {
-    "title": "Will we ever fly supersonically over land?",
-    "url": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
-    "upvotes": 23,
-    "author": "agronaut",
-    "comments": 70,
-    "link": "https://news.ycombinator.com/item?id=27723988"
   },
   {
     "title": "Wav2vec Overview: Semi and Unsupervised Speech Recognition",
     "url": "https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition",
-    "upvotes": 112,
-    "author": "vackosar",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27722333"
-  },
-  {
-    "title": "What did ancient languages sound like?",
-    "url": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
     "upvotes": 117,
-    "author": "mewithoutyou",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=27721748"
+    "author": "vackosar",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27722333"
   },
   {
     "title": "Things I wish Git had: Commit groups",
     "url": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
-    "upvotes": 135,
+    "upvotes": 152,
     "author": "nathell",
-    "comments": 106,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=27722221"
   },
   {
-    "title": "I do not agree with Github's use of copyrighted code as training for Copilot",
-    "url": "https://thelig.ht/abandoning-github/",
-    "upvotes": 567,
-    "author": "janvdberg",
-    "comments": 358,
-    "link": "https://news.ycombinator.com/item?id=27724042"
+    "title": "What did ancient languages sound like?",
+    "url": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
+    "upvotes": 120,
+    "author": "mewithoutyou",
+    "comments": 78,
+    "link": "https://news.ycombinator.com/item?id=27721748"
   },
   {
     "title": "Steve Jobs in Kyoto",
     "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/",
-    "upvotes": 233,
+    "upvotes": 246,
     "author": "DanielleMolloy",
-    "comments": 76,
+    "comments": 83,
     "link": "https://news.ycombinator.com/item?id=27697386"
   },
   {
     "title": "The Dawn of Formalized Mathematics",
     "url": "http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/",
-    "upvotes": 31,
+    "upvotes": 39,
     "author": "matt_d",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27724067"
+  },
+  {
+    "title": "I do not agree with Github's use of copyrighted code as training for Copilot",
+    "url": "https://thelig.ht/abandoning-github/",
+    "upvotes": 594,
+    "author": "janvdberg",
+    "comments": 374,
+    "link": "https://news.ycombinator.com/item?id=27724042"
+  },
+  {
+    "title": "Tiny FORTH from scratch in 1 week",
+    "url": "https://www.thanassis.space/miniforth.html",
+    "upvotes": 70,
+    "author": "ttsiodras",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27722807"
   },
   {
     "title": "EasyPost is building the logistics platform for ecommerce",
     "url": "https://www.easypost.com/careers"
   },
   {
-    "title": "The Metaverse: A brave, new virtual world",
-    "url": "https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4",
-    "upvotes": 38,
-    "author": "laurex",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27723460"
-  },
-  {
-    "title": "Using sqlite3 as a notekeeping document graph",
-    "url": "https://epilys.github.io/bibliothecula/notekeeping.html",
-    "upvotes": 274,
-    "author": "harporoeder",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27702084"
-  },
-  {
-    "title": "Where are we going from here? Software engineering needs formal methods",
-    "url": "https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/",
-    "upvotes": 60,
-    "author": "ntietz",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27724331"
-  },
-  {
-    "title": "Tiny FORTH from scratch in 1 week",
-    "url": "https://www.thanassis.space/miniforth.html",
-    "upvotes": 65,
-    "author": "ttsiodras",
-    "comments": 8,
-    "link": "https://news.ycombinator.com/item?id=27722807"
-  },
-  {
     "title": "WASM to PS Compiler",
     "url": "https://github.com/no-defun-allowed/wasm2ps",
-    "upvotes": 55,
+    "upvotes": 57,
     "author": "lokedhs",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27709002"
@@ -126,31 +110,15 @@
   {
     "title": "Monitor Lizards in Australia Dig Corkscrew Nests",
     "url": "https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/",
-    "upvotes": 17,
+    "upvotes": 19,
     "author": "JonathanBuchh",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27724016"
-  },
-  {
-    "title": "How not to break a search engine",
-    "url": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
-    "upvotes": 18,
-    "author": "akpa1",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27724224"
-  },
-  {
-    "title": "Apple and Intel first to use TSMC 3nm",
-    "url": "https://www.electronicsweekly.com/uncategorised/apple-intel-first-use-tsmc-3nm-2021-07/",
-    "upvotes": 233,
-    "author": "walterbell",
-    "comments": 166,
-    "link": "https://news.ycombinator.com/item?id=27720140"
   },
   {
     "title": "One man’s plan to resurrect the animal species we can’t save",
     "url": "https://www.wired.co.uk/article/natures-safe",
-    "upvotes": 4,
+    "upvotes": 6,
     "author": "minding",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27723993"
@@ -158,81 +126,113 @@
   {
     "title": "A woman's battle to prove she isn't dead",
     "url": "https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead",
-    "upvotes": 64,
+    "upvotes": 75,
     "author": "edward",
-    "comments": 55,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=27721499"
   },
   {
-    "title": "How Databases handle 10M devices in high-cardinality benchmarks",
-    "url": "https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/",
-    "upvotes": 27,
-    "author": "elorant",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27724460"
+    "title": "Will we ever fly supersonically over land?",
+    "url": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
+    "upvotes": 29,
+    "author": "agronaut",
+    "comments": 99,
+    "link": "https://news.ycombinator.com/item?id=27723988"
   },
   {
-    "title": "Learning Squeak",
-    "url": "https://wiki.squeak.org/squeak/6622",
-    "upvotes": 67,
-    "author": "AlexeyBrin",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27721306"
+    "title": "The Metaverse: A brave, new virtual world",
+    "url": "https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4",
+    "upvotes": 40,
+    "author": "laurex",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27723460"
+  },
+  {
+    "title": "How not to break a search engine",
+    "url": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
+    "upvotes": 19,
+    "author": "akpa1",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27724224"
+  },
+  {
+    "title": "Israeli camouflage tech makes soldiers ‘invisible’",
+    "url": "https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096",
+    "upvotes": 17,
+    "author": "curmudgeon22",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27725783"
+  },
+  {
+    "title": "Microbes in cow stomachs can break down plastic",
+    "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full",
+    "upvotes": 7,
+    "author": "WaitWaitWha",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27724653"
+  },
+  {
+    "title": "API Improvement Proposals",
+    "url": "https://google.aip.dev/",
+    "upvotes": 65,
+    "author": "bshanks",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27716756"
+  },
+  {
+    "title": "Where are we going from here? Software engineering needs formal methods",
+    "url": "https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/",
+    "upvotes": 61,
+    "author": "ntietz",
+    "comments": 69,
+    "link": "https://news.ycombinator.com/item?id=27724331"
+  },
+  {
+    "title": "The ‘flow state’: Where creative work thrives",
+    "url": "https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative",
+    "upvotes": 104,
+    "author": "danboarder",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27720517"
   },
   {
     "title": "We don’t have unprofitable customers, just unhappy accidents",
     "url": "https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/",
     "upvotes": 37,
     "author": "mostlyghostly",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27722963"
   },
   {
-    "title": "API Improvement Proposals",
-    "url": "https://google.aip.dev/",
-    "upvotes": 63,
-    "author": "bshanks",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27716756"
+    "title": "Learning Squeak",
+    "url": "https://wiki.squeak.org/squeak/6622",
+    "upvotes": 68,
+    "author": "AlexeyBrin",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27721306"
   },
   {
-    "title": "The ‘flow state’: Where creative work thrives",
-    "url": "https://www.bbc.com/worklife/article/20190204-how-to-find-your-flow-state-to-be-peak-creative",
-    "upvotes": 100,
-    "author": "danboarder",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=27720517"
+    "title": "How Databases handle 10M devices in high-cardinality benchmarks",
+    "url": "https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/",
+    "upvotes": 27,
+    "author": "elorant",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27724460"
   },
   {
     "title": "Using government guidelines to police content: state censorship?",
     "url": "https://taibbi.substack.com/p/a-case-of-intellectual-capture-on",
-    "upvotes": 114,
+    "upvotes": 126,
     "author": "curmudgeon22",
-    "comments": 76,
+    "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27723333"
   },
   {
     "title": "Bay Area cities want to end single-family home zoning",
     "url": "https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php",
-    "upvotes": 212,
+    "upvotes": 218,
     "author": "g8oz",
-    "comments": 258,
+    "comments": 269,
     "link": "https://news.ycombinator.com/item?id=27721643"
-  },
-  {
-    "title": "Suppose I wanted to kill a lot of pilots",
-    "url": "https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa",
-    "upvotes": 333,
-    "author": "stanrivers",
-    "comments": 155,
-    "link": "https://news.ycombinator.com/item?id=27720912"
-  },
-  {
-    "title": "Israeli camouflage tech makes soldiers ‘invisible’",
-    "url": "https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096",
-    "upvotes": 4,
-    "author": "curmudgeon22",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27725783"
   }
 ]
