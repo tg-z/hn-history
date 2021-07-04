@@ -1,83 +1,91 @@
 [
   {
-    "title": "GPT-J: GPT-3 Democratized",
-    "url": "https://www.p3r.one/gpt-j/",
-    "upvotes": 73,
-    "author": "appleskimer",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27731266"
-  },
-  {
-    "title": "The Idempotency-Key HTTP Header Field",
+    "title": "The Idempotency-Key HTTP header field",
     "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
-    "upvotes": 180,
+    "upvotes": 193,
     "author": "detaro",
-    "comments": 65,
+    "comments": 72,
     "link": "https://news.ycombinator.com/item?id=27729610"
   },
   {
     "title": "Blender and the Rabbids",
     "url": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
-    "upvotes": 211,
+    "upvotes": 218,
     "author": "Tomte",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27729331"
   },
   {
-    "title": "Underground fiber optics spy on humans moving above",
-    "url": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
-    "upvotes": 107,
-    "author": "mardiyah",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27729402"
-  },
-  {
-    "title": "Single random bit flip causes error in certificate transparency log",
-    "url": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
-    "upvotes": 307,
-    "author": "shmsr",
-    "comments": 186,
-    "link": "https://news.ycombinator.com/item?id=27728287"
+    "title": "Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns",
+    "url": "https://github.com/jdhayford/acid-tabs-extension",
+    "upvotes": 11,
+    "author": "masterofnull",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27731787"
   },
   {
     "title": "Write a time-series database engine from scratch",
     "url": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
-    "upvotes": 70,
+    "upvotes": 88,
     "author": "todsacerdoti",
-    "comments": 6,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27730854"
+  },
+  {
+    "title": "Single random bit flip causes error in certificate transparency log",
+    "url": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
+    "upvotes": 323,
+    "author": "shmsr",
+    "comments": 191,
+    "link": "https://news.ycombinator.com/item?id=27728287"
+  },
+  {
+    "title": "Underground fiber optics spy on humans moving above",
+    "url": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
+    "upvotes": 120,
+    "author": "mardiyah",
+    "comments": 47,
+    "link": "https://news.ycombinator.com/item?id=27729402"
   },
   {
     "title": "When static makes your C code 10 times faster",
     "url": "https://mazzo.li/posts/c-performance-anecdote.html",
-    "upvotes": 104,
+    "upvotes": 116,
     "author": "rostayob",
-    "comments": 59,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27729377"
-  },
-  {
-    "title": "Bryan Cantrill Interviewed at ACM Bytecast",
-    "url": "https://learning.acm.org/bytecast/ep17-bryan-cantrill",
-    "upvotes": 22,
-    "author": "todsacerdoti",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27729681"
   },
   {
     "title": "Writing a SQLite clone from scratch in C",
     "url": "https://cstack.github.io/db_tutorial/",
-    "upvotes": 3,
+    "upvotes": 33,
     "author": "rubyn00bie",
-    "comments": null,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27731966"
   },
   {
-    "title": "Earth Structural Layer Cake",
-    "url": "https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/",
-    "upvotes": 4,
-    "author": "mauvehaus",
+    "title": "A Mindful Mobile OS",
+    "url": "https://thistooshallgrow.com/blog/mindful-mobile-os",
+    "upvotes": 15,
+    "author": "parsecs",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27724718"
+  },
+  {
+    "title": "Devlog – converting this WordPress site to Bedrock itself",
+    "url": "https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/",
+    "upvotes": 6,
+    "author": "Wolfr_",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27731925"
+    "link": "https://news.ycombinator.com/item?id=27731781"
+  },
+  {
+    "title": "Ways to ship software",
+    "url": "https://review.firstround.com/the-right-way-to-ship-software",
+    "upvotes": 11,
+    "author": "notoriousarun",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27720752"
   },
   {
     "title": "Flexport Is Hiring",
@@ -86,153 +94,145 @@
   {
     "title": "Ray: A Distributed Framework for Emerging AI Applications",
     "url": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
-    "upvotes": 47,
+    "upvotes": 52,
     "author": "mlerner",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27730807"
   },
   {
-    "title": "Soviet Venus Images",
-    "url": "http://mentallandscape.com/C_CatalogVenus.htm",
-    "upvotes": 293,
-    "author": "areoform",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=27727717"
-  },
-  {
-    "title": "A Mindful Mobile OS",
-    "url": "https://thistooshallgrow.com/blog/mindful-mobile-os",
-    "upvotes": 9,
-    "author": "parsecs",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27724718"
+    "title": "EU antitrust: Apple shouldn't use privacy and security to stave off competition",
+    "url": "https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition",
+    "upvotes": 39,
+    "author": "webmobdev",
+    "comments": 32,
+    "link": "https://news.ycombinator.com/item?id=27731646"
   },
   {
     "title": "Terrible Programming Features from the Past",
     "url": "https://medium.com/young-coder/3-terrible-programming-features-from-the-past-ee5260af1d74",
-    "upvotes": 29,
+    "upvotes": 39,
     "author": "kiyanwang",
-    "comments": 31,
+    "comments": 37,
     "link": "https://news.ycombinator.com/item?id=27730473"
   },
   {
-    "title": "Devlog – converting this WordPress site to Bedrock itself",
-    "url": "https://bedrockapp.org/2021/07/04/devlog-converting-this-wordpress-site-to-bedrock-itself/",
-    "upvotes": 3,
-    "author": "Wolfr_",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27731781"
+    "title": "Soviet Venus Images",
+    "url": "http://mentallandscape.com/C_CatalogVenus.htm",
+    "upvotes": 298,
+    "author": "areoform",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=27727717"
   },
   {
     "title": "Dynamic Linking Best Practices",
     "url": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
-    "upvotes": 72,
+    "upvotes": 76,
     "author": "begriffs",
     "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27729417"
+  },
+  {
+    "title": "Earth Structural Layer Cake",
+    "url": "https://cakecrumbs.me/2013/05/24/commission-earth-structural-layer-cake/",
+    "upvotes": 6,
+    "author": "mauvehaus",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27731925"
+  },
+  {
+    "title": "Archive and genealogy of all Quake 1 bots",
+    "url": "https://github.com/Jason2Brownlee/QuakeBotArchive",
+    "upvotes": 3,
+    "author": "jasonb05",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27731909"
+  },
+  {
+    "title": "Bryan Cantrill Interviewed at ACM Bytecast",
+    "url": "https://learning.acm.org/bytecast/ep17-bryan-cantrill",
+    "upvotes": 34,
+    "author": "todsacerdoti",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27729681"
+  },
+  {
+    "title": "Commit Often, Perfect Later, Publish Once: Git Best Practices",
+    "url": "https://sethrobertson.github.io/GitBestPractices/",
+    "upvotes": 219,
+    "author": "hidden-spyder",
+    "comments": 87,
+    "link": "https://news.ycombinator.com/item?id=27727501"
+  },
+  {
+    "title": "On working too hard: finding balance, and lessons learned from others",
+    "url": "https://blog.lawrencejones.dev/working-too-hard/",
+    "upvotes": 114,
+    "author": "lawrjone",
+    "comments": 63,
+    "link": "https://news.ycombinator.com/item?id=27729987"
   },
   {
     "title": "Cross-Branch Testing",
     "url": "https://www.hillelwayne.com/post/cross-branch-testing/",
     "upvotes": 11,
     "author": "azhenley",
-    "comments": 2,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27723921"
-  },
-  {
-    "title": "EU antitrust: Apple shouldn't use privacy and security to stave off competition",
-    "url": "https://appleinsider.com/articles/21/07/02/eu-antitrust-head-warns-against-apple-using-privacy-security-to-stave-off-competition",
-    "upvotes": 24,
-    "author": "webmobdev",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27731646"
-  },
-  {
-    "title": "On working too hard: finding balance, and lessons learned from others",
-    "url": "https://blog.lawrencejones.dev/working-too-hard/",
-    "upvotes": 106,
-    "author": "lawrjone",
-    "comments": 61,
-    "link": "https://news.ycombinator.com/item?id=27729987"
-  },
-  {
-    "title": "Commit Often, Perfect Later, Publish Once: Git Best Practices",
-    "url": "https://sethrobertson.github.io/GitBestPractices/",
-    "upvotes": 214,
-    "author": "hidden-spyder",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=27727501"
-  },
-  {
-    "title": "Pico-8 API Cheatsheet",
-    "url": "https://iiviigames.github.io/pico8-api/",
-    "upvotes": 45,
-    "author": "tosh",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27730946"
-  },
-  {
-    "title": "Social media is broken – a new report offers ways to fix it",
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it",
-    "upvotes": 85,
-    "author": "dsr12",
-    "comments": 159,
-    "link": "https://news.ycombinator.com/item?id=27729848"
   },
   {
     "title": "Microbes in Cow Stomachs May Help Our Plastic Problem",
     "url": "https://interestingengineering.com/microbes-in-cow-stomachs-may-help-our-plastic-problem",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "shoto_io",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27730497"
   },
   {
-    "title": "Ask HN: Literature for Mathematical Optimization?",
-    "url": "item?id=27719928",
-    "upvotes": 52,
-    "author": "samuel2",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27719928"
-  },
-  {
     "title": "Stop mocking your system",
     "url": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
-    "upvotes": 50,
+    "upvotes": 58,
     "author": "entanglement",
-    "comments": 61,
+    "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27729189"
   },
   {
-    "title": "Show HN:  Ready UI – Bootstrap UI blocks",
-    "url": "https://readyui.co/",
-    "upvotes": 50,
-    "author": "rrahian",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27729010"
+    "title": "Social media is broken – a new report offers ways to fix it",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it",
+    "upvotes": 87,
+    "author": "dsr12",
+    "comments": 167,
+    "link": "https://news.ycombinator.com/item?id=27729848"
+  },
+  {
+    "title": "Ask HN: Literature for mathematical optimization?",
+    "url": "item?id=27719928",
+    "upvotes": 56,
+    "author": "samuel2",
+    "comments": 23,
+    "link": "https://news.ycombinator.com/item?id=27719928"
   },
   {
     "title": "AI and Communism: Narratives of AI Behind the Iron Curtain",
     "url": "https://www.ainarratives.com/resources/ai-communism",
-    "upvotes": 66,
+    "upvotes": 67,
     "author": "syck",
-    "comments": 66,
+    "comments": 71,
     "link": "https://news.ycombinator.com/item?id=27720263"
   },
   {
     "title": "The Human Family Tree, It Turns Out, Is Complicated",
     "url": "https://nautil.us/issue/102/hidden-truths/the-human-family-tree-it-turns-out-is-complicated",
-    "upvotes": 58,
+    "upvotes": 63,
     "author": "dnetesn",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27728635"
   },
   {
-    "title": "Return of the Mac",
-    "url": "http://paulgraham.com/mac.html",
-    "upvotes": 88,
-    "author": "jnieminen",
-    "comments": 137,
-    "link": "https://news.ycombinator.com/item?id=27728550"
+    "title": "Show HN:  Ready UI – Bootstrap UI blocks",
+    "url": "https://readyui.co/",
+    "upvotes": 53,
+    "author": "rrahian",
+    "comments": 31,
+    "link": "https://news.ycombinator.com/item?id=27729010"
   }
 ]
