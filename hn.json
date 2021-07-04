@@ -2,67 +2,67 @@
   {
     "title": "Research recitation: A first look at rote learning in GitHub Copilot suggestions",
     "url": "https://docs.github.com/en/github/copilot/research-recitation",
-    "upvotes": 113,
+    "upvotes": 125,
     "author": "azhenley",
-    "comments": 56,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27723710"
   },
   {
     "title": "What should the CPU usage be of a fully-loaded CPU that has been throttled?",
     "url": "https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378",
-    "upvotes": 47,
+    "upvotes": 54,
     "author": "pathompong",
-    "comments": 53,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27725286"
-  },
-  {
-    "title": "Show HN: Atto – BASIC computer that runs in the browser",
-    "url": "https://jamesl.me/atto/",
-    "upvotes": 60,
-    "author": "James-Livesey",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27724236"
   },
   {
     "title": "How to add eBPF observability to your product",
     "url": "https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html",
-    "upvotes": 127,
+    "upvotes": 134,
     "author": "mrry",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27722947"
   },
   {
+    "title": "CDNs and Centrality",
+    "url": "https://www.potaroo.net/ispcol/2021-07/cdn.html",
+    "upvotes": 21,
+    "author": "rajnathani",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27708706"
+  },
+  {
+    "title": "Show HN: Atto – BASIC computer that runs in the browser",
+    "url": "https://jamesl.me/atto/",
+    "upvotes": 62,
+    "author": "James-Livesey",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27724236"
+  },
+  {
     "title": "Wav2vec Overview: Semi and Unsupervised Speech Recognition",
     "url": "https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition",
-    "upvotes": 124,
+    "upvotes": 126,
     "author": "vackosar",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27722333"
   },
   {
-    "title": "CDNs and Centrality",
-    "url": "https://www.potaroo.net/ispcol/2021-07/cdn.html",
-    "upvotes": 16,
-    "author": "rajnathani",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27708706"
+    "title": "Things I wish Git had: Commit groups",
+    "url": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
+    "upvotes": 180,
+    "author": "nathell",
+    "comments": 130,
+    "link": "https://news.ycombinator.com/item?id=27722221"
   },
   {
     "title": "Jerry",
     "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
   },
   {
-    "title": "Things I wish Git had: Commit groups",
-    "url": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
-    "upvotes": 171,
-    "author": "nathell",
-    "comments": 125,
-    "link": "https://news.ycombinator.com/item?id=27722221"
-  },
-  {
     "title": "The Dawn of Formalized Mathematics",
     "url": "http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/",
-    "upvotes": 53,
+    "upvotes": 61,
     "author": "matt_d",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27724067"
@@ -70,169 +70,169 @@
   {
     "title": "What did ancient languages sound like?",
     "url": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
-    "upvotes": 128,
+    "upvotes": 131,
     "author": "mewithoutyou",
     "comments": 84,
     "link": "https://news.ycombinator.com/item?id=27721748"
   },
   {
+    "title": "One man’s plan to resurrect the animal species we can’t save",
+    "url": "https://www.wired.co.uk/article/natures-safe",
+    "upvotes": 13,
+    "author": "minding",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27723993"
+  },
+  {
     "title": "Steve Jobs in Kyoto",
     "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/",
-    "upvotes": 269,
+    "upvotes": 282,
     "author": "DanielleMolloy",
-    "comments": 94,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=27697386"
+  },
+  {
+    "title": "Microbes in cow stomachs can break down plastic",
+    "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full",
+    "upvotes": 20,
+    "author": "WaitWaitWha",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27724653"
   },
   {
     "title": "Where are we going from here? Software engineering needs formal methods",
     "url": "https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/",
-    "upvotes": 68,
+    "upvotes": 74,
     "author": "ntietz",
-    "comments": 80,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=27724331"
   },
   {
     "title": "I do not agree with Github's use of copyrighted code as training for Copilot",
     "url": "https://thelig.ht/abandoning-github/",
-    "upvotes": 634,
+    "upvotes": 650,
     "author": "janvdberg",
-    "comments": 404,
+    "comments": 417,
     "link": "https://news.ycombinator.com/item?id=27724042"
-  },
-  {
-    "title": "One man’s plan to resurrect the animal species we can’t save",
-    "url": "https://www.wired.co.uk/article/natures-safe",
-    "upvotes": 10,
-    "author": "minding",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27723993"
   },
   {
     "title": "Tiny FORTH from scratch in 1 week",
     "url": "https://www.thanassis.space/miniforth.html",
-    "upvotes": 74,
+    "upvotes": 76,
     "author": "ttsiodras",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27722807"
-  },
-  {
-    "title": "Microbes in cow stomachs can break down plastic",
-    "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full",
-    "upvotes": 15,
-    "author": "WaitWaitWha",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27724653"
-  },
-  {
-    "title": "The Metaverse: A brave, new virtual world",
-    "url": "https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4",
-    "upvotes": 45,
-    "author": "laurex",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27723460"
   },
   {
     "title": "A woman's battle to prove she isn't dead",
     "url": "https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead",
-    "upvotes": 94,
+    "upvotes": 99,
     "author": "edward",
-    "comments": 79,
+    "comments": 89,
     "link": "https://news.ycombinator.com/item?id=27721499"
+  },
+  {
+    "title": "Will we ever fly supersonically over land?",
+    "url": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
+    "upvotes": 35,
+    "author": "agronaut",
+    "comments": 126,
+    "link": "https://news.ycombinator.com/item?id=27723988"
   },
   {
     "title": "Koka: A Functional Language with Effects",
     "url": "https://github.com/koka-lang/koka",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "pjmlp",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27710267"
+  },
+  {
+    "title": "Monitor Lizards in Australia Dig Corkscrew Nests",
+    "url": "https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/",
+    "upvotes": 27,
+    "author": "JonathanBuchh",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27724016"
   },
   {
     "title": "WASM to PS Compiler",
     "url": "https://github.com/no-defun-allowed/wasm2ps",
-    "upvotes": 59,
+    "upvotes": 61,
     "author": "lokedhs",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27709002"
   },
   {
     "title": "How not to break a search engine",
     "url": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
-    "upvotes": 21,
+    "upvotes": 23,
     "author": "akpa1",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27724224"
   },
   {
-    "title": "Monitor Lizards in Australia Dig Corkscrew Nests",
-    "url": "https://www.theatlantic.com/science/archive/2021/06/monitor-lizards-australia-dig-incredible-corkscrew-nests/619294/",
-    "upvotes": 23,
-    "author": "JonathanBuchh",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27724016"
+    "title": "U.S. Navy Laser Creates Plasma ‘UFOs’",
+    "url": "https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/",
+    "upvotes": 6,
+    "author": "egfx",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27726588"
   },
   {
-    "title": "Will we ever fly supersonically over land?",
-    "url": "https://www.newyorker.com/tech/annals-of-technology/will-we-ever-fly-supersonically-over-land",
-    "upvotes": 31,
-    "author": "agronaut",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=27723988"
+    "title": "We don’t have unprofitable customers, just unhappy accidents",
+    "url": "https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/",
+    "upvotes": 42,
+    "author": "mostlyghostly",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27722963"
+  },
+  {
+    "title": "The Metaverse: A brave, new virtual world",
+    "url": "https://medium.com/berkman-klein-center/the-metaverse-a-brave-new-virtual-world-2f040cbae7d4",
+    "upvotes": 47,
+    "author": "laurex",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27723460"
   },
   {
     "title": "Learning Squeak",
     "url": "https://wiki.squeak.org/squeak/6622",
     "upvotes": 71,
     "author": "AlexeyBrin",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27721306"
   },
   {
-    "title": "We don’t have unprofitable customers, just unhappy accidents",
-    "url": "https://jansanity.com/we-dont-have-unprofitable-customers-just-unhappy-accidents/",
-    "upvotes": 39,
-    "author": "mostlyghostly",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27722963"
-  },
-  {
-    "title": "How Databases handle 10M devices in high-cardinality benchmarks",
-    "url": "https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/",
-    "upvotes": 30,
-    "author": "elorant",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27724460"
-  },
-  {
-    "title": "Using government guidelines to police content: state censorship?",
-    "url": "https://taibbi.substack.com/p/a-case-of-intellectual-capture-on",
-    "upvotes": 132,
+    "title": "Israeli camouflage tech makes soldiers ‘invisible’",
+    "url": "https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096",
+    "upvotes": 26,
     "author": "curmudgeon22",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=27723333"
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27725783"
   },
   {
     "title": "Bay Area cities want to end single-family home zoning",
     "url": "https://www.sfchronicle.com/bayarea/article/Bay-Area-cities-want-to-end-single-family-home-15983648.php",
-    "upvotes": 225,
+    "upvotes": 231,
     "author": "g8oz",
-    "comments": 281,
+    "comments": 287,
     "link": "https://news.ycombinator.com/item?id=27721643"
   },
   {
     "title": "Suppose I wanted to kill a lot of pilots",
     "url": "https://historyofyesterday.com/suppose-i-wanted-to-kill-a-lot-of-pilots-f126bbc756fa",
-    "upvotes": 341,
+    "upvotes": 344,
     "author": "stanrivers",
-    "comments": 158,
+    "comments": 159,
     "link": "https://news.ycombinator.com/item?id=27720912"
   },
   {
-    "title": "Israeli camouflage tech makes soldiers ‘invisible’",
-    "url": "https://www.jpost.com/jpost-tech/israeli-camouflage-tech-makes-soldiers-invisible-671096",
-    "upvotes": 22,
+    "title": "Using government guidelines to police content: state censorship?",
+    "url": "https://taibbi.substack.com/p/a-case-of-intellectual-capture-on",
+    "upvotes": 135,
     "author": "curmudgeon22",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27725783"
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=27723333"
   }
 ]
