@@ -2,74 +2,66 @@
   {
     "title": "GPT-J “the open source cousin of GPT-3 everyone can use”",
     "url": "https://github.com/kingoflolz/mesh-transformer-jax",
-    "upvotes": 254,
+    "upvotes": 281,
     "author": "canada_dry",
-    "comments": 41,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=27727009"
   },
   {
     "title": "The Growth Ponzi Scheme",
     "url": "https://www.strongtowns.org/the-growth-ponzi-scheme",
-    "upvotes": 109,
+    "upvotes": 122,
     "author": "jseliger",
-    "comments": 41,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27727133"
-  },
-  {
-    "title": "Study That Impregnated Male Rats Stirs Controversy",
-    "url": "https://www.the-scientist.com/news-opinion/study-that-impregnated-male-rats-stirs-controversy-68928",
-    "upvotes": 31,
-    "author": "samizdis",
-    "comments": 32,
-    "link": "https://news.ycombinator.com/item?id=27727404"
   },
   {
     "title": "PowerTOP – diagnose issues with power consumption and power management on Linux",
     "url": "https://01.org/powertop/",
-    "upvotes": 24,
+    "upvotes": 26,
     "author": "pabs3",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27727120"
   },
   {
     "title": "Decoding radio pH capsules with rtl_433",
     "url": "https://analogist.net/post/decoding-radio-ph-capsules-with-rtl_433/",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "AndrewDucker",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27720640"
   },
   {
-    "title": "Audacity may collect “Data necessary for law enforcement, litigation” and more",
-    "url": "https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/",
-    "upvotes": 152,
-    "author": "miles",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=27727150"
+    "title": "What every coder should know about gamma",
+    "url": "http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
+    "upvotes": 25,
+    "author": "scq",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27721094"
   },
   {
     "title": "Scripps O2 Global Oxygen Measurements",
     "url": "https://scrippso2.ucsd.edu/index.html",
-    "upvotes": 37,
+    "upvotes": 40,
     "author": "bryanrasmussen",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27720014"
+  },
+  {
+    "title": "Audacity may collect “Data necessary for law enforcement, litigation” and more",
+    "url": "https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/",
+    "upvotes": 166,
+    "author": "miles",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=27727150"
   },
   {
     "title": "What should the CPU usage be of a fully-loaded CPU that has been throttled?",
     "url": "https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378",
-    "upvotes": 122,
+    "upvotes": 126,
     "author": "pathompong",
-    "comments": 112,
+    "comments": 113,
     "link": "https://news.ycombinator.com/item?id=27725286"
-  },
-  {
-    "title": "What every coder should know about gamma",
-    "url": "http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-    "upvotes": 18,
-    "author": "scq",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27721094"
   },
   {
     "title": "Research recitation: A first look at rote learning in GitHub Copilot suggestions",
@@ -82,7 +74,7 @@
   {
     "title": "The Haskell Phrasebook",
     "url": "https://typeclasses.com/phrasebook",
-    "upvotes": 34,
+    "upvotes": 36,
     "author": "bshanks",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27715023"
@@ -90,15 +82,23 @@
   {
     "title": "How to add eBPF observability to your product",
     "url": "https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html",
-    "upvotes": 165,
+    "upvotes": 167,
     "author": "mrry",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27722947"
   },
   {
+    "title": "Commit Often, Perfect Later, Publish Once: Git Best Practices",
+    "url": "https://sethrobertson.github.io/GitBestPractices/",
+    "upvotes": 3,
+    "author": "hidden-spyder",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27727501"
+  },
+  {
     "title": "One man’s plan to resurrect the animal species we can’t save",
     "url": "https://www.wired.co.uk/article/natures-safe",
-    "upvotes": 44,
+    "upvotes": 46,
     "author": "minding",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27723993"
@@ -106,10 +106,14 @@
   {
     "title": "Show HN: Atto – BASIC computer that runs in the browser",
     "url": "https://jamesl.me/atto/",
-    "upvotes": 80,
+    "upvotes": 82,
     "author": "James-Livesey",
     "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27724236"
+  },
+  {
+    "title": "Jerry",
+    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
   },
   {
     "title": "Wav2vec Overview: Semi and Unsupervised Speech Recognition",
@@ -120,69 +124,65 @@
     "link": "https://news.ycombinator.com/item?id=27722333"
   },
   {
-    "title": "Jerry",
-    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
-  },
-  {
     "title": "Kerouac and Ginsberg Letters",
     "url": "https://granta.com/kerouac-ginsberg-the-letters/",
-    "upvotes": 28,
+    "upvotes": 30,
     "author": "brudgers",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27704853"
   },
   {
-    "title": "Technology Traps",
-    "url": "https://www.youtube.com/watch?v=MPcZ_5uCldg",
-    "upvotes": 22,
-    "author": "optimalsolver",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27717422"
-  },
-  {
     "title": "What did ancient languages sound like?",
     "url": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
-    "upvotes": 157,
+    "upvotes": 159,
     "author": "mewithoutyou",
-    "comments": 107,
+    "comments": 108,
     "link": "https://news.ycombinator.com/item?id=27721748"
   },
   {
     "title": "Things I wish Git had: Commit groups",
     "url": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
-    "upvotes": 221,
+    "upvotes": 222,
     "author": "nathell",
-    "comments": 149,
+    "comments": 150,
     "link": "https://news.ycombinator.com/item?id=27722221"
+  },
+  {
+    "title": "Technology Traps",
+    "url": "https://www.youtube.com/watch?v=MPcZ_5uCldg",
+    "upvotes": 23,
+    "author": "optimalsolver",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27717422"
   },
   {
     "title": "The Dawn of Formalized Mathematics",
     "url": "http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/",
     "upvotes": 85,
     "author": "matt_d",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27724067"
-  },
-  {
-    "title": "CDNs and Centrality",
-    "url": "https://www.potaroo.net/ispcol/2021-07/cdn.html",
-    "upvotes": 37,
-    "author": "rajnathani",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27708706"
   },
   {
     "title": "Bash function names can be almost anything",
     "url": "https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/",
-    "upvotes": 21,
+    "upvotes": 22,
     "author": "signa11",
-    "comments": 4,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27726699"
+  },
+  {
+    "title": "CDNs and Centrality",
+    "url": "https://www.potaroo.net/ispcol/2021-07/cdn.html",
+    "upvotes": 39,
+    "author": "rajnathani",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27708706"
   },
   {
     "title": "Steve Jobs in Kyoto",
     "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/",
-    "upvotes": 349,
+    "upvotes": 353,
     "author": "DanielleMolloy",
     "comments": 122,
     "link": "https://news.ycombinator.com/item?id=27697386"
@@ -198,10 +198,18 @@
   {
     "title": "Microbes in cow stomachs can break down plastic",
     "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full",
-    "upvotes": 47,
+    "upvotes": 49,
     "author": "WaitWaitWha",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27724653"
+  },
+  {
+    "title": "You Don’t Want to Know Your Limit",
+    "url": "https://www.overcomingbias.com/2021/07/you-dont-want-to-know-your-limit.html",
+    "upvotes": 9,
+    "author": "cinquemb",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27727132"
   },
   {
     "title": "Koka: A Functional Language with Effects",
@@ -214,7 +222,7 @@
   {
     "title": "Tiny FORTH from scratch in 1 week",
     "url": "https://www.thanassis.space/miniforth.html",
-    "upvotes": 93,
+    "upvotes": 95,
     "author": "ttsiodras",
     "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27722807"
@@ -224,15 +232,7 @@
     "url": "https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/",
     "upvotes": 102,
     "author": "ntietz",
-    "comments": 91,
+    "comments": 93,
     "link": "https://news.ycombinator.com/item?id=27724331"
-  },
-  {
-    "title": "You Don’t Want to Know Your Limit",
-    "url": "https://www.overcomingbias.com/2021/07/you-dont-want-to-know-your-limit.html",
-    "upvotes": 6,
-    "author": "cinquemb",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27727132"
   }
 ]
