@@ -2,82 +2,90 @@
   {
     "title": "Blender and the Rabbids",
     "url": "https://www.blender.org/user-stories/blender-and-the-rabbids/",
-    "upvotes": 59,
+    "upvotes": 83,
     "author": "Tomte",
-    "comments": 7,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27729331"
+  },
+  {
+    "title": "Social media is broken. A new report offers 25 ways to fix it",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/social-media-broken-a-new-report-offers-25-ways-to-fix-it",
+    "upvotes": 23,
+    "author": "dsr12",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27729848"
+  },
+  {
+    "title": "The Idempotency-Key HTTP Header Field",
+    "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
+    "upvotes": 39,
+    "author": "detaro",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27729610"
   },
   {
     "title": "Single random bit flip causes error in certificate transparency log",
     "url": "https://groups.google.com/a/chromium.org/g/ct-policy/c/PCkKU357M2Q/",
-    "upvotes": 188,
+    "upvotes": 206,
     "author": "shmsr",
-    "comments": 123,
+    "comments": 131,
     "link": "https://news.ycombinator.com/item?id=27728287"
   },
   {
     "title": "Underground fiber optics spy on humans moving above",
     "url": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
-    "upvotes": 17,
+    "upvotes": 27,
     "author": "mardiyah",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27729402"
   },
   {
-    "title": "The Idempotency-Key HTTP Header Field",
-    "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
-    "upvotes": 18,
-    "author": "detaro",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27729610"
+    "title": "On working too hard: finding balance, and lessons learned from others",
+    "url": "https://blog.lawrencejones.dev/working-too-hard/",
+    "upvotes": 5,
+    "author": "lawrjone",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27729987"
   },
   {
     "title": "Soviet Venus Images",
     "url": "http://mentallandscape.com/C_CatalogVenus.htm",
-    "upvotes": 210,
+    "upvotes": 220,
     "author": "areoform",
-    "comments": 30,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27727717"
-  },
-  {
-    "title": "The unexpected complications of minor features",
-    "url": "https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535",
-    "upvotes": 39,
-    "author": "AshleysBrain",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27728883"
-  },
-  {
-    "title": "Is GitHub a derivative work of GPL'd software?",
-    "url": "https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html",
-    "upvotes": 94,
-    "author": "als0",
-    "comments": 50,
-    "link": "https://news.ycombinator.com/item?id=27729209"
-  },
-  {
-    "title": "Commit Often, Perfect Later, Publish Once: Git Best Practices",
-    "url": "https://sethrobertson.github.io/GitBestPractices/",
-    "upvotes": 141,
-    "author": "hidden-spyder",
-    "comments": 47,
-    "link": "https://news.ycombinator.com/item?id=27727501"
-  },
-  {
-    "title": "Electron tube New Automatic Computer",
-    "url": "https://ena.computer/",
-    "upvotes": 33,
-    "author": "edent",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27728483"
   },
   {
     "title": "The Gospel of Consumption",
     "url": "https://orionmagazine.org/article/the-gospel-of-consumption/",
-    "upvotes": 17,
+    "upvotes": 26,
     "author": "thunderbong",
-    "comments": 3,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27719694"
+  },
+  {
+    "title": "Dynamic Linking Best Practices",
+    "url": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
+    "upvotes": 10,
+    "author": "begriffs",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27729417"
+  },
+  {
+    "title": "The unexpected complications of minor features",
+    "url": "https://www.construct.net/en/blogs/ashleys-blog-2/unexpected-complications-1535",
+    "upvotes": 41,
+    "author": "AshleysBrain",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27728883"
+  },
+  {
+    "title": "Commit Often, Perfect Later, Publish Once: Git Best Practices",
+    "url": "https://sethrobertson.github.io/GitBestPractices/",
+    "upvotes": 151,
+    "author": "hidden-spyder",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27727501"
   },
   {
     "title": "Avenue",
@@ -86,153 +94,145 @@
   {
     "title": "Return of the Mac",
     "url": "http://paulgraham.com/mac.html",
-    "upvotes": 43,
+    "upvotes": 49,
     "author": "jnieminen",
-    "comments": 64,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27728550"
+  },
+  {
+    "title": "Electron tube New Automatic Computer",
+    "url": "https://ena.computer/",
+    "upvotes": 36,
+    "author": "edent",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27728483"
   },
   {
     "title": "Digital Violence: How the NSO Group Enables State Terror",
     "url": "https://www.digitalviolence.org/",
-    "upvotes": 108,
+    "upvotes": 112,
     "author": "T-A",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27727733"
+  },
+  {
+    "title": "Is GitHub a derivative work of GPL'd software?",
+    "url": "https://drewdevault.com/2021/07/04/Is-GitHub-a-derivative-work.html",
+    "upvotes": 122,
+    "author": "als0",
+    "comments": 92,
+    "link": "https://news.ycombinator.com/item?id=27729209"
+  },
+  {
+    "title": "Ask HN: Literature for Mathematical Optimization?",
+    "url": "item?id=27719928",
+    "upvotes": 6,
+    "author": "samuel2",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27719928"
+  },
+  {
+    "title": "When static makes your C code 10 times faster",
+    "url": "https://mazzo.li/posts/c-performance-anecdote.html",
+    "upvotes": 6,
+    "author": "rostayob",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27729377"
   },
   {
     "title": "Plants that change our consciousness",
     "url": "https://www.newstatesman.com/culture/books/2021/06/plants-change-our-consciousness",
-    "upvotes": 25,
+    "upvotes": 29,
     "author": "Hooke",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27714682"
   },
   {
     "title": "What every coder should know about gamma",
     "url": "http://blog.johnnovak.net/2016/09/21/what-every-coder-should-know-about-gamma/",
-    "upvotes": 118,
+    "upvotes": 123,
     "author": "scq",
-    "comments": 31,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27721094"
   },
   {
-    "title": "Dynamic Linking Best Practices",
-    "url": "https://begriffs.com/posts/2021-07-04-shared-libraries.html?hn=2",
-    "upvotes": 4,
-    "author": "begriffs",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27729417"
+    "title": "Stop mocking your system",
+    "url": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
+    "upvotes": 9,
+    "author": "entanglement",
+    "comments": 10,
+    "link": "https://news.ycombinator.com/item?id=27729189"
   },
   {
     "title": "Bringing Emulation into the 21st Century",
     "url": "https://blog.davetcode.co.uk/post/21st-century-emulator/",
-    "upvotes": 13,
+    "upvotes": 19,
     "author": "rcarmo",
-    "comments": null,
+    "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27728941"
   },
   {
     "title": "PowerTOP – diagnose issues with power consumption and power management on Linux",
     "url": "https://01.org/powertop/",
-    "upvotes": 83,
+    "upvotes": 85,
     "author": "pabs3",
-    "comments": 28,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27727120"
-  },
-  {
-    "title": "Stop mocking your system",
-    "url": "https://blog.bitgloss.ro/2020/10/stop-mocking-your-system/",
-    "upvotes": 5,
-    "author": "entanglement",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27729189"
   },
   {
     "title": "Getting Unstuck",
     "url": "https://www.iamjonas.me/2021/06/getting-unstuck.html",
-    "upvotes": 42,
+    "upvotes": 44,
     "author": "feross",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27724669"
-  },
-  {
-    "title": "Audacity may collect “Data necessary for law enforcement, litigation” and more",
-    "url": "https://www.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/",
-    "upvotes": 438,
-    "author": "miles",
-    "comments": 178,
-    "link": "https://news.ycombinator.com/item?id=27727150"
   },
   {
     "title": "The Human Family Tree, It Turns Out, Is Complicated",
     "url": "https://nautil.us/issue/102/hidden-truths/the-human-family-tree-it-turns-out-is-complicated",
-    "upvotes": 9,
+    "upvotes": 17,
     "author": "dnetesn",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27728635"
   },
   {
-    "title": "Ask HN: How do SMBs afford such expensive software engineers in the US?",
-    "url": "item?id=27729059",
-    "upvotes": 37,
-    "author": "mnming",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27729059"
+    "title": "Show HN:  Ready UI – Bootstrap UI blocks",
+    "url": "https://readyui.co/",
+    "upvotes": 7,
+    "author": "rrahian",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27729010"
+  },
+  {
+    "title": "Audacity may collect “Data necessary for law enforcement, litigation” and more",
+    "url": "https://www.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/",
+    "upvotes": 455,
+    "author": "miles",
+    "comments": 185,
+    "link": "https://news.ycombinator.com/item?id=27727150"
+  },
+  {
+    "title": "AI and Communism: Narratives of AI Behind the Iron Curtain",
+    "url": "https://www.ainarratives.com/resources/ai-communism",
+    "upvotes": 44,
+    "author": "syck",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27720263"
   },
   {
     "title": "The Haskell Phrasebook",
     "url": "https://typeclasses.com/phrasebook",
-    "upvotes": 87,
+    "upvotes": 89,
     "author": "bshanks",
-    "comments": 10,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27715023"
   },
   {
     "title": "Decoding radio pH capsules with rtl_433",
     "url": "https://analogist.net/post/decoding-radio-ph-capsules-with-rtl_433/",
-    "upvotes": 76,
+    "upvotes": 77,
     "author": "AndrewDucker",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27720640"
-  },
-  {
-    "title": "In Twitter’s early days, only one celebrity could tweet at a time",
-    "url": "https://theoutline.com/post/4147/in-twitters-early-days-only-one-celebrity-could-tweet-at-a-time",
-    "upvotes": 10,
-    "author": "hliyan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27729606"
-  },
-  {
-    "title": "Scripps O2 Global Oxygen Measurements",
-    "url": "https://scrippso2.ucsd.edu/index.html",
-    "upvotes": 63,
-    "author": "bryanrasmussen",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27720014"
-  },
-  {
-    "title": "AI and Communism: Narratives of AI Behind the Iron Curtain",
-    "url": "https://www.ainarratives.com/resources/ai-communism",
-    "upvotes": 38,
-    "author": "syck",
-    "comments": 17,
-    "link": "https://news.ycombinator.com/item?id=27720263"
-  },
-  {
-    "title": "A Brief History of the Internet [pdf]",
-    "url": "https://groups.csail.mit.edu/ana/A%20brief%20history%20of%20the%20internet%20-%20p22-leiner.pdf",
-    "upvotes": 30,
-    "author": "teleforce",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27719937"
-  },
-  {
-    "title": "Musings on Tech Debt",
-    "url": "https://decompiled.dev/work/not-debt/",
-    "upvotes": 17,
-    "author": "mr_golyadkin",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27717560"
   }
 ]
