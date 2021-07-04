@@ -2,26 +2,42 @@
   {
     "title": "GPT-J “the open source cousin of GPT-3 everyone can use”",
     "url": "https://github.com/kingoflolz/mesh-transformer-jax",
-    "upvotes": 105,
+    "upvotes": 124,
     "author": "canada_dry",
-    "comments": 15,
+    "comments": 20,
     "link": "https://news.ycombinator.com/item?id=27727009"
   },
   {
     "title": "The Growth Ponzi Scheme",
     "url": "https://www.strongtowns.org/the-growth-ponzi-scheme",
-    "upvotes": 25,
+    "upvotes": 41,
     "author": "jseliger",
-    "comments": 4,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27727133"
   },
   {
     "title": "Scripps O2 Global Oxygen Measurements",
     "url": "https://scrippso2.ucsd.edu/index.html",
-    "upvotes": 22,
+    "upvotes": 24,
     "author": "bryanrasmussen",
-    "comments": 5,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27720014"
+  },
+  {
+    "title": "Audacity may collect “Data necessary for law enforcement, litigation” and more",
+    "url": "https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/",
+    "upvotes": 51,
+    "author": "miles",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27727150"
+  },
+  {
+    "title": "What should the CPU usage be of a fully-loaded CPU that has been throttled?",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378",
+    "upvotes": 112,
+    "author": "pathompong",
+    "comments": 102,
+    "link": "https://news.ycombinator.com/item?id=27725286"
   },
   {
     "title": "Decoding radio pH capsules with rtl_433",
@@ -32,25 +48,9 @@
     "link": "https://news.ycombinator.com/item?id=27720640"
   },
   {
-    "title": "What should the CPU usage be of a fully-loaded CPU that has been throttled?",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20210629-00/?p=105378",
-    "upvotes": 110,
-    "author": "pathompong",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=27725286"
-  },
-  {
-    "title": "Audacity may collect “Data necessary for law enforcement, litigation” and more",
-    "url": "https://old.reddit.com/r/linux/comments/od3h8b/audacity_may_collect_data_necessary_for_law/",
-    "upvotes": 34,
-    "author": "miles",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27727150"
-  },
-  {
     "title": "Research recitation: A first look at rote learning in GitHub Copilot suggestions",
     "url": "https://docs.github.com/en/github/copilot/research-recitation",
-    "upvotes": 144,
+    "upvotes": 145,
     "author": "azhenley",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27723710"
@@ -58,7 +58,7 @@
   {
     "title": "How to add eBPF observability to your product",
     "url": "https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html",
-    "upvotes": 153,
+    "upvotes": 156,
     "author": "mrry",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27722947"
@@ -74,23 +74,31 @@
   {
     "title": "Show HN: Atto – BASIC computer that runs in the browser",
     "url": "https://jamesl.me/atto/",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "James-Livesey",
     "comments": 45,
     "link": "https://news.ycombinator.com/item?id=27724236"
   },
   {
+    "title": "PowerTOP – diagnose issues with power consumption and power management on Linux",
+    "url": "https://01.org/powertop/",
+    "upvotes": 5,
+    "author": "pabs3",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27727120"
+  },
+  {
     "title": "One man’s plan to resurrect the animal species we can’t save",
     "url": "https://www.wired.co.uk/article/natures-safe",
-    "upvotes": 33,
+    "upvotes": 34,
     "author": "minding",
-    "comments": 16,
+    "comments": 19,
     "link": "https://news.ycombinator.com/item?id=27723993"
   },
   {
     "title": "Wav2vec Overview: Semi and Unsupervised Speech Recognition",
     "url": "https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition",
-    "upvotes": 134,
+    "upvotes": 137,
     "author": "vackosar",
     "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27722333"
@@ -102,10 +110,26 @@
   {
     "title": "Things I wish Git had: Commit groups",
     "url": "http://blog.danieljanus.pl/2021/07/01/commit-groups/",
-    "upvotes": 207,
+    "upvotes": 211,
     "author": "nathell",
     "comments": 141,
     "link": "https://news.ycombinator.com/item?id=27722221"
+  },
+  {
+    "title": "Oilsands among the most carbon intensive crudes in North America",
+    "url": "https://www.pembina.org/blog/real-ghg-trend-oilsands",
+    "upvotes": 21,
+    "author": "loopz",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27726750"
+  },
+  {
+    "title": "What did ancient languages sound like?",
+    "url": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
+    "upvotes": 150,
+    "author": "mewithoutyou",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=27721748"
   },
   {
     "title": "CDNs and Centrality",
@@ -116,28 +140,20 @@
     "link": "https://news.ycombinator.com/item?id=27708706"
   },
   {
-    "title": "Oilsands among the most carbon intensive crudes in North America",
-    "url": "https://www.pembina.org/blog/real-ghg-trend-oilsands",
-    "upvotes": 17,
-    "author": "loopz",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27726750"
-  },
-  {
-    "title": "What did ancient languages sound like?",
-    "url": "https://antigonejournal.com/2021/07/what-did-ancient-languages-sound-like/",
-    "upvotes": 149,
-    "author": "mewithoutyou",
-    "comments": 101,
-    "link": "https://news.ycombinator.com/item?id=27721748"
-  },
-  {
     "title": "The Dawn of Formalized Mathematics",
     "url": "http://math.andrej.com/2021/06/24/the-dawn-of-formalized-mathematics/",
-    "upvotes": 77,
+    "upvotes": 81,
     "author": "matt_d",
     "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27724067"
+  },
+  {
+    "title": "Microbes in cow stomachs can break down plastic",
+    "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full",
+    "upvotes": 39,
+    "author": "WaitWaitWha",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27724653"
   },
   {
     "title": "How Databases handle 10M devices in high-cardinality benchmarks",
@@ -148,25 +164,17 @@
     "link": "https://news.ycombinator.com/item?id=27724460"
   },
   {
-    "title": "Microbes in cow stomachs can break down plastic",
-    "url": "https://www.frontiersin.org/articles/10.3389/fbioe.2021.684459/full",
-    "upvotes": 38,
-    "author": "WaitWaitWha",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27724653"
-  },
-  {
     "title": "Steve Jobs in Kyoto",
     "url": "https://www3.nhk.or.jp/nhkworld/en/news/backstories/1622/",
-    "upvotes": 320,
+    "upvotes": 326,
     "author": "DanielleMolloy",
-    "comments": 113,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=27697386"
   },
   {
     "title": "A woman's battle to prove she isn't dead",
     "url": "https://www.theguardian.com/lifeandstyle/2021/jul/03/they-said-i-dont-exist-but-i-am-here-one-womans-battle-to-prove-she-isnt-dead",
-    "upvotes": 123,
+    "upvotes": 127,
     "author": "edward",
     "comments": 111,
     "link": "https://news.ycombinator.com/item?id=27721499"
@@ -174,10 +182,18 @@
   {
     "title": "Koka: A Functional Language with Effects",
     "url": "https://github.com/koka-lang/koka",
-    "upvotes": 51,
+    "upvotes": 52,
     "author": "pjmlp",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27710267"
+  },
+  {
+    "title": "Where are we going from here? Software engineering needs formal methods",
+    "url": "https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/",
+    "upvotes": 93,
+    "author": "ntietz",
+    "comments": 90,
+    "link": "https://news.ycombinator.com/item?id=27724331"
   },
   {
     "title": "Technology Traps",
@@ -188,51 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=27717422"
   },
   {
-    "title": "Where are we going from here? Software engineering needs formal methods",
-    "url": "https://ntietz.com/tech-blog/future-of-software-engineering-is-formal-methods/",
-    "upvotes": 89,
-    "author": "ntietz",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=27724331"
-  },
-  {
     "title": "Tiny FORTH from scratch in 1 week",
     "url": "https://www.thanassis.space/miniforth.html",
-    "upvotes": 85,
+    "upvotes": 86,
     "author": "ttsiodras",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27722807"
   },
   {
     "title": "I do not agree with Github's use of copyrighted code as training for Copilot",
     "url": "https://thelig.ht/abandoning-github/",
-    "upvotes": 701,
+    "upvotes": 707,
     "author": "janvdberg",
     "comments": 440,
     "link": "https://news.ycombinator.com/item?id=27724042"
   },
   {
+    "title": "Bash function names can be almost anything",
+    "url": "https://blog.dnmfarrell.com/post/bash-function-names-can-be-almost-anything/",
+    "upvotes": 7,
+    "author": "signa11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27726699"
+  },
+  {
     "title": "U.S. Navy Laser Creates Plasma ‘UFOs’",
     "url": "https://www.forbes.com/sites/davidhambling/2020/05/11/us-navy-laser-creates-plasma-ufos/",
-    "upvotes": 30,
+    "upvotes": 32,
     "author": "egfx",
-    "comments": 11,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27726588"
-  },
-  {
-    "title": "WASM to PS Compiler",
-    "url": "https://github.com/no-defun-allowed/wasm2ps",
-    "upvotes": 66,
-    "author": "lokedhs",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27709002"
-  },
-  {
-    "title": "How not to break a search engine",
-    "url": "https://about.sourcegraph.com/blog/how-not-to-break-a-search-engine-unglamorous-engineering/",
-    "upvotes": 29,
-    "author": "akpa1",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27724224"
   }
 ]
