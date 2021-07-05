@@ -2,23 +2,39 @@
   {
     "title": "Students flee field as computer 'fad fades'",
     "url": "https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de",
-    "upvotes": 135,
+    "upvotes": 159,
     "author": "geocrasher",
-    "comments": 83,
+    "comments": 109,
     "link": "https://news.ycombinator.com/item?id=27734158"
   },
   {
     "title": "Stockfish 14",
     "url": "https://stockfishchess.org/blog/2021/stockfish-14/",
-    "upvotes": 248,
+    "upvotes": 262,
     "author": "0-_-0",
-    "comments": 90,
+    "comments": 95,
     "link": "https://news.ycombinator.com/item?id=27733455"
+  },
+  {
+    "title": "Finra Orders Record Financial Penalties Against Robinhood Financial LLC",
+    "url": "https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial",
+    "upvotes": 14,
+    "author": "kiyanwang",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27734996"
+  },
+  {
+    "title": "Show HN: Visual Python – open source visual Python code generator",
+    "url": "https://github.com/visualpython/visualpython",
+    "upvotes": 14,
+    "author": "visualpython",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27735057"
   },
   {
     "title": "Mental Poker [pdf]",
     "url": "https://people.csail.mit.edu/rivest/pubs/SRA81.pdf",
-    "upvotes": 19,
+    "upvotes": 30,
     "author": "atamyrat",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27734693"
@@ -26,39 +42,23 @@
   {
     "title": "Is Alexandra Elbakyan in real trouble this time?",
     "url": "https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time",
-    "upvotes": 464,
+    "upvotes": 475,
     "author": "Cream-Corn-11",
-    "comments": 263,
+    "comments": 270,
     "link": "https://news.ycombinator.com/item?id=27730843"
   },
   {
-    "title": "YouTube channel “TechLead” creator has created a crypto and pulled the rug",
-    "url": "https://old.reddit.com/r/CryptoCurrency/comments/odusa6/techlead_youtuber_with_11_million_subscribers_is/",
-    "upvotes": 147,
-    "author": "donsupreme",
-    "comments": 72,
-    "link": "https://news.ycombinator.com/item?id=27734661"
-  },
-  {
-    "title": "Show HN: Visual Python – open source visual Python code generator",
-    "url": "https://github.com/visualpython/visualpython",
+    "title": "Java Agents",
+    "url": "http://diego-pacheco.blogspot.com/2021/07/java-agents.html",
     "upvotes": 6,
-    "author": "visualpython",
+    "author": "diegopacheco",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27735057"
-  },
-  {
-    "title": "GitHub Copilot giving outdated code",
-    "url": "https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot",
-    "upvotes": 50,
-    "author": "hrithwikbha",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=27734565"
+    "link": "https://news.ycombinator.com/item?id=27735112"
   },
   {
     "title": "Product validation frameworks are mostly useless without taste",
     "url": "https://commoncog.com/blog/product-validation-taste/",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "nsoonhui",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27725851"
@@ -66,127 +66,135 @@
   {
     "title": "Speeding Up the Webcola Graph Viz Library with Rust and WebAssembly",
     "url": "https://cprimozic.net/blog/speeding-up-webcola-with-webassembly/",
-    "upvotes": 177,
+    "upvotes": 179,
     "author": "Ameo",
-    "comments": 21,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27732136"
   },
   {
-    "title": "Finra Orders Record Financial Penalties Against Robinhood Financial LLC",
-    "url": "https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial",
-    "upvotes": 6,
-    "author": "kiyanwang",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27734996"
+    "title": "The Powder Toy",
+    "url": "https://github.com/The-Powder-Toy/The-Powder-Toy",
+    "upvotes": 90,
+    "author": "agluszak",
+    "comments": 17,
+    "link": "https://news.ycombinator.com/item?id=27728946"
+  },
+  {
+    "title": "The Reasonable Effectiveness of the Multiplicative Weights Update Algorithm",
+    "url": "https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/",
+    "upvotes": 8,
+    "author": "signa11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27728072"
   },
   {
     "title": "Archive and genealogy of all Quake 1 bots",
     "url": "https://github.com/Jason2Brownlee/QuakeBotArchive",
-    "upvotes": 116,
+    "upvotes": 122,
     "author": "jasonb05",
-    "comments": 27,
+    "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27731909"
+  },
+  {
+    "title": "Fastest Shoelace Knot",
+    "url": "https://www.fieggen.com/shoelace/ianknot.htm",
+    "upvotes": 57,
+    "author": "apsec112",
+    "comments": 38,
+    "link": "https://news.ycombinator.com/item?id=27728002"
+  },
+  {
+    "title": "Write a time-series database engine from scratch",
+    "url": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
+    "upvotes": 268,
+    "author": "todsacerdoti",
+    "comments": 20,
+    "link": "https://news.ycombinator.com/item?id=27730854"
   },
   {
     "title": "A forgotten Anglo-Saxon colony on the north-eastern Black Sea coast",
     "url": "https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html",
     "upvotes": 62,
     "author": "diodorus",
-    "comments": 8,
+    "comments": 11,
     "link": "https://news.ycombinator.com/item?id=27722935"
-  },
-  {
-    "title": "The Powder Toy",
-    "url": "https://github.com/The-Powder-Toy/The-Powder-Toy",
-    "upvotes": 85,
-    "author": "agluszak",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27728946"
-  },
-  {
-    "title": "Write a time-series database engine from scratch",
-    "url": "https://nakabonne.dev/posts/write-tsdb-from-scratch/",
-    "upvotes": 263,
-    "author": "todsacerdoti",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27730854"
   },
   {
     "title": "Bypassing macOS TCC user privacy protections by accident and design",
     "url": "https://labs.sentinelone.com/bypassing-macos-tcc-user-privacy-protections-by-accident-and-design/",
-    "upvotes": 140,
+    "upvotes": 144,
     "author": "adib",
     "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27731684"
   },
   {
-    "title": "Fastest Shoelace Knot",
-    "url": "https://www.fieggen.com/shoelace/ianknot.htm",
-    "upvotes": 49,
-    "author": "apsec112",
-    "comments": 37,
-    "link": "https://news.ycombinator.com/item?id=27728002"
-  },
-  {
-    "title": "PID Controller for controlling the number of servers in a data-center",
-    "url": "https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5",
-    "upvotes": 68,
-    "author": "se4u",
-    "comments": 40,
-    "link": "https://news.ycombinator.com/item?id=27732236"
+    "title": "GitHub Copilot giving outdated code",
+    "url": "https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot",
+    "upvotes": 54,
+    "author": "hrithwikbha",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27734565"
   },
   {
     "title": "Seeking Enlightenment: Denis Diderot’s Letter on the Blind",
     "url": "https://publicdomainreview.org/collection/denis-diderot-letter-on-the-blind",
-    "upvotes": 4,
+    "upvotes": 5,
     "author": "Hooke",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27727286"
   },
   {
+    "title": "Purdue CS590: Cloud-Native Database Systems",
+    "url": "https://www.cs.purdue.edu/homes/csjgwang/cloudb/",
+    "upvotes": 12,
+    "author": "anhldbk",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27734588"
+  },
+  {
+    "title": "PID Controller for controlling the number of servers in a data-center",
+    "url": "https://gist.github.com/pushpendre/359706010c20bc1d18123510749f5da5",
+    "upvotes": 70,
+    "author": "se4u",
+    "comments": 41,
+    "link": "https://news.ycombinator.com/item?id=27732236"
+  },
+  {
     "title": "Show HN: Open-Source Chrome Extension for auto-grouping tabs by URL patterns",
     "url": "https://github.com/jdhayford/acid-tabs-extension",
-    "upvotes": 102,
+    "upvotes": 105,
     "author": "masterofnull",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27731787"
   },
   {
-    "title": "The future is in symmetrical, high-speed internet speeds",
-    "url": "https://www.eff.org/deeplinks/2021/07/future-symmetrical-high-speed-internet-speeds",
-    "upvotes": 161,
-    "author": "elorant",
-    "comments": 117,
-    "link": "https://news.ycombinator.com/item?id=27730567"
-  },
-  {
     "title": "Lessons from 20 years of hype cycles",
     "url": "https://www.linkedin.com/pulse/8-lessons-from-20-years-hype-cycles-michael-mullany",
-    "upvotes": 67,
+    "upvotes": 69,
     "author": "shandor",
-    "comments": 16,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27730682"
   },
   {
     "title": "Writing a SQLite clone from scratch in C",
     "url": "https://cstack.github.io/db_tutorial/",
-    "upvotes": 171,
+    "upvotes": 172,
     "author": "rubyn00bie",
     "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27731966"
   },
   {
-    "title": "Reverse engineering the Motorola Sensorhub: Part 1",
-    "url": "https://ristovski.github.io/posts/moto-sensorhub/",
-    "upvotes": 15,
-    "author": "zdw",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27726097"
+    "title": "BrainFlow",
+    "url": "https://github.com/brainflow-dev/brainflow",
+    "upvotes": 10,
+    "author": "Altmetr",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27734480"
   },
   {
     "title": "Ray: A Distributed Framework for Emerging AI Applications",
     "url": "https://www.micahlerner.com/2021/06/27/ray-a-distributed-framework-for-emerging-ai-applications.html",
-    "upvotes": 108,
+    "upvotes": 109,
     "author": "mlerner",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27730807"
@@ -194,45 +202,37 @@
   {
     "title": "Ways to ship software",
     "url": "https://review.firstround.com/the-right-way-to-ship-software",
-    "upvotes": 83,
+    "upvotes": 86,
     "author": "notoriousarun",
-    "comments": 8,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27720752"
   },
   {
-    "title": "Purdue CS590: Cloud-Native Database Systems",
-    "url": "https://www.cs.purdue.edu/homes/csjgwang/cloudb/",
-    "upvotes": 9,
-    "author": "anhldbk",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27734588"
-  },
-  {
-    "title": "The Idempotency-Key HTTP header field",
-    "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
-    "upvotes": 292,
-    "author": "detaro",
-    "comments": 114,
-    "link": "https://news.ycombinator.com/item?id=27729610"
+    "title": "Reverse engineering the Motorola Sensorhub: Part 1",
+    "url": "https://ristovski.github.io/posts/moto-sensorhub/",
+    "upvotes": 17,
+    "author": "zdw",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27726097"
   },
   {
     "title": "Implementing Stripe-like idempotency keys in Postgres",
     "url": "https://brandur.org/idempotency-keys",
-    "upvotes": 48,
+    "upvotes": 51,
     "author": "joshxyz",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27728569"
   },
   {
-    "title": "Flexport",
-    "url": "https://techcrunch.com/2016/06/07/flexport/"
+    "title": "The Idempotency-Key HTTP header field",
+    "url": "https://datatracker.ietf.org/doc/html/draft-ietf-httpapi-idempotency-key-header-00",
+    "upvotes": 295,
+    "author": "detaro",
+    "comments": 115,
+    "link": "https://news.ycombinator.com/item?id=27729610"
   },
   {
-    "title": "BrainFlow",
-    "url": "https://github.com/brainflow-dev/brainflow",
-    "upvotes": 9,
-    "author": "Altmetr",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27734480"
+    "title": "Flexport",
+    "url": "https://techcrunch.com/2016/06/07/flexport/"
   }
 ]
