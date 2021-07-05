@@ -2,134 +2,142 @@
   {
     "title": "Show HN: RSS feeds for arbitrary websites using CSS selectors",
     "url": "https://feed-me-up-scotty.vincenttunru.com/",
-    "upvotes": 309,
+    "upvotes": 323,
     "author": "Vinnl",
-    "comments": 83,
+    "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27739568"
   },
   {
-    "title": "UFOs: 'These objects show physics we don't understand'",
-    "url": "https://www.bbc.com/news/av/world-us-canada-57698819",
-    "upvotes": 30,
-    "author": "aliasEli",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27742032"
+    "title": "A Primer on Carbon Pricing and Carbon Border Adjustments",
+    "url": "https://economics.td.com/esg-carbon-report",
+    "upvotes": 9,
+    "author": "toomuchtodo",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27742617"
   },
   {
     "title": "Writing a Firmware-Only Keylogger",
     "url": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
-    "upvotes": 166,
+    "upvotes": 175,
     "author": "jsnell",
-    "comments": 37,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27740295"
-  },
-  {
-    "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76",
-    "url": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
-    "upvotes": 268,
-    "author": "watchdogtimer",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27737718"
   },
   {
     "title": "Ever Given: Egypt agrees deal to release ship that blocked Suez Canal",
     "url": "https://www.bbc.com/news/world-middle-east-57719551",
-    "upvotes": 86,
+    "upvotes": 95,
     "author": "Aissen",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27739860"
+  },
+  {
+    "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76",
+    "url": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
+    "upvotes": 271,
+    "author": "watchdogtimer",
+    "comments": 49,
+    "link": "https://news.ycombinator.com/item?id=27737718"
   },
   {
     "title": "Transfer.sh – Easy file sharing from the command line",
     "url": "https://transfer.sh",
-    "upvotes": 102,
+    "upvotes": 110,
     "author": "thunderbong",
-    "comments": 42,
+    "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27739991"
+  },
+  {
+    "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism",
+    "url": "https://github.com/rustviz/rustviz",
+    "upvotes": 29,
+    "author": "belter",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27741963"
   },
   {
     "title": "The Rise and Fall of the OLAP Cube",
     "url": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
-    "upvotes": 129,
+    "upvotes": 133,
     "author": "smartmic",
-    "comments": 58,
+    "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27736713"
   },
   {
     "title": "Audacity fork without any sentry telemetry or crash reporting",
     "url": "https://github.com/cookiengineer/audacity",
-    "upvotes": 109,
+    "upvotes": 131,
     "author": "ushakov",
-    "comments": 52,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=27741910"
   },
   {
-    "title": "AI Explorables: big ideas in machine learning, simply explained",
-    "url": "https://pair.withgoogle.com/explorables/",
-    "upvotes": 91,
-    "author": "smitop",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27739694"
+    "title": "GitHub Copilot is not infringing copyright",
+    "url": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
+    "upvotes": 261,
+    "author": "aarroyoc",
+    "comments": 408,
+    "link": "https://news.ycombinator.com/item?id=27736650"
   },
   {
     "title": "Rescale",
     "url": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
   },
   {
-    "title": "GitHub Copilot is not infringing copyright",
-    "url": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
-    "upvotes": 256,
-    "author": "aarroyoc",
-    "comments": 397,
-    "link": "https://news.ycombinator.com/item?id=27736650"
-  },
-  {
-    "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism",
-    "url": "https://github.com/rustviz/rustviz",
-    "upvotes": 21,
-    "author": "belter",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27741963"
-  },
-  {
     "title": "Computing Performance on the Horizon",
     "url": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
-    "upvotes": 133,
+    "upvotes": 138,
     "author": "mrry",
-    "comments": 43,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27738312"
   },
   {
     "title": "Show HN: Lego Brick Scanner – open-source Boilerplate",
     "url": "https://github.com/GistNoesis/BrickRegistration",
-    "upvotes": 120,
+    "upvotes": 122,
     "author": "GistNoesis",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27738232"
   },
   {
+    "title": "AI Explorables: big ideas in machine learning, simply explained",
+    "url": "https://pair.withgoogle.com/explorables/",
+    "upvotes": 93,
+    "author": "smitop",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27739694"
+  },
+  {
     "title": "How iOS 15 makes apps launch faster",
     "url": "https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520",
-    "upvotes": 96,
+    "upvotes": 99,
     "author": "jshchnz",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27741210"
   },
   {
     "title": "Student designs device that stops blood loss from stab wounds",
     "url": "https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html",
-    "upvotes": 17,
+    "upvotes": 18,
     "author": "sirteno",
-    "comments": 7,
+    "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27741205"
   },
   {
-    "title": "Tony Hoare answers questions [video]",
-    "url": "https://www.newton.ac.uk/seminar/20210607180018301/",
-    "upvotes": 65,
-    "author": "timthorn",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27739494"
+    "title": "The Programmer's Brain",
+    "url": "https://www.manning.com/books/the-programmers-brain",
+    "upvotes": 5,
+    "author": "teleforce",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27734473"
+  },
+  {
+    "title": "AtGames Legends virtual pinball review: The better pre-built choice mostly",
+    "url": "https://arstechnica.com/gaming/2021/07/atgames-legends-virtual-pinball-review-the-better-pre-built-choice-mostly/",
+    "upvotes": 15,
+    "author": "Tomte",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27738583"
   },
   {
     "title": "Freespin: C64 demo running on 1541 floppy drive",
@@ -140,27 +148,27 @@
     "link": "https://news.ycombinator.com/item?id=27723772"
   },
   {
-    "title": "The Future of Deep Learning Is Photonic",
-    "url": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
-    "upvotes": 92,
-    "author": "Anon84",
-    "comments": 26,
-    "link": "https://news.ycombinator.com/item?id=27738029"
+    "title": "Tony Hoare answers questions [video]",
+    "url": "https://www.newton.ac.uk/seminar/20210607180018301/",
+    "upvotes": 67,
+    "author": "timthorn",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27739494"
   },
   {
-    "title": "AtGames Legends virtual pinball review: The better pre-built choice mostly",
-    "url": "https://arstechnica.com/gaming/2021/07/atgames-legends-virtual-pinball-review-the-better-pre-built-choice-mostly/",
-    "upvotes": 13,
-    "author": "Tomte",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27738583"
+    "title": "The Future of Deep Learning Is Photonic",
+    "url": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
+    "upvotes": 94,
+    "author": "Anon84",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27738029"
   },
   {
     "title": "Measuring memory usage in Python: it’s tricky",
     "url": "https://pythonspeed.com/articles/measuring-memory-python/",
-    "upvotes": 74,
+    "upvotes": 77,
     "author": "itamarst",
-    "comments": 12,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27738566"
   },
   {
@@ -174,10 +182,18 @@
   {
     "title": "Everything useful I know about kubectl",
     "url": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
-    "upvotes": 188,
+    "upvotes": 190,
     "author": "alexhwoods",
     "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27737064"
+  },
+  {
+    "title": "Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile",
+    "url": "https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/",
+    "upvotes": 84,
+    "author": "kieranmaine",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27736733"
   },
   {
     "title": "The stock market speaks: How Dr. Alchian learned to build the bomb",
@@ -188,51 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=27697678"
   },
   {
-    "title": "European plan for gigantic new gravitational wave detector passes milestone",
-    "url": "https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone",
-    "upvotes": 93,
-    "author": "rbanffy",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=27739499"
-  },
-  {
-    "title": "Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile",
-    "url": "https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/",
-    "upvotes": 80,
-    "author": "kieranmaine",
-    "comments": 54,
-    "link": "https://news.ycombinator.com/item?id=27736733"
-  },
-  {
-    "title": "Quantum Computing just got desktop sized",
-    "url": "https://www.redsharknews.com/quantum-computing-just-got-desktop-sized",
-    "upvotes": 9,
-    "author": "ax0ar",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27741458"
+    "title": "Variable Length Arrays are problematic",
+    "url": "https://blog.joren.ga/programming/vla-bad",
+    "upvotes": 10,
+    "author": "todsacerdoti",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27734676"
   },
   {
     "title": "Music for Programming",
     "url": "https://www.musicforprogramming.net/",
-    "upvotes": 235,
+    "upvotes": 241,
     "author": "Vaslo",
-    "comments": 115,
+    "comments": 119,
     "link": "https://news.ycombinator.com/item?id=27737887"
   },
   {
     "title": "A Closer Look at Fractals",
     "url": "https://blog.fract.al/post/62180302979/a-closer-look-at-fractals",
-    "upvotes": 71,
+    "upvotes": 72,
     "author": "signa11",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27737705"
   },
   {
-    "title": "Shadows Walking: With Wallace Stevens in New Haven",
-    "url": "https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/",
-    "upvotes": 24,
-    "author": "samclemens",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27735270"
+    "title": "European plan for gigantic new gravitational wave detector passes milestone",
+    "url": "https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone",
+    "upvotes": 96,
+    "author": "rbanffy",
+    "comments": 76,
+    "link": "https://news.ycombinator.com/item?id=27739499"
   }
 ]
