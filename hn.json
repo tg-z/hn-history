@@ -1,68 +1,84 @@
 [
   {
-    "title": "What Are the Odds We Are Living in a Computer Simulation?",
-    "url": "https://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation",
-    "upvotes": 19,
-    "author": "_ttg",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27737069"
-  },
-  {
     "title": "Probably Approximately Correct – A Formal Theory of Learning",
     "url": "https://jeremykun.com/2014/01/02/probably-approximately-correct-a-formal-theory-of-learning/",
-    "upvotes": 38,
+    "upvotes": 47,
     "author": "lnyan",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27736304"
+  },
+  {
+    "title": "Everything useful I know about kubectl",
+    "url": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
+    "upvotes": 20,
+    "author": "alexhwoods",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27737064"
   },
   {
     "title": "Stockfish 14",
     "url": "https://stockfishchess.org/blog/2021/stockfish-14/",
-    "upvotes": 367,
+    "upvotes": 377,
     "author": "0-_-0",
-    "comments": 160,
+    "comments": 165,
     "link": "https://news.ycombinator.com/item?id=27733455"
+  },
+  {
+    "title": "Git vs. Fossil: What you should have done vs. What you did",
+    "url": "https://www.fossil-scm.org/home/doc/trunk/www/fossil-v-git.wiki#history",
+    "upvotes": 12,
+    "author": "hasheddan",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27736980"
   },
   {
     "title": "New mystery AWS product ‘Infinidash’ goes viral despite being entirely fictional",
     "url": "https://www.theregister.com/2021/07/05/infinidash/",
-    "upvotes": 55,
+    "upvotes": 75,
     "author": "rcarmo",
-    "comments": 17,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27736788"
-  },
-  {
-    "title": "Reasonable Effectiveness of the Multiplicative Weights Update Algorithm",
-    "url": "https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/",
-    "upvotes": 90,
-    "author": "signa11",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27728072"
   },
   {
     "title": "‘Idempotency-Key’ IETF Standards Draft",
     "url": "https://brandur.org/fragments/idempotency-key-draft",
-    "upvotes": 22,
+    "upvotes": 28,
     "author": "U1F984",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27736082"
   },
   {
-    "title": "Mental Poker [pdf]",
-    "url": "https://people.csail.mit.edu/rivest/pubs/SRA81.pdf",
-    "upvotes": 97,
-    "author": "atamyrat",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27734693"
+    "title": "‘Highly Irregular’ Review: An Eloquent Confusion",
+    "url": "https://www.wsj.com/articles/highly-irregular-review-an-eloquent-confusion-11625177826",
+    "upvotes": 26,
+    "author": "pepys",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27727232"
+  },
+  {
+    "title": "Reasonable Effectiveness of the Multiplicative Weights Update Algorithm",
+    "url": "https://jeremykun.com/2017/02/27/the-reasonable-effectiveness-of-the-multiplicative-weights-update-algorithm/",
+    "upvotes": 93,
+    "author": "signa11",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27728072"
   },
   {
     "title": "Smarking",
     "url": "https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"
   },
   {
+    "title": "Mental Poker [pdf]",
+    "url": "https://people.csail.mit.edu/rivest/pubs/SRA81.pdf",
+    "upvotes": 104,
+    "author": "atamyrat",
+    "comments": 12,
+    "link": "https://news.ycombinator.com/item?id=27734693"
+  },
+  {
     "title": "Graph Programming",
     "url": "https://www.hyro.ai/post/graph-programming",
-    "upvotes": 31,
+    "upvotes": 41,
     "author": "Zivgid",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27728164"
@@ -70,17 +86,33 @@
   {
     "title": "Dabrowski’s Theory and Existential Depression in Gifted People",
     "url": "https://www.davidsongifted.org/gifted-blog/dabrowskis-theory-and-existential-depression-in-gifted-children-and-adults/",
-    "upvotes": 87,
+    "upvotes": 95,
     "author": "nopassrecover",
-    "comments": 39,
+    "comments": 41,
     "link": "https://news.ycombinator.com/item?id=27734990"
+  },
+  {
+    "title": "Canada Battles More Than 180 Wildfires with Hundreds Dead in Heat Wave",
+    "url": "https://www.npr.org/2021/07/04/1013026434/canada-battles-more-than-180-wildfires-with-hundreds-dead-in-heat-wave",
+    "upvotes": 57,
+    "author": "pseudolus",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27736485"
+  },
+  {
+    "title": "Cryptocurrency Blockchains Don’t Need to Be Energy Intensive",
+    "url": "https://spectrum.ieee.org/computing/networks/cryptocurrency-blockchains-dont-need-to-be-energy-intensive",
+    "upvotes": 67,
+    "author": "pseudolus",
+    "comments": 106,
+    "link": "https://news.ycombinator.com/item?id=27734495"
   },
   {
     "title": "Indiscriminate messaging and chatcontrol: Last chance to protest",
     "url": "https://www.patrick-breyer.de/en/indiscriminate-messaging-and-chatcontrol-last-chance-to-protest/",
-    "upvotes": 196,
+    "upvotes": 201,
     "author": "ColinWright",
-    "comments": 48,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27736435"
   },
   {
@@ -88,117 +120,101 @@
     "url": "http://classics.mit.edu/index.html",
     "upvotes": 13,
     "author": "prox",
-    "comments": 6,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27729062"
   },
   {
-    "title": "Everything Useful I Know About Kubectl",
-    "url": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
-    "upvotes": 3,
-    "author": "alexhwoods",
+    "title": "Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile",
+    "url": "https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/",
+    "upvotes": 4,
+    "author": "kieranmaine",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27737064"
-  },
-  {
-    "title": "Canada Battles More Than 180 Wildfires with Hundreds Dead in Heat Wave",
-    "url": "https://www.npr.org/2021/07/04/1013026434/canada-battles-more-than-180-wildfires-with-hundreds-dead-in-heat-wave",
-    "upvotes": 43,
-    "author": "pseudolus",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27736485"
-  },
-  {
-    "title": "Cryptocurrency Blockchains Don’t Need to Be Energy Intensive",
-    "url": "https://spectrum.ieee.org/computing/networks/cryptocurrency-blockchains-dont-need-to-be-energy-intensive",
-    "upvotes": 54,
-    "author": "pseudolus",
-    "comments": 82,
-    "link": "https://news.ycombinator.com/item?id=27734495"
-  },
-  {
-    "title": "Hydrogen fuel cell cars",
-    "url": "https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html",
-    "upvotes": 61,
-    "author": "k4lk",
-    "comments": 99,
-    "link": "https://news.ycombinator.com/item?id=27736231"
-  },
-  {
-    "title": "Some Days I Can’t Do Life – When everyday life becomes a struggle",
-    "url": "https://medium.com/invisible-illness/some-days-i-cant-do-life-47c83045cd05",
-    "upvotes": 43,
-    "author": "notoriousarun",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27736344"
+    "link": "https://news.ycombinator.com/item?id=27736733"
   },
   {
     "title": "Python Best Practices for a New Project in 2021",
     "url": "https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/",
-    "upvotes": 127,
+    "upvotes": 148,
     "author": "jedwhite",
-    "comments": 115,
+    "comments": 130,
     "link": "https://news.ycombinator.com/item?id=27736465"
-  },
-  {
-    "title": "Can a soundbar rival a surround-sound system in a blind listening test?",
-    "url": "https://www.nytimes.com/wirecutter/blog/soundbar-vs-surround-sound-system/",
-    "upvotes": 39,
-    "author": "ingve",
-    "comments": 56,
-    "link": "https://news.ycombinator.com/item?id=27728497"
-  },
-  {
-    "title": "Product validation frameworks are mostly useless without taste",
-    "url": "https://commoncog.com/blog/product-validation-taste/",
-    "upvotes": 61,
-    "author": "nsoonhui",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27725851"
   },
   {
     "title": "Ian Knot – Fastest Shoelace Knot",
     "url": "https://www.fieggen.com/shoelace/ianknot.htm",
-    "upvotes": 116,
+    "upvotes": 123,
     "author": "apsec112",
     "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27728002"
   },
   {
-    "title": "After pressuring telecom firms, Myanmar's junta bans executives from leaving",
-    "url": "https://www.reuters.com/world/asia-pacific/exclusive-after-pressuring-telecom-firms-myanmars-junta-bans-executives-leaving-2021-07-05/",
-    "upvotes": 53,
-    "author": "peterkelly",
-    "comments": 20,
-    "link": "https://news.ycombinator.com/item?id=27736171"
+    "title": "Hydrogen fuel cell cars",
+    "url": "https://www.bmw.com/en/innovation/how-hydrogen-fuel-cell-cars-work.html",
+    "upvotes": 63,
+    "author": "k4lk",
+    "comments": 110,
+    "link": "https://news.ycombinator.com/item?id=27736231"
+  },
+  {
+    "title": "The Chelsea Hotel Becomes a New York Battleground",
+    "url": "https://www.nytimes.com/2021/04/16/nyregion/chelsea-hotel-nyc.html",
+    "upvotes": 3,
+    "author": "lermontov",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27734277"
+  },
+  {
+    "title": "Product validation frameworks are mostly useless without taste",
+    "url": "https://commoncog.com/blog/product-validation-taste/",
+    "upvotes": 64,
+    "author": "nsoonhui",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27725851"
   },
   {
     "title": "A forgotten Anglo-Saxon colony on the north-eastern Black Sea coast",
     "url": "https://www.caitlingreen.org/2015/05/medieval-new-england-black-sea.html",
-    "upvotes": 100,
+    "upvotes": 103,
     "author": "diodorus",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27722935"
   },
   {
+    "title": "Ask HN: How much equity to give board members of a startup?",
+    "url": "item?id=27695376",
+    "upvotes": 7,
+    "author": "andrewstuart",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27695376"
+  },
+  {
+    "title": "After pressuring telecom firms, Myanmar's junta bans executives from leaving",
+    "url": "https://www.reuters.com/world/asia-pacific/exclusive-after-pressuring-telecom-firms-myanmars-junta-bans-executives-leaving-2021-07-05/",
+    "upvotes": 59,
+    "author": "peterkelly",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27736171"
+  },
+  {
     "title": "Students flee field as computer 'fad fades'",
     "url": "https://pessimistsarchive.substack.com/p/1d7a427e-5028-470d-906d-6c3f9980d1de",
-    "upvotes": 271,
+    "upvotes": 275,
     "author": "geocrasher",
-    "comments": 288,
+    "comments": 297,
     "link": "https://news.ycombinator.com/item?id=27734158"
   },
   {
-    "title": "GitHub Copilot generates valid secrets",
-    "url": "https://twitter.com/alexjc/status/1411966249437995010",
-    "upvotes": 142,
-    "author": "petulla",
-    "comments": 85,
-    "link": "https://news.ycombinator.com/item?id=27736460"
+    "title": "Some Days I Can’t Do Life – When everyday life becomes a struggle",
+    "url": "https://medium.com/invisible-illness/some-days-i-cant-do-life-47c83045cd05",
+    "upvotes": 52,
+    "author": "notoriousarun",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27736344"
   },
   {
     "title": "The Powder Toy",
     "url": "https://github.com/The-Powder-Toy/The-Powder-Toy",
-    "upvotes": 129,
+    "upvotes": 133,
     "author": "agluszak",
     "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27728946"
@@ -206,33 +222,17 @@
   {
     "title": "FINRA Orders Record Financial Penalties Against Robinhood",
     "url": "https://www.finra.org/media-center/newsreleases/2021/finra-orders-record-financial-penalties-against-robinhood-financial",
-    "upvotes": 146,
+    "upvotes": 151,
     "author": "kiyanwang",
-    "comments": 96,
+    "comments": 98,
     "link": "https://news.ycombinator.com/item?id=27734996"
   },
   {
-    "title": "The Good and the Limitations of Github Copilot",
-    "url": "https://blog.hrithwik.me/the-good-and-the-limitations-of-github-copilot",
-    "upvotes": 102,
-    "author": "hrithwikbha",
-    "comments": 121,
-    "link": "https://news.ycombinator.com/item?id=27734565"
-  },
-  {
-    "title": "Is Alexandra Elbakyan in real trouble this time?",
-    "url": "https://www.chronicle.com/article/is-the-pirate-queen-of-scientific-publishing-in-real-trouble-this-time",
-    "upvotes": 577,
-    "author": "Cream-Corn-11",
-    "comments": 323,
-    "link": "https://news.ycombinator.com/item?id=27730843"
-  },
-  {
-    "title": "SQLite: Vulnerabilities",
-    "url": "https://www.sqlite.org/cves.html",
-    "upvotes": 78,
-    "author": "tosh",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27736216"
+    "title": "GitHub Copilot generates valid secrets",
+    "url": "https://twitter.com/alexjc/status/1411966249437995010",
+    "upvotes": 161,
+    "author": "petulla",
+    "comments": 96,
+    "link": "https://news.ycombinator.com/item?id=27736460"
   }
 ]
