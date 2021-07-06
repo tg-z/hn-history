@@ -2,15 +2,23 @@
   {
     "title": "How to get better at painting without painting anything",
     "url": "http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything",
-    "upvotes": 56,
+    "upvotes": 82,
     "author": "intronextron",
-    "comments": 20,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27735292"
+  },
+  {
+    "title": "Roll Your Own Minilanguages with Mini-Interpreters",
+    "url": "http://www.textfiles.com/computers/abrash.lst",
+    "upvotes": 9,
+    "author": "bleachedsleet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27744044"
   },
   {
     "title": "Show HN: RSS feeds for arbitrary websites using CSS selectors",
     "url": "https://feed-me-up-scotty.vincenttunru.com/",
-    "upvotes": 421,
+    "upvotes": 427,
     "author": "Vinnl",
     "comments": 97,
     "link": "https://news.ycombinator.com/item?id=27739568"
@@ -18,7 +26,7 @@
   {
     "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism",
     "url": "https://github.com/rustviz/rustviz",
-    "upvotes": 120,
+    "upvotes": 126,
     "author": "belter",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27741963"
@@ -26,39 +34,23 @@
   {
     "title": "The Programmer's Brain",
     "url": "https://www.manning.com/books/the-programmers-brain",
-    "upvotes": 107,
+    "upvotes": 117,
     "author": "teleforce",
-    "comments": 39,
+    "comments": 40,
     "link": "https://news.ycombinator.com/item?id=27734473"
-  },
-  {
-    "title": "Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers",
-    "url": "https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/",
-    "upvotes": 41,
-    "author": "heshiebee",
-    "comments": 25,
-    "link": "https://news.ycombinator.com/item?id=27743800"
   },
   {
     "title": "Writing a firmware-only keylogger",
     "url": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
-    "upvotes": 228,
+    "upvotes": 233,
     "author": "jsnell",
-    "comments": 68,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27740295"
-  },
-  {
-    "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76",
-    "url": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
-    "upvotes": 309,
-    "author": "watchdogtimer",
-    "comments": 63,
-    "link": "https://news.ycombinator.com/item?id=27737718"
   },
   {
     "title": "How we trace a KV database with less than 5% performance impact",
     "url": "https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact",
-    "upvotes": 41,
+    "upvotes": 43,
     "author": "ngaut",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27738132"
@@ -66,74 +58,90 @@
   {
     "title": "Transfer.sh – Easy file sharing from the command line",
     "url": "https://transfer.sh",
-    "upvotes": 167,
+    "upvotes": 170,
     "author": "thunderbong",
-    "comments": 52,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27739991"
   },
   {
-    "title": "Raymond Chandler’s guide to street, hoodlum, and prison lingo",
-    "url": "https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/",
-    "upvotes": 26,
-    "author": "commons-tragedy",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27741026"
+    "title": "Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers",
+    "url": "https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/",
+    "upvotes": 60,
+    "author": "heshiebee",
+    "comments": 40,
+    "link": "https://news.ycombinator.com/item?id=27743800"
   },
   {
     "title": "Ever Given: Egypt agrees deal to release ship that blocked Suez Canal",
     "url": "https://www.bbc.com/news/world-middle-east-57719551",
-    "upvotes": 121,
+    "upvotes": 125,
     "author": "Aissen",
-    "comments": 55,
+    "comments": 63,
     "link": "https://news.ycombinator.com/item?id=27739860"
-  },
-  {
-    "title": "Identifying Valuable Pointers in Heap Data [pdf]",
-    "url": "https://mickens.seas.harvard.edu/files/mickens/files/memory_cartography.pdf",
-    "upvotes": 15,
-    "author": "signa11",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27735240"
   },
   {
     "title": "AI Explorables: big ideas in machine learning, simply explained",
     "url": "https://pair.withgoogle.com/explorables/",
-    "upvotes": 124,
+    "upvotes": 128,
     "author": "smitop",
-    "comments": 44,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27739694"
   },
   {
     "title": "The Rise and Fall of the OLAP Cube",
     "url": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
-    "upvotes": 164,
+    "upvotes": 168,
     "author": "smartmic",
-    "comments": 72,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27736713"
+  },
+  {
+    "title": "Raymond Chandler’s guide to street, hoodlum, and prison lingo",
+    "url": "https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/",
+    "upvotes": 32,
+    "author": "commons-tragedy",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27741026"
+  },
+  {
+    "title": "Identifying Valuable Pointers in Heap Data [pdf]",
+    "url": "https://mickens.seas.harvard.edu/files/mickens/files/memory_cartography.pdf",
+    "upvotes": 16,
+    "author": "signa11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27735240"
   },
   {
     "title": "Show HN: Lego Brick Scanner – open-source Boilerplate",
     "url": "https://github.com/GistNoesis/BrickRegistration",
-    "upvotes": 139,
+    "upvotes": 140,
     "author": "GistNoesis",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27738232"
   },
   {
-    "title": "Computing Performance on the Horizon",
-    "url": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
-    "upvotes": 159,
-    "author": "mrry",
-    "comments": 59,
-    "link": "https://news.ycombinator.com/item?id=27738312"
-  },
-  {
     "title": "Disable comments make static analysis tools worse",
     "url": "https://jfmengels.net/disable-comments/",
-    "upvotes": 6,
+    "upvotes": 9,
     "author": "todsacerdoti",
-    "comments": 2,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27734889"
+  },
+  {
+    "title": "70% of respondents say quality of life in San Francisco has declined",
+    "url": "https://www.sfgate.com/bayarea/article/San-Francisco-Chamber-of-Commerce-poll-crime-16273969.php",
+    "upvotes": 6,
+    "author": "hndirect",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27744222"
+  },
+  {
+    "title": "Computing Performance on the Horizon",
+    "url": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
+    "upvotes": 162,
+    "author": "mrry",
+    "comments": 60,
+    "link": "https://news.ycombinator.com/item?id=27738312"
   },
   {
     "title": "Rescale",
@@ -142,42 +150,50 @@
   {
     "title": "Audacity fork without any sentry telemetry or crash reporting",
     "url": "https://github.com/cookiengineer/audacity",
-    "upvotes": 262,
+    "upvotes": 271,
     "author": "ushakov",
-    "comments": 186,
+    "comments": 192,
     "link": "https://news.ycombinator.com/item?id=27741910"
   },
   {
     "title": "Student designs device that stops blood loss from stab wounds",
     "url": "https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html",
-    "upvotes": 56,
+    "upvotes": 60,
     "author": "sirteno",
-    "comments": 43,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27741205"
   },
   {
     "title": "The future of deep learning is photonic",
     "url": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
-    "upvotes": 119,
+    "upvotes": 120,
     "author": "Anon84",
     "comments": 39,
     "link": "https://news.ycombinator.com/item?id=27738029"
   },
   {
+    "title": "The Eraser Men",
+    "url": "https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men",
+    "upvotes": 4,
+    "author": "breathnow",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27741111"
+  },
+  {
     "title": "A primer on carbon pricing and carbon border adjustments",
     "url": "https://economics.td.com/esg-carbon-report",
-    "upvotes": 56,
+    "upvotes": 61,
     "author": "toomuchtodo",
-    "comments": 32,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27742617"
   },
   {
-    "title": "AtGames Legends virtual pinball review: The better pre-built choice mostly",
-    "url": "https://arstechnica.com/gaming/2021/07/atgames-legends-virtual-pinball-review-the-better-pre-built-choice-mostly/",
-    "upvotes": 32,
-    "author": "Tomte",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27738583"
+    "title": "‘Orwellian’: Facebook faces backlash for ‘harmful extremist content’ alerts",
+    "url": "https://www.washingtontimes.com/news/2021/jul/4/backlash-hits-facebook-over-new-extremist-content-/",
+    "upvotes": 4,
+    "author": "anonymousiam",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27743655"
   },
   {
     "title": "Design Engineering Handbook [pdf]",
@@ -188,51 +204,35 @@
     "link": "https://news.ycombinator.com/item?id=27739751"
   },
   {
-    "title": "Variable Length Arrays are problematic",
-    "url": "https://blog.joren.ga/programming/vla-bad",
-    "upvotes": 39,
-    "author": "todsacerdoti",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27734676"
-  },
-  {
-    "title": "The long history of 'Bombay time' and resistance to colonial rule",
-    "url": "https://www.atlasobscura.com/articles/bombay-time",
-    "upvotes": 38,
-    "author": "yusuf_giftworks",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27742984"
-  },
-  {
     "title": "Measuring memory usage in Python: it’s tricky",
     "url": "https://pythonspeed.com/articles/measuring-memory-python/",
-    "upvotes": 95,
+    "upvotes": 98,
     "author": "itamarst",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27738566"
   },
   {
-    "title": "How iOS 15 makes apps launch faster",
-    "url": "https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520",
-    "upvotes": 132,
-    "author": "jshchnz",
-    "comments": 49,
-    "link": "https://news.ycombinator.com/item?id=27741210"
+    "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76",
+    "url": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
+    "upvotes": 313,
+    "author": "watchdogtimer",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27737718"
   },
   {
-    "title": "Tony Hoare answers questions [video]",
-    "url": "https://www.newton.ac.uk/seminar/20210607180018301/",
-    "upvotes": 73,
-    "author": "timthorn",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27739494"
+    "title": "AtGames Legends virtual pinball review: The better pre-built choice mostly",
+    "url": "https://arstechnica.com/gaming/2021/07/atgames-legends-virtual-pinball-review-the-better-pre-built-choice-mostly/",
+    "upvotes": 32,
+    "author": "Tomte",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27738583"
   },
   {
-    "title": "A Closer Look at Fractals",
-    "url": "https://blog.fract.al/post/62180302979/a-closer-look-at-fractals",
-    "upvotes": 85,
-    "author": "signa11",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27737705"
+    "title": "Variable Length Arrays are problematic",
+    "url": "https://blog.joren.ga/programming/vla-bad",
+    "upvotes": 39,
+    "author": "todsacerdoti",
+    "comments": 16,
+    "link": "https://news.ycombinator.com/item?id=27734676"
   }
 ]
