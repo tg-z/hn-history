@@ -1,204 +1,196 @@
 [
   {
+    "title": "John Carmack wishes he'd used the BSD license instead of the GPL",
+    "url": "https://twitter.com/ID_AA_Carmack/status/1412271091393994754",
+    "upvotes": 42,
+    "author": "bifrost",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27744372"
+  },
+  {
     "title": "How to get better at painting without painting anything",
     "url": "http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything",
-    "upvotes": 98,
+    "upvotes": 122,
     "author": "intronextron",
-    "comments": 34,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27735292"
   },
   {
-    "title": "Roll Your Own Minilanguages with Mini-Interpreters",
+    "title": "Roll your own minilanguages with mini-interpreters",
     "url": "http://www.textfiles.com/computers/abrash.lst",
-    "upvotes": 13,
+    "upvotes": 21,
     "author": "bleachedsleet",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27744044"
   },
   {
-    "title": "‘Orwellian’: Facebook faces backlash for ‘harmful extremist content’ alerts",
-    "url": "https://www.washingtontimes.com/news/2021/jul/4/backlash-hits-facebook-over-new-extremist-content-/",
-    "upvotes": 24,
-    "author": "anonymousiam",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27743655"
-  },
-  {
     "title": "Show HN: RSS feeds for arbitrary websites using CSS selectors",
     "url": "https://feed-me-up-scotty.vincenttunru.com/",
-    "upvotes": 429,
+    "upvotes": 431,
     "author": "Vinnl",
     "comments": 98,
     "link": "https://news.ycombinator.com/item?id=27739568"
   },
   {
-    "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism",
-    "url": "https://github.com/rustviz/rustviz",
-    "upvotes": 132,
-    "author": "belter",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27741963"
-  },
-  {
     "title": "The Programmer's Brain",
     "url": "https://www.manning.com/books/the-programmers-brain",
-    "upvotes": 120,
+    "upvotes": 125,
     "author": "teleforce",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27734473"
   },
   {
-    "title": "70% of respondents say quality of life in San Francisco has declined",
-    "url": "https://www.sfgate.com/bayarea/article/San-Francisco-Chamber-of-Commerce-poll-crime-16273969.php",
-    "upvotes": 35,
-    "author": "hndirect",
-    "comments": 12,
-    "link": "https://news.ycombinator.com/item?id=27744222"
+    "title": "Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers",
+    "url": "https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/",
+    "upvotes": 90,
+    "author": "heshiebee",
+    "comments": 54,
+    "link": "https://news.ycombinator.com/item?id=27743800"
+  },
+  {
+    "title": "No More Movies",
+    "url": "https://jayriverlong.github.io/2021/07/05/movies.html",
+    "upvotes": 26,
+    "author": "jeffreyrogers",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27743738"
   },
   {
     "title": "Writing a firmware-only keylogger",
     "url": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
-    "upvotes": 234,
+    "upvotes": 238,
     "author": "jsnell",
-    "comments": 70,
+    "comments": 74,
     "link": "https://news.ycombinator.com/item?id=27740295"
   },
   {
     "title": "Transfer.sh – Easy file sharing from the command line",
     "url": "https://transfer.sh",
-    "upvotes": 173,
+    "upvotes": 186,
     "author": "thunderbong",
-    "comments": 55,
+    "comments": 57,
     "link": "https://news.ycombinator.com/item?id=27739991"
   },
   {
     "title": "How we trace a KV database with less than 5% performance impact",
     "url": "https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact",
-    "upvotes": 43,
+    "upvotes": 45,
     "author": "ngaut",
     "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27738132"
   },
   {
+    "title": "Disable comments make static analysis tools worse",
+    "url": "https://jfmengels.net/disable-comments/",
+    "upvotes": 14,
+    "author": "todsacerdoti",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27734889"
+  },
+  {
     "title": "Ever Given: Egypt agrees deal to release ship that blocked Suez Canal",
     "url": "https://www.bbc.com/news/world-middle-east-57719551",
-    "upvotes": 125,
+    "upvotes": 130,
     "author": "Aissen",
-    "comments": 67,
+    "comments": 68,
     "link": "https://news.ycombinator.com/item?id=27739860"
   },
   {
-    "title": "Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers",
-    "url": "https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/",
-    "upvotes": 68,
-    "author": "heshiebee",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27743800"
-  },
-  {
-    "title": "Disable comments make static analysis tools worse",
-    "url": "https://jfmengels.net/disable-comments/",
+    "title": "The Eraser Men",
+    "url": "https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men",
     "upvotes": 11,
-    "author": "todsacerdoti",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27734889"
+    "author": "breathnow",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27741111"
   },
   {
     "title": "AI Explorables: big ideas in machine learning, simply explained",
     "url": "https://pair.withgoogle.com/explorables/",
-    "upvotes": 130,
+    "upvotes": 134,
     "author": "smitop",
-    "comments": 48,
+    "comments": 56,
     "link": "https://news.ycombinator.com/item?id=27739694"
+  },
+  {
+    "title": "Identifying Valuable Pointers in Heap Data [pdf]",
+    "url": "https://mickens.seas.harvard.edu/files/mickens/files/memory_cartography.pdf",
+    "upvotes": 21,
+    "author": "signa11",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27735240"
+  },
+  {
+    "title": "Raymond Chandler’s guide to street, hoodlum, and prison lingo",
+    "url": "https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/",
+    "upvotes": 36,
+    "author": "commons-tragedy",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27741026"
   },
   {
     "title": "The Rise and Fall of the OLAP Cube",
     "url": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
-    "upvotes": 173,
+    "upvotes": 176,
     "author": "smartmic",
-    "comments": 74,
+    "comments": 76,
     "link": "https://news.ycombinator.com/item?id=27736713"
+  },
+  {
+    "title": "Computing Performance on the Horizon",
+    "url": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
+    "upvotes": 164,
+    "author": "mrry",
+    "comments": 62,
+    "link": "https://news.ycombinator.com/item?id=27738312"
   },
   {
     "title": "Show HN: Lego Brick Scanner – open-source Boilerplate",
     "url": "https://github.com/GistNoesis/BrickRegistration",
-    "upvotes": 140,
+    "upvotes": 142,
     "author": "GistNoesis",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27738232"
   },
   {
-    "title": "Raymond Chandler’s guide to street, hoodlum, and prison lingo",
-    "url": "https://flashbak.com/raymond-chandlers-guide-to-street-hoodlum-and-prison-lingo-443428/",
-    "upvotes": 34,
-    "author": "commons-tragedy",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27741026"
+    "title": "Desperate Measures",
+    "url": "https://www.historytoday.com/archive/history-matters/desperate-measures",
+    "upvotes": 12,
+    "author": "Vigier",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27734561"
   },
   {
     "title": "Rescale",
     "url": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
   },
   {
-    "title": "Identifying Valuable Pointers in Heap Data [pdf]",
-    "url": "https://mickens.seas.harvard.edu/files/mickens/files/memory_cartography.pdf",
-    "upvotes": 17,
-    "author": "signa11",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27735240"
-  },
-  {
-    "title": "Computing Performance on the Horizon",
-    "url": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
-    "upvotes": 162,
-    "author": "mrry",
-    "comments": 60,
-    "link": "https://news.ycombinator.com/item?id=27738312"
+    "title": "Audacity fork without any sentry telemetry or crash reporting",
+    "url": "https://github.com/cookiengineer/audacity",
+    "upvotes": 286,
+    "author": "ushakov",
+    "comments": 203,
+    "link": "https://news.ycombinator.com/item?id=27741910"
   },
   {
     "title": "Student designs device that stops blood loss from stab wounds",
     "url": "https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html",
-    "upvotes": 62,
+    "upvotes": 65,
     "author": "sirteno",
-    "comments": 50,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27741205"
   },
   {
-    "title": "Audacity fork without any sentry telemetry or crash reporting",
-    "url": "https://github.com/cookiengineer/audacity",
-    "upvotes": 276,
-    "author": "ushakov",
-    "comments": 200,
-    "link": "https://news.ycombinator.com/item?id=27741910"
-  },
-  {
-    "title": "The future of deep learning is photonic",
-    "url": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
-    "upvotes": 120,
-    "author": "Anon84",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27738029"
-  },
-  {
-    "title": "The Eraser Men",
-    "url": "https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men",
-    "upvotes": 5,
-    "author": "breathnow",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27741111"
-  },
-  {
-    "title": "No More Movies",
-    "url": "https://jayriverlong.github.io/2021/07/05/movies.html",
-    "upvotes": 6,
-    "author": "jeffreyrogers",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27743738"
+    "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism",
+    "url": "https://github.com/rustviz/rustviz",
+    "upvotes": 136,
+    "author": "belter",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27741963"
   },
   {
     "title": "A primer on carbon pricing and carbon border adjustments",
     "url": "https://economics.td.com/esg-carbon-report",
-    "upvotes": 63,
+    "upvotes": 65,
     "author": "toomuchtodo",
     "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27742617"
@@ -206,26 +198,26 @@
   {
     "title": "Design Engineering Handbook [pdf]",
     "url": "https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf",
-    "upvotes": 70,
+    "upvotes": 73,
     "author": "luispa",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27739751"
   },
   {
+    "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76",
+    "url": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
+    "upvotes": 318,
+    "author": "watchdogtimer",
+    "comments": 67,
+    "link": "https://news.ycombinator.com/item?id=27737718"
+  },
+  {
     "title": "Measuring memory usage in Python: it’s tricky",
     "url": "https://pythonspeed.com/articles/measuring-memory-python/",
-    "upvotes": 98,
+    "upvotes": 100,
     "author": "itamarst",
     "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27738566"
-  },
-  {
-    "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76",
-    "url": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
-    "upvotes": 315,
-    "author": "watchdogtimer",
-    "comments": 66,
-    "link": "https://news.ycombinator.com/item?id=27737718"
   },
   {
     "title": "AtGames Legends virtual pinball review: The better pre-built choice mostly",
@@ -234,5 +226,13 @@
     "author": "Tomte",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27738583"
+  },
+  {
+    "title": "Goodbye C developers: The future of programming with certified program synthesis",
+    "url": "https://gopiandcode.uk/logs/log-certified-synthesis.html",
+    "upvotes": 4,
+    "author": "tluyben2",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27743740"
   }
 ]
