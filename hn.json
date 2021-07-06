@@ -2,57 +2,65 @@
   {
     "title": "Console Do Not Track",
     "url": "https://consoledonottrack.com",
-    "upvotes": 251,
+    "upvotes": 288,
     "author": "thih9",
-    "comments": 97,
+    "comments": 111,
     "link": "https://news.ycombinator.com/item?id=27746587"
   },
   {
     "title": "The AI Wolf That Preferred Suicide over Eating Sheep",
     "url": "https://lancengym.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710",
-    "upvotes": 55,
+    "upvotes": 78,
     "author": "lancengym",
-    "comments": 28,
+    "comments": 48,
     "link": "https://news.ycombinator.com/item?id=27746815"
+  },
+  {
+    "title": "Linux Rust Support",
+    "url": "https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/",
+    "upvotes": 219,
+    "author": "doener",
+    "comments": 159,
+    "link": "https://news.ycombinator.com/item?id=27746130"
   },
   {
     "title": "Libgccjit AOT Codegen for Rustc",
     "url": "https://github.com/antoyo/rustc_codegen_gcc",
-    "upvotes": 29,
+    "upvotes": 30,
     "author": "varbhat",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27746877"
   },
   {
-    "title": "Linux Rust Support",
-    "url": "https://lore.kernel.org/lkml/20210704202756.29107-1-ojeda@kernel.org/",
-    "upvotes": 194,
-    "author": "doener",
-    "comments": 149,
-    "link": "https://news.ycombinator.com/item?id=27746130"
-  },
-  {
     "title": "How to get better at painting without painting anything",
     "url": "http://www.learning-to-see.co.uk/how-to-get-better-at-painting-without-painting-anything",
-    "upvotes": 316,
+    "upvotes": 322,
     "author": "intronextron",
-    "comments": 112,
+    "comments": 114,
     "link": "https://news.ycombinator.com/item?id=27735292"
   },
   {
     "title": "OSSU: Path to a free, self-taught education in computer science",
     "url": "https://github.com/ossu/computer-science",
-    "upvotes": 186,
+    "upvotes": 193,
     "author": "axiomdata316",
-    "comments": 77,
+    "comments": 78,
     "link": "https://news.ycombinator.com/item?id=27744255"
+  },
+  {
+    "title": "How to Migrate a Git Repository from GitHub to Bitbucket",
+    "url": "https://www.bluelabellabs.com/blog/how-to-migrate-git-repository-from-github-to-bitbucket/",
+    "upvotes": 12,
+    "author": "omgbobbyg",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27747231"
   },
   {
     "title": "No More Movies",
     "url": "https://jayriverlong.github.io/2021/07/05/movies.html",
-    "upvotes": 248,
+    "upvotes": 267,
     "author": "jeffreyrogers",
-    "comments": 201,
+    "comments": 219,
     "link": "https://news.ycombinator.com/item?id=27743738"
   },
   {
@@ -60,92 +68,92 @@
     "url": "https://angel.co/company/fuzzbuzz/jobs/1481052-software-engineer-fuzzing-engine"
   },
   {
-    "title": "Israel data reportedly shows efficacy drop of Pfizer-BioNTech for delta variant",
-    "url": "https://fortune.com/2021/07/05/israel-data-plunge-efficacy-pfizer-biontech-vaccine-delta-variant/",
-    "upvotes": 30,
-    "author": "kleiba",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27747512"
+    "title": "Garden Hermit",
+    "url": "https://en.wikipedia.org/wiki/Garden_hermit",
+    "upvotes": 27,
+    "author": "polm23",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27734627"
   },
   {
     "title": "Miniflare – Local simulator for developing and testing Cloudflare Workers",
     "url": "https://github.com/mrbbot/miniflare",
-    "upvotes": 66,
+    "upvotes": 71,
     "author": "eidam",
-    "comments": 4,
+    "comments": 7,
     "link": "https://news.ycombinator.com/item?id=27736706"
-  },
-  {
-    "title": "Kaspersky Password Manager: All your passwords are belong to us",
-    "url": "https://donjon.ledger.com/kaspersky-password-manager/",
-    "upvotes": 103,
-    "author": "syck",
-    "comments": 43,
-    "link": "https://news.ycombinator.com/item?id=27746494"
   },
   {
     "title": "Compare AsciiDoc and Markdown",
     "url": "https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/",
-    "upvotes": 109,
+    "upvotes": 113,
     "author": "mad2021",
-    "comments": 62,
+    "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27744509"
   },
   {
-    "title": "Garden Hermit",
-    "url": "https://en.wikipedia.org/wiki/Garden_hermit",
-    "upvotes": 21,
-    "author": "polm23",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27734627"
+    "title": "Kaspersky Password Manager: All your passwords are belong to us",
+    "url": "https://donjon.ledger.com/kaspersky-password-manager/",
+    "upvotes": 112,
+    "author": "syck",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=27746494"
   },
   {
-    "title": "Audacity is a poster child for what can be achieved with open-source software",
-    "url": "https://www.theregister.com/2021/07/05/audacity_profile/",
-    "upvotes": 53,
-    "author": "samizdis",
-    "comments": 33,
-    "link": "https://news.ycombinator.com/item?id=27736042"
+    "title": "Nintendo announces Switch OLED Model",
+    "url": "https://www.nintendo.com/switch/oled-model/",
+    "upvotes": 12,
+    "author": "uptown",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27748001"
   },
   {
-    "title": "How to Migrate a Git Repository from GitHub to Bitbucket",
-    "url": "https://www.bluelabellabs.com/blog/how-to-migrate-git-repository-from-github-to-bitbucket/",
-    "upvotes": 5,
-    "author": "omgbobbyg",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27747231"
+    "title": "Welcome to dystopia: getting fired from your job as an Amazon worker by an app",
+    "url": "https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia",
+    "upvotes": 22,
+    "author": "thinkingemote",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27747500"
   },
   {
     "title": "The Programmer's Brain",
     "url": "https://www.manning.com/books/the-programmers-brain",
-    "upvotes": 228,
+    "upvotes": 232,
     "author": "teleforce",
-    "comments": 77,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=27734473"
+  },
+  {
+    "title": "Ask HN: What was your best passive income in 2020?",
+    "url": "item?id=27747934",
+    "upvotes": 5,
+    "author": "ankushio",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27747934"
   },
   {
     "title": "“I wish I could have licensed the Id source code releases as BSD”",
     "url": "https://twitter.com/ID_AA_Carmack/status/1412271091393994754",
-    "upvotes": 235,
+    "upvotes": 245,
     "author": "bifrost",
-    "comments": 279,
+    "comments": 287,
     "link": "https://news.ycombinator.com/item?id=27744372"
-  },
-  {
-    "title": "How many robots does it take to run a grocery store? [video]",
-    "url": "https://www.youtube.com/watch?v=ssZ_8cqfBlE",
-    "upvotes": 87,
-    "author": "helsinkiandrew",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27746128"
   },
   {
     "title": "The Eraser Men",
     "url": "https://www.rouleur.cc/blogs/the-rouleur-journal/the-eraser-men",
-    "upvotes": 90,
+    "upvotes": 93,
     "author": "breathnow",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27741111"
+  },
+  {
+    "title": "I think it's time we broke for lunch",
+    "url": "http://www.economist.com/node/18557594",
+    "upvotes": 18,
+    "author": "Tomte",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27736897"
   },
   {
     "title": "Roll your own minilanguages with mini-interpreters",
@@ -156,57 +164,41 @@
     "link": "https://news.ycombinator.com/item?id=27744044"
   },
   {
-    "title": "I think it's time we broke for lunch",
-    "url": "http://www.economist.com/node/18557594",
-    "upvotes": 16,
-    "author": "Tomte",
-    "comments": 7,
-    "link": "https://news.ycombinator.com/item?id=27736897"
+    "title": "The future of programming with certified program synthesis",
+    "url": "https://gopiandcode.uk/logs/log-certified-synthesis.html",
+    "upvotes": 60,
+    "author": "tluyben2",
+    "comments": 46,
+    "link": "https://news.ycombinator.com/item?id=27743740"
   },
   {
     "title": "Twitter has lost liability protection in India, government says",
     "url": "https://techcrunch.com/2021/07/06/twitter-has-lost-liability-protection-in-india-government-says/",
-    "upvotes": 94,
+    "upvotes": 99,
     "author": "jmsflknr",
-    "comments": 87,
+    "comments": 91,
     "link": "https://news.ycombinator.com/item?id=27745585"
   },
   {
-    "title": "The future of programming with certified program synthesis",
-    "url": "https://gopiandcode.uk/logs/log-certified-synthesis.html",
-    "upvotes": 59,
-    "author": "tluyben2",
-    "comments": 45,
-    "link": "https://news.ycombinator.com/item?id=27743740"
-  },
-  {
-    "title": "Welcome to dystopia: getting fired from your job as an Amazon worker by an app",
-    "url": "https://www.theguardian.com/commentisfree/2021/jul/05/amazon-worker-fired-app-dystopia",
-    "upvotes": 7,
-    "author": "thinkingemote",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27747500"
+    "title": "How many robots does it take to run a grocery store? [video]",
+    "url": "https://www.youtube.com/watch?v=ssZ_8cqfBlE",
+    "upvotes": 92,
+    "author": "helsinkiandrew",
+    "comments": 59,
+    "link": "https://news.ycombinator.com/item?id=27746128"
   },
   {
     "title": "Mind-controlling parasite makes hyena cubs more reckless around lions",
     "url": "https://www.nationalgeographic.com/animals/article/mind-controlling-parasite-makes-hyena-cubs-more-reckless-around-lions",
-    "upvotes": 74,
+    "upvotes": 78,
     "author": "awb",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27744669"
-  },
-  {
-    "title": "Disable comments make static analysis tools worse",
-    "url": "https://jfmengels.net/disable-comments/",
-    "upvotes": 49,
-    "author": "todsacerdoti",
     "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27734889"
+    "link": "https://news.ycombinator.com/item?id=27744669"
   },
   {
     "title": "Intelligence and Practice in Chess Development",
     "url": "https://www.chessable.com/blog/chess-science-in-the-making/",
-    "upvotes": 26,
+    "upvotes": 27,
     "author": "MAXPOOL",
     "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27736379"
@@ -214,17 +206,17 @@
   {
     "title": "Running the 1G Analog Phone from 1997",
     "url": "https://medium.com/geekculture/howto-running-the-1g-analog-phone-from-1997-3caec77a9df9",
-    "upvotes": 94,
+    "upvotes": 98,
     "author": "possiblelion",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27736912"
   },
   {
     "title": "Apple Reportedly Storing over 8M Terabytes of iCloud Data on Google Servers",
     "url": "https://www.macrumors.com/2021/06/29/icloud-data-stored-on-google-cloud-increasing/",
-    "upvotes": 183,
+    "upvotes": 185,
     "author": "heshiebee",
-    "comments": 164,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=27743800"
   },
   {
@@ -234,5 +226,13 @@
     "author": "ngaut",
     "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27738132"
+  },
+  {
+    "title": "The Beasts That Keep the Beat",
+    "url": "https://www.quantamagazine.org/the-beasts-that-keep-the-beat-20160322",
+    "upvotes": 17,
+    "author": "absolute100",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27740575"
   }
 ]
