@@ -2,81 +2,97 @@
   {
     "title": "Show HN: RSS feeds for arbitrary websites using CSS selectors",
     "url": "https://feed-me-up-scotty.vincenttunru.com/",
-    "upvotes": 323,
+    "upvotes": 345,
     "author": "Vinnl",
     "comments": 86,
     "link": "https://news.ycombinator.com/item?id=27739568"
   },
   {
-    "title": "A Primer on Carbon Pricing and Carbon Border Adjustments",
-    "url": "https://economics.td.com/esg-carbon-report",
-    "upvotes": 9,
-    "author": "toomuchtodo",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27742617"
+    "title": "An Open Source Armoured Turban for Motorcyclists",
+    "url": "https://toughturban.com/",
+    "upvotes": 10,
+    "author": "motohagiography",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27742824"
   },
   {
-    "title": "Writing a Firmware-Only Keylogger",
+    "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism",
+    "url": "https://github.com/rustviz/rustviz",
+    "upvotes": 50,
+    "author": "belter",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27741963"
+  },
+  {
+    "title": "Writing a firmware-only keylogger",
     "url": "https://8051enthusiast.github.io/2021/07/05/002-wifi_fun.html",
-    "upvotes": 175,
+    "upvotes": 184,
     "author": "jsnell",
-    "comments": 40,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27740295"
-  },
-  {
-    "title": "Ever Given: Egypt agrees deal to release ship that blocked Suez Canal",
-    "url": "https://www.bbc.com/news/world-middle-east-57719551",
-    "upvotes": 95,
-    "author": "Aissen",
-    "comments": 29,
-    "link": "https://news.ycombinator.com/item?id=27739860"
   },
   {
     "title": "XiangShan open-source 64-bit RISC-V processor to rival Arm Cortex-A76",
     "url": "https://www.cnx-software.com/2021/07/05/xiangshan-open-source-64-bit-risc-v-processor-rival-arm-cortex-a76/",
-    "upvotes": 271,
+    "upvotes": 281,
     "author": "watchdogtimer",
-    "comments": 49,
+    "comments": 55,
     "link": "https://news.ycombinator.com/item?id=27737718"
+  },
+  {
+    "title": "Ever Given: Egypt agrees deal to release ship that blocked Suez Canal",
+    "url": "https://www.bbc.com/news/world-middle-east-57719551",
+    "upvotes": 102,
+    "author": "Aissen",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27739860"
   },
   {
     "title": "Transfer.sh – Easy file sharing from the command line",
     "url": "https://transfer.sh",
-    "upvotes": 110,
+    "upvotes": 118,
     "author": "thunderbong",
     "comments": 44,
     "link": "https://news.ycombinator.com/item?id=27739991"
   },
   {
-    "title": "RustViz: Generates Visualizations of Rust Lifetime and Borrowing Mechanism",
-    "url": "https://github.com/rustviz/rustviz",
-    "upvotes": 29,
-    "author": "belter",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27741963"
+    "title": "The Programmer's Brain",
+    "url": "https://www.manning.com/books/the-programmers-brain",
+    "upvotes": 23,
+    "author": "teleforce",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27734473"
   },
   {
     "title": "The Rise and Fall of the OLAP Cube",
     "url": "https://www.holistics.io/blog/the-rise-and-fall-of-the-olap-cube/",
-    "upvotes": 133,
+    "upvotes": 140,
     "author": "smartmic",
     "comments": 62,
     "link": "https://news.ycombinator.com/item?id=27736713"
   },
   {
+    "title": "A primer on carbon pricing and carbon border adjustments",
+    "url": "https://economics.td.com/esg-carbon-report",
+    "upvotes": 34,
+    "author": "toomuchtodo",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27742617"
+  },
+  {
     "title": "Audacity fork without any sentry telemetry or crash reporting",
     "url": "https://github.com/cookiengineer/audacity",
-    "upvotes": 131,
+    "upvotes": 153,
     "author": "ushakov",
-    "comments": 63,
+    "comments": 103,
     "link": "https://news.ycombinator.com/item?id=27741910"
   },
   {
     "title": "GitHub Copilot is not infringing copyright",
     "url": "https://juliareda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/",
-    "upvotes": 261,
+    "upvotes": 270,
     "author": "aarroyoc",
-    "comments": 408,
+    "comments": 424,
     "link": "https://news.ycombinator.com/item?id=27736650"
   },
   {
@@ -84,155 +100,139 @@
     "url": "https://jobs.lever.co/rescale/399a7fc1-8318-49fa-a73d-3a1eb7a50c3b?lever-origin=applied&lever-source%5B%5D=Hacker%20News"
   },
   {
-    "title": "Computing Performance on the Horizon",
-    "url": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
-    "upvotes": 138,
-    "author": "mrry",
-    "comments": 46,
-    "link": "https://news.ycombinator.com/item?id=27738312"
+    "title": "AI Explorables: big ideas in machine learning, simply explained",
+    "url": "https://pair.withgoogle.com/explorables/",
+    "upvotes": 98,
+    "author": "smitop",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=27739694"
   },
   {
     "title": "Show HN: Lego Brick Scanner – open-source Boilerplate",
     "url": "https://github.com/GistNoesis/BrickRegistration",
-    "upvotes": 122,
+    "upvotes": 126,
     "author": "GistNoesis",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27738232"
   },
   {
-    "title": "AI Explorables: big ideas in machine learning, simply explained",
-    "url": "https://pair.withgoogle.com/explorables/",
-    "upvotes": 93,
-    "author": "smitop",
-    "comments": 21,
-    "link": "https://news.ycombinator.com/item?id=27739694"
+    "title": "Computing Performance on the Horizon",
+    "url": "https://brendangregg.com/blog/2021-07-05/computing-performance-on-the-horizon.html",
+    "upvotes": 140,
+    "author": "mrry",
+    "comments": 51,
+    "link": "https://news.ycombinator.com/item?id=27738312"
   },
   {
     "title": "How iOS 15 makes apps launch faster",
     "url": "https://medium.com/geekculture/how-ios-15-makes-your-app-launch-faster-51cf0aa6c520",
-    "upvotes": 99,
+    "upvotes": 107,
     "author": "jshchnz",
-    "comments": 30,
+    "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27741210"
   },
   {
     "title": "Student designs device that stops blood loss from stab wounds",
     "url": "https://www.bbc.co.uk/news/uk-england-leicestershire-57692160.html",
-    "upvotes": 18,
+    "upvotes": 25,
     "author": "sirteno",
-    "comments": 9,
+    "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27741205"
   },
   {
-    "title": "The Programmer's Brain",
-    "url": "https://www.manning.com/books/the-programmers-brain",
-    "upvotes": 5,
-    "author": "teleforce",
+    "title": "The future of deep learning is photonic",
+    "url": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
+    "upvotes": 101,
+    "author": "Anon84",
+    "comments": 30,
+    "link": "https://news.ycombinator.com/item?id=27738029"
+  },
+  {
+    "title": "How we trace a KV database with less than 5% performance impact",
+    "url": "https://en.pingcap.com/blog/how-we-trace-a-kv-database-with-less-than-5-percent-performance-impact",
+    "upvotes": 3,
+    "author": "ngaut",
     "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27734473"
+    "link": "https://news.ycombinator.com/item?id=27738132"
   },
   {
-    "title": "AtGames Legends virtual pinball review: The better pre-built choice mostly",
-    "url": "https://arstechnica.com/gaming/2021/07/atgames-legends-virtual-pinball-review-the-better-pre-built-choice-mostly/",
-    "upvotes": 15,
-    "author": "Tomte",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27738583"
+    "title": "Variable Length Arrays are problematic",
+    "url": "https://blog.joren.ga/programming/vla-bad",
+    "upvotes": 20,
+    "author": "todsacerdoti",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27734676"
   },
   {
-    "title": "Freespin: C64 demo running on 1541 floppy drive",
-    "url": "http://www.quiss.org/freespin/",
-    "upvotes": 143,
-    "author": "matthiaskramm",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27723772"
+    "title": "Everything useful I know about kubectl",
+    "url": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
+    "upvotes": 199,
+    "author": "alexhwoods",
+    "comments": 68,
+    "link": "https://news.ycombinator.com/item?id=27737064"
+  },
+  {
+    "title": "Measuring memory usage in Python: it’s tricky",
+    "url": "https://pythonspeed.com/articles/measuring-memory-python/",
+    "upvotes": 79,
+    "author": "itamarst",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27738566"
+  },
+  {
+    "title": "Design Engineering Handbook [pdf]",
+    "url": "https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf",
+    "upvotes": 52,
+    "author": "luispa",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27739751"
   },
   {
     "title": "Tony Hoare answers questions [video]",
     "url": "https://www.newton.ac.uk/seminar/20210607180018301/",
     "upvotes": 67,
     "author": "timthorn",
-    "comments": 24,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27739494"
-  },
-  {
-    "title": "The Future of Deep Learning Is Photonic",
-    "url": "https://spectrum.ieee.org/computing/hardware/the-future-of-deep-learning-is-photonic",
-    "upvotes": 94,
-    "author": "Anon84",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27738029"
-  },
-  {
-    "title": "Measuring memory usage in Python: it’s tricky",
-    "url": "https://pythonspeed.com/articles/measuring-memory-python/",
-    "upvotes": 77,
-    "author": "itamarst",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27738566"
-  },
-  {
-    "title": "Design Engineering Handbook [pdf]",
-    "url": "https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf",
-    "upvotes": 49,
-    "author": "luispa",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27739751"
-  },
-  {
-    "title": "Everything useful I know about kubectl",
-    "url": "https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/",
-    "upvotes": 190,
-    "author": "alexhwoods",
-    "comments": 67,
-    "link": "https://news.ycombinator.com/item?id=27737064"
   },
   {
     "title": "Highview Developing 50MW/500MWh Liquid Air Energy Storage Facility in Chile",
     "url": "https://highviewpower.com/news_announcement/highview-enlasa-developing-50mw-500mwh-liquid-air-energy-storage-facility-in-the-atacama-region-of-chile/",
-    "upvotes": 84,
+    "upvotes": 85,
     "author": "kieranmaine",
-    "comments": 55,
+    "comments": 59,
     "link": "https://news.ycombinator.com/item?id=27736733"
-  },
-  {
-    "title": "The stock market speaks: How Dr. Alchian learned to build the bomb",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0929119914000546",
-    "upvotes": 74,
-    "author": "mmarq",
-    "comments": 18,
-    "link": "https://news.ycombinator.com/item?id=27697678"
-  },
-  {
-    "title": "Variable Length Arrays are problematic",
-    "url": "https://blog.joren.ga/programming/vla-bad",
-    "upvotes": 10,
-    "author": "todsacerdoti",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27734676"
   },
   {
     "title": "Music for Programming",
     "url": "https://www.musicforprogramming.net/",
-    "upvotes": 241,
+    "upvotes": 242,
     "author": "Vaslo",
-    "comments": 119,
+    "comments": 123,
     "link": "https://news.ycombinator.com/item?id=27737887"
   },
   {
     "title": "A Closer Look at Fractals",
     "url": "https://blog.fract.al/post/62180302979/a-closer-look-at-fractals",
-    "upvotes": 72,
+    "upvotes": 75,
     "author": "signa11",
-    "comments": 14,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27737705"
   },
   {
-    "title": "European plan for gigantic new gravitational wave detector passes milestone",
-    "url": "https://www.sciencemag.org/news/2021/07/european-plan-gigantic-new-gravitational-wave-detector-passes-milestone",
-    "upvotes": 96,
-    "author": "rbanffy",
-    "comments": 76,
-    "link": "https://news.ycombinator.com/item?id=27739499"
+    "title": "Shadows Walking: With Wallace Stevens in New Haven",
+    "url": "https://lareviewofbooks.org/article/shadows-walking-with-wallace-stevens-in-new-haven/",
+    "upvotes": 28,
+    "author": "samclemens",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27735270"
+  },
+  {
+    "title": "The perils of PR",
+    "url": "https://www.economist.com/business/2021/07/03/the-perils-of-pr",
+    "upvotes": 48,
+    "author": "hhs",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27738547"
   }
 ]
