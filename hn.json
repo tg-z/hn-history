@@ -1,74 +1,82 @@
 [
   {
+    "title": "Difftastic: Syntax-aware structured diff tool",
+    "url": "https://github.com/wilfred/difftastic",
+    "upvotes": 98,
+    "author": "ingve",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27768861"
+  },
+  {
     "title": "Apple camera design from iPhone 6S Plus to the 12 Pro Max",
     "url": "https://www.systemplus.fr/wp-content/uploads/2021/06/SPR21553_Camera-Module-Comparison-Vol.-2-iPhone-Evolution_Sample.pdf",
-    "upvotes": 80,
+    "upvotes": 91,
     "author": "giuliomagnifico",
-    "comments": 38,
+    "comments": 50,
     "link": "https://news.ycombinator.com/item?id=27768792"
   },
   {
-    "title": "BGP in a Nutshell",
-    "url": "https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/",
-    "upvotes": 54,
-    "author": "edddie",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27768778"
+    "title": "Understanding REvil: The Ransomware Gang Behind the Kaseya Attack",
+    "url": "https://unit42.paloaltonetworks.com/revil-threat-actors/",
+    "upvotes": 16,
+    "author": "weinzierl",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27769285"
   },
   {
-    "title": "Difftastic: Syntax-aware structured diff tool",
-    "url": "https://github.com/wilfred/difftastic",
-    "upvotes": 75,
-    "author": "ingve",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27768861"
+    "title": "A work-in-progress Magit clone for Neovim",
+    "url": "https://github.com/TimUntersberger/neogit",
+    "upvotes": 18,
+    "author": "JNRowe",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27746942"
   },
   {
     "title": "Show HN: A simple lazy Python Calculation Engine",
     "url": "https://github.com/bsdz/calcengine",
-    "upvotes": 41,
+    "upvotes": 46,
     "author": "bsdz",
-    "comments": 13,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27768826"
   },
   {
     "title": "Sub-zero water splitting marks a new dawn for solar hydrogen production",
     "url": "https://www.chemistryworld.com/news/sub-zero-water-splitting-marks-a-new-dawn-for-solar-hydrogen-production/4013887.article",
-    "upvotes": 135,
+    "upvotes": 136,
     "author": "yusuf_giftworks",
-    "comments": 42,
+    "comments": 45,
     "link": "https://news.ycombinator.com/item?id=27767656"
   },
   {
-    "title": "A call to minimize distraction and respect users’ attention",
-    "url": "http://www.minimizedistraction.com/",
-    "upvotes": 617,
-    "author": "cratermoon",
-    "comments": 227,
-    "link": "https://news.ycombinator.com/item?id=27763834"
-  },
-  {
-    "title": "Understanding REvil: The Ransomware Gang Behind the Kaseya Attack",
-    "url": "https://unit42.paloaltonetworks.com/revil-threat-actors/",
-    "upvotes": 8,
-    "author": "weinzierl",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27769285"
+    "title": "BGP in a Nutshell",
+    "url": "https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/",
+    "upvotes": 57,
+    "author": "edddie",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27768778"
   },
   {
     "title": "PfSense CE 2.5.2 Released",
     "url": "https://www.servethehome.com/pfsense-ce-2-5-2-released-with-updates/",
-    "upvotes": 30,
+    "upvotes": 34,
     "author": "sam345",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27768934"
+  },
+  {
+    "title": "Let's build a simple interpreter for APL, part 2",
+    "url": "https://mathspp.com/blog/lsbasi-apl-part2",
+    "upvotes": 18,
+    "author": "miguendes",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27728071"
   },
   {
     "title": "People may one day drill for copper as they now drill for oil",
     "url": "https://www.economist.com/science-and-technology/2021/07/07/people-may-one-day-drill-for-copper-as-they-now-drill-for-oil",
-    "upvotes": 27,
+    "upvotes": 32,
     "author": "helsinkiandrew",
-    "comments": 22,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27768771"
   },
   {
@@ -78,111 +86,79 @@
   {
     "title": "Runway – Create impossible video",
     "url": "https://runwayml.com/",
-    "upvotes": 288,
+    "upvotes": 295,
     "author": "smusamashah",
-    "comments": 72,
+    "comments": 73,
     "link": "https://news.ycombinator.com/item?id=27766655"
   },
   {
     "title": "TCP Fast Open? Not so fast",
     "url": "https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/",
-    "upvotes": 110,
+    "upvotes": 114,
     "author": "todsacerdoti",
     "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27745422"
   },
   {
-    "title": "Let's build a simple interpreter for APL, part 2",
-    "url": "https://mathspp.com/blog/lsbasi-apl-part2",
-    "upvotes": 11,
-    "author": "miguendes",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27728071"
-  },
-  {
     "title": "China’s gene giant harvests data from millions of women worldwide",
     "url": "https://www.reuters.com/investigates/special-report/health-china-bgi-dna/",
-    "upvotes": 21,
+    "upvotes": 33,
     "author": "emptybits",
-    "comments": 3,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27769406"
   },
   {
     "title": "Manual for a popular facial recognition tool shows how much the software tracks",
     "url": "https://themarkup.org/privacy/2021/07/06/this-manual-for-a-popular-facial-recognition-tool-shows-just-how-much-the-software-tracks-people",
-    "upvotes": 65,
+    "upvotes": 67,
     "author": "type0",
     "comments": 34,
     "link": "https://news.ycombinator.com/item?id=27767032"
   },
   {
-    "title": "I learned that stadiums can have different ads depending on channel and country",
-    "url": "https://www.linkedin.com/posts/ryanjthorpe_today-i-learned-that-stadiums-can-have-different-activity-6817766173917110272-oDMy",
-    "upvotes": 20,
-    "author": "lycopodiopsida",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27769429"
-  },
-  {
-    "title": "Networking I/O with Virtual Threads – Under the hood",
-    "url": "https://inside.java/2021/05/10/networking-io-with-virtual-threads/",
-    "upvotes": 38,
-    "author": "pjmlp",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27744826"
-  },
-  {
     "title": "Sri Lanka’s ancient, almost lost martial art",
     "url": "https://www.atlasobscura.com/articles/angampora-sri-lanka-martial-art",
-    "upvotes": 82,
+    "upvotes": 86,
     "author": "samizdis",
-    "comments": 38,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27767237"
-  },
-  {
-    "title": "JSPatcher, a web-based visual editor to build JavaScript and WebAudio apps",
-    "url": "https://webaudioconf2021.com/paper-a-2/",
-    "upvotes": 70,
-    "author": "MaanuAir",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27745657"
   },
   {
     "title": "Corona Game: A simulation of how Covid-19 spreads",
     "url": "https://koronahra.cz/game",
-    "upvotes": 202,
+    "upvotes": 210,
     "author": "pmontra",
-    "comments": 171,
+    "comments": 175,
     "link": "https://news.ycombinator.com/item?id=27763873"
   },
   {
-    "title": "The cost of the “new way to message on instagram”",
-    "url": "https://www.eff.org/deeplinks/2020/10/cost-new-way-message-instagram",
-    "upvotes": 170,
-    "author": "gmays",
-    "comments": 151,
-    "link": "https://news.ycombinator.com/item?id=27762500"
+    "title": "JSPatcher, a web-based visual editor to build JavaScript and WebAudio apps",
+    "url": "https://webaudioconf2021.com/paper-a-2/",
+    "upvotes": 73,
+    "author": "MaanuAir",
+    "comments": 6,
+    "link": "https://news.ycombinator.com/item?id=27745657"
   },
   {
-    "title": "Reverse Engineer the BL602 WiFi Driver",
-    "url": "https://lupyuen.github.io/articles/wifi",
-    "upvotes": 175,
-    "author": "zdw",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27763031"
+    "title": "A call to minimize distraction and respect users’ attention",
+    "url": "http://www.minimizedistraction.com/",
+    "upvotes": 623,
+    "author": "cratermoon",
+    "comments": 232,
+    "link": "https://news.ycombinator.com/item?id=27763834"
   },
   {
-    "title": "The first on-orbit fuel depot has been deployed",
-    "url": "https://orbitalindex.com/archive/2021-07-07-Issue-124/#a-first-on-orbit-fuel-depot-has-been-deployed",
-    "upvotes": 167,
-    "author": "tectonic",
-    "comments": 48,
-    "link": "https://news.ycombinator.com/item?id=27763763"
+    "title": "Why have there been so many own goals at the Euros?",
+    "url": "https://inews.co.uk/sport/football/own-goals-euros-why-so-many-euro-2020-trend-explained-football-experts-1083944",
+    "upvotes": 9,
+    "author": "sbmthakur",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27769624"
   },
   {
     "title": "Not school or homeschool, but modular learning",
     "url": "https://manisharoses.medium.com/not-school-or-homeschooling-but-modular-learning-5233927f8fc9",
-    "upvotes": 90,
+    "upvotes": 91,
     "author": "actfrench",
     "comments": 85,
     "link": "https://news.ycombinator.com/item?id=27765686"
@@ -190,17 +166,25 @@
   {
     "title": "The James Webb Space Telescope has passed the final mission analysis review",
     "url": "https://www.asc-csa.gc.ca/eng/satellites/jwst/news.asp",
-    "upvotes": 365,
+    "upvotes": 368,
     "author": "guerrilla",
-    "comments": 247,
+    "comments": 249,
     "link": "https://news.ycombinator.com/item?id=27763598"
+  },
+  {
+    "title": "Networking I/O with Virtual Threads – Under the hood",
+    "url": "https://inside.java/2021/05/10/networking-io-with-virtual-threads/",
+    "upvotes": 39,
+    "author": "pjmlp",
+    "comments": 21,
+    "link": "https://news.ycombinator.com/item?id=27744826"
   },
   {
     "title": "Data Structure Visualizations",
     "url": "https://www.cs.usfca.edu/~galles/visualization/Algorithms.html",
-    "upvotes": 386,
+    "upvotes": 390,
     "author": "yurish",
-    "comments": 16,
+    "comments": 18,
     "link": "https://news.ycombinator.com/item?id=27745184"
   },
   {
@@ -208,31 +192,47 @@
     "url": "item?id=27728154",
     "upvotes": 80,
     "author": "freediver",
-    "comments": 80,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=27728154"
-  },
-  {
-    "title": "SVG favicons have some cool benefits",
-    "url": "https://austingil.com/svg-favicons/",
-    "upvotes": 175,
-    "author": "feross",
-    "comments": 58,
-    "link": "https://news.ycombinator.com/item?id=27762970"
   },
   {
     "title": "All public GitHub code was used for Codex/Copilot, regardless of license",
     "url": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
-    "upvotes": 13,
+    "upvotes": 23,
     "author": "fredley",
-    "comments": 9,
+    "comments": 26,
     "link": "https://news.ycombinator.com/item?id=27769440"
   },
   {
-    "title": "An Intern’s Guide to Trading",
-    "url": "https://www.nasdaq.com/articles/an-interns-guide-to-trading-2021-07-01",
-    "upvotes": 328,
-    "author": "6502nerdface",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=27763965"
+    "title": "Launch HN: Evidently AI (YC S21) – Track and Debug ML Models in Production",
+    "url": "item?id=27760627",
+    "upvotes": 93,
+    "author": "elenasamuylova",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27760627"
+  },
+  {
+    "title": "How big should a microservice be?",
+    "url": "https://bovon.org/archives/350",
+    "upvotes": 50,
+    "author": "sidcool",
+    "comments": 35,
+    "link": "https://news.ycombinator.com/item?id=27744355"
+  },
+  {
+    "title": "New type of Supernova explains ancient mystery",
+    "url": "https://bigthink.com/surprising-science/new-type-supernova-discovered-ancient-mystery",
+    "upvotes": 8,
+    "author": "StartupSven",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27769482"
+  },
+  {
+    "title": "DoorDash removing 1-year cliff for equity grants",
+    "url": "https://blog.doordash.com/aligning-reward-with-impact-an-update-to-our-equity-vesting-approach-96bf61d21eda",
+    "upvotes": 212,
+    "author": "matan_a",
+    "comments": 242,
+    "link": "https://news.ycombinator.com/item?id=27765421"
   }
 ]
