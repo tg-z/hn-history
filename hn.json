@@ -1,112 +1,72 @@
 [
   {
-    "title": "Google Internal Comics",
-    "url": "https://goomics.net/",
-    "upvotes": 267,
-    "author": "interlocutor",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=27778774"
+    "title": "What does 100% mean in CSS?",
+    "url": "https://wattenberger.com/blog/css-percents",
+    "upvotes": 46,
+    "author": "feross",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27769291"
   },
   {
-    "title": "Home Assistant iOS app adds local push notification support",
-    "url": "https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202",
-    "upvotes": 126,
-    "author": "balloob",
-    "comments": 44,
-    "link": "https://news.ycombinator.com/item?id=27779453"
-  },
-  {
-    "title": "Facebook’s next-gen build system in rust",
-    "url": "https://developers.facebook.com/blog/post/2021/07/01/future-of-buck",
-    "upvotes": 17,
-    "author": "asimpletune",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27780333"
+    "title": "Functools – The Power of Higher-Order Functions in Python",
+    "url": "https://martinheinz.dev/blog/52",
+    "upvotes": 64,
+    "author": "gilad",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27768211"
   },
   {
     "title": "Building a data team at a mid-stage startup",
     "url": "https://erikbern.com/2021/07/07/the-data-team-a-short-story.html",
-    "upvotes": 331,
+    "upvotes": 344,
     "author": "squarecog",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27777594"
   },
   {
-    "title": "Functools – The Power of Higher-Order Functions in Python",
-    "url": "https://martinheinz.dev/blog/52",
-    "upvotes": 52,
-    "author": "gilad",
-    "comments": 11,
-    "link": "https://news.ycombinator.com/item?id=27768211"
-  },
-  {
-    "title": "What does 100% mean in CSS?",
-    "url": "https://wattenberger.com/blog/css-percents",
-    "upvotes": 33,
-    "author": "feross",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27769291"
-  },
-  {
     "title": "A better business model for video folks",
     "url": "https://streambus.com/",
-    "upvotes": 173,
+    "upvotes": 181,
     "author": "messo",
-    "comments": 63,
+    "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27777894"
-  },
-  {
-    "title": "Python Module of the Week",
-    "url": "https://pymotw.com/3/",
-    "upvotes": 11,
-    "author": "lnyan",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27780303"
   },
   {
     "title": "Camera Repair Course",
     "url": "https://learncamerarepair.com/productlist.php?category=1",
-    "upvotes": 50,
+    "upvotes": 59,
     "author": "brudgers",
-    "comments": 10,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27764115"
   },
   {
     "title": "List of Special Elevator Modes",
     "url": "https://elevation.fandom.com/wiki/List_of_elevator_special_modes",
-    "upvotes": 249,
+    "upvotes": 257,
     "author": "altrus",
-    "comments": 148,
+    "comments": 149,
     "link": "https://news.ycombinator.com/item?id=27776830"
   },
   {
     "title": "The Greatest Regex Trick Ever",
     "url": "http://rexegg.com/regex-best-trick.html",
-    "upvotes": 379,
+    "upvotes": 383,
     "author": "signa11",
-    "comments": 131,
+    "comments": 135,
     "link": "https://news.ycombinator.com/item?id=27774584"
   },
   {
     "title": "We replaced rental brokers with software and filled 200 vacant apartments",
     "url": "https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments",
-    "upvotes": 686,
+    "upvotes": 691,
     "author": "rdgthree",
-    "comments": 501,
+    "comments": 506,
     "link": "https://news.ycombinator.com/item?id=27772907"
-  },
-  {
-    "title": "Reminiscences of the VLSI Revolution",
-    "url": "https://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf",
-    "upvotes": 7,
-    "author": "liyanage",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27769179"
   },
   {
     "title": "TimeTrack Raspberry Pi",
     "url": "https://city-of-bloomington.github.io/timetrack/",
-    "upvotes": 114,
+    "upvotes": 115,
     "author": "ethanpil",
     "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27777077"
@@ -114,102 +74,142 @@
   {
     "title": "Why geothermal isn't ubiquitous and how it might get that way",
     "url": "https://austinvernon.eth.link/blog/geothermal.html",
-    "upvotes": 134,
+    "upvotes": 139,
     "author": "Osiris30",
-    "comments": 89,
+    "comments": 96,
     "link": "https://news.ycombinator.com/item?id=27775927"
+  },
+  {
+    "title": "Google Internal Comics",
+    "url": "https://goomics.net/",
+    "upvotes": 288,
+    "author": "interlocutor",
+    "comments": 108,
+    "link": "https://news.ycombinator.com/item?id=27778774"
   },
   {
     "title": "Hoard-of-bitfonts: bitmap fonts from disused operating systems",
     "url": "https://github.com/robhagemans/hoard-of-bitfonts",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "lnyan",
     "comments": 33,
     "link": "https://news.ycombinator.com/item?id=27773601"
   },
   {
-    "title": "Git-power: emPOWer your commits with bespoke hashes",
-    "url": "https://github.com/CouleeApps/git-power",
-    "upvotes": 18,
-    "author": "breck",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27779856"
+    "title": "Reminiscences of the VLSI Revolution",
+    "url": "https://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf",
+    "upvotes": 8,
+    "author": "liyanage",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27769179"
   },
   {
     "title": "Mozilla rolls out DoH to Canadian users of Firefox",
     "url": "https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/",
-    "upvotes": 205,
+    "upvotes": 208,
     "author": "tristor",
-    "comments": 266,
+    "comments": 267,
     "link": "https://news.ycombinator.com/item?id=27772440"
+  },
+  {
+    "title": "I made a mistake with Terraform and Azure made it worse",
+    "url": "https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html",
+    "upvotes": 109,
+    "author": "todsacerdoti",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27776829"
   },
   {
     "title": "California exodus is a myth, UC research project finds",
     "url": "https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php",
-    "upvotes": 186,
+    "upvotes": 191,
     "author": "MilnerRoute",
-    "comments": 218,
+    "comments": 225,
     "link": "https://news.ycombinator.com/item?id=27777891"
-  },
-  {
-    "title": "EleutherAI One Year Retrospective",
-    "url": "https://blog.eleuther.ai/year-one/",
-    "upvotes": 107,
-    "author": "tehsauce",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27776314"
   },
   {
     "title": "A phone the FBI sold to criminals",
     "url": "https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor",
-    "upvotes": 176,
+    "upvotes": 180,
     "author": "el_duderino",
     "comments": 127,
     "link": "https://news.ycombinator.com/item?id=27773732"
+  },
+  {
+    "title": "EleutherAI One Year Retrospective",
+    "url": "https://blog.eleuther.ai/year-one/",
+    "upvotes": 109,
+    "author": "tehsauce",
+    "comments": 29,
+    "link": "https://news.ycombinator.com/item?id=27776314"
+  },
+  {
+    "title": "Inside a 20-Watt Traveling Wave Tube Amplifier from Apollo",
+    "url": "http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html",
+    "upvotes": 124,
+    "author": "chmaynard",
+    "comments": 28,
+    "link": "https://news.ycombinator.com/item?id=27775089"
+  },
+  {
+    "title": "The Old Computer Challenge",
+    "url": "https://dataswamp.org/~solene/2021-07-07-old-computer-challenge.html",
+    "upvotes": 42,
+    "author": "zdw",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27762986"
+  },
+  {
+    "title": "A Roadmap to Interstellar Flight",
+    "url": "https://arxiv.org/abs/1604.01356",
+    "upvotes": 159,
+    "author": "ra7",
+    "comments": 133,
+    "link": "https://news.ycombinator.com/item?id=27774218"
+  },
+  {
+    "title": "Fibonacci Coding",
+    "url": "https://en.wikipedia.org/wiki/Fibonacci_coding",
+    "upvotes": 41,
+    "author": "cinquemb",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27727214"
   },
   {
     "title": "Mezli",
     "url": "https://mezli.breezy.hr/p/ccb889373361-mechanical-design-engineer"
   },
   {
-    "title": "Inside a 20-Watt Traveling Wave Tube Amplifier from Apollo",
-    "url": "http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html",
-    "upvotes": 122,
-    "author": "chmaynard",
-    "comments": 28,
-    "link": "https://news.ycombinator.com/item?id=27775089"
-  },
-  {
-    "title": "Fibonacci Coding",
-    "url": "https://en.wikipedia.org/wiki/Fibonacci_coding#Example",
-    "upvotes": 38,
-    "author": "cinquemb",
-    "comments": 14,
-    "link": "https://news.ycombinator.com/item?id=27727214"
-  },
-  {
-    "title": "I made a mistake with Terraform and Azure made it worse",
-    "url": "https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html",
-    "upvotes": 104,
-    "author": "todsacerdoti",
-    "comments": 64,
-    "link": "https://news.ycombinator.com/item?id=27776829"
+    "title": "Home Assistant iOS app adds local push notification support",
+    "url": "https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202",
+    "upvotes": 132,
+    "author": "balloob",
+    "comments": 45,
+    "link": "https://news.ycombinator.com/item?id=27779453"
   },
   {
     "title": "Death rates are declining for many common cancers in the U.S., report finds",
     "url": "https://www.statnews.com/2021/07/08/cancer-death-rates-2021/",
-    "upvotes": 185,
+    "upvotes": 189,
     "author": "mpweiher",
-    "comments": 66,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27776184"
   },
   {
     "title": "Twitter begins hiring to comply with India’s new rules",
     "url": "https://www.reuters.com/world/india/twitter-appoints-india-interim-compliance-exec-fill-other-jobs-soon-2021-07-08/",
-    "upvotes": 167,
+    "upvotes": 168,
     "author": "shivbhatt",
-    "comments": 174,
+    "comments": 178,
     "link": "https://news.ycombinator.com/item?id=27772340"
+  },
+  {
+    "title": "All public GitHub code was used in training Copilot",
+    "url": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
+    "upvotes": 822,
+    "author": "fredley",
+    "comments": 609,
+    "link": "https://news.ycombinator.com/item?id=27769440"
   },
   {
     "title": "Launch HN: Hera (YC S21) – macOS app to prepare, join and take notes in meetings",
@@ -220,17 +220,17 @@
     "link": "https://news.ycombinator.com/item?id=27771091"
   },
   {
-    "title": "All public GitHub code was used in training Copilot",
-    "url": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
-    "upvotes": 818,
-    "author": "fredley",
-    "comments": 607,
-    "link": "https://news.ycombinator.com/item?id=27769440"
+    "title": "Show HN: Connect your bank account to Google Sheets",
+    "url": "https://github.com/nordigen/GSheets-track-finances",
+    "upvotes": 47,
+    "author": "robertsbernans",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=27769266"
   },
   {
     "title": "Phorge: A community-maintained fork of Phabricator",
     "url": "https://we.phorge.it/source/phorge/",
-    "upvotes": 107,
+    "upvotes": 108,
     "author": "Redoubts",
     "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27773747"
