@@ -2,23 +2,23 @@
   {
     "title": "Home Assistant iOS app adds local push notification support",
     "url": "https://github.com/home-assistant/iOS/releases/tag/release%2F2021.7%2F2021.202",
-    "upvotes": 65,
+    "upvotes": 76,
     "author": "balloob",
-    "comments": 16,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27779453"
   },
   {
     "title": "Google Internal Comics",
     "url": "https://goomics.net/",
-    "upvotes": 96,
+    "upvotes": 118,
     "author": "interlocutor",
-    "comments": 34,
+    "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27778774"
   },
   {
     "title": "Building a data team at a mid-stage startup",
     "url": "https://erikbern.com/2021/07/07/the-data-team-a-short-story.html",
-    "upvotes": 258,
+    "upvotes": 268,
     "author": "squarecog",
     "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27777594"
@@ -26,47 +26,55 @@
   {
     "title": "Video podcasting",
     "url": "https://streambus.com/",
-    "upvotes": 122,
+    "upvotes": 129,
     "author": "messo",
-    "comments": 42,
+    "comments": 46,
     "link": "https://news.ycombinator.com/item?id=27777894"
   },
   {
     "title": "List of Special Elevator Modes",
     "url": "https://elevation.fandom.com/wiki/List_of_elevator_special_modes",
-    "upvotes": 224,
+    "upvotes": 229,
     "author": "altrus",
-    "comments": 138,
+    "comments": 139,
     "link": "https://news.ycombinator.com/item?id=27776830"
-  },
-  {
-    "title": "Camera Repair Course",
-    "url": "https://learncamerarepair.com/productlist.php?category=1",
-    "upvotes": 24,
-    "author": "brudgers",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27764115"
   },
   {
     "title": "The Greatest Regex Trick Ever",
     "url": "http://rexegg.com/regex-best-trick.html",
-    "upvotes": 342,
+    "upvotes": 348,
     "author": "signa11",
     "comments": 121,
     "link": "https://news.ycombinator.com/item?id=27774584"
   },
   {
+    "title": "Functools – The Power of Higher-Order Functions in Python",
+    "url": "https://martinheinz.dev/blog/52",
+    "upvotes": 13,
+    "author": "gilad",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27768211"
+  },
+  {
+    "title": "Camera Repair Course",
+    "url": "https://learncamerarepair.com/productlist.php?category=1",
+    "upvotes": 26,
+    "author": "brudgers",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27764115"
+  },
+  {
     "title": "We replaced rental brokers with software and filled 200 vacant apartments",
     "url": "https://caretaker.com/blog/we-replaced-rental-brokers-with-software-and-filled-200-vacant-apartments",
-    "upvotes": 652,
+    "upvotes": 657,
     "author": "rdgthree",
-    "comments": 482,
+    "comments": 487,
     "link": "https://news.ycombinator.com/item?id=27772907"
   },
   {
     "title": "TimeTrack Raspberry Pi",
     "url": "https://city-of-bloomington.github.io/timetrack/",
-    "upvotes": 94,
+    "upvotes": 96,
     "author": "ethanpil",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27777077"
@@ -74,34 +82,42 @@
   {
     "title": "Why geothermal isn't ubiquitous and how it might get that way",
     "url": "https://austinvernon.eth.link/blog/geothermal.html",
-    "upvotes": 122,
+    "upvotes": 127,
     "author": "Osiris30",
-    "comments": 81,
+    "comments": 82,
     "link": "https://news.ycombinator.com/item?id=27775927"
   },
   {
     "title": "California exodus is a myth, UC research project finds",
     "url": "https://www.sfgate.com/local/article/California-exodus-is-just-a-myth-massive-UC-16301134.php",
-    "upvotes": 145,
+    "upvotes": 155,
     "author": "MilnerRoute",
-    "comments": 160,
+    "comments": 167,
     "link": "https://news.ycombinator.com/item?id=27777891"
-  },
-  {
-    "title": "I made a mistake with Terraform and Azure made it worse",
-    "url": "https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html",
-    "upvotes": 91,
-    "author": "todsacerdoti",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27776829"
   },
   {
     "title": "Hoard-of-bitfonts: bitmap fonts from disused operating systems",
     "url": "https://github.com/robhagemans/hoard-of-bitfonts",
-    "upvotes": 154,
+    "upvotes": 158,
     "author": "lnyan",
     "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27773601"
+  },
+  {
+    "title": "I made a mistake with Terraform and Azure made it worse",
+    "url": "https://www.craigstuntz.com/posts/2021-07-08-how-i-made-a-giant-mistake-with-terraform.html",
+    "upvotes": 92,
+    "author": "todsacerdoti",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27776829"
+  },
+  {
+    "title": "Mozilla rolls out DoH to Canadian users of Firefox",
+    "url": "https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/",
+    "upvotes": 191,
+    "author": "tristor",
+    "comments": 256,
+    "link": "https://news.ycombinator.com/item?id=27772440"
   },
   {
     "title": "EleutherAI One Year Retrospective",
@@ -112,17 +128,9 @@
     "link": "https://news.ycombinator.com/item?id=27776314"
   },
   {
-    "title": "Mozilla rolls out DoH to Canadian users of Firefox",
-    "url": "https://blog.mozilla.org/en/mozilla/news/firefox-by-default-dns-over-https-rollout-in-canada/",
-    "upvotes": 188,
-    "author": "tristor",
-    "comments": 247,
-    "link": "https://news.ycombinator.com/item?id=27772440"
-  },
-  {
     "title": "Inside a 20-Watt Traveling Wave Tube Amplifier from Apollo",
     "url": "http://www.righto.com/2021/07/inside-20-watt-traveling-wave-tube.html",
-    "upvotes": 116,
+    "upvotes": 117,
     "author": "chmaynard",
     "comments": 28,
     "link": "https://news.ycombinator.com/item?id=27775089"
@@ -142,23 +150,15 @@
   {
     "title": "A phone the FBI sold to criminals",
     "url": "https://www.vice.com/en/article/n7b4gg/anom-phone-arcaneos-fbi-backdoor",
-    "upvotes": 153,
+    "upvotes": 155,
     "author": "el_duderino",
-    "comments": 119,
+    "comments": 121,
     "link": "https://news.ycombinator.com/item?id=27773732"
-  },
-  {
-    "title": "Functools – The Power of Higher-Order Functions in Python",
-    "url": "https://martinheinz.dev/blog/52",
-    "upvotes": 6,
-    "author": "gilad",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27768211"
   },
   {
     "title": "Death rates are declining for many common cancers in the U.S., report finds",
     "url": "https://www.statnews.com/2021/07/08/cancer-death-rates-2021/",
-    "upvotes": 175,
+    "upvotes": 177,
     "author": "mpweiher",
     "comments": 66,
     "link": "https://news.ycombinator.com/item?id=27776184"
@@ -166,18 +166,10 @@
   {
     "title": "You need Software Developers to believe in your project",
     "url": "https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45",
-    "upvotes": 219,
+    "upvotes": 223,
     "author": "replyifuagree",
-    "comments": 232,
+    "comments": 236,
     "link": "https://news.ycombinator.com/item?id=27771219"
-  },
-  {
-    "title": "Show HN: Connect your bank account to Google Sheets",
-    "url": "https://github.com/nordigen/GSheets-track-finances",
-    "upvotes": 41,
-    "author": "robertsbernans",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27769266"
   },
   {
     "title": "Twitter begins hiring to comply with India’s new rules",
@@ -190,7 +182,7 @@
   {
     "title": "Phorge: A community-maintained fork of Phabricator",
     "url": "https://we.phorge.it/source/phorge/",
-    "upvotes": 103,
+    "upvotes": 104,
     "author": "Redoubts",
     "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27773747"
@@ -206,9 +198,9 @@
   {
     "title": "All public GitHub code was used in training Copilot",
     "url": "https://twitter.com/NoraDotCodes/status/1412741339771461635",
-    "upvotes": 784,
+    "upvotes": 787,
     "author": "fredley",
-    "comments": 593,
+    "comments": 594,
     "link": "https://news.ycombinator.com/item?id=27769440"
   },
   {
@@ -230,9 +222,17 @@
   {
     "title": "Birds are dying in the United States and no one knows why",
     "url": "https://www.dw.com/en/birds-are-dying-in-the-united-states-and-no-one-knows-why/a-58163063",
-    "upvotes": 107,
+    "upvotes": 111,
     "author": "tchalla",
-    "comments": 48,
+    "comments": 49,
     "link": "https://news.ycombinator.com/item?id=27778258"
+  },
+  {
+    "title": "A Roadmap to Interstellar Flight",
+    "url": "https://arxiv.org/abs/1604.01356",
+    "upvotes": 153,
+    "author": "ra7",
+    "comments": 124,
+    "link": "https://news.ycombinator.com/item?id=27774218"
   }
 ]
