@@ -2,39 +2,39 @@
   {
     "title": "Creep – a pretty sweet 4px wide pixel font",
     "url": "https://github.com/romeovs/creep",
-    "upvotes": 362,
+    "upvotes": 375,
     "author": "pabs3",
-    "comments": 74,
+    "comments": 79,
     "link": "https://news.ycombinator.com/item?id=27789697"
-  },
-  {
-    "title": "Against SQL",
-    "url": "https://scattered-thoughts.net/writing/against-sql/",
-    "upvotes": 215,
-    "author": "deafcalculus",
-    "comments": 158,
-    "link": "https://news.ycombinator.com/item?id=27791539"
   },
   {
     "title": "Seagate Barracuda Ramp Weakness",
     "url": "https://www.dq-int.co.uk/blog/seagate-barracuda-ramp-weakness/",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "doener",
-    "comments": 11,
+    "comments": 13,
     "link": "https://news.ycombinator.com/item?id=27781146"
+  },
+  {
+    "title": "Against SQL",
+    "url": "https://scattered-thoughts.net/writing/against-sql/",
+    "upvotes": 232,
+    "author": "deafcalculus",
+    "comments": 169,
+    "link": "https://news.ycombinator.com/item?id=27791539"
   },
   {
     "title": "Beetle walking upside down under water surface filmed in Australia",
     "url": "https://www.theguardian.com/environment/2021/jul/09/beetle-that-can-walk-upside-down-under-water-surface-filmed-in-australia-in-world-first",
-    "upvotes": 82,
+    "upvotes": 84,
     "author": "namu-313",
-    "comments": 15,
+    "comments": 16,
     "link": "https://news.ycombinator.com/item?id=27780899"
   },
   {
     "title": "Kmart In-Store Music Tapes [audio]",
     "url": "https://forkeepspodcast.com/71-kmart-in-store-music-tapes-saved-by-mark-davis",
-    "upvotes": 88,
+    "upvotes": 91,
     "author": "niedzielski",
     "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27780527"
@@ -42,25 +42,33 @@
   {
     "title": "Generate a Git repository with 2^28 commits—one for every 7-character shorthash",
     "url": "https://github.com/not-an-aardvark/every-git-commit-shorthash",
-    "upvotes": 202,
+    "upvotes": 206,
     "author": "breck",
-    "comments": 62,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27788238"
   },
   {
     "title": "Programmers, teach non-geeks the true cost of interruptions",
     "url": "https://daedtech.com/programmers-teach-non-geeks-the-true-cost-of-interruptions/",
-    "upvotes": 211,
+    "upvotes": 219,
     "author": "davikrr",
-    "comments": 189,
+    "comments": 193,
     "link": "https://news.ycombinator.com/item?id=27787604"
+  },
+  {
+    "title": "“Cat Person” and Me",
+    "url": "https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html",
+    "upvotes": 144,
+    "author": "jasonhansel",
+    "comments": 101,
+    "link": "https://news.ycombinator.com/item?id=27778689"
   },
   {
     "title": "80% of my traffic is excluded from Google Analytics",
     "url": "https://twitter.com/eric_khun/status/1413724571765809152",
-    "upvotes": 110,
+    "upvotes": 115,
     "author": "eric_khun",
-    "comments": 74,
+    "comments": 80,
     "link": "https://news.ycombinator.com/item?id=27791447"
   },
   {
@@ -74,7 +82,7 @@
   {
     "title": "How I accidentally took down GitHub Actions",
     "url": "https://blog.teddykatz.com/2019/11/12/github-actions-dos.html",
-    "upvotes": 119,
+    "upvotes": 120,
     "author": "l1n",
     "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27789101"
@@ -82,15 +90,15 @@
   {
     "title": "HTTrack Website Copier – Free Software Offline Browser",
     "url": "https://www.httrack.com/",
-    "upvotes": 71,
+    "upvotes": 77,
     "author": "evo_9",
-    "comments": 22,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27789910"
   },
   {
     "title": "Serverless Computing: A Security Perspective",
     "url": "https://arxiv.org/abs/2107.03832",
-    "upvotes": 32,
+    "upvotes": 34,
     "author": "belter",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27783793"
@@ -102,63 +110,71 @@
   {
     "title": "My proposal for scaling open source: don’t",
     "url": "https://www.sicpers.info/2021/07/my-proposal-for-scaling-open-source-dont/",
-    "upvotes": 69,
+    "upvotes": 73,
     "author": "mpweiher",
-    "comments": 13,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27781243"
   },
   {
     "title": "A small town in Sweden fights to preserve Elfdalian, a dying forest language",
     "url": "https://www.pri.org/stories/2021-05-06/small-town-sweden-fights-preserve-elfdalian-dying-forest-language",
-    "upvotes": 169,
+    "upvotes": 170,
     "author": "hashmush",
-    "comments": 165,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=27781293"
   },
   {
     "title": "Show HN: Earthly – Better Builds",
     "url": "https://earthly.dev/",
-    "upvotes": 196,
+    "upvotes": 198,
     "author": "agbell",
-    "comments": 59,
+    "comments": 64,
     "link": "https://news.ycombinator.com/item?id=27785323"
   },
   {
-    "title": "Cauliflower and Chaos, Fractals in Every Floret",
-    "url": "https://www.nytimes.com/2021/07/08/science/cauliflower-fractals.html",
-    "upvotes": 44,
-    "author": "gumby",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27776154"
+    "title": "CMake Part 1 – The Dark Arts",
+    "url": "https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/",
+    "upvotes": 77,
+    "author": "baydonFlyer",
+    "comments": 43,
+    "link": "https://news.ycombinator.com/item?id=27781377"
+  },
+  {
+    "title": "Cheating in FPS by using a second computer to move mouse",
+    "url": "https://arstechnica.com/?p=1779166",
+    "upvotes": 125,
+    "author": "tarunupaday",
+    "comments": 86,
+    "link": "https://news.ycombinator.com/item?id=27790723"
   },
   {
     "title": "Controlling Marantz amplifier using Arduino via “Remote” socket",
     "url": "https://smallhacks.wordpress.com/2021/07/07/controlling-marantz-amplifier-using-arduino-via-remote-socket/",
-    "upvotes": 59,
+    "upvotes": 60,
     "author": "zdw",
     "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27765934"
+  },
+  {
+    "title": "Cauliflower and Chaos, Fractals in Every Floret",
+    "url": "https://www.nytimes.com/2021/07/08/science/cauliflower-fractals.html",
+    "upvotes": 46,
+    "author": "gumby",
+    "comments": 9,
+    "link": "https://news.ycombinator.com/item?id=27776154"
   },
   {
     "title": "How JavaScript Works: deep dive into call, apply, and bind",
     "url": "https://blog.sessionstack.com/how-javascript-works-deep-dive-into-call-apply-and-bind-415f6729c902",
     "upvotes": 188,
     "author": "zlatkov",
-    "comments": 102,
+    "comments": 105,
     "link": "https://news.ycombinator.com/item?id=27770968"
-  },
-  {
-    "title": "“Cat Person” and Me",
-    "url": "https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html",
-    "upvotes": 141,
-    "author": "jasonhansel",
-    "comments": 92,
-    "link": "https://news.ycombinator.com/item?id=27778689"
   },
   {
     "title": "A New Planet in the System",
     "url": "https://www.laphamsquarterly.org/roundtable/new-planet-system",
-    "upvotes": 14,
+    "upvotes": 15,
     "author": "samclemens",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27779746"
@@ -166,25 +182,25 @@
   {
     "title": "Uber and Lyft surge pricing drives SF customers back to taxis",
     "url": "https://www.sfexaminer.com/news/rideshare-surge-pricing-drives-angry-sf-customers-back-to-taxis/",
-    "upvotes": 203,
+    "upvotes": 204,
     "author": "edward",
-    "comments": 180,
+    "comments": 184,
     "link": "https://news.ycombinator.com/item?id=27788212"
   },
   {
-    "title": "Advice on the privacy and personal data protection aspects of a digital euro [pdf]",
-    "url": "https://edpb.europa.eu/system/files/2021-07/edpb_letter_out_2021_0105-digitaleuro-toec_en_0.pdf",
-    "upvotes": 21,
-    "author": "Tomte",
-    "comments": 5,
-    "link": "https://news.ycombinator.com/item?id=27791789"
+    "title": "The coupon code is a slap in the face",
+    "url": "https://justinjackson.ca/the-coupon-code-is-a-slap-in-the-face",
+    "upvotes": 8,
+    "author": "amzans",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27792391"
   },
   {
     "title": "Reconstructing Roman Industrial Engineering",
     "url": "https://arstechnica.com/science/2021/07/reconstructing-roman-industrial-engineering/",
     "upvotes": 91,
     "author": "samizdis",
-    "comments": 28,
+    "comments": 29,
     "link": "https://news.ycombinator.com/item?id=27770705"
   },
   {
@@ -196,43 +212,27 @@
     "link": "https://news.ycombinator.com/item?id=27783939"
   },
   {
-    "title": "Cheating in FPS by using a second computer to move mouse",
-    "url": "https://arstechnica.com/?p=1779166",
-    "upvotes": 121,
-    "author": "tarunupaday",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=27790723"
+    "title": "Advice on the privacy and personal data protection aspects of a digital euro [pdf]",
+    "url": "https://edpb.europa.eu/system/files/2021-07/edpb_letter_out_2021_0105-digitaleuro-toec_en_0.pdf",
+    "upvotes": 23,
+    "author": "Tomte",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27791789"
   },
   {
     "title": "SpriteStack Voxel Editor",
     "url": "https://spritestack.io/",
-    "upvotes": 297,
+    "upvotes": 299,
     "author": "myth_drannon",
     "comments": 65,
     "link": "https://news.ycombinator.com/item?id=27783490"
-  },
-  {
-    "title": "CMake Part 1 – The Dark Arts",
-    "url": "https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/",
-    "upvotes": 77,
-    "author": "baydonFlyer",
-    "comments": 42,
-    "link": "https://news.ycombinator.com/item?id=27781377"
-  },
-  {
-    "title": "A Well-Woven Tale: The fabric of the modern world",
-    "url": "https://www.historytoday.com/archive/review/well-woven-tale",
-    "upvotes": 14,
-    "author": "drdee",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27780582"
   },
   {
     "title": "The Private Life of a Cat",
     "url": "https://daily.jstor.org/the-private-life-of-a-cat/",
     "upvotes": 59,
     "author": "benbreen",
-    "comments": 14,
+    "comments": 15,
     "link": "https://news.ycombinator.com/item?id=27767494"
   }
 ]
