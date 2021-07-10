@@ -1,90 +1,134 @@
 [
   {
+    "title": "Linux Audio Is Dead",
+    "url": "https://non.tuxfamily.org/wiki/2021-02-07%20Linux%20Audio%20is%20Dead",
+    "upvotes": 161,
+    "author": "beprogrammed",
+    "comments": 44,
+    "link": "https://news.ycombinator.com/item?id=27789952"
+  },
+  {
     "title": "Creep – a pretty sweet 4px wide pixel font",
     "url": "https://github.com/romeovs/creep",
-    "upvotes": 34,
+    "upvotes": 106,
     "author": "pabs3",
-    "comments": 5,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27789697"
   },
   {
     "title": "A small town in Sweden fights to preserve Elfdalian, a dying forest language",
     "url": "https://www.pri.org/stories/2021-05-06/small-town-sweden-fights-preserve-elfdalian-dying-forest-language",
-    "upvotes": 82,
+    "upvotes": 98,
     "author": "hashmush",
-    "comments": 31,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27781293"
   },
   {
     "title": "Generate a Git repository with 2^28 commits—one for every 7-character shorthash",
     "url": "https://github.com/not-an-aardvark/every-git-commit-shorthash",
-    "upvotes": 103,
+    "upvotes": 118,
     "author": "breck",
-    "comments": 46,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27788238"
-  },
-  {
-    "title": "How JavaScript Works: deep dive into call, apply, and bind",
-    "url": "https://blog.sessionstack.com/how-javascript-works-deep-dive-into-call-apply-and-bind-415f6729c902",
-    "upvotes": 78,
-    "author": "zlatkov",
-    "comments": 62,
-    "link": "https://news.ycombinator.com/item?id=27770968"
   },
   {
     "title": "How to achieve sustainable remote work",
     "url": "https://www.newyorker.com/culture/cultural-comment/how-to-achieve-sustainable-remote-work",
-    "upvotes": 7,
+    "upvotes": 24,
     "author": "necrotic_comp",
-    "comments": null,
+    "comments": 5,
     "link": "https://news.ycombinator.com/item?id=27789750"
+  },
+  {
+    "title": "“Cat Person” and Me",
+    "url": "https://slate.com/human-interest/2021/07/cat-person-kristen-roupenian-viral-story-about-me.html",
+    "upvotes": 26,
+    "author": "jasonhansel",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27778689"
+  },
+  {
+    "title": "How JavaScript Works: deep dive into call, apply, and bind",
+    "url": "https://blog.sessionstack.com/how-javascript-works-deep-dive-into-call-apply-and-bind-415f6729c902",
+    "upvotes": 95,
+    "author": "zlatkov",
+    "comments": 71,
+    "link": "https://news.ycombinator.com/item?id=27770968"
+  },
+  {
+    "title": "It's Official. We Can Now Harvest Usable Lithium from Seawater",
+    "url": "https://interestingengineering.com/lithium-from-seawater",
+    "upvotes": 41,
+    "author": "SQL2219",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27789995"
+  },
+  {
+    "title": "How I accidentally took down GitHub Actions",
+    "url": "https://blog.teddykatz.com/2019/11/12/github-actions-dos.html",
+    "upvotes": 37,
+    "author": "l1n",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27789101"
   },
   {
     "title": "SpriteStack Voxel Editor",
     "url": "https://spritestack.io/",
-    "upvotes": 269,
+    "upvotes": 275,
     "author": "myth_drannon",
-    "comments": 51,
+    "comments": 54,
     "link": "https://news.ycombinator.com/item?id=27783490"
   },
   {
     "title": "Show HN: Earthly – Better Builds",
     "url": "https://earthly.dev/",
-    "upvotes": 168,
+    "upvotes": 172,
     "author": "agbell",
-    "comments": 47,
+    "comments": 51,
     "link": "https://news.ycombinator.com/item?id=27785323"
-  },
-  {
-    "title": "Controlling Marantz amplifier using Arduino via “Remote” socket",
-    "url": "https://smallhacks.wordpress.com/2021/07/07/controlling-marantz-amplifier-using-arduino-via-remote-socket/",
-    "upvotes": 35,
-    "author": "zdw",
-    "comments": 10,
-    "link": "https://news.ycombinator.com/item?id=27765934"
   },
   {
     "title": "Barry Diller: The movie business as before is finished and will never come back",
     "url": "https://www.npr.org/2021/07/08/1014095135/barry-diller-headed-2-hollywood-studios-he-now-says-the-movie-business-is-dead",
-    "upvotes": 200,
+    "upvotes": 206,
     "author": "danso",
-    "comments": 394,
+    "comments": 418,
     "link": "https://news.ycombinator.com/item?id=27782829"
   },
   {
-    "title": "How I accidentally took down GitHub Actions",
-    "url": "https://blog.teddykatz.com/2019/11/12/github-actions-dos.html",
-    "upvotes": 10,
-    "author": "l1n",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27789101"
+    "title": "Controlling Marantz amplifier using Arduino via “Remote” socket",
+    "url": "https://smallhacks.wordpress.com/2021/07/07/controlling-marantz-amplifier-using-arduino-via-remote-socket/",
+    "upvotes": 40,
+    "author": "zdw",
+    "comments": 13,
+    "link": "https://news.ycombinator.com/item?id=27765934"
+  },
+  {
+    "title": "Are animals more conscious than we are?",
+    "url": "https://erikhoel.substack.com/p/on-rabbits",
+    "upvotes": 17,
+    "author": "erikhoel",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27789279"
+  },
+  {
+    "title": "SafeButler",
+    "url": "https://www.safebutler.com/careers"
+  },
+  {
+    "title": "Show HN: Homer – A tool to build interactive textbooks",
+    "url": "https://usehomer.app",
+    "upvotes": 17,
+    "author": "Outofthebot",
+    "comments": 8,
+    "link": "https://news.ycombinator.com/item?id=27787426"
   },
   {
     "title": "CMake Part 1 – The Dark Arts",
     "url": "https://blog.feabhas.com/2021/07/cmake-part-1-the-dark-arts/",
-    "upvotes": 21,
+    "upvotes": 29,
     "author": "baydonFlyer",
-    "comments": null,
+    "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27781377"
   },
   {
@@ -96,29 +140,17 @@
     "link": "https://news.ycombinator.com/item?id=27776154"
   },
   {
-    "title": "SafeButler",
-    "url": "https://www.safebutler.com/careers"
-  },
-  {
-    "title": "Show HN: Homer – A tool to build interactive textbooks",
-    "url": "item?id=27787426",
-    "upvotes": 8,
-    "author": "Outofthebot",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27787426"
-  },
-  {
-    "title": "Surveilling the Gamers: Privacy Impacts of the Video Game Industry",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881279",
-    "upvotes": 48,
-    "author": "infodocket",
-    "comments": 22,
-    "link": "https://news.ycombinator.com/item?id=27788380"
+    "title": "The Gull Next Door",
+    "url": "https://www.hakaimagazine.com/features/the-gull-next-door/",
+    "upvotes": 3,
+    "author": "Thevet",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27780596"
   },
   {
     "title": "Launch HN: Pabio (YC S21) – Interior design and furniture rental as a service",
     "url": "item?id=27783939",
-    "upvotes": 72,
+    "upvotes": 73,
     "author": "anandchowdhary",
     "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27783939"
@@ -126,113 +158,81 @@
   {
     "title": "A simple mistake that stuffed up world temperature records for 90 years",
     "url": "https://www.abc.net.au/news/2021-07-09/global-temperature-record-mistake/100244736",
-    "upvotes": 107,
+    "upvotes": 117,
     "author": "adrian_mrd",
-    "comments": 82,
+    "comments": 88,
     "link": "https://news.ycombinator.com/item?id=27783755"
+  },
+  {
+    "title": "Surveilling the Gamers: Privacy Impacts of the Video Game Industry",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3881279",
+    "upvotes": 55,
+    "author": "infodocket",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=27788380"
   },
   {
     "title": "NDA expired, let’s spill the beans on a weird startup",
     "url": "https://shkspr.mobi/blog/2021/07/nda-expired-lets-spill-the-beans-on-a-weird-startup/",
-    "upvotes": 1135,
+    "upvotes": 1167,
     "author": "pimterry",
-    "comments": 397,
+    "comments": 407,
     "link": "https://news.ycombinator.com/item?id=27782604"
   },
   {
     "title": "Automating programming: AI is transforming the coding of computer programs",
     "url": "https://www.economist.com/science-and-technology/2021/07/07/ai-is-transforming-the-coding-of-computer-programs",
-    "upvotes": 83,
+    "upvotes": 87,
     "author": "edward",
-    "comments": 123,
+    "comments": 134,
     "link": "https://news.ycombinator.com/item?id=27784115"
-  },
-  {
-    "title": "The historical significance of DEC and the PDP-7, -8, -11 and VAX",
-    "url": "https://liam-on-linux.livejournal.com/81341.html",
-    "upvotes": 112,
-    "author": "lproven",
-    "comments": 57,
-    "link": "https://news.ycombinator.com/item?id=27770159"
   },
   {
     "title": "VPN – A Very Precarious Narrative",
     "url": "https://overengineer.dev/blog/2019/04/08/very-precarious-narrative.html",
-    "upvotes": 32,
+    "upvotes": 42,
     "author": "vikrum",
-    "comments": 9,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27788723"
+  },
+  {
+    "title": "The historical significance of DEC and the PDP-7, -8, -11 and VAX",
+    "url": "https://liam-on-linux.livejournal.com/81341.html",
+    "upvotes": 118,
+    "author": "lproven",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27770159"
   },
   {
     "title": "Passive radiative cooling below ambient airtemperature under direct sun",
     "url": "https://web.stanford.edu/group/fan/publication/Raman_Nature_515_540_2014.pdf",
-    "upvotes": 132,
+    "upvotes": 134,
     "author": "_Microft",
-    "comments": 55,
+    "comments": 58,
     "link": "https://news.ycombinator.com/item?id=27782370"
-  },
-  {
-    "title": "Easy Listening Acid Trip: An elevator ride through Sixties psychedelic pop",
-    "url": "https://dangerousminds.net/comments/easy_listening_acid_trip_an_elevator_ride_through_sixties_psychedelic_pop",
-    "upvotes": 112,
-    "author": "tintinnabula",
-    "comments": 39,
-    "link": "https://news.ycombinator.com/item?id=27764614"
   },
   {
     "title": "The Private Life of a Cat",
     "url": "https://daily.jstor.org/the-private-life-of-a-cat/",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "benbreen",
-    "comments": 9,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27767494"
-  },
-  {
-    "title": "Uber and Lyft surge pricing drives SF customers back to taxis",
-    "url": "https://www.sfexaminer.com/news/rideshare-surge-pricing-drives-angry-sf-customers-back-to-taxis/",
-    "upvotes": 110,
-    "author": "edward",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=27788212"
-  },
-  {
-    "title": "No more DSLs: Implement and deploy a distributed system with a single program",
-    "url": "http://catern.com/caternetes.html",
-    "upvotes": 14,
-    "author": "tadkar",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27787314"
   },
   {
     "title": "Reconstructing Roman Industrial Engineering",
     "url": "https://arstechnica.com/science/2021/07/reconstructing-roman-industrial-engineering/",
-    "upvotes": 69,
+    "upvotes": 72,
     "author": "samizdis",
-    "comments": 20,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27770705"
   },
   {
-    "title": "The Politics of Fernando Pessoa",
-    "url": "https://newleftreview.org/issues/ii129/articles/nick-burns-the-politics-of-fernando-pessoa",
-    "upvotes": 55,
-    "author": "apollinaire",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27768795"
-  },
-  {
-    "title": "Alcohol-free beer is fizzing",
-    "url": "https://www.economist.com/business/2021/07/07/alcohol-free-beer-is-fizzing",
-    "upvotes": 112,
+    "title": "Uber and Lyft surge pricing drives SF customers back to taxis",
+    "url": "https://www.sfexaminer.com/news/rideshare-surge-pricing-drives-angry-sf-customers-back-to-taxis/",
+    "upvotes": 131,
     "author": "edward",
-    "comments": 252,
-    "link": "https://news.ycombinator.com/item?id=27784102"
-  },
-  {
-    "title": "New ‘mirror’ fabric can cool wearers by nearly 5°C",
-    "url": "https://www.sciencemag.org/news/2021/07/new-mirror-fabric-can-cool-wearers-nearly-5-c",
-    "upvotes": 335,
-    "author": "jnord",
-    "comments": 195,
-    "link": "https://news.ycombinator.com/item?id=27781545"
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=27788212"
   }
 ]
