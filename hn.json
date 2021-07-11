@@ -1,80 +1,72 @@
 [
   {
-    "title": "Richard Branson ready for today's 'extraordinary' space flight",
-    "url": "https://www.bbc.co.uk/news/science-environment-57790040",
-    "upvotes": 38,
-    "author": "bencollier49",
-    "comments": 34,
-    "link": "https://news.ycombinator.com/item?id=27798941"
-  },
-  {
     "title": "Automated Hydroponic System Build",
     "url": "https://kylegabriel.com/projects/2020/06/automated-hydroponic-system-build.html",
-    "upvotes": 229,
+    "upvotes": 236,
     "author": "NegatioN",
-    "comments": 23,
+    "comments": 25,
     "link": "https://news.ycombinator.com/item?id=27797853"
   },
   {
     "title": "EU withheld a study that shows piracy doesn't hurt sales",
     "url": "https://www.engadget.com/2017-09-22-eu-suppressed-study-piracy-no-sales-impact.html",
-    "upvotes": 96,
+    "upvotes": 148,
     "author": "seesawtron",
-    "comments": 5,
+    "comments": 21,
     "link": "https://news.ycombinator.com/item?id=27798879"
   },
   {
     "title": "'Superager' brains resist the march of time to have memories like 25-year-olds",
     "url": "https://www.sciencealert.com/superagers-with-incredible-memories-have-brains-like-25-year-olds",
-    "upvotes": 68,
+    "upvotes": 73,
     "author": "lnyan",
-    "comments": 28,
+    "comments": 32,
     "link": "https://news.ycombinator.com/item?id=27798202"
+  },
+  {
+    "title": "Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some",
+    "url": "https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html",
+    "upvotes": 195,
+    "author": "todsacerdoti",
+    "comments": 119,
+    "link": "https://news.ycombinator.com/item?id=27796443"
   },
   {
     "title": "Ribbon filter: Practically smaller than Bloom and Xor",
     "url": "https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/",
-    "upvotes": 16,
+    "upvotes": 24,
     "author": "boyter",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27792558"
   },
   {
-    "title": "Using IceWM and a Raspberry Pi as my main PC, sharing my theme, config and some",
-    "url": "https://raymii.org/s/blog/Using_IceWM_and_sharing_my_config_and_tips_tricks.html",
-    "upvotes": 188,
-    "author": "todsacerdoti",
-    "comments": 118,
-    "link": "https://news.ycombinator.com/item?id=27796443"
-  },
-  {
     "title": "How to manually merge two Apple IDs to one",
     "url": "https://www.brianstucki.com/blog/how-to-manually-merge-two-apple-ids-to-one/",
-    "upvotes": 46,
+    "upvotes": 51,
     "author": "js2",
-    "comments": 28,
+    "comments": 30,
     "link": "https://news.ycombinator.com/item?id=27797535"
+  },
+  {
+    "title": "Instagram Has Become SkyMall",
+    "url": "https://clivethompson.medium.com/instagram-has-become-skymall-68b9f2fbbc30",
+    "upvotes": 463,
+    "author": "DLay",
+    "comments": 230,
+    "link": "https://news.ycombinator.com/item?id=27796755"
   },
   {
     "title": "Dot Ink programming language",
     "url": "https://dotink.co/",
-    "upvotes": 45,
+    "upvotes": 49,
     "author": "galfarragem",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27792219"
   },
   {
-    "title": "Instagram Has Become SkyMall",
-    "url": "https://clivethompson.medium.com/instagram-has-become-skymall-68b9f2fbbc30",
-    "upvotes": 448,
-    "author": "DLay",
-    "comments": 220,
-    "link": "https://news.ycombinator.com/item?id=27796755"
-  },
-  {
     "title": "Preschool children rarely seek data when observation and testimony conflict",
     "url": "https://srcd.onlinelibrary.wiley.com/doi/10.1111/cdev.13612",
-    "upvotes": 125,
+    "upvotes": 129,
     "author": "DocFeind",
     "comments": 70,
     "link": "https://news.ycombinator.com/item?id=27795810"
@@ -82,23 +74,15 @@
   {
     "title": "Solar is dirt-cheap and about to get even more powerful",
     "url": "https://www.bloomberg.com/news/articles/2021-07-05/solar-power-is-dirt-cheap-and-about-to-get-even-more-powerful",
-    "upvotes": 238,
+    "upvotes": 247,
     "author": "guerrilla",
-    "comments": 205,
+    "comments": 216,
     "link": "https://news.ycombinator.com/item?id=27796493"
-  },
-  {
-    "title": "The Succotash Quandary",
-    "url": "http://boswell.copernican-tech.com/documentation/thinking/thinking3.html",
-    "upvotes": 8,
-    "author": "Torwald",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27792450"
   },
   {
     "title": "Vladimir Lukyanov’s Water Computer",
     "url": "https://www.amusingplanet.com/2019/12/vladimir-lukyanovs-water-computer.html",
-    "upvotes": 54,
+    "upvotes": 58,
     "author": "nickysielicki",
     "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27782007"
@@ -106,21 +90,25 @@
   {
     "title": "What I learned from Erlang about resiliency in systems design",
     "url": "https://www.mgasch.com/2019/03/crash/",
-    "upvotes": 102,
+    "upvotes": 105,
     "author": "srijan4",
-    "comments": 26,
+    "comments": 27,
     "link": "https://news.ycombinator.com/item?id=27782791"
   },
   {
-    "title": "Jerry",
-    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
+    "title": "A History of Clojure [video]",
+    "url": "https://www.pldi21.org/prerecorded_hopl.11.html",
+    "upvotes": 60,
+    "author": "lukashrb",
+    "comments": 3,
+    "link": "https://news.ycombinator.com/item?id=27782864"
   },
   {
     "title": "Show HN: Tilemaker – DIY vector tiles from OpenStreetMap data",
     "url": "https://tilemaker.org",
-    "upvotes": 70,
+    "upvotes": 72,
     "author": "Doctor_Fegg",
-    "comments": 11,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27781895"
   },
   {
@@ -132,105 +120,117 @@
     "link": "https://news.ycombinator.com/item?id=27768812"
   },
   {
-    "title": "A History of Clojure [video]",
-    "url": "https://www.pldi21.org/prerecorded_hopl.11.html",
-    "upvotes": 56,
-    "author": "lukashrb",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27782864"
+    "title": "Jerry",
+    "url": "https://apply.workable.com/jerry/j/07E1D2B302/"
+  },
+  {
+    "title": "Photonic Computing for Transformative AI",
+    "url": "https://lighton.ai/",
+    "upvotes": 5,
+    "author": "gballan",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27797829"
   },
   {
     "title": "“One Day Longer and Those 13 Boys Would Be Dead”",
     "url": "https://www.zeit.de/wissen/2021-07/thai-cave-rescue-thailand-tham-luang-2018-diver-mikko-paasi",
-    "upvotes": 566,
+    "upvotes": 568,
     "author": "Tomte",
-    "comments": 216,
+    "comments": 218,
     "link": "https://news.ycombinator.com/item?id=27792930"
   },
   {
-    "title": "Fluvio: A programmable data platform",
-    "url": "https://www.infinyon.com/blog/2021/06/introducing-fluvio/",
-    "upvotes": 40,
-    "author": "lukastyrychtr",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27782734"
+    "title": "The strange, sketchy emails a browser extension developer receives",
+    "url": "https://micahcantor.xyz/blog/extension-developer-emails/",
+    "upvotes": 55,
+    "author": "hydroxideOH-",
+    "comments": 18,
+    "link": "https://news.ycombinator.com/item?id=27796932"
   },
   {
     "title": "Ethiopia's controversial mega-dam on Nile tributary",
     "url": "https://phys.org/news/2021-07-ethiopia-controversial-mega-dam.html",
-    "upvotes": 42,
+    "upvotes": 43,
     "author": "samizdis",
     "comments": 72,
     "link": "https://news.ycombinator.com/item?id=27770042"
   },
   {
+    "title": "Richard Branson ready for today's 'extraordinary' space flight",
+    "url": "https://www.bbc.co.uk/news/science-environment-57790040",
+    "upvotes": 50,
+    "author": "bencollier49",
+    "comments": 57,
+    "link": "https://news.ycombinator.com/item?id=27798941"
+  },
+  {
     "title": "Rethinking software testing: perspectives from the world of hardware",
     "url": "https://software.rajivprab.com/2019/04/28/rethinking-software-testing-perspectives-from-the-world-of-hardware/",
-    "upvotes": 83,
+    "upvotes": 84,
     "author": "Jtsummers",
     "comments": 24,
     "link": "https://news.ycombinator.com/item?id=27795061"
   },
   {
-    "title": "The strange, sketchy emails a browser extension developer receives",
-    "url": "https://micahcantor.xyz/blog/extension-developer-emails/",
-    "upvotes": 48,
-    "author": "hydroxideOH-",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27796932"
+    "title": "Fluvio: A programmable data platform",
+    "url": "https://www.infinyon.com/blog/2021/06/introducing-fluvio/",
+    "upvotes": 41,
+    "author": "lukastyrychtr",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27782734"
+  },
+  {
+    "title": "How to Properly Archive a Project",
+    "url": "https://medium.com/james-reads-public-cloud-technology-blog/how-to-properly-archive-a-project-48ddbd0208f8",
+    "upvotes": 24,
+    "author": "xconspirisist",
+    "comments": 7,
+    "link": "https://news.ycombinator.com/item?id=27770080"
   },
   {
     "title": "Spanish Sketches",
     "url": "https://drb.ie/articles/anarchism-spanish-sketches/",
-    "upvotes": 24,
+    "upvotes": 27,
     "author": "tintinnabula",
-    "comments": 3,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27791146"
-  },
-  {
-    "title": "There are many ways to safely count",
-    "url": "https://brunocalza.me/there-are-many-ways-to-safely-count/",
-    "upvotes": 7,
-    "author": "brunoac",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27792643"
   },
   {
     "title": "AIeyes: Walking simulator where the world is seen through a realtime neural net",
     "url": "https://tmdev.itch.io/aieyes",
-    "upvotes": 177,
+    "upvotes": 179,
     "author": "polm23",
     "comments": 47,
     "link": "https://news.ycombinator.com/item?id=27792736"
   },
   {
-    "title": "How to Properly Archive a Project",
-    "url": "https://medium.com/james-reads-public-cloud-technology-blog/how-to-properly-archive-a-project-48ddbd0208f8",
-    "upvotes": 21,
-    "author": "xconspirisist",
-    "comments": 6,
-    "link": "https://news.ycombinator.com/item?id=27770080"
-  },
-  {
     "title": "AI voice actors sound more human than ever–and are ready to hire",
     "url": "https://www.technologyreview.com/2021/07/09/1028140/ai-voice-actors-sound-human/",
-    "upvotes": 32,
+    "upvotes": 37,
     "author": "elsewhen",
-    "comments": 21,
+    "comments": 23,
     "link": "https://news.ycombinator.com/item?id=27798427"
   },
   {
     "title": "Golden eggs and better telescopes",
     "url": "https://elevanth.org/blog/2018/09/02/golden_eggs/",
-    "upvotes": 15,
+    "upvotes": 17,
     "author": "chalst",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27797331"
   },
   {
+    "title": "There are many ways to safely count",
+    "url": "https://brunocalza.me/there-are-many-ways-to-safely-count/",
+    "upvotes": 10,
+    "author": "brunoac",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27792643"
+  },
+  {
     "title": "Show HN: Loqbooq – A decision log with Slack integration",
     "url": "https://loqbooq.app",
-    "upvotes": 35,
+    "upvotes": 37,
     "author": "tonyjstark",
     "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27769382"
