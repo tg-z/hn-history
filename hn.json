@@ -2,195 +2,219 @@
   {
     "title": "Organic and regenerative agriculture are revitalizing rural Montana economies",
     "url": "https://montanafreepress.org/2021/07/06/regenerative-agriculture-evitalizing-rural-montana-economies/",
-    "upvotes": 218,
+    "upvotes": 250,
     "author": "DerekBickerton",
-    "comments": 46,
+    "comments": 69,
     "link": "https://news.ycombinator.com/item?id=27809279"
   },
   {
     "title": "NodeMCU ESP32-C3 WiFi and BLE IoT boards show up for about $4",
     "url": "https://www.cnx-software.com/2021/07/12/nodemcu-esp32-c3-wifi-ble-iot-boards/",
-    "upvotes": 65,
+    "upvotes": 84,
     "author": "watchdogtimer",
-    "comments": 28,
+    "comments": 43,
     "link": "https://news.ycombinator.com/item?id=27809802"
-  },
-  {
-    "title": "Javascript Object Signing and Encryption is a Bad Standard",
-    "url": "https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid",
-    "upvotes": 61,
-    "author": "IggleSniggle",
-    "comments": 35,
-    "link": "https://news.ycombinator.com/item?id=27810296"
   },
   {
     "title": "Updating the Go Memory Model",
     "url": "https://research.swtch.com/gomm",
-    "upvotes": 38,
+    "upvotes": 55,
     "author": "gbrown_",
-    "comments": 8,
+    "comments": 12,
     "link": "https://news.ycombinator.com/item?id=27810459"
   },
   {
     "title": "Risk Assessment of GitHub Copilot",
     "url": "https://gist.github.com/0xabad1dea/be18e11beb2e12433d93475d72016902",
-    "upvotes": 187,
+    "upvotes": 199,
     "author": "g_p",
-    "comments": 96,
+    "comments": 102,
     "link": "https://news.ycombinator.com/item?id=27809059"
   },
   {
     "title": "Show HN: Obsidian for Mobile – Plain-text knowledge base on the go",
     "url": "https://obsidian.md/mobile",
-    "upvotes": 459,
+    "upvotes": 475,
     "author": "ericax",
-    "comments": 191,
+    "comments": 206,
     "link": "https://news.ycombinator.com/item?id=27807850"
+  },
+  {
+    "title": "Javascript Object Signing and Encryption is a Bad Standard",
+    "url": "https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid",
+    "upvotes": 65,
+    "author": "IggleSniggle",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27810296"
   },
   {
     "title": "Firefox 90 supports Fetch Metadata Request Headers",
     "url": "https://blog.mozilla.org/security/2021/07/12/firefox-90-supports-fetch-metadata-request-headers/",
-    "upvotes": 109,
+    "upvotes": 114,
     "author": "ykat7",
-    "comments": 47,
+    "comments": 53,
     "link": "https://news.ycombinator.com/item?id=27809027"
-  },
-  {
-    "title": "My business might have 32 days before it's shut down by NYC [video]",
-    "url": "https://www.youtube.com/watch?v=5oDjSoic9Zk",
-    "upvotes": 220,
-    "author": "xbmcuser",
-    "comments": 134,
-    "link": "https://news.ycombinator.com/item?id=27810019"
-  },
-  {
-    "title": "What Are Diffusion Models?",
-    "url": "https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html",
-    "upvotes": 61,
-    "author": "headalgorithm",
-    "comments": 3,
-    "link": "https://news.ycombinator.com/item?id=27808982"
-  },
-  {
-    "title": "People Staring at Computers",
-    "url": "https://kylemcdonald.net/psac/",
-    "upvotes": 641,
-    "author": "BayAreaEscapee",
-    "comments": 254,
-    "link": "https://news.ycombinator.com/item?id=27799859"
   },
   {
     "title": "Heirloom",
     "url": "https://silashouseblog.blogspot.com/2021/06/heirloom.html",
-    "upvotes": 6,
+    "upvotes": 12,
     "author": "mooreds",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27810790"
+  },
+  {
+    "title": "What Are Diffusion Models?",
+    "url": "https://lilianweng.github.io/lil-log/2021/07/11/diffusion-models.html",
+    "upvotes": 71,
+    "author": "headalgorithm",
+    "comments": 4,
+    "link": "https://news.ycombinator.com/item?id=27808982"
+  },
+  {
+    "title": "My business might have 32 days before it's shut down by NYC [video]",
+    "url": "https://www.youtube.com/watch?v=5oDjSoic9Zk",
+    "upvotes": 250,
+    "author": "xbmcuser",
+    "comments": 159,
+    "link": "https://news.ycombinator.com/item?id=27810019"
   },
   {
     "title": "U.S. Pacific Northwest heat wave bakes wheat, fruit crops",
     "url": "https://www.reuters.com/world/us/wither-away-die-us-pacific-northwest-heat-wave-bakes-wheat-fruit-crops-2021-07-12/",
-    "upvotes": 42,
+    "upvotes": 61,
     "author": "dv_dt",
-    "comments": 13,
+    "comments": 35,
     "link": "https://news.ycombinator.com/item?id=27810895"
+  },
+  {
+    "title": "What DeepMind’s AlphaFold 2 really achieved",
+    "url": "https://www.blopig.com/blog/2020/12/casp14-what-google-deepminds-alphafold-2-really-achieved-and-what-it-means-for-protein-folding-biology-and-bioinformatics/",
+    "upvotes": 153,
+    "author": "apsec112",
+    "comments": 80,
+    "link": "https://news.ycombinator.com/item?id=27796709"
+  },
+  {
+    "title": "Dead Startup Toys",
+    "url": "https://deadstartuptoys.com/",
+    "upvotes": 7,
+    "author": "notknifescience",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27811047"
   },
   {
     "title": "MedMe Health",
     "url": "https://www.ycombinator.com/companies/medme-health"
   },
   {
-    "title": "What DeepMind’s AlphaFold 2 really achieved",
-    "url": "https://www.blopig.com/blog/2020/12/casp14-what-google-deepminds-alphafold-2-really-achieved-and-what-it-means-for-protein-folding-biology-and-bioinformatics/",
-    "upvotes": 142,
-    "author": "apsec112",
-    "comments": 77,
-    "link": "https://news.ycombinator.com/item?id=27796709"
+    "title": "It’s Not Always iCache",
+    "url": "https://matklad.github.io/2021/07/10/its-not-always-icache.html",
+    "upvotes": 12,
+    "author": "tjalfi",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27810499"
   },
   {
     "title": "Super Mario 64 game sells for record-breaking $1.5m at auction",
     "url": "https://www.bbc.com/news/technology-57804089",
-    "upvotes": 31,
+    "upvotes": 37,
     "author": "shivbhatt",
-    "comments": 21,
+    "comments": 31,
     "link": "https://news.ycombinator.com/item?id=27810356"
-  },
-  {
-    "title": "I requested my photographs from the Department of Homeland Security",
-    "url": "https://arstechnica.com/tech-policy/2015/02/how-i-requested-my-photographs-from-the-department-of-homeland-security/",
-    "upvotes": 35,
-    "author": "Anon84",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27810354"
   },
   {
     "title": "Longest known continuous record of the Paleozoic discovered in Yukon wilderness",
     "url": "https://phys.org/news/2021-07-longest-paleozoic-yukon-wilderness.html",
-    "upvotes": 20,
+    "upvotes": 23,
     "author": "dnetesn",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27782856"
   },
   {
-    "title": "I wrote a 231-byte Brainfuck compiler by abusing everything",
-    "url": "https://briancallahan.net/blog/20210710.html",
-    "upvotes": 122,
-    "author": "ingve",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27807570"
-  },
-  {
-    "title": "Wayback Machine Downloader",
-    "url": "https://github.com/hartator/wayback-machine-downloader/",
-    "upvotes": 118,
-    "author": "pabs3",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27807376"
+    "title": "I requested my photographs from the Department of Homeland Security",
+    "url": "https://arstechnica.com/tech-policy/2015/02/how-i-requested-my-photographs-from-the-department-of-homeland-security/",
+    "upvotes": 42,
+    "author": "Anon84",
+    "comments": 22,
+    "link": "https://news.ycombinator.com/item?id=27810354"
   },
   {
     "title": "",
     "url": "https://stopachka.essay.dev/post/5/risp-in-rust-lisp",
-    "upvotes": 39,
+    "upvotes": 47,
     "author": "tosh",
-    "comments": 16,
+    "comments": 22,
     "link": "https://news.ycombinator.com/item?id=27810193"
   },
   {
-    "title": "A Chemical Hunger: Mysteries",
-    "url": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/",
-    "upvotes": 86,
-    "author": "apsec112",
-    "comments": 98,
-    "link": "https://news.ycombinator.com/item?id=27796557"
+    "title": "Wayback Machine Downloader",
+    "url": "https://github.com/hartator/wayback-machine-downloader/",
+    "upvotes": 127,
+    "author": "pabs3",
+    "comments": 25,
+    "link": "https://news.ycombinator.com/item?id=27807376"
   },
   {
     "title": "Handwriting Is Better Than Typing When Learning a New Language, Study Finds",
     "url": "https://www.sciencealert.com/handwriting-is-better-than-typing-when-learning-to-read-study-finds",
-    "upvotes": 16,
+    "upvotes": 26,
     "author": "lnyan",
-    "comments": null,
+    "comments": 4,
     "link": "https://news.ycombinator.com/item?id=27810632"
+  },
+  {
+    "title": "Mirror Your Audience: Four Life Lessons from Performance Artist Marina Abramović",
+    "url": "https://fs.blog/2021/07/lessons-marina-abromovic/",
+    "upvotes": 3,
+    "author": "durmonski",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27799305"
+  },
+  {
+    "title": "I wrote a 231-byte Brainfuck compiler by abusing everything",
+    "url": "https://briancallahan.net/blog/20210710.html",
+    "upvotes": 125,
+    "author": "ingve",
+    "comments": 42,
+    "link": "https://news.ycombinator.com/item?id=27807570"
+  },
+  {
+    "title": "A Chemical Hunger: Mysteries",
+    "url": "https://slimemoldtimemold.com/2021/07/07/a-chemical-hunger-part-i-mysteries/",
+    "upvotes": 90,
+    "author": "apsec112",
+    "comments": 104,
+    "link": "https://news.ycombinator.com/item?id=27796557"
   },
   {
     "title": "Windows 11 still doesn't understand our complex lives – and it hurts",
     "url": "https://www.theregister.com/2021/07/12/windows_11_still_doesnt_understand/",
-    "upvotes": 30,
+    "upvotes": 40,
     "author": "nameequalsmain",
-    "comments": 10,
+    "comments": 17,
     "link": "https://news.ycombinator.com/item?id=27810607"
   },
   {
     "title": "The argument for a permanent Olympic City",
     "url": "https://www.popsci.com/science/permanent-olympic-stadium/",
-    "upvotes": 19,
+    "upvotes": 24,
     "author": "davidjytang",
-    "comments": 5,
+    "comments": 14,
     "link": "https://news.ycombinator.com/item?id=27810603"
+  },
+  {
+    "title": "People Staring at Computers",
+    "url": "https://kylemcdonald.net/psac/",
+    "upvotes": 649,
+    "author": "BayAreaEscapee",
+    "comments": 254,
+    "link": "https://news.ycombinator.com/item?id=27799859"
   },
   {
     "title": "NeoApple2: A Port of the Apple2fpga Apple II Emulator to Xilinx FPGAs",
     "url": "https://github.com/zf3/neoapple2",
-    "upvotes": 36,
+    "upvotes": 43,
     "author": "syscall63",
     "comments": 2,
     "link": "https://news.ycombinator.com/item?id=27807942"
@@ -198,41 +222,17 @@
   {
     "title": "Teaching other teachers how to teach CS better",
     "url": "https://cacm.acm.org/magazines/2021/5/252164-teaching-other-teachers-how-to-teach-cs-better/fulltext",
-    "upvotes": 131,
+    "upvotes": 137,
     "author": "robfig",
-    "comments": 65,
+    "comments": 67,
     "link": "https://news.ycombinator.com/item?id=27805966"
   },
   {
     "title": "Sundar Pichai warns of threats to internet freedom",
     "url": "https://www.bbc.com/news/technology-57763382",
-    "upvotes": 142,
+    "upvotes": 148,
     "author": "ptrkmhms",
-    "comments": 171,
+    "comments": 176,
     "link": "https://news.ycombinator.com/item?id=27805937"
-  },
-  {
-    "title": "Tact Filters",
-    "url": "https://www.mit.edu/~jcb/tact.html",
-    "upvotes": 79,
-    "author": "sturza",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27807769"
-  },
-  {
-    "title": "Show HN: Streaming Raspberry Pi Games to a Game Boy Advance",
-    "url": "https://github.com/rodri042/gba-remote-play",
-    "upvotes": 78,
-    "author": "rodri042",
-    "comments": 4,
-    "link": "https://news.ycombinator.com/item?id=27806952"
-  },
-  {
-    "title": "Danny Shanahan, Cartoonist with an Absurd Touch, Dies at 64",
-    "url": "https://www.nytimes.com/2021/07/08/arts/danny-shanahan-cartoonist-with-an-absurd-touch-dies-at-64.html",
-    "upvotes": 19,
-    "author": "fortran77",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27800802"
   }
 ]
