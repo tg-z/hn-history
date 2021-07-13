@@ -1,91 +1,123 @@
 [
   {
-    "title": "Sharing our engineering career framework with the world",
-    "url": "https://dropbox.tech/infrastructure/sharing-our-engineering-career-framework-with-the-world",
-    "upvotes": 130,
-    "author": "atg_abhishek",
-    "comments": 52,
-    "link": "https://news.ycombinator.com/item?id=27817519"
-  },
-  {
-    "title": "Paternity leave: The hidden barriers keeping men at work",
-    "url": "https://www.bbc.com/worklife/article/20210712-paternity-leave-the-hidden-barriers-keeping-men-at-work",
-    "upvotes": 34,
-    "author": "e2e4",
-    "comments": 24,
-    "link": "https://news.ycombinator.com/item?id=27817557"
-  },
-  {
     "title": "This Website is hosted on an Casio fx-9750GII Calculator",
     "url": "http://fxip.as203478.net/",
-    "upvotes": 540,
+    "upvotes": 567,
     "author": "mritzmann",
-    "comments": 165,
+    "comments": 168,
     "link": "https://news.ycombinator.com/item?id=27814080"
+  },
+  {
+    "title": "1.0 Is Released · OpenSearch",
+    "url": "https://opensearch.org/blog/updates/2021/07/opensearch-general-availability-announcement/",
+    "upvotes": 8,
+    "author": "dade",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27818015"
   },
   {
     "title": "RMA: Rapid Motor Adaptation for Legged Robots",
     "url": "https://ashish-kmr.github.io/rma-legged-robots/",
-    "upvotes": 47,
+    "upvotes": 55,
     "author": "lnyan",
-    "comments": 4,
+    "comments": 6,
     "link": "https://news.ycombinator.com/item?id=27817110"
-  },
-  {
-    "title": "The Law of Net Design Costs",
-    "url": "https://software.rajivprab.com/2021/07/11/the-law-of-net-design-costs/",
-    "upvotes": 14,
-    "author": "whack",
-    "comments": null,
-    "link": "https://news.ycombinator.com/item?id=27800220"
-  },
-  {
-    "title": "Borgs are giant extrachromosomal elements",
-    "url": "https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1",
-    "upvotes": 99,
-    "author": "snipped",
-    "comments": 19,
-    "link": "https://news.ycombinator.com/item?id=27816108"
-  },
-  {
-    "title": "TinyPICO – tiny fully-featured ESP32 board",
-    "url": "https://www.tinypico.com/",
-    "upvotes": 206,
-    "author": "taf2",
-    "comments": 84,
-    "link": "https://news.ycombinator.com/item?id=27814434"
-  },
-  {
-    "title": "Lee Ross and the “Fundamental Attribution Error”",
-    "url": "https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b",
-    "upvotes": 87,
-    "author": "deepbow",
-    "comments": 23,
-    "link": "https://news.ycombinator.com/item?id=27815850"
-  },
-  {
-    "title": "Show HN: GPU-Accelerated Inference Hosting",
-    "url": "https://inferrd.com/?gpu",
-    "upvotes": 21,
-    "author": "theo31",
-    "comments": 13,
-    "link": "https://news.ycombinator.com/item?id=27817137"
   },
   {
     "title": "A commemoration of Edsger Dijkstra [pdf]",
     "url": "https://www.cs.utexas.edu/users/EWD/commemoration/EWD-commemoration-2021.pdf",
-    "upvotes": 8,
+    "upvotes": 18,
     "author": "cion",
     "comments": null,
     "link": "https://news.ycombinator.com/item?id=27798764"
   },
   {
+    "title": "The Law of Net Design Costs",
+    "url": "https://software.rajivprab.com/2021/07/11/the-law-of-net-design-costs/",
+    "upvotes": 19,
+    "author": "whack",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27800220"
+  },
+  {
+    "title": "SDF Fractal Noise",
+    "url": "http://iquilezles.org/www/articles/fbmsdf/fbmsdf.htm",
+    "upvotes": 15,
+    "author": "winkywooster",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27817521"
+  },
+  {
+    "title": "TinyPICO – tiny fully-featured ESP32 board",
+    "url": "https://www.tinypico.com/",
+    "upvotes": 215,
+    "author": "taf2",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=27814434"
+  },
+  {
+    "title": "Borgs are giant extrachromosomal elements",
+    "url": "https://www.biorxiv.org/content/10.1101/2021.07.10.451761v1?rss=1",
+    "upvotes": 104,
+    "author": "snipped",
+    "comments": 19,
+    "link": "https://news.ycombinator.com/item?id=27816108"
+  },
+  {
+    "title": "Lee Ross and the “Fundamental Attribution Error”",
+    "url": "https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b",
+    "upvotes": 89,
+    "author": "deepbow",
+    "comments": 24,
+    "link": "https://news.ycombinator.com/item?id=27815850"
+  },
+  {
+    "title": "Show HN: GPU-Accelerated Inference Hosting",
+    "url": "https://inferrd.com/?gpu",
+    "upvotes": 23,
+    "author": "theo31",
+    "comments": 14,
+    "link": "https://news.ycombinator.com/item?id=27817137"
+  },
+  {
+    "title": "Defender",
+    "url": "https://github.com/mwenge/defender",
+    "upvotes": 133,
+    "author": "mwenge",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27814341"
+  },
+  {
     "title": "How to calculate the alignment between BERT and spaCy tokens",
     "url": "https://gist.github.com/tamuhey/af6cbb44a703423556c32798e1e1b704",
-    "upvotes": 49,
+    "upvotes": 51,
     "author": "polm23",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27808430"
+  },
+  {
+    "title": "Dropbox Engineering Career Framework",
+    "url": "https://dropbox.github.io/dbx-career-framework/",
+    "upvotes": 150,
+    "author": "atg_abhishek",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27817519"
+  },
+  {
+    "title": "Why Build Toys",
+    "url": "https://blog.aaronkharris.com/why-build-toys",
+    "upvotes": 180,
+    "author": "akharris",
+    "comments": 65,
+    "link": "https://news.ycombinator.com/item?id=27812192"
+  },
+  {
+    "title": "Does free software benefit from ML models being derived works of training data?",
+    "url": "https://mjg59.dreamwidth.org/57615.html",
+    "upvotes": 18,
+    "author": "pabs3",
+    "comments": 2,
+    "link": "https://news.ycombinator.com/item?id=27817915"
   },
   {
     "title": "The Adapted Words of Memmie Le Blanc",
@@ -96,143 +128,111 @@
     "link": "https://news.ycombinator.com/item?id=27798624"
   },
   {
-    "title": "Defender",
-    "url": "https://github.com/mwenge/defender",
-    "upvotes": 123,
-    "author": "mwenge",
-    "comments": 55,
-    "link": "https://news.ycombinator.com/item?id=27814341"
-  },
-  {
-    "title": "Why Build Toys",
-    "url": "https://blog.aaronkharris.com/why-build-toys",
-    "upvotes": 178,
-    "author": "akharris",
-    "comments": 65,
-    "link": "https://news.ycombinator.com/item?id=27812192"
+    "title": "Temozolomide Is Explosive",
+    "url": "https://blogs.sciencemag.org/pipeline/archives/2021/07/12/temozolimide-is-explosive",
+    "upvotes": 176,
+    "author": "_Microft",
+    "comments": 111,
+    "link": "https://news.ycombinator.com/item?id=27812762"
   },
   {
     "title": "Schrödinger's Code",
     "url": "https://queue.acm.org/detail.cfm?id=3468263",
-    "upvotes": 36,
+    "upvotes": 37,
     "author": "wheresvic4",
     "comments": 9,
     "link": "https://news.ycombinator.com/item?id=27816297"
   },
   {
-    "title": "Temozolomide Is Explosive",
-    "url": "https://blogs.sciencemag.org/pipeline/archives/2021/07/12/temozolimide-is-explosive",
-    "upvotes": 173,
-    "author": "_Microft",
-    "comments": 110,
-    "link": "https://news.ycombinator.com/item?id=27812762"
+    "title": "Mutating and non-mutating Swift contexts",
+    "url": "https://www.swiftbysundell.com/articles/mutating-and-nonmutating-swift-contexts/",
+    "upvotes": 3,
+    "author": "tempodox",
+    "comments": null,
+    "link": "https://news.ycombinator.com/item?id=27800041"
+  },
+  {
+    "title": "Paternity leave: The hidden barriers keeping men at work",
+    "url": "https://www.bbc.com/worklife/article/20210712-paternity-leave-the-hidden-barriers-keeping-men-at-work",
+    "upvotes": 45,
+    "author": "e2e4",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27817557"
+  },
+  {
+    "title": "How to Review Code as a Junior Developer",
+    "url": "https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958",
+    "upvotes": 14,
+    "author": "allenleein",
+    "comments": 5,
+    "link": "https://news.ycombinator.com/item?id=27807060"
   },
   {
     "title": "Spotting a cherry-picked paper",
     "url": "https://www.notion.so/Spotting-a-cherry-picked-paper-19a91d062ef8481b964895a7a43c8429",
     "upvotes": 52,
     "author": "EvgeniyZh",
-    "comments": 7,
+    "comments": 8,
     "link": "https://news.ycombinator.com/item?id=27799045"
-  },
-  {
-    "title": "Use the 'tail' command to monitor everything",
-    "url": "https://blog.robertelder.org/intro-to-tail-command/",
-    "upvotes": 113,
-    "author": "belter",
-    "comments": 53,
-    "link": "https://news.ycombinator.com/item?id=27813808"
-  },
-  {
-    "title": "How to Review Code as a Junior Developer",
-    "url": "https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958",
-    "upvotes": 11,
-    "author": "allenleein",
-    "comments": 2,
-    "link": "https://news.ycombinator.com/item?id=27807060"
-  },
-  {
-    "title": "Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters",
-    "url": "https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters",
-    "upvotes": 722,
-    "author": "samizdis",
-    "comments": 421,
-    "link": "https://news.ycombinator.com/item?id=27814621"
   },
   {
     "title": "Qventus",
     "url": "https://jobs.lever.co/qventus/2f0ee88c-89aa-4374-b724-87bffd5a2086"
   },
   {
+    "title": "Use the 'tail' command to monitor everything",
+    "url": "https://blog.robertelder.org/intro-to-tail-command/",
+    "upvotes": 117,
+    "author": "belter",
+    "comments": 55,
+    "link": "https://news.ycombinator.com/item?id=27813808"
+  },
+  {
     "title": "Mapping Perlin Noise to Angles",
     "url": "https://www.bit-101.com/blog/2021/07/mapping-perlin-noise-to-angles/",
-    "upvotes": 24,
+    "upvotes": 32,
     "author": "ingve",
     "comments": 3,
     "link": "https://news.ycombinator.com/item?id=27807556"
   },
   {
-    "title": "The B-52’s’ “Rock Lobster” brought John Lennon back to music",
-    "url": "https://ultimateclassicrock.com/john-lennon-rock-lobster-b-52s/",
-    "upvotes": 94,
-    "author": "tintinnabula",
-    "comments": 90,
-    "link": "https://news.ycombinator.com/item?id=27803485"
+    "title": "Tesla’s $16k Quote for a $700 Fix Is Why Right to Repair Matters",
+    "url": "https://www.thedrive.com/news/41493/teslas-16000-quote-for-a-700-fix-is-why-right-to-repair-matters",
+    "upvotes": 739,
+    "author": "samizdis",
+    "comments": 425,
+    "link": "https://news.ycombinator.com/item?id=27814621"
   },
   {
     "title": "Organic and regenerative agriculture are revitalizing rural Montana economies",
     "url": "https://montanafreepress.org/2021/07/06/regenerative-agriculture-evitalizing-rural-montana-economies/",
-    "upvotes": 497,
+    "upvotes": 498,
     "author": "DerekBickerton",
-    "comments": 252,
+    "comments": 254,
     "link": "https://news.ycombinator.com/item?id=27809279"
   },
   {
-    "title": "Contrastive Representation Learning",
-    "url": "https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html",
-    "upvotes": 80,
-    "author": "yamrzou",
-    "comments": 15,
-    "link": "https://news.ycombinator.com/item?id=27812862"
-  },
-  {
-    "title": "An Alfvenic reconnecting plasmoid thruster",
-    "url": "https://www.cambridge.org/core/journals/journal-of-plasma-physics/article/an-alfvenic-reconnecting-plasmoid-thruster/F296E45CC504E8FF2586EA79117E2514",
-    "upvotes": 26,
-    "author": "ChuckMcM",
-    "comments": 9,
-    "link": "https://news.ycombinator.com/item?id=27806125"
-  },
-  {
-    "title": "Alan Turing in America",
-    "url": "https://www.privatdozent.co/p/alan-turing-in-america-221",
-    "upvotes": 59,
-    "author": "privatdozent",
-    "comments": 38,
-    "link": "https://news.ycombinator.com/item?id=27813197"
-  },
-  {
-    "title": "Positive Energy Warp Drive from Hidden Geometric Structures",
-    "url": "https://arxiv.org/abs/2104.06488",
-    "upvotes": 127,
-    "author": "ctoth",
-    "comments": 100,
-    "link": "https://news.ycombinator.com/item?id=27816225"
+    "title": "The B-52’s’ “Rock Lobster” brought John Lennon back to music",
+    "url": "https://ultimateclassicrock.com/john-lennon-rock-lobster-b-52s/",
+    "upvotes": 96,
+    "author": "tintinnabula",
+    "comments": 89,
+    "link": "https://news.ycombinator.com/item?id=27803485"
   },
   {
     "title": "Ask HN: How to handle 500+ repositories in GitHub?",
     "url": "item?id=27809110",
-    "upvotes": 4,
+    "upvotes": 11,
     "author": "voorloopnul",
-    "comments": 4,
+    "comments": 10,
     "link": "https://news.ycombinator.com/item?id=27809110"
   },
   {
-    "title": "Wielding lamps and torches shed new light on Stone Age cave art",
-    "url": "https://www.sciencenews.org/article/stone-age-cave-art-lighting-torch-lamp",
-    "upvotes": 53,
-    "author": "diodorus",
-    "comments": 16,
-    "link": "https://news.ycombinator.com/item?id=27798726"
+    "title": "Contrastive Representation Learning",
+    "url": "https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html",
+    "upvotes": 83,
+    "author": "yamrzou",
+    "comments": 15,
+    "link": "https://news.ycombinator.com/item?id=27812862"
   }
 ]
